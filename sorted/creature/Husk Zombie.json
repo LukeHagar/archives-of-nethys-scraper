@@ -1,0 +1,113 @@
+{
+ "ac": 17,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Slow",
+  "Sneak Attack",
+  "Sudden Surge"
+ ],
+ "creature_family": "Zombie",
+ "creature_family_markdown": "[Zombie](/MonsterFamilies.aspx?ID=103)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 55,
+ "hp_raw": "55 ( negative healing )",
+ "id": "creature-1919",
+ "image": [
+  "/Images/Monsters/Zombie_HuskZombie.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Husk Zombie](/Monsters.aspx?ID=1919)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRather than allow a body to rot, some necromancers attempt to dry-cure the corpse to prevent further deterioration. Combined with special reagents, this process can preserve a rudimentary form of intelligence, allowing husk zombies to act more like predators than their mindless kin. Most husk zombies have no memories of their prior lives, though some keep trinkets from that time, oblivious as to why they value such items. A rare few husk zombies retain most of their former knowledge, though they tend to have gaps in their memory.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Zombie_HuskZombie.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Husk Zombie](/Monsters.aspx?ID=1919)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 170</row>\n\n**Perception** +5; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +6, [Intimidation](/Skills.aspx?ID=7) +6, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Slow** A husk zombie is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\r\n\r\n**Items**\r\n[Shortsword](/Weapons.aspx?ID=43)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 55\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 5, slashing 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +11 ([Agile](/Traits.aspx?ID=170), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+4 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +11 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d8+4 bludgeoning\n\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The husk zombie deals an additional 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Sudden Surge** <actions string=\"Free Action\" />  **Trigger** The husk zombie's turn begins; **Effect** The husk zombie has a sudden burst of speed. They are [quickened](/Conditions.aspx?ID=32) this turn and can use the extra action only to Stride or Strike. If the husk zombie's first action this turn is a melee Strike, the target is [flat-footed](/Conditions.aspx?ID=16) against the attack. The husk zombie can't use Sudden Surge again until after they spend at least 10 minutes standing motionless.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Saved Sentience</title>\r\n\r\nThe rituals to make husk zombies (and withered zombies) require extra steps that involve applying special herbs or tonics to the body before burial. Whether the process preserves the creature's memories is unpredictable at best. For most necromancers, this additional preparation seems like a waste of time as they prefer the total obedience of a mindless zombie. Though most husk zombies want only to hunt and kill, a few try to maintain a more balanced, even cosmopolitan lifestyle.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-103\" />",
+ "name": "Husk Zombie",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 170</row>\r\n\r\n**Creature Family** [Zombie](/MonsterFamilies.aspx?ID=103)\r\n\r\n<row gap=\"medium\">\r\n**HP** 55 ( negative healing )\r\n\r\n**AC** 17\r\n\r\n**Fort** +7\r\n\r\n**Ref** +9\r\n\r\n**Will** +7\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRather than allow a body to rot, some necromancers attempt to dry-cure the corpse to prevent further deterioration. Combined with special reagents, …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Deception +6",
+  "Intimidation +6",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +6, [Intimidation](/Skills.aspx?ID=7) +6, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 170"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 170</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Rather than allow a body to rot, some necromancers attempt to dry-cure the corpse to prevent further deterioration. Combined with special reagents, …",
+ "summary_markdown": "Rather than allow a body to rot, some necromancers attempt to dry-cure the corpse to prevent further deterioration. Combined with special reagents, …",
+ "text": " Husk Zombie Rather than allow a body to rot, some necromancers attempt to dry-cure the corpse to prevent further deterioration. Combined with special reagents, this process can preserve a rudimentary form of intelligence, allowing husk zombies to act more like predators than their mindless kin. Most husk zombies have no memories of their prior lives, though some keep trinkets from that time, oblivious as to why they value such items. A rare few husk zombies retain most of their former knowledge, though they tend to have gaps in their memory. Recall Knowledge - Undead (Religion): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Husk Zombie Source Book of the Dead pg. 170 Perception +5; darkvision Languages Common, Necril Skills Athletics +8, Deception +6, Intimidation +6, Stealth +7 Str +4 Dex +3 Con +3 Int -1 Wis +1 Cha +0 Slow A husk zombie is permanently slowed 1 and can't use reactions. Items Shortsword --- AC 17 Fort +7 Ref +9 Will +7 HP 55 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, unconscious Weaknesses positive 5, slashing 5 --- Speed 25 feet Melee Single Action shortsword +11 (Agile, versatile S), Damage 1d6+4 piercing Melee Single Action fist +11 (Agile), Damage 1d8+4 bludgeoning Sneak Attack The husk zombie deals an additional 1d6 precision damage to flat-footed creatures. Sudden Surge Free Action Trigger The husk zombie's turn begins; Effect The husk zombie has a sudden burst of speed. They are quickened this turn and can use the extra action only to Stride or Strike. If the husk zombie's first action this turn is a melee Strike, the target is flat-footed against the attack. The husk zombie can't use Sudden Surge again until after they spend at least 10 minutes standing motionless. Saved Sentience The rituals to make husk zombies (and withered zombies) require extra steps that involve applying special herbs or tonics to the body before burial. Whether the process preserves the creature's memories is unpredictable at best. For most necromancers, this additional preparation seems like a waste of time as they prefer the total obedience of a mindless zombie. Though most husk zombies want only to hunt and kill, a few try to maintain a more balanced, even cosmopolitan lifestyle. ",
+ "trait": [
+  "Undead",
+  "Zombie",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Undead",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1919",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {
+  "positive": 5,
+  "slashing": 5
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 5, slashing 5",
+ "weakness_raw": " positive  5, slashing 5",
+ "will_save": 7,
+ "wisdom": 1
+}

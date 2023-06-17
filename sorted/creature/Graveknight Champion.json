@@ -1,0 +1,121 @@
+{
+ "ac": 38,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 5,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Clutching Armor",
+  "Channel Magic",
+  "Devastating Blast",
+  "Graveknight's Curse",
+  "Weapon Master"
+ ],
+ "creature_family": "Graveknight",
+ "creature_family_markdown": "[Graveknight](/MonsterFamilies.aspx?ID=291)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 275,
+ "hp_raw": "275 ( negative healing , rejuvenation)",
+ "id": "creature-1664",
+ "image": [
+  "/Images/Monsters/GraveknightChampion.png"
+ ],
+ "immunity": [
+  "death",
+  "disease",
+  "fire",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40), [disease](/Traits.aspx?ID=46), [fire](/Traits.aspx?ID=72), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Graveknight Champion](/Monsters.aspx?ID=1664)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nOnce the servant of a deity, the graveknight champion returned as an undead after a life cut short in service to their god.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/GraveknightChampion.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Graveknight Champion](/Monsters.aspx?ID=1664)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 83</row>\n\n**Perception** +27; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +31, [Deity Lore](/Skills.aspx?ID=8) +27, [Intimidation](/Skills.aspx?ID=7) +29, [Religion](/Skills.aspx?ID=13) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** +2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +6\r\n</row>\n\n**Items**\r\n_[greater flaming](/Equipment.aspx?ID=295) [composite shortbow](/Weapons.aspx?ID=75)_ (20 arrows), _+2 [resilient](/Equipment.aspx?ID=279) [full plate](/Armor.aspx?ID=13)_, _[greater flaming](/Equipment.aspx?ID=295) [greatpick](/Weapons.aspx?ID=23)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 38 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 275\r\n([negative healing](/MonsterAbilities.aspx?ID=42), rejuvenation)\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40), [disease](/Traits.aspx?ID=46), [fire](/Traits.aspx?ID=72), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Clutching Armor** <actions string=\"Reaction\" /> ([ &lt;%TRAITS%11%%&gt; arcane](/Traits.aspx?ID=11) &lt;%END>, [ &lt;%TRAITS%157%%&gt; transmutation](/Traits.aspx?ID=157) &lt;%END>) **Trigger** A creature attempts to move away from the graveknight; **Effect** The graveknight's armor animates and attempts to Grab the triggering creature. It makes an [Athletics](/Skills.aspx?ID=3) check to [Grapple](/Actions.aspx?ID=35) using the graveknight's Athletics modifier – 2. The armor can continue to Grapple the creature normally. Since the armor is grappling the creature, the graveknight doesn't need a free hand to do so.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_greatpick_ +31 ([fatal d12](/Traits.aspx?ID=178), [Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d10+16 slashing plus 1d6 fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +30 ([Agile](/Traits.aspx?ID=170), [Fire](/Traits.aspx?ID=72)),\r\n**Damage** 3d6+16 bludgeoning plus 1d6 fire\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_composite shortbow_ +28 ([deadly d10](/Traits.aspx?ID=174), [Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 3d6+10 piercing plus 1d6 fire\r\n\r\n**Innate Divine Spells** DC 33, attack +25\r\n- **Cantrips (7th)**\r\n[Chill Touch](/Spells.aspx?ID=35), [Daze](/Spells.aspx?ID=61), [Light](/Spells.aspx?ID=171), [Shield](/Spells.aspx?ID=280)\r\n- **4th**\r\n[Fireball](/Spells.aspx?ID=119)\r\n- **5th**\r\n[Cone of Cold](/Spells.aspx?ID=47), [Flame Strike](/Spells.aspx?ID=120)\r\n- **6th**\r\n[Fireball](/Spells.aspx?ID=119), [Scorching Ray](/Spells.aspx?ID=992)\r\n- **7th**\r\n[Eclipse Burst](/Spells.aspx?ID=96), [Finger of Death](/Spells.aspx?ID=116)\r\n\r\n**Channel Magic** <actions string=\"Two Actions\" />  The graveknight redirects magical energies through its armor, allowing it to deliver magic through an attack. The graveknight Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell don't occur immediately but are imbued into an attack instead. The graveknight then makes a melee Strike with a weapon or [unarmed](/Traits.aspx?ID=199) attack. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for the graveknight's multiple attack penalty but doesn't apply the penalty until after it's completed Channeling Magic. The graveknight can't use Channel Magic again for 1d4 rounds.\r\n\r\n**Devastating Blast** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) The graveknight unleashes a 30-foot cone of fire. Creatures in the area take 8d12 fire damage(DC 36 [basic](/Rules.aspx?ID=329) Reflex save). The graveknight can use this ability once every 1d4 rounds.\r\n\r\n**Graveknight's Curse**  ([Arcane](/Traits.aspx?ID=11), [Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117)) This curse affects anyone who wears a graveknight's armor for at least 1 hour. **Saving Throw** DC 24 Will save; **Onset** 1 hour; **Stage 1** [doomed 1](/Conditions.aspx?ID=9) and cannot remove the armor (1 day); **Stage 2** doomed 2, hampered 10, and cannot remove the armor (1 day); **Stage 3** dies and transforms into the armor's graveknight.\r\n\r\n**Weapon Master**   The graveknight has access to the [critical specialization effects](/Rules.aspx?ID=235) of any weapons it wields.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-291\" />",
+ "name": "Graveknight Champion",
+ "npc": false,
+ "perception": 27,
+ "rarity": "uncommon",
+ "reflex_save": 26,
+ "release_date": "2021-10-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 83</row>\r\n\r\n**Creature Family** [Graveknight](/MonsterFamilies.aspx?ID=291)\r\n\r\n<row gap=\"medium\">\r\n**HP** 275 ( negative healing , rejuvenation)\r\n\r\n**AC** 38\r\n\r\n**Fort** +28\r\n\r\n**Ref** +26\r\n\r\n**Will** +25\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOnce the servant of a deity, the graveknight champion returned as an undead after a life cut short in service to their god.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +31",
+  "Deity Lore +27",
+  "Intimidation +29",
+  "Religion +27"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +31, [Deity Lore](/Skills.aspx?ID=8) +27, [Intimidation](/Skills.aspx?ID=7) +29, [Religion](/Skills.aspx?ID=13) +27",
+ "source": [
+  "Pathfinder #172: Secrets of the Temple City"
+ ],
+ "source_raw": [
+  "Pathfinder #172: Secrets of the Temple City pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 83</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Eclipse Burst",
+  "Finger of Death",
+  "Fireball",
+  "Scorching Ray",
+  "Cone of Cold",
+  "Flame Strike",
+  "Chill Touch",
+  "Daze",
+  "Light",
+  "Shield"
+ ],
+ "spell_markdown": "[Chill Touch](/Spells.aspx?ID=35), [Cone of Cold](/Spells.aspx?ID=47), [Daze](/Spells.aspx?ID=61), [Eclipse Burst](/Spells.aspx?ID=96), [Finger of Death](/Spells.aspx?ID=116), [Fireball](/Spells.aspx?ID=119), [Flame Strike](/Spells.aspx?ID=120), [Light](/Spells.aspx?ID=171), [Scorching Ray](/Spells.aspx?ID=992), [Shield](/Spells.aspx?ID=280)",
+ "spoilers": "Strength of Thousands",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Once the servant of a deity, the graveknight champion returned as an undead after a life cut short in service to their god.",
+ "summary_markdown": "Once the servant of a deity, the graveknight champion returned as an undead after a life cut short in service to their god.",
+ "text": " Graveknight Champion Once the servant of a deity, the graveknight champion returned as an undead after a life cut short in service to their god. Recall Knowledge - Undead (Religion): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Graveknight Champion Source Pathfinder #172: Secrets of the Temple City pg. 83 Perception +27; darkvision Languages Common, Necril Skills Athletics +31, Deity Lore +27, Intimidation +29, Religion +27 Str +8 Dex +4 Con +5 Int +2 Wis +4 Cha +6 Items greater flaming composite shortbow (20 arrows), +2 resilient full plate , greater flaming greatpick --- AC 38 Fort +28 Ref +26 Will +25 HP 275 (negative healing, rejuvenation) Immunities death, disease, fire, paralyzed, poison, unconscious Attack of Opportunity Reaction Clutching Armor Reaction ( &lt;%TRAITS%11%%&gt; arcane &lt;%END>, &lt;%TRAITS%157%%&gt; transmutation &lt;%END>) Trigger A creature attempts to move away from the graveknight; Effect The graveknight's armor animates and attempts to Grab the triggering creature. It makes an Athletics check to Grapple using the graveknight's Athletics modifier – 2. The armor can continue to Grapple the creature normally. Since the armor is grappling the creature, the graveknight doesn't need a free hand to do so. --- Speed 25 feet Melee Single Action greatpick +31 (fatal d12, Fire, Magical), Damage 3d10+16 slashing plus 1d6 fire Melee Single Action fist +30 (Agile, Fire), Damage 3d6+16 bludgeoning plus 1d6 fire Ranged Single Action composite shortbow +28 (deadly d10, Fire, Magical, range increment 60 feet, reload 0), Damage 3d6+10 piercing plus 1d6 fire Innate Divine Spells DC 33, attack +25 - Cantrips (7th) Chill Touch, Daze, Light, Shield - 4th Fireball - 5th Cone of Cold, Flame Strike - 6th Fireball, Scorching Ray - 7th Eclipse Burst, Finger of Death Channel Magic Two Actions The graveknight redirects magical energies through its armor, allowing it to deliver magic through an attack. The graveknight Casts a Spell that takes 1 or 2 actions to cast and requires a spell attack roll. The effects of the spell don't occur immediately but are imbued into an attack instead. The graveknight then makes a melee Strike with a weapon or unarmed attack. The spell is coupled with the attack, using the attack roll result to determine the effects of both the Strike and the spell. This counts as two attacks for the graveknight's multiple attack penalty but doesn't apply the penalty until after it's completed Channeling Magic. The graveknight can't use Channel Magic again for 1d4 rounds. Devastating Blast Two Actions (Arcane, Evocation, Fire) The graveknight unleashes a 30-foot cone of fire. Creatures in the area take 8d12 fire damage(DC 36 basic Reflex save). The graveknight can use this ability once every 1d4 rounds. Graveknight's Curse (Arcane, Curse, Necromancy) This curse affects anyone who wears a graveknight's armor for at least 1 hour. Saving Throw DC 24 Will save; Onset 1 hour; Stage 1 doomed 1 and cannot remove the armor (1 day); Stage 2 doomed 2, hampered 10, and cannot remove the armor (1 day); Stage 3 dies and transforms into the armor's graveknight. Weapon Master The graveknight has access to the critical specialization effects of any weapons it wields. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1664",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 4
+}

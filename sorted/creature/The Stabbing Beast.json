@@ -1,0 +1,134 @@
+{
+ "ac": 38,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "True Appearance",
+  "Attack of Opportunity",
+  "Blinding Stream",
+  "Change Shape",
+  "Conjure Swords",
+  "Stabbing Beast Venom"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 275,
+ "hp_raw": "275",
+ "id": "creature-1007",
+ "image": [
+  "/Images/Monsters/StabbingBeast.png"
+ ],
+ "immunity": [
+  "poison"
+ ],
+ "immunity_markdown": "[poison](/Traits.aspx?ID=126)",
+ "intelligence": 3,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Common",
+  "Infernal",
+  "Protean",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Protean](/Languages.aspx?ID=33); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[The Stabbing Beast](/Monsters.aspx?ID=1007)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe Stabbing Beast, the divine representative of [Norgorber](/Deities.aspx?ID=13), resembles an immense scorpion with a soft and strangely captivating voice. They appear on Golarion to bury secrets, support the faithful, or aid audacious thefts.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 44\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 42\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 39\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/StabbingBeast.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[The Stabbing Beast](/Monsters.aspx?ID=1007)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Herald\" url=\"/Traits.aspx?ID=330\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 85</row>\n\n**Perception** +27; [greater darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Protean](/Languages.aspx?ID=33); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +25, [Crafting](/Skills.aspx?ID=4) +24, [Deception](/Skills.aspx?ID=5) +26, [Intimidation](/Skills.aspx?ID=7) +26, [Norgorber Lore](/Skills.aspx?ID=8) +28, [Religion](/Skills.aspx?ID=13) +24, [Society](/Skills.aspx?ID=14) +26, [Stealth](/Skills.aspx?ID=15) +29\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +8\r\n\r\n**Con** +4\r\n\r\n**Int** +3\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**True Appearance** <actions string=\"Reaction\" /> **Trigger** The Stabbing Beast is transformed with Change Shape and rolls for initiative; **Effect** The Stabbing Beast ends Change Shape.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 38 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +27 \r\n\r\n+2 status to all saves vs. [mental](/Traits.aspx?ID=106)\r\n</row>\r\n\r\n**HP** 275\n\n**Immunities**\r\n[poison](/Traits.aspx?ID=126)\r\n\r\n**Resistances**\r\nacid 15\r\n\r\n**Weaknesses**\r\ngood 15\r\n\r\n**Attack of Opportunity** <actions string=\"Reaction\" /> Stinger only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npincer +29 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+10 slashing plus 2d8 [persistent bleed](/Conditions.aspx?ID=29) and [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +29 ([fatal d12](/Traits.aspx?ID=178), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+14 piercing plus Stabbing Beast venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +30 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 3d6+10 piercing plus 2d8 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nvenom stream +29 ([range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 5d10 poison plus blinding stream\r\n\r\n**Divine Innate Spells** DC 36\r\n- **4th**\r\n[Charm](/Spells.aspx?ID=34) (at will), [Invisibility](/Spells.aspx?ID=164) (×3), [Suggestion](/Spells.aspx?ID=315) (at will)\r\n- **5th**\r\n[Dimension Door](/Spells.aspx?ID=69) (×3), [Summon Animal](/Spells.aspx?ID=316) (×3; scorpions only)\r\n- **6th**\r\n[Modify Memory](/Spells.aspx?ID=200) (×3)\r\n- **Constant (7th)**\r\n[True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Blinding Stream**  ([Poison](/Traits.aspx?ID=126)) A creature hit by the Stabbing Beast's venom stream must succeed at a DC 33 Fortitude save or become [blinded](/Conditions.aspx?ID=1) for 1d4 rounds.\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The Stabbing Beast takes on the appearance of a Medium humanoid with a scorpion's tail and chitinous, full-body plate armor. This doesn't change their Speed or Strikes, except that their reach becomes 5 feet and they can't make pincer Strikes.\r\n\r\n**Conjure Swords** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Conjuration](/Traits.aspx?ID=33), [Divine](/Traits.aspx?ID=48)) **Requirements** The Stabbing Beast is using Change Shape; **Effect** The Stabbing Beast summons one or two _+2 [greater striking](/Equipment.aspx?ID=280) [keen](/Equipment.aspx?ID=300) [shortswords](/Weapons.aspx?ID=43)_ into their hands. These weapons disappear if they leave the Stabbing Beast's grasp or if the Stabbing Beast ends Change Shape.\r\n\r\n**Stabbing Beast Venom**  ([Poison](/Traits.aspx?ID=126)) While a creature is enfeebled from this poison, it is [doomed 1](/Conditions.aspx?ID=9); **Saving Throw** DC 36; **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage and [enfeebled 2](/Conditions.aspx?ID=13) (1 round); **Stage 2** 4d6 poison damage and enfeebled 2 (1 round); **Stage 3** 6d6 poison damage and enfeebled 3 (1 round)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Heralds</title>\r\n\r\nNearly all deities have a specific representative known as a herald; heralds are as diverse in their appearances and abilities as the gods themselves. A creature with the herald type is always unique. The Stabbing Beast has been slain before—[Norgorber](/Deities.aspx?ID=13) is always swift to replace it with a new Stabbing Beast, allowing the new version to retain memories of the prior version's defeats to spur the herald on to do better in its new incarnation.\r\n</aside>",
+ "name": "The Stabbing Beast",
+ "npc": false,
+ "perception": 27,
+ "rarity": "unique",
+ "reflex_save": 29,
+ "release_date": "2020-10-14",
+ "resistance": {
+  "acid": 15
+ },
+ "resistance_markdown": "acid 15",
+ "resistance_raw": "acid 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Herald\" url=\"/Traits.aspx?ID=330\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 85</row>\n\n<row gap=\"medium\">\r\n**HP** 275\r\n\r\n**AC** 38\r\n\r\n**Fort** +27\r\n\r\n**Ref** +29\r\n\r\n**Will** +27\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe Stabbing Beast, the divine representative of  Norgorber , resembles an immense scorpion with a soft and strangely captivating voice. They appear …\r\n</summary>",
+ "sense": " greater darkvision ,   true seeing  ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +27",
+  "Athletics +25",
+  "Crafting +24",
+  "Deception +26",
+  "Intimidation +26",
+  "Norgorber Lore +28",
+  "Religion +24",
+  "Society +26",
+  "Stealth +29"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +25, [Crafting](/Skills.aspx?ID=4) +24, [Deception](/Skills.aspx?ID=5) +26, [Intimidation](/Skills.aspx?ID=7) +26, [Norgorber Lore](/Skills.aspx?ID=8) +28, [Religion](/Skills.aspx?ID=13) +24, [Society](/Skills.aspx?ID=14) +26, [Stealth](/Skills.aspx?ID=15) +29",
+ "source": [
+  "Pathfinder #160: Assault on Hunting Lodge Seven"
+ ],
+ "source_raw": [
+  "Pathfinder #160: Assault on Hunting Lodge Seven pg. 85"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 85</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell": [
+  "Modify Memory",
+  "Dimension Door",
+  "Summon Animal",
+  "Charm",
+  "Invisibility",
+  "Suggestion",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Dimension Door](/Spells.aspx?ID=69), [Invisibility](/Spells.aspx?ID=164), [Modify Memory](/Spells.aspx?ID=200), [Suggestion](/Spells.aspx?ID=315), [Summon Animal](/Spells.aspx?ID=316), [True Seeing](/Spells.aspx?ID=344)",
+ "spoilers": "Agents of Edgewatch",
+ "stealth": "29",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The Stabbing Beast, the divine representative of  Norgorber , resembles an immense scorpion with a soft and strangely captivating voice. They appear …",
+ "summary_markdown": "The Stabbing Beast, the divine representative of  Norgorber , resembles an immense scorpion with a soft and strangely captivating voice. They appear …",
+ "text": " The Stabbing Beast The Stabbing Beast, the divine representative of Norgorber, resembles an immense scorpion with a soft and strangely captivating voice. They appear on Golarion to bury secrets, support the faithful, or aid audacious thefts. Recall Knowledge - Fiend (Religion): DC 44 Unspecific Lore : DC 42 Specific Lore : DC 39 The Stabbing Beast Source Pathfinder #160: Assault on Hunting Lodge Seven pg. 85 Perception +27; greater darkvision, true seeing Languages Abyssal, Celestial, Common, Infernal, Protean; telepathy 100 feet Skills Acrobatics +27, Athletics +25, Crafting +24, Deception +26, Intimidation +26, Norgorber Lore +28, Religion +24, Society +26, Stealth +29 Str +6 Dex +8 Con +4 Int +3 Wis +4 Cha +3 True Appearance Reaction Trigger The Stabbing Beast is transformed with Change Shape and rolls for initiative; Effect The Stabbing Beast ends Change Shape. --- AC 38 Fort +27 Ref +29 Will +27 +2 status to all saves vs. mental HP 275 Immunities poison Resistances acid 15 Weaknesses good 15 Attack of Opportunity Reaction Stinger only. --- Speed 40 feet Melee Single Action pincer +29 (Agile, Finesse, Magical, reach 15 feet), Damage 2d8+10 slashing plus 2d8 persistent bleed and Improved Grab Melee Single Action stinger +29 (fatal d12, Finesse, Magical, reach 15 feet), Damage 4d8+14 piercing plus Stabbing Beast venom Melee Single Action shortsword +30 (Agile, Finesse, Magical, versatile S), Damage 3d6+10 piercing plus 2d8 persistent bleed Ranged Single Action venom stream +29 (range increment 60 feet), Damage 5d10 poison plus blinding stream Divine Innate Spells DC 36 - 4th Charm (at will), Invisibility (×3), Suggestion (at will) - 5th Dimension Door (×3), Summon Animal (×3; scorpions only) - 6th Modify Memory (×3) - Constant (7th) True Seeing Blinding Stream (Poison) A creature hit by the Stabbing Beast's venom stream must succeed at a DC 33 Fortitude save or become blinded for 1d4 rounds. Change Shape Single Action (Concentrate, Divine, Polymorph, Transmutation) The Stabbing Beast takes on the appearance of a Medium humanoid with a scorpion's tail and chitinous, full-body plate armor. This doesn't change their Speed or Strikes, except that their reach becomes 5 feet and they can't make pincer Strikes. Conjure Swords Single Action (Concentrate, Conjuration, Divine) Requirements The Stabbing Beast is using Change Shape; Effect The Stabbing Beast summons one or two +2 greater striking keen shortswords into their hands. These weapons disappear if they leave the Stabbing Beast's grasp or if the Stabbing Beast ends Change Shape. Stabbing Beast Venom (Poison) While a creature is enfeebled from this poison, it is doomed 1; Saving Throw DC 36; Maximum Duration 6 rounds; Stage 1 3d6 poison damage and enfeebled 2 (1 round); Stage 2 4d6 poison damage and enfeebled 2 (1 round); Stage 3 6d6 poison damage and enfeebled 3 (1 round) Heralds Nearly all deities have a specific representative known as a herald; heralds are as diverse in their appearances and abilities as the gods themselves. A creature with the herald type is always unique. The Stabbing Beast has been slain before—Norgorber is always swift to replace it with a new Stabbing Beast, allowing the new version to retain memories of the prior version's defeats to spur the herald on to do better in its new incarnation. ",
+ "trait": [
+  "Fiend",
+  "Herald",
+  "Unique",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Herald](/Traits.aspx?ID=330), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Fiend",
+  "Herald",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1007",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {
+  "good": 15
+ },
+ "weakness_markdown": "good 15",
+ "weakness_raw": "good 15",
+ "will_save": 27,
+ "wisdom": 4
+}

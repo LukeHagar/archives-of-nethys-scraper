@@ -1,0 +1,105 @@
+{
+ "ac": 28,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 6,
+ "creature_ability": [
+  "Powerful Stench",
+  "Bouncing Crush",
+  "Breath Weapon"
+ ],
+ "creature_family": "Gibtas",
+ "creature_family_markdown": "[Gibtas](/MonsterFamilies.aspx?ID=213)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 140,
+ "hp_raw": "140",
+ "id": "creature-1047",
+ "image": [
+  "/Images/Monsters/Gibtas_Gibtanius.png"
+ ],
+ "immunity": [
+  "acid"
+ ],
+ "immunity_markdown": "acid",
+ "intelligence": -3,
+ "language": [
+  "Aklo",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); (can't speak any language)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Gibtanius](/Monsters.aspx?ID=1047)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen a gibtas feeds regularly but never receives sufficient food to procreate, it grows into a mighty gibtanius. They become surly, uncontrolled predators, forsaking their bonded masters to satiate their unending hunger.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gibtas_Gibtanius.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Gibtanius](/Monsters.aspx?ID=1047)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 81</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +18, [Intimidation](/Skills.aspx?ID=7) +15, [Survival](/Skills.aspx?ID=16) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +3\r\n\r\n**Con** +6\r\n\r\n**Int** -3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 140\n\n**Immunities**\r\nacid\r\n\r\n**Resistances**\r\nbludgeoning 10\n\n**Powerful Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 20 feet. A creature that enters the aura must succeed at a DC 26 Fortitude save. On a failure, the creature is [sickened 2](/Conditions.aspx?ID=34); on a critical failure, the creature is also [slowed 1](/Conditions.aspx?ID=35) for as long as it is sickened. A creature that succeeds at its save is temporarily immune for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +20 ([deadly 1d12](/Traits.aspx?ID=174), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+10 piercing plus 1d4 [persistent acid](/Conditions.aspx?ID=29)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspit +17 ([range increment 30 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 2d6 acid plus 1d6 [persistent acid](/Conditions.aspx?ID=29) and 1d6 acid [splash](/Traits.aspx?ID=150)\n\n**Bouncing Crush** <actions string=\"Two Actions\" />  The gibtanius [Leaps](/Actions.aspx?ID=81) and can end this Leap occupying the same space as other creatures. It deals 5d6 bludgeoning damage to each creature in the space it Leaps to (DC 26 basic Reflex save), then [Shoves](/Actions.aspx?ID=38) each of those creatures. If it fails to Shove any creature out of its space, it bounces to the closest available space of its choosing that does not contain any creatures. Bouncing Crush counts as one attack when determining the gibtanius's multiple attack penalty.\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Acid](/Traits.aspx?ID=3), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The gibtanius vomits a stream of acid that deals 9d6 acid damage to all creatures in a 60-foot line (DC 26 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-213\" />",
+ "name": "Gibtanius",
+ "npc": false,
+ "perception": 16,
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2021-02-24",
+ "resistance": {
+  "bludgeoning": 10
+ },
+ "resistance_markdown": "bludgeoning 10",
+ "resistance_raw": "bludgeoning 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 81</row>\r\n\r\n**Creature Family** [Gibtas](/MonsterFamilies.aspx?ID=213)\r\n\r\n<row gap=\"medium\">\r\n**HP** 140\r\n\r\n**AC** 28\r\n\r\n**Fort** +20\r\n\r\n**Ref** +15\r\n\r\n**Will** +16\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a gibtas feeds regularly but never receives sufficient food to procreate, it grows into a mighty gibtanius. They become surly, uncontrolled …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +18",
+  "Intimidation +15",
+  "Survival +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +18, [Intimidation](/Skills.aspx?ID=7) +15, [Survival](/Skills.aspx?ID=16) +16",
+ "source": [
+  "Pathfinder #164: Hands of the Devil"
+ ],
+ "source_raw": [
+  "Pathfinder #164: Hands of the Devil pg. 81"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 81</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Abomination Vaults",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "When a gibtas feeds regularly but never receives sufficient food to procreate, it grows into a mighty gibtanius. They become surly, uncontrolled …",
+ "summary_markdown": "When a gibtas feeds regularly but never receives sufficient food to procreate, it grows into a mighty gibtanius. They become surly, uncontrolled …",
+ "text": " Gibtanius When a gibtas feeds regularly but never receives sufficient food to procreate, it grows into a mighty gibtanius. They become surly, uncontrolled predators, forsaking their bonded masters to satiate their unending hunger. Recall Knowledge - Aberration (Occultism): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Gibtanius Source Pathfinder #164: Hands of the Devil pg. 81 Perception +16; darkvision, scent (imprecise) 30 feet Languages Aklo; (can't speak any language) Skills Athletics +18, Intimidation +15, Survival +16 Str +6 Dex +3 Con +6 Int -3 Wis +2 Cha +3 --- AC 28 Fort +20 Ref +15 Will +16 HP 140 Immunities acid Resistances bludgeoning 10 Powerful Stench (aura, olfactory) 20 feet. A creature that enters the aura must succeed at a DC 26 Fortitude save. On a failure, the creature is sickened 2; on a critical failure, the creature is also slowed 1 for as long as it is sickened. A creature that succeeds at its save is temporarily immune for 1 minute. --- Speed 30 feet Melee Single Action jaws +20 (deadly 1d12, reach 10 feet), Damage 2d10+10 piercing plus 1d4 persistent acid Ranged Single Action spit +17 (range increment 30 feet, Splash), Damage 2d6 acid plus 1d6 persistent acid and 1d6 acid splash Bouncing Crush Two Actions The gibtanius Leaps and can end this Leap occupying the same space as other creatures. It deals 5d6 bludgeoning damage to each creature in the space it Leaps to (DC 26 basic Reflex save), then Shoves each of those creatures. If it fails to Shove any creature out of its space, it bounces to the closest available space of its choosing that does not contain any creatures. Bouncing Crush counts as one attack when determining the gibtanius's multiple attack penalty. Breath Weapon Two Actions (Acid, Evocation, Primal) The gibtanius vomits a stream of acid that deals 9d6 acid damage to all creatures in a 60-foot line (DC 26 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds. ",
+ "trait": [
+  "Aberration",
+  "Uncommon",
+  "CN",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1047",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 2
+}

@@ -1,0 +1,107 @@
+{
+ "ac": 18,
+ "alignment": "NG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Cloak in Embers"
+ ],
+ "creature_family": "Elemental, Fire",
+ "creature_family_markdown": "[Elemental, Fire](/MonsterFamilies.aspx?ID=43)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 35,
+ "hp_raw": "35",
+ "id": "creature-655",
+ "image": [
+  "/Images/Monsters/ElementalFire_EmberFox.png"
+ ],
+ "immunity": [
+  "bleed",
+  "fire",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, fire, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -2,
+ "language": [
+  "Ignan",
+  "can't speak any language"
+ ],
+ "language_markdown": "[Ignan](/Languages.aspx?ID=18); can't speak any language",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Ember Fox](/Monsters.aspx?ID=655)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nEmber foxes resemble their canid namesakes, save for the flames that make their fur and the tips of their long whiskers flicker and glow.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ElementalFire_EmberFox.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Ember Fox](/Monsters.aspx?ID=655)</title>\r\n\r\n<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 110 <sup>2.0</sup></row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Ignan](/Languages.aspx?ID=18); can't speak any language\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 35\n\n**Immunities**\r\nbleed, fire, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\ncold 5\r\n\r\n**Cloak in Embers** <actions string=\"Reaction\" /> **Trigger** An adjacent ally is targeted by an effect that deals fire damage; **Effect** The ember fox drapes itself across its ally, granting the ally fire resistance 10 against the incoming attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d4+3 piercing plus 1d4 [persistent fire](/Conditions.aspx?ID=29)\n\n</column>\n\n<document level=\"2\" id=\"creature-family-43\" />",
+ "name": "Ember Fox",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 110 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Elemental, Fire](/MonsterFamilies.aspx?ID=43)\r\n\r\n<row gap=\"medium\">\r\n**HP** 35\r\n\r\n**AC** 18\r\n\r\n**Fort** +6\r\n\r\n**Ref** +10\r\n\r\n**Will** +8\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEmber foxes resemble their canid namesakes, save for the flames that make their fur and the tips of their long whiskers flicker and glow.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +5",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 110"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 110 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Ember foxes resemble their canid namesakes, save for the flames that make their fur and the tips of their long whiskers flicker and glow.",
+ "summary_markdown": "Ember foxes resemble their canid namesakes, save for the flames that make their fur and the tips of their long whiskers flicker and glow.",
+ "text": " Ember Fox Ember foxes resemble their canid namesakes, save for the flames that make their fur and the tips of their long whiskers flicker and glow. Recall Knowledge - Elemental (Arcana, Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Ember Fox Source Bestiary 2 pg. 110 2.0 Perception +8; darkvision Languages Ignan; can't speak any language Skills Acrobatics +8, Athletics +5, Stealth +8 Str +1 Dex +4 Con +2 Int -2 Wis +2 Cha +1 --- AC 18 Fort +6 Ref +10 Will +8 HP 35 Immunities bleed, fire, paralyzed, poison, sleep Weaknesses cold 5 Cloak in Embers Reaction Trigger An adjacent ally is targeted by an effect that deals fire damage; Effect The ember fox drapes itself across its ally, granting the ally fire resistance 10 against the incoming attack. --- Speed 30 feet Melee Single Action jaws +10 (Agile, Finesse), Damage 1d4+3 piercing plus 1d4 persistent fire\n",
+ "trait": [
+  "Elemental",
+  "Fire",
+  "NG",
+  "Small"
+ ],
+ "trait_markdown": "[Elemental](/Traits.aspx?ID=57), [Fire](/Traits.aspx?ID=72)",
+ "trait_raw": [
+  "Elemental",
+  "Fire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=655",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold": 5
+ },
+ "weakness_markdown": "cold 5",
+ "weakness_raw": "cold 5",
+ "will_save": 8,
+ "wisdom": 2
+}

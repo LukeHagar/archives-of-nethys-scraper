@@ -1,0 +1,93 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Adhesive",
+  "Object Lesson",
+  "Mimic Object"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 75,
+ "hp_raw": "75",
+ "id": "creature-300",
+ "image": [
+  "/Images/Monsters/Mimic.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mimic](/Monsters.aspx?ID=300)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThought to be the result of a failed experiment meant to animate objects or a sinister alghollthu creation, mimics are clever monsters that can take the form of common manufactured objects. Mimics are ambush predators and voracious eaters, surprising their prey through their uncanny ability to mimic the form of common furniture and miscellany. They remain disguised until unsuspecting adventurers happen by, then they lash out in ambush.\n\n Mimics possess complex alien minds, and while often cruel and self-serving, they also enjoy conversation with their prey from time to time. For unknown reasons, they are especially interested in humanoids. Mimics have a strong dislike for others of their kind and tend to live alone. A mimic can remain in its alternate form for an extremely long period of time, sometimes remaining disguised in a dungeon chamber for decades. Regardless of how long it waits, the mimic remains vigilant and alert, ready to strike at any moment.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mimic.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Mimic](/Monsters.aspx?ID=300)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 236</row>\n\n**Perception** +9; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Deception](/Skills.aspx?ID=5) +8, [Dwelling Lore](/Skills.aspx?ID=8) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 75\n\n**Adhesive** The mimic is coated in an adhesive slime. Any creature that hits the mimic, is hit by the mimic, or otherwise touches the mimic must succeed at a DC 23 Reflex save or become grabbed (Escape DC 23). A weapon that hits the mimic is stuck to the mimic and can be removed with a successful DC 23 Athletics check (made as a single action). A mimic can have any number of objects or creatures stuck to it at a time. The mimic can release a stuck creature or object by using a single action, and the adhesive dissolves 1 minute after the mimic dies, releasing all stuck objects and creatures.<br /> **Object Lesson** <actions string=\"Reaction\" /> **Trigger** A creature touches or physically interacts with the mimic while the mimic is transformed using Mimic Object. **Effect** The triggering creature is automatically stuck by the mimic’s adhesive (it receives no save). The mimic then makes a pseudopod Strike against any creature adjacent to the mimic. Object Lesson can’t be used again until the mimic escapes and takes on a new disguise.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod + 14,\r\n**Damage** 2d8+4 bludgeoning plus adhesive\n\n**Mimic Object** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127)) The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter its coloration and visual appearance. It has an automatic result of 28 on Deception checks and DCs to pass as the object that it's mimicking.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Creative Mimics</title>\r\n\r\nThe older the mimic, the more creative its guise, but within practical limits. For example, a mimic can appear as a neatly organized bookshelf with a single book out of place, a dried-up cistern with something glittering at its center, or an inconspicuous wooden door with a conveniently placed peephole.\r\n</aside>",
+ "name": "Mimic",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 236</row>\n\n<row gap=\"medium\">\r\n**HP** 75\r\n\r\n**AC** 20\r\n\r\n**Fort** +11\r\n\r\n**Ref** +9\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThought to be the result of a failed experiment meant to animate objects or a sinister alghollthu creation, mimics are clever monsters that can take …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Deception +8",
+  "Dwelling Lore +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Deception](/Skills.aspx?ID=5) +8, [Dwelling Lore](/Skills.aspx?ID=8) +10",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 236"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 236</row>",
+ "speed": {
+  "land": 10,
+  "max": 10
+ },
+ "speed_markdown": "10 feet",
+ "speed_raw": "10 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Thought to be the result of a failed experiment meant to animate objects or a sinister alghollthu creation, mimics are clever monsters that can take …",
+ "summary_markdown": "Thought to be the result of a failed experiment meant to animate objects or a sinister alghollthu creation, mimics are clever monsters that can take …",
+ "text": " Mimic Thought to be the result of a failed experiment meant to animate objects or a sinister alghollthu creation, mimics are clever monsters that can take the form of common manufactured objects. Mimics are ambush predators and voracious eaters, surprising their prey through their uncanny ability to mimic the form of common furniture and miscellany. They remain disguised until unsuspecting adventurers happen by, then they lash out in ambush. Mimics possess complex alien minds, and while often cruel and self-serving, they also enjoy conversation with their prey from time to time. For unknown reasons, they are especially interested in humanoids. Mimics have a strong dislike for others of their kind and tend to live alone. A mimic can remain in its alternate form for an extremely long period of time, sometimes remaining disguised in a dungeon chamber for decades. Regardless of how long it waits, the mimic remains vigilant and alert, ready to strike at any moment. Recall Knowledge - Aberration (Occultism): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Mimic Source Bestiary pg. 236 Perception +9; darkvision Languages Common Skills Athletics +12, Deception +8, Dwelling Lore +10 Str +4 Dex +1 Con +3 Int +0 Wis +1 Cha +0 --- AC 20 Fort +11 Ref +9 Will +9 HP 75 Adhesive The mimic is coated in an adhesive slime. Any creature that hits the mimic, is hit by the mimic, or otherwise touches the mimic must succeed at a DC 23 Reflex save or become grabbed (Escape DC 23). A weapon that hits the mimic is stuck to the mimic and can be removed with a successful DC 23 Athletics check (made as a single action). A mimic can have any number of objects or creatures stuck to it at a time. The mimic can release a stuck creature or object by using a single action, and the adhesive dissolves 1 minute after the mimic dies, releasing all stuck objects and creatures. Object Lesson Reaction Trigger A creature touches or physically interacts with the mimic while the mimic is transformed using Mimic Object. Effect The triggering creature is automatically stuck by the mimic’s adhesive (it receives no save). The mimic then makes a pseudopod Strike against any creature adjacent to the mimic. Object Lesson can’t be used again until the mimic escapes and takes on a new disguise. --- Speed 10 feet Melee Single Action pseudopod + 14, Damage 2d8+4 bludgeoning plus adhesive Mimic Object Single Action (Concentrate, Polymorph) The mimic assumes the shape of any Medium object. This doesn't change the mimic's texture or overall size but can alter its coloration and visual appearance. It has an automatic result of 28 on Deception checks and DCs to pass as the object that it's mimicking. Creative Mimics The older the mimic, the more creative its guise, but within practical limits. For example, a mimic can appear as a neatly organized bookshelf with a single book out of place, a dried-up cistern with something glittering at its center, or an inconspicuous wooden door with a conveniently placed peephole. ",
+ "trait": [
+  "Aberration",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=300",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 1
+}

@@ -1,0 +1,94 @@
+{
+ "ac": 30,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 7,
+ "creature_ability": [
+  "Web Sense",
+  "Spring Upon Prey",
+  "Requirement",
+  "Descend on a Web",
+  "Goliath Spider Venom",
+  "Web Tether"
+ ],
+ "creature_family": "Spider",
+ "creature_family_markdown": "[Spider](/MonsterFamilies.aspx?ID=94)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 220,
+ "hp_raw": "220",
+ "id": "creature-388",
+ "image": [
+  "/Images/Monsters/Spider_GoliathSpider.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Goliath Spider](/Monsters.aspx?ID=388)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGoliath spiders dwell in the deepest jungles, where they build webs as big as temples and feast on prey as large as hippopotami.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Spider_GoliathSpider.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Goliath Spider](/Monsters.aspx?ID=388)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 307</row>\n\n**Perception** +22; darkvision, web sense\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +23, [Stealth](/Skills.aspx?ID=15) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +5\r\n\r\n**Con** +7\r\n\r\n**Int** -5\r\n\r\n**Wis** +3\r\n\r\n**Cha** -4\r\n</row>\r\n\r\n**Web Sense** The goliath spider has imprecise tremorsense to detect the vibrations of creatures touching its web.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 220\n\n**Spring Upon Prey** <actions string=\"Reaction\" /> ([attack](/Traits.aspx?ID=15)); **Requirement** Initiative has not yet been rolled. **Trigger** A creature touches the goliath spider’s web while the spider is on it. **Effect** The goliath spider automatically notices the creature and Strides, Climbs, or Descends on a Web before it rolls initiative.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 45 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +24 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+12 piercing plus goliath spider venom\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nweb +22 ([range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** web tether\n\n**Descend on a Web** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The goliath spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn’t count for falling damage. A creature that successfully Strikes the web (AC 20, Hardness 5, 20 HP) severs it, causing the spider to fall.\r\n\r\n**Goliath Spider Venom**  ([Incapacitation](/Traits.aspx?ID=93), [Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 30; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison and slowed 1 (1 round); **Stage 2** 2d6 poison and slowed 2 (1 round); **Stage 3** paralyzed for 2d4 hours.\r\n\r\n**Web Tether**   A creature hit by the spider’s web Strike is restrained and tethered to the spider, preventing it from moving farther away from the spider. The spider can have one creature tethered at a time. The DC to Escape or Force Open the web is 30. The tether can be severed with a Strike (AC 20, Hardness 5, HP 20), but this doesn’t free the restrained creature.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-94\" />",
+ "name": "Goliath Spider",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 21,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 307</row>\r\n\r\n**Creature Family** [Spider](/MonsterFamilies.aspx?ID=94)\r\n\r\n<row gap=\"medium\">\r\n**HP** 220\r\n\r\n**AC** 30\r\n\r\n**Fort** +25\r\n\r\n**Ref** +21\r\n\r\n**Will** +17\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGoliath spiders dwell in the deepest jungles, where they build webs as big as temples and feast on prey as large as hippopotami.\r\n</summary>",
+ "sense": "darkvision, web sense",
+ "sense_markdown": "darkvision, web sense",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Athletics +23",
+  "Stealth +22"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +23, [Stealth](/Skills.aspx?ID=15) +22",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 307"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 307</row>",
+ "speed": {
+  "climb": 30,
+  "land": 45,
+  "max": 45
+ },
+ "speed_markdown": "45 feet, climb 30 feet",
+ "speed_raw": "45 feet, climb 30 feet",
+ "spell_markdown": "",
+ "stealth": "22",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Goliath spiders dwell in the deepest jungles, where they build webs as big as temples and feast on prey as large as hippopotami.",
+ "summary_markdown": "Goliath spiders dwell in the deepest jungles, where they build webs as big as temples and feast on prey as large as hippopotami.",
+ "text": " Goliath Spider Goliath spiders dwell in the deepest jungles, where they build webs as big as temples and feast on prey as large as hippopotami. Recall Knowledge - Animal (Nature): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Goliath Spider Source Bestiary pg. 307 Perception +22; darkvision, web sense Languages Skills Acrobatics +18, Athletics +23, Stealth +22 Str +8 Dex +5 Con +7 Int -5 Wis +3 Cha -4 Web Sense The goliath spider has imprecise tremorsense to detect the vibrations of creatures touching its web. --- AC 30 Fort +25 Ref +21 Will +17 HP 220 Spring Upon Prey Reaction (attack); Requirement Initiative has not yet been rolled. Trigger A creature touches the goliath spider’s web while the spider is on it. Effect The goliath spider automatically notices the creature and Strides, Climbs, or Descends on a Web before it rolls initiative. --- Speed 45 feet, climb 30 feet Melee Single Action fangs +24 (reach 10 feet), Damage 2d12+12 piercing plus goliath spider venom Ranged Single Action web +22 (range increment 60 feet), Damage web tether Descend on a Web Single Action (Move) The goliath spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn’t count for falling damage. A creature that successfully Strikes the web (AC 20, Hardness 5, 20 HP) severs it, causing the spider to fall. Goliath Spider Venom (Incapacitation, Poison) Saving Throw Fortitude DC 30; Maximum Duration 6 rounds; Stage 1 2d6 poison and slowed 1 (1 round); Stage 2 2d6 poison and slowed 2 (1 round); Stage 3 paralyzed for 2d4 hours. Web Tether A creature hit by the spider’s web Strike is restrained and tethered to the spider, preventing it from moving farther away from the spider. The spider can have one creature tethered at a time. The DC to Escape or Force Open the web is 30. The tether can be severed with a Strike (AC 20, Hardness 5, HP 20), but this doesn’t free the restrained creature. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=388",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 3
+}

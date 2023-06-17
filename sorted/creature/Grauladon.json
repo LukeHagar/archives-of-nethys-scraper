@@ -1,0 +1,104 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 4,
+ "creature_ability": [
+  "Reactive Breath",
+  "Body Slam",
+  "Deep Breath",
+  "Noxious Breath"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 35,
+ "hp_raw": "35",
+ "id": "creature-435",
+ "image": [
+  "/Images/Monsters/Grauladon.png"
+ ],
+ "immunity": [
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "paralyzed, sleep",
+ "intelligence": -3,
+ "language": [
+  "Draconic",
+  "can't speak any language"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2); can't speak any language",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Grauladon](/Monsters.aspx?ID=435)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGrauladons are vicious predators that appear crocodilian in form, but are in fact distant offshoots of dragonkind. They make their dens in the shallows of fetid ponds or isolated corners of larger bodies of water, usually in rural swamps or woodlands. Driven almost entirely by their base desire to feed, grauladons spend most of their time swimming leisurely underwater looking for prey such as fish or waterfowl. Possessed of a greed befitting their more majestic dragon cousins, grauladons often take down prey larger than they need, jealously guarding the corpses to keep scavengers away even as the meat rots. A typical grauladon is 16 feet long from its snout to the tip of its tail and weighs 1,500 pounds.\n\n A grauladon’s stench may seem supernaturally disgusting, but it is simply the result of the creature’s fetid habitat and diet of rotting, waterlogged meat. As grauladons’ exhalations bear a passing resemblance to dragons’ breath, they have earned the nickname “mud drakes” from rural folk.\n\n Grauladons can be found in both fresh and brackish water in most temperate climates. They prefer to lair in shallow waters, particularly where reeds or other foliage conceal their bulk from unsuspecting prey. Grauladons are highly territorial and won’t tolerate other predators living or hunting near their homes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Grauladon.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Grauladon](/Monsters.aspx?ID=435)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 88</row>\n\n**Perception** +7; darkvision, scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2); can't speak any language\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +6, [Survival](/Skills.aspx?ID=16) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +0\r\n\r\n**Con** +4\r\n\r\n**Int** -3\r\n\r\n**Wis** +1\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 35\n\n**Immunities**\r\nparalyzed, sleep\n\n**Reactive Breath** <actions string=\"Reaction\" /> **Trigger** The grauladon takes damage from an adjacent creature. **Effect** The grauladon uses Noxious Breath, including the triggering creature in the area.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10,\r\n**Damage** 1d12+4 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +10 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d8+4 bludgeoning\n\n**Body Slam** <actions string=\"Single Action\" />  **Requirements** More than one enemy is adjacent to the grauladon. **Effect** The grauladon swings its tail at each adjacent enemy and attempts to Trip each creature adjacent to it. It rolls only a single [Athletics](/Skills.aspx?ID=3) check and compares the result to the Fortitude DC of each target.\r\n\r\n**Deep Breath**   A grauladon can hold its breath for 225 rounds (22-1/2 minutes).\r\n\r\n**Noxious Breath** <actions string=\"Single Action\" />  The grauladon hisses and unleashes a nauseating cloud of halitosis in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude saving throw or be [sickened 1](/Conditions.aspx?ID=34) ([sickened 2](/Conditions.aspx?ID=34) on a critical failure). The grauladon can’t use Noxious Breath or Reactive Breath again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Saltwater Grauladons</title>\r\n\r\nAlthough the vast majority of grauladons live in fresh or brackish waters, a rare grauladon species lives in and along saltwater coasts. These giant grauladons are even bigger than their common brethren, with stronger jaws and even danker breath. Rumors hint at the existence of truly massive saltwater grauladons capable of sinking ships. Most folk regard these stories as nothing more than tall tales, but plenty of eccentric old sailors and lighthouse operators readily attest otherwise, pointing to mysterious descriptions of shipwrecks in ancient logbooks and sometimes even showing their own scars as proof of the legends.\r\n</aside>",
+ "name": "Grauladon",
+ "npc": false,
+ "perception": 7,
+ "rarity": "uncommon",
+ "reflex_save": 6,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 88</row>\n\n<row gap=\"medium\">\r\n**HP** 35\r\n\r\n**AC** 17\r\n\r\n**Fort** +12\r\n\r\n**Ref** +6\r\n\r\n**Will** +7\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGrauladons are vicious predators that appear crocodilian in form, but are in fact distant offshoots of dragonkind. They make their dens in the …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 30 feet",
+ "sense_markdown": "darkvision, scent (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +10",
+  "Stealth +6",
+  "Survival +5"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +6, [Survival](/Skills.aspx?ID=16) +5",
+ "source": [
+  "Pathfinder #145: Hellknight Hill"
+ ],
+ "source_raw": [
+  "Pathfinder #145: Hellknight Hill pg. 88"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 88</row>",
+ "speed": {
+  "land": 20,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "20 feet, swim 30 feet",
+ "speed_raw": "20 feet, swim 30 feet",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "stealth": "6",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Grauladons are vicious predators that appear crocodilian in form, but are in fact distant offshoots of dragonkind. They make their dens in the …",
+ "summary_markdown": "Grauladons are vicious predators that appear crocodilian in form, but are in fact distant offshoots of dragonkind. They make their dens in the …",
+ "text": " Grauladon Grauladons are vicious predators that appear crocodilian in form, but are in fact distant offshoots of dragonkind. They make their dens in the shallows of fetid ponds or isolated corners of larger bodies of water, usually in rural swamps or woodlands. Driven almost entirely by their base desire to feed, grauladons spend most of their time swimming leisurely underwater looking for prey such as fish or waterfowl. Possessed of a greed befitting their more majestic dragon cousins, grauladons often take down prey larger than they need, jealously guarding the corpses to keep scavengers away even as the meat rots. A typical grauladon is 16 feet long from its snout to the tip of its tail and weighs 1,500 pounds. A grauladon’s stench may seem supernaturally disgusting, but it is simply the result of the creature’s fetid habitat and diet of rotting, waterlogged meat. As grauladons’ exhalations bear a passing resemblance to dragons’ breath, they have earned the nickname “mud drakes” from rural folk. Grauladons can be found in both fresh and brackish water in most temperate climates. They prefer to lair in shallow waters, particularly where reeds or other foliage conceal their bulk from unsuspecting prey. Grauladons are highly territorial and won’t tolerate other predators living or hunting near their homes. Recall Knowledge - Dragon (Arcana): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Grauladon Source Pathfinder #145: Hellknight Hill pg. 88 Perception +7; darkvision, scent (imprecise) 30 feet Languages Draconic; can't speak any language Skills Athletics +10, Stealth +6, Survival +5 Str +4 Dex +0 Con +4 Int -3 Wis +1 Cha -2 --- AC 17 Fort +12 Ref +6 Will +7 HP 35 Immunities paralyzed, sleep Reactive Breath Reaction Trigger The grauladon takes damage from an adjacent creature. Effect The grauladon uses Noxious Breath, including the triggering creature in the area. --- Speed 20 feet, swim 30 feet Melee Single Action jaws +10, Damage 1d12+4 piercing Melee Single Action tail +10 (Agile), Damage 1d8+4 bludgeoning Body Slam Single Action Requirements More than one enemy is adjacent to the grauladon. Effect The grauladon swings its tail at each adjacent enemy and attempts to Trip each creature adjacent to it. It rolls only a single Athletics check and compares the result to the Fortitude DC of each target. Deep Breath A grauladon can hold its breath for 225 rounds (22-1/2 minutes). Noxious Breath Single Action The grauladon hisses and unleashes a nauseating cloud of halitosis in a 15-foot cone. Each creature in the area must succeed at a DC 18 Fortitude saving throw or be sickened 1 (sickened 2 on a critical failure). The grauladon can’t use Noxious Breath or Reactive Breath again for 1d4 rounds. Saltwater Grauladons Although the vast majority of grauladons live in fresh or brackish waters, a rare grauladon species lives in and along saltwater coasts. These giant grauladons are even bigger than their common brethren, with stronger jaws and even danker breath. Rumors hint at the existence of truly massive saltwater grauladons capable of sinking ships. Most folk regard these stories as nothing more than tall tales, but plenty of eccentric old sailors and lighthouse operators readily attest otherwise, pointing to mysterious descriptions of shipwrecks in ancient logbooks and sometimes even showing their own scars as proof of the legends. ",
+ "trait": [
+  "Dragon",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Dragon",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=435",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 1
+}

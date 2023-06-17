@@ -1,0 +1,58 @@
+{
+ "ac": 27,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 24  Thievery  (expert) to erase a rune, or   dispel magic   (3rd level;  counteract  DC 24) to dispel a rune; all three runes must be erased or dispelled to disable the trap.",
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hardness": 14,
+ "hardness_raw": "14",
+ "hazard_type": "Trap",
+ "hp": 56,
+ "hp_raw": "56 (BT 28) to destroy the bricks and disable the trap",
+ "id": "hazard-363",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 8,
+ "markdown": "<title level=\"1\" right=\"Hazard 8\" pfs=\"\">[Freezing Floor](/Hazards.aspx?ID=363)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 50</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThe white brick floor radiates ice-cold air.\r\n\r\n---\r\n\r\n**Stealth**\r\n+16 (expert) or DC 31 (master) to notice the cold fog rising from the floor\r\n\r\n**Disable**\r\nDC 24 [Thievery](/Skills.aspx?ID=17) (expert) to erase a rune, or [_dispel magic_](/Spells.aspx?ID=78) (3rd level; [counteract](/Rules.aspx?ID=371) DC 24) to dispel a rune; all three runes must be erased or dispelled to disable the trap.\n\n<column gap=\"tiny\">\r\n\r\n**AC** 27, **Fort** +13, **Ref** +17\r\n\r\n**Hardness**\r\n14\r\n\r\n**HP**\r\n56 (BT 28) to destroy the bricks and disable the trap\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Cold Snap** <actions string=\"Reaction\" /> **Trigger** A creature steps on the white bricks; **Effect** The trap makes a frost jet Strike against the triggering creature and rolls initiative.\n\n---\r\n**Routine**\r\n(3 actions) With each action, the trap attempts a frost jet Strike against any creature standing on the white bricks. The trap loses 1 action per disabled or dispelled rune.\n\n **Ranged** frost jet +20, **Damage** 2d6 cold plus 1d4 [persistent cold](/Conditions.aspx?ID=29); no multiple attack penalty<br /> **Frostbite** A creature that takes persistent cold damage from the trap's frost jet Strike must attempt a DC 18 Fortitude save.<br /> **Critical Success** The creature isn't affected and is immune to this frostbite effect for 24 hours.<br /> **Success** The creature isn't affected.<br /> **Failure** The creature can't stop shivering and becomes clumsy 1.<br /> **Critical Failure** As failure, and the creature becomes fatigued.\r\n\r\n---\r\n**Reset**\r\nThe trap deactivates and resets after 1 minute.",
+ "name": "Freezing Floor",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2023-02-22",
+ "reset": "The trap deactivates and resets after 1 minute.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 50</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe white brick floor radiates ice-cold air.\r\n</summary>",
+ "source": [
+  "Pathfinder #188: They Watched the Stars"
+ ],
+ "source_raw": [
+  "Pathfinder #188: They Watched the Stars pg. 50"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 50</row>",
+ "speed": {},
+ "stealth": "+16 (expert) or DC 31 (master) to notice the cold fog rising from the floor",
+ "summary": "The white brick floor radiates ice-cold air.",
+ "summary_markdown": "The white brick floor radiates ice-cold air.",
+ "text": " Freezing Floor Source Pathfinder #188: They Watched the Stars pg. 50 Complexity Complex The white brick floor radiates ice-cold air. --- Stealth +16 (expert) or DC 31 (master) to notice the cold fog rising from the floor Disable DC 24 Thievery (expert) to erase a rune, or dispel magic (3rd level; counteract DC 24) to dispel a rune; all three runes must be erased or dispelled to disable the trap. AC 27, Fort +13, Ref +17 Hardness 14 HP 56 (BT 28) to destroy the bricks and disable the trap Immunities critical hits, object immunities, precision damage Cold Snap Reaction Trigger A creature steps on the white bricks; Effect The trap makes a frost jet Strike against the triggering creature and rolls initiative. --- Routine (3 actions) With each action, the trap attempts a frost jet Strike against any creature standing on the white bricks. The trap loses 1 action per disabled or dispelled rune. Ranged frost jet +20, Damage 2d6 cold plus 1d4 persistent cold; no multiple attack penalty Frostbite A creature that takes persistent cold damage from the trap's frost jet Strike must attempt a DC 18 Fortitude save. Critical Success The creature isn't affected and is immune to this frostbite effect for 24 hours. Success The creature isn't affected. Failure The creature can't stop shivering and becomes clumsy 1. Critical Failure As failure, and the creature becomes fatigued. --- Reset The trap deactivates and resets after 1 minute.",
+ "trait": [
+  "Complex",
+  "Magical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Magical](/Traits.aspx?ID=103), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Magical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=363",
+ "weakness": {}
+}

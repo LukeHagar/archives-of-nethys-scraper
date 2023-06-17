@@ -1,0 +1,131 @@
+{
+ "ac": 30,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 1,
+ "creature_ability": [
+  "Consume Arcana",
+  "Consume Flesh",
+  "Drain Wand",
+  "Ghast Fever",
+  "Paralysis",
+  "Swift Leap"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 195,
+ "hp_raw": "195 ( negative healing )",
+ "id": "creature-2092",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 7,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Yulthruk](/Monsters.aspx?ID=2092)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Yulthruk](/Monsters.aspx?ID=2092)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 46</row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +20, [Arcana](/Skills.aspx?ID=2) +22, [Deception](/Skills.aspx?ID=5) +18, [Society](/Skills.aspx?ID=14) +20, [Stealth](/Skills.aspx?ID=15) +21, [Thievery](/Skills.aspx?ID=17) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +5\r\n\r\n**Con** +1\r\n\r\n**Int** +7\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[_wand of manifold missiles_](/Equipment.aspx?ID=370) (3rd level)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 195\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\nStench (aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 28 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (plus [slowed 1](/Conditions.aspx?ID=35) as long as it's sickened on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against [disease](/Traits.aspx?ID=46) and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.<br />**Consume Arcana** <actions string=\"Reaction\" /> **Trigger** Yulthruk succeeds at a saving throw against an [arcane](/Traits.aspx?ID=11) spell cast by another creature; **Effect** Yulthruk inhales some of the averted energy and becomes [quickened](/Conditions.aspx?ID=32) until the start of his next turn. He can use this extra action to Cast a Spell or Sustain a Spell.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 5 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d8+10 piercing plus ghast fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d6+10 slashing plus paralysis\r\n\r\n**Arcane Prepared Spells** DC 33, attack +25\r\n- **Cantrips (6th)**\r\n[Electric Arc](/Spells.aspx?ID=97), [Ghost Sound](/Spells.aspx?ID=132), [Ray of Frost](/Spells.aspx?ID=245), [Shield](/Spells.aspx?ID=280)\r\n- **1st**\r\n[Grim Tendrils](/Spells.aspx?ID=141), [Magic Missile](/Spells.aspx?ID=180), [Ray of Enfeeblement](/Spells.aspx?ID=244)\r\n- **2nd**\r\n[Invisibility](/Spells.aspx?ID=164), [See Invisibility](/Spells.aspx?ID=271), [Spectral Hand](/Spells.aspx?ID=295)\r\n- **3rd**\r\n[Blindness](/Spells.aspx?ID=26), [Paralyze](/Spells.aspx?ID=213), [Vampiric Touch](/Spells.aspx?ID=354)\r\n- **4th**\r\n[Blink](/Spells.aspx?ID=27), [Phantasmal Killer](/Spells.aspx?ID=219), [Weapon Storm](/Spells.aspx?ID=373)\r\n- **5th**\r\n[Black Tentacles](/Spells.aspx?ID=23), [Cone of Cold](/Spells.aspx?ID=47), [Shadow Siphon](/Spells.aspx?ID=274)\r\n- **6th**\r\n[Chain Lightning](/Spells.aspx?ID=33), [Vampiric Exsanguination](/Spells.aspx?ID=353)\r\n\r\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour; **Effect** The ghast devours a chunk of the corpse and regains 6d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Drain Wand** <actions string=\"Free Action\" />  **Frequency** once per day; **Requirements** Yulthruk hasn't acted yet on his turn; **Effect** On his turn Yulthruk can Cast a Spell he's prepared and already cast this day without spending a spell slot. Yulthruk must still meet the spell's other requirements.\r\n\r\n**Ghast Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** Fortitude DC 28; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 3d8 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 3d8 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a ghast the next midnight.\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living creature hit by a ghast's attack must succeed at a DC 28 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**Swift Leap** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) Yulthruk jumps up to half his Speed. This movement doesn't trigger reactions.\r\n\r\n</column>",
+ "name": "Yulthruk",
+ "npc": false,
+ "perception": 21,
+ "rarity": "unique",
+ "reflex_save": 23,
+ "release_date": "2022-09-21",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 46</row>\n\n<row gap=\"medium\">\r\n**HP** 195 ( negative healing )\r\n\r\n**AC** 30\r\n\r\n**Fort** +21\r\n\r\n**Ref** +23\r\n\r\n**Will** +19\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +20",
+  "Arcana +22",
+  "Deception +18",
+  "Society +20",
+  "Stealth +21",
+  "Thievery +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +20, [Arcana](/Skills.aspx?ID=2) +22, [Deception](/Skills.aspx?ID=5) +18, [Society](/Skills.aspx?ID=14) +20, [Stealth](/Skills.aspx?ID=15) +21, [Thievery](/Skills.aspx?ID=17) +19",
+ "source": [
+  "Pathfinder #183: Field of Maidens"
+ ],
+ "source_raw": [
+  "Pathfinder #183: Field of Maidens pg. 46"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 46</row>",
+ "speed": {
+  "burrow": 5,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 5 feet",
+ "speed_raw": "30 feet, burrow 5 feet",
+ "spell": [
+  "Chain Lightning",
+  "Vampiric Exsanguination",
+  "Black Tentacles",
+  "Cone of Cold",
+  "Shadow Siphon",
+  "Blink",
+  "Phantasmal Killer",
+  "Weapon Storm",
+  "Blindness",
+  "Paralyze",
+  "Vampiric Touch",
+  "Invisibility",
+  "See Invisibility",
+  "Spectral Hand",
+  "Grim Tendrils",
+  "Magic Missile",
+  "Ray of Enfeeblement",
+  "Electric Arc",
+  "Ghost Sound",
+  "Ray of Frost",
+  "Shield"
+ ],
+ "spell_markdown": "[Black Tentacles](/Spells.aspx?ID=23), [Blindness](/Spells.aspx?ID=26), [Blink](/Spells.aspx?ID=27), [Chain Lightning](/Spells.aspx?ID=33), [Cone of Cold](/Spells.aspx?ID=47), [Electric Arc](/Spells.aspx?ID=97), [Ghost Sound](/Spells.aspx?ID=132), [Grim Tendrils](/Spells.aspx?ID=141), [Invisibility](/Spells.aspx?ID=164), [Magic Missile](/Spells.aspx?ID=180), [Paralyze](/Spells.aspx?ID=213), [Phantasmal Killer](/Spells.aspx?ID=219), [Ray of Enfeeblement](/Spells.aspx?ID=244), [Ray of Frost](/Spells.aspx?ID=245), [See Invisibility](/Spells.aspx?ID=271), [Shadow Siphon](/Spells.aspx?ID=274), [Shield](/Spells.aspx?ID=280), [Spectral Hand](/Spells.aspx?ID=295), [Vampiric Exsanguination](/Spells.aspx?ID=353), [Vampiric Touch](/Spells.aspx?ID=354), [Weapon Storm](/Spells.aspx?ID=373)",
+ "spoilers": "Blood Lords",
+ "stealth": "21",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Yulthruk Recall Knowledge - Undead (Religion): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Yulthruk Source Pathfinder #183: Field of Maidens pg. 46 Perception +21; darkvision Languages Common, Necril Skills Acrobatics +20, Arcana +22, Deception +18, Society +20, Stealth +21, Thievery +19 Str +5 Dex +5 Con +1 Int +7 Wis +3 Cha +3 Items wand of manifold missiles (3rd level) --- AC 30 Fort +21 Ref +23 Will +19 HP 195 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Stench (aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 28 Fortitude save or become sickened 1 (plus slowed 1 as long as it's sickened on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute. Consume Arcana Reaction Trigger Yulthruk succeeds at a saving throw against an arcane spell cast by another creature; Effect Yulthruk inhales some of the averted energy and becomes quickened until the start of his next turn. He can use this extra action to Cast a Spell or Sustain a Spell. --- Speed 30 feet, burrow 5 feet Melee Single Action jaws +23 (Finesse), Damage 3d8+10 piercing plus ghast fever and paralysis Melee Single Action claw +23 (Agile, Finesse), Damage 3d6+10 slashing plus paralysis Arcane Prepared Spells DC 33, attack +25 - Cantrips (6th) Electric Arc, Ghost Sound, Ray of Frost, Shield - 1st Grim Tendrils, Magic Missile, Ray of Enfeeblement - 2nd Invisibility, See Invisibility, Spectral Hand - 3rd Blindness, Paralyze, Vampiric Touch - 4th Blink, Phantasmal Killer, Weapon Storm - 5th Black Tentacles, Cone of Cold, Shadow Siphon - 6th Chain Lightning, Vampiric Exsanguination Consume Flesh Single Action (Manipulate) Requirements The ghast is adjacent to the corpse of a creature that died within the last hour; Effect The ghast devours a chunk of the corpse and regains 6d6 Hit Points. It can regain Hit Points from any given corpse only once. Drain Wand Free Action Frequency once per day; Requirements Yulthruk hasn't acted yet on his turn; Effect On his turn Yulthruk can Cast a Spell he's prepared and already cast this day without spending a spell slot. Yulthruk must still meet the spell's other requirements. Ghast Fever (Disease) Saving Throw Fortitude DC 28; Stage 1 carrier with no ill effect (1 day); Stage 2 3d8 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 3d8 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghast the next midnight. Paralysis (Incapacitation, Occult, Necromancy) Any living creature hit by a ghast's attack must succeed at a DC 28 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Swift Leap Single Action (Move) Yulthruk jumps up to half his Speed. This movement doesn't trigger reactions. ",
+ "trait": [
+  "Ghoul",
+  "Undead",
+  "Unique",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Ghoul",
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2092",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 3
+}

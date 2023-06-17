@@ -1,0 +1,125 @@
+{
+ "ac": 46,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 7,
+ "creature_ability": [
+  "Comfort of the Deep",
+  "Intense Chill",
+  "Tail Sweep",
+  "Numbing Ice",
+  "Song of the Lost",
+  "Tail Sweep"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 38,
+ "hp": 500,
+ "hp_raw": "500 ( negative healing )",
+ "id": "creature-2403",
+ "image": [
+  "/Images/Monsters/BenthicReaver.png"
+ ],
+ "immunity": [
+  "bleed",
+  "cold",
+  "death  effects",
+  "disease",
+  "negative",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [cold](/Traits.aspx?ID=27), [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [negative](/Traits.aspx?ID=118), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 6,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 21,
+ "markdown": "<title level=\"1\" pfs=\"\">[Benthic Reaver](/Monsters.aspx?ID=2403)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe benthic reaver is a 50-foot-tall undead monstrosity, its ribs rising like giant archways and its spine splitting into three tails.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 52\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 50\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 47\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/BenthicReaver.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 21\">[Benthic Reaver](/Monsters.aspx?ID=2403)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 324</row>\n\n**Perception** +41; [darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +37, [Athletics](/Skills.aspx?ID=3) +43, [Nature](/Skills.aspx?ID=10) +37\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +8\r\n\r\n**Con** +7\r\n\r\n**Int** +6\r\n\r\n**Wis** +8\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Comfort of the Deep** ([downtime](/Traits.aspx?ID=49)) The benthic reaver spends 1 day submerged in seawater and restores itself to full Hit Points.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 46 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +38 \r\n\r\n**Ref** +35 \r\n\r\n**Will** +33 \n\n</row>\r\n\r\n**HP** 500\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\nbleed, [cold](/Traits.aspx?ID=27), [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [negative](/Traits.aspx?ID=118), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nphysical 10 (except [adamantine](/Equipment.aspx?ID=374))\r\n\r\n**Weaknesses**\r\ngood 20\r\n\r\n**Intense Chill** ([arcane](/Traits.aspx?ID=11), [aura](/Traits.aspx?ID=206), [cold](/Traits.aspx?ID=27), [evocation](/Traits.aspx?ID=65)) 30 feet. 5d6 cold damage (DC 41 [basic](/Rules.aspx?ID=329) Reflex save). On a failure, the creature takes a –15-foot status penalty to its Speeds for 1 round.<br />**Tail Sweep** <actions string=\"Reaction\" /> **Trigger** A creature moves from beyond the reach of the benthic reaver's tail to within the reach of the benthic reaver's tail; **Effect** The benthic reaver makes a tail Strike against the triggering creature and can use [Improved Knockdown](/MonsterAbilities.aspx?ID=28) if the attack hits, even if it isn't the benthic reaver's turn. If the benthic reaver knocks the target [prone](/Conditions.aspx?ID=31), it disrupts the triggering [move](/Traits.aspx?ID=114) action.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, swim 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +39 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+18 piercing plus 2d6 cold and 2d6 negative\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfin +39 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+18 slashing plus 2d6 negative\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +39 ([reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d10+18 slashing plus 2d6 negative and [Improved Knockdown](/MonsterAbilities.aspx?ID=28)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\neye beam +37 ([range 150 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d12+8 cold plus 4d6 negative and numbing ice\r\n\r\n**Arcane Innate Spells** DC 41\r\n- **Constant (9th)**\r\n[True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Numbing Ice**  ([Cold](/Traits.aspx?ID=27)) A creature who takes damage from the benthic reaver's eye beam Strike must succeed at a DC 41 Fortitude save or become [slowed 2](/Conditions.aspx?ID=35) as cold stiffens its limbs. A flying creature who fails its save also descends safely to the ground below. This is [forced movement](/Rules.aspx?ID=451).\r\n\r\n**Song of the Lost** <actions string=\"Single Action\" /> ([Arcane](/Traits.aspx?ID=11), [Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The benthic reaver unleashes a cry of mourning. All creatures within 60 feet must attempt a DC 41 Will save to resist. The benthic reaver can't use Song of the Lost for 1d4 rounds. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [frightened 1](/Conditions.aspx?ID=19). <br />**Failure** The creature is frightened 2. <br />**Critical Failure** As failure, but the creature is also stunned 1 with sympathy.\r\n\r\n**Tail Sweep** <actions string=\"Two Actions\" />  The benthic reaver makes a tail Strike against each enemy within its reach. These attacks count toward the benthic reaver's multiple attack penalty, but the multiple attack penalty doesn't increase until after the benthic reaver makes all its attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Lurking Danger</title>\r\n\r\nDuring the war between Geb and Nex, the archmage Geb created the benthic reaver from the fossilized skeleton of a leviathan. Records vividly describe the creature's haunting sounds and the cold, blue ghosts of a thousand eyes floating above its gaping maw. The unliving horror cut a swath of destruction across Nex before defenders stopped it at the nation's capital. When the defenders of Quantium drove off the besieging benthic reaver, it fled to the ocean depths off Nex's coastline to avoid destruction. Ever since, unconfirmed sightings by fishers and divers have kept its legend alive. While some see the sailors who blame the creature for unexplained shipwrecks as superstitious, mages inside Nex frequently scry the coast, afraid that a more active Geb might try to reclaim one of his greatest weapons.\r\n</aside>",
+ "name": "Benthic Reaver",
+ "npc": false,
+ "perception": 41,
+ "rarity": "unique",
+ "reflex_save": 35,
+ "release_date": "2022-11-16",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10 (except [adamantine](/Equipment.aspx?ID=374))",
+ "resistance_raw": "physical 10 (except  adamantine )",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 324</row>\n\n<row gap=\"medium\">\r\n**HP** 500 ( negative healing )\r\n\r\n**AC** 46\r\n\r\n**Fort** +38\r\n\r\n**Ref** +35\r\n\r\n**Will** +33\r\n\r\n**Perception** +41\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe benthic reaver is a 50-foot-tall undead monstrosity, its ribs rising like giant archways and its spine splitting into three tails.\r\n</summary>",
+ "sense": " darkvision ,   true seeing  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Arcana +37",
+  "Athletics +43",
+  "Nature +37"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +37, [Athletics](/Skills.aspx?ID=3) +43, [Nature](/Skills.aspx?ID=10) +37",
+ "source": [
+  "Impossible Lands"
+ ],
+ "source_raw": [
+  "Impossible Lands pg. 324"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[Impossible Lands](/Sources.aspx?ID=146) pg. 324</row>",
+ "speed": {
+  "land": 30,
+  "max": 60,
+  "swim": 60
+ },
+ "speed_markdown": "30 feet, swim 60 feet",
+ "speed_raw": "30 feet, swim 60 feet",
+ "spell": [
+  "True Seeing"
+ ],
+ "spell_markdown": "[True Seeing](/Spells.aspx?ID=344)",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The benthic reaver is a 50-foot-tall undead monstrosity, its ribs rising like giant archways and its spine splitting into three tails.",
+ "summary_markdown": "The benthic reaver is a 50-foot-tall undead monstrosity, its ribs rising like giant archways and its spine splitting into three tails.",
+ "text": " Benthic Reaver The benthic reaver is a 50-foot-tall undead monstrosity, its ribs rising like giant archways and its spine splitting into three tails. Recall Knowledge - Undead (Religion): DC 52 Unspecific Lore : DC 50 Specific Lore : DC 47 Benthic Reaver Source Impossible Lands pg. 324 Perception +41; darkvision, true seeing Languages Common, Necril Skills Arcana +37, Athletics +43, Nature +37 Str +10 Dex +8 Con +7 Int +6 Wis +8 Cha +6 Comfort of the Deep (downtime) The benthic reaver spends 1 day submerged in seawater and restores itself to full Hit Points. --- AC 46 all-around vision Fort +38 Ref +35 Will +33 HP 500 (negative healing) Immunities bleed, cold, death effects, disease, negative, paralyzed, poison, precision, unconscious Resistances physical 10 (except adamantine) Weaknesses good 20 Intense Chill (arcane, aura, cold, evocation) 30 feet. 5d6 cold damage (DC 41 basic Reflex save). On a failure, the creature takes a –15-foot status penalty to its Speeds for 1 round. Tail Sweep Reaction Trigger A creature moves from beyond the reach of the benthic reaver's tail to within the reach of the benthic reaver's tail; Effect The benthic reaver makes a tail Strike against the triggering creature and can use Improved Knockdown if the attack hits, even if it isn't the benthic reaver's turn. If the benthic reaver knocks the target prone, it disrupts the triggering move action. --- Speed 30 feet, swim 60 feet Melee Single Action jaws +39 (reach 15 feet), Damage 4d12+18 piercing plus 2d6 cold and 2d6 negative Melee Single Action fin +39 (Agile, reach 15 feet), Damage 4d8+18 slashing plus 2d6 negative Melee Single Action tail +39 (reach 30 feet), Damage 4d10+18 slashing plus 2d6 negative and Improved Knockdown Ranged Single Action eye beam +37 (range 150 feet), Damage 4d12+8 cold plus 4d6 negative and numbing ice Arcane Innate Spells DC 41 - Constant (9th) True Seeing Numbing Ice (Cold) A creature who takes damage from the benthic reaver's eye beam Strike must succeed at a DC 41 Fortitude save or become slowed 2 as cold stiffens its limbs. A flying creature who fails its save also descends safely to the ground below. This is forced movement. Song of the Lost Single Action (Arcane, Auditory, Emotion, Enchantment, Fear, Mental) The benthic reaver unleashes a cry of mourning. All creatures within 60 feet must attempt a DC 41 Will save to resist. The benthic reaver can't use Song of the Lost for 1d4 rounds. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure As failure, but the creature is also stunned 1 with sympathy. Tail Sweep Two Actions The benthic reaver makes a tail Strike against each enemy within its reach. These attacks count toward the benthic reaver's multiple attack penalty, but the multiple attack penalty doesn't increase until after the benthic reaver makes all its attacks. Lurking Danger During the war between Geb and Nex, the archmage Geb created the benthic reaver from the fossilized skeleton of a leviathan. Records vividly describe the creature's haunting sounds and the cold, blue ghosts of a thousand eyes floating above its gaping maw. The unliving horror cut a swath of destruction across Nex before defenders stopped it at the nation's capital. When the defenders of Quantium drove off the besieging benthic reaver, it fled to the ocean depths off Nex's coastline to avoid destruction. Ever since, unconfirmed sightings by fishers and divers have kept its legend alive. While some see the sailors who blame the creature for unexplained shipwrecks as superstitious, mages inside Nex frequently scry the coast, afraid that a more active Geb might try to reclaim one of his greatest weapons. ",
+ "trait": [
+  "Cold",
+  "Undead",
+  "Unique",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Cold](/Traits.aspx?ID=27), [Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Cold",
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2403",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "good": 20
+ },
+ "weakness_markdown": "good 20",
+ "weakness_raw": "good 20",
+ "will_save": 33,
+ "wisdom": 8
+}

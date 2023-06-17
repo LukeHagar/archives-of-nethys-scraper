@@ -1,0 +1,113 @@
+{
+ "ac": 25,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 3,
+ "creature_ability": [
+  "Alter Dweomer",
+  "Abjuration",
+  "Conjuration",
+  "Divination",
+  "Enchantment",
+  "Evocation",
+  "Illusion",
+  "Necromancy",
+  "Transmutation",
+  "Dweomer Leap",
+  "Pounce"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 100,
+ "hp_raw": "100",
+ "id": "creature-643",
+ "image": [
+  "/Images/Monsters/Dweomercat.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Dweomercat](/Monsters.aspx?ID=643)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDweomercats are magically gifted felines from the First World, where they prey upon other creatures and feed upon their primal energy. They are sometimes encountered in areas of the Material Plane where the veil to the First World is thin, or in regions where magic has been irreparably warped. Dweomercats are famous for their ability to twist the metaphorical strings of spells cast on or near them, which they can transform into their own defensive magic or tap into to instantly teleport across the battlefield.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Dweomercat.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Dweomercat](/Monsters.aspx?ID=643)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 103 <sup>2.0</sup></row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12), [_detect magic_](/Spells.aspx?ID=66), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Arcana](/Skills.aspx?ID=2) +16, [Nature](/Skills.aspx?ID=10) +15, [Stealth](/Skills.aspx?ID=15) +17, [Survival](/Skills.aspx?ID=16) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +3\r\n\r\n**Wis** +4\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +17 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 100\n\n**Alter Dweomer** <actions string=\"Reaction\" /> ([abjuration](/Traits.aspx?ID=2), [arcane](/Traits.aspx?ID=11)) **Trigger** The dweomercat is targeted by a spell or is within the area of a spell as it is cast; **Effect** The dweomercat gains an effect related to the school of the triggering spell. This effect occurs before the dweomercat is affected by the triggering spell. The effect lasts for 1 minute, until the dweomercat uses this ability again, or until the dweomercat Dismisses the effect, whichever comes first. <br />**Abjuration** The dweomercat gains a +1 status bonus to AC. <br />**Conjuration** A cloud of fog appears in a 5-foot burst centered on a corner of the dweomercat's space. Anything in the cloud is [concealed](/Conditions.aspx?ID=4). <br />**Divination** The dweomercat gains a +1 status bonus to all skill checks. <br />**Enchantment** The dweomercat gains a +1 status bonus to all saves. <br />**Evocation** Magical feedback deals 4d6 force damage to the triggering spellcaster (DC 22 basic Reflex save). <br />**Illusion** The dweomercat becomes [invisible](/Conditions.aspx?ID=26). This effect ends if the dweomercat uses a hostile action, in addition to the normal end conditions. <br />**Necromancy** The dweomercat gains 10 temporary HP. <br />**Transmutation** The dweomercat gains a +1 status bonus to all attack rolls.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +17 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d10+7 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +17 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+7 slashing\r\n\r\n**Arcane Innate Spells** DC 26\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (×3), [Dispel Magic](/Spells.aspx?ID=78) (at will), [Globe of Invulnerability](/Spells.aspx?ID=137)\r\n- **Constant (4th)**\r\n[Detect Magic](/Spells.aspx?ID=66)\r\n\r\n**Dweomer Leap** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Conjuration](/Traits.aspx?ID=33), [Teleportation](/Traits.aspx?ID=156)) **Prerequisites** The dweomercat has at least one [_dimension door_](/Spells.aspx?ID=69) spell remaining; **Effect** The dweomercat casts _dimension door_, then can make a melee Strike against one creature adjacent to it at the end of its teleport. If the dweomercat ends its teleport adjacent to a creature under an ongoing spell effect or who cast a spell since the dweomercat's last turn, this does not expend a casting of _dimension door_.\r\n\r\n**Pounce** <actions string=\"Single Action\" />  The dweomercat Strides and makes a Strike at the end of that movement. If the dweomercat began this action [hidden](/Conditions.aspx?ID=22), it remains hidden until after this ability's Strike.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Dweomercat Familiars</title>\r\n\r\nParticularly powerful spellcasters sometimes take young dweomercat cubs as familiars. Their independence and flightiness makes dweomercats somewhat unreliable allies, though, so one is never sure whether their bond with a dweomercat will be long-lasting or a temporary affair.\r\n</aside>",
+ "name": "Dweomercat",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 17,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 103 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 100\r\n\r\n**AC** 25\r\n\r\n**Fort** +12\r\n\r\n**Ref** +17\r\n\r\n**Will** +17\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDweomercats are magically gifted felines from the First World, where they prey upon other creatures and feed upon their primal energy. They are …\r\n</summary>",
+ "sense": " darkvision ,   detect magic  ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_detect magic_](/Spells.aspx?ID=66), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Arcana +16",
+  "Nature +15",
+  "Stealth +17",
+  "Survival +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Arcana](/Skills.aspx?ID=2) +16, [Nature](/Skills.aspx?ID=10) +15, [Stealth](/Skills.aspx?ID=15) +17, [Survival](/Skills.aspx?ID=16) +15",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 103"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 103 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Dimension Door",
+  "Dispel Magic",
+  "Globe of Invulnerability",
+  "Detect Magic"
+ ],
+ "spell_markdown": "[Detect Magic](/Spells.aspx?ID=66), [Dimension Door](/Spells.aspx?ID=69), [Dispel Magic](/Spells.aspx?ID=78), [Globe of Invulnerability](/Spells.aspx?ID=137)",
+ "stealth": "17",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "summary": "Dweomercats are magically gifted felines from the First World, where they prey upon other creatures and feed upon their primal energy. They are …",
+ "summary_markdown": "Dweomercats are magically gifted felines from the First World, where they prey upon other creatures and feed upon their primal energy. They are …",
+ "text": " Dweomercat Dweomercats are magically gifted felines from the First World, where they prey upon other creatures and feed upon their primal energy. They are sometimes encountered in areas of the Material Plane where the veil to the First World is thin, or in regions where magic has been irreparably warped. Dweomercats are famous for their ability to twist the metaphorical strings of spells cast on or near them, which they can transform into their own defensive magic or tap into to instantly teleport across the battlefield. Recall Knowledge - Beast (Arcana, Nature): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Dweomercat Source Bestiary 2 pg. 103 2.0 Perception +15; darkvision, detect magic , scent (imprecise) 30 feet Languages Common, Sylvan Skills Acrobatics +17, Arcana +16, Nature +15, Stealth +17, Survival +15 Str +4 Dex +4 Con +3 Int +3 Wis +4 Cha +5 --- AC 25 Fort +12 Ref +17 Will +17 +1 status to all saves vs. magic HP 100 Alter Dweomer Reaction (abjuration, arcane) Trigger The dweomercat is targeted by a spell or is within the area of a spell as it is cast; Effect The dweomercat gains an effect related to the school of the triggering spell. This effect occurs before the dweomercat is affected by the triggering spell. The effect lasts for 1 minute, until the dweomercat uses this ability again, or until the dweomercat Dismisses the effect, whichever comes first. Abjuration The dweomercat gains a +1 status bonus to AC. Conjuration A cloud of fog appears in a 5-foot burst centered on a corner of the dweomercat's space. Anything in the cloud is concealed. Divination The dweomercat gains a +1 status bonus to all skill checks. Enchantment The dweomercat gains a +1 status bonus to all saves. Evocation Magical feedback deals 4d6 force damage to the triggering spellcaster (DC 22 basic Reflex save). Illusion The dweomercat becomes invisible. This effect ends if the dweomercat uses a hostile action, in addition to the normal end conditions. Necromancy The dweomercat gains 10 temporary HP. Transmutation The dweomercat gains a +1 status bonus to all attack rolls. --- Speed 35 feet Melee Single Action jaws +17 (Magical), Damage 2d10+7 piercing plus Grab Melee Single Action claw +17 (Agile, Magical), Damage 2d8+7 slashing Arcane Innate Spells DC 26 - 4th Dimension Door (×3), Dispel Magic (at will), Globe of Invulnerability - Constant (4th) Detect Magic Dweomer Leap Two Actions (Arcane, Conjuration, Teleportation) Prerequisites The dweomercat has at least one dimension door spell remaining; Effect The dweomercat casts dimension door , then can make a melee Strike against one creature adjacent to it at the end of its teleport. If the dweomercat ends its teleport adjacent to a creature under an ongoing spell effect or who cast a spell since the dweomercat's last turn, this does not expend a casting of dimension door . Pounce Single Action The dweomercat Strides and makes a Strike at the end of that movement. If the dweomercat began this action hidden, it remains hidden until after this ability's Strike. Dweomercat Familiars Particularly powerful spellcasters sometimes take young dweomercat cubs as familiars. Their independence and flightiness makes dweomercats somewhat unreliable allies, though, so one is never sure whether their bond with a dweomercat will be long-lasting or a temporary affair. ",
+ "trait": [
+  "Beast",
+  "Uncommon",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=643",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 4
+}

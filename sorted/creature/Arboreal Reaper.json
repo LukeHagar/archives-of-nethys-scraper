@@ -1,0 +1,109 @@
+{
+ "ac": 25,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Axe Vulnerability",
+  "Leech Moisture"
+ ],
+ "creature_family": "Arboreal",
+ "creature_family_markdown": "[Arboreal](/MonsterFamilies.aspx?ID=8)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 130,
+ "hp_raw": "130",
+ "id": "creature-1067",
+ "image": [
+  "/Images/Monsters/Arboreal_ArborealReaper.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Arboreal",
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Arboreal Reaper](/Monsters.aspx?ID=1067)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhile some forests have an idyllic, peaceful quality to them, others feel distinctly unfriendly or even sinister—these forests are the favored haunts of arboreal reapers. Sometimes these woodlands are sought out by secretive practitioners of malicious arts who claim the unsettling ambiance aids their abilities; arboreal reapers see no reason to interfere with such practices as long as the balance of their forests isn't harmed.\n\n All arboreals vary in appearance based on their surroundings, but arboreal reapers always seem vaguely eerie, whether they watch over a grim weald or a tropical rain forest. Often slightly warped, twisted, and covered in spiky protrusions, arboreal reapers sometimes sprout around old ruins or other permanent structures, breaking down and incorporating the structures as they mature and become more mobile.\n\n Arboreal reapers focus on the essential decaying phase of a forest's life cycle, becoming especially active in autumn and winter seasons. Their influence can often be seen in the explosion of mushrooms on a rotting log or the enticing fronds of a flourishing carnivorous plant. Like [arboreal wardens](/Monsters.aspx?ID=27), these woodland guardians are quicker to react to perceived threats than the more deliberate [regents](/Monsters.aspx?ID=29) or retiring [archives](/Monsters.aspx?ID=1068)—at least by arboreal standards.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Arboreal_ArborealReaper.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Arboreal Reaper](/Monsters.aspx?ID=1067)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 20</row>\n\n**Perception** +15; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +17, [Nature](/Skills.aspx?ID=10) +15, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 130\n\n**Resistances**\r\nbludgeoning 5, piercing 5\r\n\r\n**Weaknesses**\r\naxe vulnerability, fire 10\r\n\r\n**Axe Vulnerability** An arboreal reaper takes 5 additional damage from [axes](/WeaponGroups.aspx?ID=1).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbranch +18 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+8 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nroot +18 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+8 bludgeoning plus [Knockdown](/MonsterAbilities.aspx?ID=20)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthorns +16,\r\n**Damage** 2d8+5 piercing plus 1d4 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Primal Innate Spells** DC 22\r\n- **3rd**\r\n[Vampiric Touch](/Spells.aspx?ID=354)\r\n- **Constant (4th)**\r\n[Speak with Plants](/Spells.aspx?ID=294)\r\n\r\n**Leech Moisture** <actions string=\"Two Actions\" />  **Effect** The arboreal reaper grows still and focuses intently on a single foe within 50 feet, draining moisture from the target's body. This deals 10d6 negative damage (DC 25 basic Fortitude save). The arboreal reaper can't Leech Moisture again for 1d4 rounds.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-8\" />",
+ "name": "Arboreal Reaper",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "bludgeoning": 5,
+  "piercing": 5
+ },
+ "resistance_markdown": "bludgeoning 5, piercing 5",
+ "resistance_raw": "bludgeoning 5, piercing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 20</row>\r\n\r\n**Creature Family** [Arboreal](/MonsterFamilies.aspx?ID=8)\r\n\r\n<row gap=\"medium\">\r\n**HP** 130\r\n\r\n**AC** 25\r\n\r\n**Fort** +17\r\n\r\n**Ref** +13\r\n\r\n**Will** +15\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile some forests have an idyllic, peaceful quality to them, others feel distinctly unfriendly or even sinister—these forests are the favored haunts …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +17",
+  "Intimidation +17",
+  "Nature +15",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +17, [Nature](/Skills.aspx?ID=10) +15, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 20"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 20</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Vampiric Touch",
+  "Speak with Plants"
+ ],
+ "spell_markdown": "[Speak with Plants](/Spells.aspx?ID=294), [Vampiric Touch](/Spells.aspx?ID=354)",
+ "stealth": "14",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "While some forests have an idyllic, peaceful quality to them, others feel distinctly unfriendly or even sinister—these forests are the favored haunts …",
+ "summary_markdown": "While some forests have an idyllic, peaceful quality to them, others feel distinctly unfriendly or even sinister—these forests are the favored haunts …",
+ "text": " Arboreal Reaper While some forests have an idyllic, peaceful quality to them, others feel distinctly unfriendly or even sinister—these forests are the favored haunts of arboreal reapers. Sometimes these woodlands are sought out by secretive practitioners of malicious arts who claim the unsettling ambiance aids their abilities; arboreal reapers see no reason to interfere with such practices as long as the balance of their forests isn't harmed. All arboreals vary in appearance based on their surroundings, but arboreal reapers always seem vaguely eerie, whether they watch over a grim weald or a tropical rain forest. Often slightly warped, twisted, and covered in spiky protrusions, arboreal reapers sometimes sprout around old ruins or other permanent structures, breaking down and incorporating the structures as they mature and become more mobile. Arboreal reapers focus on the essential decaying phase of a forest's life cycle, becoming especially active in autumn and winter seasons. Their influence can often be seen in the explosion of mushrooms on a rotting log or the enticing fronds of a flourishing carnivorous plant. Like arboreal wardens, these woodland guardians are quicker to react to perceived threats than the more deliberate regents or retiring archives—at least by arboreal standards. Recall Knowledge - Plant (Nature): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Arboreal Reaper Source Bestiary 3 pg. 20 Perception +15; low-light vision Languages Arboreal, Common, Sylvan Skills Athletics +17, Intimidation +17, Nature +15, Stealth +14 Str +6 Dex +2 Con +4 Int +2 Wis +2 Cha +4 --- AC 25 Fort +17 Ref +13 Will +15 HP 130 Resistances bludgeoning 5, piercing 5 Weaknesses axe vulnerability, fire 10 Axe Vulnerability An arboreal reaper takes 5 additional damage from axes. --- Speed 25 feet Melee Single Action branch +18 (reach 10 feet), Damage 2d10+8 bludgeoning Melee Single Action root +18 (Agile), Damage 2d6+8 bludgeoning plus Knockdown Ranged Single Action thorns +16, Damage 2d8+5 piercing plus 1d4 persistent bleed Primal Innate Spells DC 22 - 3rd Vampiric Touch - Constant (4th) Speak with Plants Leech Moisture Two Actions Effect The arboreal reaper grows still and focuses intently on a single foe within 50 feet, draining moisture from the target's body. This deals 10d6 negative damage (DC 25 basic Fortitude save). The arboreal reaper can't Leech Moisture again for 1d4 rounds. ",
+ "trait": [
+  "Plant",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1067",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "axe vulnerability, fire 10",
+ "weakness_raw": "axe vulnerability, fire 10",
+ "will_save": 15,
+ "wisdom": 2
+}

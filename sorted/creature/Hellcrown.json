@@ -1,0 +1,101 @@
+{
+ "ac": 16,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Bleeding Nail",
+  "Terrifying Stare"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 4,
+ "hp": 20,
+ "hp_raw": "20 ( negative healing )",
+ "id": "creature-437",
+ "image": [
+  "/Images/Monsters/Hellcrown.png"
+ ],
+ "immunity": [
+  "death effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "death effects, disease, paralyzed, poison, unconscious",
+ "intelligence": -1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"\">[Hellcrown](/Monsters.aspx?ID=437)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe life of a Hellknight is bloody, brutal, and often short. Many who perish in service to a Hellknight order are glad to rest after having served their masters so faithfully, but others seek to continue their work even in death. When a Hellknight is decapitated, the ghostly undead known as a hellcrown is an occasional result. Consumed by the desire to bring about order by inflicting cruelty, hellcrowns haunt battlefields and abandoned castles, slaying all they encounter. A strange fusion of spirit and steel, a hellcrown has no corporeal form by itself, but instead inhabits the helmet it so proudly wore in life. Dangling from the helmet like a shroud is a shadow of the former Hellknight’s spine, adding to the creature’s terrifyingly gruesome appearance. Hellknights regard hellcrowns with a mixture of disgust and respect, considering the individuals who transform into these floating undead to have been resolute in purpose but weak in body.\n\n A hellcrown usually manifests hours or longer after its body’s death, and only when its body is unattended; this might even take days if the Hellknight perished in a major battle. Typically, no recognizable fragment of the Hellknight’s former personality survives the grisly transformation into a hellcrown, but in rare and particularly tragic cases a hellcrown might remember its life and hold grudges against those it views as the cause of its death. Regardless of whether they retain memories of their lives or have lost all former sense of self, hellcrowns linger around the site of their death, reminding all they encounter of the merciless principles of their order.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 17\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 15\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 12\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Hellcrown.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Hellcrown](/Monsters.aspx?ID=437)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 90</row>\n\n**Perception** +10; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** -2\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +4 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 20\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\ndeath effects, disease, paralyzed, poison, unconscious\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 25 feet\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nnail +9 ([range increment 20 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d4+2 piercing plus bleeding nail\n\n**Bleeding Nail**   If the hellcrown hits with a nail Strike, the target must attempt a DC 16 Fortitude save. On a failure, the nail is embedded in the creature, making it [enfeebled 1](/Conditions.aspx?ID=13) for 1 minute and giving it 1 persistent bleed damage ([enfeebled 2](/Conditions.aspx?ID=13) and 1d4 persistent bleed damage on a critical failure). Each additional embedded nail increases the [enfeebled](/Conditions.aspx?ID=13) value by 1 (to a maximum of [enfeebled 4](/Conditions.aspx?ID=13)) and the bleed damage by 1. A creature can remove a nail with an Interact action to reduce the [enfeeblement](/Conditions.aspx?ID=13) and amount of bleed damage. Pulling out the last nail removes both conditions.\r\n\r\n**Terrifying Stare** <actions string=\"Single Action\" /> ([Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) All creatures that can see the hellcrown and are suffering from its bleeding nail must attempt a DC 16 Will saving throw. A creature that fails is [frightened 1](/Conditions.aspx?ID=19), and on a critical failure becomes fleeing for as long as it’s [frightened](/Conditions.aspx?ID=19). Any creature that attempts a save is then temporarily immune for 10 minutes.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Other Hellcrowns</title>\r\n\r\nThe stats below reflect a hellcrown that arose from a knight of the Order of the Nail. These hellcrowns are identified by the prominent horns of their helmet. Hellcrowns risen from other Hellknight orders have different abilities reflecting their orders' principles and methods of discipline.\r\n</aside>",
+ "name": "Hellcrown",
+ "npc": false,
+ "perception": 10,
+ "rarity": "uncommon",
+ "reflex_save": 6,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 90</row>\n\n<row gap=\"medium\">\r\n**HP** 20 ( negative healing )\r\n\r\n**AC** 16\r\n\r\n**Fort** +4\r\n\r\n**Ref** +6\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe life of a Hellknight is bloody, brutal, and often short. Many who perish in service to a Hellknight order are glad to rest after having served …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Intimidation +8",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Pathfinder #145: Hellknight Hill"
+ ],
+ "source_raw": [
+  "Pathfinder #145: Hellknight Hill pg. 90"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 90</row>",
+ "speed": {
+  "fly": 25,
+  "max": 25
+ },
+ "speed_markdown": "fly 25 feet",
+ "speed_raw": "fly 25 feet",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "stealth": "7",
+ "strength": -2,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The life of a Hellknight is bloody, brutal, and often short. Many who perish in service to a Hellknight order are glad to rest after having served …",
+ "summary_markdown": "The life of a Hellknight is bloody, brutal, and often short. Many who perish in service to a Hellknight order are glad to rest after having served …",
+ "text": " Hellcrown The life of a Hellknight is bloody, brutal, and often short. Many who perish in service to a Hellknight order are glad to rest after having served their masters so faithfully, but others seek to continue their work even in death. When a Hellknight is decapitated, the ghostly undead known as a hellcrown is an occasional result. Consumed by the desire to bring about order by inflicting cruelty, hellcrowns haunt battlefields and abandoned castles, slaying all they encounter. A strange fusion of spirit and steel, a hellcrown has no corporeal form by itself, but instead inhabits the helmet it so proudly wore in life. Dangling from the helmet like a shroud is a shadow of the former Hellknight’s spine, adding to the creature’s terrifyingly gruesome appearance. Hellknights regard hellcrowns with a mixture of disgust and respect, considering the individuals who transform into these floating undead to have been resolute in purpose but weak in body. A hellcrown usually manifests hours or longer after its body’s death, and only when its body is unattended; this might even take days if the Hellknight perished in a major battle. Typically, no recognizable fragment of the Hellknight’s former personality survives the grisly transformation into a hellcrown, but in rare and particularly tragic cases a hellcrown might remember its life and hold grudges against those it views as the cause of its death. Regardless of whether they retain memories of their lives or have lost all former sense of self, hellcrowns linger around the site of their death, reminding all they encounter of the merciless principles of their order. Recall Knowledge - Undead (Religion): DC 17 Unspecific Lore : DC 15 Specific Lore : DC 12 Hellcrown Source Pathfinder #145: Hellknight Hill pg. 90 Perception +10; darkvision Languages Common Skills Intimidation +8, Stealth +7 Str -2 Dex +4 Con +3 Int -1 Wis +1 Cha +1 --- AC 16 Fort +4 Ref +6 Will +10 HP 20 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed fly 25 feet Ranged Single Action nail +9 (range increment 20 feet), Damage 1d4+2 piercing plus bleeding nail Bleeding Nail If the hellcrown hits with a nail Strike, the target must attempt a DC 16 Fortitude save. On a failure, the nail is embedded in the creature, making it enfeebled 1 for 1 minute and giving it 1 persistent bleed damage (enfeebled 2 and 1d4 persistent bleed damage on a critical failure). Each additional embedded nail increases the enfeebled value by 1 (to a maximum of enfeebled 4) and the bleed damage by 1. A creature can remove a nail with an Interact action to reduce the enfeeblement and amount of bleed damage. Pulling out the last nail removes both conditions. Terrifying Stare Single Action (Fear, Mental, Visual) All creatures that can see the hellcrown and are suffering from its bleeding nail must attempt a DC 16 Will saving throw. A creature that fails is frightened 1, and on a critical failure becomes fleeing for as long as it’s frightened. Any creature that attempts a save is then temporarily immune for 10 minutes. Other Hellcrowns The stats below reflect a hellcrown that arose from a knight of the Order of the Nail. These hellcrowns are identified by the prominent horns of their helmet. Hellcrowns risen from other Hellknight orders have different abilities reflecting their orders' principles and methods of discipline. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "LE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=437",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 1
+}

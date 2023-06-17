@@ -1,0 +1,113 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Children of the Night",
+  "Mist Escape",
+  "Change Shape",
+  "Create Spawn",
+  "Dominate",
+  "Drink Blood",
+  "Turn to Mist",
+  "Sneak Attack"
+ ],
+ "creature_family": "Vampire",
+ "creature_family_markdown": "[Vampire](/MonsterFamilies.aspx?ID=97)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 132,
+ "hp_raw": "132 (coffin restoration,  fast healing 10 ,  negative healing )",
+ "id": "creature-2149",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyze",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyze](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Vampire Guardian](/Monsters.aspx?ID=2149)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Vampire Guardian](/Monsters.aspx?ID=2149)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Vampire\" url=\"/Traits.aspx?ID=242\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 50</row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +21, [Deception](/Skills.aspx?ID=5) +19, [Intimidation](/Skills.aspx?ID=7) +19, [Society](/Skills.aspx?ID=14) +18, [Stealth](/Skills.aspx?ID=15) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** +2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Children of the Night** ([divine](/Traits.aspx?ID=48), [enchantment](/Traits.aspx?ID=61), [mental](/Traits.aspx?ID=106)) The vampire's presence brings forth creatures of the night to do the master's bidding. These typically include rat swarms, bat swarms, and wolves, but can include other creatures. The vampire can give telepathic orders to these creatures as long as they are within 100 feet, but they can't communicate back.\r\n\r\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [rapier](/Weapons.aspx?ID=36)_, _+1 [leather armor](/Armor.aspx?ID=4)_, _+1 [striking](/Equipment.aspx?ID=280) [composite shortbow](/Weapons.aspx?ID=75)_ (20 arrows)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 132\r\n(coffin restoration, [fast healing 10](/MonsterAbilities.aspx?ID=15), [negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyze](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\n[vampire ](/MonsterFamilies.aspx?ID=97)\r\n\r\n**Mist Escape** <actions string=\"Free Action\" /> **Trigger** The vampire is reduced to 0 HP. **Effect** The vampire uses Turn to Mist. It can take [move](/Traits.aspx?ID=114) actions to move toward its coffin even though it's at 0 HP. While at 0 HP in this form, the vampire is unaffected by further damage. It automatically returns to its corporeal form, [unconscious](/Conditions.aspx?ID=38), if it reaches its coffin or after 2 hours, whichever comes first.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_rapier_ +22 ([deadly d8](/Traits.aspx?ID=174), [Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+11 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +21 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+11 slashing plus Grab\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_shortbow_ +20 ([deadly d10](/Traits.aspx?ID=174), [Propulsive](/Traits.aspx?ID=191), [range 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+11 piercing\n\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The vampire transforms into one of its animal forms or back into its normal form. Most vampires can turn into a bat, but some can turn into a different creature, such as a rat or a wolf. Use the options in the aerial form and animal form spells as guidelines. A vampire guardian's giant bat form's fangs have a +21 attack bonus and deal 2d6+11 piercing damage. \n<ul><li>Bat The vampire changes into a bat swarm or giant bat. It gains echolocation 40 feet, a land Speed of 20 feet and a fly Speed of 30 feet, and a fangs Strike with the same attack bonus as its highest melee attack. These fangs deal the same amount of damage as the vampire's claws, but deal piercing damage rather than slashing damage.</li></ul>\r\n\r\n**Create Spawn**  ([Divine](/Traits.aspx?ID=48), [Downtime](/Traits.aspx?ID=49), [Necromancy](/Traits.aspx?ID=117)) If a creature dies after being reduced to 0 HP by Drink Blood, the vampire can turn this victim into a vampire by donating some of its own blood to the victim and burying the victim in earth for 3 nights. If the new vampire is lower level than its creator, it is under the creator's control. If a vampire controls too many spawn at once (as determined by the GM), strong-willed spawn can free themselves by succeeding at a Will saving throw against the vampire's Will DC.\r\n\r\n**Dominate** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) The vampire can cast [_dominate_](/Spells.aspx?ID=87) at will as a divine innate spell (DC 26). Casting it requires staring into the target's eyes, giving the spell the [visual](/Traits.aspx?ID=163) trait. A creature that succeeds is temporarily immune to that vampire's Dominate for 24 hours. Fully destroying the vampire ends the domination, but merely reducing the vampire to 0 HP is insufficient to break the spell.\r\n\r\n**Drink Blood** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Requirement** A [grabbed](/Conditions.aspx?ID=20), [paralyzed](/Conditions.aspx?ID=28), [restrained](/Conditions.aspx?ID=33), [unconscious](/Conditions.aspx?ID=38), or willing creature is within the vampire's reach. **Effect** The vampire sinks its fangs into that creature to drink its blood. This requires an [Athletics](/Skills.aspx?ID=3) check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [drained 1](/Conditions.aspx?ID=10) and the vampire guardian regains 13 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drain value by 1. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.<br /> A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a DC 20 [Medicine](/Skills.aspx?ID=9) check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.\r\n\r\n**Turn to Mist** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Transmutation](/Traits.aspx?ID=157)) The vampire turns into a cloud of vapor, as the [_gaseous form_](/Spells.aspx?ID=129) spell, or back to its normal form. The vampire loses [fast healing](/MonsterAbilities.aspx?ID=15) while in gaseous form. The vampire can remain in this form indefinitely.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   A vampire guardian deals 1d6 extra precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-97\" />",
+ "name": "Vampire Guardian",
+ "npc": false,
+ "perception": 21,
+ "rarity": "rare",
+ "reflex_save": 19,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Vampire\" url=\"/Traits.aspx?ID=242\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 50</row>\r\n\r\n**Creature Family** [Vampire](/MonsterFamilies.aspx?ID=97)\r\n\r\n<row gap=\"medium\">\r\n**HP** 132 (coffin restoration,  fast healing 10 ,  negative healing )\r\n\r\n**AC** 29\r\n\r\n**Fort** +17\r\n\r\n**Ref** +19\r\n\r\n**Will** +21\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +21",
+  "Deception +19",
+  "Intimidation +19",
+  "Society +18",
+  "Stealth +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +21, [Deception](/Skills.aspx?ID=5) +19, [Intimidation](/Skills.aspx?ID=7) +19, [Society](/Skills.aspx?ID=14) +18, [Stealth](/Skills.aspx?ID=15) +19",
+ "source": [
+  "Pathfinder #184: The Ghouls Hunger"
+ ],
+ "source_raw": [
+  "Pathfinder #184: The Ghouls Hunger pg. 50"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 50</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "19",
+ "strength": 5,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Vampire Guardian Recall Knowledge - Undead (Religion): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Vampire Guardian Source Pathfinder #184: The Ghouls Hunger pg. 50 Perception +21; darkvision Languages Common, Necril Skills Acrobatics +19, Athletics +21, Deception +19, Intimidation +19, Society +18, Stealth +19 Str +5 Dex +3 Con +2 Int +2 Wis +5 Cha +3 Children of the Night (divine, enchantment, mental) The vampire's presence brings forth creatures of the night to do the master's bidding. These typically include rat swarms, bat swarms, and wolves, but can include other creatures. The vampire can give telepathic orders to these creatures as long as they are within 100 feet, but they can't communicate back. Items +1 striking rapier , +1 leather armor , +1 striking composite shortbow (20 arrows) --- AC 29 Fort +17 Ref +19 Will +21 HP 132 (coffin restoration, fast healing 10, negative healing) Immunities death effects, disease, paralyze, poison, sleep Weaknesses vampire Mist Escape Free Action Trigger The vampire is reduced to 0 HP. Effect The vampire uses Turn to Mist. It can take move actions to move toward its coffin even though it's at 0 HP. While at 0 HP in this form, the vampire is unaffected by further damage. It automatically returns to its corporeal form, unconscious, if it reaches its coffin or after 2 hours, whichever comes first. --- Speed 25 feet, climb 25 feet Melee Single Action rapier +22 (deadly d8, Disarm, Finesse), Damage 2d6+11 piercing Melee Single Action claw +21 (Agile), Damage 2d6+11 slashing plus Grab Ranged Single Action shortbow +20 (deadly d10, Propulsive, range 60 feet), Damage 2d6+11 piercing Change Shape Single Action (Concentrate, Divine, Polymorph, Transmutation) The vampire transforms into one of its animal forms or back into its normal form. Most vampires can turn into a bat, but some can turn into a different creature, such as a rat or a wolf. Use the options in the aerial form and animal form spells as guidelines. A vampire guardian's giant bat form's fangs have a +21 attack bonus and deal 2d6+11 piercing damage. Bat The vampire changes into a bat swarm or giant bat. It gains echolocation 40 feet, a land Speed of 20 feet and a fly Speed of 30 feet, and a fangs Strike with the same attack bonus as its highest melee attack. These fangs deal the same amount of damage as the vampire's claws, but deal piercing damage rather than slashing damage. Create Spawn (Divine, Downtime, Necromancy) If a creature dies after being reduced to 0 HP by Drink Blood, the vampire can turn this victim into a vampire by donating some of its own blood to the victim and burying the victim in earth for 3 nights. If the new vampire is lower level than its creator, it is under the creator's control. If a vampire controls too many spawn at once (as determined by the GM), strong-willed spawn can free themselves by succeeding at a Will saving throw against the vampire's Will DC. Dominate Two Actions (Divine, Enchantment, Incapacitation, Mental, Visual) The vampire can cast dominate at will as a divine innate spell (DC 26). Casting it requires staring into the target's eyes, giving the spell the visual trait. A creature that succeeds is temporarily immune to that vampire's Dominate for 24 hours. Fully destroying the vampire ends the domination, but merely reducing the vampire to 0 HP is insufficient to break the spell. Drink Blood Single Action (Divine, Necromancy) Requirement A grabbed, paralyzed, restrained, unconscious, or willing creature is within the vampire's reach. Effect The vampire sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is drained 1 and the vampire guardian regains 13 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drain value by 1. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a DC 20 Medicine check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes. Turn to Mist Single Action (Concentrate, Divine, Transmutation) The vampire turns into a cloud of vapor, as the gaseous form spell, or back to its normal form. The vampire loses fast healing while in gaseous form. The vampire can remain in this form indefinitely. Sneak Attack A vampire guardian deals 1d6 extra precision damage to flat-footed creatures. ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "Vampire",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160), [Vampire](/Traits.aspx?ID=242)",
+ "trait_raw": [
+  "Rare",
+  "Undead",
+  "Vampire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2149",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "weakness_markdown": "[vampire ](/MonsterFamilies.aspx?ID=97)",
+ "weakness_raw": " vampire  ",
+ "will_save": 21,
+ "wisdom": 5
+}

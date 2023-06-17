@@ -1,0 +1,101 @@
+{
+ "ac": 25,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Smoke Vision",
+  "Smoke Form",
+  "Noxious Fumes",
+  "Smoke Slash"
+ ],
+ "creature_family": "Elemental, Air",
+ "creature_family_markdown": "[Elemental, Air](/MonsterFamilies.aspx?ID=41)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 78,
+ "hp_raw": "78",
+ "id": "creature-648",
+ "immunity": [
+  "bleed",
+  "paralyzed",
+  "poison",
+  "precision",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -2,
+ "language": [
+  "Auran"
+ ],
+ "language_markdown": "[Auran](/Languages.aspx?ID=15)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Belker](/Monsters.aspx?ID=648)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese reclusive elementals have glowing red eyes, leathery wings, and long, sharp claws. While they always retain their shape, belkers can control the solidity of their forms at will, transforming into clouds of smoke, ash, and dust.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Belker](/Monsters.aspx?ID=648)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 106 <sup>2.0</sup></row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12), smoke vision\r\n\r\n**Languages**\r\n[Auran](/Languages.aspx?ID=15)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Smoke Vision** The belker ignores the [concealed](/Conditions.aspx?ID=4) condition from smoke.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 78\n\n**Immunities**\r\nbleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [sleep](/Traits.aspx?ID=145)\n\n**Smoke Form** The belker can occupy the same space as other creatures.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +17 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d10+5 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwing +17 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+5 bludgeoning\n\n**Noxious Fumes** <actions string=\"Two Actions\" />  **Requirement** The belker occupies the same space as a Medium or smaller creature; **Effect** The belker attempts to flow into the creature's lungs; the creature must attempt a DC 23 Fortitude save. On a failure, the creature partially inhales the belker and is [immobilized](/Conditions.aspx?ID=24) by the pain of the smoke rasping in its throat and lungs. The creature can attempt to exhale the belker by spending an action coughing and succeeding at a DC 23 Fortitude save. Most of the belker remains outside the creature, so the belker can still act normally. If the belker moves out of the creature's space or uses Noxious Fumes again, the creature automatically exhales it.\r\n\r\n**Smoke Slash** <actions string=\"Single Action\" />  **Requirement** The belker is partially inhaled by a creature; **Effect** The belker automatically deals its claw damage to the inhaling creature by forming a claw to slash and scrape the creature from within.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Belker Lore</title>\r\n\r\nFiercely territorial, belkers attack trespassers into their lands without mercy, slithering inside their lungs and raking their bodies from the inside. Many belkers are loyal to the Elemental Lord of Air, [Hshura](/Deities.aspx?ID=57), but some hold secret allegiances to [Ymeri](/Deities.aspx?ID=108), who holds domain over fire and smoke.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-41\" />",
+ "name": "Belker",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 106 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Elemental, Air](/MonsterFamilies.aspx?ID=41)\r\n\r\n<row gap=\"medium\">\r\n**HP** 78\r\n\r\n**AC** 25\r\n\r\n**Fort** +13\r\n\r\n**Ref** +17\r\n\r\n**Will** +12\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese reclusive elementals have glowing red eyes, leathery wings, and long, sharp claws. While they always retain their shape, belkers can control …\r\n</summary>",
+ "sense": " darkvision , smoke vision",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), smoke vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 106"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 106 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 40,
+  "land": 25,
+  "max": 40
+ },
+ "speed_markdown": "25 feet, fly 40 feet",
+ "speed_raw": "25 feet, fly 40 feet",
+ "spell_markdown": "",
+ "stealth": "15",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "These reclusive elementals have glowing red eyes, leathery wings, and long, sharp claws. While they always retain their shape, belkers can control …",
+ "summary_markdown": "These reclusive elementals have glowing red eyes, leathery wings, and long, sharp claws. While they always retain their shape, belkers can control …",
+ "text": " Belker These reclusive elementals have glowing red eyes, leathery wings, and long, sharp claws. While they always retain their shape, belkers can control the solidity of their forms at will, transforming into clouds of smoke, ash, and dust. Recall Knowledge - Elemental (Arcana, Nature): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Belker Source Bestiary 2 pg. 106 2.0 Perception +14; darkvision, smoke vision Languages Auran Skills Acrobatics +15, Stealth +15 Str +2 Dex +5 Con +3 Int -2 Wis +4 Cha +0 Smoke Vision The belker ignores the concealed condition from smoke. --- AC 25 Fort +13 Ref +17 Will +12 HP 78 Immunities bleed, paralyzed, poison, precision, sleep Smoke Form The belker can occupy the same space as other creatures. --- Speed 25 feet, fly 40 feet Melee Single Action claw +17 (Agile, Finesse), Damage 2d10+5 slashing Melee Single Action wing +17 (Agile, Finesse, reach 10 feet), Damage 2d8+5 bludgeoning Noxious Fumes Two Actions Requirement The belker occupies the same space as a Medium or smaller creature; Effect The belker attempts to flow into the creature's lungs; the creature must attempt a DC 23 Fortitude save. On a failure, the creature partially inhales the belker and is immobilized by the pain of the smoke rasping in its throat and lungs. The creature can attempt to exhale the belker by spending an action coughing and succeeding at a DC 23 Fortitude save. Most of the belker remains outside the creature, so the belker can still act normally. If the belker moves out of the creature's space or uses Noxious Fumes again, the creature automatically exhales it. Smoke Slash Single Action Requirement The belker is partially inhaled by a creature; Effect The belker automatically deals its claw damage to the inhaling creature by forming a claw to slash and scrape the creature from within. Belker Lore Fiercely territorial, belkers attack trespassers into their lands without mercy, slithering inside their lungs and raking their bodies from the inside. Many belkers are loyal to the Elemental Lord of Air, Hshura, but some hold secret allegiances to Ymeri, who holds domain over fire and smoke. ",
+ "trait": [
+  "Air",
+  "Elemental",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Elemental](/Traits.aspx?ID=57)",
+ "trait_raw": [
+  "Air",
+  "Elemental"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=648",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 4
+}

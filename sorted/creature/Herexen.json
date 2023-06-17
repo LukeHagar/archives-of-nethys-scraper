@@ -1,0 +1,108 @@
+{
+ "ac": 17,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 1,
+ "creature_ability": [
+  "Final Blasphemy",
+  "Heretic's Smite"
+ ],
+ "creature_family": "Herexen",
+ "creature_family_markdown": "[Herexen](/MonsterFamilies.aspx?ID=307)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 5,
+ "hp": 30,
+ "hp_raw": "30 ( negative healing )",
+ "id": "creature-1192",
+ "image": [
+  "/Images/Monsters/Herexen.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Herexen](/Monsters.aspx?ID=1192)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen a cleric rebels against their deity and dies in the grip of blasphemous rage, the heresies they committed in life may fuel their transformation into an undead herexen. Herexens seek vengeance against the deity they once worshipped, defiling temples, slaying the faithful, and rallying lesser undead and death cultists to aid them in their unholy quests. Though a herexen's divine gifts have mostly been corrupted into the vileness of undeath, they stubbornly cling to remnants of their former power, still wielding magic and armaments favored by the deity they so greatly despise.\n\n Groups of herexens that blasphemed against the same deity sometimes combine to form a mockery of a congregation, conducting blasphemous rites with something approaching euphoria. These congregations are more often formed from a blasphemous cult who practiced their heresy together in life and died together, though some gather independent herexens of the same former faith.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Herexen.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Herexen](/Monsters.aspx?ID=1192)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 134</row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6, [Deception](/Skills.aspx?ID=5) +7, [Religion](/Skills.aspx?ID=13) +10, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +2\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3), defiled [religious symbol](/Equipment.aspx?ID=41) of [Pharasma](/Deities.aspx?ID=14)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 30\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Final Blasphemy** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117), [negative](/Traits.aspx?ID=118)) When the herexen is destroyed, it explodes in a wave of negative energy with the effects of a 3-action [_harm_](/Spells.aspx?ID=146) spell (DC 20). The herexen is destroyed, so it doesn't gain any Hit Points from this use of harm, and it doesn't need to have any harm spells remaining to use this ability.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +10 ([Agile](/Traits.aspx?ID=170), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+4 piercing plus heretic's smite\r\n\r\n**Divine Prepared Spells** DC 18\r\n- **1st**\r\n[Harm](/Spells.aspx?ID=146) (×4)\r\n\r\n**Cleric Domain Spells** DC 20,  1 Focus Point\r\n- **1st**\r\n[Death's Call](/Spells.aspx?ID=413)\r\n\r\n**Heretic's Smite**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) While wielding the favored weapon of its former deity (such as a [dagger](/Weapons.aspx?ID=3) for an ex-[Pharasmin](/Deities.aspx?ID=14) herexen), the herexen's Strikes deal an additional 1d6 evil damage against creatures that can cast divine spells.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Herexen Lairs</title>\r\n\r\nMost herexens settle down in a particular town or region to corrupt the local populace. Powerful herexens may boldly lair in a defiled temple, creating a vile parody of the building's former glory. However, most herexens hide in decrepit places such as ruins, forgotten basements, or tombs\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-307\" />",
+ "name": "Herexen",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 8,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 134</row>\r\n\r\n**Creature Family** [Herexen](/MonsterFamilies.aspx?ID=307)\r\n\r\n<row gap=\"medium\">\r\n**HP** 30 ( negative healing )\r\n\r\n**AC** 17\r\n\r\n**Fort** +5\r\n\r\n**Ref** +8\r\n\r\n**Will** +10\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a cleric rebels against their deity and dies in the grip of blasphemous rage, the heresies they committed in life may fuel their transformation …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +6",
+  "Deception +7",
+  "Religion +10",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6, [Deception](/Skills.aspx?ID=5) +7, [Religion](/Skills.aspx?ID=13) +10, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 134"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 134</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Harm",
+  "Death's Call"
+ ],
+ "spell_markdown": "[Death's Call](/Spells.aspx?ID=413), [Harm](/Spells.aspx?ID=146)",
+ "stealth": "6",
+ "strength": 2,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "When a cleric rebels against their deity and dies in the grip of blasphemous rage, the heresies they committed in life may fuel their transformation …",
+ "summary_markdown": "When a cleric rebels against their deity and dies in the grip of blasphemous rage, the heresies they committed in life may fuel their transformation …",
+ "text": " Herexen When a cleric rebels against their deity and dies in the grip of blasphemous rage, the heresies they committed in life may fuel their transformation into an undead herexen. Herexens seek vengeance against the deity they once worshipped, defiling temples, slaying the faithful, and rallying lesser undead and death cultists to aid them in their unholy quests. Though a herexen's divine gifts have mostly been corrupted into the vileness of undeath, they stubbornly cling to remnants of their former power, still wielding magic and armaments favored by the deity they so greatly despise. Groups of herexens that blasphemed against the same deity sometimes combine to form a mockery of a congregation, conducting blasphemous rites with something approaching euphoria. These congregations are more often formed from a blasphemous cult who practiced their heresy together in life and died together, though some gather independent herexens of the same former faith. Recall Knowledge - Undead (Religion): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Herexen Source Bestiary 3 pg. 134 Perception +8; darkvision Languages Common, Necril Skills Athletics +6, Deception +7, Religion +10, Stealth +6 Str +2 Dex +2 Con +1 Int +0 Wis +4 Cha +3 Items Dagger, defiled religious symbol of Pharasma --- AC 17 Fort +5 Ref +8 Will +10 HP 30 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Final Blasphemy (divine, necromancy, negative) When the herexen is destroyed, it explodes in a wave of negative energy with the effects of a 3-action harm spell (DC 20). The herexen is destroyed, so it doesn't gain any Hit Points from this use of harm, and it doesn't need to have any harm spells remaining to use this ability. --- Speed 25 feet Melee Single Action dagger +10 (Agile, versatile S), Damage 1d6+4 piercing plus heretic's smite Divine Prepared Spells DC 18 - 1st Harm (×4) Cleric Domain Spells DC 20, 1 Focus Point - 1st Death's Call Heretic's Smite (Divine, Necromancy) While wielding the favored weapon of its former deity (such as a dagger for an ex-Pharasmin herexen), the herexen's Strikes deal an additional 1d6 evil damage against creatures that can cast divine spells. Herexen Lairs Most herexens settle down in a particular town or region to corrupt the local populace. Powerful herexens may boldly lair in a defiled temple, creating a vile parody of the building's former glory. However, most herexens hide in decrepit places such as ruins, forgotten basements, or tombs ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1192",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 4
+}

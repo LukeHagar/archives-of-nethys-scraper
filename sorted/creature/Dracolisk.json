@@ -1,0 +1,107 @@
+{
+ "ac": 28,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 5,
+ "creature_ability": [
+  "Draconic Resistance",
+  "Petrifying Glance",
+  "Breath Weapon",
+  "Petrifying Gaze",
+  "Savage Jaws"
+ ],
+ "creature_family": "Basilisk",
+ "creature_family_markdown": "[Basilisk](/MonsterFamilies.aspx?ID=124)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 155,
+ "hp_raw": "155",
+ "id": "creature-565",
+ "image": [
+  "/Images/Monsters/Basilisk_Drakolisk.png"
+ ],
+ "immunity": [
+  "paralyzed",
+  "petrified",
+  "sleep"
+ ],
+ "immunity_markdown": "[paralyzed](/Conditions.aspx?ID=28), [petrified](/Conditions.aspx?ID=30), sleep",
+ "intelligence": -3,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Dracolisk](/Monsters.aspx?ID=565)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDracolisks are rare magical crossbreeds of chromatic dragons and [basilisks](/Monsters.aspx?ID=44). None now know how they first came to be, but they have proven viable and can breed with one another as well as with basilisks. While a dracolisk appears much like a young true dragon of its parent type, its eight legs are an immediate indication that it is something more. Its coloration varies, depending on the nature of its draconic ancestry, though it's lighter on its underside and darker near its wing tips. A typical dracolisk is 15 feet long and weighs 3,000 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 28\r\n\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Basilisk_Drakolisk.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Dracolisk](/Monsters.aspx?ID=565)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 35 <sup>2.0</sup></row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense (imprecise) 30 feet](/MonsterAbilities.aspx?ID=40)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +21, [Stealth](/Skills.aspx?ID=15) +17, [Survival](/Skills.aspx?ID=16) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** -3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 155\n\n**Immunities**\r\n[paralyzed](/Conditions.aspx?ID=28), [petrified](/Conditions.aspx?ID=30), sleep\r\n\r\n**Resistances**\r\ndraconic resistance 10\n\n**Draconic Resistance** A dracolisk has resistance 10 to the type of damage it produces with its breath weapon (see below).<br />**Petrifying Glance** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [aura](/Traits.aspx?ID=206), [transmutation](/Traits.aspx?ID=157), [visual](/Traits.aspx?ID=163)) **Trigger** A creature within 30 feet that the dracolisk can see starts its turn; **Effect** The target must attempt a DC 26 Fortitude save. If it fails, it becomes [slowed 1](/Conditions.aspx?ID=35) for 1 minute as its body stiffens.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21,\r\n**Damage** 2d12+8 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +21 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d10+8 slashing\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65)) The dracolisk breathes a gout of energy based on its draconic heritage, as noted below. This breath weapon deals 6d10 damage of the appropriate type, with a DC 28 basic save of a type indicated in parenthesis below. The dracolisk can't use Breath Weapon again for 1d4 rounds. <br />**Black** (acid) 60-foot line of acid (Reflex) <br />**Blue** (electricity) 60-foot line of electricity (Reflex) <br />**Green** (poison) 30-foot cone of poison (Fortitude) <br />**Red** (fire) 30-foot cone of fire (Reflex) <br />**White** (cold) 30-foot cone of cold (Reflex)\r\n\r\n**Petrifying Gaze** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Concentrate](/Traits.aspx?ID=32), [Incapacitation](/Traits.aspx?ID=93), [Transmutation](/Traits.aspx?ID=157), [Visual](/Traits.aspx?ID=163)) The dracolisk stares at a creature it can see within 30 feet. That creature must attempt a DC 28 Fortitude save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [slowed 1](/Conditions.aspx?ID=35). If the creature already was slowed by this ability or Petrifying Glance, a failed save causes the creature to be [petrified](/Conditions.aspx?ID=30) permanently.<br />A creature petrified in this manner can be instantly restored to flesh by being coated (not just splashed) with fresh dracolisk or basilisk blood no more than 1 hour old. A single dracolisk contains enough blood to coat 1d4+2 Medium creatures in this manner.\r\n\r\n**Savage Jaws** <actions string=\"Two Actions\" />  The dracolisk makes a single Strike with its jaws. If the attack hits, it deals 4d12+16 piercing damage ([versatile S](/Traits.aspx?ID=200)). This counts as two attacks for its multiple attack penalty.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Draconic Heritage</title>\r\n\r\nA dracolisk's favored dwelling place most closely resembles that of its dragon parent: black dracolisks prefer marshlands, blue dracolisks favor deserts and warm hills, green dracolisks temperate or warm forests, red dracolisks warm mountains and deep caverns, and white dracolisks glaciers and frozen landscapes.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-124\" />",
+ "name": "Dracolisk",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 17,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "resistance_markdown": "draconic resistance 10",
+ "resistance_raw": "draconic resistance 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 35 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Basilisk](/MonsterFamilies.aspx?ID=124)\r\n\r\n<row gap=\"medium\">\r\n**HP** 155\r\n\r\n**AC** 28\r\n\r\n**Fort** +20\r\n\r\n**Ref** +17\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDracolisks are rare magical crossbreeds of chromatic dragons and  basilisks . None now know how they first came to be, but they have proven viable …\r\n</summary>",
+ "sense": " darkvision ,  tremorsense (imprecise) 30 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense (imprecise) 30 feet](/MonsterAbilities.aspx?ID=40)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +21",
+  "Stealth +17",
+  "Survival +20"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +21, [Stealth](/Skills.aspx?ID=15) +17, [Survival](/Skills.aspx?ID=16) +20",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 35"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 35 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 40,
+  "land": 20,
+  "max": 40
+ },
+ "speed_markdown": "20 feet, fly 40 feet",
+ "speed_raw": "20 feet, fly 40 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Dracolisks are rare magical crossbreeds of chromatic dragons and  basilisks . None now know how they first came to be, but they have proven viable …",
+ "summary_markdown": "Dracolisks are rare magical crossbreeds of chromatic dragons and  basilisks . None now know how they first came to be, but they have proven viable …",
+ "text": " Dracolisk Dracolisks are rare magical crossbreeds of chromatic dragons and basilisks. None now know how they first came to be, but they have proven viable and can breed with one another as well as with basilisks. While a dracolisk appears much like a young true dragon of its parent type, its eight legs are an immediate indication that it is something more. Its coloration varies, depending on the nature of its draconic ancestry, though it's lighter on its underside and darker near its wing tips. A typical dracolisk is 15 feet long and weighs 3,000 pounds. Recall Knowledge - Beast (Arcana, Nature): DC 28 Recall Knowledge - Dragon (Arcana): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Dracolisk Source Bestiary 2 pg. 35 2.0 Perception +18; darkvision, tremorsense (imprecise) 30 feet Languages Skills Acrobatics +17, Athletics +21, Stealth +17, Survival +20 Str +6 Dex +2 Con +5 Int -3 Wis +5 Cha +1 --- AC 28 Fort +20 Ref +17 Will +18 HP 155 Immunities paralyzed, petrified, sleep Resistances draconic resistance 10 Draconic Resistance A dracolisk has resistance 10 to the type of damage it produces with its breath weapon (see below). Petrifying Glance Reaction (arcane, aura, transmutation, visual) Trigger A creature within 30 feet that the dracolisk can see starts its turn; Effect The target must attempt a DC 26 Fortitude save. If it fails, it becomes slowed 1 for 1 minute as its body stiffens. --- Speed 20 feet, fly 40 feet Melee Single Action jaws +21, Damage 2d12+8 piercing Melee Single Action claw +21 (Agile), Damage 2d10+8 slashing Breath Weapon Two Actions (Arcane, Evocation) The dracolisk breathes a gout of energy based on its draconic heritage, as noted below. This breath weapon deals 6d10 damage of the appropriate type, with a DC 28 basic save of a type indicated in parenthesis below. The dracolisk can't use Breath Weapon again for 1d4 rounds. Black (acid) 60-foot line of acid (Reflex) Blue (electricity) 60-foot line of electricity (Reflex) Green (poison) 30-foot cone of poison (Fortitude) Red (fire) 30-foot cone of fire (Reflex) White (cold) 30-foot cone of cold (Reflex) Petrifying Gaze Two Actions (Arcane, Concentrate, Incapacitation, Transmutation, Visual) The dracolisk stares at a creature it can see within 30 feet. That creature must attempt a DC 28 Fortitude save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes slowed 1. If the creature already was slowed by this ability or Petrifying Glance, a failed save causes the creature to be petrified permanently. A creature petrified in this manner can be instantly restored to flesh by being coated (not just splashed) with fresh dracolisk or basilisk blood no more than 1 hour old. A single dracolisk contains enough blood to coat 1d4+2 Medium creatures in this manner. Savage Jaws Two Actions The dracolisk makes a single Strike with its jaws. If the attack hits, it deals 4d12+16 piercing damage (versatile S). This counts as two attacks for its multiple attack penalty. Draconic Heritage A dracolisk's favored dwelling place most closely resembles that of its dragon parent: black dracolisks prefer marshlands, blue dracolisks favor deserts and warm hills, green dracolisks temperate or warm forests, red dracolisks warm mountains and deep caverns, and white dracolisks glaciers and frozen landscapes. ",
+ "trait": [
+  "Beast",
+  "Dragon",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Dragon](/Traits.aspx?ID=50), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Dragon",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=565",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 5
+}

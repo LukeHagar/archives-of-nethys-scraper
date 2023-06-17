@@ -1,0 +1,102 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 1,
+ "creature_ability": [
+  "Deep Breath",
+  "Hidden Movement",
+  "Giant Centipede Venom",
+  "Sneak Attack",
+  "Terrain Advantage"
+ ],
+ "creature_family": "Lizardfolk",
+ "creature_family_markdown": "[Lizardfolk](/MonsterFamilies.aspx?ID=71)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 17,
+ "hp_raw": "17",
+ "id": "creature-292",
+ "image": [
+  "/Images/Monsters/Lizardfolk_LizardfolkScout.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Draconic",
+  "Iruxi"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Iruxi](/Languages.aspx?ID=32)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Lizardfolk Scout](/Monsters.aspx?ID=292)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIruxi scouts are the lizardfolk most often encountered by adventurers, for these explorers and hunters spend most of their lives on the move, constantly patrolling the territories held by their enclave. If intruders are driven off, it is the responsibility of the iruxi scouts to track them, observe them, and learn their ways and weaknesses so as to report back to the community and aid in the defense against potential reprisals.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Lizardfolk_LizardfolkScout.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Lizardfolk Scout](/Monsters.aspx?ID=292)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 231</row>\n\n**Perception** +8\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Iruxi](/Languages.aspx?ID=32)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +6, [Athletics](/Skills.aspx?ID=3) +5, [Diplomacy](/Skills.aspx?ID=6) +4, [Nature](/Skills.aspx?ID=10) +6, [Stealth](/Skills.aspx?ID=15) +6, [Survival](/Skills.aspx?ID=16) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[blowgun](/Weapons.aspx?ID=66) (10 darts, 1 of which is coated with [giant centipede venom](/Equipment.aspx?ID=113))\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 17\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +7,\r\n**Damage** 1d6+2 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +8 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d4+2 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nblowgun +8 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188), [range increment 20 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1 piercing plus giant centipede venom\n\n**Deep Breath**   A lizardfolk scout can hold their breath for 150 rounds (15 minutes).\r\n\r\n**Hidden Movement**   If the lizardfolk scout starts its turn undetected by a creature or hidden from it, that creature is [flat-footed](/Conditions.aspx?ID=16) against the scout’s attacks until the end of the scout's turn.\r\n\r\n**Giant Centipede Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage (1 round); **Stage 2** 1d8 poison damage and [flat-footed](/Conditions.aspx?ID=16) (1 round); **Stage 3** 1d12 poison damage, [clumsy 1](/Conditions.aspx?ID=3), and [flat-footed](/Conditions.aspx?ID=16) (1 round)\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The lizardfolk scout deals an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Terrain Advantage**   Non-lizardfolk creatures in difficult terrain and non-lizardfolk creatures that are in water and lack a swim Speed are [flat-footed](/Conditions.aspx?ID=16) to the lizardfolk scout.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-71\" />",
+ "name": "Lizardfolk Scout",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 231</row>\r\n\r\n**Creature Family** [Lizardfolk](/MonsterFamilies.aspx?ID=71)\r\n\r\n<row gap=\"medium\">\r\n**HP** 17\r\n\r\n**AC** 17\r\n\r\n**Fort** +6\r\n\r\n**Ref** +8\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIruxi scouts are the lizardfolk most often encountered by adventurers, for these explorers and hunters spend most of their lives on the move, …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +6",
+  "Athletics +5",
+  "Diplomacy +4",
+  "Nature +6",
+  "Stealth +6",
+  "Survival +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +6, [Athletics](/Skills.aspx?ID=3) +5, [Diplomacy](/Skills.aspx?ID=6) +4, [Nature](/Skills.aspx?ID=10) +6, [Stealth](/Skills.aspx?ID=15) +6, [Survival](/Skills.aspx?ID=16) +8",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 231"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 231</row>",
+ "speed": {
+  "land": 25,
+  "max": 25,
+  "swim": 20
+ },
+ "speed_markdown": "25 feet, swim 20 feet",
+ "speed_raw": "25 feet, swim 20 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Iruxi scouts are the lizardfolk most often encountered by adventurers, for these explorers and hunters spend most of their lives on the move, …",
+ "summary_markdown": "Iruxi scouts are the lizardfolk most often encountered by adventurers, for these explorers and hunters spend most of their lives on the move, …",
+ "text": " Lizardfolk Scout Iruxi scouts are the lizardfolk most often encountered by adventurers, for these explorers and hunters spend most of their lives on the move, constantly patrolling the territories held by their enclave. If intruders are driven off, it is the responsibility of the iruxi scouts to track them, observe them, and learn their ways and weaknesses so as to report back to the community and aid in the defense against potential reprisals. Recall Knowledge - Humanoid (Society): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Lizardfolk Scout Source Bestiary pg. 231 Perception +8 Languages Common, Draconic, Iruxi Skills Acrobatics +6, Athletics +5, Diplomacy +4, Nature +6, Stealth +6, Survival +8 Str +2 Dex +3 Con +1 Int -1 Wis +3 Cha +1 Items blowgun (10 darts, 1 of which is coated with giant centipede venom) --- AC 17 Fort +6 Ref +8 Will +6 HP 17 --- Speed 25 feet, swim 20 feet Melee Single Action jaws +7, Damage 1d6+2 piercing Melee Single Action tail +8 (Agile, Finesse), Damage 1d4+2 bludgeoning Ranged Single Action blowgun +8 (Agile, Nonlethal, range increment 20 feet, reload 1), Damage 1 piercing plus giant centipede venom Deep Breath A lizardfolk scout can hold their breath for 150 rounds (15 minutes). Hidden Movement If the lizardfolk scout starts its turn undetected by a creature or hidden from it, that creature is flat-footed against the scout’s attacks until the end of the scout's turn. Giant Centipede Venom (Poison) Saving Throw DC 17 Fortitude; Maximum Duration 6 rounds; Stage 1 1d6 poison damage (1 round); Stage 2 1d8 poison damage and flat-footed (1 round); Stage 3 1d12 poison damage, clumsy 1, and flat-footed (1 round) Sneak Attack The lizardfolk scout deals an extra 1d6 precision damage to flat-footed creatures. Terrain Advantage Non-lizardfolk creatures in difficult terrain and non-lizardfolk creatures that are in water and lack a swim Speed are flat-footed to the lizardfolk scout. ",
+ "trait": [
+  "Humanoid",
+  "Lizardfolk",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Lizardfolk](/Traits.aspx?ID=226)",
+ "trait_raw": [
+  "Humanoid",
+  "Lizardfolk"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=292",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 3
+}

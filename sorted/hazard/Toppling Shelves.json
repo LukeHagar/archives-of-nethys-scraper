@@ -1,0 +1,55 @@
+{
+ "ac": 18,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 22  Thievery  (expert) or  Engineering Lore  (trained) to shore up the shelf",
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hardness": 8,
+ "hardness_raw": "8",
+ "hazard_type": "Trap",
+ "hp": 30,
+ "hp_raw": "30 (BT 15), any attack that fails to destroy the shelf triggers its Topple reaction",
+ "id": "hazard-364",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 4,
+ "markdown": "<title level=\"1\" right=\"Hazard 4\" pfs=\"\">[Toppling Shelves](/Hazards.aspx?ID=364)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 58</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThis stone bookshelf is badly compromised. It's just one push away from toppling over.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 18 (trained) to notice the shelf's precarious instability\r\n\r\n**Disable**\r\nDC 22 [Thievery](/Skills.aspx?ID=17) (expert) or [Engineering Lore](/Armor.aspx?ID=22) (trained) to shore up the shelf\n\n<column gap=\"tiny\">\r\n\r\n**AC** 18, **Fort** +8, **Ref** +8\r\n\r\n**Hardness**\r\n8\r\n\r\n**HP**\r\n30 (BT 15), any attack that fails to destroy the shelf triggers its Topple reaction\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Topple** <actions string=\"Reaction\" /> **Trigger** The shelf is attacked or touched forcefully (such as by a creature [Shoved](/Actions.aspx?ID=38) into it); **Effect** The shelf tumbles over in the direction opposite its triggering creature, crashing onto the ground in a 10-foot-by-10-foot area. Creatures in the area take 4d8+10 bludgeoning damage (DC 25 [basic](/Rules.aspx?ID=329) Reflex save). A creature that critically fails its save falls [prone](/Conditions.aspx?ID=31). The affected area becomes difficult terrain.\n\n If the toppling shelf crashes into a space occupied by another toppling shelf, it triggers that shelf's Topple reaction. This can result in a chain reaction that causes multiple shelves to Topple, one after the other.",
+ "name": "Toppling Shelves",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2023-02-22",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 58</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis stone bookshelf is badly compromised. It's just one push away from toppling over.\r\n</summary>",
+ "source": [
+  "Pathfinder #188: They Watched the Stars"
+ ],
+ "source_raw": [
+  "Pathfinder #188: They Watched the Stars pg. 58"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 58</row>",
+ "speed": {},
+ "stealth": "DC 18 (trained) to notice the shelf's precarious instability",
+ "summary": "This stone bookshelf is badly compromised. It's just one push away from toppling over.",
+ "summary_markdown": "This stone bookshelf is badly compromised. It's just one push away from toppling over.",
+ "text": " Toppling Shelves Source Pathfinder #188: They Watched the Stars pg. 58 Complexity Simple This stone bookshelf is badly compromised. It's just one push away from toppling over. --- Stealth DC 18 (trained) to notice the shelf's precarious instability Disable DC 22 Thievery (expert) or Engineering Lore (trained) to shore up the shelf AC 18, Fort +8, Ref +8 Hardness 8 HP 30 (BT 15), any attack that fails to destroy the shelf triggers its Topple reaction Immunities critical hits, object immunities, precision damage Topple Reaction Trigger The shelf is attacked or touched forcefully (such as by a creature Shoved into it); Effect The shelf tumbles over in the direction opposite its triggering creature, crashing onto the ground in a 10-foot-by-10-foot area. Creatures in the area take 4d8+10 bludgeoning damage (DC 25 basic Reflex save). A creature that critically fails its save falls prone. The affected area becomes difficult terrain. If the toppling shelf crashes into a space occupied by another toppling shelf, it triggers that shelf's Topple reaction. This can result in a chain reaction that causes multiple shelves to Topple, one after the other.",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=364",
+ "weakness": {}
+}

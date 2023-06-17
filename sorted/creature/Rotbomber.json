@@ -1,0 +1,110 @@
+{
+ "ac": 31,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 4,
+ "creature_ability": [
+  "Slow",
+  "Pressurized Pustules",
+  "Gaseous Smash",
+  "Necrotic Rot",
+  "Propulsive Pestilence"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 250,
+ "hp_raw": "250 ( negative healing )",
+ "id": "creature-2157",
+ "image": [
+  "/Images/Monsters/Rotbomber.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -3,
+ "language_markdown": "",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"\">[Rotbomber](/Monsters.aspx?ID=2157)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDisgusting and dangerous, rotbombers bound around on all four limbs, ripping off the pressurized and explosive necrotic pustules that grow out of their backs to lob them toward their enemies. When they explode, the pustules emit concussive blasts of force and deadly pestilence that can infect a victim. Though slow and overburdened by the intense weight of the pustules, rotbombers can move with a surprising speed when they need to hunt down their quarry.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Rotbomber.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Rotbomber](/Monsters.aspx?ID=2157)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 87</row>\n\n**Perception** +25; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +7\r\n\r\n**Con** +4\r\n\r\n**Int** -3\r\n\r\n**Wis** +4\r\n\r\n**Cha** -3\r\n</row>\r\n\r\n**Slow** A rotbomber is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 250\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 10, slashing 10\r\n\r\n**Pressurized Pustules** When a rotbomber takes acid, fire, physical or sonic damage, there is a chance a prematurely developed pustule bursts open, determined by a DC 11 flat check. All creatures in a 10-foot emanation must succeed at DC 29 Fortitude save or become [sickened 2](/Conditions.aspx?ID=34). A creature that gets a critical failure becomes sickened 3. Any creature who attempts this save becomes temporarily immune to pressurized pustules for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +24,\r\n**Damage** 3d8+12 piercing plus necrotic rot\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +20 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+10 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nnecrotic pustule +26 ([Negative](/Traits.aspx?ID=118), [range increment 60 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 3d10+14 bludgeoning and negative damage plus necrotic rot\n\n**Gaseous Smash** <actions string=\"Two Actions\" />  **Frequency** once per round; **Effect** The rotbomber pulls two necrotic pustules from its body, one in each hand, and leaps into the air in an attempt to detonate them simultaneously on a hapless victim. The rotbomber [Leaps](/Actions.aspx?ID=81) up to 15 feet horizontally and 10 feet vertically to land in a square adjacent to a target creature and makes a necrotic pustule Strike against the target. If the Strike hits, it deals an additional 4d6 bludgeoning damage to the target. This counts as two attacks for the purposes of determining the rotbomber's multiple attack penalty, but the penalty does not increase until after the Gaseous Smash.\r\n\r\n**Necrotic Rot**  ([Disease](/Traits.aspx?ID=46), [Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118)) Necrotic rot withers and corrupts living tissue at an alarming rate. An infected creature can't heal damage it takes from necrotic rot until it has been cured of the disease. **Saving Throw** DC 29 Fortitude; **Stage 1** 2d6 negative damage (1 day); **Stage 2** [drained 1](/Conditions.aspx?ID=10); **Stage 3** 3d6 negative damage and drained 2; **Stage 4** dead, rising as a rotbomber immediately.\r\n\r\n**Propulsive Pestilence**   The pressurized necrotic gases within the rotbomber's pustules make them explode far more dramatically than most alchemists' bombs. The rotbomber's necrotic pustules deal [splash](/Traits.aspx?ID=150) damage to every creature within 15 feet of the target.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Rotbomber Variants</title>\r\n\r\n**Warning - this sidebar contains spoilers for the Blood Lords adventure path.**<br />Though the stat block presented for the rotbomber represents the most common version of the creature, GMs can feel free to experiment within the paradigms of the campaign to produce their own variants if they wish. For example, the Church of [Urgathoa](/Deities.aspx?ID=19) magically treats the [shadow ash](/Equipment.aspx?ID=1723) discovered by the player characters in chapter three to create frostbombers, whose necrotic pustules deal cold damage instead of negative damage. Such rotbomber variants can easily be made to harm foes with fire, electricity, sonic vibrations, or any other damage type the GM deems appropriate.\r\n</aside>",
+ "name": "Rotbomber",
+ "npc": false,
+ "perception": 25,
+ "rarity": "uncommon",
+ "reflex_save": 25,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 87</row>\n\n<row gap=\"medium\">\r\n**HP** 250 ( negative healing )\r\n\r\n**AC** 31\r\n\r\n**Fort** +19\r\n\r\n**Ref** +25\r\n\r\n**Will** +19\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDisgusting and dangerous, rotbombers bound around on all four limbs, ripping off the pressurized and explosive necrotic pustules that grow out of …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +25",
+  "Athletics +25"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +25",
+ "source": [
+  "Pathfinder #184: The Ghouls Hunger"
+ ],
+ "source_raw": [
+  "Pathfinder #184: The Ghouls Hunger pg. 87"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 87</row>",
+ "speed": {
+  "climb": 20,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 20 feet",
+ "speed_raw": "40 feet, climb 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Disgusting and dangerous, rotbombers bound around on all four limbs, ripping off the pressurized and explosive necrotic pustules that grow out of …",
+ "summary_markdown": "Disgusting and dangerous, rotbombers bound around on all four limbs, ripping off the pressurized and explosive necrotic pustules that grow out of …",
+ "text": " Rotbomber Disgusting and dangerous, rotbombers bound around on all four limbs, ripping off the pressurized and explosive necrotic pustules that grow out of their backs to lob them toward their enemies. When they explode, the pustules emit concussive blasts of force and deadly pestilence that can infect a victim. Though slow and overburdened by the intense weight of the pustules, rotbombers can move with a surprising speed when they need to hunt down their quarry. Recall Knowledge - Undead (Religion): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Rotbomber Source Pathfinder #184: The Ghouls Hunger pg. 87 Perception +25; darkvision Languages Skills Acrobatics +25, Athletics +25 Str +5 Dex +7 Con +4 Int -3 Wis +4 Cha -3 Slow A rotbomber is permanently slowed 1 and can't use reactions. --- AC 31 Fort +19 Ref +25 Will +19 HP 250 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses positive 10, slashing 10 Pressurized Pustules When a rotbomber takes acid, fire, physical or sonic damage, there is a chance a prematurely developed pustule bursts open, determined by a DC 11 flat check. All creatures in a 10-foot emanation must succeed at DC 29 Fortitude save or become sickened 2. A creature that gets a critical failure becomes sickened 3. Any creature who attempts this save becomes temporarily immune to pressurized pustules for 24 hours. --- Speed 40 feet, climb 20 feet Melee Single Action jaws +24, Damage 3d8+12 piercing plus necrotic rot Melee Single Action fist +20 (reach 10 feet), Damage 3d6+10 bludgeoning Ranged Single Action necrotic pustule +26 (Negative, range increment 60 feet, Splash), Damage 3d10+14 bludgeoning and negative damage plus necrotic rot Gaseous Smash Two Actions Frequency once per round; Effect The rotbomber pulls two necrotic pustules from its body, one in each hand, and leaps into the air in an attempt to detonate them simultaneously on a hapless victim. The rotbomber Leaps up to 15 feet horizontally and 10 feet vertically to land in a square adjacent to a target creature and makes a necrotic pustule Strike against the target. If the Strike hits, it deals an additional 4d6 bludgeoning damage to the target. This counts as two attacks for the purposes of determining the rotbomber's multiple attack penalty, but the penalty does not increase until after the Gaseous Smash. Necrotic Rot (Disease, Necromancy, Negative) Necrotic rot withers and corrupts living tissue at an alarming rate. An infected creature can't heal damage it takes from necrotic rot until it has been cured of the disease. Saving Throw DC 29 Fortitude; Stage 1 2d6 negative damage (1 day); Stage 2 drained 1; Stage 3 3d6 negative damage and drained 2; Stage 4 dead, rising as a rotbomber immediately. Propulsive Pestilence The pressurized necrotic gases within the rotbomber's pustules make them explode far more dramatically than most alchemists' bombs. The rotbomber's necrotic pustules deal splash damage to every creature within 15 feet of the target. Rotbomber Variants Warning - this sidebar contains spoilers for the Blood Lords adventure path. Though the stat block presented for the rotbomber represents the most common version of the creature, GMs can feel free to experiment within the paradigms of the campaign to produce their own variants if they wish. For example, the Church of Urgathoa magically treats the shadow ash discovered by the player characters in chapter three to create frostbombers, whose necrotic pustules deal cold damage instead of negative damage. Such rotbomber variants can easily be made to harm foes with fire, electricity, sonic vibrations, or any other damage type the GM deems appropriate. ",
+ "trait": [
+  "Mindless",
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mindless",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2157",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {
+  "positive": 10,
+  "slashing": 10
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 10, slashing 10",
+ "weakness_raw": " positive  10, slashing 10",
+ "will_save": 19,
+ "wisdom": 4
+}

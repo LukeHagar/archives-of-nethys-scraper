@@ -1,0 +1,147 @@
+{
+ "ac": 45,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 10,
+ "creature_ability": [
+  "Battlefield Bound",
+  "Rejuvenation",
+  "Troop Defenses",
+  "Form Up",
+  "Frightful Battle Cry",
+  "Ghostly Blades",
+  "Spectral Charge",
+  "Troop Movement"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 10,
+ "exclude_from_search": false,
+ "fortitude_save": 34,
+ "hp": 330,
+ "hp_raw": "330 ( negative healing , rejuvenation)",
+ "id": "creature-1875",
+ "image": [
+  "/Images/Monsters/LastGuard.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 7,
+ "language": [
+  "Common",
+  "Elven",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Necril](/Languages.aspx?ID=20)",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Last Guard](/Monsters.aspx?ID=1875)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHonor and broken oaths bind a last guard to a location they failed to defend in life. There they must keep watch until their duties are fulfilled or they are swayed by a compelling call to war, departing to march to battle.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 42\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 42\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 40\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 37\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/LastGuard.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Last Guard](/Monsters.aspx?ID=1875)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 117</row>\n\n**Perception** +33; [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +38, [Stealth](/Skills.aspx?ID=15) +38, [Warfare Lore](/Skills.aspx?ID=8) +35\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +10\r\n\r\n**Con** +10\r\n\r\n**Int** +7\r\n\r\n**Wis** +7\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Battlefield Bound** Without a call to war, a last guard can stray only a short distance from the location they failed to defend, typically 120 feet. Some last guards are instead bound to a province, kingdom, or nation, rather than a specific location.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 45 \r\n\r\n**Fort** +34 \r\n\r\n**Ref** +36 \r\n\r\n**Will** +31 \n\n</row>\r\n\r\n**HP** 330\r\n([negative healing](/MonsterAbilities.aspx?ID=42), rejuvenation)\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nall damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\r\n\r\n**Weaknesses**\r\narea damage 20, [splash](/Traits.aspx?ID=150) damage 10\r\n\r\n**Rejuvenation** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) When a last guard is destroyed, they re-form after 2d4 days within the location they're bound to, fully healed. A last guard can be permanently destroyed and move on to the afterlife only if they successfully defend the location they're bound to from large-scale attack, or fulfill a call to war.<br />**[Troop Defenses](/MonsterAbilities.aspx?ID=44)** \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 40 feet; troop movement\n\n**[Form Up](/MonsterAbilities.aspx?ID=43)** <actions string=\"Single Action\" />  The troop chooses one of the squares it currently occupies and redistributes its squares to any configuration in which all squares are contiguous and within 15 feet of the chosen square. The troop can't share its space with other creatures.\r\n\r\n**Frightful Battle Cry** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Divine](/Traits.aspx?ID=48), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Sonic](/Traits.aspx?ID=147)) The last guards unleash a soul-shaking bellow in unison. All creatures in a 60-foot cone take 7d6 sonic damage (DC 42 [basic](/Rules.aspx?ID=329) Will save). Any creature that fails its save is also [frightened 3](/Conditions.aspx?ID=19) (or frightened 4 on a critical failure). If the troop occupies 8 or fewer squares, this area decreases to a 30-foot cone.\r\n\r\n**Ghostly Blades** <actions string=\"Single Action to Three Actions\" />  **Frequency** once per round; **Effect** The last guards engage in a coordinated attack with their spectral curve blades against each enemy within 5 feet (DC 40 [basic](/Rules.aspx?ID=329) Reflex save). The damage depends on the number of actions.<br /> <actions string=\"Single Action\" /> 1d8+2 slashing and 1d8 negative damage<br /> <actions string=\"Two Actions\" /> 2d8+14 slashing and 2d8 negative damage<br /> <actions string=\"Three Actions\" /> 3d8+14 slashing and 3d8 negative damage\r\n\r\n**Spectral Charge** <actions string=\"Three Actions\" />  The last guards charge, swarming through their foes. The troop [Flies](/Actions.aspx?ID=94) up to double its Speed, dealing 4d8 negative damage to each creature whose space it moves through (DC 40 [basic](/Rules.aspx?ID=329) Reflex save). Any creature that fails its save is also [drained 1](/Conditions.aspx?ID=10) (or drained 2 on a critical failure). The troop can affect each creature only once in a single use of Spectral Charge.\r\n\r\n**Troop Movement**   Whenever the troop Strides, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Armies of Legend</title>\r\n\r\nLast guards are formed under very specific and tragic circumstances. While this last guard is composed of elves armed with curve blades who failed to defend an elven settlement, last guards can arise from any culture. They most commonly form from the spirits of [dwarves](/Ancestries.aspx?ID=1), [elves](/Ancestries.aspx?ID=2), [humans](/Ancestries.aspx?ID=6), and [orcs](/Ancestries.aspx?ID=19).\r\n</aside>",
+ "name": "Last Guard",
+ "npc": false,
+ "perception": 33,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 36,
+ "release_date": "2022-04-27",
+ "resistance": {
+  "acid": 10,
+  "all": 10,
+  "area": 10,
+  "bleed": 10,
+  "bludgeoning": 10,
+  "chaotic": 10,
+  "cold": 10,
+  "cold_iron": 10,
+  "electricity": 10,
+  "evil": 10,
+  "fire": 10,
+  "good": 10,
+  "lawful": 10,
+  "mental": 10,
+  "negative": 10,
+  "orichalcum": 10,
+  "physical": 10,
+  "piercing": 10,
+  "poison": 10,
+  "precision": 10,
+  "silver": 10,
+  "slashing": 10,
+  "sonic": 10,
+  "splash": 10
+ },
+ "resistance_markdown": "all damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all damage 10 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 117</row>\n\n<row gap=\"medium\">\r\n**HP** 330 ( negative healing , rejuvenation)\r\n\r\n**AC** 45\r\n\r\n**Fort** +34\r\n\r\n**Ref** +36\r\n\r\n**Will** +31\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHonor and broken oaths bind a last guard to a location they failed to defend in life. There they must keep watch until their duties are fulfilled or …\r\n</summary>",
+ "sense": " darkvision ,  lifesense  60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 60 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +38",
+  "Stealth +38",
+  "Warfare Lore +35"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +38, [Stealth](/Skills.aspx?ID=15) +38, [Warfare Lore](/Skills.aspx?ID=8) +35",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 117"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 117</row>",
+ "speed": {
+  "fly": 40,
+  "max": 40
+ },
+ "speed_markdown": "fly 40 feet; troop movement",
+ "speed_raw": "fly 40 feet; troop movement",
+ "spell_markdown": "",
+ "stealth": "38",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Honor and broken oaths bind a last guard to a location they failed to defend in life. There they must keep watch until their duties are fulfilled or …",
+ "summary_markdown": "Honor and broken oaths bind a last guard to a location they failed to defend in life. There they must keep watch until their duties are fulfilled or …",
+ "text": " Last Guard Honor and broken oaths bind a last guard to a location they failed to defend in life. There they must keep watch until their duties are fulfilled or they are swayed by a compelling call to war, departing to march to battle. Recall Knowledge - Spirit (Occultism): DC 42 Recall Knowledge - Undead (Religion): DC 42 Unspecific Lore : DC 40 Specific Lore : DC 37 Last Guard Source Book of the Dead pg. 117 Perception +33; darkvision, lifesense 60 feet Languages Common, Elven, Necril Skills Acrobatics +38, Stealth +38, Warfare Lore +35 Str -5 Dex +10 Con +10 Int +7 Wis +7 Cha +6 Battlefield Bound Without a call to war, a last guard can stray only a short distance from the location they failed to defend, typically 120 feet. Some last guards are instead bound to a province, kingdom, or nation, rather than a specific location. --- AC 45 Fort +34 Ref +36 Will +31 HP 330 (negative healing, rejuvenation) Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all damage 10 (except force, ghost touch , or positive; double resistance vs. non-magical) Weaknesses area damage 20, splash damage 10 Rejuvenation (divine, necromancy) When a last guard is destroyed, they re-form after 2d4 days within the location they're bound to, fully healed. A last guard can be permanently destroyed and move on to the afterlife only if they successfully defend the location they're bound to from large-scale attack, or fulfill a call to war. Troop Defenses --- Speed fly 40 feet; troop movement Form Up Single Action The troop chooses one of the squares it currently occupies and redistributes its squares to any configuration in which all squares are contiguous and within 15 feet of the chosen square. The troop can't share its space with other creatures. Frightful Battle Cry Two Actions (Auditory, Divine, Emotion, Enchantment, Fear, Mental, Sonic) The last guards unleash a soul-shaking bellow in unison. All creatures in a 60-foot cone take 7d6 sonic damage (DC 42 basic Will save). Any creature that fails its save is also frightened 3 (or frightened 4 on a critical failure). If the troop occupies 8 or fewer squares, this area decreases to a 30-foot cone. Ghostly Blades Single Action to Three Actions Frequency once per round; Effect The last guards engage in a coordinated attack with their spectral curve blades against each enemy within 5 feet (DC 40 basic Reflex save). The damage depends on the number of actions. Single Action 1d8+2 slashing and 1d8 negative damage Two Actions 2d8+14 slashing and 2d8 negative damage Three Actions 3d8+14 slashing and 3d8 negative damage Spectral Charge Three Actions The last guards charge, swarming through their foes. The troop Flies up to double its Speed, dealing 4d8 negative damage to each creature whose space it moves through (DC 40 basic Reflex save). Any creature that fails its save is also drained 1 (or drained 2 on a critical failure). The troop can affect each creature only once in a single use of Spectral Charge. Troop Movement Whenever the troop Strides, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving. Armies of Legend Last guards are formed under very specific and tragic circumstances. While this last guard is composed of elves armed with curve blades who failed to defend an elven settlement, last guards can arise from any culture. They most commonly form from the spirits of dwarves, elves, humans, and orcs. ",
+ "trait": [
+  "Incorporeal",
+  "Spirit",
+  "Troop",
+  "Uncommon",
+  "Undead",
+  "LN",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Troop](/Traits.aspx?ID=367), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Spirit",
+  "Troop",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1875",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 20
+ },
+ "weakness_markdown": "area damage 20, [splash](/Traits.aspx?ID=150) damage 10",
+ "weakness_raw": "area damage 20,  splash  damage 10",
+ "will_save": 31,
+ "wisdom": 7
+}

@@ -1,0 +1,106 @@
+{
+ "ac": 28,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Meant to Live",
+  "Resurrection Vulnerability",
+  "Rise Again",
+  "Agonized Howl",
+  "Awful Approach",
+  "Death Grip"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 220,
+ "hp_raw": "220 (meant to live,  negative healing )",
+ "id": "creature-1908",
+ "image": [
+  "/Images/Monsters/Unrisen.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -2,
+ "language": [
+  "Common",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can't speak any language)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Unrisen](/Monsters.aspx?ID=1908)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn unrisen is a mangled conglomeration of splintered bones, decaying organs, and rotting flesh, created when a ritual such as [_resurrect_](/Rituals.aspx?ID=20) goes catastrophically wrong. Immense care must be taken, for if the ritual is a critical failure, an unrisen can be the result—as many a ritualist has learned to their horror. \n\nUnrisen are barely intelligent, aware only of the agony constantly inflicted by their flawed creation and their resentment for the living. They tend to attack the casters involved in the botched ritual first before lashing out at everyone else around them. Though an unrisen's twisted form is unrecognizable as the intended target of the resurrection, its wordless howls are often disturbingly similar to the deceased's voice. If an unrisen is destroyed before it can rise again, it's reduced to a handful of metallic blue-green salts referred to as essential salts.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Unrisen.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Unrisen](/Monsters.aspx?ID=1908)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 153</row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +24, [Stealth](/Skills.aspx?ID=15) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** -2\r\n\r\n**Wis** +6\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 220\r\n(meant to live, [negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\nresurrection vulnerability\r\n\r\n**Meant to Live** ([occult](/Traits.aspx?ID=120), [necromancy](/Traits.aspx?ID=117)) Whenever an unrisen would take damage from [positive](/Traits.aspx?ID=128) energy, it instead heals half that number of Hit Points.<br />**Resurrection Vulnerability** A creature with a prepared or spontaneous spell that can restore the dead to life (such as [_breath of life_](/Spells.aspx?ID=29) or [_raise dead_](/Spells.aspx?ID=243)) can expend an appropriate spell slot as a 2-action activity to destroy an unrisen within 30 feet. The attempt fails if the unrisen succeeds at a Will save against the creature's spell DC.<br />**Rise Again** ([necromancy](/Traits.aspx?ID=117), [occult](/Traits.aspx?ID=120)) If the unrisen is reduced to 0 Hit Points by means other than fire damage, disintegration, or its resurrection vulnerability, it returns to unlife at the start of its next turn. It has 100 Hit Points and is [prone](/Conditions.aspx?ID=31) in the space in which it was destroyed. The unrisen can't be returned by this ability again for 1 hour.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"\" />\r\njaws +24 ([deadly d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d8+13 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"\" />\r\nclaw +24 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+13 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Agonized Howl** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) The unrisen howls in pain at its cursed existence. Creatures within a 30-foot emanation take 9d8 mental damage (DC 30 [basic](/Rules.aspx?ID=329) Will save). The unrisen can't use Agonized Howl again for 1d4 rounds.\r\n\r\n**Awful Approach** <actions string=\"Single Action\" />  The unrisen reshapes its grotesque form to move swiftly. It Strides twice. Any living creature that can see the unrisen during this movement must succeed at a DC 28 Fortitude save or be [sickened 1](/Conditions.aspx?ID=34) (sickened 2 on a critical failure). This is a [mental](/Traits.aspx?ID=106) and [visual](/Traits.aspx?ID=163) effect. The unrisen can't use Awful Approach again for 1d4 rounds.\r\n\r\n**Death Grip** <actions string=\"Single Action\" /> ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) **Requirements** The unrisen has a living creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33); **Effect** The unrisen attempts to destroy its victim's life force to share the unrisen's fate. The creature must succeed at a DC 30 Fortitude save or become [doomed 1](/Conditions.aspx?ID=9). While the curse lasts, the creature regains only half as many HP from [positive](/Traits.aspx?ID=128) [healing](/Traits.aspx?ID=89) effects; if it dies, any attempt to raise it from the dead causes it to return as an unrisen. The curse ends automatically if the creature's doomed value is reduced to 0.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Unrisen Salts</title>\r\n\r\nAn unrisen's essential salts, formed from its remaining distilled life essence, can be used for spells and rituals such as [_raise dead_](/Spells.aspx?ID=243) or [_resurrect_](/Rituals.aspx?ID=20), replacing 600 gp worth of diamonds. The existence of these essential salts doesn't damage the soul of the unrisen's source creature, but devout [Pharasmins](/Deities.aspx?ID=14) still frown on its use.\r\n</aside>",
+ "name": "Unrisen",
+ "npc": false,
+ "perception": 21,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 153</row>\n\n<row gap=\"medium\">\r\n**HP** 220 (meant to live,  negative healing )\r\n\r\n**AC** 28\r\n\r\n**Fort** +22\r\n\r\n**Ref** +17\r\n\r\n**Will** +21\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn unrisen is a mangled conglomeration of splintered bones, decaying organs, and rotting flesh, created when a ritual such as   resurrect   goes …\r\n</summary>",
+ "sense": " darkvision ,  lifesense  30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +24",
+  "Stealth +19"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +24, [Stealth](/Skills.aspx?ID=15) +19",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 153"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 153</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "19",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "An unrisen is a mangled conglomeration of splintered bones, decaying organs, and rotting flesh, created when a ritual such as   resurrect   goes …",
+ "summary_markdown": "An unrisen is a mangled conglomeration of splintered bones, decaying organs, and rotting flesh, created when a ritual such as   resurrect   goes …",
+ "text": " Unrisen An unrisen is a mangled conglomeration of splintered bones, decaying organs, and rotting flesh, created when a ritual such as resurrect goes catastrophically wrong. Immense care must be taken, for if the ritual is a critical failure, an unrisen can be the result—as many a ritualist has learned to their horror. Unrisen are barely intelligent, aware only of the agony constantly inflicted by their flawed creation and their resentment for the living. They tend to attack the casters involved in the botched ritual first before lashing out at everyone else around them. Though an unrisen's twisted form is unrecognizable as the intended target of the resurrection, its wordless howls are often disturbingly similar to the deceased's voice. If an unrisen is destroyed before it can rise again, it's reduced to a handful of metallic blue-green salts referred to as essential salts. Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Unrisen Source Book of the Dead pg. 153 Perception +21; darkvision, lifesense 30 feet Languages Common; (can't speak any language) Skills Athletics +24, Stealth +19 Str +7 Dex +4 Con +5 Int -2 Wis +6 Cha +3 --- AC 28 Fort +22 Ref +17 Will +21 HP 220 (meant to live, negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses resurrection vulnerability Meant to Live (occult, necromancy) Whenever an unrisen would take damage from positive energy, it instead heals half that number of Hit Points. Resurrection Vulnerability A creature with a prepared or spontaneous spell that can restore the dead to life (such as breath of life or raise dead ) can expend an appropriate spell slot as a 2-action activity to destroy an unrisen within 30 feet. The attempt fails if the unrisen succeeds at a Will save against the creature's spell DC. Rise Again (necromancy, occult) If the unrisen is reduced to 0 Hit Points by means other than fire damage, disintegration, or its resurrection vulnerability, it returns to unlife at the start of its next turn. It has 100 Hit Points and is prone in the space in which it was destroyed. The unrisen can't be returned by this ability again for 1 hour. --- Speed 30 feet Melee jaws +24 (deadly d10, Magical), Damage 3d8+13 piercing plus Grab Melee claw +24 (Agile, Magical), Damage 2d8+13 slashing plus Grab Agonized Howl Two Actions (Auditory, Enchantment, Mental, Occult) The unrisen howls in pain at its cursed existence. Creatures within a 30-foot emanation take 9d8 mental damage (DC 30 basic Will save). The unrisen can't use Agonized Howl again for 1d4 rounds. Awful Approach Single Action The unrisen reshapes its grotesque form to move swiftly. It Strides twice. Any living creature that can see the unrisen during this movement must succeed at a DC 28 Fortitude save or be sickened 1 (sickened 2 on a critical failure). This is a mental and visual effect. The unrisen can't use Awful Approach again for 1d4 rounds. Death Grip Single Action (Curse, Necromancy, Occult) Requirements The unrisen has a living creature grabbed or restrained; Effect The unrisen attempts to destroy its victim's life force to share the unrisen's fate. The creature must succeed at a DC 30 Fortitude save or become doomed 1. While the curse lasts, the creature regains only half as many HP from positive healing effects; if it dies, any attempt to raise it from the dead causes it to return as an unrisen. The curse ends automatically if the creature's doomed value is reduced to 0. Unrisen Salts An unrisen's essential salts, formed from its remaining distilled life essence, can be used for spells and rituals such as raise dead or resurrect , replacing 600 gp worth of diamonds. The existence of these essential salts doesn't damage the soul of the unrisen's source creature, but devout Pharasmins still frown on its use. ",
+ "trait": [
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1908",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "weakness_markdown": "resurrection vulnerability",
+ "weakness_raw": "resurrection vulnerability",
+ "will_save": 21,
+ "wisdom": 6
+}

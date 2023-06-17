@@ -1,0 +1,99 @@
+{
+ "ac": 25,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Three Headed",
+  "Triple Opportunity",
+  "Attack of Opportunity",
+  "Breath Weapon",
+  "Spike Volley",
+  "Three-Headed Strike"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 120,
+ "hp_raw": "120",
+ "id": "creature-1968",
+ "intelligence": -3,
+ "language": [
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Chimeric Manticore](/Monsters.aspx?ID=1968)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Chimeric Manticore](/Monsters.aspx?ID=1968)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 31</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +13, [Survival](/Skills.aspx?ID=16) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 120\n\n**Three Headed** Any ability that would sever a chimera's head (such as a critical hit with a [_vorpal_](/Equipment.aspx?ID=308) weapon) severs one head at random. Losing a head doesn't kill a chimera (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon.<br />**Triple Opportunity** A chimera gains 2 extra reactions each round that it can use only to make Attacks of Opportunity. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses one of these extra reactions.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndragon jaws +18,\r\n**Damage** 2d6+8 piercing plus 2d6 electricity\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlion jaws +18,\r\n**Damage** 2d10+8 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ngoat horns +18,\r\n**Damage** 2d10+8 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+8 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspike +16 ([range increment 40 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d10+8 piercing\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65)) The chimeric manticore's blue-dragon head breathes a 60-foot line of electricity that deals 8d6 electrical damage to all creatures in the area (DC 25 [basic](/Rules.aspx?ID=329) Reflex save). The chimeric manticore can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Spike Volley** <actions string=\"Single Action\" />  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, Rendering it [immobilized](/Conditions.aspx?ID=24). A creature that succeeds at a DC 25 [Athletics](/Skills.aspx?ID=3) check (attempted as a single action) can pull the spike free.<br /> A manticore can hurl no more than 12 spikes in 24 hours.\r\n\r\n**Three-Headed Strike** <actions string=\"Two Actions\" />  The chimera makes a Strike with its dragon jaws, lion jaws, and goat horns, each at a –2 penalty and targeting a different creature. These Strikes count as only one attack for the chimera's multiple attack penalty, and the penalty doesn't increase until after it has made all three attacks.\r\n\r\n</column>",
+ "name": "Chimeric Manticore",
+ "npc": false,
+ "perception": 15,
+ "rarity": "rare",
+ "reflex_save": 15,
+ "release_date": "2022-05-25",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 31</row>\n\n<row gap=\"medium\">\r\n**HP** 120\r\n\r\n**AC** 25\r\n\r\n**Fort** +18\r\n\r\n**Ref** +15\r\n\r\n**Will** +12\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Athletics +17",
+  "Intimidation +11",
+  "Stealth +13",
+  "Survival +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +13, [Survival](/Skills.aspx?ID=16) +15",
+ "source": [
+  "Pathfinder #179: Cradle of Quartz"
+ ],
+ "source_raw": [
+  "Pathfinder #179: Cradle of Quartz pg. 31"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 31</row>",
+ "speed": {
+  "fly": 40,
+  "land": 25,
+  "max": 40
+ },
+ "speed_markdown": "25 feet, fly 40 feet",
+ "speed_raw": "25 feet, fly 40 feet",
+ "spell_markdown": "",
+ "spoilers": "Outlaws of Alkenstar",
+ "stealth": "13",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Chimeric Manticore Recall Knowledge - Beast (Arcana, Nature): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Chimeric Manticore Source Pathfinder #179: Cradle of Quartz pg. 31 Perception +15; darkvision, scent (imprecise) 30 feet Languages Common, Draconic Skills Acrobatics +13, Athletics +17, Intimidation +11, Stealth +13, Survival +15 Str +6 Dex +2 Con +4 Int -3 Wis +2 Cha +0 --- AC 25 Fort +18 Ref +15 Will +12 HP 120 Three Headed Any ability that would sever a chimera's head (such as a critical hit with a vorpal weapon) severs one head at random. Losing a head doesn't kill a chimera (as long as it has one head left), but it does prevent it from making Strikes with the lost head or using the head's Breath Weapon. Triple Opportunity A chimera gains 2 extra reactions each round that it can use only to make Attacks of Opportunity. It must use a different head for each reaction, and it can't use more than one on the same triggering action. If it loses one of its heads, it also loses one of these extra reactions. Attack of Opportunity Reaction --- Speed 25 feet, fly 40 feet Melee Single Action dragon jaws +18, Damage 2d6+8 piercing plus 2d6 electricity Melee Single Action lion jaws +18, Damage 2d10+8 piercing Melee Single Action goat horns +18, Damage 2d10+8 piercing Melee Single Action claw +18 (Agile), Damage 2d6+8 slashing Ranged Single Action spike +16 (range increment 40 feet), Damage 1d10+8 piercing Breath Weapon Two Actions (Arcane, Evocation) The chimeric manticore's blue-dragon head breathes a 60-foot line of electricity that deals 8d6 electrical damage to all creatures in the area (DC 25 basic Reflex save). The chimeric manticore can't use Breath Weapon again for 1d4 rounds. Spike Volley Single Action The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate Strike against each; this counts as only one Strike for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single Strike. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, Rendering it immobilized. A creature that succeeds at a DC 25 Athletics check (attempted as a single action) can pull the spike free. A manticore can hurl no more than 12 spikes in 24 hours. Three-Headed Strike Two Actions The chimera makes a Strike with its dragon jaws, lion jaws, and goat horns, each at a –2 penalty and targeting a different creature. These Strikes count as only one attack for the chimera's multiple attack penalty, and the penalty doesn't increase until after it has made all three attacks. ",
+ "trait": [
+  "Beast",
+  "Rare",
+  "Zombie",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Rare](/Traits.aspx?ID=137), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Beast",
+  "Rare",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1968",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 2
+}

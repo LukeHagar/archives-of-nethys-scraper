@@ -1,0 +1,101 @@
+{
+ "ac": 33,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 6,
+ "creature_ability": [
+  "Death Throes",
+  "Worm Chill",
+  "Freezing Blood",
+  "Breath Weapon",
+  "Worm Trill"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 225,
+ "hp_raw": "225",
+ "id": "creature-677",
+ "image": [
+  "/Images/Monsters/Frostworm.png"
+ ],
+ "immunity": [
+  "cold"
+ ],
+ "immunity_markdown": "cold",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Frost Worm](/Monsters.aspx?ID=677)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe frost worm's single round, red eye gleams prominently at the head of its monstrous mass, white as a winter snowfall. What appears to be a bifurcated lower jaw is actually two spiky parapodia that the worm uses to shovel food into its lamprey-like mouth. An adult frost worm measures 35 feet long and weighs 8,000 pounds.\n\n A frost worm is an apex predator that uses camouflage, burrowing, and deceit to ambush its prey. When it attacks, a frost worm produces a distinctive, high-pitched trill. Though some survivors of frost worm attacks have compared it to a wailing lament, the trill has a captivating effect on nearby creatures, causing them to stop and listen even as the monstrous creature approaches.\n\n The cold shed by a frost worm is as dangerous as its trill or its jaws, and while it is not fond of warmer climates, neither is it particularly hampered in such regions. A frost worm that somehow finds itself in temperate or even tropical environs causes the immediate area to chill and ice over with frost over time, creating seemingly impossible pockets of frozen terrain.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Frostworm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Frost Worm](/Monsters.aspx?ID=677)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 123 <sup>2.0</sup></row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Stealth](/Skills.aspx?ID=15) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +22 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 225\n\n**Immunities**\r\ncold\n\n**Weaknesses**\r\nfire 15\r\n\r\n**Death Throes** ([cold](/Traits.aspx?ID=27), [evocation](/Traits.aspx?ID=65), [primal](/Traits.aspx?ID=134)) When a frost worm dies, it explodes in a 100-foot burst of searing cold blood. All creatures and objects in range take 10d8 cold damage (DC 29 basic Reflex save).<br />**Worm Chill** ([aura](/Traits.aspx?ID=206), [cold](/Traits.aspx?ID=27), [evocation](/Traits.aspx?ID=65), [primal](/Traits.aspx?ID=134)) 5 feet. A creature that enters or begins its turn in the emanation takes 3d6 cold damage (DC 29 basic Reflex save).<br />**Freezing Blood** <actions string=\"Reaction\" /> ([cold](/Traits.aspx?ID=27)) **Trigger** The frost worm takes piercing or slashing damage; **Effect** The frost worm's freezing blood sprays out on a random creature within 10 feet of the frost worm. That creature takes 7d6 cold damage (DC 29 basic Reflex save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, burrow 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +25,\r\n**Damage** 3d8+10 piercing plus 2d6 [persistent cold](/Conditions.aspx?ID=29)\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The frost worm exhales a blast of frost, dealing 13d6 cold damage to creatures in a 50-foot cone (DC 32 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Worm Trill** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The frost worm emits a hypnotic trill. Each non–frost worm creature within 100 feet must attempt a DC 32 Will save. The effects of Worm Trill last for 1 round, but if the frost worm uses this ability again on subsequent rounds, it extends this duration by 1 round for any creature already affected. <br />**Success** The creature is unaffected and is immune to Worm Trill for 24 hours. <br />**Failure** The creature is [fascinated](/Conditions.aspx?ID=14) by the frost worm. <br />**Critical Failure** As failure, but the fascinated condition doesn't end if the frost worm uses hostile actions against the creature.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Unknown Origins</title>\r\n\r\nFrost worms are clearly supernatural in origin, though the source of their magical abilities remains unclear. Research is hampered by the fact that neither the corpse nor its magic survive the creature's death, and live frost worms are notoriously difficult and dangerous to keep or transport. Evidence exists that the winter witches of Irrisen may have created the first frost worms, while other clues suggest they hail from the distant planet of Triaxus.\r\n</aside>",
+ "name": "Frost Worm",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 22,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 123 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 225\r\n\r\n**AC** 33\r\n\r\n**Fort** +24\r\n\r\n**Ref** +22\r\n\r\n**Will** +20\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe frost worm's single round, red eye gleams prominently at the head of its monstrous mass, white as a winter snowfall. What appears to be a …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Stealth +20"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Stealth](/Skills.aspx?ID=15) +20",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 123"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 123 <sup>2.0</sup></row>",
+ "speed": {
+  "burrow": 10,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, burrow 10 feet",
+ "speed_raw": "25 feet, burrow 10 feet",
+ "spell_markdown": "",
+ "stealth": "20",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The frost worm's single round, red eye gleams prominently at the head of its monstrous mass, white as a winter snowfall. What appears to be a …",
+ "summary_markdown": "The frost worm's single round, red eye gleams prominently at the head of its monstrous mass, white as a winter snowfall. What appears to be a …",
+ "text": " Frost Worm The frost worm's single round, red eye gleams prominently at the head of its monstrous mass, white as a winter snowfall. What appears to be a bifurcated lower jaw is actually two spiky parapodia that the worm uses to shovel food into its lamprey-like mouth. An adult frost worm measures 35 feet long and weighs 8,000 pounds. A frost worm is an apex predator that uses camouflage, burrowing, and deceit to ambush its prey. When it attacks, a frost worm produces a distinctive, high-pitched trill. Though some survivors of frost worm attacks have compared it to a wailing lament, the trill has a captivating effect on nearby creatures, causing them to stop and listen even as the monstrous creature approaches. The cold shed by a frost worm is as dangerous as its trill or its jaws, and while it is not fond of warmer climates, neither is it particularly hampered in such regions. A frost worm that somehow finds itself in temperate or even tropical environs causes the immediate area to chill and ice over with frost over time, creating seemingly impossible pockets of frozen terrain. Recall Knowledge - Animal (Nature): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Frost Worm Source Bestiary 2 pg. 123 2.0 Perception +22; darkvision Languages Skills Athletics +25, Stealth +20 Str +7 Dex +4 Con +6 Int -4 Wis +4 Cha +0 --- AC 33 Fort +24 Ref +22 Will +20 HP 225 Immunities cold Weaknesses fire 15 Death Throes (cold, evocation, primal) When a frost worm dies, it explodes in a 100-foot burst of searing cold blood. All creatures and objects in range take 10d8 cold damage (DC 29 basic Reflex save). Worm Chill (aura, cold, evocation, primal) 5 feet. A creature that enters or begins its turn in the emanation takes 3d6 cold damage (DC 29 basic Reflex save). Freezing Blood Reaction (cold) Trigger The frost worm takes piercing or slashing damage; Effect The frost worm's freezing blood sprays out on a random creature within 10 feet of the frost worm. That creature takes 7d6 cold damage (DC 29 basic Reflex save). --- Speed 25 feet, burrow 10 feet Melee Single Action jaws +25, Damage 3d8+10 piercing plus 2d6 persistent cold Breath Weapon Two Actions (Cold, Evocation, Primal) The frost worm exhales a blast of frost, dealing 13d6 cold damage to creatures in a 50-foot cone (DC 32 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds. Worm Trill Single Action (Auditory, Concentrate, Enchantment, Mental, Primal) The frost worm emits a hypnotic trill. Each non–frost worm creature within 100 feet must attempt a DC 32 Will save. The effects of Worm Trill last for 1 round, but if the frost worm uses this ability again on subsequent rounds, it extends this duration by 1 round for any creature already affected. Success The creature is unaffected and is immune to Worm Trill for 24 hours. Failure The creature is fascinated by the frost worm. Critical Failure As failure, but the fascinated condition doesn't end if the frost worm uses hostile actions against the creature. Unknown Origins Frost worms are clearly supernatural in origin, though the source of their magical abilities remains unclear. Research is hampered by the fact that neither the corpse nor its magic survive the creature's death, and live frost worms are notoriously difficult and dangerous to keep or transport. Evidence exists that the winter witches of Irrisen may have created the first frost worms, while other clues suggest they hail from the distant planet of Triaxus. ",
+ "trait": [
+  "Animal",
+  "Cold",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Cold](/Traits.aspx?ID=27)",
+ "trait_raw": [
+  "Animal",
+  "Cold"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=677",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 15
+ },
+ "weakness_markdown": "fire 15",
+ "weakness_raw": "fire 15",
+ "will_save": 20,
+ "wisdom": 4
+}

@@ -1,0 +1,107 @@
+{
+ "ac": 37,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 6,
+ "creature_ability": [
+  "Desiccation Aura",
+  "Divine Guardian",
+  "Constrict",
+  "Swallow Whole",
+  "Slithering Strike"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 26,
+ "hp": 280,
+ "hp_raw": "280 ( negative healing )",
+ "id": "creature-1872",
+ "image": [
+  "/Images/Monsters/HollowSerpent.png"
+ ],
+ "immunity": [
+  "disease",
+  "paralyzed",
+  "poison",
+  "polymorph",
+  "unconscious"
+ ],
+ "immunity_markdown": "[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [polymorph](/Traits.aspx?ID=127), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -2,
+ "language": [
+  "Aklo"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Hollow Serpent](/Monsters.aspx?ID=1872)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA hollow serpent is the dried and shriveled husk of an enormous constrictor snake, animated by fell magic to serve its masters. According to the oldest holy books of [serpentfolk](/MonsterFamilies.aspx?ID=151), the first hollow serpents were raised by [Ydersius](/Deities.aspx?ID=211). The god took the cast-off skins of great snakes and filled them with hunger and hatred, a bottomless yearning for mortal life that could never be filled. In due course, the priests of the serpentfolk learned to replicate their lord's trick, and in the millennia since the serpentfolk's fall, the knowledge has slithered into the libraries of other necromancers and sorcerers.\n\n Despite their menacing reputation and great power, hollow serpents are a relatively uncomplicated creation. They were designed first and foremost as guardians, and serpentfolk liches of a suitable level of power are sometimes accompanied by hollow serpents. A few have struck out on their own over the years, usually due to outliving their original creators. Driven by their hunger and dim intellect, they take up residence in remote ruins or deep caverns. Those that study such things believe at least one serpent, perhaps one of the original creatures made by Ydersius, survives in the mountains west of Geb.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 34\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 32\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 29\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/HollowSerpent.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Hollow Serpent](/Monsters.aspx?ID=1872)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 114</row>\n\n**Perception** +27; [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 60 feet, [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +29, [Athletics](/Skills.aspx?ID=3) +30, [Stealth](/Skills.aspx?ID=15) +29\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +8\r\n\r\n**Con** +6\r\n\r\n**Int** -2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 37 \r\n\r\n**Fort** +26 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +24 \n\n</row>\r\n\r\n**HP** 280\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [polymorph](/Traits.aspx?ID=127), [unconscious](/Conditions.aspx?ID=38)\n\n**Desiccation Aura** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) 30 feet. A cloud of choking, acrid dust swirls about the hollow serpent, draining moisture from any enemy within. A creature entering the aura or starting its turn in the aura must succeed at a DC 34 Fortitude save or become [enfeebled 2](/Conditions.aspx?ID=13) and [slowed 1](/Conditions.aspx?ID=35) for 1d4 rounds (2d4 rounds on a critical failure). A creature that succeeds is temporarily immune for 24 hours.<br />**Divine Guardian** <actions string=\"Reaction\" /> **Trigger** An ally within the hollow serpent's reach is attacked; **Effect** The hollow serpent interposes a coil of its body or tail between the ally and attacker. The triggering attack targets the hollow serpent instead of the original target.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet, climb 50 feet; [_freedom of movement_](/Spells.aspx?ID=128)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +30 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d10+15 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +30 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+15 bludgeoning plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Divine Innate Spells** DC 35\r\n- **7th**\r\n[Vampiric Exsanguination](/Spells.aspx?ID=353) (drawing in moisture rather than blood)\r\n- **Constant (7th)**\r\n[Freedom of Movement](/Spells.aspx?ID=128)\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d10+7 bludgeoning plus drained 1, DC 36\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" />  Medium, 4d6 negative plus drained 1, Rupture 32\r\n\r\n**Slithering Strike** <actions string=\"Single Action\" />  The hollow serpent Strides or [Climbs](/Actions.aspx?ID=33) and makes a jaws Strike at the end of that movement. If the hollow serpent began this action [hidden](/Conditions.aspx?ID=22), it remains hidden until after this ability's Strike.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Serpent Forms</title>\r\n\r\nThe original hollow serpents were based on the pythons of the Mwangi jungle. The [ghouls](/Monsters.aspx?ID=218) of Nemret Noktoria have experimented with the skins of magically enlarged horned vipers and spitting cobras, hoping to create venomous variants. So far, they have only made hollow serpents of unusually ominous mien, as their venom fails to survive the transition to undeath.\r\n</aside>",
+ "name": "Hollow Serpent",
+ "npc": false,
+ "perception": 27,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 30,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 114</row>\n\n<row gap=\"medium\">\r\n**HP** 280 ( negative healing )\r\n\r\n**AC** 37\r\n\r\n**Fort** +26\r\n\r\n**Ref** +30\r\n\r\n**Will** +24\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA hollow serpent is the dried and shriveled husk of an enormous constrictor snake, animated by fell magic to serve its masters. According to the …\r\n</summary>",
+ "sense": " darkvision ,  lifesense  60 feet,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 60 feet, [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +29",
+  "Athletics +30",
+  "Stealth +29"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +29, [Athletics](/Skills.aspx?ID=3) +30, [Stealth](/Skills.aspx?ID=15) +29",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 114"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 114</row>",
+ "speed": {
+  "climb": 50,
+  "land": 50,
+  "max": 50
+ },
+ "speed_markdown": "50 feet, climb 50 feet; [_freedom of movement_](/Spells.aspx?ID=128)",
+ "speed_raw": "50 feet, climb 50 feet;   freedom of movement  ",
+ "spell": [
+  "Vampiric Exsanguination",
+  "Freedom of Movement"
+ ],
+ "spell_markdown": "[Freedom of Movement](/Spells.aspx?ID=128), [Vampiric Exsanguination](/Spells.aspx?ID=353)",
+ "stealth": "29",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A hollow serpent is the dried and shriveled husk of an enormous constrictor snake, animated by fell magic to serve its masters. According to the …",
+ "summary_markdown": "A hollow serpent is the dried and shriveled husk of an enormous constrictor snake, animated by fell magic to serve its masters. According to the …",
+ "text": " Hollow Serpent A hollow serpent is the dried and shriveled husk of an enormous constrictor snake, animated by fell magic to serve its masters. According to the oldest holy books of serpentfolk, the first hollow serpents were raised by Ydersius. The god took the cast-off skins of great snakes and filled them with hunger and hatred, a bottomless yearning for mortal life that could never be filled. In due course, the priests of the serpentfolk learned to replicate their lord's trick, and in the millennia since the serpentfolk's fall, the knowledge has slithered into the libraries of other necromancers and sorcerers. Despite their menacing reputation and great power, hollow serpents are a relatively uncomplicated creation. They were designed first and foremost as guardians, and serpentfolk liches of a suitable level of power are sometimes accompanied by hollow serpents. A few have struck out on their own over the years, usually due to outliving their original creators. Driven by their hunger and dim intellect, they take up residence in remote ruins or deep caverns. Those that study such things believe at least one serpent, perhaps one of the original creatures made by Ydersius, survives in the mountains west of Geb. Recall Knowledge - Undead (Religion): DC 34 Unspecific Lore : DC 32 Specific Lore : DC 29 Hollow Serpent Source Book of the Dead pg. 114 Perception +27; darkvision, lifesense 60 feet, scent (imprecise) 60 feet Languages Aklo Skills Acrobatics +29, Athletics +30, Stealth +29 Str +7 Dex +8 Con +6 Int -2 Wis +4 Cha +3 --- AC 37 Fort +26 Ref +30 Will +24 HP 280 (negative healing) Immunities disease, paralyzed, poison, polymorph, unconscious Desiccation Aura (aura, divine, necromancy) 30 feet. A cloud of choking, acrid dust swirls about the hollow serpent, draining moisture from any enemy within. A creature entering the aura or starting its turn in the aura must succeed at a DC 34 Fortitude save or become enfeebled 2 and slowed 1 for 1d4 rounds (2d4 rounds on a critical failure). A creature that succeeds is temporarily immune for 24 hours. Divine Guardian Reaction Trigger An ally within the hollow serpent's reach is attacked; Effect The hollow serpent interposes a coil of its body or tail between the ally and attacker. The triggering attack targets the hollow serpent instead of the original target. --- Speed 50 feet, climb 50 feet; freedom of movement Melee Single Action jaws +30 (reach 10 feet), Damage 4d10+15 piercing plus Improved Grab Melee Single Action tail +30 (Agile, reach 15 feet), Damage 3d10+15 bludgeoning plus Improved Grab Divine Innate Spells DC 35 - 7th Vampiric Exsanguination (drawing in moisture rather than blood) - Constant (7th) Freedom of Movement Constrict Single Action 1d10+7 bludgeoning plus drained 1, DC 36 Swallow Whole Single Action Medium, 4d6 negative plus drained 1, Rupture 32 Slithering Strike Single Action The hollow serpent Strides or Climbs and makes a jaws Strike at the end of that movement. If the hollow serpent began this action hidden, it remains hidden until after this ability's Strike. Serpent Forms The original hollow serpents were based on the pythons of the Mwangi jungle. The ghouls of Nemret Noktoria have experimented with the skins of magically enlarged horned vipers and spitting cobras, hoping to create venomous variants. So far, they have only made hollow serpents of unusually ominous mien, as their venom fails to survive the transition to undeath. ",
+ "trait": [
+  "Undead",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1872",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 24,
+ "wisdom": 4
+}

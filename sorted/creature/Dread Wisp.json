@@ -1,0 +1,110 @@
+{
+ "ac": 31,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 0,
+ "creature_ability": [
+  "Dread Flickering",
+  "Magic Immunity",
+  "Feed on Despair",
+  "Go Dark",
+  "Shadow Flitter",
+  "Wearying Touch"
+ ],
+ "creature_family": "Wisp",
+ "creature_family_markdown": "[Wisp](/MonsterFamilies.aspx?ID=210)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 90,
+ "hp_raw": "90 ( negative healing )",
+ "id": "creature-1384",
+ "image": [
+  "/Images/Monsters/Wisp_DreadWisp.png"
+ ],
+ "immunity": [
+  "magic"
+ ],
+ "immunity_markdown": "magic",
+ "intelligence": 2,
+ "language": [
+  "Aklo",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Dread Wisp](/Monsters.aspx?ID=1384)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWill-o'-wisps native to the Darklands are more ominous and malevolent than those that bob about in the lonely marshes and surfaces of the upper world. These dread wisps instill terror with eerie shifts of light and consume the fear they create, drawing life energy from their victims in the process. While dread wisps can survive anywhere within the Darklands, they prefer moist areas like partially submerged caves, the banks of underground rivers, and towering fungus gardens.\n\n Dread wisps don't glow as brightly as surface will-o'-wisps because even the dimmest light attracts notice underground. Long-lived and hateful creatures, they remember vivid details about their lives, travels, and most delicious prey. Although dread wisps could share extensive lore and unique experiences, they don't, as they find amusement in others' ignorance.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Wisp_DreadWisp.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Dread Wisp](/Monsters.aspx?ID=1384)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 81</row>\n\n**Perception** +20; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +23, [Deception](/Skills.aspx?ID=5) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Stealth](/Skills.aspx?ID=15) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +6\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 90\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\nmagic\n\n**Weaknesses**\r\npositive 10\r\n\r\n**Dread Flickering** ([aura](/Traits.aspx?ID=206), [light](/Traits.aspx?ID=100)) 20 feet. A dread wisp, though naturally invisible, glows with a grayish illumination, casting dim light in the aura and making them visible. Living creatures that end their turn in the aura must succeed at a DC 25 Will saving throw or become [frightened 1](/Conditions.aspx?ID=19) (or frightened 2 on a critical failure). Those that critically succeed are temporarily immune for 10 minutes.<br />**Magic Immunity** A dread wisp is immune to all spells except [_faerie fire_](/Spells.aspx?ID=107), [_magic missile_](/Spells.aspx?ID=180), [_maze_](/Spells.aspx?ID=187), [_searing light_](/Spells.aspx?ID=269), and spells with the [positive](/Traits.aspx?ID=128) trait.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndraining touch +17 ([Magical](/Traits.aspx?ID=103), [Negative](/Traits.aspx?ID=118)),\r\n**Damage** 3d8+8 negative plus wearying touch\n\n**Feed on Despair** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118), [Occult](/Traits.aspx?ID=120)) **Frequency** once per round; **Requirement** An enemy within 15 feet of the dread wisp is under a [fear](/Traits.aspx?ID=68) effect, [drained](/Conditions.aspx?ID=10), or [dying](/Conditions.aspx?ID=11); **Effect** The dread wisp feeds on the creature's despair. The dread wisp regains 2d8 Hit Points and deals 3d8 negative damage to the creature (DC 25 [basic Fortitude save](/Rules.aspx?ID=329)), and if the dread wisp has Gone Dark, their Dread Flickering reignites.\r\n\r\n**Go Dark** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) The dread wisp extinguishes their Dread Flickering, becoming [invisible](/Conditions.aspx?ID=26). They can end this effect with another use of this action. If the dread wisp uses their draining touch Strike while invisible, the arc of pale energy lets any observer determine their location, making them hidden to all observers only until the dread wisp moves.\r\n\r\n**Shadow Flitter** <actions string=\"Single Action\" /> ([Conjuration](/Traits.aspx?ID=33), [Occult](/Traits.aspx?ID=120), [Teleportation](/Traits.aspx?ID=156)) The dread wisp teleports to a square they can see within 30 feet that isn't in an area of bright light. The dread wisp can't use Shadow Flitter again for 1d4 rounds.\r\n\r\n**Wearying Touch**   If the dread wisp critically hits with their draining touch Strike, the target is [drained 1](/Conditions.aspx?ID=10).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Dread Wisp Origins</title>\r\n\r\nThe origins of will-o'-wisps are hotly debated, but dread wisps have a commonly understood origin. Surface wisps give momentary hope to those lost and scared in a dark and damp wilderness, but nearly all of the Darklands is dark and damp. Hope has little place here, and defiant people and menacing monsters populate the Darklands. Subterranean will-o'-wisps adapted to overcome these new, resilient food sources. Dread wisps descended from those tenacious survivors.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-210\" />",
+ "name": "Dread Wisp",
+ "npc": false,
+ "perception": 20,
+ "rarity": "uncommon",
+ "reflex_save": 21,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 81</row>\r\n\r\n**Creature Family** [Wisp](/MonsterFamilies.aspx?ID=210)\r\n\r\n<row gap=\"medium\">\r\n**HP** 90 ( negative healing )\r\n\r\n**AC** 31\r\n\r\n**Fort** +14\r\n\r\n**Ref** +21\r\n\r\n**Will** +18\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWill-o'-wisps native to the Darklands are more ominous and malevolent than those that bob about in the lonely marshes and surfaces of the upper …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +23",
+  "Deception +16",
+  "Intimidation +16",
+  "Stealth +23"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +23, [Deception](/Skills.aspx?ID=5) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Stealth](/Skills.aspx?ID=15) +23",
+ "source": [
+  "Pathfinder #165: Eyes of Empty Death"
+ ],
+ "source_raw": [
+  "Pathfinder #165: Eyes of Empty Death pg. 81"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 81</row>",
+ "speed": {
+  "fly": 50,
+  "max": 50
+ },
+ "speed_markdown": "fly 50 feet",
+ "speed_raw": "fly 50 feet",
+ "spell_markdown": "",
+ "spoilers": "Abomination Vaults",
+ "stealth": "23",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Will-o'-wisps native to the Darklands are more ominous and malevolent than those that bob about in the lonely marshes and surfaces of the upper …",
+ "summary_markdown": "Will-o'-wisps native to the Darklands are more ominous and malevolent than those that bob about in the lonely marshes and surfaces of the upper …",
+ "text": " Dread Wisp Will-o'-wisps native to the Darklands are more ominous and malevolent than those that bob about in the lonely marshes and surfaces of the upper world. These dread wisps instill terror with eerie shifts of light and consume the fear they create, drawing life energy from their victims in the process. While dread wisps can survive anywhere within the Darklands, they prefer moist areas like partially submerged caves, the banks of underground rivers, and towering fungus gardens. Dread wisps don't glow as brightly as surface will-o'-wisps because even the dimmest light attracts notice underground. Long-lived and hateful creatures, they remember vivid details about their lives, travels, and most delicious prey. Although dread wisps could share extensive lore and unique experiences, they don't, as they find amusement in others' ignorance. Recall Knowledge - Aberration (Occultism): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Dread Wisp Source Pathfinder #165: Eyes of Empty Death pg. 81 Perception +20; darkvision Languages Aklo, Common Skills Acrobatics +23, Deception +16, Intimidation +16, Stealth +23 Str -5 Dex +6 Con +0 Int +2 Wis +4 Cha +2 --- AC 31 Fort +14 Ref +21 Will +18 HP 90 (negative healing) Immunities magic Weaknesses positive 10 Dread Flickering (aura, light) 20 feet. A dread wisp, though naturally invisible, glows with a grayish illumination, casting dim light in the aura and making them visible. Living creatures that end their turn in the aura must succeed at a DC 25 Will saving throw or become frightened 1 (or frightened 2 on a critical failure). Those that critically succeed are temporarily immune for 10 minutes. Magic Immunity A dread wisp is immune to all spells except faerie fire , magic missile , maze , searing light , and spells with the positive trait. --- Speed fly 50 feet Melee Single Action draining touch +17 (Magical, Negative), Damage 3d8+8 negative plus wearying touch Feed on Despair Single Action (Concentrate, Necromancy, Negative, Occult) Frequency once per round; Requirement An enemy within 15 feet of the dread wisp is under a fear effect, drained, or dying; Effect The dread wisp feeds on the creature's despair. The dread wisp regains 2d8 Hit Points and deals 3d8 negative damage to the creature (DC 25 basic Fortitude save), and if the dread wisp has Gone Dark, their Dread Flickering reignites. Go Dark Single Action (Concentrate) The dread wisp extinguishes their Dread Flickering, becoming invisible. They can end this effect with another use of this action. If the dread wisp uses their draining touch Strike while invisible, the arc of pale energy lets any observer determine their location, making them hidden to all observers only until the dread wisp moves. Shadow Flitter Single Action (Conjuration, Occult, Teleportation) The dread wisp teleports to a square they can see within 30 feet that isn't in an area of bright light. The dread wisp can't use Shadow Flitter again for 1d4 rounds. Wearying Touch If the dread wisp critically hits with their draining touch Strike, the target is drained 1. Dread Wisp Origins The origins of will-o'-wisps are hotly debated, but dread wisps have a commonly understood origin. Surface wisps give momentary hope to those lost and scared in a dark and damp wilderness, but nearly all of the Darklands is dark and damp. Hope has little place here, and defiant people and menacing monsters populate the Darklands. Subterranean will-o'-wisps adapted to overcome these new, resilient food sources. Dread wisps descended from those tenacious survivors. ",
+ "trait": [
+  "Aberration",
+  "Uncommon",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1384",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "positive": 10
+ },
+ "weakness_markdown": "positive 10",
+ "weakness_raw": "positive 10",
+ "will_save": 18,
+ "wisdom": 4
+}

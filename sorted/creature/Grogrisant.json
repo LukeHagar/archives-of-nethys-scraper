@@ -1,0 +1,121 @@
+{
+ "ac": 38,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 9,
+ "creature_ability": [
+  "Aura of Blinding Light",
+  "Dual Pounce",
+  "Rend",
+  "Vicious Rend"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 30,
+ "hp": 295,
+ "hp_raw": "295",
+ "id": "creature-1727",
+ "image": [
+  "/Images/Monsters/Grogrisant.png"
+ ],
+ "immunity": [
+  "blinded",
+  "disease"
+ ],
+ "immunity_markdown": "[blinded](/Conditions.aspx?ID=1), [disease](/Traits.aspx?ID=46)",
+ "intelligence": -2,
+ "language": [
+  "Common",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can't speak any language)",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Grogrisant](/Monsters.aspx?ID=1727)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGrogrisant is an enormous lion with multiple eyes and a golden, glowing mane. As it was originally slain by Taldor's founding emperor, the legendary hero Taldaris, Grogrisant's appearance marks both danger for the people of Taldor and the potential for Taldans to prove their might against a creature from their fabled past. How it continues to appear time and time again remains a mystery, one that Taldan scholars continuously attempt to decipher.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 45\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 43\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 40\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Grogrisant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Grogrisant](/Monsters.aspx?ID=1727)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Monsters of Myth](/Sources.aspx?ID=107) pg. 34</row>\n\n**Perception** +30; [darkvision](/MonsterAbilities.aspx?ID=12), [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +28, [Athletics](/Skills.aspx?ID=3) +35, [Intimidation](/Skills.aspx?ID=7) +32, [Stealth](/Skills.aspx?ID=15) +28, [Survival](/Skills.aspx?ID=16) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +6\r\n\r\n**Con** +9\r\n\r\n**Int** -2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 38 \r\n\r\n**Fort** +30 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 295\n\n**Immunities**\r\n[blinded](/Conditions.aspx?ID=1), [disease](/Traits.aspx?ID=46)\r\n\r\n**Resistances**\r\n[fire](/Traits.aspx?ID=72) 15, physical 15 (except bludgeoning), [poison](/Traits.aspx?ID=126) 20\n\n**Aura of Blinding Light** ([aura](/Traits.aspx?ID=206), [evocation](/Traits.aspx?ID=65), [incapacitation](/Traits.aspx?ID=93), [light](/Traits.aspx?ID=100), [primal](/Traits.aspx?ID=134), [visual](/Traits.aspx?ID=163)) 40 feet. Any creature that begins its turn in the aura must attempt a DC 34 Fort save or be [blinded](/Conditions.aspx?ID=1) for 1 minute and become temporarily immune for 1 day. If the creature critically fails this save, it's permanently blinded.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +32,\r\n**Damage** 3d12+18 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +32 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d10+15 slashing\r\n\r\n**Primal Innate Spells** DC 34, spell attack +26\r\n- **Cantrips (8th)**\r\n[Dancing Lights](/Spells.aspx?ID=58)\r\n- **8th**\r\n[Fire Shield](/Spells.aspx?ID=118), [Searing Light](/Spells.aspx?ID=269)\r\n- **Constant (1st)**\r\n[Pass Without Trace](/Spells.aspx?ID=215)\r\n- **Constant (3rd)**\r\n[Nondetection](/Spells.aspx?ID=209)\r\n\r\n**Dual Pounce** <actions string=\"Two Actions\" />  Grogrisant Strides and makes two claw Strikes against the same creature at the end of that movement. Each attack counts against Grogrisant's multiple attack penalty, but the penalty doesn't increase until after Grogrisant makes both attacks. If both attacks hit, combine their damage for the purpose of resistances and weaknesses.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw. If Grogrisant Rends after a successful Dual Pounce, combine the Rend's damage with that from the Dual Pounce for the purpose of resistances and weaknesses.\r\n\r\n**Vicious Rend** <actions string=\"Reaction\" />  **Trigger** Grogrisant uses Rend; **Effect** The target's armor takes damage equal to the damage from Rend. The target can attempt a DC 37 [basic](/Rules.aspx?ID=329) Reflex save, negating the armor damage on a successful save.\r\n\r\n</column>",
+ "name": "Grogrisant",
+ "npc": false,
+ "perception": 30,
+ "pfs": "Standard",
+ "rarity": "unique",
+ "reflex_save": 28,
+ "release_date": "2021-12-22",
+ "resistance": {
+  "fire": 15,
+  "physical": 15,
+  "piercing": 15,
+  "poison": 20,
+  "slashing": 15
+ },
+ "resistance_markdown": "[fire](/Traits.aspx?ID=72) 15, physical 15 (except bludgeoning), [poison](/Traits.aspx?ID=126) 20",
+ "resistance_raw": " fire  15, physical 15 (except bludgeoning),  poison  20",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Monsters of Myth](/Sources.aspx?ID=107) pg. 34</row>\n\n<row gap=\"medium\">\r\n**HP** 295\r\n\r\n**AC** 38\r\n\r\n**Fort** +30\r\n\r\n**Ref** +28\r\n\r\n**Will** +25\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGrogrisant is an enormous lion with multiple eyes and a golden, glowing mane. As it was originally slain by Taldor's founding emperor, the legendary …\r\n</summary>",
+ "sense": " darkvision ,  low-light vision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +28",
+  "Athletics +35",
+  "Intimidation +32",
+  "Stealth +28",
+  "Survival +28"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +28, [Athletics](/Skills.aspx?ID=3) +35, [Intimidation](/Skills.aspx?ID=7) +32, [Stealth](/Skills.aspx?ID=15) +28, [Survival](/Skills.aspx?ID=16) +28",
+ "source": [
+  "Monsters of Myth"
+ ],
+ "source_raw": [
+  "Monsters of Myth pg. 34"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[Monsters of Myth](/Sources.aspx?ID=107) pg. 34</row>",
+ "speed": {
+  "climb": 20,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 20 feet",
+ "speed_raw": "40 feet, climb 20 feet",
+ "spell": [
+  "Fire Shield",
+  "Searing Light",
+  "Dancing Lights",
+  "Nondetection",
+  "Pass Without Trace"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Fire Shield](/Spells.aspx?ID=118), [Nondetection](/Spells.aspx?ID=209), [Pass Without Trace](/Spells.aspx?ID=215), [Searing Light](/Spells.aspx?ID=269)",
+ "stealth": "28",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Grogrisant is an enormous lion with multiple eyes and a golden, glowing mane. As it was originally slain by Taldor's founding emperor, the legendary …",
+ "summary_markdown": "Grogrisant is an enormous lion with multiple eyes and a golden, glowing mane. As it was originally slain by Taldor's founding emperor, the legendary …",
+ "text": " Grogrisant Grogrisant is an enormous lion with multiple eyes and a golden, glowing mane. As it was originally slain by Taldor's founding emperor, the legendary hero Taldaris, Grogrisant's appearance marks both danger for the people of Taldor and the potential for Taldans to prove their might against a creature from their fabled past. How it continues to appear time and time again remains a mystery, one that Taldan scholars continuously attempt to decipher. Recall Knowledge - Beast (Arcana, Nature): DC 45 Unspecific Lore : DC 43 Specific Lore : DC 40 Grogrisant Source Monsters of Myth pg. 34 Perception +30; darkvision, low-light vision, scent (imprecise) 60 feet Languages Common; (can't speak any language) Skills Acrobatics +28, Athletics +35, Intimidation +32, Stealth +28, Survival +28 Str +9 Dex +6 Con +9 Int -2 Wis +5 Cha +5 --- AC 38 Fort +30 Ref +28 Will +25 HP 295 Immunities blinded, disease Resistances fire 15, physical 15 (except bludgeoning), poison 20 Aura of Blinding Light (aura, evocation, incapacitation, light, primal, visual) 40 feet. Any creature that begins its turn in the aura must attempt a DC 34 Fort save or be blinded for 1 minute and become temporarily immune for 1 day. If the creature critically fails this save, it's permanently blinded. --- Speed 40 feet, climb 20 feet Melee Single Action jaws +32, Damage 3d12+18 piercing plus Improved Grab Melee Single Action claw +32 (Agile), Damage 3d10+15 slashing Primal Innate Spells DC 34, spell attack +26 - Cantrips (8th) Dancing Lights - 8th Fire Shield, Searing Light - Constant (1st) Pass Without Trace - Constant (3rd) Nondetection Dual Pounce Two Actions Grogrisant Strides and makes two claw Strikes against the same creature at the end of that movement. Each attack counts against Grogrisant's multiple attack penalty, but the penalty doesn't increase until after Grogrisant makes both attacks. If both attacks hit, combine their damage for the purpose of resistances and weaknesses. Rend Single Action claw. If Grogrisant Rends after a successful Dual Pounce, combine the Rend's damage with that from the Dual Pounce for the purpose of resistances and weaknesses. Vicious Rend Reaction Trigger Grogrisant uses Rend; Effect The target's armor takes damage equal to the damage from Rend. The target can attempt a DC 37 basic Reflex save, negating the armor damage on a successful save. ",
+ "trait": [
+  "Beast",
+  "Primal",
+  "Unique",
+  "CN",
+  "Huge"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Primal](/Traits.aspx?ID=134), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Beast",
+  "Primal",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1727",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 5
+}

@@ -1,0 +1,102 @@
+{
+ "ac": 34,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Sack of Spiders",
+  "Death Drider Venom",
+  "Hungering Web"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 235,
+ "hp_raw": "235 ( negative healing )",
+ "id": "creature-2130",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyze",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyze](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -1,
+ "language": [
+  "Elven",
+  "Necril",
+  "Undercommon"
+ ],
+ "language_markdown": "[Elven](/Languages.aspx?ID=4), [Necril](/Languages.aspx?ID=20), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Death Drider](/Monsters.aspx?ID=2130)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Death Drider](/Monsters.aspx?ID=2130)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 35</row>\n\n**Perception** +24; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Elven](/Languages.aspx?ID=4), [Necril](/Languages.aspx?ID=20), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +30, [Athletics](/Skills.aspx?ID=3) +28, [Intimidation](/Skills.aspx?ID=7) +24, [Stealth](/Skills.aspx?ID=15) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +8\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +5\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 34 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 235\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyze](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Sack of Spiders** <actions string=\"Reaction\" /> **Trigger** The death drider is reduced to 0 Hit Points; **Effect** The death drider explodes in a shower of spiders. Each adjacent creature must succeed at a DC 31 Reflex save or take 3d6 piercing damage and be exposed to death drider venom.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +27,\r\n**Damage** 4d6+13 piercing plus death drider venom\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nweb +27 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** hungering web\n\n**Death Drider Venom**  ([Poison](/Traits.aspx?ID=126)) The [drained](/Conditions.aspx?ID=10) condition persists after the poison's duration ends; **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d8 poison damage and [drained 1](/Conditions.aspx?ID=10) (1 round); **Stage 2** 3d8 poison damage and drained 2 (1 round); **Stage 3** 4d8 poison damage and drained 2 (1 round)\r\n\r\n**Hungering Web**   A creature hit by a death drider's web attack is [immobilized](/Conditions.aspx?ID=24) and stuck to the nearest surface (Escape DC 31). Each round thereafter until it breaks free, the creature takes 3d6 piercing damage (DC 31 [basic](/Rules.aspx?ID=329) Reflex save) and, on a failed save, is exposed to death drider venom.\r\n\r\n</column>",
+ "name": "Death Drider",
+ "npc": false,
+ "perception": 24,
+ "rarity": "uncommon",
+ "reflex_save": 26,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 35</row>\n\n<row gap=\"medium\">\r\n**HP** 235 ( negative healing )\r\n\r\n**AC** 34\r\n\r\n**Fort** +24\r\n\r\n**Ref** +26\r\n\r\n**Will** +23\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +30",
+  "Athletics +28",
+  "Intimidation +24",
+  "Stealth +30"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +30, [Athletics](/Skills.aspx?ID=3) +28, [Intimidation](/Skills.aspx?ID=7) +24, [Stealth](/Skills.aspx?ID=15) +30",
+ "source": [
+  "Pathfinder #155: Lord of the Black Sands"
+ ],
+ "source_raw": [
+  "Pathfinder #155: Lord of the Black Sands pg. 35"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 35</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "stealth": "30",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Death Drider Recall Knowledge - Undead (Religion): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Death Drider Source Pathfinder #155: Lord of the Black Sands pg. 35 Perception +24; darkvision Languages Elven, Necril, Undercommon Skills Acrobatics +30, Athletics +28, Intimidation +24, Stealth +30 Str +6 Dex +8 Con +4 Int -1 Wis +5 Cha +4 --- AC 34 Fort +24 Ref +26 Will +23 HP 235 (negative healing) Immunities death effects, disease, paralyze, poison, unconscious Sack of Spiders Reaction Trigger The death drider is reduced to 0 Hit Points; Effect The death drider explodes in a shower of spiders. Each adjacent creature must succeed at a DC 31 Reflex save or take 3d6 piercing damage and be exposed to death drider venom. --- Speed 30 feet, climb 30 feet Melee Single Action fangs +27, Damage 4d6+13 piercing plus death drider venom Ranged Single Action web +27 (range increment 30 feet), Damage hungering web Death Drider Venom (Poison) The drained condition persists after the poison's duration ends; Saving Throw DC 32 Fortitude; Maximum Duration 6 rounds; Stage 1 2d8 poison damage and drained 1 (1 round); Stage 2 3d8 poison damage and drained 2 (1 round); Stage 3 4d8 poison damage and drained 2 (1 round) Hungering Web A creature hit by a death drider's web attack is immobilized and stuck to the nearest surface (Escape DC 31). Each round thereafter until it breaks free, the creature takes 3d6 piercing damage (DC 31 basic Reflex save) and, on a failed save, is exposed to death drider venom. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2130",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": 5
+}

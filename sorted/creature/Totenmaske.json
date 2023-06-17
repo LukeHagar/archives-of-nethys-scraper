@@ -1,0 +1,102 @@
+{
+ "ac": 25,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Drink Flesh",
+  "Living Form",
+  "Shape Flesh"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 128,
+ "hp_raw": "128 ( negative healing )",
+ "id": "creature-829",
+ "image": [
+  "/Images/Monsters/Totenmaske.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), poison, unconscious",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Totenmaske](/Monsters.aspx?ID=829)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSpawned by the same unnatural and self-destructive obsessions that drove them when they were alive, totenmaskes are the undead remnants of the most self-indulgent and sinful among us. Though unable to sate their perverse desires, these foul undead can drain the very flesh from their victims so as to wrap themselves in a perverse mockery of life that allows them to pursue their base wants. Totenmaskes' specific longings vary—one might be obsessed with food or drink, while another might be vain and desirous of an attractive form to marvel at in a mirror, while yet another could simply long for the scent of blood. Whatever the sensation the totenmaske seeks, it is always a vice taken to extreme, for this sin is what helped condemn it to unlife in the first place. A totenmaske obsessed with food, for example, might find itself assaulting bakeries or breweries, while a vain totenmaske obsessed with glamor could quickly grow bored of each new look and switch its victims out daily, or even hourly.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Totenmaske.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Totenmaske](/Monsters.aspx?ID=829)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 262 <sup>2.0</sup></row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Deception](/Skills.aspx?ID=5) +17, [Stealth](/Skills.aspx?ID=15) +17, [Thievery](/Skills.aspx?ID=17) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +6\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 128\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), poison, unconscious\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +18 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+7 piercing plus 2d6 negative\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d8+7 slashing\n\n**Drink Flesh** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Requirement** The totenmaske hit the same enemy with two claw Strikes this turn and is still adjacent to it; **Effect** The totenmaske drains flesh from the creature's body. The creature becomes [sickened 2](/Conditions.aspx?ID=34) and [drained 1](/Conditions.aspx?ID=10) unless it succeeds at a DC 25 Fortitude save (sickened 2 and drained 2 on a critical failure).\r\n\r\n**Living Form** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The totenmaske takes the appearance of a Medium or smaller humanoid creature. This is either its form from before it became undead, or the form of the last creature it successfully hit with Drink Flesh. This doesn't change the totenmaske's Speed or the attack and damage bonuses for its Strikes, but might change the damage type its Strikes deal (typically to bludgeoning).\r\n\r\n**Shape Flesh**  ([Curse](/Traits.aspx?ID=38), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) After spending 1 minute in contact with a [paralyzed](/Conditions.aspx?ID=28), [unconscious](/Conditions.aspx?ID=38), or willing creature, a totenmaske can reshape the target's face, causing flesh to cover vital features. The target can attempt a DC 25 Fortitude save to resist; a critical success grants temporary immunity to Shape Flesh for 24 hours. Each time the totenmaske Shapes Flesh, it chooses one feature: ears (target becomes [deafened](/Conditions.aspx?ID=8)), eyes (target becomes [blinded](/Conditions.aspx?ID=1)), mouth (target can't speak or eat), or nose (target can't smell). A creature with both its nose and mouth sealed can't breathe and begins to [suffocate](/Rules.aspx?ID=468). Changes are permanent until reversed by removing this curse, or the sealed flesh can be surgically opened with a DC 25 Medicine check that takes 1d4 rounds and deals 1d6 slashing damage per round.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Flesh Sculptors</title>\r\n\r\nSome totenmaskes craft macabre “art” by shaping the flesh of their victims, spending hours, days, or even weeks molding a victim's skin, or even fusing multiple creatures together into one piece. The horrifying results of this process can take the form of furniture made from flesh that still lives and breathes, “sculptures” that in no way resemble the human form, and even more twisted and depraved things.\r\n</aside>",
+ "name": "Totenmaske",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 262 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 128 ( negative healing )\r\n\r\n**AC** 25\r\n\r\n**Fort** +15\r\n\r\n**Ref** +17\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSpawned by the same unnatural and self-destructive obsessions that drove them when they were alive, totenmaskes are the undead remnants of the most …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Deception +17",
+  "Stealth +17",
+  "Thievery +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Deception](/Skills.aspx?ID=5) +17, [Stealth](/Skills.aspx?ID=15) +17, [Thievery](/Skills.aspx?ID=17) +15",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 262"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 262 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Spawned by the same unnatural and self-destructive obsessions that drove them when they were alive, totenmaskes are the undead remnants of the most …",
+ "summary_markdown": "Spawned by the same unnatural and self-destructive obsessions that drove them when they were alive, totenmaskes are the undead remnants of the most …",
+ "text": " Totenmaske Spawned by the same unnatural and self-destructive obsessions that drove them when they were alive, totenmaskes are the undead remnants of the most self-indulgent and sinful among us. Though unable to sate their perverse desires, these foul undead can drain the very flesh from their victims so as to wrap themselves in a perverse mockery of life that allows them to pursue their base wants. Totenmaskes' specific longings vary—one might be obsessed with food or drink, while another might be vain and desirous of an attractive form to marvel at in a mirror, while yet another could simply long for the scent of blood. Whatever the sensation the totenmaske seeks, it is always a vice taken to extreme, for this sin is what helped condemn it to unlife in the first place. A totenmaske obsessed with food, for example, might find itself assaulting bakeries or breweries, while a vain totenmaske obsessed with glamor could quickly grow bored of each new look and switch its victims out daily, or even hourly. Recall Knowledge - Undead (Religion): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Totenmaske Source Bestiary 2 pg. 262 2.0 Perception +15; darkvision Languages Common, Necril Skills Acrobatics +15, Deception +17, Stealth +17, Thievery +15 Str +4 Dex +6 Con +2 Int +1 Wis +2 Cha +3 --- AC 25 Fort +15 Ref +17 Will +13 HP 128 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 40 feet Melee Single Action jaws +18 (Finesse), Damage 2d6+7 piercing plus 2d6 negative Melee Single Action claw +18 (Agile, Finesse), Damage 2d8+7 slashing Drink Flesh Single Action (Divine, Necromancy) Requirement The totenmaske hit the same enemy with two claw Strikes this turn and is still adjacent to it; Effect The totenmaske drains flesh from the creature's body. The creature becomes sickened 2 and drained 1 unless it succeeds at a DC 25 Fortitude save (sickened 2 and drained 2 on a critical failure). Living Form Single Action (Concentrate, Divine, Polymorph, Transmutation) The totenmaske takes the appearance of a Medium or smaller humanoid creature. This is either its form from before it became undead, or the form of the last creature it successfully hit with Drink Flesh. This doesn't change the totenmaske's Speed or the attack and damage bonuses for its Strikes, but might change the damage type its Strikes deal (typically to bludgeoning). Shape Flesh (Curse, Divine, Necromancy) After spending 1 minute in contact with a paralyzed, unconscious, or willing creature, a totenmaske can reshape the target's face, causing flesh to cover vital features. The target can attempt a DC 25 Fortitude save to resist; a critical success grants temporary immunity to Shape Flesh for 24 hours. Each time the totenmaske Shapes Flesh, it chooses one feature: ears (target becomes deafened), eyes (target becomes blinded), mouth (target can't speak or eat), or nose (target can't smell). A creature with both its nose and mouth sealed can't breathe and begins to suffocate. Changes are permanent until reversed by removing this curse, or the sealed flesh can be surgically opened with a DC 25 Medicine check that takes 1d4 rounds and deals 1d6 slashing damage per round. Flesh Sculptors Some totenmaskes craft macabre “art” by shaping the flesh of their victims, spending hours, days, or even weeks molding a victim's skin, or even fusing multiple creatures together into one piece. The horrifying results of this process can take the form of furniture made from flesh that still lives and breathes, “sculptures” that in no way resemble the human form, and even more twisted and depraved things. ",
+ "trait": [
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=829",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 2
+}

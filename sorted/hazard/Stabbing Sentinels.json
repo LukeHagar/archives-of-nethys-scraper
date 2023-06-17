@@ -1,0 +1,58 @@
+{
+ "ac": 41,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 40  Thievery  (master) to remove the animating magic without triggering the trap, or   dispel magic   (8th level;  counteract  DC 38) to counteract the animating magic",
+ "exclude_from_search": false,
+ "fortitude_save": 36,
+ "hardness": 30,
+ "hardness_raw": "30",
+ "hazard_type": "Trap",
+ "hp": 120,
+ "hp_raw": "120 (BT 60)",
+ "id": "hazard-236",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 18,
+ "markdown": "<title level=\"1\" right=\"Hazard 18\" pfs=\"\">[Stabbing Sentinels](/Hazards.aspx?ID=236)</title>\r\n\r\n<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 53</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA petrified creature momentarily animates to attack an adjacent creature.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 45 (master)\r\n\r\n**Disable**\r\nDC 40 [Thievery](/Skills.aspx?ID=17) (master) to remove the animating magic without triggering the trap, or [_dispel magic_](/Spells.aspx?ID=78) (8th level; [counteract](/Rules.aspx?ID=371) DC 38) to counteract the animating magic\n\n<column gap=\"tiny\">\r\n\r\n**AC** 41, **Fort** +36, **Ref** +27\r\n\r\n**Hardness**\r\n30\r\n\r\n**HP**\r\n120 (BT 60)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Animated Attack** <actions string=\"Reaction\" /> ([attack](/Traits.aspx?ID=15), [necromancy](/Traits.aspx?ID=117), [transmutation](/Traits.aspx?ID=157)) **Trigger** A living or [undead](/Traits.aspx?ID=160) creature moves within 5 feet of the stabbing sentinel; **Effect** The stabbing sentinel animates, making one Strike against the triggering creature.\n\n **Melee** blade +38, **Damage** 6d12+40 piercing plus petrification overcharge<br /> **Petrification Overcharge** On a critical hit, the target is [petrified](/Conditions.aspx?ID=30) for 1 round. Additionally, if another stabbing sentinel has already been triggered, that sentinel immediately resets. If no other stabbing sentinels have been triggered, then another random statue in the room becomes infused with animating magic and becomes another stabbing sentinel hazard (to a maximum of four at a time).\n\n---\r\n**Reset**\r\nThe magical energy that animates the statue builds up again over 24 hours and the trap resets.",
+ "name": "Stabbing Sentinels",
+ "rarity": "common",
+ "reflex_save": 27,
+ "release_date": "2020-05-27",
+ "reset": "The magical energy that animates the statue builds up again over 24 hours and the trap resets.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 53</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA petrified creature momentarily animates to attack an adjacent creature.\r\n</summary>",
+ "source": [
+  "Pathfinder #155: Lord of the Black Sands"
+ ],
+ "source_raw": [
+  "Pathfinder #155: Lord of the Black Sands pg. 53"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 53</row>",
+ "speed": {},
+ "stealth": "DC 45 (master)",
+ "summary": "A petrified creature momentarily animates to attack an adjacent creature.",
+ "summary_markdown": "A petrified creature momentarily animates to attack an adjacent creature.",
+ "text": " Stabbing Sentinels Source Pathfinder #155: Lord of the Black Sands pg. 53 Complexity Simple A petrified creature momentarily animates to attack an adjacent creature. --- Stealth DC 45 (master) Disable DC 40 Thievery (master) to remove the animating magic without triggering the trap, or dispel magic (8th level; counteract DC 38) to counteract the animating magic AC 41, Fort +36, Ref +27 Hardness 30 HP 120 (BT 60) Immunities critical hits, object immunities, precision damage Animated Attack Reaction (attack, necromancy, transmutation) Trigger A living or undead creature moves within 5 feet of the stabbing sentinel; Effect The stabbing sentinel animates, making one Strike against the triggering creature. Melee blade +38, Damage 6d12+40 piercing plus petrification overcharge Petrification Overcharge On a critical hit, the target is petrified for 1 round. Additionally, if another stabbing sentinel has already been triggered, that sentinel immediately resets. If no other stabbing sentinels have been triggered, then another random statue in the room becomes infused with animating magic and becomes another stabbing sentinel hazard (to a maximum of four at a time). --- Reset The magical energy that animates the statue builds up again over 24 hours and the trap resets.",
+ "trait": [
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=103), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=236",
+ "weakness": {}
+}

@@ -1,0 +1,107 @@
+{
+ "ac": 28,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Shield Block",
+  "Lancer"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 110,
+ "hp_raw": "110 ( negative healing )",
+ "id": "creature-2096",
+ "immunity": [
+  "bleed",
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Skeletal Knight](/Monsters.aspx?ID=2096)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Skeletal Knight](/Monsters.aspx?ID=2096)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Skeleton\" url=\"/Traits.aspx?ID=236\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 58</row>\n\n**Perception** +5; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Full Plate](/Armor.aspx?ID=13), _+1 [striking](/Equipment.aspx?ID=280) [lance](/Weapons.aspx?ID=28)_, [Steel Shield](/Shields.aspx?ID=3) (Hardness 5, 20 HP, BT 10)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 110\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\nbleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\n[cold](/Traits.aspx?ID=27) 10, [electricity](/Traits.aspx?ID=56) 10, [fire](/Traits.aspx?ID=72) 10, piercing 10, slashing 10\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**[Shield Block](/MonsterAbilities.aspx?ID=32)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlance +20 ([deadly d8](/Traits.aspx?ID=174), [jousting d6](/Traits.aspx?ID=186), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+12 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d4+12 slashing\n\n**Lancer**   The skeletal knight uses a lance in one hand, even when it isn't mounted. If the skeletal knight critically hits a creature with its lance Strike, the target is [clumsy 1](/Conditions.aspx?ID=3) until the start of the skeletal knight's next turn.\r\n\r\n</column>",
+ "name": "Skeletal Knight",
+ "npc": false,
+ "perception": 5,
+ "rarity": "uncommon",
+ "reflex_save": 16,
+ "release_date": "2022-09-21",
+ "resistance": {
+  "cold": 10,
+  "electricity": 10,
+  "fire": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "[cold](/Traits.aspx?ID=27) 10, [electricity](/Traits.aspx?ID=56) 10, [fire](/Traits.aspx?ID=72) 10, piercing 10, slashing 10",
+ "resistance_raw": " cold  10,  electricity  10,  fire  10, piercing 10, slashing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Skeleton\" url=\"/Traits.aspx?ID=236\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 58</row>\n\n<row gap=\"medium\">\r\n**HP** 110 ( negative healing )\r\n\r\n**AC** 28\r\n\r\n**Fort** +17\r\n\r\n**Ref** +16\r\n\r\n**Will** +14\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Athletics +18"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +18",
+ "source": [
+  "Pathfinder #183: Field of Maidens"
+ ],
+ "source_raw": [
+  "Pathfinder #183: Field of Maidens pg. 58"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 58</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Skeletal Knight Recall Knowledge - Undead (Religion): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Skeletal Knight Source Pathfinder #183: Field of Maidens pg. 58 Perception +5; darkvision Languages Skills Acrobatics +16, Athletics +18 Str +6 Dex +4 Con +3 Int -5 Wis +0 Cha +0 Items Full Plate, +1 striking lance , Steel Shield (Hardness 5, 20 HP, BT 10) --- AC 28 Fort +17 Ref +16 Will +14 HP 110 (negative healing) Immunities bleed, death effects, disease, mental, paralyzed, poison, unconscious Resistances cold 10, electricity 10, fire 10, piercing 10, slashing 10 Attack of Opportunity Reaction Shield Block Reaction --- Speed 20 feet Melee Single Action lance +20 (deadly d8, jousting d6, Magical, reach 10 feet), Damage 2d8+12 piercing Melee Single Action claw +20 (Agile, Finesse), Damage 2d4+12 slashing Lancer The skeletal knight uses a lance in one hand, even when it isn't mounted. If the skeletal knight critically hits a creature with its lance Strike, the target is clumsy 1 until the start of the skeletal knight's next turn. ",
+ "trait": [
+  "Mindless",
+  "Skeleton",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Skeleton](/Traits.aspx?ID=236), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mindless",
+  "Skeleton",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2096",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 0
+}

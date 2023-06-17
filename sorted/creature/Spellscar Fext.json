@@ -1,0 +1,104 @@
+{
+ "ac": 25,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 1,
+ "creature_ability": [
+  "Magic Sense",
+  "Unstable Feedback",
+  "Grasp Power"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 100,
+ "hp_raw": "100 ( negative healing )",
+ "id": "creature-2415",
+ "image": [
+  "/Images/Monsters/SpellscarFext.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 4,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Spellscar Fext](/Monsters.aspx?ID=2415)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSpellscar fexts are spellcasters who were destroyed by wild magic or wellspring surges they tried—and failed—to control. The magical feedback that snuffed out their life warped and animated their flesh, twisting them into shambling undead. Spellscar fexts stand 6 feet tall with disproportionately long arms that end in clusters of waving magical tendrils.\n\n Almost all who became spellscar fexts entered the Mana Wastes to harness the power of the area's wild magic. Once transformed, the desire for magical power becomes a spellscar fext's singular motivation. The creatures focus their attacks on magic users they encounter, attempting to kill them and strip their magic. Unfortunately for a spellscar fext, their transformation makes their entire being inimical to magic. They're unable to cast even the simplest of spells. They grasp destructively at magic they can never hold.\n\n Difficult for the unprepared to destroy permanently, spellscar fexts harry trade routes known for shipping magical goods and repeatedly attack arcane workshops on the borders of the Mana Wastes. They're particularly dangerous to spellcasters traveling alone, as battling the creatures might trigger a wellspring surge that could destroy the lone magic user.\n\n As the fext's vulnerability to glass weapons has become more well known, enterprising gunsmiths in Alkenstar have begun crafting glass ammunition, an uncommon item that costs the same as [cold iron ammunition](/Equipment.aspx?ID=375).\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SpellscarFext.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Spellscar Fext](/Monsters.aspx?ID=2415)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 337</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12), magic sense (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Arcana](/Skills.aspx?ID=2) +17, [Athletics](/Skills.aspx?ID=3) +17, [Occultism](/Skills.aspx?ID=11) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +1\r\n\r\n**Int** +4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Magic Sense** ([arcane](/Traits.aspx?ID=11)) The spellscar fext detects the source and school of each source of magic within 30 feet as an imprecise sense.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +17 \r\n\r\n+1 status versus [magic](/Traits.aspx?ID=103)\r\n</row>\r\n\r\n**HP** 100\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\r\n, regeneration 10 (deactivated by glass)\r\n\r\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\nglass 10\r\n\r\n**Unstable Feedback** <actions string=\"Reaction\" /> **Trigger** A creature Casts a Spell on the spellscar fext, and the spellscar fext either succeeds at its saving throw versus the spell or the caster fails the spell attack roll against the spellscar fext; **Effect** The caster of the triggering spell undergoes a [wellspring surge](/Rules.aspx?ID=1576). Even if several spellscar fexts use this reaction after succeeding at a save against the same spell, the spellcaster undergoes only one wellspring surge.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +18 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+8 bludgeoning\n\n**Grasp Power** <actions string=\"Single Action\" /> ([Abjuration](/Traits.aspx?ID=2), [Arcane](/Traits.aspx?ID=11)) **Requirements** The spellscar fext's last action was a successful fist Strike; **Effect** The spellscar fext attempts a [counteract](/Rules.aspx?ID=371) check against a single spell affecting the creature (counteract level 4, counteract modifier +17). If the check is successful, the creature also takes 6d6 mental damage (DC 25 [basic](/Rules.aspx?ID=329) Will save).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Simplified Feedback</title>\r\n\r\nIf you prefer to simplify the ability, creatures affected by the spellscar fext's Unstable Feedback ability are subject to an explosion of energy that deals 2d6 damage per spell level of the triggering spell in a 10-foot burst ([basic](/Rules.aspx?ID=329) Reflex save at the caster's spell DC). Since this ability is always bad for the caster, and some wellspring surges aren't as detrimental, it represents a power boost for the spellscar fext, so be careful about using it in especially challenging encounters with spellscar fexts.\r\n</aside>",
+ "name": "Spellscar Fext",
+ "npc": false,
+ "perception": 15,
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2022-11-16",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 337</row>\n\n<row gap=\"medium\">\r\n**HP** 100 ( negative healing )\r\n\r\n**AC** 25\r\n\r\n**Fort** +12\r\n\r\n**Ref** +15\r\n\r\n**Will** +17\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSpellscar fexts are spellcasters who were destroyed by wild magic or wellspring surges they tried—and failed—to control. The magical feedback that …\r\n</summary>",
+ "sense": " darkvision , magic sense (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), magic sense (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Arcana +17",
+  "Athletics +17",
+  "Occultism +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Arcana](/Skills.aspx?ID=2) +17, [Athletics](/Skills.aspx?ID=3) +17, [Occultism](/Skills.aspx?ID=11) +17",
+ "source": [
+  "Impossible Lands"
+ ],
+ "source_raw": [
+  "Impossible Lands pg. 337"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[Impossible Lands](/Sources.aspx?ID=146) pg. 337</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Spellscar fexts are spellcasters who were destroyed by wild magic or wellspring surges they tried—and failed—to control. The magical feedback that …",
+ "summary_markdown": "Spellscar fexts are spellcasters who were destroyed by wild magic or wellspring surges they tried—and failed—to control. The magical feedback that …",
+ "text": " Spellscar Fext Spellscar fexts are spellcasters who were destroyed by wild magic or wellspring surges they tried—and failed—to control. The magical feedback that snuffed out their life warped and animated their flesh, twisting them into shambling undead. Spellscar fexts stand 6 feet tall with disproportionately long arms that end in clusters of waving magical tendrils. Almost all who became spellscar fexts entered the Mana Wastes to harness the power of the area's wild magic. Once transformed, the desire for magical power becomes a spellscar fext's singular motivation. The creatures focus their attacks on magic users they encounter, attempting to kill them and strip their magic. Unfortunately for a spellscar fext, their transformation makes their entire being inimical to magic. They're unable to cast even the simplest of spells. They grasp destructively at magic they can never hold. Difficult for the unprepared to destroy permanently, spellscar fexts harry trade routes known for shipping magical goods and repeatedly attack arcane workshops on the borders of the Mana Wastes. They're particularly dangerous to spellcasters traveling alone, as battling the creatures might trigger a wellspring surge that could destroy the lone magic user. As the fext's vulnerability to glass weapons has become more well known, enterprising gunsmiths in Alkenstar have begun crafting glass ammunition, an uncommon item that costs the same as cold iron ammunition. Recall Knowledge - Undead (Religion): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Spellscar Fext Source Impossible Lands pg. 337 Perception +15; darkvision, magic sense (imprecise) 30 feet Languages Common, Necril Skills Acrobatics +13, Arcana +17, Athletics +17, Occultism +17 Str +6 Dex +2 Con +1 Int +4 Wis +4 Cha +2 Magic Sense (arcane) The spellscar fext detects the source and school of each source of magic within 30 feet as an imprecise sense. --- AC 25 Fort +12 Ref +15 Will +17 +1 status versus magic HP 100 (negative healing) , regeneration 10 (deactivated by glass) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses glass 10 Unstable Feedback Reaction Trigger A creature Casts a Spell on the spellscar fext, and the spellscar fext either succeeds at its saving throw versus the spell or the caster fails the spell attack roll against the spellscar fext; Effect The caster of the triggering spell undergoes a wellspring surge. Even if several spellscar fexts use this reaction after succeeding at a save against the same spell, the spellcaster undergoes only one wellspring surge. --- Speed 25 feet Melee Single Action fist +18 (Agile), Damage 2d8+8 bludgeoning Grasp Power Single Action (Abjuration, Arcane) Requirements The spellscar fext's last action was a successful fist Strike; Effect The spellscar fext attempts a counteract check against a single spell affecting the creature (counteract level 4, counteract modifier +17). If the check is successful, the creature also takes 6d6 mental damage (DC 25 basic Will save). Simplified Feedback If you prefer to simplify the ability, creatures affected by the spellscar fext's Unstable Feedback ability are subject to an explosion of energy that deals 2d6 damage per spell level of the triggering spell in a 10-foot burst (basic Reflex save at the caster's spell DC). Since this ability is always bad for the caster, and some wellspring surges aren't as detrimental, it represents a power boost for the spellscar fext, so be careful about using it in especially challenging encounters with spellscar fexts. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2415",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "weakness_markdown": "glass 10",
+ "weakness_raw": "glass 10",
+ "will_save": 17,
+ "wisdom": 4
+}

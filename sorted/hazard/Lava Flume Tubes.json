@@ -1,0 +1,57 @@
+{
+ "ac": 30,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Thievery  DC 29 (expert) to block a channel, or Thievery DC 31 (master) to release the floor latch and escape to the chamber below",
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hardness": 12,
+ "hardness_raw": "12 Channel Hardness",
+ "hazard_type": "Trap",
+ "hp": 48,
+ "hp_raw": "48 (BT 24) to destroy a channel gate (this prevents that channel from being disabled and stops the trap from resetting); <b>Floor Hardness</b> 18; <b>Floor HP</b> 72 (BT 36)",
+ "id": "hazard-26",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 10,
+ "markdown": "<title level=\"1\" right=\"Hazard 10\" pfs=\"\">[Lava Flume Tubes](/Hazards.aspx?ID=26)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 528 <sup>4.0</sup></row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nFour gated channels carved into stone allow lava to flow into a 15-foot-tall room; the floor can withdraw to allow the hardened lava to fall into a chamber beneath.\r\n\r\n---\r\n\r\n**Stealth**\r\n+19 (trained)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 29 (expert) to block a channel, or Thievery DC 31 (master) to release the floor latch and escape to the chamber below\n\n<column gap=\"tiny\">\r\n\r\n**AC** 30, **Fort** +20, **Ref** +16\r\n\r\n**Channel Hardness**\r\n12\r\n\r\n**Channel HP**\r\n48 (BT 24) to destroy a channel gate (this prevents that channel from being disabled and stops the trap from resetting); **Floor Hardness** 18; **Floor HP** 72 (BT 36)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Flume Activation** <actions string=\"Reaction\" /> **Trigger** A creature tries to leave the room. **Effect** The exits seal instantly and the trap rolls initiative.\n\n---\r\n**Routine**\r\n(4 actions) The trap loses 1 action per disabled channel each turn. On each action, a different channel spews lava, dealing 4d6 fire damage to each creature within 10 feet of the channel (DC 27 basic Reflex save), and increasing the depth of the lava in the room by 1 foot (4 feet per round if all the channels are active).\n\n A creature that starts its turn in lava takes 8d6 fire damage and is [immobilized](/Conditions.aspx?ID=24) until it [Escapes](/Actions.aspx?ID=79) the hardening lava (DC 27). The creature might [suffocate](/Rules.aspx?ID=468) if covered in lava. Lava from the previous round hardens fully at the start of the trap’s turn, effectively raising the floor of the room. Once the room is full of lava, the trap stops taking actions, but creatures in the room remain stuck until the floor opens and the trap resets.\r\n\r\n---\r\n**Reset**\r\nThe trap deactivates and resets after 1 hour by withdrawing the floor, cracking and dumping the hardened lava (and any creatures trapped inside) into the chamber. Creatures [fall](/Rules.aspx?ID=402) 40 feet, taking falling damage (typically 17 bludgeoning damage).",
+ "name": "Lava Flume Tubes",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2019-08-01",
+ "reset": "The trap deactivates and resets after 1 hour by withdrawing the floor, cracking and dumping the hardened lava (and any creatures trapped inside) into the chamber. Creatures <%RULES%402%%>fall<%END> 40 feet, taking falling damage (typically 17 bludgeoning damage).",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 528 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFour gated channels carved into stone allow lava to flow into a 15-foot-tall room; the floor can withdraw to allow the hardened lava to fall into a …\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 528"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 528 <sup>4.0</sup></row>",
+ "speed": {},
+ "stealth": "+19 (trained)",
+ "summary": "Four gated channels carved into stone allow lava to flow into a 15-foot-tall room; the floor can withdraw to allow the hardened lava to fall into a …",
+ "summary_markdown": "Four gated channels carved into stone allow lava to flow into a 15-foot-tall room; the floor can withdraw to allow the hardened lava to fall into a …",
+ "text": " Lava Flume Tubes Source Core Rulebook pg. 528 4.0 Complexity Complex Four gated channels carved into stone allow lava to flow into a 15-foot-tall room; the floor can withdraw to allow the hardened lava to fall into a chamber beneath. --- Stealth +19 (trained) Disable Thievery DC 29 (expert) to block a channel, or Thievery DC 31 (master) to release the floor latch and escape to the chamber below AC 30, Fort +20, Ref +16 Channel Hardness 12 Channel HP 48 (BT 24) to destroy a channel gate (this prevents that channel from being disabled and stops the trap from resetting); Floor Hardness 18; Floor HP 72 (BT 36) Immunities critical hits, object immunities, precision damage Flume Activation Reaction Trigger A creature tries to leave the room. Effect The exits seal instantly and the trap rolls initiative. --- Routine (4 actions) The trap loses 1 action per disabled channel each turn. On each action, a different channel spews lava, dealing 4d6 fire damage to each creature within 10 feet of the channel (DC 27 basic Reflex save), and increasing the depth of the lava in the room by 1 foot (4 feet per round if all the channels are active). A creature that starts its turn in lava takes 8d6 fire damage and is immobilized until it Escapes the hardening lava (DC 27). The creature might suffocate if covered in lava. Lava from the previous round hardens fully at the start of the trap’s turn, effectively raising the floor of the room. Once the room is full of lava, the trap stops taking actions, but creatures in the room remain stuck until the floor opens and the trap resets. --- Reset The trap deactivates and resets after 1 hour by withdrawing the floor, cracking and dumping the hardened lava (and any creatures trapped inside) into the chamber. Creatures fall 40 feet, taking falling damage (typically 17 bludgeoning damage).",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=26",
+ "weakness": {}
+}

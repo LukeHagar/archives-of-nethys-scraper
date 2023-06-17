@@ -1,0 +1,110 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "False Authority",
+  "Usurper's Curse",
+  "Deadly Pursuit",
+  "Berserk",
+  "Usurper's Curse"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 210,
+ "hp_raw": "210 ( negative healing )",
+ "id": "creature-2405",
+ "image": [
+  "/Images/Monsters/CursedKing.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language": [
+  "Necril",
+  "plus any two ancient languages (can't speak)"
+ ],
+ "language_markdown": "[Necril](/Languages.aspx?ID=20); plus any two ancient languages (can't speak)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Cursed King](/Monsters.aspx?ID=2405)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA cursed king is a grotesque mockery of ambition. When treasonous advisors, false prophets, and rebel leaders are captured by evil rulers, they're subjected to all manner of torture and humiliation before their eventual executions. But the cursed king isn't even granted dignity in death, as after their beheading, a desiccated animal head is sewn onto their neck. These horrific mummies are then dressed in fine linens and jewelry befitting royalty—a permanent warning of what happens to those who seek to rise above their station.\n\n A cursed king is bound in servitude to the ruler against whom they once fought, forced to act as a bodyguard. Even the death of their maker gives no reprieve, as they guard the true monarch's tomb forever.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CursedKing.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Cursed King](/Monsters.aspx?ID=2405)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mummy\" url=\"/Traits.aspx?ID=228\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 525</row>\n\n**Perception** +20; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Necril](/Languages.aspx?ID=20); plus any two ancient languages (can't speak)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +17, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 210\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 10\r\n\r\n**False Authority** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 30 feet. When a creature enters or ends its turn within the cursed king's aura, it must attempt a DC 26 Will save. If it fails, it becomes [frightened 2](/Conditions.aspx?ID=19). If it critically fails, it's cowed into submission; in addition to becoming frightened 2, it must use its first action on its turn to kneel or [flee](/Conditions.aspx?ID=17) from the cursed king. A creature who succeeds at its saving throw becomes immune to the king's false authority for 24 hours.<br />**Usurper's Curse** ([curse](/Traits.aspx?ID=38)) When a creature slays a cursed king, it must attempt a DC 29 Will save. On a failure, it suffers the effects of the usurper's curse.<br />**Deadly Pursuit** <actions string=\"Reaction\" /> **Trigger** A creature within the cursed king's reach attempts to move away; **Effect** The cursed king Strides up to its Speed, keeping the creature within reach until the creature stops or the cursed king has moved its full Speed. If the creature is still within reach, the cursed king makes a jaws Strike against it.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23,\r\n**Damage** 2d12+13 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +23 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+13 bludgeoning\n\n**Berserk**   At the beginning of each of its turns in combat, a cursed king must attempt a DC 2 flat check. If it succeeds, the DC increases by 1. If it fails, it immediately goes berserk, becoming [mindless](/Traits.aspx?ID=108) for the rest of its turn, immune to all [mental](/Traits.aspx?ID=106) effects, and attacking the nearest creature it can reach. While it's berserk, each of its unarmed attacks gain the [deadly d8](/Actions.aspx?ID=1362) trait. At the end of a turn it failed this flat check or whenever the combat encounter ends, the DC resets to 2.\r\n\r\n**Usurper's Curse**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Polymorph](/Traits.aspx?ID=127)) DC 30 Will saving throw. On a failure, the creature who killed the cursed king becomes [stupefied 1](/Conditions.aspx?ID=37). On a critical failure, it becomes stupefied 2. As long as that creature remains cursed, it can't remove or decrease the value of the stupefied condition in any way. Afflicted creatures must attempt the saving throw again every 24 hours, increasing the stupefied condition by 1 on a failure or 2 on a critical failure. If the condition ever increases past stupefied 4, they transform, body and mind, into the same animal as the cursed king's head, similar to the critical failure effect of [_baleful polymorph_](/Spells.aspx?ID=17).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Artful Punishment</title>\r\n\r\nThe cursed king's creator can take its head from any common animal in the region, but the creator typically chooses a specific head for its symbolic significance. For instance, a creator might choose a jackal's head if the cursed king was a clever tactician, a hippo's if they were formidable on the battlefield, or a giant cobra's for those who betrayed the regime from within. Aesthetics are often also considered, although it isn't unheard of for a cursed king to have the head of a more ignoble creature as an additional punishment. \r\n</aside>",
+ "name": "Cursed King",
+ "npc": false,
+ "perception": 20,
+ "rarity": "common",
+ "reflex_save": 20,
+ "release_date": "2022-11-16",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mummy\" url=\"/Traits.aspx?ID=228\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 525</row>\n\n<row gap=\"medium\">\r\n**HP** 210 ( negative healing )\r\n\r\n**AC** 29\r\n\r\n**Fort** +20\r\n\r\n**Ref** +20\r\n\r\n**Will** +16\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA cursed king is a grotesque mockery of ambition. When treasonous advisors, false prophets, and rebel leaders are captured by evil rulers, they're …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Intimidation +17",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +17, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Impossible Lands"
+ ],
+ "source_raw": [
+  "Impossible Lands pg. 525"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[Impossible Lands](/Sources.aspx?ID=146) pg. 525</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "A cursed king is a grotesque mockery of ambition. When treasonous advisors, false prophets, and rebel leaders are captured by evil rulers, they're …",
+ "summary_markdown": "A cursed king is a grotesque mockery of ambition. When treasonous advisors, false prophets, and rebel leaders are captured by evil rulers, they're …",
+ "text": " Cursed King A cursed king is a grotesque mockery of ambition. When treasonous advisors, false prophets, and rebel leaders are captured by evil rulers, they're subjected to all manner of torture and humiliation before their eventual executions. But the cursed king isn't even granted dignity in death, as after their beheading, a desiccated animal head is sewn onto their neck. These horrific mummies are then dressed in fine linens and jewelry befitting royalty—a permanent warning of what happens to those who seek to rise above their station. A cursed king is bound in servitude to the ruler against whom they once fought, forced to act as a bodyguard. Even the death of their maker gives no reprieve, as they guard the true monarch's tomb forever. Recall Knowledge - Undead (Religion): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Cursed King Source Impossible Lands pg. 525 Perception +20; darkvision Languages Necril; plus any two ancient languages (can't speak) Skills Athletics +23, Intimidation +17, Stealth +17 Str +7 Dex +3 Con +4 Int -4 Wis +4 Cha +3 --- AC 29 Fort +20 Ref +20 Will +16 HP 210 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses fire 10 False Authority (aura, emotion, fear, mental) 30 feet. When a creature enters or ends its turn within the cursed king's aura, it must attempt a DC 26 Will save. If it fails, it becomes frightened 2. If it critically fails, it's cowed into submission; in addition to becoming frightened 2, it must use its first action on its turn to kneel or flee from the cursed king. A creature who succeeds at its saving throw becomes immune to the king's false authority for 24 hours. Usurper's Curse (curse) When a creature slays a cursed king, it must attempt a DC 29 Will save. On a failure, it suffers the effects of the usurper's curse. Deadly Pursuit Reaction Trigger A creature within the cursed king's reach attempts to move away; Effect The cursed king Strides up to its Speed, keeping the creature within reach until the creature stops or the cursed king has moved its full Speed. If the creature is still within reach, the cursed king makes a jaws Strike against it. --- Speed 25 feet Melee Single Action jaws +23, Damage 2d12+13 piercing plus Grab Melee Single Action fist +23 (Agile), Damage 2d8+13 bludgeoning Berserk At the beginning of each of its turns in combat, a cursed king must attempt a DC 2 flat check. If it succeeds, the DC increases by 1. If it fails, it immediately goes berserk, becoming mindless for the rest of its turn, immune to all mental effects, and attacking the nearest creature it can reach. While it's berserk, each of its unarmed attacks gain the deadly d8 trait. At the end of a turn it failed this flat check or whenever the combat encounter ends, the DC resets to 2. Usurper's Curse (Curse, Necromancy, Polymorph) DC 30 Will saving throw. On a failure, the creature who killed the cursed king becomes stupefied 1. On a critical failure, it becomes stupefied 2. As long as that creature remains cursed, it can't remove or decrease the value of the stupefied condition in any way. Afflicted creatures must attempt the saving throw again every 24 hours, increasing the stupefied condition by 1 on a failure or 2 on a critical failure. If the condition ever increases past stupefied 4, they transform, body and mind, into the same animal as the cursed king's head, similar to the critical failure effect of baleful polymorph . Artful Punishment The cursed king's creator can take its head from any common animal in the region, but the creator typically chooses a specific head for its symbolic significance. For instance, a creator might choose a jackal's head if the cursed king was a clever tactician, a hippo's if they were formidable on the battlefield, or a giant cobra's for those who betrayed the regime from within. Aesthetics are often also considered, although it isn't unheard of for a cursed king to have the head of a more ignoble creature as an additional punishment. ",
+ "trait": [
+  "Mummy",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Mummy](/Traits.aspx?ID=228), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mummy",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2405",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 10",
+ "weakness_raw": " fire  10",
+ "will_save": 16,
+ "wisdom": 4
+}

@@ -1,0 +1,109 @@
+{
+ "ac": 22,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 6,
+ "creature_ability": [
+  "Slow",
+  "Corpse Wallow",
+  "Rotting Aura",
+  "Bury in Offal",
+  "Wretched Weeps"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 190,
+ "hp_raw": "190 ( negative healing )",
+ "id": "creature-2491",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ofalth Zombie](/Monsters.aspx?ID=2491)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 28\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Ofalth Zombie](/Monsters.aspx?ID=2491)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 47</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Slow** The ofalth zombie is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 190\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 10, slashing 10\r\n\r\n**Corpse Wallow** The ofalth zombie gains [fast healing 2](/MonsterAbilities.aspx?ID=15) as long as it is in the Catacombs or another area with a high concentration of dead.<br />**Rotting Aura** ([aura](/Traits.aspx?ID=206), [disease](/Traits.aspx?ID=46), [necromancy](/Traits.aspx?ID=117)) 10 feet, DC 24. The zombie emits an aura of rot and disease that causes wounds to fester and turn sour. Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 2d6 damage as its wounds fester. Creatures that take a critical hit from the zombie also take this damage immediately.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +18 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+11 bludgeoning plus wretched weeps\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nfling offal +17 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+11 bludgeoning plus wretched weeps\n\n**Bury in Offal** <actions string=\"Single Action\" />  The ofalth zombie makes a fling offal Strike and compares the attack roll result to the AC of any foes within the area of a 15-foot cone emanating from the ofalth zombie. This counts as two attacks for the ofalth zombie's multiple attack penalty. The ofalth zombie can't use Bury in Offal again until it moves at least 10 feet to a different space.\r\n\r\n**Wretched Weeps**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 22 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d8 [persistent bleed damage](/Conditions.aspx?ID=29) every hour and [enfeebled 1](/Conditions.aspx?ID=13) (1 day); **Stage 3** 2d8 persistent bleed damage every hour and enfeebled 2 (1 day)\r\n\r\n</column>",
+ "name": "Ofalth Zombie",
+ "npc": false,
+ "perception": 15,
+ "rarity": "rare",
+ "reflex_save": 11,
+ "release_date": "2020-08-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 47</row>\n\n<row gap=\"medium\">\r\n**HP** 190 ( negative healing )\r\n\r\n**AC** 22\r\n\r\n**Fort** +18\r\n\r\n**Ref** +11\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +20"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +20",
+ "source": [
+  "Pathfinder #158: Sixty Feet Under"
+ ],
+ "source_raw": [
+  "Pathfinder #158: Sixty Feet Under pg. 47"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 47</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Agents of Edgewatch",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "",
+ "summary_markdown": "",
+ "text": " Ofalth Zombie Recall Knowledge - Aberration (Occultism): DC 28 Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Ofalth Zombie Source Pathfinder #158: Sixty Feet Under pg. 47 Perception +15; darkvision Languages Skills Athletics +20 Str +7 Dex +3 Con +6 Int -5 Wis +0 Cha +2 Slow The ofalth zombie is permanently slowed 1 and can't use reactions. --- AC 22 Fort +18 Ref +11 Will +13 HP 190 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, unconscious Weaknesses positive 10, slashing 10 Corpse Wallow The ofalth zombie gains fast healing 2 as long as it is in the Catacombs or another area with a high concentration of dead. Rotting Aura (aura, disease, necromancy) 10 feet, DC 24. The zombie emits an aura of rot and disease that causes wounds to fester and turn sour. Any living creature that starts its turn within 10 feet of the zombie and is not at full Hit Points takes 2d6 damage as its wounds fester. Creatures that take a critical hit from the zombie also take this damage immediately. --- Speed 30 feet Melee Single Action fist +18 (reach 10 feet), Damage 2d8+11 bludgeoning plus wretched weeps Ranged Single Action fling offal +17 (range increment 30 feet), Damage 2d6+11 bludgeoning plus wretched weeps Bury in Offal Single Action The ofalth zombie makes a fling offal Strike and compares the attack roll result to the AC of any foes within the area of a 15-foot cone emanating from the ofalth zombie. This counts as two attacks for the ofalth zombie's multiple attack penalty. The ofalth zombie can't use Bury in Offal again until it moves at least 10 feet to a different space. Wretched Weeps (Disease) Saving Throw DC 22 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 2d8 persistent bleed damage every hour and enfeebled 1 (1 day); Stage 3 2d8 persistent bleed damage every hour and enfeebled 2 (1 day) ",
+ "trait": [
+  "Aberration",
+  "Mindless",
+  "Rare",
+  "Undead",
+  "Zombie",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Mindless](/Traits.aspx?ID=108), [Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Aberration",
+  "Mindless",
+  "Rare",
+  "Undead",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2491",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "positive": 10,
+  "slashing": 10
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 10, slashing 10",
+ "weakness_raw": " positive  10, slashing 10",
+ "will_save": 13,
+ "wisdom": 0
+}

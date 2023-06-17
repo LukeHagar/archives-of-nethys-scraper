@@ -1,0 +1,46 @@
+{
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 40  Crafting  (master) or DC 42  Survival  (legendary) to neutralize the acid while within reach of it. Three successes using either skill (or a combination of both) destroys the hazard.",
+ "exclude_from_search": false,
+ "hazard_type": "Environmental",
+ "id": "hazard-126",
+ "level": 18,
+ "markdown": "<title level=\"1\" right=\"Hazard 18\" pfs=\"\">[Venom Pool](/Hazards.aspx?ID=126)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 11</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA shallow, foul-smelling puddle of toxic acid blocks a narrow hall, and poison bursts from it when disturbed.\r\n\r\n---\r\n\r\n**Stealth**\r\n+30 (legendary) to distinguish between the hazard and the oozes within it; DC 0 to notice the pool\r\n\r\n**Disable**\r\nDC 40 [Crafting](/Skills.aspx?ID=4) (master) or DC 42 [Survival](/Skills.aspx?ID=16) (legendary) to neutralize the acid while within reach of it. Three successes using either skill (or a combination of both) destroys the hazard.\r\n\r\n**Deadly Footing** The area of the venom pool is difficult terrain, and each creature moving through it takes 10 acid damage for every square of its area that it moves into.\r\n\r\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Poison Puff** <actions string=\"Reaction\" /> **Trigger** A creature moves through any square in the hazard's space; **Effect** The pool produces a 9th-level [_cloudkill_](/Spells.aspx?ID=42) (DC 40) at its center. It then rolls initiative.\n\n---\r\n**Routine**\r\n(2 actions) The hazard uses its first action to spread 10 feet down the hallway in both directions. Once out of the hall, each side spreads in a random direction each round, but they don't go through doors. The hazard uses its second action to move the center of the _cloudkill_ up to 20 feet in any direction to which any part of the pool has line of effect (normally, to encompass the greatest number of characters). If the _cloudkill_ isn't present, it instead uses its second action to produce a new cloudkill, as Poison Puff.\r\n\r\n---\r\n**Reset**\r\nThe hazard ends after 1 minute, contracting to its original size and keeping still until disturbed again.",
+ "name": "Venom Pool",
+ "rarity": "uncommon",
+ "release_date": "2022-03-30",
+ "reset": "The hazard ends after 1 minute, contracting to its original size and keeping still until disturbed again.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 11</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA shallow, foul-smelling puddle of toxic acid blocks a narrow hall, and poison bursts from it when disturbed.\r\n</summary>",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 11"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 11</row>",
+ "speed": {},
+ "spoilers": "Strength of Thousands",
+ "stealth": "+30 (legendary) to distinguish between the hazard and the oozes within it; DC 0 to notice the pool",
+ "summary": "A shallow, foul-smelling puddle of toxic acid blocks a narrow hall, and poison bursts from it when disturbed.",
+ "summary_markdown": "A shallow, foul-smelling puddle of toxic acid blocks a narrow hall, and poison bursts from it when disturbed.",
+ "text": " Venom Pool Source Pathfinder #174: Shadows of the Ancients pg. 11 Complexity Complex A shallow, foul-smelling puddle of toxic acid blocks a narrow hall, and poison bursts from it when disturbed. --- Stealth +30 (legendary) to distinguish between the hazard and the oozes within it; DC 0 to notice the pool Disable DC 40 Crafting (master) or DC 42 Survival (legendary) to neutralize the acid while within reach of it. Three successes using either skill (or a combination of both) destroys the hazard. Deadly Footing The area of the venom pool is difficult terrain, and each creature moving through it takes 10 acid damage for every square of its area that it moves into. Poison Puff Reaction Trigger A creature moves through any square in the hazard's space; Effect The pool produces a 9th-level cloudkill (DC 40) at its center. It then rolls initiative. --- Routine (2 actions) The hazard uses its first action to spread 10 feet down the hallway in both directions. Once out of the hall, each side spreads in a random direction each round, but they don't go through doors. The hazard uses its second action to move the center of the cloudkill up to 20 feet in any direction to which any part of the pool has line of effect (normally, to encompass the greatest number of characters). If the cloudkill isn't present, it instead uses its second action to produce a new cloudkill, as Poison Puff. --- Reset The hazard ends after 1 minute, contracting to its original size and keeping still until disturbed again.",
+ "trait": [
+  "Complex",
+  "Environmental",
+  "Uncommon"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Environmental](/Traits.aspx?ID=62), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Complex",
+  "Environmental",
+  "Uncommon"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=126",
+ "weakness": {}
+}

@@ -1,0 +1,114 @@
+{
+ "ac": 21,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 3,
+ "creature_ability": [
+  "Gloom Aura",
+  "Skitter Away",
+  "Cynic's Curse"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 60,
+ "hp_raw": "60 ( negative healing )",
+ "id": "creature-1224",
+ "image": [
+  "/Images/Monsters/Lovelorn.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -2,
+ "language": [
+  "Common",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can't speak any language)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Lovelorn](/Monsters.aspx?ID=1224)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA particularly macabre form of undead, these spiderlike creatures resemble still-beating hearts with rib bones for legs and tendrils of gore dangling beneath. Their twisted forms hint at their ghastly origin, as these undead form from those who die tragic deaths in service to toxic love: star-crossed lovers who die rather than accept a life apart from one another, rejected suitors whose unrequited affections warp into malice, and other victims of tragic relationships both romantic and otherwise. Any of these might spawn a lovelorn in death, their anguish and fixation on their broken heart causing the organ to animate.\n\n A freshly spawned lovelorn often seeks out those it knew in life, stalking and tormenting them or, in some cases, those around them. In undeath, they gain an understanding of emotions and how to manipulate them, cultivating the misery, anger, and cruelty they thrive upon. Typically, these undead long to enact vengeance upon those they feel drove them to their tragic fates, although in rare cases they may instead act as dark guardians, fixating on a particular loved one and “protecting” them by visiting misery upon anyone who slights them.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Lovelorn.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Lovelorn](/Monsters.aspx?ID=1224)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 165</row>\n\n**Perception** +10; (12 to [Sense Motive](/Actions.aspx?ID=85)) [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Occultism](/Skills.aspx?ID=11) +8, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 60\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Gloom Aura** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [illusion](/Traits.aspx?ID=92), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) 60 feet. A lovelorn's presence instills unease and turns the air cold, dark, and stale. Creatures within the aura take a –1 circumstance penalty to saving throws made to resist [emotion](/Traits.aspx?ID=60) effects. If the lovelorn makes a place home for a week or more, that location can become suffused with this magic even outside the lovelorn's aura, lasting until the lovelorn leaves or is destroyed.<br />**Skitter Away** <actions string=\"Reaction\" /> **Trigger** A creature ends its movement in a space adjacent to the lovelorn; **Effect** The lovelorn Strides or Climbs 10 feet away from the triggering creature. This movement does not trigger reactions.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +13 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+6 piercing plus 1d6 [persistent bleed](/Conditions.aspx?ID=29) and cynic's curse\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ngory tendril +13 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d4+6 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Occult Innate Spells** DC 21\r\n- **Cantrips (2nd)**\r\n[Ghost Sound](/Spells.aspx?ID=132), [Mage Hand](/Spells.aspx?ID=177)\r\n- **2nd**\r\n[Fear](/Spells.aspx?ID=110) (×3), [Illusory Creature](/Spells.aspx?ID=158) (at will), [Illusory Object](/Spells.aspx?ID=160) (at will), [Invisibility](/Spells.aspx?ID=164)\r\n\r\n**Rituals** DC 21\r\n\r\n- **2nd**\r\n[Create Undead](/Rituals.aspx?ID=10) (doesn't require secondary casters)\r\n\r\n**Cynic's Curse**  ([Curse](/Traits.aspx?ID=38), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) A creature hit by a lovelorn's fangs Strike must attempt a DC 19 Will save as it grows morose and listless. If the creature would be affected by a [_calm emotions_](/Spells.aspx?ID=31) spell, that spell attempts to [counteract](/Rules.aspx?ID=371) this curse instead of having its normal effect. <br />**Critical Success** The target is unaffected. <br />**Success** For 1 minute, the target can't benefit from helpful [emotion](/Traits.aspx?ID=60) effects, but can still be affected by harmful emotion effects. <br />**Failure** As success, plus the target is [fatigued](/Conditions.aspx?ID=15) for the same duration. <br />**Critical Failure** As failure, but the curse's effects are permanent.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Lovelorn Keepsakes</title>\r\n\r\nWhile a lovelorn has little use for treasure and rarely collects or hoards it for monetary value, these passionate undead often collect mementos and trinkets, both from their own lives before becoming undead and from their victims since becoming a lovelorn. While many of these possess little intrinsic value—paintings, diaries, handmade toys, and the like—it's not uncommon for lovelorns to fill their twisted nests with bejeweled rings and necklaces, antique combs, gold and platinum lockets, and the like.\r\n</aside>",
+ "name": "Lovelorn",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 13,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 165</row>\n\n<row gap=\"medium\">\r\n**HP** 60 ( negative healing )\r\n\r\n**AC** 21\r\n\r\n**Fort** +9\r\n\r\n**Ref** +13\r\n\r\n**Will** +12\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA particularly macabre form of undead, these spiderlike creatures resemble still-beating hearts with rib bones for legs and tendrils of gore dangling …\r\n</summary>",
+ "sense": "(12 to  Sense Motive )  darkvision ,  lifesense  30 feet",
+ "sense_markdown": "(12 to [Sense Motive](/Actions.aspx?ID=85)) [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 30 feet",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Occultism +8",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Occultism](/Skills.aspx?ID=11) +8, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 165"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 165</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell": [
+  "Fear",
+  "Illusory Creature",
+  "Illusory Object",
+  "Invisibility",
+  "Ghost Sound",
+  "Mage Hand"
+ ],
+ "spell_markdown": "[Fear](/Spells.aspx?ID=110), [Ghost Sound](/Spells.aspx?ID=132), [Illusory Creature](/Spells.aspx?ID=158), [Illusory Object](/Spells.aspx?ID=160), [Invisibility](/Spells.aspx?ID=164), [Mage Hand](/Spells.aspx?ID=177)",
+ "stealth": "13",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A particularly macabre form of undead, these spiderlike creatures resemble still-beating hearts with rib bones for legs and tendrils of gore dangling …",
+ "summary_markdown": "A particularly macabre form of undead, these spiderlike creatures resemble still-beating hearts with rib bones for legs and tendrils of gore dangling …",
+ "text": " Lovelorn A particularly macabre form of undead, these spiderlike creatures resemble still-beating hearts with rib bones for legs and tendrils of gore dangling beneath. Their twisted forms hint at their ghastly origin, as these undead form from those who die tragic deaths in service to toxic love: star-crossed lovers who die rather than accept a life apart from one another, rejected suitors whose unrequited affections warp into malice, and other victims of tragic relationships both romantic and otherwise. Any of these might spawn a lovelorn in death, their anguish and fixation on their broken heart causing the organ to animate. A freshly spawned lovelorn often seeks out those it knew in life, stalking and tormenting them or, in some cases, those around them. In undeath, they gain an understanding of emotions and how to manipulate them, cultivating the misery, anger, and cruelty they thrive upon. Typically, these undead long to enact vengeance upon those they feel drove them to their tragic fates, although in rare cases they may instead act as dark guardians, fixating on a particular loved one and “protecting” them by visiting misery upon anyone who slights them. Recall Knowledge - Undead (Religion): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Lovelorn Source Bestiary 3 pg. 165 Perception +10; (12 to Sense Motive) darkvision, lifesense 30 feet Languages Common; (can't speak any language) Skills Athletics +12, Occultism +8, Stealth +13 Str +4 Dex +5 Con +3 Int -2 Wis +2 Cha +3 --- AC 21 Fort +9 Ref +13 Will +12 HP 60 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, unconscious Gloom Aura (aura, emotion, illusion, mental, occult) 60 feet. A lovelorn's presence instills unease and turns the air cold, dark, and stale. Creatures within the aura take a –1 circumstance penalty to saving throws made to resist emotion effects. If the lovelorn makes a place home for a week or more, that location can become suffused with this magic even outside the lovelorn's aura, lasting until the lovelorn leaves or is destroyed. Skitter Away Reaction Trigger A creature ends its movement in a space adjacent to the lovelorn; Effect The lovelorn Strides or Climbs 10 feet away from the triggering creature. This movement does not trigger reactions. --- Speed 25 feet, climb 25 feet Melee Single Action fangs +13 (Finesse), Damage 1d6+6 piercing plus 1d6 persistent bleed and cynic's curse Melee Single Action gory tendril +13 (Agile, Finesse), Damage 1d4+6 bludgeoning plus Grab Occult Innate Spells DC 21 - Cantrips (2nd) Ghost Sound, Mage Hand - 2nd Fear (×3), Illusory Creature (at will), Illusory Object (at will), Invisibility Rituals DC 21 - 2nd Create Undead (doesn't require secondary casters) Cynic's Curse (Curse, Emotion, Enchantment, Mental, Occult) A creature hit by a lovelorn's fangs Strike must attempt a DC 19 Will save as it grows morose and listless. If the creature would be affected by a calm emotions spell, that spell attempts to counteract this curse instead of having its normal effect. Critical Success The target is unaffected. Success For 1 minute, the target can't benefit from helpful emotion effects, but can still be affected by harmful emotion effects. Failure As success, plus the target is fatigued for the same duration. Critical Failure As failure, but the curse's effects are permanent. Lovelorn Keepsakes While a lovelorn has little use for treasure and rarely collects or hoards it for monetary value, these passionate undead often collect mementos and trinkets, both from their own lives before becoming undead and from their victims since becoming a lovelorn. While many of these possess little intrinsic value—paintings, diaries, handmade toys, and the like—it's not uncommon for lovelorns to fill their twisted nests with bejeweled rings and necklaces, antique combs, gold and platinum lockets, and the like. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1224",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 2
+}

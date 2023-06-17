@@ -1,0 +1,102 @@
+{
+ "ac": 18,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 1,
+ "creature_ability": [
+  "Shark Commune",
+  "Blood Frenzy",
+  "Bloodletting"
+ ],
+ "creature_family": "Sea Devil",
+ "creature_family_markdown": "[Sea Devil](/MonsterFamilies.aspx?ID=88)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-358",
+ "image": [
+  "/Images/Monsters/SeaDevil_SeaDevilScout.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Aquan",
+  "shark commune 150 feet"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14); shark commune 150 feet",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Sea Devil Scout](/Monsters.aspx?ID=358)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nScouts, among the lowliest (and most disposable) of sea devils, ply the inky waters of the ocean in search of aquatic prey, tread ashore to gauge landborne threats, or charge into battle with the advance forces of a greater sea devil war party.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SeaDevil_SeaDevilScout.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Sea Devil Scout](/Monsters.aspx?ID=358)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Sea Devil\" url=\"/Traits.aspx?ID=235\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 286</row>\n\n**Perception** +9; darkvision, wavesense 30 feet\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14); shark commune 150 feet\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +9, [Intimidation](/Skills.aspx?ID=7) +5, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Shark Commune** ([mental](/Traits.aspx?ID=106), [telepathy](/Traits.aspx?ID=250)) The sea devil can communicate telepathically with sharks within range. It can communicate only simple concepts like “come,” “guard,” or “attack.”\r\n\r\n**Items**\r\n[Spear](/Weapons.aspx?ID=10), [Longspear](/Weapons.aspx?ID=6)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 30\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongspear +11 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+3 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +11 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+3 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +11,\r\n**Damage** 1d8+3 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspear +12 ([thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+3 piercing\n\n**Blood Frenzy** <actions string=\"Free Action\" /> ([Rage](/Traits.aspx?ID=135)) **Requirements** The sea devil is not [fatigued](/Conditions.aspx?ID=15) or already in a frenzy. **Trigger** The sea devil deals bleed damage to a living creature. **Effect** The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 7 temporary HP until the end of the frenzy, and takes a –2 status penalty to AC. The sea devil can’t voluntarily stop its frenzy. After its frenzy, the sea devil is [fatigued](/Conditions.aspx?ID=15).\r\n\r\n**Bloodletting**   When the sea devil deals piercing or slashing damage, it also deals 1d4 persistent bleed damage if the target was [flat-footed](/Conditions.aspx?ID=16) or if the attack was a critical hit.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-88\" />",
+ "name": "Sea Devil Scout",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Sea Devil\" url=\"/Traits.aspx?ID=235\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 286</row>\r\n\r\n**Creature Family** [Sea Devil](/MonsterFamilies.aspx?ID=88)\r\n\r\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 18\r\n\r\n**Fort** +7\r\n\r\n**Ref** +10\r\n\r\n**Will** +7\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nScouts, among the lowliest (and most disposable) of sea devils, ply the inky waters of the ocean in search of aquatic prey, tread ashore to gauge …\r\n</summary>",
+ "sense": "darkvision, wavesense 30 feet",
+ "sense_markdown": "darkvision, wavesense 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +9",
+  "Intimidation +5",
+  "Stealth +8",
+  "Survival +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +9, [Intimidation](/Skills.aspx?ID=7) +5, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +7",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 286"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 286</row>",
+ "speed": {
+  "land": 25,
+  "max": 35,
+  "swim": 35
+ },
+ "speed_markdown": "25 feet, swim 35 feet",
+ "speed_raw": "25 feet, swim 35 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Scouts, among the lowliest (and most disposable) of sea devils, ply the inky waters of the ocean in search of aquatic prey, tread ashore to gauge …",
+ "summary_markdown": "Scouts, among the lowliest (and most disposable) of sea devils, ply the inky waters of the ocean in search of aquatic prey, tread ashore to gauge …",
+ "text": " Sea Devil Scout Scouts, among the lowliest (and most disposable) of sea devils, ply the inky waters of the ocean in search of aquatic prey, tread ashore to gauge landborne threats, or charge into battle with the advance forces of a greater sea devil war party. Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Sea Devil Scout Source Bestiary pg. 286 Perception +9; darkvision, wavesense 30 feet Languages Aquan; shark commune 150 feet Skills Athletics +9, Intimidation +5, Stealth +8, Survival +7 Str +3 Dex +4 Con +1 Int +0 Wis +3 Cha -1 Shark Commune (mental, telepathy) The sea devil can communicate telepathically with sharks within range. It can communicate only simple concepts like “come,” “guard,” or “attack.” Items Spear, Longspear --- AC 18 Fort +7 Ref +10 Will +7 HP 30 --- Speed 25 feet, swim 35 feet Melee Single Action longspear +11 (reach 10 feet), Damage 1d8+3 piercing Melee Single Action claw +11 (Agile), Damage 1d6+3 slashing Melee Single Action jaws +11, Damage 1d8+3 piercing Ranged Single Action spear +12 (thrown 20 feet), Damage 1d6+3 piercing Blood Frenzy Free Action (Rage) Requirements The sea devil is not fatigued or already in a frenzy. Trigger The sea devil deals bleed damage to a living creature. Effect The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 7 temporary HP until the end of the frenzy, and takes a –2 status penalty to AC. The sea devil can’t voluntarily stop its frenzy. After its frenzy, the sea devil is fatigued. Bloodletting When the sea devil deals piercing or slashing damage, it also deals 1d4 persistent bleed damage if the target was flat-footed or if the attack was a critical hit. ",
+ "trait": [
+  "Amphibious",
+  "Humanoid",
+  "Sea Devil",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Humanoid](/Traits.aspx?ID=91), [Sea Devil](/Traits.aspx?ID=235)",
+ "trait_raw": [
+  "Amphibious",
+  "Humanoid",
+  "Sea Devil"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=358",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 3
+}

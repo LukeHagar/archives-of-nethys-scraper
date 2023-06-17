@@ -1,0 +1,76 @@
+{
+ "actions": "Two Actions",
+ "bloodline_markdown": "",
+ "breadcrumbs_spa": [],
+ "category": "spell",
+ "component": [
+  "somatic",
+  "verbal"
+ ],
+ "deity_markdown": "",
+ "domain_markdown": "",
+ "duration_raw": "sustained",
+ "exclude_from_search": false,
+ "heighten": [
+  "+1"
+ ],
+ "heighten_level": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "id": "spell-158",
+ "level": 2,
+ "lesson_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 2\" pfs=\"Standard\">[Illusory Creature](/Spells.aspx?ID=158)</title>\n\n<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Illusion\" url=\"/Traits.aspx?ID=92\" />\r\n<trait label=\"Olfactory\" url=\"/Traits.aspx?ID=246\" />\r\n<trait label=\"Visual\" url=\"/Traits.aspx?ID=163\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 345 <sup>4.0</sup></row>\n\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 500 feet\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** sustained\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nYou create an illusory image of a Large or smaller creature. It generates the appropriate sounds, smells, and feels believable to the touch. If you and the image are ever farther than 500 feet apart, the spell ends.\n\n The image can't speak, but you can use your actions to speak through the creature, with the spell disguising your voice as appropriate. You might need to attempt a [Deception](/Skills.aspx?ID=5) or [Performance](/Skills.aspx?ID=12) check to mimic the creature, as determined by the GM. This is especially likely if you're trying to imitate a specific person and engage with someone that person knows.\n\n In combat, the illusion can use 2 actions per turn, which it uses when you Sustain the Spell. It uses your spell attack roll for attack rolls and your spell DC for its AC. Its saving throw modifiers are equal to your spell DC – 10. It is substantial enough that it can flank other creatures. If the image is hit by an attack or fails a save, the spell ends.\n\n The illusion can cause damage by making the target believe the illusion's attacks are real, but it cannot otherwise directly affect the physical world. If the illusory creature hits with a Strike, the target takes mental damage equal to 1d4 plus your spellcasting ability modifier. This is a [mental](/Traits.aspx?ID=106) effect. The illusion's Strikes are [nonlethal](/Traits.aspx?ID=188). If the damage doesn't correspond to the image of the monster—for example, if an illusory Large dragon deals only 5 damage—the GM might allow the target to attempt an immediate Perception check to disbelieve the spell. Any relevant resistances and weaknesses apply if the target thinks they do, as judged by the GM. For example, if the illusion wields a [warhammer](/Weapons.aspx?ID=47) and attacks a creature resistant to bludgeoning damage, the creature would take less mental damage. However, illusory damage does not deactivate regeneration or trigger other effects that require a certain damage type. The GM should track illusory damage dealt by the illusion.\n\n Any creature that touches the image or uses the [Seek](/Actions.aspx?ID=84) action to examine it can attempt to disbelieve your illusion. When a creature disbelieves the illusion, it recovers from half the damage it had taken from it (if any) and doesn't take any further damage from it.\n\n---\r\n**Heightened (+1)** The damage of the image's Strikes increases by 1d4, and the maximum size of creature you can create increases by one (to a maximum of Gargantuan).",
+ "mystery_markdown": "",
+ "name": "Illusory Creature",
+ "patron_theme_markdown": "",
+ "pfs": "Standard",
+ "range": 500,
+ "range_raw": "500 feet",
+ "rarity": "common",
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "school": "illusion",
+ "search_markdown": "<traits>\r\n<trait label=\"Auditory\" url=\"/Traits.aspx?ID=16\" />\r\n<trait label=\"Illusion\" url=\"/Traits.aspx?ID=92\" />\r\n<trait label=\"Olfactory\" url=\"/Traits.aspx?ID=246\" />\r\n<trait label=\"Visual\" url=\"/Traits.aspx?ID=163\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 345 <sup>4.0</sup></row>\r\n\r\n**Traditions**\r\n[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Range** 500 feet\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** sustained\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nForm a convincing illusion of a creature.\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 345"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 345 <sup>4.0</sup></row>",
+ "speed": {},
+ "summary": "Form a convincing illusion of a creature.",
+ "summary_markdown": "Form a convincing illusion of a creature.",
+ "text": " Illusory Creature Source Core Rulebook pg. 345 4.0 Traditions Arcane, Occult Cast Two Actions somatic, verbal Range 500 feet Duration sustained --- You create an illusory image of a Large or smaller creature. It generates the appropriate sounds, smells, and feels believable to the touch. If you and the image are ever farther than 500 feet apart, the spell ends. The image can't speak, but you can use your actions to speak through the creature, with the spell disguising your voice as appropriate. You might need to attempt a Deception or Performance check to mimic the creature, as determined by the GM. This is especially likely if you're trying to imitate a specific person and engage with someone that person knows. In combat, the illusion can use 2 actions per turn, which it uses when you Sustain the Spell. It uses your spell attack roll for attack rolls and your spell DC for its AC. Its saving throw modifiers are equal to your spell DC – 10. It is substantial enough that it can flank other creatures. If the image is hit by an attack or fails a save, the spell ends. The illusion can cause damage by making the target believe the illusion's attacks are real, but it cannot otherwise directly affect the physical world. If the illusory creature hits with a Strike, the target takes mental damage equal to 1d4 plus your spellcasting ability modifier. This is a mental effect. The illusion's Strikes are nonlethal. If the damage doesn't correspond to the image of the monster—for example, if an illusory Large dragon deals only 5 damage—the GM might allow the target to attempt an immediate Perception check to disbelieve the spell. Any relevant resistances and weaknesses apply if the target thinks they do, as judged by the GM. For example, if the illusion wields a warhammer and attacks a creature resistant to bludgeoning damage, the creature would take less mental damage. However, illusory damage does not deactivate regeneration or trigger other effects that require a certain damage type. The GM should track illusory damage dealt by the illusion. Any creature that touches the image or uses the Seek action to examine it can attempt to disbelieve your illusion. When a creature disbelieves the illusion, it recovers from half the damage it had taken from it (if any) and doesn't take any further damage from it. --- Heightened (+1) The damage of the image's Strikes increases by 1d4, and the maximum size of creature you can create increases by one (to a maximum of Gargantuan).",
+ "tradition": [
+  "Arcane",
+  "Occult"
+ ],
+ "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1), [Occult](/SpellLists.aspx?Tradition=3)",
+ "trait": [
+  "Auditory",
+  "Illusion",
+  "Olfactory",
+  "Visual"
+ ],
+ "trait_markdown": "[Auditory](/Traits.aspx?ID=16), [Illusion](/Traits.aspx?ID=92), [Olfactory](/Traits.aspx?ID=246), [Visual](/Traits.aspx?ID=163)",
+ "trait_raw": [
+  "Auditory",
+  "Illusion",
+  "Olfactory",
+  "Visual"
+ ],
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=158",
+ "weakness": {}
+}

@@ -1,0 +1,101 @@
+{
+ "ac": 17,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 1,
+ "creature_ability": [
+  "Abandon Puppet",
+  "Puppetmaster"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 21,
+ "hp_raw": "21",
+ "id": "creature-1199",
+ "image": [
+  "/Images/Monsters/Incutilis.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Aklo",
+  "Aquan",
+  "<%UMR%37%%>telepathy<%END> 30 feet"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Aquan](/Languages.aspx?ID=14); [telepathy](/MonsterAbilities.aspx?ID=37) 30 feet",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Incutilis](/Monsters.aspx?ID=1199)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIncutilises are intelligent, nautilus-like sea creatures that attack their victims' brains to take over their bodies, creating puppets to use for labor, combat, or their own malevolent amusement.\n\n An adult incutilis is slightly smaller than an adult human head. Its shell bears a pattern of crimson streaks that resemble the ridges and furrows of a brain. Incutilises hatch within the depths of the sea, where they start off consuming bottom-dwelling crustaceans and sometimes even whales or sharks, but as they grow into adults, incutilises instinctively crave the complex tissues of other creatures' brains—the more complex, the better.\n\n An incutilis makes excursions onto land specifically to use their iconic puppetmaster ability. They use their tentacles to crawl up onto shore or climb aboard a ship. An incutilis then drives their tendrils directly into the brain of a helpless living (or very recently dead) land creature, taking control of it through this neurological connection. They prefer to target [humanoids](/Traits.aspx?ID=91) and [animals](/Traits.aspx?ID=9). This host—now called a puppet—rarely survives the experience.\n\n After the incutilis has taken full control, they can usually ride their puppet for as long as they wish. Often, they use the puppet to seek out other potential prey, battling other creatures until the wear and tear from repeated conflict renders the body useless.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Incutilis.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Incutilis](/Monsters.aspx?ID=1199)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 140</row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Aquan](/Languages.aspx?ID=14); [telepathy](/MonsterAbilities.aspx?ID=37) 30 feet\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +5, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 21\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet, climb 5 feet, swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +8,\r\n**Damage** 1d4+4 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Abandon Puppet** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The incutilis is attached to a puppet; **Effect** The incutilis abandons its puppet, detaching and separating from its nervous system. If the puppet was still alive, it's unconscious and temporarily immune to that incutilis's Puppetmaster ability for 24 hours.\r\n\r\n**Puppetmaster** <actions string=\"Three Actions\" /> ([Manipulate](/Traits.aspx?ID=104)) An incutilis drives tendrils into a Small or Medium living creature that's [unconscious](/Conditions.aspx?ID=38) or [restrained](/Conditions.aspx?ID=33) by the incutilis. It attaches and injects the unfortunate host with enzymes to take over control of the creature's nervous system, turning the host into a puppet controlled by the incutilis.<br /> The puppet becomes [dying 2](/Conditions.aspx?ID=11) and is [controlled](/Conditions.aspx?ID=6) by the incutilis. If the puppet dies, its body remains under the control of the incutilis until it's destroyed or the incutilis Abandons the Puppet. If the puppet recovers from the dying condition, the incutilis immediately Abandons the Puppet.<br /> While controlling a puppet, the incutilis is attached to the puppet's head (or elsewhere, if its brain is in an unconventional location) and moves along with it. The puppet uses its own AC, Hit Points, Fortitude and Reflex saves, and physical Strikes, but it uses the incutilis's Will save. The puppet can perform only basic actions and untrained uses of the [Athletics](/Skills.aspx?ID=3) and [Stealth](/Skills.aspx?ID=15) skills while controlled.<br /> Any attack that deals damage to the puppet also deals 1 mental damage to the incutilis. Area effects are applied to both the incutilis and puppet. The incutilis always has lesser cover while in control of a puppet.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Whaler's Tales</title>\r\n\r\nThe crews of whaling ships are among those most likely to encounter an incutilis. Whale brains aren't an incutilis's preferred food, but it can bore its tendrils into one for a long time. When such an unfortunate whale is brought alongside the whaling ship, the incutilis has an opportunity to climb aboard unseen and prey upon any member of the crew unlucky enough for them to catch sleeping\r\n</aside>",
+ "name": "Incutilis",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 7,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 140</row>\n\n<row gap=\"medium\">\r\n**HP** 21\r\n\r\n**AC** 17\r\n\r\n**Fort** +7\r\n\r\n**Ref** +7\r\n\r\n**Will** +9\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIncutilises are intelligent, nautilus-like sea creatures that attack their victims' brains to take over their bodies, creating puppets to use for …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Deception +5",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +5, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 140"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 140</row>",
+ "speed": {
+  "climb": 5,
+  "land": 5,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "5 feet, climb 5 feet, swim 40 feet",
+ "speed_raw": "5 feet, climb 5 feet, swim 40 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 4,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Incutilises are intelligent, nautilus-like sea creatures that attack their victims' brains to take over their bodies, creating puppets to use for …",
+ "summary_markdown": "Incutilises are intelligent, nautilus-like sea creatures that attack their victims' brains to take over their bodies, creating puppets to use for …",
+ "text": " Incutilis Incutilises are intelligent, nautilus-like sea creatures that attack their victims' brains to take over their bodies, creating puppets to use for labor, combat, or their own malevolent amusement. An adult incutilis is slightly smaller than an adult human head. Its shell bears a pattern of crimson streaks that resemble the ridges and furrows of a brain. Incutilises hatch within the depths of the sea, where they start off consuming bottom-dwelling crustaceans and sometimes even whales or sharks, but as they grow into adults, incutilises instinctively crave the complex tissues of other creatures' brains—the more complex, the better. An incutilis makes excursions onto land specifically to use their iconic puppetmaster ability. They use their tentacles to crawl up onto shore or climb aboard a ship. An incutilis then drives their tendrils directly into the brain of a helpless living (or very recently dead) land creature, taking control of it through this neurological connection. They prefer to target humanoids and animals. This host—now called a puppet—rarely survives the experience. After the incutilis has taken full control, they can usually ride their puppet for as long as they wish. Often, they use the puppet to seek out other potential prey, battling other creatures until the wear and tear from repeated conflict renders the body useless. Recall Knowledge - Aberration (Occultism): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Incutilis Source Bestiary 3 pg. 140 Perception +7; darkvision Languages Aklo, Aquan; telepathy 30 feet Skills Athletics +8, Deception +5, Stealth +9 Str +4 Dex +3 Con +1 Int +1 Wis +3 Cha -1 --- AC 17 Fort +7 Ref +7 Will +9 HP 21 --- Speed 5 feet, climb 5 feet, swim 40 feet Melee Single Action tentacle +8, Damage 1d4+4 bludgeoning plus Grab Abandon Puppet Single Action (Manipulate) Requirements The incutilis is attached to a puppet; Effect The incutilis abandons its puppet, detaching and separating from its nervous system. If the puppet was still alive, it's unconscious and temporarily immune to that incutilis's Puppetmaster ability for 24 hours. Puppetmaster Three Actions (Manipulate) An incutilis drives tendrils into a Small or Medium living creature that's unconscious or restrained by the incutilis. It attaches and injects the unfortunate host with enzymes to take over control of the creature's nervous system, turning the host into a puppet controlled by the incutilis. The puppet becomes dying 2 and is controlled by the incutilis. If the puppet dies, its body remains under the control of the incutilis until it's destroyed or the incutilis Abandons the Puppet. If the puppet recovers from the dying condition, the incutilis immediately Abandons the Puppet. While controlling a puppet, the incutilis is attached to the puppet's head (or elsewhere, if its brain is in an unconventional location) and moves along with it. The puppet uses its own AC, Hit Points, Fortitude and Reflex saves, and physical Strikes, but it uses the incutilis's Will save. The puppet can perform only basic actions and untrained uses of the Athletics and Stealth skills while controlled. Any attack that deals damage to the puppet also deals 1 mental damage to the incutilis. Area effects are applied to both the incutilis and puppet. The incutilis always has lesser cover while in control of a puppet. Whaler's Tales The crews of whaling ships are among those most likely to encounter an incutilis. Whale brains aren't an incutilis's preferred food, but it can bore its tendrils into one for a long time. When such an unfortunate whale is brought alongside the whaling ship, the incutilis has an opportunity to climb aboard unseen and prey upon any member of the crew unlucky enough for them to catch sleeping ",
+ "trait": [
+  "Aberration",
+  "Amphibious",
+  "Uncommon",
+  "LE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Amphibious](/Traits.aspx?ID=207), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Amphibious",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1199",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 3
+}

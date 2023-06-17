@@ -1,0 +1,100 @@
+{
+ "ac": 20,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 0,
+ "creature_ability": [
+  "Fence's Eye",
+  "Quick Rummage",
+  "Scoundrel's Feint",
+  "Sneak Attack"
+ ],
+ "creature_family": "Criminals",
+ "creature_family_markdown": "[Criminals](/MonsterFamilies.aspx?ID=182)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 70,
+ "hp_raw": "70",
+ "id": "creature-891",
+ "image": [
+  "/Images/NPCs/Burglar_Fence.png"
+ ],
+ "intelligence": 4,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Fence](/NPCs.aspx?ID=891)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe longer criminals hold on to stolen loot, the greater the chance they will get caught. Fences make themselves indispensable in the underworld by paying for stolen goods in order to resell them later, whether through a seemingly legitimate business or to a closed group of elite buyers.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/NPCs/Burglar_Fence.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Fence](/NPCs.aspx?ID=891)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 210</row>\n\n**Perception** +11\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Accounting Lore](/Skills.aspx?ID=8) +13, [Acrobatics](/Skills.aspx?ID=1) +10, [Crafting](/Skills.aspx?ID=4) +13, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +11, [Intimidation](/Skills.aspx?ID=7) +11, [Society](/Skills.aspx?ID=14) +11, [Stealth](/Skills.aspx?ID=15) +10, [Thievery](/Skills.aspx?ID=17) +10, [Underworld Lore](/Skills.aspx?ID=8) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +3\r\n\r\n**Con** +0\r\n\r\n**Int** +4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Fence's Eye** Fences live by their ability to recognize a viable trade. They can use [Underworld Lore](/Skills.aspx?ID=8) to identify an item's value and [Identify Magic](/Actions.aspx?ID=24) on an item. They gain a +2 circumstance bonus to Underworld Lore checks when doing so, and to Underworld Lore checks to determine whether an item was stolen, whether a stolen item would be too recognizable to easily move, and who would be interested in purchasing such an item.\r\n\r\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3) (10), [lesser darkvision elixir](/Equipment.aspx?ID=89), [Disguise Kit](/Equipment.aspx?ID=19), [_bird feather token_](/Equipment.aspx?ID=244), [lesser smokestick](/Equipment.aspx?ID=135) (2), [Shortsword](/Weapons.aspx?ID=43), [Thieves' Tools](/Equipment.aspx?ID=58)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 70\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +12 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+5 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +12 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+5 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +12 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+2 piercing\n\n**Quick Rummage** <actions string=\"Single Action\" />  The fence always has a few items close at hand. The fence Interacts to draw a weapon or item that takes a single action to activate, and then Strikes with the weapon or Activates the Item.\r\n\r\n**Scoundrel's Feint**   When the fence successfully [Feints](/Actions.aspx?ID=48), their target is [flat-footed](/Conditions.aspx?ID=16) against the fence's attacks until the end of the fence's next turn. On a critical success, the target is flat-footed against all attacks until the end of the fence's next turn.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The fence deals an extra 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-182\" />",
+ "name": "Fence",
+ "npc": true,
+ "perception": 11,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 210</row>\r\n\r\n**Creature Family** [Criminals](/MonsterFamilies.aspx?ID=182)\r\n\r\n<row gap=\"medium\">\r\n**HP** 70\r\n\r\n**AC** 20\r\n\r\n**Fort** +9\r\n\r\n**Ref** +12\r\n\r\n**Will** +15\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe longer criminals hold on to stolen loot, the greater the chance they will get caught. Fences make themselves indispensable in the underworld by …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Accounting Lore +13",
+  "Acrobatics +10",
+  "Crafting +13",
+  "Deception +13",
+  "Diplomacy +11",
+  "Intimidation +11",
+  "Society +11",
+  "Stealth +10",
+  "Thievery +10",
+  "Underworld Lore +15"
+ ],
+ "skill_markdown": "[Accounting Lore](/Skills.aspx?ID=8) +13, [Acrobatics](/Skills.aspx?ID=1) +10, [Crafting](/Skills.aspx?ID=4) +13, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +11, [Intimidation](/Skills.aspx?ID=7) +11, [Society](/Skills.aspx?ID=14) +11, [Stealth](/Skills.aspx?ID=15) +10, [Thievery](/Skills.aspx?ID=17) +10, [Underworld Lore](/Skills.aspx?ID=8) +15",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 210"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 210</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "10",
+ "strength": 0,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The longer criminals hold on to stolen loot, the greater the chance they will get caught. Fences make themselves indispensable in the underworld by …",
+ "summary_markdown": "The longer criminals hold on to stolen loot, the greater the chance they will get caught. Fences make themselves indispensable in the underworld by …",
+ "text": " Fence The longer criminals hold on to stolen loot, the greater the chance they will get caught. Fences make themselves indispensable in the underworld by paying for stolen goods in order to resell them later, whether through a seemingly legitimate business or to a closed group of elite buyers. Recall Knowledge - Humanoid (Society): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Fence Source Gamemastery Guide pg. 210 Perception +11 Languages Common Skills Accounting Lore +13, Acrobatics +10, Crafting +13, Deception +13, Diplomacy +11, Intimidation +11, Society +11, Stealth +10, Thievery +10, Underworld Lore +15 Str +0 Dex +3 Con +0 Int +4 Wis +2 Cha +4 Fence's Eye Fences live by their ability to recognize a viable trade. They can use Underworld Lore to identify an item's value and Identify Magic on an item. They gain a +2 circumstance bonus to Underworld Lore checks when doing so, and to Underworld Lore checks to determine whether an item was stolen, whether a stolen item would be too recognizable to easily move, and who would be interested in purchasing such an item. Items Dagger (10), lesser darkvision elixir, Disguise Kit, bird feather token , lesser smokestick (2), Shortsword, Thieves' Tools --- AC 20 Fort +9 Ref +12 Will +15 HP 70 --- Speed 25 feet Melee Single Action shortsword +12 (Agile, Finesse, versatile S), Damage 1d6+5 piercing Melee Single Action dagger +12 (Agile, Finesse, versatile S), Damage 1d4+5 piercing Ranged Single Action dagger +12 (Agile, thrown 10 feet, versatile S), Damage 1d4+2 piercing Quick Rummage Single Action The fence always has a few items close at hand. The fence Interacts to draw a weapon or item that takes a single action to activate, and then Strikes with the weapon or Activates the Item. Scoundrel's Feint When the fence successfully Feints, their target is flat-footed against the fence's attacks until the end of the fence's next turn. On a critical success, the target is flat-footed against all attacks until the end of the fence's next turn. Sneak Attack The fence deals an extra 2d6 precision damage to flat-footed creatures. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=891",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 2
+}

@@ -1,0 +1,62 @@
+{
+ "ac": 24,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Athletics  DC 26 (expert) to push the pillar over, or  Thievery  DC 26 (expert) on the pillar to erase the magic runes that power it, or   dispel magic   (4th level;  counteract  DC 22) to dispel the pillar's magic.",
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hardness": 14,
+ "hardness_raw": "14",
+ "hazard_type": "Trap",
+ "hp": 56,
+ "hp_raw": "56 (BT 28)",
+ "id": "hazard-67",
+ "immunity": [
+  "critical hits",
+  "fire",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, [fire](/Traits.aspx?ID=72), object immunities, precision damage",
+ "level": 6,
+ "markdown": "<title level=\"1\" right=\"Hazard 6\" pfs=\"\">[Dragon Pillar](/Hazards.aspx?ID=67)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 28</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA 10-foot-tall wooden pole topped by a wooden carving of [Dahak's](/Deities.aspx?ID=150) head. Each dragon pillar's head has been treated with something to give it a distinct color, as indicated in the specific encounter, but regardless of color, plumes of smoke waft up from the mouth.\r\n\r\n---\r\n\r\n**Stealth**\r\n+0 or [_detect magic_](/Spells.aspx?ID=66)\r\n\r\n**Disable**\r\n[Athletics](/Skills.aspx?ID=3) DC 26 (expert) to push the pillar over, or [Thievery](/Skills.aspx?ID=17) DC 26 (expert) on the pillar to erase the magic runes that power it, or [_dispel magic_](/Spells.aspx?ID=78) (4th level; [counteract](/Rules.aspx?ID=371) DC 22) to dispel the pillar's magic.\r\n\r\n**Perception** +16, [darkvision](/MonsterAbilities.aspx?ID=12) 60 feet<br />**Recognize Ally**; A dragon pillar can see through its empty eye sockets, and it can recognize Cinderclaws and their allies. A character disguised as a Cinderclaw can trick a dragon pillar into perceiving it as a Cinderclaw ally by using [Deception](/Skills.aspx?ID=5) to [Impersonate](/Actions.aspx?ID=46). A dragon pillar always uses Perception for initiative.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**AC** 24, **Fort** +17, **Ref** +8\r\n\r\n**Hardness**\r\n14\r\n\r\n**HP**\r\n56 (BT 28)\r\n\r\n**Immunities**\r\ncritical hits, [fire](/Traits.aspx?ID=72), object immunities, precision damage\n\n</column>\r\n\r\n**Dragon Pillar Glance** <actions string=\"Reaction\" /> **Trigger** The dragon pillar sees a creature within 120 feet who isn't a recognized Cinderclaw or Cinderclaw ally. **Effect** The dragon pillar makes an eye beam Strike against the triggering creature, then rolls initiative.\n\n---\r\n**Routine**\r\n(1 action) On its initiative, the dragon pillar fires an eye beam at the closest target within 120 feet.\n\n **Ranged** <actions string=\"Single Action\" /> eye beam +20 ([divine](/Traits.aspx?ID=48), [evocation](/Traits.aspx?ID=65), [range 120 feet](/Traits.aspx?ID=248)), **Effect** The target is subjected to an effect determined by the pillar's color and summarized below. On a critical hit, the target's save result is one degree worse. \n<ul><li>**Black Eye Beam (area A5)** ([incapacitation](/Traits.aspx?ID=93)) DC 24 Fortitude save. \n\n**Critical Success** The target is unaffected. <br />**Success** The target is [blinded](/Conditions.aspx?ID=1) for 1 round. <br />**Failure** The target is blinded for 1 hour. <br />**Critical Failure** The target is blinded for 24 hours.</li><li>**Blue Eye Beam (area A7)** ([incapacitation](/Traits.aspx?ID=93)) DC 24 Fortitude save. \n\n**Critical Success** The target is unaffected. <br />**Success** The target is [petrified](/Conditions.aspx?ID=30) for 1 round. <br />**Failure** The target is petrified for 1 hour. <br />**Critical Failure** The target is petrified permanently.</li><li>**Green Eye Beam (area A8)** ([poison](/Traits.aspx?ID=126)) 6d6 poison damage (DC 24 [basic](/Rules.aspx?ID=329) Reflex save).</li><li>**Indigo Eye Beam (area A9)** ([incapacitation](/Traits.aspx?ID=93)) DC 24 Will save. \n\n**Critical Success** The target is unaffected. <br />**Success** The target is [slowed 1](/Conditions.aspx?ID=35) for 1 round. <br />**Failure** The target is [confused](/Conditions.aspx?ID=5) for 1 round. <br />**Critical Failure** The target is [controlled](/Conditions.aspx?ID=6) by the dragon pillar and remains within 60 feet of it at all times, defending the dragon pillar from all non-Cinderclaws. While a target is controlled, it is treated as a Cinderclaw ally by the dragon pillar. The dragon pillar can control up to 3 targets at a time; any targets in excess who critically fail this saving throw are instead confused for 1d4+1 rounds. A controlled creature can attempt a new Will save once every 24 hours to escape control, but doing so automatically causes the dragon pillar to attack it with a new eye beam to attempt to re-establish control. The control ends if the pillar is destroyed.</li><li>**Yellow Eye Beam (area A12)** ([electricity](/Traits.aspx?ID=56)) 6d6 electricity damage (DC 24 [basic](/Rules.aspx?ID=329) Reflex save).</li><li>**Orange Eye Beam (area A15)** ([acid](/Traits.aspx?ID=3)) 6d6 acid damage (DC 24 [basic](/Rules.aspx?ID=329) Reflex save).</li><li>**Red Eye Beam (area A16)** ([fire](/Traits.aspx?ID=72)) 6d6 fire damage (DC 24 [basic](/Rules.aspx?ID=329) Reflex save).</li><li>**Violet Eye Beam (area B11)** ([incapacitation](/Traits.aspx?ID=93)) DC 24 Will save. \n\n**Critical Success** The target is unaffected. <br />**Success** The target is [stunned 1](/Conditions.aspx?ID=36). <br />**Failure** The target is stunned 3. <br />**Critical Failure** The target is stunned 7.</li></ul>\r\n\r\n---\r\n**Reset**\r\nThe dragon pillar deactivates and resets as soon as it perceives no appropriate targets in range.",
+ "name": "Dragon Pillar",
+ "rarity": "rare",
+ "reflex_save": 8,
+ "release_date": "2019-09-01",
+ "reset": "The dragon pillar deactivates and resets as soon as it perceives no appropriate targets in range.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 28</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA 10-foot-tall wooden pole topped by a wooden carving of  Dahak's  head. Each dragon pillar's head has been treated with something to give it a …\r\n</summary>",
+ "source": [
+  "Pathfinder #146: Cult of Cinders"
+ ],
+ "source_raw": [
+  "Pathfinder #146: Cult of Cinders pg. 28"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 28</row>",
+ "speed": {},
+ "spoilers": "Age of Ashes",
+ "stealth": "+0 or   detect magic  ",
+ "summary": "A 10-foot-tall wooden pole topped by a wooden carving of  Dahak's  head. Each dragon pillar's head has been treated with something to give it a …",
+ "summary_markdown": "A 10-foot-tall wooden pole topped by a wooden carving of  Dahak's  head. Each dragon pillar's head has been treated with something to give it a …",
+ "text": " Dragon Pillar Source Pathfinder #146: Cult of Cinders pg. 28 Complexity Complex A 10-foot-tall wooden pole topped by a wooden carving of Dahak's head. Each dragon pillar's head has been treated with something to give it a distinct color, as indicated in the specific encounter, but regardless of color, plumes of smoke waft up from the mouth. --- Stealth +0 or detect magic Disable Athletics DC 26 (expert) to push the pillar over, or Thievery DC 26 (expert) on the pillar to erase the magic runes that power it, or dispel magic (4th level; counteract DC 22) to dispel the pillar's magic. Perception +16, darkvision 60 feet Recognize Ally ; A dragon pillar can see through its empty eye sockets, and it can recognize Cinderclaws and their allies. A character disguised as a Cinderclaw can trick a dragon pillar into perceiving it as a Cinderclaw ally by using Deception to Impersonate. A dragon pillar always uses Perception for initiative. AC 24, Fort +17, Ref +8 Hardness 14 HP 56 (BT 28) Immunities critical hits, fire, object immunities, precision damage Dragon Pillar Glance Reaction Trigger The dragon pillar sees a creature within 120 feet who isn't a recognized Cinderclaw or Cinderclaw ally. Effect The dragon pillar makes an eye beam Strike against the triggering creature, then rolls initiative. --- Routine (1 action) On its initiative, the dragon pillar fires an eye beam at the closest target within 120 feet. Ranged Single Action eye beam +20 (divine, evocation, range 120 feet), Effect The target is subjected to an effect determined by the pillar's color and summarized below. On a critical hit, the target's save result is one degree worse. Black Eye Beam (area A5) (incapacitation) DC 24 Fortitude save. Critical Success The target is unaffected. Success The target is blinded for 1 round. Failure The target is blinded for 1 hour. Critical Failure The target is blinded for 24 hours. Blue Eye Beam (area A7) (incapacitation) DC 24 Fortitude save. Critical Success The target is unaffected. Success The target is petrified for 1 round. Failure The target is petrified for 1 hour. Critical Failure The target is petrified permanently. Green Eye Beam (area A8) (poison) 6d6 poison damage (DC 24 basic Reflex save). Indigo Eye Beam (area A9) (incapacitation) DC 24 Will save. Critical Success The target is unaffected. Success The target is slowed 1 for 1 round. Failure The target is confused for 1 round. Critical Failure The target is controlled by the dragon pillar and remains within 60 feet of it at all times, defending the dragon pillar from all non-Cinderclaws. While a target is controlled, it is treated as a Cinderclaw ally by the dragon pillar. The dragon pillar can control up to 3 targets at a time; any targets in excess who critically fail this saving throw are instead confused for 1d4+1 rounds. A controlled creature can attempt a new Will save once every 24 hours to escape control, but doing so automatically causes the dragon pillar to attack it with a new eye beam to attempt to re-establish control. The control ends if the pillar is destroyed. Yellow Eye Beam (area A12) (electricity) 6d6 electricity damage (DC 24 basic Reflex save). Orange Eye Beam (area A15) (acid) 6d6 acid damage (DC 24 basic Reflex save). Red Eye Beam (area A16) (fire) 6d6 fire damage (DC 24 basic Reflex save). Violet Eye Beam (area B11) (incapacitation) DC 24 Will save. Critical Success The target is unaffected. Success The target is stunned 1. Failure The target is stunned 3. Critical Failure The target is stunned 7. --- Reset The dragon pillar deactivates and resets as soon as it perceives no appropriate targets in range.",
+ "trait": [
+  "Complex",
+  "Magical",
+  "Rare",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Magical](/Traits.aspx?ID=103), [Rare](/Traits.aspx?ID=137), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Magical",
+  "Rare",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=67",
+ "weakness": {}
+}

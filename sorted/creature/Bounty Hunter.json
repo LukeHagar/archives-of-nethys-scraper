@@ -1,0 +1,97 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 1,
+ "creature_ability": [
+  "Hunt Prey",
+  "Running Reload",
+  "Precision Edge"
+ ],
+ "creature_family": "Mercenaries",
+ "creature_family_markdown": "[Mercenaries](/MonsterFamilies.aspx?ID=190)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-923",
+ "image": [
+  "/Images/NPCs/Mercenary_BountyHunter.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Bounty Hunter](/NPCs.aspx?ID=923)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBounty hunters are constantly on the move, whether within city walls or the wilderness, trailing their fugitive quarries for capture… or disposal. Often relying on stealth or deception as much as martial skill, bounty hunters employ a vast array of talents to accomplish their goals, not to mention to collect the hefty payout that follows.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/NPCs/Mercenary_BountyHunter.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Bounty Hunter](/NPCs.aspx?ID=923)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 227</row>\n\n**Perception** +14\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +9, [Deception](/Skills.aspx?ID=5) +10, [Diplomacy](/Skills.aspx?ID=6) +8, [Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Crossbow](/Weapons.aspx?ID=67) (10 bolts), [Falchion](/Weapons.aspx?ID=18), [simple manacles](/Equipment.aspx?ID=32), [Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 60\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfalchion +13 ([Forceful](/Traits.aspx?ID=180), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 1d10+6 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncrossbow +14 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d10+5 piercing\n\n**Hunt Prey** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) The bounty hunter designates a single creature they can see and hear, or one they're [Tracking](/Actions.aspx?ID=66), as their prey. The bounty hunter gains a +2 circumstance bonus to Perception checks to [Seek](/Actions.aspx?ID=84) the prey and to [Survival](/Skills.aspx?ID=16) checks to Track the prey. This effect lasts until the bounty hunter uses Hunt Prey again.\r\n\r\n**Running Reload** <actions string=\"Single Action\" />  The bounty hunter Stride, Steps, or [Sneaks](/Actions.aspx?ID=63), and then Interacts to reload.\r\n\r\n**Precision Edge**   The first time the bounty hunter hits their hunted prey in a round, they deal an additional 1d8 precision damage.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-190\" />",
+ "name": "Bounty Hunter",
+ "npc": true,
+ "perception": 14,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 227</row>\r\n\r\n**Creature Family** [Mercenaries](/MonsterFamilies.aspx?ID=190)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 21\r\n\r\n**Fort** +9\r\n\r\n**Ref** +12\r\n\r\n**Will** +12\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBounty hunters are constantly on the move, whether within city walls or the wilderness, trailing their fugitive quarries for capture… or disposal. …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +9",
+  "Deception +10",
+  "Diplomacy +8",
+  "Intimidation +8",
+  "Stealth +12",
+  "Survival +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +9, [Deception](/Skills.aspx?ID=5) +10, [Diplomacy](/Skills.aspx?ID=6) +8, [Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +10",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 227"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 227</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "summary": "Bounty hunters are constantly on the move, whether within city walls or the wilderness, trailing their fugitive quarries for capture… or disposal. …",
+ "summary_markdown": "Bounty hunters are constantly on the move, whether within city walls or the wilderness, trailing their fugitive quarries for capture… or disposal. …",
+ "text": " Bounty Hunter Bounty hunters are constantly on the move, whether within city walls or the wilderness, trailing their fugitive quarries for capture… or disposal. Often relying on stealth or deception as much as martial skill, bounty hunters employ a vast array of talents to accomplish their goals, not to mention to collect the hefty payout that follows. Recall Knowledge - Humanoid (Society): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Bounty Hunter Source Gamemastery Guide pg. 227 Perception +14 Languages Common Skills Athletics +9, Deception +10, Diplomacy +8, Intimidation +8, Stealth +12, Survival +10 Str +3 Dex +4 Con +1 Int +0 Wis +4 Cha +1 Items Crossbow (10 bolts), Falchion, simple manacles, Studded Leather Armor --- AC 21 Fort +9 Ref +12 Will +12 HP 60 --- Speed 25 feet Melee Single Action falchion +13 (Forceful, Sweep), Damage 1d10+6 slashing Ranged Single Action crossbow +14 (range increment 120 feet, reload 1), Damage 1d10+5 piercing Hunt Prey Single Action (Concentrate) The bounty hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The bounty hunter gains a +2 circumstance bonus to Perception checks to Seek the prey and to Survival checks to Track the prey. This effect lasts until the bounty hunter uses Hunt Prey again. Running Reload Single Action The bounty hunter Stride, Steps, or Sneaks, and then Interacts to reload. Precision Edge The first time the bounty hunter hits their hunted prey in a round, they deal an additional 1d8 precision damage. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=923",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 4
+}

@@ -1,0 +1,58 @@
+{
+ "ac": 22,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 20  Thievery  (Expert) or  Crafting  (Trained) to disengage the reloading mechanism; the trap can also be disabled by the switch in area F2",
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hardness": 12,
+ "hardness_raw": "12",
+ "hazard_type": "Trap",
+ "hp": 50,
+ "hp_raw": "50 (BT 25)",
+ "id": "hazard-163",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 5,
+ "markdown": "<title level=\"1\" right=\"Hazard 5\" pfs=\"\">[Repeater Crossbow Trap](/Hazards.aspx?ID=163)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 60</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA pressure plate in the hallway floor releases a latch, causing a ceiling panel to drop down. A +1 striking heavy crossbow contained in a steel box sprays bolts at any creatures in the hallway.\r\n\r\n---\r\n\r\n**Stealth**\r\n+13 (trained)\r\n\r\n**Disable**\r\nDC 20 [Thievery](/Skills.aspx?ID=17) (Expert) or [Crafting](/Skills.aspx?ID=4) (Trained) to disengage the reloading mechanism; the trap can also be disabled by the switch in area F2\n\n<column gap=\"tiny\">\r\n\r\n**AC** 22, **Fort** +15, **Ref** +9\r\n\r\n**Hardness**\r\n12\r\n\r\n**HP**\r\n50 (BT 25)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Auto-Bolter** <actions string=\"Reaction\" /> **Trigger** An object or creature weighing at least 25 pounds steps on the pressure plate at the south end of the hallway; **Effect** A _+1 [striking](/Equipment.aspx?ID=280) [heavy crossbow](/Weapons.aspx?ID=70)_ encased in a steel box drops from the ceiling and fires. The repeater crossbow trap Strikes a random creature in the hallway. The trap then rolls initiative.\n\n---\r\n**Routine**\r\n(3 actions) The repeater crossbow trap reloads (2 actions) then Strikes a random creature in the hallway.<br /> **Ranged** <actions string=\"Single Action\" /> _heavy crossbow_ +16 ([magical](/Traits.aspx?ID=103), [range 120 feet](/Traits.aspx?ID=248), [reload 2](/Traits.aspx?ID=254)), **Damage** 2d10+4 piercing\r\n\r\n---\r\n**Reset**\r\nThe trap runs out of ammo after it fires 5 bolts; it must be manually reloaded.",
+ "name": "Repeater Crossbow Trap",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2022-04-27",
+ "reset": "The trap runs out of ammo after it fires 5 bolts; it must be manually reloaded.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 60</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA pressure plate in the hallway floor releases a latch, causing a ceiling panel to drop down. A +1 striking heavy crossbow contained in a steel box …\r\n</summary>",
+ "source": [
+  "Pathfinder #178: Punks in a Powderkeg"
+ ],
+ "source_raw": [
+  "Pathfinder #178: Punks in a Powderkeg pg. 60"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 60</row>",
+ "speed": {},
+ "stealth": "+13 (trained)",
+ "summary": "A pressure plate in the hallway floor releases a latch, causing a ceiling panel to drop down. A +1 striking heavy crossbow contained in a steel box …",
+ "summary_markdown": "A pressure plate in the hallway floor releases a latch, causing a ceiling panel to drop down. A +1 striking heavy crossbow contained in a steel box …",
+ "text": " Repeater Crossbow Trap Source Pathfinder #178: Punks in a Powderkeg pg. 60 Complexity Complex A pressure plate in the hallway floor releases a latch, causing a ceiling panel to drop down. A +1 striking heavy crossbow contained in a steel box sprays bolts at any creatures in the hallway. --- Stealth +13 (trained) Disable DC 20 Thievery (Expert) or Crafting (Trained) to disengage the reloading mechanism; the trap can also be disabled by the switch in area F2 AC 22, Fort +15, Ref +9 Hardness 12 HP 50 (BT 25) Immunities critical hits, object immunities, precision damage Auto-Bolter Reaction Trigger An object or creature weighing at least 25 pounds steps on the pressure plate at the south end of the hallway; Effect A +1 striking heavy crossbow encased in a steel box drops from the ceiling and fires. The repeater crossbow trap Strikes a random creature in the hallway. The trap then rolls initiative. --- Routine (3 actions) The repeater crossbow trap reloads (2 actions) then Strikes a random creature in the hallway. Ranged Single Action heavy crossbow +16 (magical, range 120 feet, reload 2), Damage 2d10+4 piercing --- Reset The trap runs out of ammo after it fires 5 bolts; it must be manually reloaded.",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=163",
+ "weakness": {}
+}

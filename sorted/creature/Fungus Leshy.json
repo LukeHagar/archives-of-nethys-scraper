@@ -1,0 +1,102 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Verdant Burst",
+  "Change Shape",
+  "Spore Cloud",
+  "Spores"
+ ],
+ "creature_family": "Leshy",
+ "creature_family_markdown": "[Leshy](/MonsterFamilies.aspx?ID=67)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-281",
+ "image": [
+  "/Images/Monsters/Leshy_FungusLeshy.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Druidic",
+  "Sylvan",
+  "<%SPELLS%294%%><i>speak with plants</i><%END> (fungi only)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Druidic](/Languages.aspx?ID=23), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294) (fungi only)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Fungus Leshy](/Monsters.aspx?ID=281)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of their works.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fungus](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Leshy_FungusLeshy.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Fungus Leshy](/Monsters.aspx?ID=281)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n<trait label=\"Leshy\" url=\"/Traits.aspx?ID=225\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 219</row>\n\n**Perception** +6; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Druidic](/Languages.aspx?ID=23), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294) (fungi only)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6, [Nature](/Skills.aspx?ID=10) +6, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 30\n\n**Verdant Burst** ([healing](/Traits.aspx?ID=89)) When a fungus leshy dies, a burst of primal energy explodes from its body, restoring 2d8 Hit Points to each fungi creature in a 30-foot emanation. This area is filled with fungi, becoming difficult terrain. If the terrain is not a viable environment for this fungi, they wither after 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+2 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspore pod +10 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d6+2 bludgeoning plus spores\r\n\r\n**Primal Innate Spells** DC 16\r\n- **4th**\r\n[Speak with Plants](/Spells.aspx?ID=294)\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The fungus leshy transforms into a Small giant mushroom or patch of fungi. This ability otherwise uses the effects of [_tree shape_](/Spells.aspx?ID=342).\r\n\r\n**Spore Cloud** <actions string=\"Two Actions\" /> ([Poison](/Traits.aspx?ID=126)) A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungi creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude save or take 1 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet, on a critical failure).\r\n\r\n**Spores**   A creature that takes damage from a fungus leshy’s spore pod Strike must attempt a saving throw with the same DC and effect as its Spore Cloud ability\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-67\" />",
+ "name": "Fungus Leshy",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n<trait label=\"Leshy\" url=\"/Traits.aspx?ID=225\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 219</row>\r\n\r\n**Creature Family** [Leshy](/MonsterFamilies.aspx?ID=67)\r\n\r\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 19\r\n\r\n**Fort** +8\r\n\r\n**Ref** +10\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +6",
+  "Nature +6",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6, [Nature](/Skills.aspx?ID=10) +6, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 219"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 219</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Speak with Plants"
+ ],
+ "spell_markdown": "[Speak with Plants](/Spells.aspx?ID=294)",
+ "stealth": "8",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Fungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of …",
+ "summary_markdown": "Fungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of …",
+ "text": " Fungus Leshy Fungus leshys guard caves, bogs, and damp, dark places. Their fungus gardens are bizarre by most standards, but fungus leshys are extremely proud of their works. Recall Knowledge - Fungus (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Fungus Leshy Source Bestiary pg. 219 Perception +6; darkvision Languages Common, Druidic, Sylvan; speak with plants (fungi only) Skills Athletics +6, Nature +6, Stealth +8 Str +2 Dex +4 Con +2 Int -1 Wis +2 Cha +0 --- AC 19 Fort +8 Ref +10 Will +6 HP 30 Verdant Burst (healing) When a fungus leshy dies, a burst of primal energy explodes from its body, restoring 2d8 Hit Points to each fungi creature in a 30-foot emanation. This area is filled with fungi, becoming difficult terrain. If the terrain is not a viable environment for this fungi, they wither after 24 hours. --- Speed 25 feet Melee Single Action fist +10 (Agile, Finesse), Damage 1d6+2 bludgeoning Ranged Single Action spore pod +10 (range increment 30 feet), Damage 1d6+2 bludgeoning plus spores Primal Innate Spells DC 16 - 4th Speak with Plants Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) The fungus leshy transforms into a Small giant mushroom or patch of fungi. This ability otherwise uses the effects of tree shape . Spore Cloud Two Actions (Poison) A fungus leshy can unleash a cloud of spores that irritates the eyes and throats of non-fungi creatures in a 15-foot emanation. Each creature must succeed at a DC 16 Fortitude save or take 1 persistent poison damage. A creature has its vision reduced as long as the persistent damage continues and can see only within 20 feet (or 10 feet, on a critical failure). Spores A creature that takes damage from a fungus leshy’s spore pod Strike must attempt a saving throw with the same DC and effect as its Spore Cloud ability ",
+ "trait": [
+  "Fungus",
+  "Leshy",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Fungus](/Traits.aspx?ID=77), [Leshy](/Traits.aspx?ID=225)",
+ "trait_raw": [
+  "Fungus",
+  "Leshy"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=281",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 2
+}

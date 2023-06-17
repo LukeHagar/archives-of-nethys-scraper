@@ -1,0 +1,99 @@
+{
+ "ac": 33,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 7,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Catch Rock",
+  "Athach Venom",
+  "Swift Claw",
+  "Throw Rock"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 250,
+ "hp_raw": "250",
+ "id": "creature-556",
+ "image": [
+  "/Images/Monsters/Athach.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Jotun"
+ ],
+ "language_markdown": "[Jotun](/Languages.aspx?ID=8)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Athach](/Monsters.aspx?ID=556)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe towering and brutish giants known as athaches are reviled for both their monstrosity and their cruelty. Beyond an athach's filthy habits, this giant is made stranger by the gangly third arm that protrudes from their torso and ends in a twitching, long-fingered claw. Huge, tusk-like fangs descend from an athach's upper jaw and prop their mouth open, leaking long strands of viscous drool that is itself is a toxic venom and coats the athach's fangs.\n\nAthachs despise civilization almost as much as they despise their own kind, and they delight in committing sadistic acts and terrorizing victims. An athach does not keep a traditional territory of their own, but rather wanders the hinterlands of settled territories until they find a suitably easy settlement of smaller humanoids to target. Once the athach has chosen their target, the giant establishes a hidden lair in a location like an abandoned farmhouse or cave, and from there they launch their reign of torment. After a few weeks of harassing, capturing, and torturing victims, the athach bores of their games. The giant then goes on a final rampage, destroying every dwelling and eating every creature they can find. Sometimes, the giant allows a survivor or two to escape, forcing these terrified victims to spend the rest of their lives spreading word of the athach's fearsomeness.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Athach.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Athach](/Monsters.aspx?ID=556)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 27 <sup>2.0</sup></row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +7\r\n\r\n**Int** -1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 250\n\n**Weaknesses**\r\ncold iron 10\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> An athach gains an extra reaction at the start of each of its turns that it can use only to make an Attack of Opportunity with its claw. It can't use more than one Attack of Opportunity triggered by the same action.<br />**[Catch Rock](/MonsterAbilities.aspx?ID=7)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +25 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+13 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +25,\r\n**Damage** 3d8+13 piercing plus athach venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +25 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d8+13 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +25 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+13 bludgeoning\n\n**Athach Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 32 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [enfeebled 1](/Conditions.aspx?ID=13); **Stage 2** 2d6 poison damage and enfeebled 2; **Stage 3** 2d6 poison damage and enfeebled 3\r\n\r\n**Swift Claw** <actions string=\"Reaction\" />  **Trigger** The athach hits a creature with two fist Strikes; **Effect** The athach makes a claw Strike with no multiple attack penalty against the creature it hit with its fist Strikes. This claw attack does not increase the athach's multiple attack penalty.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Athach Treasure</title>\r\n\r\nAthachs are infamously greedy, but the distrustful creatures have a unique way of hiding gems and shiny metal. When an athach finds items such as coins and jewelry, they crush the valuable metal into a lumpy ball about the size of an apple and then swallow it. When not tormenting humans, the athach regurgitates these lumps and plays with them. Any of these lumps found lying about an athach's lair are likely coated in the giant's toxic drool.\r\n</aside>",
+ "name": "Athach",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 20,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 27 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 250\r\n\r\n**AC** 33\r\n\r\n**Fort** +25\r\n\r\n**Ref** +20\r\n\r\n**Will** +21\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe towering and brutish giants known as athaches are reviled for both their monstrosity and their cruelty. Beyond an athach's filthy habits, this …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Intimidation +21"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +21",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 27"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 27 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The towering and brutish giants known as athaches are reviled for both their monstrosity and their cruelty. Beyond an athach's filthy habits, this …",
+ "summary_markdown": "The towering and brutish giants known as athaches are reviled for both their monstrosity and their cruelty. Beyond an athach's filthy habits, this …",
+ "text": " Athach The towering and brutish giants known as athaches are reviled for both their monstrosity and their cruelty. Beyond an athach's filthy habits, this giant is made stranger by the gangly third arm that protrudes from their torso and ends in a twitching, long-fingered claw. Huge, tusk-like fangs descend from an athach's upper jaw and prop their mouth open, leaking long strands of viscous drool that is itself is a toxic venom and coats the athach's fangs. Athachs despise civilization almost as much as they despise their own kind, and they delight in committing sadistic acts and terrorizing victims. An athach does not keep a traditional territory of their own, but rather wanders the hinterlands of settled territories until they find a suitably easy settlement of smaller humanoids to target. Once the athach has chosen their target, the giant establishes a hidden lair in a location like an abandoned farmhouse or cave, and from there they launch their reign of torment. After a few weeks of harassing, capturing, and torturing victims, the athach bores of their games. The giant then goes on a final rampage, destroying every dwelling and eating every creature they can find. Sometimes, the giant allows a survivor or two to escape, forcing these terrified victims to spend the rest of their lives spreading word of the athach's fearsomeness. Recall Knowledge - Humanoid (Society): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Athach Source Bestiary 2 pg. 27 2.0 Perception +22; darkvision Languages Jotun Skills Athletics +25, Intimidation +21 Str +7 Dex +3 Con +7 Int -1 Wis +4 Cha +3 --- AC 33 Fort +25 Ref +20 Will +21 HP 250 Weaknesses cold iron 10 Attack of Opportunity Reaction An athach gains an extra reaction at the start of each of its turns that it can use only to make an Attack of Opportunity with its claw. It can't use more than one Attack of Opportunity triggered by the same action. Catch Rock Reaction --- Speed 40 feet Melee Single Action fist +25 (reach 10 feet), Damage 3d12+13 bludgeoning Melee Single Action jaws +25, Damage 3d8+13 piercing plus athach venom Melee Single Action claw +25 (Agile), Damage 3d8+13 slashing Ranged Single Action rock +25 (Brutal, range increment 120 feet), Damage 3d8+13 bludgeoning Athach Venom (Poison) Saving Throw DC 32 Fortitude; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and enfeebled 1; Stage 2 2d6 poison damage and enfeebled 2; Stage 3 2d6 poison damage and enfeebled 3 Swift Claw Reaction Trigger The athach hits a creature with two fist Strikes; Effect The athach makes a claw Strike with no multiple attack penalty against the creature it hit with its fist Strikes. This claw attack does not increase the athach's multiple attack penalty. Throw Rock Single Action Athach Treasure Athachs are infamously greedy, but the distrustful creatures have a unique way of hiding gems and shiny metal. When an athach finds items such as coins and jewelry, they crush the valuable metal into a lumpy ball about the size of an apple and then swallow it. When not tormenting humans, the athach regurgitates these lumps and plays with them. Any of these lumps found lying about an athach's lair are likely coated in the giant's toxic drool. ",
+ "trait": [
+  "Giant",
+  "Humanoid",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Giant",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=556",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold_iron": 10
+ },
+ "weakness_markdown": "cold iron 10",
+ "weakness_raw": "cold iron 10",
+ "will_save": 21,
+ "wisdom": 4
+}

@@ -1,0 +1,105 @@
+{
+ "ac": 27,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Repartee Riposte",
+  "Parry Dance",
+  "Shadow Rapier",
+  "The Upper Hand"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 125,
+ "hp_raw": "125 ( negative healing )",
+ "id": "creature-1844",
+ "image": [
+  "/Images/Monsters/CadaverousRake.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Cadaverous Rake](/Monsters.aspx?ID=1844)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen a skilled duelist is killed, on occasion they rise as a cadaverous rake, refusing to let death get in the way of daring deeds. Appearing as a corpse-like version of their living form, a cadaverous rake retains their memories and much of their personality. The first act of many cadaverous rakes is to pay a surprise visit to family and friends, unveiling their revival. If they're met with revulsion or attempts to lay them to rest, the rake typically lashes out at the perceived betrayal or departs in offended confusion. Cadaverous rakes who are appropriately feted by friends and family often retain an affection and attachment, becoming undying protectors. This isn't necessarily a good thing, however, as the cadaverous rake's undead worldview creates impossible demands. The transition to undeath corrupts previously benevolent individuals, and their single-minded focus on finding more opponents to duel cuts a bloody swath across stretches of countryside they once protected. Rarely, those who were especially virtuous retain some of their moral code, though even then their dispositions are mercurial. All, however, retain the flamboyance and swagger that made them notable in life, as quick with a quip as they are with a blade. The impulse to toy with their opponents becomes the undoing of many an overconfident rake.\n\n Though most cadaverous rakes rise after losing a duel, especially those that involved foul play, any cause of death can suffice, save for a peaceful passing in old age.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CadaverousRake.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Cadaverous Rake](/Monsters.aspx?ID=1844)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 78</row>\n\n**Perception** +16; (18 to initiative) [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +19, [Deception](/Skills.aspx?ID=5) +16, [Intimidation](/Skills.aspx?ID=7) +18, [Thievery](/Skills.aspx?ID=17) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** +3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [rapier](/Weapons.aspx?ID=36)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 (29 with Parry Dance)\r\n\r\n**Fort** +16 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 125\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Repartee Riposte** <actions string=\"Reaction\" /> ([emotion](/Traits.aspx?ID=60), [mental](/Traits.aspx?ID=106)) **Trigger** A creature within the cadaverous rake's reach critically fails at a melee Strike against the rake; **Effect** The cadaverous rake attempts a Strike against the creature, firing back a witty retort. If this Strike succeeds, the creature is [frightened 1](/Conditions.aspx?ID=19), or frightened 2 on a critical success.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_rapier_ +20 ([deadly d8](/Traits.aspx?ID=174), [Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+8 piercing plus 1d8 precision\n\n**Parry Dance** <actions string=\"Single Action\" />  The cadaverous rake makes a melee Strike, then Steps, positioning their blade defensively. They gain a +2 circumstance bonus to AC until the end of their next turn.\r\n\r\n**Shadow Rapier** <actions string=\"Single Action\" /> ([Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118), [Magical](/Traits.aspx?ID=103)) The rake shrouds their sword in negative energy, changing the damage type to negative. This shadow-shrouded rapier has a reach of 30 feet. The effect lasts until the end of the rake's turn.\r\n\r\n**The Upper Hand** <actions string=\"Single Action\" />  **Requirements** The cadaverous rake's last action was a melee Strike that critically succeeded; **Effect** The cadaverous rake [Disarms](/Actions.aspx?ID=41) the creature they hit, as a critical success on a Disarm attempt. The weapon falls to the ground in a space adjacent to the creature (rake's choice).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Nemesis Mine!</title>\r\n\r\nA cadaverous rake sometimes adopts a living duelist whose skill impressed them as a “rival,” if the two fought and both escaped. The rake relentlessly follows their rival, seeking an opportunity to duel again—though such pursuit can be an unexpected boon, as the rake refuses to allow anyone to harm their rival but them.\r\n</aside>",
+ "name": "Cadaverous Rake",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 20,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 78</row>\n\n<row gap=\"medium\">\r\n**HP** 125 ( negative healing )\r\n\r\n**AC** 27\r\n\r\n**Fort** +16\r\n\r\n**Ref** +20\r\n\r\n**Will** +12\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a skilled duelist is killed, on occasion they rise as a cadaverous rake, refusing to let death get in the way of daring deeds. Appearing as a …\r\n</summary>",
+ "sense": "(18 to initiative)  darkvision ",
+ "sense_markdown": "(18 to initiative) [darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Athletics +19",
+  "Deception +16",
+  "Intimidation +18",
+  "Thievery +16"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +19, [Deception](/Skills.aspx?ID=5) +16, [Intimidation](/Skills.aspx?ID=7) +18, [Thievery](/Skills.aspx?ID=17) +16",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 78"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 78</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "When a skilled duelist is killed, on occasion they rise as a cadaverous rake, refusing to let death get in the way of daring deeds. Appearing as a …",
+ "summary_markdown": "When a skilled duelist is killed, on occasion they rise as a cadaverous rake, refusing to let death get in the way of daring deeds. Appearing as a …",
+ "text": " Cadaverous Rake When a skilled duelist is killed, on occasion they rise as a cadaverous rake, refusing to let death get in the way of daring deeds. Appearing as a corpse-like version of their living form, a cadaverous rake retains their memories and much of their personality. The first act of many cadaverous rakes is to pay a surprise visit to family and friends, unveiling their revival. If they're met with revulsion or attempts to lay them to rest, the rake typically lashes out at the perceived betrayal or departs in offended confusion. Cadaverous rakes who are appropriately feted by friends and family often retain an affection and attachment, becoming undying protectors. This isn't necessarily a good thing, however, as the cadaverous rake's undead worldview creates impossible demands. The transition to undeath corrupts previously benevolent individuals, and their single-minded focus on finding more opponents to duel cuts a bloody swath across stretches of countryside they once protected. Rarely, those who were especially virtuous retain some of their moral code, though even then their dispositions are mercurial. All, however, retain the flamboyance and swagger that made them notable in life, as quick with a quip as they are with a blade. The impulse to toy with their opponents becomes the undoing of many an overconfident rake. Though most cadaverous rakes rise after losing a duel, especially those that involved foul play, any cause of death can suffice, save for a peaceful passing in old age. Recall Knowledge - Undead (Religion): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Cadaverous Rake Source Book of the Dead pg. 78 Perception +16; (18 to initiative) darkvision Languages Common, Necril Skills Acrobatics +18, Athletics +19, Deception +16, Intimidation +18, Thievery +16 Str +5 Dex +6 Con +4 Int +3 Wis +2 Cha +4 Items +1 striking rapier --- AC 27 (29 with Parry Dance) Fort +16 Ref +20 Will +12 HP 125 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Repartee Riposte Reaction (emotion, mental) Trigger A creature within the cadaverous rake's reach critically fails at a melee Strike against the rake; Effect The cadaverous rake attempts a Strike against the creature, firing back a witty retort. If this Strike succeeds, the creature is frightened 1, or frightened 2 on a critical success. --- Speed 30 feet Melee Single Action rapier +20 (deadly d8, Disarm, Finesse, Magical), Damage 2d6+8 piercing plus 1d8 precision Parry Dance Single Action The cadaverous rake makes a melee Strike, then Steps, positioning their blade defensively. They gain a +2 circumstance bonus to AC until the end of their next turn. Shadow Rapier Single Action (Necromancy, Negative, Magical) The rake shrouds their sword in negative energy, changing the damage type to negative. This shadow-shrouded rapier has a reach of 30 feet. The effect lasts until the end of the rake's turn. The Upper Hand Single Action Requirements The cadaverous rake's last action was a melee Strike that critically succeeded; Effect The cadaverous rake Disarms the creature they hit, as a critical success on a Disarm attempt. The weapon falls to the ground in a space adjacent to the creature (rake's choice). Nemesis Mine! A cadaverous rake sometimes adopts a living duelist whose skill impressed them as a “rival,” if the two fought and both escaped. The rake relentlessly follows their rival, seeking an opportunity to duel again—though such pursuit can be an unexpected boon, as the rake refuses to allow anyone to harm their rival but them. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1844",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 2
+}

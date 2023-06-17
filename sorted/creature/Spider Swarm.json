@@ -1,0 +1,106 @@
+{
+ "ac": 15,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 0,
+ "creature_ability": [
+  "Web Sense",
+  "Swarming Bites",
+  "Spider Swarm Venom"
+ ],
+ "creature_family": "Spider",
+ "creature_family_markdown": "[Spider](/MonsterFamilies.aspx?ID=94)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 4,
+ "hp": 12,
+ "hp_raw": "12",
+ "id": "creature-385",
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, swarm mind",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Spider Swarm](/Monsters.aspx?ID=385)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn abundance of food, the sudden hatching of a clutch of eggs, or magical influence can cause smaller spiders to gather in terrifying, deadly masses.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Spider Swarm](/Monsters.aspx?ID=385)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 306</row>\n\n**Perception** +4; darkvision, web sense\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +2, [Stealth](/Skills.aspx?ID=15) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** -2\r\n\r\n**Dex** +3\r\n\r\n**Con** +0\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -4\r\n</row>\r\n\r\n**Web Sense** The spider swarm has imprecise tremorsense to detect the vibrations of creatures touching its web.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +4 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +2 \n\n</row>\r\n\r\n**HP** 12\n\n**Immunities**\r\nprecision, swarm mind\r\n\r\n**Resistances**\r\nbludgeoning 2, piercing 5, slashing 5\r\n\r\n**Weaknesses**\r\narea damage 5, splash damage 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet\n\n**Swarming Bites** <actions string=\"Single Action\" />  Each enemy in the spider swarm’s space takes 1d4 piercing damage with a DC 14 basic Reflex save. A creature that fails its save is exposed to spider swarm venom.\r\n\r\n**Spider Swarm Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 14; **Maximum Duration** 4 rounds; **Stage 1** 1 poison and enfeebled 1 (1 round); **Stage 2** 1d4 poison and enfeebled 1 (1 round).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-94\" />",
+ "name": "Spider Swarm",
+ "npc": false,
+ "perception": 4,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 2,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "bludgeoning 2, piercing 5, slashing 5",
+ "resistance_raw": "bludgeoning 2, piercing 5, slashing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 306</row>\r\n\r\n**Creature Family** [Spider](/MonsterFamilies.aspx?ID=94)\r\n\r\n<row gap=\"medium\">\r\n**HP** 12\r\n\r\n**AC** 15\r\n\r\n**Fort** +4\r\n\r\n**Ref** +7\r\n\r\n**Will** +2\r\n\r\n**Perception** +4\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn abundance of food, the sudden hatching of a clutch of eggs, or magical influence can cause smaller spiders to gather in terrifying, deadly masses.\r\n</summary>",
+ "sense": "darkvision, web sense",
+ "sense_markdown": "darkvision, web sense",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +5",
+  "Athletics +2",
+  "Stealth +5"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +2, [Stealth](/Skills.aspx?ID=15) +5",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 306"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 306</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet",
+ "speed_raw": "20 feet, climb 20 feet",
+ "spell_markdown": "",
+ "stealth": "5",
+ "strength": -2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "An abundance of food, the sudden hatching of a clutch of eggs, or magical influence can cause smaller spiders to gather in terrifying, deadly masses.",
+ "summary_markdown": "An abundance of food, the sudden hatching of a clutch of eggs, or magical influence can cause smaller spiders to gather in terrifying, deadly masses.",
+ "text": " Spider Swarm An abundance of food, the sudden hatching of a clutch of eggs, or magical influence can cause smaller spiders to gather in terrifying, deadly masses. Recall Knowledge - Animal (Nature): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Spider Swarm Source Bestiary pg. 306 Perception +4; darkvision, web sense Languages Skills Acrobatics +5, Athletics +2, Stealth +5 Str -2 Dex +3 Con +0 Int -5 Wis +0 Cha -4 Web Sense The spider swarm has imprecise tremorsense to detect the vibrations of creatures touching its web. --- AC 15 Fort +4 Ref +7 Will +2 HP 12 Immunities precision, swarm mind Resistances bludgeoning 2, piercing 5, slashing 5 Weaknesses area damage 5, splash damage 5 --- Speed 20 feet, climb 20 feet Swarming Bites Single Action Each enemy in the spider swarm’s space takes 1d4 piercing damage with a DC 14 basic Reflex save. A creature that fails its save is exposed to spider swarm venom. Spider Swarm Venom (Poison) Saving Throw Fortitude DC 14; Maximum Duration 4 rounds; Stage 1 1 poison and enfeebled 1 (1 round); Stage 2 1d4 poison and enfeebled 1 (1 round). ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=385",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 5,
+  "splash": 5
+ },
+ "weakness_markdown": "area damage 5, splash damage 5",
+ "weakness_raw": "area damage 5, splash damage 5",
+ "will_save": 2,
+ "wisdom": 0
+}

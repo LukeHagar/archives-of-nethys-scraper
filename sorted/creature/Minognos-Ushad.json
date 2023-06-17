@@ -1,0 +1,105 @@
+{
+ "ac": 43,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Savage",
+  "Breath  Weapon",
+  "Powerful Dive",
+  "Punishing Momentum",
+  "Wyvern Venom"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hp": 295,
+ "hp_raw": "295",
+ "id": "creature-2266",
+ "immunity": [
+  "paralyzed",
+  "unconscious"
+ ],
+ "immunity_markdown": "paralyzed, unconscious",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"\">[Minognos-Ushad](/Monsters.aspx?ID=2266)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 49\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 47\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 44\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Minognos-Ushad](/Monsters.aspx?ID=2266)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 118</row>\n\n**Perception** +30; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +33, [Athletics](/Skills.aspx?ID=3) +37, [Intimidation](/Skills.aspx?ID=7) +31, [Stealth](/Skills.aspx?ID=15) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +6\r\n\r\n**Con** +6\r\n\r\n**Int** +0\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 43 \r\n\r\n**Fort** +33 \r\n\r\n**Ref** +35 \r\n\r\n**Will** +31 \n\n</row>\r\n\r\n**HP** 295\n\n**Immunities**\r\nparalyzed, unconscious\r\n\r\n**Resistances**\r\npoison 20\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /><br />**Savage** <actions string=\"Reaction\" /> **Trigger** A creature grabbed by Minognos-Ushad critically fails a check to [Escape](/Actions.aspx?ID=79)** **Effect** Minognos-Ushad makes a stinger Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 100 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +37 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d10+18 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +37 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+18 slashing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +37 ([Agile](/Traits.aspx?ID=170), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d6+18 piercing plus wyvern venom\n\n**Breath  Weapon** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Poison](/Traits.aspx?ID=126), [Primal](/Traits.aspx?ID=134)) Minognos-Ushad breathes a 60-foot cone of poison. Creatures in the cone take 20d6 poison damage (DC 41 basic Reflex save). Minognos-Ushad can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Powerful Dive** <actions string=\"Two Actions\" /> ([Move](/Traits.aspx?ID=114)) Minognos-Ushad Flies up to her fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If she ends her movement within melee reach of at least one enemy her size or smaller, she can make a claw Strike against that enemy. If the claw hits, as a free action she can either automatically [Grab](/MonsterAbilities.aspx?ID=18) the target or knock it [prone](/Conditions.aspx?ID=31).\r\n\r\n**Punishing Momentum** <actions string=\"Single Action\" />  **Requirements** Minognos-Ushad grabbed a creature this turn using Powerful Dive; **Effect** Minognos-Ushad can Fly at half Speed while holding the creature in her claws, carrying that creature along with her and dropping it at the end of her movement. Alternatively, she can Strike the creature with her stinger with a +2 circumstance bonus.\r\n\r\n**Wyvern Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 41; **Maximum Duration** 6 rounds; **Stage 1** 5d10 poison damage and clumsy 1 (1 round); **Stage 2** 6d10 poison damage and clumsy 2 (1 round); **Stage 3** 8d10 poison damage and clumsy 3 (1 round)\r\n\r\n</column>",
+ "name": "Minognos-Ushad",
+ "npc": false,
+ "perception": 30,
+ "rarity": "unique",
+ "reflex_save": 35,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "poison": 20
+ },
+ "resistance_markdown": "poison 20",
+ "resistance_raw": "poison 20",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 118</row>\n\n<row gap=\"medium\">\r\n**HP** 295\r\n\r\n**AC** 43\r\n\r\n**Fort** +33\r\n\r\n**Ref** +35\r\n\r\n**Will** +31\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +33",
+  "Athletics +37",
+  "Intimidation +31",
+  "Stealth +33"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +33, [Athletics](/Skills.aspx?ID=3) +37, [Intimidation](/Skills.aspx?ID=7) +31, [Stealth](/Skills.aspx?ID=15) +33",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 118"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 118</row>",
+ "speed": {
+  "fly": 100,
+  "land": 30,
+  "max": 100
+ },
+ "speed_markdown": "30 feet, fly 100 feet",
+ "speed_raw": "30 feet, fly 100 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "33",
+ "strength": 10,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Minognos-Ushad Recall Knowledge - Dragon (Arcana): DC 49 Unspecific Lore : DC 47 Specific Lore : DC 44 Minognos-Ushad Source Kingmaker Adventure Path pg. 118 Perception +30; darkvision, scent (imprecise) 30 feet Languages Common, Draconic Skills Acrobatics +33, Athletics +37, Intimidation +31, Stealth +33 Str +10 Dex +6 Con +6 Int +0 Wis +6 Cha +4 --- AC 43 Fort +33 Ref +35 Will +31 HP 295 Immunities paralyzed, unconscious Resistances poison 20 Attack of Opportunity Reaction Savage Reaction Trigger A creature grabbed by Minognos-Ushad critically fails a check to Escape Effect Minognos-Ushad makes a stinger Strike against the triggering creature. --- Speed 30 feet, fly 100 feet Melee Single Action fangs +37 (reach 10 feet), Damage 4d10+18 piercing Melee Single Action claw +37 (reach 10 feet), Damage 4d8+18 slashing plus Improved Grab Melee Single Action stinger +37 (Agile, reach 20 feet), Damage 4d6+18 piercing plus wyvern venom Breath Weapon Two Actions (Evocation, Poison, Primal) Minognos-Ushad breathes a 60-foot cone of poison. Creatures in the cone take 20d6 poison damage (DC 41 basic Reflex save). Minognos-Ushad can't use Breath Weapon again for 1d4 rounds. Powerful Dive Two Actions (Move) Minognos-Ushad Flies up to her fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If she ends her movement within melee reach of at least one enemy her size or smaller, she can make a claw Strike against that enemy. If the claw hits, as a free action she can either automatically Grab the target or knock it prone. Punishing Momentum Single Action Requirements Minognos-Ushad grabbed a creature this turn using Powerful Dive; Effect Minognos-Ushad can Fly at half Speed while holding the creature in her claws, carrying that creature along with her and dropping it at the end of her movement. Alternatively, she can Strike the creature with her stinger with a +2 circumstance bonus. Wyvern Venom (Poison) Saving Throw Fortitude DC 41; Maximum Duration 6 rounds; Stage 1 5d10 poison damage and clumsy 1 (1 round); Stage 2 6d10 poison damage and clumsy 2 (1 round); Stage 3 8d10 poison damage and clumsy 3 (1 round) ",
+ "trait": [
+  "Dragon",
+  "Unique",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Dragon",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2266",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 31,
+ "wisdom": 6
+}

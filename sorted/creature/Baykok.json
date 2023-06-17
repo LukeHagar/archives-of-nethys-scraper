@@ -1,0 +1,107 @@
+{
+ "ac": 27,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 5,
+ "creature_ability": [
+  "Banished from the Ground",
+  "Frightful Presence",
+  "Arrow of Despair",
+  "Devour Life",
+  "Wasting Curse"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 200,
+ "hp_raw": "200 ( negative healing )",
+ "id": "creature-1076",
+ "image": [
+  "/Images/Monsters/Baykok.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Baykok](/Monsters.aspx?ID=1076)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA baykok is the restless remnant of a warrior or hunter, cast out for evil acts and cursed to forever soar through the sky far from its home, unable to ever set foot on the ground again. The creature's despairing, lonely cries at night are audible for miles across the wilderness it haunts. Jealous rage drives it to hunt isolated humanoids, especially warriors and hunters who remind it of the life it once had and squandered. A baykok's invisible arrows carry its soul-freezing loneliness, and its envious touch can steal a helpless victim's vitality.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Baykok.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Baykok](/Monsters.aspx?ID=1076)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 29</row>\n\n**Perception** +19; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Banished from the Ground** A baykok can't willingly touch earth or rock surfaces. If forced into contact with such a surface, it becomes [enfeebled 2](/Conditions.aspx?ID=13) for as long as it remains in contact.\r\n\r\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [greatclub](/Weapons.aspx?ID=22)_, _+1 [longbow](/Weapons.aspx?ID=76)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 200\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\nair 10, bludgeoning 10, earth 10\r\n\r\n**[Frightful Presence](/MonsterAbilities.aspx?ID=17)** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 120 feet, DC 25\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_greatclub_ +21 ([Backswing](/Traits.aspx?ID=173), [Magical](/Traits.aspx?ID=103), [Shove](/Traits.aspx?ID=193)),\r\n**Damage** 2d10+9 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_longbow_ +21 ([deadly d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 1d8+6 piercing plus 1d8 mental and arrow of despair\n\n**Arrow of Despair**  ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) A baykok creates an invisible arrow of bone as it draws its bow. A [frightened](/Conditions.aspx?ID=19) creature hit by the arrow is stricken with loneliness and despair and must attempt a DC 26 Will save; if the Strike was a critical hit, the target uses the outcome one degree of success worse than the result of its save. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [slowed 1](/Conditions.aspx?ID=35) for 1 round. <br />**Failure** The creature's frightened value increases by 1 (to a maximum of 4), and it is slowed 1 until its frightened condition ends. <br />**Critical Failure** As failure, but the creature is [paralyzed](/Conditions.aspx?ID=28) until its frightened condition ends. At the start of each of its turns, it can end the paralyzed condition early with a successful DC 26 Will save.\r\n\r\n**Devour Life** <actions string=\"Single Action\" /> ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) **Requirements** The baykok is adjacent to a [paralyzed](/Conditions.aspx?ID=28), [restrained](/Conditions.aspx?ID=33), or [unconscious](/Conditions.aspx?ID=38) living [humanoid](/Traits.aspx?ID=91); **Effect** The baykok touches the target and devours part of its life force. The target must succeed at a DC 26 Fortitude save or be afflicted with the baykok's wasting curse. If the target fails and wasn't already affected by the wasting curse, the baykok gains 20 temporary Hit Points that last for 1 hour.\r\n\r\n**Wasting Curse**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) The baykok steals life from its victim and leaves listless dread in its place. If a target fails its save against Devour Life, it becomes [drained 1](/Conditions.aspx?ID=10). Each time the target gets a full night's rest, it must succeed at a DC 26 Fortitude save or its drained value increases rather than decreasing. The curse ends if the creature recovers from the drained condition, but if the creature would reach drained 5 from this effect, it dies.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Endless Exile</title>\r\n\r\nThe wind that lets a baykok fly is also its prison, as it is cursed to be blown around forever without rest. The curse holds a baykok even after it's destroyed, as the wind tears away its bones except its skull, which falls to the ground. Its soul is trapped within until the skull is destroyed, the creature is restored to life, or the bones are reassembled to recreate the baykok. If trapped long enough, the soul can call out to sensitive individuals to beg for help.\r\n</aside>",
+ "name": "Baykok",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 29</row>\n\n<row gap=\"medium\">\r\n**HP** 200 ( negative healing )\r\n\r\n**AC** 27\r\n\r\n**Fort** +20\r\n\r\n**Ref** +19\r\n\r\n**Will** +15\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA baykok is the restless remnant of a warrior or hunter, cast out for evil acts and cursed to forever soar through the sky far from its home, unable …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +19",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 29"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 29</row>",
+ "speed": {
+  "fly": 40,
+  "land": 30,
+  "max": 40
+ },
+ "speed_markdown": "30 feet, fly 40 feet",
+ "speed_raw": "30 feet, fly 40 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A baykok is the restless remnant of a warrior or hunter, cast out for evil acts and cursed to forever soar through the sky far from its home, unable …",
+ "summary_markdown": "A baykok is the restless remnant of a warrior or hunter, cast out for evil acts and cursed to forever soar through the sky far from its home, unable …",
+ "text": " Baykok A baykok is the restless remnant of a warrior or hunter, cast out for evil acts and cursed to forever soar through the sky far from its home, unable to ever set foot on the ground again. The creature's despairing, lonely cries at night are audible for miles across the wilderness it haunts. Jealous rage drives it to hunt isolated humanoids, especially warriors and hunters who remind it of the life it once had and squandered. A baykok's invisible arrows carry its soul-freezing loneliness, and its envious touch can steal a helpless victim's vitality. Recall Knowledge - Undead (Religion): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Baykok Source Bestiary 3 pg. 29 Perception +19; darkvision Languages Common Skills Acrobatics +17, Athletics +19, Stealth +17 Str +6 Dex +4 Con +5 Int +0 Wis +4 Cha +1 Banished from the Ground A baykok can't willingly touch earth or rock surfaces. If forced into contact with such a surface, it becomes enfeebled 2 for as long as it remains in contact. Items +1 striking greatclub , +1 longbow --- AC 27 Fort +20 Ref +19 Will +15 HP 200 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses air 10, bludgeoning 10, earth 10 Frightful Presence (aura, emotion, fear, mental) 120 feet, DC 25 --- Speed 30 feet, fly 40 feet Melee Single Action greatclub +21 (Backswing, Magical, Shove), Damage 2d10+9 bludgeoning Ranged Single Action longbow +21 (deadly d10, Magical, volley 30 feet), Damage 1d8+6 piercing plus 1d8 mental and arrow of despair Arrow of Despair (Emotion, Enchantment, Fear, Incapacitation, Mental, Occult) A baykok creates an invisible arrow of bone as it draws its bow. A frightened creature hit by the arrow is stricken with loneliness and despair and must attempt a DC 26 Will save; if the Strike was a critical hit, the target uses the outcome one degree of success worse than the result of its save. Critical Success The creature is unaffected. Success The creature is slowed 1 for 1 round. Failure The creature's frightened value increases by 1 (to a maximum of 4), and it is slowed 1 until its frightened condition ends. Critical Failure As failure, but the creature is paralyzed until its frightened condition ends. At the start of each of its turns, it can end the paralyzed condition early with a successful DC 26 Will save. Devour Life Single Action (Curse, Necromancy, Occult) Requirements The baykok is adjacent to a paralyzed, restrained, or unconscious living humanoid; Effect The baykok touches the target and devours part of its life force. The target must succeed at a DC 26 Fortitude save or be afflicted with the baykok's wasting curse. If the target fails and wasn't already affected by the wasting curse, the baykok gains 20 temporary Hit Points that last for 1 hour. Wasting Curse (Curse, Necromancy, Occult) The baykok steals life from its victim and leaves listless dread in its place. If a target fails its save against Devour Life, it becomes drained 1. Each time the target gets a full night's rest, it must succeed at a DC 26 Fortitude save or its drained value increases rather than decreasing. The curse ends if the creature recovers from the drained condition, but if the creature would reach drained 5 from this effect, it dies. Endless Exile The wind that lets a baykok fly is also its prison, as it is cursed to be blown around forever without rest. The curse holds a baykok even after it's destroyed, as the wind tears away its bones except its skull, which falls to the ground. Its soul is trapped within until the skull is destroyed, the creature is restored to life, or the bones are reassembled to recreate the baykok. If trapped long enough, the soul can call out to sensitive individuals to beg for help. ",
+ "trait": [
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1076",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "bludgeoning": 10
+ },
+ "weakness_markdown": "air 10, bludgeoning 10, earth 10",
+ "weakness_raw": "air 10, bludgeoning 10, earth 10",
+ "will_save": 15,
+ "wisdom": 4
+}

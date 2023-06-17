@@ -1,0 +1,115 @@
+{
+ "ac": 42,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 10,
+ "creature_ability": [
+  "Frightful Presence",
+  "Attack of Opportunity",
+  "Multiple Heads",
+  "Multiple Opportunities",
+  "Orochi Flurry",
+  "Swallow Whole"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hp": 400,
+ "hp_raw": "400 ((body) ;  Resistances  poison 15  HP (head) 60, multiple heads\r\n)",
+ "id": "creature-1416",
+ "image": [
+  "/Images/Monsters/Orochi.png"
+ ],
+ "immunity": [
+  "area damage"
+ ],
+ "immunity_markdown": "area damage",
+ "intelligence": 5,
+ "language": [
+  "Aklo",
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Orochi](/Monsters.aspx?ID=1416)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn orochi is an enormous serpent with eight heads and eight tails that lives among large waterways. Orochi are vile, amoral creatures kept at bay only with yearly sacrifices. Most settlements unable to satisfy an orochi with a sacrifice soon meet their destruction.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 43\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 41\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 38\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Orochi.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Orochi](/Monsters.aspx?ID=1416)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 84</row>\n\n**Perception** +33; [darkvision](/MonsterAbilities.aspx?ID=12), [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +30, [Athletics](/Skills.aspx?ID=3) +36, [Intimidation](/Skills.aspx?ID=7) +31, [Survival](/Skills.aspx?ID=16) +29\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +6\r\n\r\n**Con** +10\r\n\r\n**Int** +5\r\n\r\n**Wis** +4\r\n\r\n**Cha** +6\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 42 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +33 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +27 \n\n</row>\r\n\r\n**HP** 400\r\n((body) ; **Resistances** poison 15<br /> HP (head) 60, multiple heads\r\n)\n\n**Immunities**\r\narea damage\r\n\r\n**Resistances**\r\npoison 15\r\n\r\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 15\r\n\r\n**[Frightful Presence](/MonsterAbilities.aspx?ID=17)** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 60 feet, DC 37<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Multiple Heads** A creature can attempt to sever one of the orochi's eight heads by specifically targeting it and dealing damage equal to the head's HP. A head not completely severed returns to full HP at the end of the attacking creature's turn. An orochi that loses all of their heads immediately dies.<br />**Multiple Opportunities** The orochi gains an extra reaction per round for each of their heads that remains beyond the first, which it can use only to make Attacks of Opportunity. They can't use more than 1 reaction on the same triggering action, and the orochi must use a different head for each Attack of Opportunity.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, swim 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +35 ([reach 40 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+18 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +35 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 50 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+18 bludgeoning plus [Improved Knockdown](/MonsterAbilities.aspx?ID=28)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +34 ([Brutal](/Traits.aspx?ID=249), [range increment 100 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+18 bludgeoning\n\n**Orochi Flurry** <actions string=\"Two Actions\" />  The orochi makes a number of jaws Strikes equal to the number of their remaining heads, each against a different target. The orochi's multiple attack penalty doesn't increase until after the orochi makes all of their attacks.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Huge, 2d12+18 bludgeoning, Rupture 40\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Spoils of the Orochi</title>\r\n\r\nLegends state that a warrior able to slay an orochi in single combat will find a blade deep within the creature's flesh. Such blades are said to have a mastery over flames and to be able to cut entire fields of grass in a single stroke.\r\n</aside>",
+ "name": "Orochi",
+ "npc": false,
+ "perception": 33,
+ "rarity": "rare",
+ "reflex_save": 30,
+ "release_date": "2021-07-07",
+ "resistance": {
+  "poison": 15
+ },
+ "resistance_markdown": "poison 15",
+ "resistance_raw": "poison 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 84</row>\n\n<row gap=\"medium\">\r\n**HP** 400 ((body) ;  Resistances  poison 15  HP (head) 60, multiple heads\r\n)\r\n\r\n**AC** 42\r\n\r\n**Fort** +33\r\n\r\n**Ref** +30\r\n\r\n**Will** +27\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn orochi is an enormous serpent with eight heads and eight tails that lives among large waterways. Orochi are vile, amoral creatures kept at bay …\r\n</summary>",
+ "sense": " darkvision ,  low-light vision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +30",
+  "Athletics +36",
+  "Intimidation +31",
+  "Survival +29"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +30, [Athletics](/Skills.aspx?ID=3) +36, [Intimidation](/Skills.aspx?ID=7) +31, [Survival](/Skills.aspx?ID=16) +29",
+ "source": [
+  "Pathfinder #168: King of the Mountain"
+ ],
+ "source_raw": [
+  "Pathfinder #168: King of the Mountain pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 84</row>",
+ "speed": {
+  "land": 30,
+  "max": 60,
+  "swim": 60
+ },
+ "speed_markdown": "30 feet, swim 60 feet",
+ "speed_raw": "30 feet, swim 60 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "An orochi is an enormous serpent with eight heads and eight tails that lives among large waterways. Orochi are vile, amoral creatures kept at bay …",
+ "summary_markdown": "An orochi is an enormous serpent with eight heads and eight tails that lives among large waterways. Orochi are vile, amoral creatures kept at bay …",
+ "text": " Orochi An orochi is an enormous serpent with eight heads and eight tails that lives among large waterways. Orochi are vile, amoral creatures kept at bay only with yearly sacrifices. Most settlements unable to satisfy an orochi with a sacrifice soon meet their destruction. Recall Knowledge - Beast (Arcana, Nature): DC 43 Unspecific Lore : DC 41 Specific Lore : DC 38 Orochi Source Pathfinder #168: King of the Mountain pg. 84 Perception +33; darkvision, low-light vision Languages Aklo, Common, Draconic Skills Acrobatics +30, Athletics +36, Intimidation +31, Survival +29 Str +10 Dex +6 Con +10 Int +5 Wis +4 Cha +6 --- AC 42 all-around vision Fort +33 Ref +30 Will +27 HP 400 ((body) ; Resistances poison 15 HP (head) 60, multiple heads ) Immunities area damage Resistances poison 15 Weaknesses cold iron 15 Frightful Presence (aura, emotion, fear, mental) 60 feet, DC 37 Attack of Opportunity Reaction Multiple Heads A creature can attempt to sever one of the orochi's eight heads by specifically targeting it and dealing damage equal to the head's HP. A head not completely severed returns to full HP at the end of the attacking creature's turn. An orochi that loses all of their heads immediately dies. Multiple Opportunities The orochi gains an extra reaction per round for each of their heads that remains beyond the first, which it can use only to make Attacks of Opportunity. They can't use more than 1 reaction on the same triggering action, and the orochi must use a different head for each Attack of Opportunity. --- Speed 30 feet, swim 60 feet Melee Single Action jaws +35 (reach 40 feet), Damage 3d12+18 piercing plus Improved Grab Melee Single Action tail +35 (Agile, Magical, reach 50 feet), Damage 3d10+18 bludgeoning plus Improved Knockdown Ranged Single Action rock +34 (Brutal, range increment 100 feet), Damage 3d8+18 bludgeoning Orochi Flurry Two Actions The orochi makes a number of jaws Strikes equal to the number of their remaining heads, each against a different target. The orochi's multiple attack penalty doesn't increase until after the orochi makes all of their attacks. Swallow Whole Single Action (Attack) Huge, 2d12+18 bludgeoning, Rupture 40 Spoils of the Orochi Legends state that a warrior able to slay an orochi in single combat will find a blade deep within the creature's flesh. Such blades are said to have a mastery over flames and to be able to cut entire fields of grass in a single stroke. ",
+ "trait": [
+  "Amphibious",
+  "Beast",
+  "Rare",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Beast](/Traits.aspx?ID=20), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Amphibious",
+  "Beast",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1416",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 15
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 15",
+ "weakness_raw": " cold iron  15",
+ "will_save": 27,
+ "wisdom": 4
+}

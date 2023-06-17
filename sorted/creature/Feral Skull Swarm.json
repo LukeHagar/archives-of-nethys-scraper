@@ -1,0 +1,118 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 7,
+ "creature_ability": [
+  "Feral Trackers",
+  "Boneshard Burst",
+  "Feral Gnaw",
+  "Frightening Howl"
+ ],
+ "creature_family": "Skull Swarm",
+ "creature_family_markdown": "[Skull Swarm](/MonsterFamilies.aspx?ID=261)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 160,
+ "hp_raw": "160 ( negative healing )",
+ "id": "creature-1308",
+ "image": [
+  "/Images/Monsters/SkullSwarm_FeralSkullSwarm.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Feral Skull Swarm](/Monsters.aspx?ID=1308)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSome skull swarms are crafted from the heads of feral and dangerous beasts. These can include predatory cats, bears, [dinosaurs](/Traits.aspx?ID=45), and the like, but just as often they're made from bulls, horses, apes, and other creatures that were gentler in life. In death, a feral skull swarm is bloodthirsty regardless of its origins, with a keen scent for living flesh. Even herbivore skulls diligently chew on the flesh of their swarm's victims.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SkullSwarm_FeralSkullSwarm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Feral Skull Swarm](/Monsters.aspx?ID=1308)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 244</row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +22, [Survival](/Skills.aspx?ID=16) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +7\r\n\r\n**Int** -5\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Feral Trackers** A feral skull swarm gains a +2 circumstance bonus to Perception checks to [Seek](/Actions.aspx?ID=84) and to [Survival](/Skills.aspx?ID=16) checks to [Track](/Actions.aspx?ID=66), both against any creature that has taken damage from the swarm's Feral Gnaw within the previous 24 hours.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +22 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 160\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nbludgeoning 5, cold 10, electricity 10, fire 10, piercing 10, slashing 10\r\n\r\n**Weaknesses**\r\narea damage 10, [splash](/Traits.aspx?ID=150) damage 10\r\n\r\n**Boneshard Burst** When a feral skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a 30-foot burst, dealing 3d12 piercing damage and 2d12 negative damage (DC 32 [basic](/Rules.aspx?ID=329) Reflex save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\n\n**Feral Gnaw** <actions string=\"Single Action\" />  Each enemy in the swarm's space takes 2d6 bludgeoning, 2d6 piercing, and 2d6 slashing damage (DC 32 [basic](/Rules.aspx?ID=329) Reflex save). A creature that fails its saving throw also takes 1d10 [persistent bleed damage.](/Conditions.aspx?ID=29)\r\n\r\n**Frightening Howl** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The feral skull swarm emits a terrifying howl. Each creature within 60 feet must succeed at a DC 32 Will save or become [frightened 2](/Conditions.aspx?ID=19) (frightened 3 and [fleeing](/Conditions.aspx?ID=17) for 1 round on a critical failure). Whether it succeeds or fails its save, a creature is temporarily immune to Frightening Howl for 24 hours.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-261\" />",
+ "name": "Feral Skull Swarm",
+ "npc": false,
+ "perception": 21,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 22,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "bludgeoning": 5,
+  "cold": 10,
+  "electricity": 10,
+  "fire": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "bludgeoning 5, cold 10, electricity 10, fire 10, piercing 10, slashing 10",
+ "resistance_raw": "bludgeoning 5, cold 10, electricity 10, fire 10, piercing 10, slashing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 244</row>\r\n\r\n**Creature Family** [Skull Swarm](/MonsterFamilies.aspx?ID=261)\r\n\r\n<row gap=\"medium\">\r\n**HP** 160 ( negative healing )\r\n\r\n**AC** 32\r\n\r\n**Fort** +25\r\n\r\n**Ref** +22\r\n\r\n**Will** +19\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome skull swarms are crafted from the heads of feral and dangerous beasts. These can include predatory cats, bears,  dinosaurs , and the like, but …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +22",
+  "Survival +21"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +22, [Survival](/Skills.aspx?ID=16) +21",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 244"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 244</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "strength": 0,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Some skull swarms are crafted from the heads of feral and dangerous beasts. These can include predatory cats, bears,  dinosaurs , and the like, but …",
+ "summary_markdown": "Some skull swarms are crafted from the heads of feral and dangerous beasts. These can include predatory cats, bears,  dinosaurs , and the like, but …",
+ "text": " Feral Skull Swarm Some skull swarms are crafted from the heads of feral and dangerous beasts. These can include predatory cats, bears, dinosaurs, and the like, but just as often they're made from bulls, horses, apes, and other creatures that were gentler in life. In death, a feral skull swarm is bloodthirsty regardless of its origins, with a keen scent for living flesh. Even herbivore skulls diligently chew on the flesh of their swarm's victims. Recall Knowledge - Undead (Religion): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Feral Skull Swarm Source Bestiary 3 pg. 244 Perception +21; darkvision, scent (imprecise) 30 feet Languages Skills Acrobatics +22, Survival +21 Str +0 Dex +4 Con +7 Int -5 Wis +3 Cha +4 Feral Trackers A feral skull swarm gains a +2 circumstance bonus to Perception checks to Seek and to Survival checks to Track, both against any creature that has taken damage from the swarm's Feral Gnaw within the previous 24 hours. --- AC 32 Fort +25 Ref +22 Will +19 HP 160 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, precision, unconscious Resistances bludgeoning 5, cold 10, electricity 10, fire 10, piercing 10, slashing 10 Weaknesses area damage 10, splash damage 10 Boneshard Burst When a feral skull swarm is reduced to 0 Hit Points, it erupts in an explosion of foul energy and bone fragments in a 30-foot burst, dealing 3d12 piercing damage and 2d12 negative damage (DC 32 basic Reflex save). --- Speed 40 feet Feral Gnaw Single Action Each enemy in the swarm's space takes 2d6 bludgeoning, 2d6 piercing, and 2d6 slashing damage (DC 32 basic Reflex save). A creature that fails its saving throw also takes 1d10 persistent bleed damage. Frightening Howl Single Action (Auditory, Emotion, Enchantment, Fear, Mental) The feral skull swarm emits a terrifying howl. Each creature within 60 feet must succeed at a DC 32 Will save or become frightened 2 (frightened 3 and fleeing for 1 round on a critical failure). Whether it succeeds or fails its save, a creature is temporarily immune to Frightening Howl for 24 hours. ",
+ "trait": [
+  "Mindless",
+  "Swarm",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Swarm](/Traits.aspx?ID=239), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mindless",
+  "Swarm",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1308",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 10
+ },
+ "weakness_markdown": "area damage 10, [splash](/Traits.aspx?ID=150) damage 10",
+ "weakness_raw": "area damage 10,  splash  damage 10",
+ "will_save": 19,
+ "wisdom": 3
+}

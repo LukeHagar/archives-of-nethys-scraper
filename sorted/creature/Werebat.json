@@ -1,0 +1,110 @@
+{
+ "ac": 18,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Bat Empathy",
+  "Echolocation",
+  "Wing Thrash",
+  "Change Shape",
+  "Curse of the Werebat",
+  "Moon Frenzy"
+ ],
+ "creature_family": "Werecreature",
+ "creature_family_markdown": "[Werecreature](/MonsterFamilies.aspx?ID=100)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 35,
+ "hp_raw": "35",
+ "id": "creature-1366",
+ "image": [
+  "/Images/Monsters/Werecreature_Werebat.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "bat empathy"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); bat empathy",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Werebat](/Monsters.aspx?ID=1366)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWerebats form organized colonies of opportunistic hunters. They aren't shy about transforming creatures to add to their colony, whom they initiate with elaborate social ceremonies and bloody hazing. The curse of the werebat gives them a strong urge to prey upon on weaker, lonely creatures. True werebats are often unusually tall and thin, with angular features. In combat, werebats favor their unarmed attacks because they can't fly while wielding weapons in their wings.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Werecreature_Werebat.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Werebat](/Monsters.aspx?ID=1366)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 292</row>\n\n**Perception** +9; echolocation (precise) 40 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); bat empathy\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +6, [Deception](/Skills.aspx?ID=5) +4, [Society](/Skills.aspx?ID=14) +5, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Bat Empathy** ([divination](/Traits.aspx?ID=47), [primal](/Traits.aspx?ID=134)) A werebat can communicate with bats.<br />**Echolocation** A werebat can use their hearing as a precise sense at the listed range.\r\n\r\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3) (3), [studded leather](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 35\n\n**Weaknesses**\r\n[silver](/Equipment.aspx?ID=379) 5\r\n\r\n**Wing Thrash** <actions string=\"Reaction\" /> **Trigger** An adjacent enemy damages the werebat; **Effect** The werebat makes one or two wing Strikes, each against a different adjacent creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +10 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8+4 slashing plus curse of the werebat\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwing +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +10 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+4 piercing\n\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) [Human](/Ancestries.aspx?ID=6) with fist for 1d4+2 bludgeoning and no fly Speed, or Medium [giant bat](/Monsters.aspx?ID=46) with Speed 15 feet and fly 30 feet.\r\n\r\n**Curse of the Werebat**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)) **Saving Throw** DC 15 Fortitude\r\n\r\n**Moon Frenzy**  ([Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) \r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Werebat Colonies</title>\r\n\r\nWerebats sometimes methodically curse an entire community to form a terrifyingly large werebat colony. In elaborate covert initiation ceremonies, newly cursed members are given shocking proof of their new monstrous nature and sworn to loyalty and secrecy under threat of exposure or death. Since they're easily mistaken for [vampires](/MonsterFamilies.aspx?ID=97), these werebats sometimes warn new werebats to avoid such things as direct sunlight in order to confuse monster hunters or lull foes into a false sense of understanding.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-100\" />",
+ "name": "Werebat",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 292</row>\r\n\r\n**Creature Family** [Werecreature](/MonsterFamilies.aspx?ID=100)\r\n\r\n<row gap=\"medium\">\r\n**HP** 35\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +10\r\n\r\n**Will** +7\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWerebats form organized colonies of opportunistic hunters. They aren't shy about transforming creatures to add to their colony, whom they initiate …\r\n</summary>",
+ "sense": "echolocation (precise) 40 feet,  low-light vision ",
+ "sense_markdown": "echolocation (precise) 40 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +6",
+  "Deception +4",
+  "Society +5",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +6, [Deception](/Skills.aspx?ID=5) +4, [Society](/Skills.aspx?ID=14) +5, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 292"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 292</row>",
+ "speed": {
+  "fly": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, fly 25 feet",
+ "speed_raw": "25 feet, fly 25 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Werebats form organized colonies of opportunistic hunters. They aren't shy about transforming creatures to add to their colony, whom they initiate …",
+ "summary_markdown": "Werebats form organized colonies of opportunistic hunters. They aren't shy about transforming creatures to add to their colony, whom they initiate …",
+ "text": " Werebat Werebats form organized colonies of opportunistic hunters. They aren't shy about transforming creatures to add to their colony, whom they initiate with elaborate social ceremonies and bloody hazing. The curse of the werebat gives them a strong urge to prey upon on weaker, lonely creatures. True werebats are often unusually tall and thin, with angular features. In combat, werebats favor their unarmed attacks because they can't fly while wielding weapons in their wings. Recall Knowledge - Beast (Arcana, Nature): DC 16 Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Werebat Source Bestiary 3 pg. 292 Perception +9; echolocation (precise) 40 feet, low-light vision Languages Common; bat empathy Skills Acrobatics +8, Athletics +6, Deception +4, Society +5, Stealth +8 Str +2 Dex +4 Con +3 Int +1 Wis +3 Cha +0 Bat Empathy (divination, primal) A werebat can communicate with bats. Echolocation A werebat can use their hearing as a precise sense at the listed range. Items Dagger (3), studded leather --- AC 18 Fort +9 Ref +10 Will +7 HP 35 Weaknesses silver 5 Wing Thrash Reaction Trigger An adjacent enemy damages the werebat; Effect The werebat makes one or two wing Strikes, each against a different adjacent creature. --- Speed 25 feet, fly 25 feet Melee Single Action fangs +10 (Finesse), Damage 1d8+4 slashing plus curse of the werebat Melee Single Action wing +10 (Agile, Finesse), Damage 1d6+4 bludgeoning Melee Single Action dagger +10 (Agile, Finesse, versatile S), Damage 1d4+4 piercing Ranged Single Action dagger +10 (Agile, thrown 10 feet, versatile S), Damage 1d4+4 piercing Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) Human with fist for 1d4+2 bludgeoning and no fly Speed, or Medium giant bat with Speed 15 feet and fly 30 feet. Curse of the Werebat (Curse, Necromancy, Primal) Saving Throw DC 15 Fortitude Moon Frenzy (Polymorph, Primal, Transmutation) Werebat Colonies Werebats sometimes methodically curse an entire community to form a terrifyingly large werebat colony. In elaborate covert initiation ceremonies, newly cursed members are given shocking proof of their new monstrous nature and sworn to loyalty and secrecy under threat of exposure or death. Since they're easily mistaken for vampires, these werebats sometimes warn new werebats to avoid such things as direct sunlight in order to confuse monster hunters or lull foes into a false sense of understanding. ",
+ "trait": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Werecreature",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Werecreature](/Traits.aspx?ID=243)",
+ "trait_raw": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Werecreature"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1366",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "silver": 5
+ },
+ "weakness_markdown": "[silver](/Equipment.aspx?ID=379) 5",
+ "weakness_raw": " silver  5",
+ "will_save": 7,
+ "wisdom": 3
+}

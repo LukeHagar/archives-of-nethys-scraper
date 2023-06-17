@@ -1,0 +1,101 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 1,
+ "creature_ability": [
+  "Deny Advantage",
+  "Nimble Dodge",
+  "Mobility",
+  "Sneak Attack",
+  "Surprise Attack"
+ ],
+ "creature_family": "Criminals",
+ "creature_family_markdown": "[Criminals](/MonsterFamilies.aspx?ID=182)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-890",
+ "image": [
+  "/Images/NPCs/Burglar_Burglar.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Burglar](/NPCs.aspx?ID=890)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBurglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing traps and other security measures while remaining undetected all the while.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/NPCs/Burglar_Burglar.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Burglar](/NPCs.aspx?ID=890)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 210</row>\n\n**Perception** +10; (11 to find traps) \r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +7, [Society](/Skills.aspx?ID=14) +7, [Stealth](/Skills.aspx?ID=15) +12, [Thievery](/Skills.aspx?ID=17) +12, [Underworld Lore](/Skills.aspx?ID=8) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** +1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Climbing Kit](/Equipment.aspx?ID=14), [Composite Shortbow](/Weapons.aspx?ID=75) (10 arrows), [lesser darkvision elixir](/Equipment.aspx?ID=89), [Leather Armor](/Armor.aspx?ID=4), [Sap](/Weapons.aspx?ID=37), [Thieves' Tools](/Equipment.aspx?ID=58)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 (22 vs. traps)\r\n\r\n**Fort** +7 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +10 \r\n\r\n+1 circumstance to all saves vs. traps\r\n</row>\r\n\r\n**HP** 60\n\n**Deny Advantage** The burglar isn't [flat-footed](/Conditions.aspx?ID=16) to creatures of 4th level or lower that are [hidden](/Conditions.aspx?ID=22), [undetected](/Conditions.aspx?ID=39), flanking, or using surprise attack.<br />**Nimble Dodge** <actions string=\"Reaction\" /> **Trigger** The burglar is targeted with a melee or ranged attack by an attacker it can see; **Effect** The burglar gains a +2 circumstance bonus to AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +14 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+6 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nsap +12 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 1d6+4 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncomposite shortbow +14 ([deadly 1d10](/Traits.aspx?ID=174), [Propulsive](/Traits.aspx?ID=191), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+4 piercing\n\n**Mobility**   When the burglar Strides half their Speed or less, that movement does not trigger reactions.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The burglar deals an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Surprise Attack**   On the first round of combat, if the burglar rolls [Deception](/Skills.aspx?ID=5) or [Stealth](/Skills.aspx?ID=15) for initiative, creatures that haven't acted are [flat-footed](/Conditions.aspx?ID=16) to them.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-182\" />",
+ "name": "Burglar",
+ "npc": true,
+ "perception": 10,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 210</row>\r\n\r\n**Creature Family** [Criminals](/MonsterFamilies.aspx?ID=182)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 21\r\n\r\n**Fort** +7\r\n\r\n**Ref** +12\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBurglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing …\r\n</summary>",
+ "sense": "(11 to find traps) ",
+ "sense_markdown": "(11 to find traps) ",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Athletics +8",
+  "Deception +7",
+  "Society +7",
+  "Stealth +12",
+  "Thievery +12",
+  "Underworld Lore +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +7, [Society](/Skills.aspx?ID=14) +7, [Stealth](/Skills.aspx?ID=15) +12, [Thievery](/Skills.aspx?ID=17) +12, [Underworld Lore](/Skills.aspx?ID=8) +7",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 210"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 210</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Burglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing …",
+ "summary_markdown": "Burglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing …",
+ "text": " Burglar Burglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing traps and other security measures while remaining undetected all the while. Recall Knowledge - Humanoid (Society): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Burglar Source Gamemastery Guide pg. 210 Perception +10; (11 to find traps) Languages Common Skills Acrobatics +10, Athletics +8, Deception +7, Society +7, Stealth +12, Thievery +12, Underworld Lore +7 Str +2 Dex +4 Con +1 Int +1 Wis +2 Cha +1 Items Climbing Kit, Composite Shortbow (10 arrows), lesser darkvision elixir, Leather Armor, Sap, Thieves' Tools --- AC 21 (22 vs. traps) Fort +7 Ref +12 Will +10 +1 circumstance to all saves vs. traps HP 60 Deny Advantage The burglar isn't flat-footed to creatures of 4th level or lower that are hidden, undetected, flanking, or using surprise attack. Nimble Dodge Reaction Trigger The burglar is targeted with a melee or ranged attack by an attacker it can see; Effect The burglar gains a +2 circumstance bonus to AC against the triggering attack. --- Speed 30 feet Melee Single Action shortsword +14 (Agile, Finesse, versatile S), Damage 1d6+6 piercing Melee Single Action sap +12 (Agile, Nonlethal), Damage 1d6+4 bludgeoning Ranged Single Action composite shortbow +14 (deadly 1d10, Propulsive, range increment 60 feet, reload 0), Damage 1d6+4 piercing Mobility When the burglar Strides half their Speed or less, that movement does not trigger reactions. Sneak Attack The burglar deals an extra 1d6 precision damage to flat-footed creatures. Surprise Attack On the first round of combat, if the burglar rolls Deception or Stealth for initiative, creatures that haven't acted are flat-footed to them. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=890",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

@@ -1,0 +1,123 @@
+{
+ "ac": 29,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 6,
+ "creature_ability": [
+  "Berserk",
+  "Golem Antimagic",
+  "Vulnerable to Disintegrate",
+  "Quicken",
+  "Berserk Slam",
+  "Cursed Wound"
+ ],
+ "creature_family": "Golem",
+ "creature_family_markdown": "[Golem](/MonsterFamilies.aspx?ID=57)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-240",
+ "image": [
+  "/Images/Monsters/Golem_ClayGolem.png"
+ ],
+ "immunity": [
+  "acid",
+  "bleed",
+  "death effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "magic (see below)",
+  "mental",
+  "necromancy",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "acid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Clay Golem](/Monsters.aspx?ID=240)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTraditionally, clay golems are crafted in the image of a deity and used as guardians of tombs or sacred crypts. Clay golems have the power to lay curses upon their victims as punishment for intrusion, leading many to believe that these oft-ancient constructs have a touch of the divine to them. While this idea has little basis in reality, superstitious folk still tread lightly around statues that resemble clay golems even in the slightest.\n\n The animating force within a clay golem is unusually unstable, making the golem prone to entering a berserk frenzy when damaged. Entire treasuries have been totally ruined as a result of a rampaging clay golem, so crafters do well to make sure their golems are maintained and in good working order—or otherwise place them on the other side of the door from the treasures they wish to protect.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Golem_ClayGolem.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Clay Golem](/Monsters.aspx?ID=240)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Golem\" url=\"/Traits.aspx?ID=220\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 186</row>\n\n**Perception** +16; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** -1\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 175\n\n**Immunities**\r\nacid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious\r\n\r\n**Resistances**\r\nphysical 10 (except adamantine)\n\n**Berserk** A severely damaged clay golem has a chance of going berserk. If it has 50 or fewer Hit Points at the start of its turn, the golem must succeed at a DC 5 flat check or go berserk. A berserk golem wildly attacks the nearest living creature, or the nearest object if no creatures are nearby.<br /> **Golem Antimagic** harmed by cold and water (5d10, 2d6 from areas or persistent damage); healed by acid (area 2d6 HP); slowed by earth<br /> **Vulnerable to Disintegrate** A [_disintegrate_](/Spells.aspx?ID=76) spell affects the golem but deals half the normal amount of damage and causes the golem to become slowed 2 for 1 round.<br /> **Quicken** <actions string=\"Free Action\" /> ([divine](/Traits.aspx?ID=48), [transmutation](/Traits.aspx?ID=157)) **Frequency** Once per day. **Trigger** The clay golem’s turn begins. It can’t trigger this free action on the first turn of combat. **Effect** The clay golem becomes quickened for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +24 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+12 bludgeoning plus cursed wound\n\n**Berserk Slam** <actions string=\"Single Action\" />  **Requirement** The golem is berserk. **Effect** The clay golem Strikes with its fist at a –1 circumstance penalty. If it hits, it deals an additional 1d8 damage and knocks the target [prone](/Conditions.aspx?ID=31).\r\n\r\n**Cursed Wound**  ([Divine](/Traits.aspx?ID=48), [Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117)) A creature hit by the clay golem’s fist must succeed at a DC 29 Fortitude save or be cursed until healed to its maximum HP. The cursed creature can’t regain HP except via magic, and anyone casting a spell to heal the creature must succeed at a DC 29 counteract check or the healing has no effect. The golem’s counteract level is equal to its creature level.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Clay Golems</title>\r\n\r\nThe remains of clay golems are worth more to archaeologists and scholars than to merchants. The magnificent treasures often guarded by these ancient wardens, however, are another matter entirely.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-57\" />",
+ "name": "Clay Golem",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 16,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10 (except adamantine)",
+ "resistance_raw": "physical 10 (except adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Golem\" url=\"/Traits.aspx?ID=220\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 186</row>\r\n\r\n**Creature Family** [Golem](/MonsterFamilies.aspx?ID=57)\r\n\r\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 29\r\n\r\n**Fort** +23\r\n\r\n**Ref** +16\r\n\r\n**Will** +17\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTraditionally, clay golems are crafted in the image of a deity and used as guardians of tombs or sacred crypts. Clay golems have the power to lay …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +24"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +24",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 186"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 186</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Traditionally, clay golems are crafted in the image of a deity and used as guardians of tombs or sacred crypts. Clay golems have the power to lay …",
+ "summary_markdown": "Traditionally, clay golems are crafted in the image of a deity and used as guardians of tombs or sacred crypts. Clay golems have the power to lay …",
+ "text": " Clay Golem Traditionally, clay golems are crafted in the image of a deity and used as guardians of tombs or sacred crypts. Clay golems have the power to lay curses upon their victims as punishment for intrusion, leading many to believe that these oft-ancient constructs have a touch of the divine to them. While this idea has little basis in reality, superstitious folk still tread lightly around statues that resemble clay golems even in the slightest. The animating force within a clay golem is unusually unstable, making the golem prone to entering a berserk frenzy when damaged. Entire treasuries have been totally ruined as a result of a rampaging clay golem, so crafters do well to make sure their golems are maintained and in good working order—or otherwise place them on the other side of the door from the treasures they wish to protect. Recall Knowledge - Construct (Arcana, Crafting): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Clay Golem Source Bestiary pg. 186 Perception +16; darkvision Languages Skills Athletics +24 Str +6 Dex -1 Con +6 Int -5 Wis +0 Cha -5 --- AC 29 Fort +23 Ref +16 Will +17 HP 175 Immunities acid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances physical 10 (except adamantine) Berserk A severely damaged clay golem has a chance of going berserk. If it has 50 or fewer Hit Points at the start of its turn, the golem must succeed at a DC 5 flat check or go berserk. A berserk golem wildly attacks the nearest living creature, or the nearest object if no creatures are nearby. Golem Antimagic harmed by cold and water (5d10, 2d6 from areas or persistent damage); healed by acid (area 2d6 HP); slowed by earth Vulnerable to Disintegrate A disintegrate spell affects the golem but deals half the normal amount of damage and causes the golem to become slowed 2 for 1 round. Quicken Free Action (divine, transmutation) Frequency Once per day. Trigger The clay golem’s turn begins. It can’t trigger this free action on the first turn of combat. Effect The clay golem becomes quickened for 1 minute. --- Speed 20 feet Melee Single Action fist +24 (Magical, reach 10 feet), Damage 2d10+12 bludgeoning plus cursed wound Berserk Slam Single Action Requirement The golem is berserk. Effect The clay golem Strikes with its fist at a –1 circumstance penalty. If it hits, it deals an additional 1d8 damage and knocks the target prone. Cursed Wound (Divine, Curse, Necromancy) A creature hit by the clay golem’s fist must succeed at a DC 29 Fortitude save or be cursed until healed to its maximum HP. The cursed creature can’t regain HP except via magic, and anyone casting a spell to heal the creature must succeed at a DC 29 counteract check or the healing has no effect. The golem’s counteract level is equal to its creature level. Clay Golems The remains of clay golems are worth more to archaeologists and scholars than to merchants. The magnificent treasures often guarded by these ancient wardens, however, are another matter entirely. ",
+ "trait": [
+  "Construct",
+  "Golem",
+  "Mindless",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Golem](/Traits.aspx?ID=220), [Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Construct",
+  "Golem",
+  "Mindless",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=240",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 0
+}

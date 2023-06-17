@@ -1,0 +1,103 @@
+{
+ "ac": 17,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 1,
+ "creature_ability": [
+  "Wild Empathy",
+  "Roiling Mind",
+  "Demonic Strength"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-2006",
+ "intelligence": 1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"\">[Corrupted Priest](/NPCs.aspx?ID=2006)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Corrupted Priest](/NPCs.aspx?ID=2006)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 39</row>\n\n**Perception** +11\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Diplomacy](/Skills.aspx?ID=6) +7, [Gozreh Lore](/Skills.aspx?ID=8) +8, [Nature](/Skills.aspx?ID=10) +9, [Religion](/Skills.aspx?ID=13) +9, [Survival](/Skills.aspx?ID=16) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +0\r\n\r\n**Con** +1\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Wild Empathy** The corrupted priest can use [Diplomacy](/Skills.aspx?ID=6) to [Make an Impression](/Actions.aspx?ID=50) on [animals](/Traits.aspx?ID=9) and to make very simple [Requests](/Actions.aspx?ID=51) of them.\r\n\r\n**Items**\r\n[Leather Armor](/Armor.aspx?ID=4), gray robes, [Trident](/Weapons.aspx?ID=45), wooden [religious symbol](/Equipment.aspx?ID=41) of [Gozreh](/Deities.aspx?ID=8) defaced with demonic runes\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 45\n\n**Roiling Mind** <actions string=\"Reaction\" /> **Trigger** The corrupted priest is targeted by an effect with the [mental](/Traits.aspx?ID=106) trait or that requires a Will save; **Effect** The hermit's mind is a storm of chaos due to demonic influences. The creator of the triggering effect takes 3d8 mental damage (DC 20 [basic](/Rules.aspx?ID=329) Will save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntrident +10 ([fatal d10](/Traits.aspx?ID=178), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d8+1 piercing\r\n\r\n**Primal Prepared Spells** DC 20, spell attack +12\r\n- **Cantrips (2nd)**\r\n[Light](/Spells.aspx?ID=171), [Produce Flame](/Spells.aspx?ID=236), [Stabilize](/Spells.aspx?ID=307), [Tanglefoot](/Spells.aspx?ID=330)\r\n- **1st**\r\n[Fear](/Spells.aspx?ID=110), [Heal](/Spells.aspx?ID=148), [Spider Sting](/Spells.aspx?ID=300), [Summon Animal](/Spells.aspx?ID=316)\r\n- **2nd**\r\n[Barkskin](/Spells.aspx?ID=20), [Flaming Sphere](/Spells.aspx?ID=121), [Summon Elemental](/Spells.aspx?ID=320)\r\n\r\n**Demonic Strength**   Corrupted priests deal an extra 1d8 damage with their tridents, and any trident gains the [fatal d10](/Traits.aspx?ID=178) trait while the priest is using it (both the extra weapon damage die and the fatal trait have already been included above).\r\n\r\n</column>",
+ "name": "Corrupted Priest",
+ "npc": true,
+ "perception": 11,
+ "rarity": "unique",
+ "reflex_save": 5,
+ "release_date": "2020-01-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 39</row>\n\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 17\r\n\r\n**Fort** +8\r\n\r\n**Ref** +5\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Diplomacy +7",
+  "Gozreh Lore +8",
+  "Nature +9",
+  "Religion +9",
+  "Survival +9"
+ ],
+ "skill_markdown": "[Diplomacy](/Skills.aspx?ID=6) +7, [Gozreh Lore](/Skills.aspx?ID=8) +8, [Nature](/Skills.aspx?ID=10) +9, [Religion](/Skills.aspx?ID=13) +9, [Survival](/Skills.aspx?ID=16) +9",
+ "source": [
+  "Pathfinder #151: The Show Must Go On"
+ ],
+ "source_raw": [
+  "Pathfinder #151: The Show Must Go On pg. 39"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 39</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Barkskin",
+  "Flaming Sphere",
+  "Summon Elemental",
+  "Fear",
+  "Heal",
+  "Spider Sting",
+  "Summon Animal",
+  "Light",
+  "Produce Flame",
+  "Stabilize",
+  "Tanglefoot"
+ ],
+ "spell_markdown": "[Barkskin](/Spells.aspx?ID=20), [Fear](/Spells.aspx?ID=110), [Flaming Sphere](/Spells.aspx?ID=121), [Heal](/Spells.aspx?ID=148), [Light](/Spells.aspx?ID=171), [Produce Flame](/Spells.aspx?ID=236), [Spider Sting](/Spells.aspx?ID=300), [Stabilize](/Spells.aspx?ID=307), [Summon Animal](/Spells.aspx?ID=316), [Summon Elemental](/Spells.aspx?ID=320), [Tanglefoot](/Spells.aspx?ID=330)",
+ "spoilers": "Extinction Curse",
+ "strength": 1,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Corrupted Priest Recall Knowledge - Humanoid (Society): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Corrupted Priest Source Pathfinder #151: The Show Must Go On pg. 39 Perception +11 Languages Common Skills Diplomacy +7, Gozreh Lore +8, Nature +9, Religion +9, Survival +9 Str +1 Dex +0 Con +1 Int +1 Wis +4 Cha +2 Wild Empathy The corrupted priest can use Diplomacy to Make an Impression on animals and to make very simple Requests of them. Items Leather Armor, gray robes, Trident, wooden religious symbol of Gozreh defaced with demonic runes --- AC 17 Fort +8 Ref +5 Will +11 HP 45 Roiling Mind Reaction Trigger The corrupted priest is targeted by an effect with the mental trait or that requires a Will save; Effect The hermit's mind is a storm of chaos due to demonic influences. The creator of the triggering effect takes 3d8 mental damage (DC 20 basic Will save). --- Speed 25 feet Melee Single Action trident +10 (fatal d10, thrown 20 feet), Damage 2d8+1 piercing Primal Prepared Spells DC 20, spell attack +12 - Cantrips (2nd) Light, Produce Flame, Stabilize, Tanglefoot - 1st Fear, Heal, Spider Sting, Summon Animal - 2nd Barkskin, Flaming Sphere, Summon Elemental Demonic Strength Corrupted priests deal an extra 1d8 damage with their tridents, and any trident gains the fatal d10 trait while the priest is using it (both the extra weapon damage die and the fatal trait have already been included above). ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Unique",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2006",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 4
+}

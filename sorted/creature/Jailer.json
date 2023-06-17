@@ -1,0 +1,94 @@
+{
+ "ac": 20,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 1,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Efficient Capture",
+  "Intimidating Strike",
+  "Subdue Prisoners"
+ ],
+ "creature_family": "Officers",
+ "creature_family_markdown": "[Officers](/MonsterFamilies.aspx?ID=192)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-935",
+ "image": [
+  "/Images/NPCs/Officer_Jailer.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Jailer](/NPCs.aspx?ID=935)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA jailer's primary responsibility is to keep prisoners from escaping. Jailers must often use force, or the threat of force, to keep their charges in line, as even the most carefully crafted cells, manacles, or chains can fail with time and persistence when the prisoners have the will to attempt an escape.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/NPCs/Officer_Jailer.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Jailer](/NPCs.aspx?ID=935)</title>\r\n\r\n<traits>\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 233</row>\n\n**Perception** +9; (10 to find concealed objects) \r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11, [Diplomacy](/Skills.aspx?ID=6) +5, [Intimidation](/Skills.aspx?ID=7) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Club](/Weapons.aspx?ID=2), [Crossbow](/Weapons.aspx?ID=67) (20 bolts), keyring, [simple manacles](/Equipment.aspx?ID=32), [Signal Whistle](/Equipment.aspx?ID=50), [Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 45\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclub +11,\r\n**Damage** 1d6+8 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncrossbow +10 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d8+4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nclub +10 ([thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+6 bludgeoning\n\n**Efficient Capture** <actions string=\"Three Actions\" /> ([Attack](/Traits.aspx?ID=15), [Manipulate](/Traits.aspx?ID=104)) **Requirements** The jailer has [manacles](/Equipment.aspx?ID=32) in hand and is adjacent to a creature; **Effect** The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles.\r\n\r\n**Intimidating Strike** <actions string=\"Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Fighter](/Traits.aspx?ID=71), [Mental](/Traits.aspx?ID=106)) The jailer makes a melee Strike. If it hits and deals damage, the target is [frightened 1](/Conditions.aspx?ID=19), or frightened 2 on a critical hit.\r\n\r\n**Subdue Prisoners**   The jailer doesn't take the normal penalty for making a [nonlethal](/Traits.aspx?ID=188) attack when attacking with their club.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-192\" />",
+ "name": "Jailer",
+ "npc": true,
+ "perception": 9,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 233</row>\r\n\r\n**Creature Family** [Officers](/MonsterFamilies.aspx?ID=192)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 20\r\n\r\n**Fort** +8\r\n\r\n**Ref** +10\r\n\r\n**Will** +7\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA jailer's primary responsibility is to keep prisoners from escaping. Jailers must often use force, or the threat of force, to keep their charges in …\r\n</summary>",
+ "sense": "(10 to find concealed objects) ",
+ "sense_markdown": "(10 to find concealed objects) ",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +11",
+  "Diplomacy +5",
+  "Intimidation +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11, [Diplomacy](/Skills.aspx?ID=6) +5, [Intimidation](/Skills.aspx?ID=7) +7",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 233"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 233</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A jailer's primary responsibility is to keep prisoners from escaping. Jailers must often use force, or the threat of force, to keep their charges in …",
+ "summary_markdown": "A jailer's primary responsibility is to keep prisoners from escaping. Jailers must often use force, or the threat of force, to keep their charges in …",
+ "text": " Jailer A jailer's primary responsibility is to keep prisoners from escaping. Jailers must often use force, or the threat of force, to keep their charges in line, as even the most carefully crafted cells, manacles, or chains can fail with time and persistence when the prisoners have the will to attempt an escape. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Jailer Source Gamemastery Guide pg. 233 Perception +9; (10 to find concealed objects) Languages Common Skills Athletics +11, Diplomacy +5, Intimidation +7 Str +4 Dex +3 Con +1 Int +0 Wis +2 Cha +0 Items Club, Crossbow (20 bolts), keyring, simple manacles, Signal Whistle, Studded Leather Armor --- AC 20 Fort +8 Ref +10 Will +7 HP 45 Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action club +11, Damage 1d6+8 bludgeoning Ranged Single Action crossbow +10 (range increment 120 feet, reload 1), Damage 1d8+4 piercing Ranged Single Action club +10 (thrown 10 feet), Damage 1d6+6 bludgeoning Efficient Capture Three Actions (Attack, Manipulate) Requirements The jailer has manacles in hand and is adjacent to a creature; Effect The jailer attempts to bind the creature's wrists or ankles with the manacles. If the jailer succeeds at an attack roll with a +9 modifier against the target's AC, they apply the manacles. Intimidating Strike Two Actions (Emotion, Fear, Fighter, Mental) The jailer makes a melee Strike. If it hits and deals damage, the target is frightened 1, or frightened 2 on a critical hit. Subdue Prisoners The jailer doesn't take the normal penalty for making a nonlethal attack when attacking with their club. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "LN",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=935",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 2
+}

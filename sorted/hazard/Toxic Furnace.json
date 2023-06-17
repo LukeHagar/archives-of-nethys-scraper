@@ -1,0 +1,58 @@
+{
+ "ac": 24,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 25  Thievery  (trained) to render one of the vents useless, or DC 25  Athletics  to wrench and bend a vent until it no longer functions",
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hardness": 10,
+ "hardness_raw": "10 Vent Hardness",
+ "hazard_type": "Trap",
+ "hp": 18,
+ "hp_raw": "18 (BT 9); <b>Furnace Hardness</b> 15, <b>Furnace HP</b> 56 (BT 28)",
+ "id": "hazard-256",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 6,
+ "markdown": "<title level=\"1\" right=\"Hazard 6\" pfs=\"\">[Toxic Furnace](/Hazards.aspx?ID=256)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 84</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThe smoking furnace begins to hiss and click, and its vents swivel and adjust to spew toxic fumes in the direction of intruders.\r\n\r\n---\r\n\r\n**Stealth**\r\n+15 (expert)\r\n\r\n**Disable**\r\nDC 25 [Thievery](/Skills.aspx?ID=17) (trained) to render one of the vents useless, or DC 25 [Athletics](/Skills.aspx?ID=3) to wrench and bend a vent until it no longer functions\n\n<column gap=\"tiny\">\r\n\r\n**AC** 24, **Fort** +17, **Ref** +11\r\n\r\n**Vent Hardness**\r\n10\r\n\r\n**Vent HP**\r\n18 (BT 9); **Furnace Hardness** 15, **Furnace HP** 56 (BT 28)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Spew Toxins** <actions string=\"Reaction\" /> **Trigger** A visible living creature enters the room, or a Stealthy creature fails to remain [hidden](/Conditions.aspx?ID=22) from the toxic furnace with a DC 25 [Stealth](/Skills.aspx?ID=15) check (the trap's sensors have [darkvision](/MonsterAbilities.aspx?ID=12) and [lifesense](/MonsterAbilities.aspx?ID=21)); **Effect** One of the toxic furnace's vents swivels to aim at the triggering creature and then spews a gout of boiling toxin at the target. The toxic furnace then rolls initiative.\n\n---\r\n**Routine**\r\n(3 actions) The trap loses 1 action for each disabled vent. On each of the trap's actions, a vent spews a gout of boiling toxin at a living creature in sight of it. It can't target a single creature more than once per round, so if there aren't enough viable targets for all 3 actions, the trap loses those unspent actions.\n\n **Ranged** boiling toxin +17 ([range 30 feet](/Traits.aspx?ID=248)), **Damage** 1d6 acid, 2d6 fire, and 2d6 poison\r\n\r\n---\r\n**Reset**\r\nThe trap resets after 1 minute, during which it sees no creatures to target.",
+ "name": "Toxic Furnace",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2022-10-26",
+ "reset": "The trap resets after 1 minute, during which it sees no creatures to target.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 84</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe smoking furnace begins to hiss and click, and its vents swivel and adjust to spew toxic fumes in the direction of intruders.\r\n</summary>",
+ "source": [
+  "Crown of the Kobold King"
+ ],
+ "source_raw": [
+  "Crown of the Kobold King pg. 84"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Crown of the Kobold King",
+ "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 84</row>",
+ "speed": {},
+ "stealth": "+15 (expert)",
+ "summary": "The smoking furnace begins to hiss and click, and its vents swivel and adjust to spew toxic fumes in the direction of intruders.",
+ "summary_markdown": "The smoking furnace begins to hiss and click, and its vents swivel and adjust to spew toxic fumes in the direction of intruders.",
+ "text": " Toxic Furnace Source Crown of the Kobold King pg. 84 Complexity Complex The smoking furnace begins to hiss and click, and its vents swivel and adjust to spew toxic fumes in the direction of intruders. --- Stealth +15 (expert) Disable DC 25 Thievery (trained) to render one of the vents useless, or DC 25 Athletics to wrench and bend a vent until it no longer functions AC 24, Fort +17, Ref +11 Vent Hardness 10 Vent HP 18 (BT 9); Furnace Hardness 15, Furnace HP 56 (BT 28) Immunities critical hits, object immunities, precision damage Spew Toxins Reaction Trigger A visible living creature enters the room, or a Stealthy creature fails to remain hidden from the toxic furnace with a DC 25 Stealth check (the trap's sensors have darkvision and lifesense); Effect One of the toxic furnace's vents swivels to aim at the triggering creature and then spews a gout of boiling toxin at the target. The toxic furnace then rolls initiative. --- Routine (3 actions) The trap loses 1 action for each disabled vent. On each of the trap's actions, a vent spews a gout of boiling toxin at a living creature in sight of it. It can't target a single creature more than once per round, so if there aren't enough viable targets for all 3 actions, the trap loses those unspent actions. Ranged boiling toxin +17 (range 30 feet), Damage 1d6 acid, 2d6 fire, and 2d6 poison --- Reset The trap resets after 1 minute, during which it sees no creatures to target.",
+ "trait": [
+  "Complex",
+  "Magical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Magical](/Traits.aspx?ID=103), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Magical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=256",
+ "weakness": {}
+}

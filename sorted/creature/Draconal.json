@@ -1,0 +1,131 @@
+{
+ "ac": 45,
+ "alignment": "NG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 9,
+ "constitution": 8,
+ "creature_ability": [
+  "Dragon's Salvation",
+  "Breath Weapon",
+  "Dragon's Wisdom"
+ ],
+ "creature_family": "Agathion",
+ "creature_family_markdown": "[Agathion](/MonsterFamilies.aspx?ID=216)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 34,
+ "hp": 370,
+ "hp_raw": "370",
+ "id": "creature-1058",
+ "image": [
+  "/Images/Monsters/Agathion_Draconal.png"
+ ],
+ "intelligence": 8,
+ "language": [
+  "Celestial",
+  "Draconic",
+  "Infernal",
+  "<%SPELLS%293%%><i>speak with animals</i><%END>, <%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); [_speak with animals_](/Spells.aspx?ID=293), [_tongues_](/Spells.aspx?ID=340)",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Draconal (Dragon Agathion)](/Monsters.aspx?ID=1058)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDragon agathions, known as draconals, number among the most powerful of their kin, and also the wisest, embodying the wisdom of the benevolent philosopher-king. With their wisdom comes an elevation above material matters, making them the most removed from the troubles and lives of mortals. Draconals serve as the guardians of powerful magic, and they dispense their wisdom in service of the greater good of [Nirvana](/Planes.aspx?ID=20) and the celestial planes.\n\n Draconals appear more draconic than humanoid. They walk on their hind legs and balance on their long, serpent like tails. Sharp claws tip their scaled humanoid hands.\n\n Similar to true dragons, a draconal's coloration signifies different breath weapons, traits, and resistances. Draconals also choose spells from one of four domains. All have the options of the [air](/Domains.aspx?ID=2) and [healing](/Domains.aspx?ID=15) domains, but their color determines the other two. Black draconals breathe and are resistant to fire, and their additional domain options are [fire](/Domains.aspx?ID=13) and [luck](/Domains.aspx?ID=18). Red draconals have the same fire breath and resistance, but their additional domain options are [protection](/Domains.aspx?ID=27) and [sun](/Domains.aspx?ID=29). Green and white draconals breathe and are resistant to cold, but green draconals have the options of [nature](/Domains.aspx?ID=22) and [water](/Domains.aspx?ID=35) domains while white draconals have the options of [freedom](/Domains.aspx?ID=14) and [repose](/Domains.aspx?ID=49). Yellow draconals breathe and are resistant to acid, and their additional domain options are [earth](/Domains.aspx?ID=10) and [luck](/Domains.aspx?ID=18).\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Celestial](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Agathion_Draconal.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Draconal](/Monsters.aspx?ID=1058)</title>\r\n\r\n<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Agathion\" url=\"/Traits.aspx?ID=349\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=23\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 12</row>\n\n**Perception** +36; [darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); [_speak with animals_](/Spells.aspx?ID=293), [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +38, [Crafting](/Skills.aspx?ID=4) +30, [Deception](/Skills.aspx?ID=5) +35, [Diplomacy](/Skills.aspx?ID=6) +37, [Intimidation](/Skills.aspx?ID=7) +35, [Medicine](/Skills.aspx?ID=9) +34, [Nature](/Skills.aspx?ID=10) +34, [Nirvana Lore](/Skills.aspx?ID=8) +36, [Religion](/Skills.aspx?ID=13) +36, [Society](/Skills.aspx?ID=14) +32, [Survival](/Skills.aspx?ID=16) +32\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +5\r\n\r\n**Con** +8\r\n\r\n**Int** +8\r\n\r\n**Wis** +10\r\n\r\n**Cha** +9\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 45 \r\n\r\n**Fort** +34 \r\n\r\n**Ref** +31 \r\n\r\n**Will** +38 \r\n\r\n[_circle of protection_](/Spells.aspx?ID=38)\r\n</row>\r\n\r\n**HP** 370\r\n\r\n, regeneration 20 (deactivated by evil)\n\n**Resistances**\r\nfire 15\r\n\r\n**Weaknesses**\r\nevil 15\r\n\r\n**Dragon's Salvation** <actions string=\"Reaction\" /> **Trigger** A creature within the draconal's reach would take damage; **Effect** Before applying the damage, the draconal casts [_lay on hands_](/Spells.aspx?ID=395) on the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 90 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +38 ([Good](/Traits.aspx?ID=83), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+18 piercing plus 1d6 good plus 4d6 fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +38 ([Agile](/Traits.aspx?ID=170), [Good](/Traits.aspx?ID=83), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+18 slashing plus 1d6 good plus 4d6 fire\r\n\r\n**Divine Innate Spells** DC 46, attack +38\r\n- **9th**\r\n[Breath of Life](/Spells.aspx?ID=29), [Dispel Magic](/Spells.aspx?ID=78), [Divine Decree](/Spells.aspx?ID=82), [Earthquake](/Spells.aspx?ID=95), [Heal](/Spells.aspx?ID=148) (×3), [Implosion](/Spells.aspx?ID=162), [Storm of Vengeance](/Spells.aspx?ID=313)\r\n- **10th**\r\n[Miracle](/Spells.aspx?ID=196)\r\n- **Constant (7th)**\r\n[Circle of Protection](/Spells.aspx?ID=38), [Speak with Animals](/Spells.aspx?ID=293), [Tongues](/Spells.aspx?ID=340), [True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Champion Focus Spell** DC 46, 3 Focus Points\r\n- **10th**\r\n[Dazzling Flash](/Spells.aspx?ID=412), [Lay on Hands](/Spells.aspx?ID=395), [Protector's Sphere](/Spells.aspx?ID=442)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65)) The draconal breathes a blast of energy that deals 21d6 fire damage to creatures they choose to damage in a 60-foot cone (DC 44 basic Reflex save). They can make this effect [nonlethal](/Traits.aspx?ID=188) for selected creatures in the area or choose not to damage certain creatures at all. They can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Dragon's Wisdom**   Draconals embody the core value of wisdom, but every path to wisdom and enlightenment differs, so draconals' powers vary by temperament and coloration. A draconal's scale color determines their associated energy damage type. They gain resistance 15 to that damage type, deal 4d6 extra damage of that type with their Strikes, and deal 21d6 damage of that type with their breath weapon. They gain additional wisdom in the form of the basic and advanced domain spells from one domain, chosen from four domains available to draconals with their scale color. This red draconal has the [protection](/Domains.aspx?ID=27) and [sun](/Domains.aspx?ID=29) domains.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-216\" />",
+ "name": "Draconal",
+ "npc": false,
+ "perception": 36,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 31,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "fire": 15
+ },
+ "resistance_markdown": "fire 15",
+ "resistance_raw": "fire 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Agathion\" url=\"/Traits.aspx?ID=349\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=23\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 12</row>\r\n\r\n**Creature Family** [Agathion](/MonsterFamilies.aspx?ID=216)\r\n\r\n<row gap=\"medium\">\r\n**HP** 370\r\n\r\n**AC** 45\r\n\r\n**Fort** +34\r\n\r\n**Ref** +31\r\n\r\n**Will** +38\r\n\r\n**Perception** +36\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDragon agathions, known as draconals, number among the most powerful of their kin, and also the wisest, embodying the wisdom of the benevolent …\r\n</summary>",
+ "sense": " darkvision ,   true seeing  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Arcana +38",
+  "Crafting +30",
+  "Deception +35",
+  "Diplomacy +37",
+  "Intimidation +35",
+  "Medicine +34",
+  "Nature +34",
+  "Nirvana Lore +36",
+  "Religion +36",
+  "Society +32",
+  "Survival +32"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +38, [Crafting](/Skills.aspx?ID=4) +30, [Deception](/Skills.aspx?ID=5) +35, [Diplomacy](/Skills.aspx?ID=6) +37, [Intimidation](/Skills.aspx?ID=7) +35, [Medicine](/Skills.aspx?ID=9) +34, [Nature](/Skills.aspx?ID=10) +34, [Nirvana Lore](/Skills.aspx?ID=8) +36, [Religion](/Skills.aspx?ID=13) +36, [Society](/Skills.aspx?ID=14) +32, [Survival](/Skills.aspx?ID=16) +32",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 12"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 12</row>",
+ "speed": {
+  "fly": 90,
+  "land": 30,
+  "max": 90
+ },
+ "speed_markdown": "30 feet, fly 90 feet",
+ "speed_raw": "30 feet, fly 90 feet",
+ "spell": [
+  "Miracle",
+  "Breath of Life",
+  "Dispel Magic",
+  "Divine Decree",
+  "Earthquake",
+  "Heal",
+  "Implosion",
+  "Storm of Vengeance",
+  "Circle of Protection",
+  "Speak with Animals",
+  "Tongues",
+  "True Seeing",
+  "Dazzling Flash",
+  "Lay on Hands",
+  "Protector's Sphere"
+ ],
+ "spell_markdown": "[Breath of Life](/Spells.aspx?ID=29), [Circle of Protection](/Spells.aspx?ID=38), [Dazzling Flash](/Spells.aspx?ID=412), [Dispel Magic](/Spells.aspx?ID=78), [Divine Decree](/Spells.aspx?ID=82), [Earthquake](/Spells.aspx?ID=95), [Heal](/Spells.aspx?ID=148), [Implosion](/Spells.aspx?ID=162), [Lay on Hands](/Spells.aspx?ID=395), [Miracle](/Spells.aspx?ID=196), [Protector's Sphere](/Spells.aspx?ID=442), [Speak with Animals](/Spells.aspx?ID=293), [Storm of Vengeance](/Spells.aspx?ID=313), [Tongues](/Spells.aspx?ID=340), [True Seeing](/Spells.aspx?ID=344)",
+ "strength": 10,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Dragon agathions, known as draconals, number among the most powerful of their kin, and also the wisest, embodying the wisdom of the benevolent …",
+ "summary_markdown": "Dragon agathions, known as draconals, number among the most powerful of their kin, and also the wisest, embodying the wisdom of the benevolent …",
+ "text": " Draconal (Dragon Agathion) Dragon agathions, known as draconals, number among the most powerful of their kin, and also the wisest, embodying the wisdom of the benevolent philosopher-king. With their wisdom comes an elevation above material matters, making them the most removed from the troubles and lives of mortals. Draconals serve as the guardians of powerful magic, and they dispense their wisdom in service of the greater good of Nirvana and the celestial planes. Draconals appear more draconic than humanoid. They walk on their hind legs and balance on their long, serpent like tails. Sharp claws tip their scaled humanoid hands. Similar to true dragons, a draconal's coloration signifies different breath weapons, traits, and resistances. Draconals also choose spells from one of four domains. All have the options of the air and healing domains, but their color determines the other two. Black draconals breathe and are resistant to fire, and their additional domain options are fire and luck. Red draconals have the same fire breath and resistance, but their additional domain options are protection and sun. Green and white draconals breathe and are resistant to cold, but green draconals have the options of nature and water domains while white draconals have the options of freedom and repose. Yellow draconals breathe and are resistant to acid, and their additional domain options are earth and luck. Recall Knowledge - Celestial (Religion): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Draconal Source Bestiary 3 pg. 12 Perception +36; darkvision, true seeing Languages Celestial, Draconic, Infernal; speak with animals , tongues Skills Arcana +38, Crafting +30, Deception +35, Diplomacy +37, Intimidation +35, Medicine +34, Nature +34, Nirvana Lore +36, Religion +36, Society +32, Survival +32 Str +10 Dex +5 Con +8 Int +8 Wis +10 Cha +9 --- AC 45 Fort +34 Ref +31 Will +38 circle of protection HP 370 , regeneration 20 (deactivated by evil) Resistances fire 15 Weaknesses evil 15 Dragon's Salvation Reaction Trigger A creature within the draconal's reach would take damage; Effect Before applying the damage, the draconal casts lay on hands on the triggering creature. --- Speed 30 feet, fly 90 feet Melee Single Action jaws +38 (Good, Magical, reach 15 feet), Damage 3d12+18 piercing plus 1d6 good plus 4d6 fire Melee Single Action claw +38 (Agile, Good, Magical, reach 10 feet), Damage 3d8+18 slashing plus 1d6 good plus 4d6 fire Divine Innate Spells DC 46, attack +38 - 9th Breath of Life, Dispel Magic, Divine Decree, Earthquake, Heal (×3), Implosion, Storm of Vengeance - 10th Miracle - Constant (7th) Circle of Protection, Speak with Animals, Tongues, True Seeing Champion Focus Spell DC 46, 3 Focus Points - 10th Dazzling Flash, Lay on Hands, Protector's Sphere Breath Weapon Two Actions (Divine, Evocation) The draconal breathes a blast of energy that deals 21d6 fire damage to creatures they choose to damage in a 60-foot cone (DC 44 basic Reflex save). They can make this effect nonlethal for selected creatures in the area or choose not to damage certain creatures at all. They can't use Breath Weapon again for 1d4 rounds. Dragon's Wisdom Draconals embody the core value of wisdom, but every path to wisdom and enlightenment differs, so draconals' powers vary by temperament and coloration. A draconal's scale color determines their associated energy damage type. They gain resistance 15 to that damage type, deal 4d6 extra damage of that type with their Strikes, and deal 21d6 damage of that type with their breath weapon. They gain additional wisdom in the form of the basic and advanced domain spells from one domain, chosen from four domains available to draconals with their scale color. This red draconal has the protection and sun domains. ",
+ "trait": [
+  "Agathion",
+  "Celestial",
+  "NG",
+  "Large"
+ ],
+ "trait_markdown": "[Agathion](/Traits.aspx?ID=349), [Celestial](/Traits.aspx?ID=23)",
+ "trait_raw": [
+  "Agathion",
+  "Celestial"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1058",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "evil": 15
+ },
+ "weakness_markdown": "evil 15",
+ "weakness_raw": "evil 15",
+ "will_save": 38,
+ "wisdom": 10
+}

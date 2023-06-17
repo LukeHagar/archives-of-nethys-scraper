@@ -1,0 +1,108 @@
+{
+ "ac": 36,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Exoskeletal Armory",
+  "Ship Armor",
+  "Capsize",
+  "Move Home",
+  "Pressurize Claw",
+  "Release Claw"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 26,
+ "hp": 200,
+ "hp_raw": "200 (Hardness 10)",
+ "id": "creature-1741",
+ "image": [
+  "/Images/Monsters/Tehialai.png"
+ ],
+ "intelligence": 4,
+ "language": [
+  "Aquan",
+  "Okaiyan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Okaiyan](/Languages.aspx?ID=99)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tehialai-Thief-Of-Ships](/Monsters.aspx?ID=1741)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThough her current form is but a small and pale shell of her former glory, Tehialai is a legend even in her waning days. The titanic crustacean wears the hulls of ruined ships as her shell, ripped into shape by vessel-rending claws, as nothing else in Golarion's oceans is large enough to shield her body—or perhaps nothing else will satisfy her. Few ships can withstand her might, and fewer still are prepared for her appearance. Those who don't know of the thief of ships won't know to watch for her coming, and those who do know Tehialai offer her tribute to ward off her predation.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Tehialai.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Tehialai-Thief-Of-Ships](/Monsters.aspx?ID=1741)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Monsters of Myth](/Sources.aspx?ID=107) pg. 106</row>\n\n**Perception** +26; [darkvision](/MonsterAbilities.aspx?ID=12), [wavesense](/MonsterAbilities.aspx?ID=41) 60\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Okaiyan](/Languages.aspx?ID=99)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +28, [Ocean Lore](/Skills.aspx?ID=8) +30, [Stealth](/Skills.aspx?ID=15) +24, [Survival](/Skills.aspx?ID=16) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** +4\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Exoskeletal Armory** At the beginning of each day, Tehialai can molt to change the morph of her two massive striking claws. She chooses two morphs (see below) and adds their Strikes and Release Claw effects to the stat block presented here. Tehialai can molt two different claws or two copies of the same claw.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 (32 when ship armor is broken)\r\n\r\n**Fort** +26 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +23 \r\n\r\n+2 status to all saves vs. [water](/Traits.aspx?ID=165)\r\n</row>\r\n\r\n**HP** 200\r\n(Hardness 10)\n\n**Resistances**\r\nship armor\n\n**Ship Armor** Tehialai hides within a shell made of all the ships she has stolen. This ship armor reduces any damage Tehialai takes by an amount equal to its Hardness. Once Tehialai is reduced to fewer than half her Hit Points, or immediately upon being damaged by a critical hit, her ship armor breaks, removing her Hardness and reducing her Armor Class to 32.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, swim 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandibles +27 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+10 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nwater spit +25 ([Magical](/Traits.aspx?ID=103), [range 120 feet](/Traits.aspx?ID=248), [Water](/Traits.aspx?ID=165)),\r\n**Damage** 4d6+10 piercing\n\n**Capsize** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Tehialai attempts to capsize an aquatic vessel of her size or smaller that she's adjacent to. She must succeed at an [Athletics](/Skills.aspx?ID=3) check with a DC of 33 (reduced by 5 for each size smaller the vessel is) or the pilot's [Sailing Lore](/Skills.aspx?ID=8) DC, whichever is higher.\r\n\r\n**Move Home** <actions string=\"Three Actions\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** Tehialai is adjacent to a broken ship, and her ship armor is broken; **Effect** Tehialai claims nearby ship pieces to rebuild her home. She destroys the adjacent ship and rebuilds her ship armor, restoring her Hardness and increasing her AC back to 36.\r\n\r\n**Pressurize Claw** <actions string=\"Single Action\" />  **Requirements** Tehialai's claw isn't currently Pressurized; **Effect** Tehialai draws water into the base of one of her claws, building immense hydraulic pressure as she prepares to attack. The claw remains loaded until she Releases that Claw or 1 minute has passed, whichever comes first. While the claw is Pressurized, Tehialai can't use that claw to Strike. If Tehialai isn't at least partially within a body of water when she Pressurizes her Claw, she takes a –2 penalty to any attack rolls and DCs when she Releases that Claw.\r\n\r\n**Release Claw** <actions string=\"Single Action\" />  **Requirements** Tehialai has Pressurized a Claw; **Effect** Tehialai lashes out with the force of the sea. See each claw for its released effect; the DC for any effect is 33. After Releasing a Claw, the claw depressurizes\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Tehialai's Exoskeletal Armory</title>\r\n\r\n_Upon Receding Tide_ notes several weapons Tehialai has refined in her predations on the ships of the Okaiyo Ocean. The least terrible ones are detailed below.\n\n **Barbed Spear** This long claw comes to a fine point, with barbs that can grip onto flesh and cloth alike.<br /> **Melee** <actions string=\"Single Action\" /> barbed spear +27 ([magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)), **Damage** 4d8+12 piercing<br /> **Release Claw** <actions string=\"Single Action\" /> Tehialai's spear shoots out, impaling prey and reeling them back. All creatures in a 40-foot line take 8d6 piercing damage ([basic](/Rules.aspx?ID=329) Reflex save); creatures that critically fail are [grabbed](/Conditions.aspx?ID=20) until the end of Tehialai's next turn.\n\n **Boiling Club** The head of this short, blunt claw has a pattern not unlike a human face.<br /> **Melee** <actions string=\"Single Action\" /> boiling club +25 ([magical](/Traits.aspx?ID=103), [reach 5 feet](/Traits.aspx?ID=192)), **Damage** 4d12+12 bludgeoning plus 1d6 fire<br /> **Release Claw** <actions string=\"Single Action\" /> ([fire](/Traits.aspx?ID=72), [sonic](/Traits.aspx?ID=147)) The impact of Tehialai's claw begets a burning vacuum. Tehialai makes a boiling club Strike against one target within 15 feet. If she hits, a shock wave booms out, dealing 3d6 fire damage and 3d6 sonic damage to all creatures except her within 15 feet of the target, including the target itself ([basic](/Rules.aspx?ID=329) Fortitude save). If the Strike was a critical hit, the target uses the degree of success one lower than it rolled on its save. Unlike most fire abilities, this ability can be used underwater, and the typical 5 fire resistance for being underwater doesn't apply.\n\n **Salt Darts** A cluster of jagged salt crystals break off and regrow constantly as they draw salinity from the sea.<br /> **Ranged** <actions string=\"Single Action\" /> salt dart +26 ([magical](/Traits.aspx?ID=103), [range 120 feet](/Traits.aspx?ID=248)), **Damage** 2d8+12 piercing plus 2d8 acid<br /> **Release Claw** <actions string=\"Single Action\" /> Tehialai launches a flurry of darts. She makes two salt dart Strikes against two different creatures. Both attacks count towards her multiple attack penalty, but she doesn't increase her penalty until after she has made both attacks.\n\n **Tidal Gourd** This spherical, transparent growth sprouts vesicles of frigid water that detach and fly like sling stones.<br /> **Ranged** <actions string=\"Single Action\" /> tidal gourd +36 ([magical](/Traits.aspx?ID=103), [thrown 60 feet](/Traits.aspx?ID=195), [water](/Traits.aspx?ID=165)), **Damage** 2d8+4 bludgeoning plus 2d8 cold splash<br /> **Release Claw** <actions string=\"Single Action\" /> ([water](/Traits.aspx?ID=165)) Tehialai atomizes the water in her claw to create a mist that fills a 40-foot emanation centered on her and that lasts until the end of her next turn or until dispersed by a strong wind. All creatures within the mist become [concealed](/Conditions.aspx?ID=4), and all creatures outside the mist become concealed to creatures within it. [Wavesense](/MonsterAbilities.aspx?ID=41) functions through the mist and ignores the concealment.\n\n **Toothed Shredder** This chitinous disk bears numerous serrated protrusions, like a wheel of sharks' teeth.<br /> **Melee** <actions string=\"Single Action\" /> toothed shredder +27 ([fatal d10](/Traits.aspx?ID=178), [magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)), **Damage** 4d6+12 slashing<br /> **Release Claw** <actions string=\"Single Action\" /> Tehialai's claw whirs and spins to cut through armor and ship hulls. Tehialai makes a toothed shredder Strike. On a hit, the target becomes [flat-footed](/Conditions.aspx?ID=16) until the end of Tehialai's next turn and takes 2d12 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n</aside>",
+ "name": "Tehialai-Thief-Of-Ships",
+ "npc": false,
+ "perception": 26,
+ "pfs": "Standard",
+ "rarity": "unique",
+ "reflex_save": 20,
+ "release_date": "2021-12-22",
+ "resistance": {},
+ "resistance_markdown": "ship armor",
+ "resistance_raw": "ship armor",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Monsters of Myth](/Sources.aspx?ID=107) pg. 106</row>\n\n<row gap=\"medium\">\r\n**HP** 200 (Hardness 10)\r\n\r\n**AC** 36\r\n\r\n**Fort** +26\r\n\r\n**Ref** +20\r\n\r\n**Will** +23\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThough her current form is but a small and pale shell of her former glory, Tehialai is a legend even in her waning days. The titanic crustacean wears …\r\n</summary>",
+ "sense": " darkvision ,  wavesense  60",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [wavesense](/MonsterAbilities.aspx?ID=41) 60",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +27",
+  "Athletics +28",
+  "Ocean Lore +30",
+  "Stealth +24",
+  "Survival +27"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +28, [Ocean Lore](/Skills.aspx?ID=8) +30, [Stealth](/Skills.aspx?ID=15) +24, [Survival](/Skills.aspx?ID=16) +27",
+ "source": [
+  "Monsters of Myth"
+ ],
+ "source_raw": [
+  "Monsters of Myth pg. 106"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[Monsters of Myth](/Sources.aspx?ID=107) pg. 106</row>",
+ "speed": {
+  "land": 30,
+  "max": 60,
+  "swim": 60
+ },
+ "speed_markdown": "30 feet, swim 60 feet",
+ "speed_raw": "30 feet, swim 60 feet",
+ "spell_markdown": "",
+ "stealth": "24",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Though her current form is but a small and pale shell of her former glory, Tehialai is a legend even in her waning days. The titanic crustacean wears …",
+ "summary_markdown": "Though her current form is but a small and pale shell of her former glory, Tehialai is a legend even in her waning days. The titanic crustacean wears …",
+ "text": " Tehialai-Thief-Of-Ships Though her current form is but a small and pale shell of her former glory, Tehialai is a legend even in her waning days. The titanic crustacean wears the hulls of ruined ships as her shell, ripped into shape by vessel-rending claws, as nothing else in Golarion's oceans is large enough to shield her body—or perhaps nothing else will satisfy her. Few ships can withstand her might, and fewer still are prepared for her appearance. Those who don't know of the thief of ships won't know to watch for her coming, and those who do know Tehialai offer her tribute to ward off her predation. Recall Knowledge - Beast (Arcana, Nature): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Tehialai-Thief-Of-Ships Source Monsters of Myth pg. 106 Perception +26; darkvision, wavesense 60 Languages Aquan, Okaiyan Skills Acrobatics +27, Athletics +28, Ocean Lore +30, Stealth +24, Survival +27 Str +8 Dex +5 Con +4 Int +4 Wis +6 Cha +4 Exoskeletal Armory At the beginning of each day, Tehialai can molt to change the morph of her two massive striking claws. She chooses two morphs (see below) and adds their Strikes and Release Claw effects to the stat block presented here. Tehialai can molt two different claws or two copies of the same claw. --- AC 36 (32 when ship armor is broken) Fort +26 Ref +20 Will +23 +2 status to all saves vs. water HP 200 (Hardness 10) Resistances ship armor Ship Armor Tehialai hides within a shell made of all the ships she has stolen. This ship armor reduces any damage Tehialai takes by an amount equal to its Hardness. Once Tehialai is reduced to fewer than half her Hit Points, or immediately upon being damaged by a critical hit, her ship armor breaks, removing her Hardness and reducing her Armor Class to 32. --- Speed 30 feet, swim 60 feet Melee Single Action mandibles +27 (Magical, reach 10 feet), Damage 4d8+10 bludgeoning Ranged Single Action water spit +25 (Magical, range 120 feet, Water), Damage 4d6+10 piercing Capsize Single Action (Attack) Tehialai attempts to capsize an aquatic vessel of her size or smaller that she's adjacent to. She must succeed at an Athletics check with a DC of 33 (reduced by 5 for each size smaller the vessel is) or the pilot's Sailing Lore DC, whichever is higher. Move Home Three Actions (Manipulate) Requirements Tehialai is adjacent to a broken ship, and her ship armor is broken; Effect Tehialai claims nearby ship pieces to rebuild her home. She destroys the adjacent ship and rebuilds her ship armor, restoring her Hardness and increasing her AC back to 36. Pressurize Claw Single Action Requirements Tehialai's claw isn't currently Pressurized; Effect Tehialai draws water into the base of one of her claws, building immense hydraulic pressure as she prepares to attack. The claw remains loaded until she Releases that Claw or 1 minute has passed, whichever comes first. While the claw is Pressurized, Tehialai can't use that claw to Strike. If Tehialai isn't at least partially within a body of water when she Pressurizes her Claw, she takes a –2 penalty to any attack rolls and DCs when she Releases that Claw. Release Claw Single Action Requirements Tehialai has Pressurized a Claw; Effect Tehialai lashes out with the force of the sea. See each claw for its released effect; the DC for any effect is 33. After Releasing a Claw, the claw depressurizes Tehialai's Exoskeletal Armory Upon Receding Tide notes several weapons Tehialai has refined in her predations on the ships of the Okaiyo Ocean. The least terrible ones are detailed below. Barbed Spear This long claw comes to a fine point, with barbs that can grip onto flesh and cloth alike. Melee Single Action barbed spear +27 (magical, reach 15 feet), Damage 4d8+12 piercing Release Claw Single Action Tehialai's spear shoots out, impaling prey and reeling them back. All creatures in a 40-foot line take 8d6 piercing damage (basic Reflex save); creatures that critically fail are grabbed until the end of Tehialai's next turn. Boiling Club The head of this short, blunt claw has a pattern not unlike a human face. Melee Single Action boiling club +25 (magical, reach 5 feet), Damage 4d12+12 bludgeoning plus 1d6 fire Release Claw Single Action (fire, sonic) The impact of Tehialai's claw begets a burning vacuum. Tehialai makes a boiling club Strike against one target within 15 feet. If she hits, a shock wave booms out, dealing 3d6 fire damage and 3d6 sonic damage to all creatures except her within 15 feet of the target, including the target itself (basic Fortitude save). If the Strike was a critical hit, the target uses the degree of success one lower than it rolled on its save. Unlike most fire abilities, this ability can be used underwater, and the typical 5 fire resistance for being underwater doesn't apply. Salt Darts A cluster of jagged salt crystals break off and regrow constantly as they draw salinity from the sea. Ranged Single Action salt dart +26 (magical, range 120 feet), Damage 2d8+12 piercing plus 2d8 acid Release Claw Single Action Tehialai launches a flurry of darts. She makes two salt dart Strikes against two different creatures. Both attacks count towards her multiple attack penalty, but she doesn't increase her penalty until after she has made both attacks. Tidal Gourd This spherical, transparent growth sprouts vesicles of frigid water that detach and fly like sling stones. Ranged Single Action tidal gourd +36 (magical, thrown 60 feet, water), Damage 2d8+4 bludgeoning plus 2d8 cold splash Release Claw Single Action (water) Tehialai atomizes the water in her claw to create a mist that fills a 40-foot emanation centered on her and that lasts until the end of her next turn or until dispersed by a strong wind. All creatures within the mist become concealed, and all creatures outside the mist become concealed to creatures within it. Wavesense functions through the mist and ignores the concealment. Toothed Shredder This chitinous disk bears numerous serrated protrusions, like a wheel of sharks' teeth. Melee Single Action toothed shredder +27 (fatal d10, magical, reach 15 feet), Damage 4d6+12 slashing Release Claw Single Action Tehialai's claw whirs and spins to cut through armor and ship hulls. Tehialai makes a toothed shredder Strike. On a hit, the target becomes flat-footed until the end of Tehialai's next turn and takes 2d12 persistent bleed damage. ",
+ "trait": [
+  "Amphibious",
+  "Aquatic",
+  "Beast",
+  "Unique",
+  "CN",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Aquatic](/Traits.aspx?ID=168), [Beast](/Traits.aspx?ID=20), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Amphibious",
+  "Aquatic",
+  "Beast",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1741",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": 6
+}

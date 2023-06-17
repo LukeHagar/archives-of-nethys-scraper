@@ -1,0 +1,150 @@
+{
+ "ac": 22,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 0,
+ "creature_ability": [
+  "Warning Hoot",
+  "Bond with Mortal",
+  "Bonded Strike",
+  "Empowered Healing"
+ ],
+ "creature_family": "Spirit Guide",
+ "creature_family_markdown": "[Spirit Guide](/MonsterFamilies.aspx?ID=264)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 75,
+ "hp_raw": "75",
+ "id": "creature-2464",
+ "image": [
+  "/Images/Monsters/SpiritGuide_StoneBreastedOwl.png"
+ ],
+ "immunity": [
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision"
+ ],
+ "immunity_markdown": "[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Sylvan",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Sage Guide](/Monsters.aspx?ID=2464)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSage spirit guides are among the wisest spirits. They often take the forms of raptors such as owls, using their keen senses to evaluate situations from high above before swooping in to aid imperiled mortals.\n\n Adventurers who befriend a sage guide are fortunate indeed; in addition to providing sage counsel before conflict begins, sage guides can restore and tend to their allies in the aftermath of a violent dispute.\n\n In many stories, the sage guide assumes the form of a large owl whose proud breast is composed of hard stone. This depiction combines the wisdom commonly attributed to the owl with the strength and fortitude of the earth.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 22\r\n\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SpiritGuide_StoneBreastedOwl.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Stone-Breasted Owl](/Monsters.aspx?ID=2464)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 91</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Diplomacy](/Skills.aspx?ID=6) +13, [Nature](/Skills.aspx?ID=10) +14, [Survival](/Skills.aspx?ID=16) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +3\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 75\n\n**Immunities**\r\n[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision\r\n\r\n**Resistances**\r\nall damage 5 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\n\n**Warning Hoot** <actions string=\"Free Action\" /> ([auditory](/Traits.aspx?ID=16)) **Trigger** The stone-breasted owl is about to roll a Perception or [Survival](/Skills.aspx?ID=16) check to determine initiative; **Effect** The stone-breasted owl lets out a hoot to warn allies, granting each ally a +1 circumstance bonus to their initiative roll.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +13 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+3 force\r\n\r\n**Primal Innate Spells** DC 25\r\n- **Cantrips (2nd)**\r\n[Guidance](/Spells.aspx?ID=142), [Know Direction](/Spells.aspx?ID=169), [Stabilize](/Spells.aspx?ID=307)\r\n- **1st**\r\n[Detect Poison](/Spells.aspx?ID=67), [Purify Food and Drink](/Spells.aspx?ID=241)\r\n- **2nd**\r\n[Remove Fear](/Spells.aspx?ID=252), [Restore Senses](/Spells.aspx?ID=259)\r\n- **3rd**\r\n[Heal](/Spells.aspx?ID=148) (×2), [Remove Disease](/Spells.aspx?ID=251)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Bond with Mortal** <actions string=\"Two Actions\" /> ([Mental](/Traits.aspx?ID=106), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)) **Frequency** once per day; **Effect** The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide's current and maximum Hit Points increase by 14, the spirit guide gains a +2 status bonus to attack and damage rolls, and the spirit guide and bonded mortal can communicate telepathically as long as they're on the same plane. The spirit guide can be bonded with only one mortal at a time, and can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond ends if the spirit guide or the mortal dies.\n\n This bond strengthens the spirit guide's connection to the [Material Plane](/Planes.aspx?ID=1). While bonded, the spirit guide loses the [incorporeal](/Traits.aspx?ID=222) and [spirit](/Traits.aspx?ID=149) traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage.\r\n\r\n**Bonded Strike** <actions string=\"Two Actions\" />  **Requirements** The spirit guide is currently Bonded with a Mortal; **Effect** The spirit guide makes a talon Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target.\r\n\r\n**Empowered Healing**   When the stone-breasted owl casts [_heal_](/Spells.aspx?ID=148), it rolls d10s instead of d8s.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-264\" />",
+ "name": "Stone-Breasted Owl",
+ "npc": false,
+ "perception": 15,
+ "rarity": "uncommon",
+ "reflex_save": 12,
+ "release_date": "2023-02-22",
+ "resistance": {
+  "acid": 5,
+  "all": 5,
+  "area": 5,
+  "bleed": 5,
+  "bludgeoning": 5,
+  "chaotic": 5,
+  "cold": 5,
+  "cold_iron": 5,
+  "electricity": 5,
+  "evil": 5,
+  "fire": 5,
+  "good": 5,
+  "lawful": 5,
+  "mental": 5,
+  "negative": 5,
+  "orichalcum": 5,
+  "physical": 5,
+  "piercing": 5,
+  "poison": 5,
+  "precision": 5,
+  "silver": 5,
+  "slashing": 5,
+  "sonic": 5,
+  "splash": 5
+ },
+ "resistance_markdown": "all damage 5 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all damage 5 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 91</row>\r\n\r\n**Creature Family** [Spirit Guide](/MonsterFamilies.aspx?ID=264)\r\n\r\n<row gap=\"medium\">\r\n**HP** 75\r\n\r\n**AC** 22\r\n\r\n**Fort** +9\r\n\r\n**Ref** +12\r\n\r\n**Will** +15\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSage spirit guides are among the wisest spirits. They often take the forms of raptors such as owls, using their keen senses to evaluate situations …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Diplomacy +13",
+  "Nature +14",
+  "Survival +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Diplomacy](/Skills.aspx?ID=6) +13, [Nature](/Skills.aspx?ID=10) +14, [Survival](/Skills.aspx?ID=16) +12",
+ "source": [
+  "Pathfinder #188: They Watched the Stars"
+ ],
+ "source_raw": [
+  "Pathfinder #188: They Watched the Stars pg. 91"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 91</row>",
+ "speed": {
+  "fly": 40,
+  "land": 10,
+  "max": 40
+ },
+ "speed_markdown": "10 feet, fly 40 feet",
+ "speed_raw": "10 feet, fly 40 feet",
+ "spell": [
+  "Heal",
+  "Remove Disease",
+  "Remove Fear",
+  "Restore Senses",
+  "Detect Poison",
+  "Purify Food and Drink",
+  "Guidance",
+  "Know Direction",
+  "Stabilize",
+  "Tongues"
+ ],
+ "spell_markdown": "[Detect Poison](/Spells.aspx?ID=67), [Guidance](/Spells.aspx?ID=142), [Heal](/Spells.aspx?ID=148), [Know Direction](/Spells.aspx?ID=169), [Purify Food and Drink](/Spells.aspx?ID=241), [Remove Disease](/Spells.aspx?ID=251), [Remove Fear](/Spells.aspx?ID=252), [Restore Senses](/Spells.aspx?ID=259), [Stabilize](/Spells.aspx?ID=307), [Tongues](/Spells.aspx?ID=340)",
+ "spoilers": "Gatewalkers",
+ "strength": 0,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Sage spirit guides are among the wisest spirits. They often take the forms of raptors such as owls, using their keen senses to evaluate situations …",
+ "summary_markdown": "Sage spirit guides are among the wisest spirits. They often take the forms of raptors such as owls, using their keen senses to evaluate situations …",
+ "text": " Sage Guide Sage spirit guides are among the wisest spirits. They often take the forms of raptors such as owls, using their keen senses to evaluate situations from high above before swooping in to aid imperiled mortals. Adventurers who befriend a sage guide are fortunate indeed; in addition to providing sage counsel before conflict begins, sage guides can restore and tend to their allies in the aftermath of a violent dispute. In many stories, the sage guide assumes the form of a large owl whose proud breast is composed of hard stone. This depiction combines the wisdom commonly attributed to the owl with the strength and fortitude of the earth. Recall Knowledge - Beast (Arcana, Nature): DC 22 Recall Knowledge - Spirit (Occultism): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Stone-Breasted Owl Source Pathfinder #188: They Watched the Stars pg. 91 Perception +15; darkvision Languages Common, Sylvan; tongues Skills Acrobatics +12, Diplomacy +13, Nature +14, Survival +12 Str +0 Dex +3 Con +0 Int +2 Wis +5 Cha +2 --- AC 22 Fort +9 Ref +12 Will +15 HP 75 Immunities disease, paralyzed, poison, precision Resistances all damage 5 (except force, ghost touch , or positive; double resistance vs. non-magical) Warning Hoot Free Action (auditory) Trigger The stone-breasted owl is about to roll a Perception or Survival check to determine initiative; Effect The stone-breasted owl lets out a hoot to warn allies, granting each ally a +1 circumstance bonus to their initiative roll. --- Speed 10 feet, fly 40 feet Melee Single Action talon +13 (Agile, Finesse, Magical), Damage 2d6+3 force Primal Innate Spells DC 25 - Cantrips (2nd) Guidance, Know Direction, Stabilize - 1st Detect Poison, Purify Food and Drink - 2nd Remove Fear, Restore Senses - 3rd Heal (×2), Remove Disease - Constant (5th) Tongues Bond with Mortal Two Actions (Mental, Necromancy, Primal) Frequency once per day; Effect The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide's current and maximum Hit Points increase by 14, the spirit guide gains a +2 status bonus to attack and damage rolls, and the spirit guide and bonded mortal can communicate telepathically as long as they're on the same plane. The spirit guide can be bonded with only one mortal at a time, and can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond ends if the spirit guide or the mortal dies. This bond strengthens the spirit guide's connection to the Material Plane. While bonded, the spirit guide loses the incorporeal and spirit traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage. Bonded Strike Two Actions Requirements The spirit guide is currently Bonded with a Mortal; Effect The spirit guide makes a talon Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target. Empowered Healing When the stone-breasted owl casts heal , it rolls d10s instead of d8s. ",
+ "trait": [
+  "Beast",
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Incorporeal",
+  "Spirit",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2464",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 5
+}

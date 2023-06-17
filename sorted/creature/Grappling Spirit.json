@@ -1,0 +1,140 @@
+{
+ "ac": 27,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 4,
+ "creature_ability": [
+  "Warrior's Mask",
+  "Ghostly Grasp",
+  "Submission Lock",
+  "Teleporting Clothesline",
+  "Victory Celebration"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 125,
+ "hp_raw": "125 ( negative healing )",
+ "id": "creature-1868",
+ "image": [
+  "/Images/Monsters/GrapplingSpirit.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [_sleep_](/Spells.aspx?ID=288)",
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Grappling Spirit](/Monsters.aspx?ID=1868)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen a great gladiator or wrestler meets their demise, their soul can sometimes linger out of a love for combat and sport. Every grappling spirit manifests a mask that represents the legacy of the warrior they were during their life.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 28\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/GrapplingSpirit.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Grappling Spirit](/Monsters.aspx?ID=1868)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 107</row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +21, [Diplomacy](/Skills.aspx?ID=6) +18, [Gladiatorial Lore](/Skills.aspx?ID=8) +15, [Intimidation](/Skills.aspx?ID=7) +20, [Performance](/Skills.aspx?ID=12) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 125\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [_sleep_](/Spells.aspx?ID=288)\r\n\r\n**Resistances**\r\nall damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\n\n**Warrior's Mask** A grappling spirit wears a mask that allows them to abandon their original form and become a warrior focused solely on combat. This mask is quasi-corporeal, allowing it to be manipulated by both corporeal and incorporeal creatures. A creature who has the grappling spirit [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) can remove the mask as an Interact action by succeeding at an [Athletics](/Skills.aspx?ID=3) check against the grappling spirit's Fortitude DC. Removing a grappling spirit's mask causes the spirit to fly into a frenzy. The grappling spirit becomes [quickened](/Conditions.aspx?ID=32) and can use their extra action to [Fly](/Actions.aspx?ID=94), [Grapple](/Actions.aspx?ID=35), or Strike. They also gain a +4 status bonus to damage rolls, and they take a –4 status penalty to AC and Reflex saving throws. If the mask is put back on, the grappling spirit ends their frenzy.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nghostly hand +21 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 2d10+12 negative plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\n\n**Ghostly Grasp**   A grappling spirit can [Grapple](/Actions.aspx?ID=35) corporeal creatures despite being incorporeal. The grappling spirit uses their [Athletics](/Skills.aspx?ID=3) check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like [Force Open](/Actions.aspx?ID=34) or [Trip](/Actions.aspx?ID=40).\r\n\r\n**Submission Lock** <actions string=\"Two Actions\" /> ([Nonlethal](/Traits.aspx?ID=188)) **Requirements** The grappling spirit has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33); **Effect** The spirit saps their opponent's strength with a supernatural grip. The grappling spirit attempts an [Athletics](/Skills.aspx?ID=3) check to [Grapple](/Actions.aspx?ID=35) a creature they have grabbed or restrained, also adding 4d10+12 negative damage, depending on the result.<br /> **Critical Success** The creature takes double damage. If it's already [enfeebled](/Conditions.aspx?ID=13), it falls [unconscious](/Conditions.aspx?ID=38). If not, it is enfeebled 2 until the end of its next turn and enfeebled 1 for 1 minute.<br /> **Success** The creature takes full damage and is enfeebled 1 until the end of its next turn.\r\n\r\n**Teleporting Clothesline** <actions string=\"Two Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Occult](/Traits.aspx?ID=120), [Teleportation](/Traits.aspx?ID=156)) **Requirements** The grappling spirit has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33); Effect The grappling spirit [pushes](/Rules.aspx?ID=451) the creature 15 feet in a straight line. The spirit immediately teleports 20 feet to intercept. They make a ghostly hand Strike against the creature. On a hit, the creature is knocked [prone](/Conditions.aspx?ID=31), and on a critical hit, it also takes an additional 2d6 bludgeoning damage as it's driven to the ground.\r\n\r\n**Victory Celebration**   If a spirit knocks a creature [unconscious](/Conditions.aspx?ID=38), each creature within 60 feet that witnesses the victory is targeted with a DC 26 [_roaring applause_](/Spells.aspx?ID=987) spell. The spirit must spend all their actions until the end of the turn celebrating, and a new medal or belt appears on the spirit.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Lands of Champions</title>\r\n\r\nWhile a grappling spirit can be found almost anywhere notable combats are held, a few regions on Golarion are known for their prominence. The Hold of Belkzen is home to orc grapplers who become grappling spirits, while the wrestlers of Arcadia and Iblydos tend to return for one last glorious match. Grappling spirits are particularly common in the Lands of Second Souls in southern Arcadia.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Retiring a Grappling Spirit</title>\r\n\r\nThe means of appeasing each grappling spirit, allowing it to pass on, vary. Some seek one last match worthy of their skill, while others wish to win a major bout in front of an adoring crowd or even suffer an epic defeat at the hands of a worthy successor. They tend not to be malicious, just entirely dedicated to competition.\r\n</aside>",
+ "name": "Grappling Spirit",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 19,
+ "release_date": "2022-04-27",
+ "resistance": {
+  "acid": 10,
+  "all": 10,
+  "area": 10,
+  "bleed": 10,
+  "bludgeoning": 10,
+  "chaotic": 10,
+  "cold": 10,
+  "cold_iron": 10,
+  "electricity": 10,
+  "evil": 10,
+  "fire": 10,
+  "good": 10,
+  "lawful": 10,
+  "mental": 10,
+  "negative": 10,
+  "orichalcum": 10,
+  "physical": 10,
+  "piercing": 10,
+  "poison": 10,
+  "precision": 10,
+  "silver": 10,
+  "slashing": 10,
+  "sonic": 10,
+  "splash": 10
+ },
+ "resistance_markdown": "all damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all damage 10 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 107</row>\n\n<row gap=\"medium\">\r\n**HP** 125 ( negative healing )\r\n\r\n**AC** 27\r\n\r\n**Fort** +19\r\n\r\n**Ref** +19\r\n\r\n**Will** +15\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a great gladiator or wrestler meets their demise, their soul can sometimes linger out of a love for combat and sport. Every grappling spirit …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +21",
+  "Diplomacy +18",
+  "Gladiatorial Lore +15",
+  "Intimidation +20",
+  "Performance +20"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +21, [Diplomacy](/Skills.aspx?ID=6) +18, [Gladiatorial Lore](/Skills.aspx?ID=8) +15, [Intimidation](/Skills.aspx?ID=7) +20, [Performance](/Skills.aspx?ID=12) +20",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 107"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 107</row>",
+ "speed": {
+  "fly": 60,
+  "max": 60
+ },
+ "speed_markdown": "fly 60 feet",
+ "speed_raw": "fly 60 feet",
+ "spell_markdown": "",
+ "strength": -5,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "When a great gladiator or wrestler meets their demise, their soul can sometimes linger out of a love for combat and sport. Every grappling spirit …",
+ "summary_markdown": "When a great gladiator or wrestler meets their demise, their soul can sometimes linger out of a love for combat and sport. Every grappling spirit …",
+ "text": " Grappling Spirit When a great gladiator or wrestler meets their demise, their soul can sometimes linger out of a love for combat and sport. Every grappling spirit manifests a mask that represents the legacy of the warrior they were during their life. Recall Knowledge - Spirit (Occultism): DC 28 Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Grappling Spirit Source Book of the Dead pg. 107 Perception +17; darkvision Languages Common Skills Acrobatics +19, Athletics +21, Diplomacy +18, Gladiatorial Lore +15, Intimidation +20, Performance +20 Str -5 Dex +6 Con +4 Int +0 Wis +2 Cha +5 --- AC 27 Fort +19 Ref +19 Will +15 HP 125 (negative healing) Immunities death effects, disease, paralyzed, poison, precision, sleep Resistances all damage 10 (except force, ghost touch , or positive; double resistance vs. non-magical) Warrior's Mask A grappling spirit wears a mask that allows them to abandon their original form and become a warrior focused solely on combat. This mask is quasi-corporeal, allowing it to be manipulated by both corporeal and incorporeal creatures. A creature who has the grappling spirit grabbed or restrained can remove the mask as an Interact action by succeeding at an Athletics check against the grappling spirit's Fortitude DC. Removing a grappling spirit's mask causes the spirit to fly into a frenzy. The grappling spirit becomes quickened and can use their extra action to Fly, Grapple, or Strike. They also gain a +4 status bonus to damage rolls, and they take a –4 status penalty to AC and Reflex saving throws. If the mask is put back on, the grappling spirit ends their frenzy. --- Speed fly 60 feet Melee Single Action ghostly hand +21 (Agile, Finesse, Magical, Nonlethal), Damage 2d10+12 negative plus Improved Grab Ghostly Grasp A grappling spirit can Grapple corporeal creatures despite being incorporeal. The grappling spirit uses their Athletics check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like Force Open or Trip. Submission Lock Two Actions (Nonlethal) Requirements The grappling spirit has a creature grabbed or restrained; Effect The spirit saps their opponent's strength with a supernatural grip. The grappling spirit attempts an Athletics check to Grapple a creature they have grabbed or restrained, also adding 4d10+12 negative damage, depending on the result. Critical Success The creature takes double damage. If it's already enfeebled, it falls unconscious. If not, it is enfeebled 2 until the end of its next turn and enfeebled 1 for 1 minute. Success The creature takes full damage and is enfeebled 1 until the end of its next turn. Teleporting Clothesline Two Actions (Conjuration, Occult, Teleportation) Requirements The grappling spirit has a creature grabbed or restrained; Effect The grappling spirit pushes the creature 15 feet in a straight line. The spirit immediately teleports 20 feet to intercept. They make a ghostly hand Strike against the creature. On a hit, the creature is knocked prone, and on a critical hit, it also takes an additional 2d6 bludgeoning damage as it's driven to the ground. Victory Celebration If a spirit knocks a creature unconscious, each creature within 60 feet that witnesses the victory is targeted with a DC 26 roaring applause spell. The spirit must spend all their actions until the end of the turn celebrating, and a new medal or belt appears on the spirit. Lands of Champions While a grappling spirit can be found almost anywhere notable combats are held, a few regions on Golarion are known for their prominence. The Hold of Belkzen is home to orc grapplers who become grappling spirits, while the wrestlers of Arcadia and Iblydos tend to return for one last glorious match. Grappling spirits are particularly common in the Lands of Second Souls in southern Arcadia. Retiring a Grappling Spirit The means of appeasing each grappling spirit, allowing it to pass on, vary. Some seek one last match worthy of their skill, while others wish to win a major bout in front of an adoring crowd or even suffer an epic defeat at the hands of a worthy successor. They tend not to be malicious, just entirely dedicated to competition. ",
+ "trait": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead",
+  "LN",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1868",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 2
+}

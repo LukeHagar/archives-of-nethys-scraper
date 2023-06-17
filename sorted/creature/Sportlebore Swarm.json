@@ -1,0 +1,106 @@
+{
+ "ac": 25,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Pour Down Throat",
+  "Swarming Bites"
+ ],
+ "creature_family": "Sportlebore",
+ "creature_family_markdown": "[Sportlebore](/MonsterFamilies.aspx?ID=153)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 85,
+ "hp_raw": "85",
+ "id": "creature-816",
+ "image": [
+  "/Images/Monsters/Sportlebore.png"
+ ],
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, [swarm mind](/MonsterAbilities.aspx?ID=36)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Sportlebore Swarm](/Monsters.aspx?ID=816)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA swarm of sportlebores is a much more dangerous foe than a single insect.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Sportlebore.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Sportlebore Swarm](/Monsters.aspx?ID=816)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 251 <sup>2.0</sup></row>\n\n**Perception** +13; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 85\n\n**Immunities**\r\nprecision, [swarm mind](/MonsterAbilities.aspx?ID=36)\r\n\r\n**Resistances**\r\nbludgeoning 3, piercing 7, slashing 7\r\n\r\n**Weaknesses**\r\narea damage 7, [splash](/Traits.aspx?ID=150) damage 7\r\n\r\n**Pour Down Throat** <actions string=\"Reaction\" /> **Trigger** A creature in the sportlebore swarm's area speaks, uses a verbal component, or opens its mouth; **Effect** A portion of the sportlebore swarm attempts to surge down the throat of the triggering creature, which must attempt a DC 25 Fortitude save. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature gets a mouthful of sportlebores. It spits the insects out and avoids further damage, but it can't speak for 1 round, and if it was performing a verbal spellcasting action, the spell fails and the caster wastes the action. <br />**Failure** The creature takes 4d6 piercing damage from sportlebore bites, can't speak for 1 round, and loses a spell as noted under Success. <br />**Critical Failure** As failure, but the creature is also exposed to [sportlebore infestation](/Hazards.aspx?ID=49).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, fly 35 feet\n\n**Swarming Bites** <actions string=\"Single Action\" />  Each creature in the sportlebore swarm's area takes 4d6 piercing damage (DC 25 basic Reflex save).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-153\" />",
+ "name": "Sportlebore Swarm",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 3,
+  "piercing": 7,
+  "slashing": 7
+ },
+ "resistance_markdown": "bludgeoning 3, piercing 7, slashing 7",
+ "resistance_raw": "bludgeoning 3, piercing 7, slashing 7",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 251 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Sportlebore](/MonsterFamilies.aspx?ID=153)\r\n\r\n<row gap=\"medium\">\r\n**HP** 85\r\n\r\n**AC** 25\r\n\r\n**Fort** +15\r\n\r\n**Ref** +17\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA swarm of sportlebores is a much more dangerous foe than a single insect.\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 251"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 251 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 35,
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet, fly 35 feet",
+ "speed_raw": "35 feet, fly 35 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A swarm of sportlebores is a much more dangerous foe than a single insect.",
+ "summary_markdown": "A swarm of sportlebores is a much more dangerous foe than a single insect.",
+ "text": " Sportlebore Swarm A swarm of sportlebores is a much more dangerous foe than a single insect. Recall Knowledge - Animal (Nature): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Sportlebore Swarm Source Bestiary 2 pg. 251 2.0 Perception +13; low-light vision Languages Skills Acrobatics +17, Stealth +17 Str +2 Dex +6 Con +4 Int -4 Wis +2 Cha +4 --- AC 25 Fort +15 Ref +17 Will +13 HP 85 Immunities precision, swarm mind Resistances bludgeoning 3, piercing 7, slashing 7 Weaknesses area damage 7, splash damage 7 Pour Down Throat Reaction Trigger A creature in the sportlebore swarm's area speaks, uses a verbal component, or opens its mouth; Effect A portion of the sportlebore swarm attempts to surge down the throat of the triggering creature, which must attempt a DC 25 Fortitude save. Critical Success The creature is unaffected. Success The creature gets a mouthful of sportlebores. It spits the insects out and avoids further damage, but it can't speak for 1 round, and if it was performing a verbal spellcasting action, the spell fails and the caster wastes the action. Failure The creature takes 4d6 piercing damage from sportlebore bites, can't speak for 1 round, and loses a spell as noted under Success. Critical Failure As failure, but the creature is also exposed to sportlebore infestation. --- Speed 35 feet, fly 35 feet Swarming Bites Single Action Each creature in the sportlebore swarm's area takes 4d6 piercing damage (DC 25 basic Reflex save). ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=816",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 7
+ },
+ "weakness_markdown": "area damage 7, [splash](/Traits.aspx?ID=150) damage 7",
+ "weakness_raw": "area damage 7,  splash  damage 7",
+ "will_save": 13,
+ "wisdom": 2
+}

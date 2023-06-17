@@ -1,0 +1,113 @@
+{
+ "ac": 24,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 6,
+ "creature_ability": [
+  "Abandon Corpse",
+  "Hellwasp Stings",
+  "Hellwasp Venom",
+  "Infest Corpse",
+  "Torturous Buzz"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 95,
+ "hp_raw": "95",
+ "id": "creature-1191",
+ "image": [
+  "/Images/Monsters/HellwaspSwarm.png"
+ ],
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, [swarm mind](/MonsterAbilities.aspx?ID=36)",
+ "intelligence": -3,
+ "language": [
+  "Infernal",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Infernal](/Languages.aspx?ID=19); (can't speak any language)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Hellwasp Swarm](/Monsters.aspx?ID=1191)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHellwasps' infernal nature allows them to collectively inhabit and control [humanoid](/Traits.aspx?ID=91) corpses, and they use this ability to infest and horrify large swathes of territory unless destroyed. While individual hellwasp poses little threat, these fist-sized insects instinctively form into aggressive swarms that will viciously attack any creature approaching their colony, the lone exception being powerful [fiends](/Traits.aspx?ID=70).\n\n Hellwasp swarms have a rudimentary intelligence focused on the protection and expansion of their colony. They can understand [Infernal](/Languages.aspx?ID=19) but are incapable of speech. They sometimes obey simple commands from a lawful fiend more powerful than their swarm, but there is no nuance or understanding to this obedience, and if left alone for more than a day they stop obeying and return to their colony.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/HellwaspSwarm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Hellwasp Swarm](/Monsters.aspx?ID=1191)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 133</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Infernal](/Languages.aspx?ID=19); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Stealth](/Skills.aspx?ID=15) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -3\r\n\r\n**Wis** +2\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 95\n\n**Immunities**\r\nprecision, [swarm mind](/MonsterAbilities.aspx?ID=36)\r\n\r\n**Resistances**\r\nbludgeoning 5, fire 10, piercing 10, slashing 5\r\n\r\n**Weaknesses**\r\narea damage 10, [splash](/Traits.aspx?ID=150) damage 10\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet; fly 40 feet\n\n**Abandon Corpse** <actions string=\"Single Action\" />  **Requirements** The hellwasp swarm is controlling a corpse with Infest Corpse; **Effect** The hellwasp swarm leaves its host corpse, which dies instantly and becomes a normal corpse in all respects. The hellwasp swarm expands out from that space to its normal size.\r\n\r\n**Hellwasp Stings** <actions string=\"Single Action\" />  Each enemy in the swarm's space takes 4d8 piercing damage (DC 26 [basic](/Rules.aspx?ID=329) Reflex save). Any creature that fails its saving throw is exposed to hellwasp venom.\r\n\r\n**Hellwasp Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 26 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d8 poison damage and [clumsy 2](/Conditions.aspx?ID=3) (1 round); **Stage 2** 2d8 poison damage and clumsy 2 (1 round)\r\n\r\n**Infest Corpse** <actions string=\"Two Actions\" /> ([Manipulate](/Traits.aspx?ID=104)) The hellwasp swarm animates the corpse of a Small, Medium, or Large [humanoid](/Traits.aspx?ID=91) that protected by [_gentle repose_](/Spells.aspx?ID=131) or similar magic, crawling into its mouth and other orifices. Its size changes to that of the corpse and it loses its piercing and slashing resistances, fly Speed, and Hellwasp Stings. It gains a fist melee Strike with a +18 attack modifier that deals 2d8 bludgeoning damage plus 2d8 piercing damage and hellwasp venom.<br /> The hellwasp swarm gains 40 temporary Hit Points when it Infests a Corpse; when these temporary HP are depleted, the corpse falls apart and the swarm Abandons the Corpse automatically.\r\n\r\n**Torturous Buzz** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120)) The swarm emits a distracting, cacophonous buzzing. Each creature within 20 feet must attempt a DC 26 Will save. <br />**Critical Success** The creature is unaffected and temporarily immune for 1 minute. <br />**Success** The creature is unaffected. <br />**Failure** The creature is [confused](/Conditions.aspx?ID=5) for 1 round. <br />**Critical Failure** The creature is confused for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Hellwasp Colonies</title>\r\n\r\nHellwasps typically dwell in large colonies that can house multiple swarms. The swarms station multiple suitable corpses near the colony, and at least one swarm from the colony is always patrolling the nearby area in an inhabited corpse. This means that hellwasp colonies typically have a pervasive and noticeable stench of dead flesh around them. This also makes the treasure found near colonies highly random, consisting only of whatever possessions the inhabited corpse carried.\r\n</aside>",
+ "name": "Hellwasp Swarm",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "bludgeoning": 5,
+  "fire": 10,
+  "piercing": 10,
+  "slashing": 5
+ },
+ "resistance_markdown": "bludgeoning 5, fire 10, piercing 10, slashing 5",
+ "resistance_raw": "bludgeoning 5, fire 10, piercing 10, slashing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 133</row>\n\n<row gap=\"medium\">\r\n**HP** 95\r\n\r\n**AC** 24\r\n\r\n**Fort** +18\r\n\r\n**Ref** +16\r\n\r\n**Will** +14\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHellwasps' infernal nature allows them to collectively inhabit and control  humanoid  corpses, and they use this ability to infest and horrify large …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Stealth +18"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Stealth](/Skills.aspx?ID=15) +18",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 133"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 133</row>",
+ "speed": {
+  "fly": 40,
+  "land": 20,
+  "max": 40
+ },
+ "speed_markdown": "20 feet; fly 40 feet",
+ "speed_raw": "20 feet; fly 40 feet",
+ "spell_markdown": "",
+ "stealth": "18",
+ "strength": 0,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Hellwasps' infernal nature allows them to collectively inhabit and control  humanoid  corpses, and they use this ability to infest and horrify large …",
+ "summary_markdown": "Hellwasps' infernal nature allows them to collectively inhabit and control  humanoid  corpses, and they use this ability to infest and horrify large …",
+ "text": " Hellwasp Swarm Hellwasps' infernal nature allows them to collectively inhabit and control humanoid corpses, and they use this ability to infest and horrify large swathes of territory unless destroyed. While individual hellwasp poses little threat, these fist-sized insects instinctively form into aggressive swarms that will viciously attack any creature approaching their colony, the lone exception being powerful fiends. Hellwasp swarms have a rudimentary intelligence focused on the protection and expansion of their colony. They can understand Infernal but are incapable of speech. They sometimes obey simple commands from a lawful fiend more powerful than their swarm, but there is no nuance or understanding to this obedience, and if left alone for more than a day they stop obeying and return to their colony. Recall Knowledge - Fiend (Religion): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Hellwasp Swarm Source Bestiary 3 pg. 133 Perception +16; darkvision Languages Infernal; (can't speak any language) Skills Acrobatics +18, Stealth +18 Str +0 Dex +4 Con +6 Int -3 Wis +2 Cha -2 --- AC 24 Fort +18 Ref +16 Will +14 HP 95 Immunities precision, swarm mind Resistances bludgeoning 5, fire 10, piercing 10, slashing 5 Weaknesses area damage 10, splash damage 10 --- Speed 20 feet; fly 40 feet Abandon Corpse Single Action Requirements The hellwasp swarm is controlling a corpse with Infest Corpse; Effect The hellwasp swarm leaves its host corpse, which dies instantly and becomes a normal corpse in all respects. The hellwasp swarm expands out from that space to its normal size. Hellwasp Stings Single Action Each enemy in the swarm's space takes 4d8 piercing damage (DC 26 basic Reflex save). Any creature that fails its saving throw is exposed to hellwasp venom. Hellwasp Venom (Poison) Saving Throw DC 26 Fortitude; Maximum Duration 6 rounds; Stage 1 1d8 poison damage and clumsy 2 (1 round); Stage 2 2d8 poison damage and clumsy 2 (1 round) Infest Corpse Two Actions (Manipulate) The hellwasp swarm animates the corpse of a Small, Medium, or Large humanoid that protected by gentle repose or similar magic, crawling into its mouth and other orifices. Its size changes to that of the corpse and it loses its piercing and slashing resistances, fly Speed, and Hellwasp Stings. It gains a fist melee Strike with a +18 attack modifier that deals 2d8 bludgeoning damage plus 2d8 piercing damage and hellwasp venom. The hellwasp swarm gains 40 temporary Hit Points when it Infests a Corpse; when these temporary HP are depleted, the corpse falls apart and the swarm Abandons the Corpse automatically. Torturous Buzz Two Actions (Auditory, Emotion, Enchantment, Incapacitation, Occult) The swarm emits a distracting, cacophonous buzzing. Each creature within 20 feet must attempt a DC 26 Will save. Critical Success The creature is unaffected and temporarily immune for 1 minute. Success The creature is unaffected. Failure The creature is confused for 1 round. Critical Failure The creature is confused for 1d4 rounds. Hellwasp Colonies Hellwasps typically dwell in large colonies that can house multiple swarms. The swarms station multiple suitable corpses near the colony, and at least one swarm from the colony is always patrolling the nearby area in an inhabited corpse. This means that hellwasp colonies typically have a pervasive and noticeable stench of dead flesh around them. This also makes the treasure found near colonies highly random, consisting only of whatever possessions the inhabited corpse carried. ",
+ "trait": [
+  "Fiend",
+  "Swarm",
+  "LE",
+  "Large"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Fiend",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1191",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 10
+ },
+ "weakness_markdown": "area damage 10, [splash](/Traits.aspx?ID=150) damage 10",
+ "weakness_raw": "area damage 10,  splash  damage 10",
+ "will_save": 14,
+ "wisdom": 2
+}

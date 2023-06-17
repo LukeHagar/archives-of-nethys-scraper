@@ -1,0 +1,104 @@
+{
+ "ac": 18,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Hydration",
+  "Hydraulic Deflection",
+  "Surface Skimmer"
+ ],
+ "creature_family": "Azarketi",
+ "creature_family_markdown": "[Azarketi](/MonsterFamilies.aspx?ID=219)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-1073",
+ "image": [
+  "/Images/Monsters/Azarketi_AzarketiExplorer.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Alghollthu",
+  "Azlanti",
+  "Common"
+ ],
+ "language_markdown": "[Alghollthu](/Languages.aspx?ID=24), [Azlanti](/Languages.aspx?ID=49), [Common](/Languages.aspx?ID=1)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Azarketi Explorer](/Monsters.aspx?ID=1073)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis rakish azarketi explores the wrecks and ruins of the Inner Sea's coasts. At home above and below the waves, they fight to protect their discoveries, their life, and their reputation.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Azarketi_AzarketiExplorer.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Azarketi Explorer](/Monsters.aspx?ID=1073)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Azarketi\" url=\"/Traits.aspx?ID=336\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 26</row>\n\n**Perception** +8; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Alghollthu](/Languages.aspx?ID=24), [Azlanti](/Languages.aspx?ID=49), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +7, [Diplomacy](/Skills.aspx?ID=6) +7, [Intimidation](/Skills.aspx?ID=7) +7, [Nature](/Skills.aspx?ID=10) +4, [Society](/Skills.aspx?ID=14) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +0\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3), [Trident](/Weapons.aspx?ID=45)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 (19 with hydraulic deflection)\r\n\r\n**Fort** +10 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 30\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Hydration** An azarketi must regularly submerge themself in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they take a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to [suffocate](/Rules.aspx?ID=468) until returned to water.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntrident +10,\r\n**Damage** 1d8+6 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +10 ([Agile](/Traits.aspx?ID=170), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+6 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ntrident +7 ([thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d8+6 piercing\n\n**Hydraulic Deflection** <actions string=\"Single Action\" /> ([Abjuration](/Traits.aspx?ID=2), [Water](/Traits.aspx?ID=165)) Drawing moisture from the surrounding atmosphere, the azarketi explorer creates a disc of hovering water that deflects incoming attacks. They gain a +1 circumstance bonus to AC until the start of their next turn.\r\n\r\n**Surface Skimmer**   While the azarketi explorer is submerged just below the water's surface, they have cover from attacks made by creatures out of the water.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-219\" />",
+ "name": "Azarketi Explorer",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Azarketi\" url=\"/Traits.aspx?ID=336\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 26</row>\r\n\r\n**Creature Family** [Azarketi](/MonsterFamilies.aspx?ID=219)\r\n\r\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 18\r\n\r\n**Fort** +10\r\n\r\n**Ref** +7\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis rakish azarketi explores the wrecks and ruins of the Inner Sea's coasts. At home above and below the waves, they fight to protect their …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +5",
+  "Athletics +8",
+  "Deception +7",
+  "Diplomacy +7",
+  "Intimidation +7",
+  "Nature +4",
+  "Society +4"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +7, [Diplomacy](/Skills.aspx?ID=6) +7, [Intimidation](/Skills.aspx?ID=7) +7, [Nature](/Skills.aspx?ID=10) +4, [Society](/Skills.aspx?ID=14) +4",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 26"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 26</row>",
+ "speed": {
+  "land": 20,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "20 feet, swim 30 feet",
+ "speed_raw": "20 feet, swim 30 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "This rakish azarketi explores the wrecks and ruins of the Inner Sea's coasts. At home above and below the waves, they fight to protect their …",
+ "summary_markdown": "This rakish azarketi explores the wrecks and ruins of the Inner Sea's coasts. At home above and below the waves, they fight to protect their …",
+ "text": " Azarketi Explorer This rakish azarketi explores the wrecks and ruins of the Inner Sea's coasts. At home above and below the waves, they fight to protect their discoveries, their life, and their reputation. Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Azarketi Explorer Source Bestiary 3 pg. 26 Perception +8; low-light vision Languages Alghollthu, Azlanti, Common Skills Acrobatics +5, Athletics +8, Deception +7, Diplomacy +7, Intimidation +7, Nature +4, Society +4 Str +4 Dex +1 Con +2 Int +0 Wis +0 Cha +3 Items Dagger, Trident --- AC 18 (19 with hydraulic deflection) Fort +10 Ref +7 Will +6 HP 30 Attack of Opportunity Reaction Hydration An azarketi must regularly submerge themself in water to rehydrate their water-acclimated skin. After the first 24 hours outside of water, they take a –1 status penalty to Fortitude saves as their skin cracks and their gills become painful. After 48 hours, they struggle to breathe air and begin to suffocate until returned to water. --- Speed 20 feet, swim 30 feet Melee Single Action trident +10, Damage 1d8+6 piercing Melee Single Action dagger +10 (Agile, versatile S), Damage 1d4+6 piercing Ranged Single Action trident +7 (thrown 20 feet), Damage 1d8+6 piercing Hydraulic Deflection Single Action (Abjuration, Water) Drawing moisture from the surrounding atmosphere, the azarketi explorer creates a disc of hovering water that deflects incoming attacks. They gain a +1 circumstance bonus to AC until the start of their next turn. Surface Skimmer While the azarketi explorer is submerged just below the water's surface, they have cover from attacks made by creatures out of the water. ",
+ "trait": [
+  "Amphibious",
+  "Azarketi",
+  "Humanoid",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Azarketi](/Traits.aspx?ID=336), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Amphibious",
+  "Azarketi",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1073",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 0
+}

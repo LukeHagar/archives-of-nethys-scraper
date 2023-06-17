@@ -1,0 +1,128 @@
+{
+ "ac": 45,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 6,
+ "creature_ability": [
+  "Hostile Juxtaposition",
+  "Dimensional Tether",
+  "Demiplane Lair",
+  "Redirect Portal"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 30,
+ "hp": 380,
+ "hp_raw": "380",
+ "id": "creature-493",
+ "image": [
+  "/Images/Monsters/Vazgorlu.png"
+ ],
+ "immunity": [
+  "acid",
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "acid, paralyzed, sleep",
+ "intelligence": 7,
+ "language": [
+  "Abyssal",
+  "Aklo",
+  "Celestial",
+  "Daemonic",
+  "Infernal",
+  "Protean",
+  "Requian",
+  "Utopian"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Aklo](/Languages.aspx?ID=13), [Celestial](/Languages.aspx?ID=16), [Daemonic](/Languages.aspx?ID=31), [Infernal](/Languages.aspx?ID=19), [Protean](/Languages.aspx?ID=33), [Requian](/Languages.aspx?ID=34), [Utopian](/Languages.aspx?ID=36)",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"\">[Vazgorlu](/Monsters.aspx?ID=493)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe arthropod monstrosity known as a vazgorlu makes its home on the Astral Plane or inside of a stable portal, ambushing creatures that travel there using dimensional magic.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 45\r\n\r\n**[Recall Knowledge - Astral](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 45\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 43\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 40\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Vazgorlu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Vazgorlu](/Monsters.aspx?ID=493)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Astral\" url=\"/Traits.aspx?ID=14\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 83</row>\n\n**Perception** +33; darkvision\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Aklo](/Languages.aspx?ID=13), [Celestial](/Languages.aspx?ID=16), [Daemonic](/Languages.aspx?ID=31), [Infernal](/Languages.aspx?ID=19), [Protean](/Languages.aspx?ID=33), [Requian](/Languages.aspx?ID=34), [Utopian](/Languages.aspx?ID=36)\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +38, [Deception](/Skills.aspx?ID=5) +38, [Portal Lore](/Skills.aspx?ID=8) +41, [Stealth](/Skills.aspx?ID=15) +34, [Thievery](/Skills.aspx?ID=17) +32\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +7\r\n\r\n**Con** +6\r\n\r\n**Int** +7\r\n\r\n**Wis** +8\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 45 \r\n\r\n**Fort** +30 \r\n\r\n**Ref** +33 \r\n\r\n**Will** +36 \n\n</row>\r\n\r\n**HP** 380\n\n**Immunities**\r\nacid, paralyzed, sleep\r\n\r\n**Resistances**\r\ncold 15, physical 10 (except cold iron)\n\n**Hostile Juxtaposition** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [teleportation](/Traits.aspx?ID=156)) **Trigger** A creature targets the vazgorlu with a Strike; **Effect** The vazgorlu chooses a different creature within 60 feet and attempts to swap places with that creature using [_dimension door_](/Spells.aspx?ID=69) in the instant before the Strike. The target must attempt a DC 39 Will save.<br /> **Critical Success** The target resists the teleportation, and the vazgorlu can’t use Hostile Juxtaposition for 1d4 rounds.<br /> **Success** The target resists the teleportation.<br /> **Failure** The target and the vazgorlu instantly swap places, and the triggering Strike is resolved against the target instead.<br /> **Critical Failure** As failure, but the target is transported to the vazgorlu’s demiplane after resolving the triggering Strike against it.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +38 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d10+8 piercing plus 3d10 acid\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nweb +38 ([range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 6d6+8 acid plus dimensional tether\r\n\r\n**Arcane Innate Spells** DC 35\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **7th**\r\n[Plane Shift](/Spells.aspx?ID=222) (to and from the vazgorlu's demiplane only), [Teleport](/Spells.aspx?ID=338) (x3)\r\n- **Constant (4th)**\r\n[Air Walk](/Spells.aspx?ID=6)\r\n\r\n**Dimensional Tether**   A creature hit by a vazgorlu’s web Strike is [immobilized](/Conditions.aspx?ID=24) and stuck to the nearest surface until it Escapes (DC 42). As long as it remains immobilized by the web, the web attempts to counteract any effect that would move the webbed creature to another plane, with a counteract level of 10 and using the vazgorlu’s Arcana skill to attempt the counteract check.\r\n\r\n**Demiplane Lair**   A vazgorlu maintains a 30-foot-diameter demiplane in the Astral Plane. Gravity in this demiplane pulls out from the center, so that creatures can walk upon the inner surface. A vazgorlu’s demiplane lair lacks a built-in point of exit, and if the vazgorlu fails to visit the demiplane during a 24-hour period, the demiplane collapses— all objects and creatures within are then returned to their original locations in the multiverse before they entered the demiplane. A vazgorlu can create a replacement demiplane lair with 24 hours of concentration.\r\n\r\n**Redirect Portal**   A vazgorlu can spend 10 minutes in contact with a magical portal to redirect it, causing the portal to instead lead to its demiplane lair. To do so, the vazgorlu must succeed at a Portal Lore check (the DC is either equal to the caster’s spell DC for a portal created by a spell, or set by the portal’s level, [as listed here](/Rules.aspx?ID=554); if the portal in question has no level listed, assume it’s a 20th-level portal).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Vazgorlu Digestion</title>\r\n\r\nA vazgorlu gains nourishment from both the biological result of digesting a creature and the metaphysical consumption of that creature’s connection to the multiverse once it has been cut off from other dimensions. As such, a vazgorlu can only be truly sated while consuming prey in its own lair, where it can devour a creature in both ways.\r\n</aside>",
+ "name": "Vazgorlu",
+ "npc": false,
+ "perception": 33,
+ "rarity": "rare",
+ "reflex_save": 33,
+ "release_date": "2019-12-12",
+ "resistance": {
+  "bludgeoning": 10,
+  "cold": 15,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "cold 15, physical 10 (except cold iron)",
+ "resistance_raw": "cold 15, physical 10 (except cold iron)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Astral\" url=\"/Traits.aspx?ID=14\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 83</row>\n\n<row gap=\"medium\">\r\n**HP** 380\r\n\r\n**AC** 45\r\n\r\n**Fort** +30\r\n\r\n**Ref** +33\r\n\r\n**Will** +36\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe arthropod monstrosity known as a vazgorlu makes its home on the Astral Plane or inside of a stable portal, ambushing creatures that travel there …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Arcana +38",
+  "Deception +38",
+  "Portal Lore +41",
+  "Stealth +34",
+  "Thievery +32"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +38, [Deception](/Skills.aspx?ID=5) +38, [Portal Lore](/Skills.aspx?ID=8) +41, [Stealth](/Skills.aspx?ID=15) +34, [Thievery](/Skills.aspx?ID=17) +32",
+ "source": [
+  "Pathfinder #150: Broken Promises"
+ ],
+ "source_raw": [
+  "Pathfinder #150: Broken Promises pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 83</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell": [
+  "Plane Shift",
+  "Teleport",
+  "Dimension Door",
+  "Air Walk"
+ ],
+ "spell_markdown": "[Air Walk](/Spells.aspx?ID=6), [Dimension Door](/Spells.aspx?ID=69), [Plane Shift](/Spells.aspx?ID=222), [Teleport](/Spells.aspx?ID=338)",
+ "spoilers": "Age of Ashes",
+ "stealth": "34",
+ "strength": 6,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The arthropod monstrosity known as a vazgorlu makes its home on the Astral Plane or inside of a stable portal, ambushing creatures that travel there …",
+ "summary_markdown": "The arthropod monstrosity known as a vazgorlu makes its home on the Astral Plane or inside of a stable portal, ambushing creatures that travel there …",
+ "text": " Vazgorlu The arthropod monstrosity known as a vazgorlu makes its home on the Astral Plane or inside of a stable portal, ambushing creatures that travel there using dimensional magic. Recall Knowledge - Aberration (Occultism): DC 45 Recall Knowledge - Astral (Occultism): DC 45 Unspecific Lore : DC 43 Specific Lore : DC 40 Vazgorlu Source Pathfinder #150: Broken Promises pg. 83 Perception +33; darkvision Languages Abyssal, Aklo, Celestial, Daemonic, Infernal, Protean, Requian, Utopian Skills Arcana +38, Deception +38, Portal Lore +41, Stealth +34, Thievery +32 Str +6 Dex +7 Con +6 Int +7 Wis +8 Cha +5 --- AC 45 Fort +30 Ref +33 Will +36 HP 380 Immunities acid, paralyzed, sleep Resistances cold 15, physical 10 (except cold iron) Hostile Juxtaposition Reaction (arcane, teleportation) Trigger A creature targets the vazgorlu with a Strike; Effect The vazgorlu chooses a different creature within 60 feet and attempts to swap places with that creature using dimension door in the instant before the Strike. The target must attempt a DC 39 Will save. Critical Success The target resists the teleportation, and the vazgorlu can’t use Hostile Juxtaposition for 1d4 rounds. Success The target resists the teleportation. Failure The target and the vazgorlu instantly swap places, and the triggering Strike is resolved against the target instead. Critical Failure As failure, but the target is transported to the vazgorlu’s demiplane after resolving the triggering Strike against it. --- Speed 30 feet, climb 30 feet Melee Single Action fangs +38 (reach 10 feet), Damage 4d10+8 piercing plus 3d10 acid Ranged Single Action web +38 (range increment 60 feet), Damage 6d6+8 acid plus dimensional tether Arcane Innate Spells DC 35 - 4th Dimension Door (at will) - 7th Plane Shift (to and from the vazgorlu's demiplane only), Teleport (x3) - Constant (4th) Air Walk Dimensional Tether A creature hit by a vazgorlu’s web Strike is immobilized and stuck to the nearest surface until it Escapes (DC 42). As long as it remains immobilized by the web, the web attempts to counteract any effect that would move the webbed creature to another plane, with a counteract level of 10 and using the vazgorlu’s Arcana skill to attempt the counteract check. Demiplane Lair A vazgorlu maintains a 30-foot-diameter demiplane in the Astral Plane. Gravity in this demiplane pulls out from the center, so that creatures can walk upon the inner surface. A vazgorlu’s demiplane lair lacks a built-in point of exit, and if the vazgorlu fails to visit the demiplane during a 24-hour period, the demiplane collapses— all objects and creatures within are then returned to their original locations in the multiverse before they entered the demiplane. A vazgorlu can create a replacement demiplane lair with 24 hours of concentration. Redirect Portal A vazgorlu can spend 10 minutes in contact with a magical portal to redirect it, causing the portal to instead lead to its demiplane lair. To do so, the vazgorlu must succeed at a Portal Lore check (the DC is either equal to the caster’s spell DC for a portal created by a spell, or set by the portal’s level, as listed here; if the portal in question has no level listed, assume it’s a 20th-level portal). Vazgorlu Digestion A vazgorlu gains nourishment from both the biological result of digesting a creature and the metaphysical consumption of that creature’s connection to the multiverse once it has been cut off from other dimensions. As such, a vazgorlu can only be truly sated while consuming prey in its own lair, where it can devour a creature in both ways. ",
+ "trait": [
+  "Aberration",
+  "Astral",
+  "Rare",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Astral](/Traits.aspx?ID=14), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Aberration",
+  "Astral",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=493",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 36,
+ "wisdom": 8
+}

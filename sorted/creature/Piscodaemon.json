@@ -1,0 +1,121 @@
+{
+ "ac": 28,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 6,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Enhance Venom",
+  "Constrict",
+  "Gory Rend",
+  "Piscovenom"
+ ],
+ "creature_family": "Daemon",
+ "creature_family_markdown": "[Daemon](/MonsterFamilies.aspx?ID=26)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 200,
+ "hp_raw": "200",
+ "id": "creature-592",
+ "image": [
+  "/Images/Monsters/Daemon_Piscodaemon.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "poison"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [poison](/Traits.aspx?ID=126)",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Daemonic",
+  "<%UMR%37%%>telepathy 100 feet<%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Daemonic](/Languages.aspx?ID=31); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Piscodaemon (Venom Daemon)](/Monsters.aspx?ID=592)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nScions of death by poisoning, piscodaemons are cruel even by daemonic standards, delighting in slow and painful suffering. To a piscodaemon, death is but the icing on a putrescent cake—its true pleasure comes from watching, hearing, smelling, and even tasting raw anguish. While poisons and venoms are piscodaemons' preferred tools, their cruel claws are more than capable of tearing enemies asunder if necessary.\n\nPiscodaemons dwell in fetid swamps and noxious waterways, including the River Styx, the Bile Sluice, and the Drowning Court of Charon, Horseman of Death. They are often accompanied by cadres of hydrodaemons—representations of death by drowning. While they are cunning commanders, piscodaemons are apt to forget their station in the heat of battle and slice their way to the center of the fray.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Daemon_Piscodaemon.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Piscodaemon](/Monsters.aspx?ID=592)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Daemon\" url=\"/Traits.aspx?ID=213\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 58 <sup>2.0</sup></row>\n\n**Perception** +19; [darkvision](/MonsterAbilities.aspx?ID=12), [_see invisibility_](/Spells.aspx?ID=271)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Daemonic](/Languages.aspx?ID=31); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +22, [Intimidation](/Skills.aspx?ID=7) +19, [Medicine](/Skills.aspx?ID=9) +17, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +19 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 200\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [poison](/Traits.aspx?ID=126)\n\n**Weaknesses**\r\ngood 10\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Enhance Venom** <actions string=\"Reaction\" /> ([divine](/Traits.aspx?ID=48), [misfortune](/Traits.aspx?ID=110), [necromancy](/Traits.aspx?ID=117), [poison](/Traits.aspx?ID=126)) **Trigger** A creature within 30 feet attempts a saving throw against piscovenom; **Effect** The creature takes an additional 2d8 poison damage even if it succeeds at its save.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d10+12 slashing plus 1d6 evil and [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +23 ([Agile](/Traits.aspx?ID=170), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+12 bludgeoning plus 1d6 evil and piscovenom\r\n\r\n**Divine Innate Spells** DC 29\r\n- **1st**\r\n[Detect Alignment](/Spells.aspx?ID=65) (at will; good only), [Detect Poison](/Spells.aspx?ID=67) (at will)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will), [Stinking Cloud](/Spells.aspx?ID=309) (×3)\r\n- **5th**\r\n[Dimension Door](/Spells.aspx?ID=69)\r\n- **Constant (2nd)**\r\n[See Invisibility](/Spells.aspx?ID=271)\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d10+6 bludgeoning, DC 30\r\n\r\n**Gory Rend** <actions string=\"Two Actions\" />  The piscodaemon makes two claw Strikes against the same creature. If both hit, the creature takes 2d10 [persistent bleed damage](/Conditions.aspx?ID=29) and is exposed to piscovenom.\r\n\r\n**Piscovenom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 30 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d8 poison and [enfeebled 1](/Conditions.aspx?ID=13) (1 round); **Stage 2** 2d8 poison and enfeebled 1 (1 round); **Stage 3** 4d8 poison and enfeebled 2 (1 round)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-26\" />",
+ "name": "Piscodaemon",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Daemon\" url=\"/Traits.aspx?ID=213\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 58 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Daemon](/MonsterFamilies.aspx?ID=26)\r\n\r\n<row gap=\"medium\">\r\n**HP** 200\r\n\r\n**AC** 28\r\n\r\n**Fort** +22\r\n\r\n**Ref** +16\r\n\r\n**Will** +19\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nScions of death by poisoning, piscodaemons are cruel even by daemonic standards, delighting in slow and painful suffering. To a piscodaemon, death is …\r\n</summary>",
+ "sense": " darkvision ,   see invisibility  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_see invisibility_](/Spells.aspx?ID=271)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +22",
+  "Intimidation +19",
+  "Medicine +17",
+  "Stealth +22",
+  "Survival +19"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +22, [Intimidation](/Skills.aspx?ID=7) +19, [Medicine](/Skills.aspx?ID=9) +17, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +19",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 58"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 58 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "25 feet, swim 40 feet",
+ "speed_raw": "25 feet, swim 40 feet",
+ "spell": [
+  "Dimension Door",
+  "Stinking Cloud",
+  "Detect Alignment",
+  "Detect Poison",
+  "See Invisibility"
+ ],
+ "spell_markdown": "[Detect Alignment](/Spells.aspx?ID=65), [Detect Poison](/Spells.aspx?ID=67), [Dimension Door](/Spells.aspx?ID=69), [See Invisibility](/Spells.aspx?ID=271), [Stinking Cloud](/Spells.aspx?ID=309)",
+ "stealth": "22",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Scions of death by poisoning, piscodaemons are cruel even by daemonic standards, delighting in slow and painful suffering. To a piscodaemon, death is …",
+ "summary_markdown": "Scions of death by poisoning, piscodaemons are cruel even by daemonic standards, delighting in slow and painful suffering. To a piscodaemon, death is …",
+ "text": " Piscodaemon (Venom Daemon) Scions of death by poisoning, piscodaemons are cruel even by daemonic standards, delighting in slow and painful suffering. To a piscodaemon, death is but the icing on a putrescent cake—its true pleasure comes from watching, hearing, smelling, and even tasting raw anguish. While poisons and venoms are piscodaemons' preferred tools, their cruel claws are more than capable of tearing enemies asunder if necessary. Piscodaemons dwell in fetid swamps and noxious waterways, including the River Styx, the Bile Sluice, and the Drowning Court of Charon, Horseman of Death. They are often accompanied by cadres of hydrodaemons—representations of death by drowning. While they are cunning commanders, piscodaemons are apt to forget their station in the heat of battle and slice their way to the center of the fray. Recall Knowledge - Fiend (Religion): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Piscodaemon Source Bestiary 2 pg. 58 2.0 Perception +19; darkvision, see invisibility Languages Common, Daemonic; telepathy 100 feet Skills Athletics +22, Intimidation +19, Medicine +17, Stealth +22, Survival +19 Str +6 Dex +4 Con +6 Int +2 Wis +3 Cha +3 --- AC 28 Fort +22 Ref +16 Will +19 +1 status to all saves vs. magic HP 200 Immunities death effects, poison Weaknesses good 10 Attack of Opportunity Reaction Enhance Venom Reaction (divine, misfortune, necromancy, poison) Trigger A creature within 30 feet attempts a saving throw against piscovenom; Effect The creature takes an additional 2d8 poison damage even if it succeeds at its save. --- Speed 25 feet, swim 40 feet Melee Single Action claw +23 (Evil, Magical), Damage 2d10+12 slashing plus 1d6 evil and Grab Melee Single Action tentacle +23 (Agile, Evil, Magical), Damage 2d6+12 bludgeoning plus 1d6 evil and piscovenom Divine Innate Spells DC 29 - 1st Detect Alignment (at will; good only), Detect Poison (at will) - 4th Dimension Door (at will), Stinking Cloud (×3) - 5th Dimension Door - Constant (2nd) See Invisibility Constrict Single Action 2d10+6 bludgeoning, DC 30 Gory Rend Two Actions The piscodaemon makes two claw Strikes against the same creature. If both hit, the creature takes 2d10 persistent bleed damage and is exposed to piscovenom. Piscovenom (Poison) Saving Throw DC 30 Fortitude; Maximum Duration 6 rounds; Stage 1 1d8 poison and enfeebled 1 (1 round); Stage 2 2d8 poison and enfeebled 1 (1 round); Stage 3 4d8 poison and enfeebled 2 (1 round) ",
+ "trait": [
+  "Amphibious",
+  "Daemon",
+  "Fiend",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Daemon](/Traits.aspx?ID=213), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Amphibious",
+  "Daemon",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=592",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "good": 10
+ },
+ "weakness_markdown": "good 10",
+ "weakness_raw": "good 10",
+ "will_save": 19,
+ "wisdom": 3
+}

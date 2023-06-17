@@ -1,0 +1,96 @@
+{
+ "ac": 17,
+ "alignment": "LG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 0,
+ "creature_ability": [
+  "Upside Down",
+  "Spray Perfume"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 5,
+ "hp": 17,
+ "hp_raw": "17",
+ "id": "creature-1156",
+ "image": [
+  "/Images/Monsters/Flumph.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Aklo",
+  "Celestial",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Flumph](/Monsters.aspx?ID=1156)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nEven among the numerous types of tentacled aberrations populating the lands of Golarion, flumphs are an anomaly. Unlike most other aberrations, flumphs' monstrous appearance belies their true nature as gentle, good-natured creatures whose self-imposed duty is to bolster the defenses of worlds across the multiverse against onslaught from the cosmic horrors of the Dark Tapestry between the stars.\n\n Flumphs are small, jellyfish-like creatures who normally float about 5 feet off the ground on a self-generated cushion of wind, directing their movements with jets of air from countless tiny pores on the surface of their bodies. With some effort, the flumph can force air through these openings in a way that roughly approximates humanoid speech, albeit in a squeaky and halting tone.\n\n Though a flumph's underside is ringed with an array of acidic spikes that they use to hunt small prey, they are nearly defenseless against most attackers and usually attempt to flee when threatened. If cornered, a flumph can emit a foul-smelling spray capable of temporarily incapacitating enemies while warning nearby allies of their presence. This olfactory defense mechanism causes flumphs to feel more kinship with terrestrial creatures than with the jellyfish to which they bear a closer physical resemblance.\n\n Flumphs hatch from pods flung into outer space from the distant flumph homeworld in a ritual known as the Seeding. Even a newly hatched flumph has an instinctive knowledge of their purpose and seeks to make a lair close to a nearby settlement, which they then adopt as their personal charge to protect. However, remaining acutely aware of both their physical limitations and the tendency of their appearance to frighten the unsuspecting, most flumphs recruit and guide from afar, revealing their true nature only to their most trusted allies.\n\n In addition to their missions, flumphs endeavor to lead upstanding lives on a daily basis. They notably draw guidance from their dreams through exhaustive interpretations and carefully maintained dream journals. Life lessons, areas in which they can improve their behavior, and portents of alien danger all come to flumphs in dreams—or at least, that's what they believe. Despite placing so much importance on dreams, flumphs have never set out to prove their dreams are authentic messages.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Flumph.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Flumph](/Monsters.aspx?ID=1156)</title>\r\n\r\n<traits>\r\n<trait label=\"LG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 100</row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Dark Tapestry Lore](/Skills.aspx?ID=8) +8, [Diplomacy](/Skills.aspx?ID=6) +7, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +0\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 17\n\n**Upside Down** A flumph that is knocked [prone](/Conditions.aspx?ID=31) must succeed at a DC 11 flat check or land on its back, rendering it [flat-footed](/Conditions.aspx?ID=16) and [immobilized](/Conditions.aspx?ID=24). An adjacent ally can Interact to right the flumph, removing both conditions.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet, fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspikes +7 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d4 piercing plus 1d4 [persistent acid](/Conditions.aspx?ID=29)\n\n**Spray Perfume** <actions string=\"Single Action\" /> ([Olfactory](/Traits.aspx?ID=246)) The flumph sprays a 20-foot line of foul-smelling liquid. Each creature caught in the spray must succeed at a DC 16 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (sickened 2 on a critical failure). The odor from the spray lingers for 1d4 hours on all creatures that failed their saves. The sprayed creatures can be detected by smell at a range of 100 feet, and any creatures adjacent to them take a –2 circumstance penalty to saves against Spray Perfume or to recover from the sickened condition. The flumph can't use Spray Perfume again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Do You Swear?</title>\r\n\r\nFlumphs find great satisfaction in making and fulfilling oaths. They feel rewarded when keeping even a small promise, and pepper their social interactions with little agreements and accords. They take deception personally, and don't understand the concept of white lies. After fulfilling an oath, a flumph is sure to inform the other party. Incomplete oaths make flumphs anxious, causing them to check in if they believe they've been promised something—often with irritating frequency.\r\n</aside>",
+ "name": "Flumph",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 100</row>\n\n<row gap=\"medium\">\r\n**HP** 17\r\n\r\n**AC** 17\r\n\r\n**Fort** +5\r\n\r\n**Ref** +9\r\n\r\n**Will** +8\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEven among the numerous types of tentacled aberrations populating the lands of Golarion, flumphs are an anomaly. Unlike most other aberrations, …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Dark Tapestry Lore +8",
+  "Diplomacy +7",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Dark Tapestry Lore](/Skills.aspx?ID=8) +8, [Diplomacy](/Skills.aspx?ID=6) +7, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 100"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 100</row>",
+ "speed": {
+  "fly": 25,
+  "land": 5,
+  "max": 25
+ },
+ "speed_markdown": "5 feet, fly 25 feet",
+ "speed_raw": "5 feet, fly 25 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Even among the numerous types of tentacled aberrations populating the lands of Golarion, flumphs are an anomaly. Unlike most other aberrations, …",
+ "summary_markdown": "Even among the numerous types of tentacled aberrations populating the lands of Golarion, flumphs are an anomaly. Unlike most other aberrations, …",
+ "text": " Flumph Even among the numerous types of tentacled aberrations populating the lands of Golarion, flumphs are an anomaly. Unlike most other aberrations, flumphs' monstrous appearance belies their true nature as gentle, good-natured creatures whose self-imposed duty is to bolster the defenses of worlds across the multiverse against onslaught from the cosmic horrors of the Dark Tapestry between the stars. Flumphs are small, jellyfish-like creatures who normally float about 5 feet off the ground on a self-generated cushion of wind, directing their movements with jets of air from countless tiny pores on the surface of their bodies. With some effort, the flumph can force air through these openings in a way that roughly approximates humanoid speech, albeit in a squeaky and halting tone. Though a flumph's underside is ringed with an array of acidic spikes that they use to hunt small prey, they are nearly defenseless against most attackers and usually attempt to flee when threatened. If cornered, a flumph can emit a foul-smelling spray capable of temporarily incapacitating enemies while warning nearby allies of their presence. This olfactory defense mechanism causes flumphs to feel more kinship with terrestrial creatures than with the jellyfish to which they bear a closer physical resemblance. Flumphs hatch from pods flung into outer space from the distant flumph homeworld in a ritual known as the Seeding. Even a newly hatched flumph has an instinctive knowledge of their purpose and seeks to make a lair close to a nearby settlement, which they then adopt as their personal charge to protect. However, remaining acutely aware of both their physical limitations and the tendency of their appearance to frighten the unsuspecting, most flumphs recruit and guide from afar, revealing their true nature only to their most trusted allies. In addition to their missions, flumphs endeavor to lead upstanding lives on a daily basis. They notably draw guidance from their dreams through exhaustive interpretations and carefully maintained dream journals. Life lessons, areas in which they can improve their behavior, and portents of alien danger all come to flumphs in dreams—or at least, that's what they believe. Despite placing so much importance on dreams, flumphs have never set out to prove their dreams are authentic messages. Recall Knowledge - Aberration (Occultism): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Flumph Source Bestiary 3 pg. 100 Perception +8; darkvision Languages Aklo, Celestial, Common Skills Acrobatics +7, Dark Tapestry Lore +8, Diplomacy +7, Stealth +7 Str +0 Dex +4 Con +0 Int +1 Wis +3 Cha +2 --- AC 17 Fort +5 Ref +9 Will +8 HP 17 Upside Down A flumph that is knocked prone must succeed at a DC 11 flat check or land on its back, rendering it flat-footed and immobilized. An adjacent ally can Interact to right the flumph, removing both conditions. --- Speed 5 feet, fly 25 feet Melee Single Action spikes +7 (Agile, Finesse), Damage 1d4 piercing plus 1d4 persistent acid Spray Perfume Single Action (Olfactory) The flumph sprays a 20-foot line of foul-smelling liquid. Each creature caught in the spray must succeed at a DC 16 Fortitude save or become sickened 1 (sickened 2 on a critical failure). The odor from the spray lingers for 1d4 hours on all creatures that failed their saves. The sprayed creatures can be detected by smell at a range of 100 feet, and any creatures adjacent to them take a –2 circumstance penalty to saves against Spray Perfume or to recover from the sickened condition. The flumph can't use Spray Perfume again for 1d4 rounds. Do You Swear? Flumphs find great satisfaction in making and fulfilling oaths. They feel rewarded when keeping even a small promise, and pepper their social interactions with little agreements and accords. They take deception personally, and don't understand the concept of white lies. After fulfilling an oath, a flumph is sure to inform the other party. Incomplete oaths make flumphs anxious, causing them to check in if they believe they've been promised something—often with irritating frequency. ",
+ "trait": [
+  "Aberration",
+  "LG",
+  "Small"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1156",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 3
+}

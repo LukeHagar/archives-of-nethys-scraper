@@ -1,0 +1,90 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 3,
+ "creature_ability": [
+  "Aquatic Ambush",
+  "Death Roll",
+  "Deep Breath"
+ ],
+ "creature_family": "Crocodile",
+ "creature_family_markdown": "[Crocodile](/MonsterFamilies.aspx?ID=24)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-84",
+ "image": [
+  "/Images/Monsters/Crocodile.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Crocodile](/Monsters.aspx?ID=84)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCrocodiles can be found basking on riverbanks, lurking in swamps, or floating in lakes. They are usually are indistinguishable from logs when viewed from afar—at least until they attack. Alligators have similar statistics, but because they often live in more temperate climates, they endure cold temperatures better. Unlike alligators, crocodiles can tolerate salt water. Both are formidable predators that are likely to devour careless adventurers who fail to watch where they step.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Crocodile.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Crocodile](/Monsters.aspx?ID=84)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 67</row>\n\n**Perception** +7; low-light vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 30\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10,\r\n**Damage** 1d10+4 piercing plus Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +10 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+4 bludgeoning\n\n**[Aquatic Ambush](/MonsterAbilities.aspx?ID=2)** <actions string=\"Single Action\" />  35 feet\r\n\r\n**Death Roll** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) **Requirement** The crocodile must have a creature grabbed. **Effect** The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature prone. If it fails, it releases the creature.\r\n\r\n**Deep Breath**   The crocodile can hold its breath for about 2 hours.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-24\" />",
+ "name": "Crocodile",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 67</row>\r\n\r\n**Creature Family** [Crocodile](/MonsterFamilies.aspx?ID=24)\r\n\r\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +7\r\n\r\n**Will** +5\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCrocodiles can be found basking on riverbanks, lurking in swamps, or floating in lakes. They are usually are indistinguishable from logs when viewed …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 67"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 67</row>",
+ "speed": {
+  "land": 20,
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "20 feet, swim 25 feet",
+ "speed_raw": "20 feet, swim 25 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Crocodiles can be found basking on riverbanks, lurking in swamps, or floating in lakes. They are usually are indistinguishable from logs when viewed …",
+ "summary_markdown": "Crocodiles can be found basking on riverbanks, lurking in swamps, or floating in lakes. They are usually are indistinguishable from logs when viewed …",
+ "text": " Crocodile Crocodiles can be found basking on riverbanks, lurking in swamps, or floating in lakes. They are usually are indistinguishable from logs when viewed from afar—at least until they attack. Alligators have similar statistics, but because they often live in more temperate climates, they endure cold temperatures better. Unlike alligators, crocodiles can tolerate salt water. Both are formidable predators that are likely to devour careless adventurers who fail to watch where they step. Recall Knowledge - Animal (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Crocodile Source Bestiary pg. 67 Perception +7; low-light vision Languages Skills Athletics +8, Stealth +7 Str +4 Dex +1 Con +3 Int -5 Wis +1 Cha -4 --- AC 18 Fort +9 Ref +7 Will +5 HP 30 --- Speed 20 feet, swim 25 feet Melee Single Action jaws +10, Damage 1d10+4 piercing plus Grab Melee Single Action tail +10 (Agile), Damage 1d6+4 bludgeoning Aquatic Ambush Single Action 35 feet Death Roll Single Action (Attack) Requirement The crocodile must have a creature grabbed. Effect The crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature prone. If it fails, it releases the creature. Deep Breath The crocodile can hold its breath for about 2 hours. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=84",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 5,
+ "wisdom": 1
+}

@@ -1,0 +1,87 @@
+{
+ "ac": 33,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 7,
+ "creature_ability": [
+  "Wing Rebuff",
+  "Flying Strafe",
+  "Snack",
+  "Snatch"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 220,
+ "hp_raw": "220",
+ "id": "creature-2236",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"\">[Talon Peak Roc](/Monsters.aspx?ID=2236)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Talon Peak Roc](/Monsters.aspx?ID=2236)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 91</row>\n\n**Perception** +22; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +20, [Athletics](/Skills.aspx?ID=3) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +5\r\n\r\n**Con** +7\r\n\r\n**Int** -4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 220\n\n**Wing Rebuff** <actions string=\"Reaction\" /> **Trigger** A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing; **Effect** The roc makes a wing Strike against the triggering creature. If the roc [Pushes](/MonsterAbilities.aspx?ID=25) the creature, it disrupts the triggering [move](/Traits.aspx?ID=114) action.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +26 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+12 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +26 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+12 slashing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwing +26 ([Agile](/Traits.aspx?ID=170), [reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+12 bludgeoning plus [Improved Push](/MonsterAbilities.aspx?ID=29) 10 feet\n\n**Flying Strafe** <actions string=\"Two Actions\" />  The roc [Flies](/Actions.aspx?ID=94) up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty.\r\n\r\n**Snack**   The roc gains a +2 circumstance bonus to hit with its beak if the target is [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) in its talon.\r\n\r\n**Snatch**   The Talon Peak roc can Fly at half Speed while it has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) in either or both of its talons, carrying that creature along with it.\r\n\r\n</column>",
+ "name": "Talon Peak Roc",
+ "npc": false,
+ "perception": 22,
+ "rarity": "unique",
+ "reflex_save": 23,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 91</row>\n\n<row gap=\"medium\">\r\n**HP** 220\r\n\r\n**AC** 33\r\n\r\n**Fort** +25\r\n\r\n**Ref** +23\r\n\r\n**Will** +20\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +20",
+  "Athletics +24"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +20, [Athletics](/Skills.aspx?ID=3) +24",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 91"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 91</row>",
+ "speed": {
+  "fly": 60,
+  "land": 20,
+  "max": 60
+ },
+ "speed_markdown": "20 feet, fly 60 feet",
+ "speed_raw": "20 feet, fly 60 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Talon Peak Roc Recall Knowledge - Animal (Nature): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Talon Peak Roc Source Kingmaker Adventure Path pg. 91 Perception +22; low-light vision Languages Skills Acrobatics +20, Athletics +24 Str +8 Dex +5 Con +7 Int -4 Wis +4 Cha +0 --- AC 33 Fort +25 Ref +23 Will +20 HP 220 Wing Rebuff Reaction Trigger A creature moves from beyond the reach of the roc's wing to within the reach of the roc's wing; Effect The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action. --- Speed 20 feet, fly 60 feet Melee Single Action beak +26 (reach 15 feet), Damage 3d12+12 piercing Melee Single Action talon +26 (Agile, reach 15 feet), Damage 3d8+12 slashing plus Improved Grab Melee Single Action wing +26 (Agile, reach 30 feet), Damage 2d8+12 bludgeoning plus Improved Push 10 feet Flying Strafe Two Actions The roc Flies up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty. Snack The roc gains a +2 circumstance bonus to hit with its beak if the target is grabbed or restrained in its talon. Snatch The Talon Peak roc can Fly at half Speed while it has a creature grabbed or restrained in either or both of its talons, carrying that creature along with it. ",
+ "trait": [
+  "Animal",
+  "Unique",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Animal",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2236",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 20,
+ "wisdom": 4
+}

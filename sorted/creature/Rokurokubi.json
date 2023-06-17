@@ -1,0 +1,100 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Drink Oil",
+  "Extend Neck",
+  "Threatening Lunge"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-1278",
+ "image": [
+  "/Images/Monsters/Rokurokubi.png"
+ ],
+ "immunity": [
+  "sleep"
+ ],
+ "immunity_markdown": "[sleep](/Traits.aspx?ID=145)",
+ "intelligence": 2,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Rokurokubi](/Monsters.aspx?ID=1278)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRokurokubi come into being when mortals are cursed for some misdeed, though often the one who bears the curse is not the one who committed the offense, but instead their child or spouse. The curse slowly transforms the individual into a rokurokubi as they sleep. At first, their neck extends, or even detaches altogether, to let their head roam freely and engage in simple mischief like scaring neighbors or animals. The sleeper may awaken the next morning from a hazy dream of drinking the oil from nearby lanterns, only to find them indeed empty.\n\n Over time, the bizarre acts progress to increasingly mischievous or even violent crimes. There's only a brief period during which the nascent rokurokubi might still be saved by dispelling the curse, but before long, they are fully consumed, never to sleep again.\n\n Most rokurokubi despair at their state, seeking to drown their sorrows in drink or simply stay out of sight. A nefarious few rokurokubi embrace their fate and seek to enhance their power by completely giving in to the curse. This grants them the ability to cast potent occult spells but inevitably twists them even more toward evil.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Rokurokubi.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Rokurokubi](/Monsters.aspx?ID=1278)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 216</row>\n\n**Perception** +9; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +7, [Deception](/Skills.aspx?ID=5) +8, [Diplomacy](/Skills.aspx?ID=6) +8, [Intimidation](/Skills.aspx?ID=7) +8, [Society](/Skills.aspx?ID=14) +6, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 30\n\n**Immunities**\r\n[sleep](/Traits.aspx?ID=145)\n\n**Attack of Opportunity** <actions string=\"Reaction\" /> Jaws only<br />**Drink Oil** <actions string=\"Reaction\" /> **Trigger** The rokurokubi is the target of an [alchemical bomb](/Traits.aspx?ID=21) Strike; **Requirements** The rokurokubi is aware of the attack, not [flat-footed](/Conditions.aspx?ID=16) against it, and doesn't have a creature [grabbed](/Conditions.aspx?ID=20) with their jaws; **Effect** The rokurokubi attempts to catch the flung bomb in their mouth. They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, they catch the bomb in their mouth and harmlessly drink its contents down, regaining Hit Points equal to the bomb's item level.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10 ([Finesse](/Traits.aspx?ID=179), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+3 piercing plus 1d6 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8+3 slashing\n\n**Extend Neck** <actions string=\"Single Action\" />  The rokurokubi extends their neck, increasing the reach of their jaws Strike from 10 feet to 20 feet until the end of their next turn.\r\n\r\n**Threatening Lunge** <actions string=\"Two Actions\" />  **Requirements** The rokurokubi's neck is not currently extended; **Effect** The rokurokubi's head comes within an inch of their target's face before striking. They Extend their Neck, attempt to [Demoralize](/Actions.aspx?ID=53) one opponent within 20 feet, and then make a jaws Strike against that opponent. Their Demoralize check is a [visual](/Traits.aspx?ID=163) rather than [auditory](/Traits.aspx?ID=16) effect, and they don't take a penalty if the target doesn't understand their language.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Long Necks, Long Tales</title>\r\n\r\nWhile an encounter with a real rokurokubi is terrifying, many are familiar with them in a less chilling form as the subject of ghost stories and plays, often told by a wandering storyteller at the side of a road or at a festival. An especially common performance involves two performers against a black curtain—one with a black hood covering their head, the other covered in black tights from the neck down—portraying one creature, with a length of cloth or string between the two giving the illusion of an extending neck.\r\n</aside>",
+ "name": "Rokurokubi",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 216</row>\n\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 18\r\n\r\n**Fort** +7\r\n\r\n**Ref** +8\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRokurokubi come into being when mortals are cursed for some misdeed, though often the one who bears the curse is not the one who committed the …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +7",
+  "Deception +8",
+  "Diplomacy +8",
+  "Intimidation +8",
+  "Society +6",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +7, [Deception](/Skills.aspx?ID=5) +8, [Diplomacy](/Skills.aspx?ID=6) +8, [Intimidation](/Skills.aspx?ID=7) +8, [Society](/Skills.aspx?ID=14) +6, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 216"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 216</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 3,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Rokurokubi come into being when mortals are cursed for some misdeed, though often the one who bears the curse is not the one who committed the …",
+ "summary_markdown": "Rokurokubi come into being when mortals are cursed for some misdeed, though often the one who bears the curse is not the one who committed the …",
+ "text": " Rokurokubi Rokurokubi come into being when mortals are cursed for some misdeed, though often the one who bears the curse is not the one who committed the offense, but instead their child or spouse. The curse slowly transforms the individual into a rokurokubi as they sleep. At first, their neck extends, or even detaches altogether, to let their head roam freely and engage in simple mischief like scaring neighbors or animals. The sleeper may awaken the next morning from a hazy dream of drinking the oil from nearby lanterns, only to find them indeed empty. Over time, the bizarre acts progress to increasingly mischievous or even violent crimes. There's only a brief period during which the nascent rokurokubi might still be saved by dispelling the curse, but before long, they are fully consumed, never to sleep again. Most rokurokubi despair at their state, seeking to drown their sorrows in drink or simply stay out of sight. A nefarious few rokurokubi embrace their fate and seek to enhance their power by completely giving in to the curse. This grants them the ability to cast potent occult spells but inevitably twists them even more toward evil. Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Rokurokubi Source Bestiary 3 pg. 216 Perception +9; darkvision Languages Common Skills Athletics +7, Deception +8, Diplomacy +8, Intimidation +8, Society +6, Stealth +8 Str +3 Dex +4 Con +3 Int +2 Wis +3 Cha +4 --- AC 18 Fort +7 Ref +8 Will +9 HP 30 Immunities sleep Attack of Opportunity Reaction Jaws only Drink Oil Reaction Trigger The rokurokubi is the target of an alchemical bomb Strike; Requirements The rokurokubi is aware of the attack, not flat-footed against it, and doesn't have a creature grabbed with their jaws; Effect The rokurokubi attempts to catch the flung bomb in their mouth. They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, they catch the bomb in their mouth and harmlessly drink its contents down, regaining Hit Points equal to the bomb's item level. --- Speed 25 feet Melee Single Action jaws +10 (Finesse, reach 10 feet), Damage 1d8+3 piercing plus 1d6 persistent bleed Melee Single Action claw +10 (Agile, Finesse), Damage 1d8+3 slashing Extend Neck Single Action The rokurokubi extends their neck, increasing the reach of their jaws Strike from 10 feet to 20 feet until the end of their next turn. Threatening Lunge Two Actions Requirements The rokurokubi's neck is not currently extended; Effect The rokurokubi's head comes within an inch of their target's face before striking. They Extend their Neck, attempt to Demoralize one opponent within 20 feet, and then make a jaws Strike against that opponent. Their Demoralize check is a visual rather than auditory effect, and they don't take a penalty if the target doesn't understand their language. Long Necks, Long Tales While an encounter with a real rokurokubi is terrifying, many are familiar with them in a less chilling form as the subject of ghost stories and plays, often told by a wandering storyteller at the side of a road or at a festival. An especially common performance involves two performers against a black curtain—one with a black hood covering their head, the other covered in black tights from the neck down—portraying one creature, with a length of cloth or string between the two giving the illusion of an extending neck. ",
+ "trait": [
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1278",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 3
+}

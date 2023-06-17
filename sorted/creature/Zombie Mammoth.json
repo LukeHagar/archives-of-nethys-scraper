@@ -1,0 +1,107 @@
+{
+ "ac": 27,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 5,
+ "creature_ability": [
+  "Slow",
+  "Severed Trunk",
+  "Greater Constrict",
+  "Shambling Trample"
+ ],
+ "creature_family": "Zombie",
+ "creature_family_markdown": "[Zombie](/MonsterFamilies.aspx?ID=103)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 290,
+ "hp_raw": "290 ( negative healing )",
+ "id": "creature-1923",
+ "image": [
+  "/Images/Monsters/Zombie_ZombieMammoth.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Zombie Mammoth](/Monsters.aspx?ID=1923)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis monstrous creature can overrun defenses and stomp foes into the ground, making it a terror on any battlefield.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Zombie_ZombieMammoth.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Zombie Mammoth](/Monsters.aspx?ID=1923)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 173</row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +0\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +2\r\n\r\n**Cha** -3\r\n</row>\r\n\r\n**Slow** A zombie mammoth is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 290\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 10, slashing 10\r\n\r\n**Severed Trunk** When the zombie mammoth is hit by a critical hit that deals slashing damage, the mammoth's trunk is severed from its body. Any creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) with the trunk is released, and the mammoth loses its trunk Strike and Greater Constrict.<br /> The trunk slithers across the battlefield, still animated, and acts in initiative right after the mammoth. It retains Greater Constrict and trunk Strikes but can't use tusk Strikes, foot Strikes, or Shambling Trample. It has all the stats of the mammoth, except its AC is reduced to 23, it has only 50 Hit Points, and its Speed is 10 feet. Damage dealt to the severed trunk has no effect on the zombie mammoth.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 45 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntusk +24 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+13 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntrunk +24 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+7 bludgeoning plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +24 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+13 bludgeoning\n\n**[Greater Constrict](/MonsterAbilities.aspx?ID=19)** <actions string=\"Single Action\" />  2d10+7 bludgeoning, DC 30\r\n\r\n**Shambling Trample** <actions string=\"Two Actions\" />  As [Trample](/MonsterAbilities.aspx?ID=39) (Large or smaller, foot, DC 30), but the zombie mammoth Strides up to its Speed instead of double.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-103\" />",
+ "name": "Zombie Mammoth",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 173</row>\r\n\r\n**Creature Family** [Zombie](/MonsterFamilies.aspx?ID=103)\r\n\r\n<row gap=\"medium\">\r\n**HP** 290 ( negative healing )\r\n\r\n**AC** 27\r\n\r\n**Fort** +22\r\n\r\n**Ref** +15\r\n\r\n**Will** +19\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis monstrous creature can overrun defenses and stomp foes into the ground, making it a terror on any battlefield.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +24"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +24",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 173"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 173</row>",
+ "speed": {
+  "land": 45,
+  "max": 45
+ },
+ "speed_markdown": "45 feet",
+ "speed_raw": "45 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "This monstrous creature can overrun defenses and stomp foes into the ground, making it a terror on any battlefield.",
+ "summary_markdown": "This monstrous creature can overrun defenses and stomp foes into the ground, making it a terror on any battlefield.",
+ "text": " Zombie Mammoth This monstrous creature can overrun defenses and stomp foes into the ground, making it a terror on any battlefield. Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Zombie Mammoth Source Book of the Dead pg. 173 Perception +17; darkvision Languages Skills Athletics +24 Str +7 Dex +0 Con +5 Int -5 Wis +2 Cha -3 Slow A zombie mammoth is permanently slowed 1 and can't use reactions. --- AC 27 Fort +22 Ref +15 Will +19 HP 290 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, unconscious Weaknesses positive 10, slashing 10 Severed Trunk When the zombie mammoth is hit by a critical hit that deals slashing damage, the mammoth's trunk is severed from its body. Any creature grabbed or restrained with the trunk is released, and the mammoth loses its trunk Strike and Greater Constrict. The trunk slithers across the battlefield, still animated, and acts in initiative right after the mammoth. It retains Greater Constrict and trunk Strikes but can't use tusk Strikes, foot Strikes, or Shambling Trample. It has all the stats of the mammoth, except its AC is reduced to 23, it has only 50 Hit Points, and its Speed is 10 feet. Damage dealt to the severed trunk has no effect on the zombie mammoth. --- Speed 45 feet Melee Single Action tusk +24 (reach 15 feet), Damage 3d10+13 piercing Melee Single Action trunk +24 (reach 15 feet), Damage 2d10+7 bludgeoning plus Improved Grab Melee Single Action foot +24 (reach 10 feet), Damage 2d10+13 bludgeoning Greater Constrict Single Action 2d10+7 bludgeoning, DC 30 Shambling Trample Two Actions As Trample (Large or smaller, foot, DC 30), but the zombie mammoth Strides up to its Speed instead of double. ",
+ "trait": [
+  "Mindless",
+  "Undead",
+  "Zombie",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Undead](/Traits.aspx?ID=160), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Mindless",
+  "Undead",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1923",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "positive": 10,
+  "slashing": 10
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 10, slashing 10",
+ "weakness_raw": " positive  10, slashing 10",
+ "will_save": 19,
+ "wisdom": 2
+}

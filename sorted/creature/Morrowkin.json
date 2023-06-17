@@ -1,0 +1,90 @@
+{
+ "ac": 34,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 7,
+ "creature_ability": [
+  "Disgusted by Food",
+  "Endless",
+  "Drain Potential",
+  "Swallow Future",
+  "Tomorrow's Fury"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 320,
+ "hp_raw": "320",
+ "id": "creature-2038",
+ "intelligence": 5,
+ "language_markdown": "",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Morrowkin](/Monsters.aspx?ID=2038)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 42\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 40\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 37\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Morrowkin](/Monsters.aspx?ID=2038)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Time\" url=\"/Traits.aspx?ID=313\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 192</row>\n\n**Perception** +24\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +26, [Deception](/Skills.aspx?ID=5) +24, [Intimidation](/Skills.aspx?ID=7) +28, [Occultism](/Skills.aspx?ID=11) +25, [Stealth](/Skills.aspx?ID=15) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +7\r\n\r\n**Con** +7\r\n\r\n**Int** +5\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Disgusted by Food** The morrowkin eats dreams and potential, not food. A creature that spends an action to brandish food at the morrowkin automatically makes the creature [sickened 1](/Conditions.aspx?ID=34) (or increases its sickened value by 1, to a maximum of sickened 6), decreasing the morrowkin's AC, attack rolls, saves, skills, and ability DCs accordingly, as normal for the sickened condition. The morrowkin can't retch to reduce its sickened condition.<br />**Endless** If reduced to 0 Hit Points or incapacitated for more than a few rounds, the morrowkin vanishes. In 1 minute, it reappears refreshed completely as if the previous battle never happened, with full HP, with all effects on it cleared, and with its Swallow Future ability ready to use again.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 34 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 320\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +29 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 10](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+14 slashing plus drain potential\n\n**Drain Potential**  ([Misfortune](/Traits.aspx?ID=110), [Negative](/Traits.aspx?ID=118)) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude save. If the target fails, it is [doomed 1](/Conditions.aspx?ID=9) (doomed 2 on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected.\r\n\r\n**Swallow Future** <actions string=\"Two Actions\" /> ([Mental](/Traits.aspx?ID=106), [Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118)) The morrowkin inhales and draws forth the future deeds of all creatures around it. All creatures within a 30-foot emanation of the morrowkin take 6d8+18 mental damage and must attempt a DC 39 Will save. The morrowkin can't Swallow Future again for 1 minute. Creatures wearing hope talismans can choose to let their hope talisman break in order to ignore the effect after seeing the result of their Will save.<br /> **Critical Success** The creature takes no damage.<br /> **Success** The creature takes half damage and is [doomed 1](/Conditions.aspx?ID=9).<br /> **Failure** The creature takes full damage and is doomed 2.<br /> **Critical Failure** The creature takes double damage and becomes doomed 4 (likely causing it to die immediately).\r\n\r\n**Tomorrow's Fury** <actions string=\"Two Actions\" />  The morrowkin makes claw attacks against any number of targets within reach. The claw attacks count against the morrowkin's multiple attack penalty, but don't apply the penalty until after all attacks have been made.\r\n\r\n</column>",
+ "name": "Morrowkin",
+ "npc": false,
+ "perception": 24,
+ "rarity": "unique",
+ "reflex_save": 25,
+ "release_date": "2022-07-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Time\" url=\"/Traits.aspx?ID=313\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 192</row>\n\n<row gap=\"medium\">\r\n**HP** 320\r\n\r\n**AC** 34\r\n\r\n**Fort** +28\r\n\r\n**Ref** +25\r\n\r\n**Will** +25\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +26",
+  "Deception +24",
+  "Intimidation +28",
+  "Occultism +25",
+  "Stealth +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +26, [Deception](/Skills.aspx?ID=5) +24, [Intimidation](/Skills.aspx?ID=7) +28, [Occultism](/Skills.aspx?ID=11) +25, [Stealth](/Skills.aspx?ID=15) +25",
+ "source": [
+  "Dark Archive"
+ ],
+ "source_raw": [
+  "Dark Archive pg. 192"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Dark Archive](/Sources.aspx?ID=129) pg. 192</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "stealth": "25",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Morrowkin Recall Knowledge - Aberration (Occultism): DC 42 Unspecific Lore : DC 40 Specific Lore : DC 37 Morrowkin Source Dark Archive pg. 192 Perception +24 Languages Skills Athletics +26, Deception +24, Intimidation +28, Occultism +25, Stealth +25 Str +8 Dex +7 Con +7 Int +5 Wis +4 Cha +4 Disgusted by Food The morrowkin eats dreams and potential, not food. A creature that spends an action to brandish food at the morrowkin automatically makes the creature sickened 1 (or increases its sickened value by 1, to a maximum of sickened 6), decreasing the morrowkin's AC, attack rolls, saves, skills, and ability DCs accordingly, as normal for the sickened condition. The morrowkin can't retch to reduce its sickened condition. Endless If reduced to 0 Hit Points or incapacitated for more than a few rounds, the morrowkin vanishes. In 1 minute, it reappears refreshed completely as if the previous battle never happened, with full HP, with all effects on it cleared, and with its Swallow Future ability ready to use again. --- AC 34 Fort +28 Ref +25 Will +25 HP 320 --- Speed 35 feet Melee Single Action claw +29 (Agile, Finesse, reach 10), Damage 3d8+14 slashing plus drain potential Drain Potential (Misfortune, Negative) The morrowkin tries to drain the motivation from its target, who must attempt a DC 31 Fortitude save. If the target fails, it is doomed 1 (doomed 2 on a critical failure) and must roll twice and use the worse result on all checks for 1 minute. Creatures wearing a hope talisman are unaffected. Swallow Future Two Actions (Mental, Necromancy, Negative) The morrowkin inhales and draws forth the future deeds of all creatures around it. All creatures within a 30-foot emanation of the morrowkin take 6d8+18 mental damage and must attempt a DC 39 Will save. The morrowkin can't Swallow Future again for 1 minute. Creatures wearing hope talismans can choose to let their hope talisman break in order to ignore the effect after seeing the result of their Will save. Critical Success The creature takes no damage. Success The creature takes half damage and is doomed 1. Failure The creature takes full damage and is doomed 2. Critical Failure The creature takes double damage and becomes doomed 4 (likely causing it to die immediately). Tomorrow's Fury Two Actions The morrowkin makes claw attacks against any number of targets within reach. The claw attacks count against the morrowkin's multiple attack penalty, but don't apply the penalty until after all attacks have been made. ",
+ "trait": [
+  "Aberration",
+  "Time",
+  "Unique",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Time](/Traits.aspx?ID=313), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Aberration",
+  "Time",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2038",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 4
+}

@@ -1,0 +1,117 @@
+{
+ "ac": 17,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 0,
+ "creature_ability": [
+  "Field of Undeath",
+  "Denounce Heretic"
+ ],
+ "creature_family": "Deathless Acolyte",
+ "creature_family_markdown": "[Deathless Acolyte](/MonsterFamilies.aspx?ID=306)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 36,
+ "hp_raw": "36 ( negative healing )",
+ "id": "creature-1853",
+ "image": [
+  "/Images/Monsters/DeathlessAcolyte.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Deathless Acolyte](/Monsters.aspx?ID=1853)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n_[**PFS Note**](PFS.aspx): While the Deathless Acolyte of Urgathoa can be used for the purpose of summoning spells and similar, the rules for Deathless Deity Adjustments may not be used in Organized Play._<br />Deathless acolytes typically arise when a deity or their herald expends a minor amount of power to return a low-ranking priest. Some priests are powerful enough in life to return, greatly lessened, of their own volition.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/DeathlessAcolyte.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Deathless Acolyte of Urgathoa](/Monsters.aspx?ID=1853)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 88</row>\n\n**Perception** +9; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Intimidation](/Skills.aspx?ID=7) +9, [Occultism](/Skills.aspx?ID=11) +8, [Religion](/Skills.aspx?ID=13) +11, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +2\r\n\r\n**Con** +0\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[Scythe](/Weapons.aspx?ID=39), [religious symbol](/Equipment.aspx?ID=41) of [Urgathoa](/Deities.aspx?ID=19)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 36\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Field of Undeath** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) 20 feet. Allies within the aura who have [negative healing](/MonsterAbilities.aspx?ID=42) gain [fast healing 2](/MonsterAbilities.aspx?ID=15). When a creature within the aura would receive [positive](/Traits.aspx?ID=128) [healing](/Traits.aspx?ID=89), it must succeed at a DC 5 flat check or receive no healing from the effect.<br />**Denounce Heretic** <actions string=\"Reaction\" /> ([abjuration](/Traits.aspx?ID=2), [divine](/Traits.aspx?ID=48)) **Trigger** A creature within 60 feet who the deathless acolyte can see and who doesn't worship [Urgathoa](/Deities.aspx?ID=19) casts a divine spell; **Effect** The deathless acolyte attempts to [counteract](/Rules.aspx?ID=371) the triggering spell using their spell attack modifier and a counteract level of 2. If the deathless acolyte fails to counteract the spell, the caster is temporarily immune to further uses of Denounce Heretic for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nscythe +10 ([deadly d10](/Traits.aspx?ID=174), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d10+4 slashing\r\n\r\n**Divine Prepared Spells** DC 19, attack +11\r\n- **Cantrips (2nd)**\r\n[Chill Touch](/Spells.aspx?ID=35), [Detect Magic](/Spells.aspx?ID=66), [Divine Lance](/Spells.aspx?ID=84), [Forbidding Ward](/Spells.aspx?ID=126), [Shield](/Spells.aspx?ID=280)\r\n- **1st**\r\n[Bane](/Spells.aspx?ID=18), [Fear](/Spells.aspx?ID=110), [Ray of Enfeeblement](/Spells.aspx?ID=244)\r\n- **2nd**\r\n[Animate Dead](/Spells.aspx?ID=666), [Harm](/Spells.aspx?ID=146) (×3)\r\n\r\n**Cleric Domain Spells** DC 19, 1 Focus Point\r\n- **2nd**\r\n[Touch of Undeath](/Spells.aspx?ID=461)\n\n</column>\n\n<document level=\"2\" id=\"creature-family-306\" />",
+ "name": "Deathless Acolyte of Urgathoa",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 88</row>\r\n\r\n**Creature Family** [Deathless Acolyte](/MonsterFamilies.aspx?ID=306)\r\n\r\n<row gap=\"medium\">\r\n**HP** 36 ( negative healing )\r\n\r\n**AC** 17\r\n\r\n**Fort** +7\r\n\r\n**Ref** +7\r\n\r\n**Will** +11\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPFS Note   : While the Deathless Acolyte of Urgathoa can be used for the purpose of summoning spells and similar, the rules for Deathless Deity …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Intimidation +9",
+  "Occultism +8",
+  "Religion +11",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Intimidation](/Skills.aspx?ID=7) +9, [Occultism](/Skills.aspx?ID=11) +8, [Religion](/Skills.aspx?ID=13) +11, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 88"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 88</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Animate Dead",
+  "Harm",
+  "Bane",
+  "Fear",
+  "Ray of Enfeeblement",
+  "Chill Touch",
+  "Detect Magic",
+  "Divine Lance",
+  "Forbidding Ward",
+  "Shield",
+  "Touch of Undeath"
+ ],
+ "spell_markdown": "[Animate Dead](/Spells.aspx?ID=666), [Bane](/Spells.aspx?ID=18), [Chill Touch](/Spells.aspx?ID=35), [Detect Magic](/Spells.aspx?ID=66), [Divine Lance](/Spells.aspx?ID=84), [Fear](/Spells.aspx?ID=110), [Forbidding Ward](/Spells.aspx?ID=126), [Harm](/Spells.aspx?ID=146), [Ray of Enfeeblement](/Spells.aspx?ID=244), [Shield](/Spells.aspx?ID=280), [Touch of Undeath](/Spells.aspx?ID=461)",
+ "stealth": "7",
+ "strength": 1,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "PFS Note   : While the Deathless Acolyte of Urgathoa can be used for the purpose of summoning spells and similar, the rules for Deathless Deity …",
+ "summary_markdown": "PFS Note   : While the Deathless Acolyte of Urgathoa can be used for the purpose of summoning spells and similar, the rules for Deathless Deity …",
+ "text": " Deathless Acolyte PFS Note : While the Deathless Acolyte of Urgathoa can be used for the purpose of summoning spells and similar, the rules for Deathless Deity Adjustments may not be used in Organized Play. Deathless acolytes typically arise when a deity or their herald expends a minor amount of power to return a low-ranking priest. Some priests are powerful enough in life to return, greatly lessened, of their own volition. Recall Knowledge - Undead (Religion): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Deathless Acolyte of Urgathoa Source Book of the Dead pg. 88 Perception +9; darkvision Languages Common, Necril Skills Intimidation +9, Occultism +8, Religion +11, Stealth +7 Str +1 Dex +2 Con +0 Int +1 Wis +4 Cha +2 Items Scythe, religious symbol of Urgathoa --- AC 17 Fort +7 Ref +7 Will +11 HP 36 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Field of Undeath (aura, divine, necromancy) 20 feet. Allies within the aura who have negative healing gain fast healing 2. When a creature within the aura would receive positive healing, it must succeed at a DC 5 flat check or receive no healing from the effect. Denounce Heretic Reaction (abjuration, divine) Trigger A creature within 60 feet who the deathless acolyte can see and who doesn't worship Urgathoa casts a divine spell; Effect The deathless acolyte attempts to counteract the triggering spell using their spell attack modifier and a counteract level of 2. If the deathless acolyte fails to counteract the spell, the caster is temporarily immune to further uses of Denounce Heretic for 24 hours. --- Speed 25 feet Melee Single Action scythe +10 (deadly d10, Trip), Damage 1d10+4 slashing Divine Prepared Spells DC 19, attack +11 - Cantrips (2nd) Chill Touch, Detect Magic, Divine Lance, Forbidding Ward, Shield - 1st Bane, Fear, Ray of Enfeeblement - 2nd Animate Dead, Harm (×3) Cleric Domain Spells DC 19, 1 Focus Point - 2nd Touch of Undeath\n",
+ "trait": [
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1853",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 4
+}

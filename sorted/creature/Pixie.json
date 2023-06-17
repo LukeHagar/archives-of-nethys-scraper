@@ -1,0 +1,112 @@
+{
+ "ac": 23,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 1,
+ "creature_ability": [
+  "Sprinkle Pixie Dust"
+ ],
+ "creature_family": "Sprite",
+ "creature_family_markdown": "[Sprite](/MonsterFamilies.aspx?ID=95)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-391",
+ "image": [
+  "/Images/Monsters/Sprite_Pixie.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Pixie](/Monsters.aspx?ID=391)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nInsatiably curious, overly excitable, and just a bit puckish, pixies are wanderers and tricksters who use their pixie dust to create all sorts of whimsical situations, as well as to defend themselves. Other creatures often have trouble understanding a pixie’s rapid, rambling way of speaking.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Sprite_Pixie.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Pixie](/Monsters.aspx?ID=391)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Sprite\" url=\"/Traits.aspx?ID=238\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 309</row>\n\n**Perception** +12; low-light vision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Deception](/Skills.aspx?ID=5) +11, [Nature](/Skills.aspx?ID=10) +10, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** -1\r\n\r\n**Dex** +5\r\n\r\n**Con** +1\r\n\r\n**Int** +3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[Shortsword](/Weapons.aspx?ID=43), [Longbow](/Weapons.aspx?ID=76) (60 arrows)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +12 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 40\n\n**Weaknesses**\r\ncold iron 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, fly 45 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +13 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nlongbow +13 ([deadly 1d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [range increment 100 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [volley 20 feet](/Traits.aspx?ID=201)),\r\n**Damage** 1d8+4 piercing\r\n\r\n**Primal Innate Spells** DC 21\r\n- **Cantrips (2nd)**\r\n[Dancing Lights](/Spells.aspx?ID=58), [Detect Magic](/Spells.aspx?ID=66), [Ghost Sound](/Spells.aspx?ID=132), [Shield](/Spells.aspx?ID=280)\r\n- **1st**\r\n[Illusory Disguise](/Spells.aspx?ID=159)\r\n- **2nd**\r\n[Entangle](/Spells.aspx?ID=103), [Faerie Fire](/Spells.aspx?ID=107)\r\n- **3rd**\r\n[Dispel Magic](/Spells.aspx?ID=78)\r\n- **4th**\r\n[Invisibility](/Spells.aspx?ID=164) (at will; self only)\r\n\r\n**Sprinkle Pixie Dust** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) The pixie sprinkles pixie dust onto one of its arrows. If the pixie hits a creature with that arrow before the pixie’s next turn, the arrow inflicts one of the following special effects instead of dealing damage. Each effect depends on the target’s DC 21 Will save. On a critical hit, the target treats its save result as one degree worse.<br />\n<ul><li>**Charm** (emotion, enchantment, incapacitation, mental) The target suffers the effects of a _[charm](/Spells.aspx?ID=34)_ spell, except it doesn’t gain a bonus to its save if the only hostile act was the pixie firing its bow, and the pixie can choose to direct the target’s adoration toward another creature rather than itself.</li><li>**Memory Loss** (divination, mental) On a failed Will save, the target loses the last 5 minutes of its memory.</li><li>**Sleep** (enchantment, incapacitation, mental, sleep) The target suffers the effects of a 3rd-level _[sleep](/Spells.aspx?ID=288)_ spell.</li><li>**Subdual** (enchantment, mental, nonlethal) The target takes 4d6 mental damage, depending on its basic Will save.</li></ul>\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Variant Pixie Arrows</title>\r\n\r\nPixies can enchant their arrows with a wide variety of effects, though nearly all such enchantments are designed to charm or bewilder, never maim. Some arrows may emulate the effects of spells such as confusion, fear, hideous laughter, and even suggestion.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-95\" />",
+ "name": "Pixie",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Sprite\" url=\"/Traits.aspx?ID=238\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 309</row>\r\n\r\n**Creature Family** [Sprite](/MonsterFamilies.aspx?ID=95)\r\n\r\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 23\r\n\r\n**Fort** +8\r\n\r\n**Ref** +14\r\n\r\n**Will** +12\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nInsatiably curious, overly excitable, and just a bit puckish, pixies are wanderers and tricksters who use their pixie dust to create all sorts of …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Deception +11",
+  "Nature +10",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Deception](/Skills.aspx?ID=5) +11, [Nature](/Skills.aspx?ID=10) +10, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 309"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 309</row>",
+ "speed": {
+  "fly": 45,
+  "land": 15,
+  "max": 45
+ },
+ "speed_markdown": "15 feet, fly 45 feet",
+ "speed_raw": "15 feet, fly 45 feet",
+ "spell": [
+  "Invisibility",
+  "Dispel Magic",
+  "Entangle",
+  "Faerie Fire",
+  "Illusory Disguise",
+  "Dancing Lights",
+  "Detect Magic",
+  "Ghost Sound",
+  "Shield"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Detect Magic](/Spells.aspx?ID=66), [Dispel Magic](/Spells.aspx?ID=78), [Entangle](/Spells.aspx?ID=103), [Faerie Fire](/Spells.aspx?ID=107), [Ghost Sound](/Spells.aspx?ID=132), [Illusory Disguise](/Spells.aspx?ID=159), [Invisibility](/Spells.aspx?ID=164), [Shield](/Spells.aspx?ID=280)",
+ "stealth": "11",
+ "strength": -1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Insatiably curious, overly excitable, and just a bit puckish, pixies are wanderers and tricksters who use their pixie dust to create all sorts of …",
+ "summary_markdown": "Insatiably curious, overly excitable, and just a bit puckish, pixies are wanderers and tricksters who use their pixie dust to create all sorts of …",
+ "text": " Pixie Insatiably curious, overly excitable, and just a bit puckish, pixies are wanderers and tricksters who use their pixie dust to create all sorts of whimsical situations, as well as to defend themselves. Other creatures often have trouble understanding a pixie’s rapid, rambling way of speaking. Recall Knowledge - Fey (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Pixie Source Bestiary pg. 309 Perception +12; low-light vision Languages Common, Sylvan Skills Acrobatics +13, Deception +11, Nature +10, Stealth +11 Str -1 Dex +5 Con +1 Int +3 Wis +2 Cha +3 Items Shortsword, Longbow (60 arrows) --- AC 23 Fort +8 Ref +14 Will +12 +1 status to all saves vs. magic HP 40 Weaknesses cold iron 5 --- Speed 15 feet, fly 45 feet Melee Single Action shortsword +13 (Agile, Finesse, Magical, versatile S), Damage 1d6+4 piercing Ranged Single Action longbow +13 (deadly 1d10, Magical, range increment 100 feet, reload 0, volley 20 feet), Damage 1d8+4 piercing Primal Innate Spells DC 21 - Cantrips (2nd) Dancing Lights, Detect Magic, Ghost Sound, Shield - 1st Illusory Disguise - 2nd Entangle, Faerie Fire - 3rd Dispel Magic - 4th Invisibility (at will; self only) Sprinkle Pixie Dust Single Action (Manipulate) The pixie sprinkles pixie dust onto one of its arrows. If the pixie hits a creature with that arrow before the pixie’s next turn, the arrow inflicts one of the following special effects instead of dealing damage. Each effect depends on the target’s DC 21 Will save. On a critical hit, the target treats its save result as one degree worse. Charm (emotion, enchantment, incapacitation, mental) The target suffers the effects of a charm spell, except it doesn’t gain a bonus to its save if the only hostile act was the pixie firing its bow, and the pixie can choose to direct the target’s adoration toward another creature rather than itself. Memory Loss (divination, mental) On a failed Will save, the target loses the last 5 minutes of its memory. Sleep (enchantment, incapacitation, mental, sleep) The target suffers the effects of a 3rd-level sleep spell. Subdual (enchantment, mental, nonlethal) The target takes 4d6 mental damage, depending on its basic Will save. Variant Pixie Arrows Pixies can enchant their arrows with a wide variety of effects, though nearly all such enchantments are designed to charm or bewilder, never maim. Some arrows may emulate the effects of spells such as confusion, fear, hideous laughter, and even suggestion. ",
+ "trait": [
+  "Fey",
+  "Sprite",
+  "CN",
+  "Small"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Sprite](/Traits.aspx?ID=238)",
+ "trait_raw": [
+  "Fey",
+  "Sprite"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=391",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold_iron": 5
+ },
+ "weakness_markdown": "cold iron 5",
+ "weakness_raw": "cold iron 5",
+ "will_save": 12,
+ "wisdom": 2
+}

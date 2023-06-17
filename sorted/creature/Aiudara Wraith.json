@@ -1,0 +1,143 @@
+{
+ "ac": 45,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 8,
+ "constitution": 5,
+ "creature_ability": [
+  "Teleportation Attachment",
+  "Dimensional Shunt",
+  "Drain Life",
+  "Instantaneous Movement"
+ ],
+ "creature_family": "Wraith",
+ "creature_family_markdown": "[Wraith](/MonsterFamilies.aspx?ID=164)",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hp": 300,
+ "hp_raw": "300 ( negative healing )",
+ "id": "creature-488",
+ "image": [
+  "/Images/Monsters/AiudaraWraith.png"
+ ],
+ "immunity": [
+  "death effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "death effects, disease, paralyzed, poison, precision, unconscious",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Elven",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Necril](/Languages.aspx?ID=20)",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Aiudara Wraith](/Monsters.aspx?ID=488)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDahak’s influence in Alseta’s Landing created a soul-draining effect that slays unprotected creatures within, transforming them into ghostly creatures known as aiudara wraiths, but these rare undead can rise within modern _aiudara _portals as well. Each time an individual travels through an _aiudara_, there’s a chance their passage could leave a faint imprint of their subconscious in the network. Normally this imprint simply fades away, but when an _aiudara _is damaged or the individual is suffering from necromantic contagions, these imprints can accumulate and, in time, coalesce on the Astral Plane or within Alseta’s Landing as a full-fledged aiudara wraith. The wraith is forced to live with an incomplete sense of self, always seeking its own memories and swiftly growing violent and vengeful as its quest to reclaim these ephemeral notions constantly meets with failure.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Astral](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 43\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 43\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 41\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 38\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/AiudaraWraith.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Aiudara Wraith](/Monsters.aspx?ID=488)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Astral\" url=\"/Traits.aspx?ID=14\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Wraith\" url=\"/Traits.aspx?ID=260\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 78</row>\n\n**Perception** +33; darkvision, lifesense 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +35, [Arcana](/Skills.aspx?ID=2) +31, [Stealth](/Skills.aspx?ID=15) +35\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +9\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +7\r\n\r\n**Cha** +8\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 45 \r\n\r\n**Fort** +33 \r\n\r\n**Ref** +37 \r\n\r\n**Will** +33 \n\n</row>\r\n\r\n**HP** 300\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\ndeath effects, disease, paralyzed, poison, precision, unconscious\r\n\r\n**Resistances**\r\nall damage 15 (except force, _ghost touch_, or positive; double resistance vs. non-magical)\n\n**Teleportation Attachment** <actions string=\"Reaction\" /> ([conjuration](/Traits.aspx?ID=33), [teleportation](/Traits.aspx?ID=156)) **Trigger** A creature within 60 feet uses a teleportation effect; **Effect** The aiudara wraith teleports with the creature, arriving in an empty space of its choice adjacent to the triggering creature’s destination. If the triggering effect targets multiple creatures, the aiudara wraith chooses which creature it arrives beside.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 60 feet; instantaneous movement\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspectral hand +35 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 4d10+16 force plus dimensional shunt and drain life\n\n**Dimensional Shunt**  ([Arcane](/Traits.aspx?ID=11), [Conjuration](/Traits.aspx?ID=33), [Teleportation](/Traits.aspx?ID=156)) The aiudara wraith’s touch displaces creatures and flings them through space. The creature must attempt a DC 40 Fortitude save.<br /> **Critical Success** The creature is unaffected and becomes temporarily immune to dimensional shunt for 1 minute.<br /> **Success** The creature is pushed 5 feet in a random direction.<br /> **Failure** The creature is teleported 20 feet in a direction of the aiudara wraith’s choice.<br /> **Critical Failure** As failure, but the creature is also [stunned 2](/Conditions.aspx?ID=36).\r\n\r\n**Drain Life**  ([Arcane](/Traits.aspx?ID=11), [Necromancy](/Traits.aspx?ID=117)) When an aiudara wraith damages a living creature with its spectral hand Strike, the aiudara wraith gains 18 temporary Hit Points and the target must succeed at a DC 40 Fortitude save or become [drained 1](/Conditions.aspx?ID=10) and [stupefied 1](/Conditions.aspx?ID=37) as long as it is drained. Further damage dealt by the aiudara wraith’s spectral hand Strikes increases the value of the [drained](/Conditions.aspx?ID=10) and [stupefied](/Conditions.aspx?ID=37) conditions by 1 each on a failed save, to a maximum of 10 for both.\r\n\r\n**Instantaneous Movement**  ([Arcane](/Traits.aspx?ID=11), [Conjuration](/Traits.aspx?ID=33), [Teleportation](/Traits.aspx?ID=156)) An aiudara wraith moves by means of localized teleportation. An aiudara wraith’s Stride does not have the move trait. When an aiudara wraith Strides, it reaches its destination within the range of its Speed immediately.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Draining Memories</title>\r\n\r\nAiudara wraiths hunger for memories that they feel they once owned but, in fact, never had at all. Their life-draining touch saps physical and mental energy alike, and those who suffer this effect and become stupefied report feelings of forgetfulness and unnerving incidents of temporary, highly localized amnesia.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-164\" />",
+ "name": "Aiudara Wraith",
+ "npc": false,
+ "perception": 33,
+ "rarity": "rare",
+ "reflex_save": 37,
+ "release_date": "2019-12-12",
+ "resistance": {
+  "acid": 15,
+  "all": 15,
+  "area": 15,
+  "bleed": 15,
+  "bludgeoning": 15,
+  "chaotic": 15,
+  "cold": 15,
+  "cold_iron": 15,
+  "electricity": 15,
+  "evil": 15,
+  "fire": 15,
+  "good": 15,
+  "lawful": 15,
+  "mental": 15,
+  "negative": 15,
+  "orichalcum": 15,
+  "physical": 15,
+  "piercing": 15,
+  "poison": 15,
+  "precision": 15,
+  "silver": 15,
+  "slashing": 15,
+  "sonic": 15,
+  "splash": 15
+ },
+ "resistance_markdown": "all damage 15 (except force, _ghost touch_, or positive; double resistance vs. non-magical)",
+ "resistance_raw": "all damage 15 (except force,  ghost touch , or positive; double resistance vs. non-magical)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Astral\" url=\"/Traits.aspx?ID=14\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Wraith\" url=\"/Traits.aspx?ID=260\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 78</row>\r\n\r\n**Creature Family** [Wraith](/MonsterFamilies.aspx?ID=164)\r\n\r\n<row gap=\"medium\">\r\n**HP** 300 ( negative healing )\r\n\r\n**AC** 45\r\n\r\n**Fort** +33\r\n\r\n**Ref** +37\r\n\r\n**Will** +33\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDahak’s influence in Alseta’s Landing created a soul-draining effect that slays unprotected creatures within, transforming them into ghostly …\r\n</summary>",
+ "sense": "darkvision, lifesense 60 feet",
+ "sense_markdown": "darkvision, lifesense 60 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +35",
+  "Arcana +31",
+  "Stealth +35"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +35, [Arcana](/Skills.aspx?ID=2) +31, [Stealth](/Skills.aspx?ID=15) +35",
+ "source": [
+  "Pathfinder #150: Broken Promises"
+ ],
+ "source_raw": [
+  "Pathfinder #150: Broken Promises pg. 78"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 78</row>",
+ "speed": {
+  "fly": 60,
+  "max": 60
+ },
+ "speed_markdown": "fly 60 feet; instantaneous movement",
+ "speed_raw": "fly 60 feet; instantaneous movement",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "stealth": "35",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Dahak’s influence in Alseta’s Landing created a soul-draining effect that slays unprotected creatures within, transforming them into ghostly …",
+ "summary_markdown": "Dahak’s influence in Alseta’s Landing created a soul-draining effect that slays unprotected creatures within, transforming them into ghostly …",
+ "text": " Aiudara Wraith Dahak’s influence in Alseta’s Landing created a soul-draining effect that slays unprotected creatures within, transforming them into ghostly creatures known as aiudara wraiths, but these rare undead can rise within modern aiudara portals as well. Each time an individual travels through an aiudara , there’s a chance their passage could leave a faint imprint of their subconscious in the network. Normally this imprint simply fades away, but when an aiudara is damaged or the individual is suffering from necromantic contagions, these imprints can accumulate and, in time, coalesce on the Astral Plane or within Alseta’s Landing as a full-fledged aiudara wraith. The wraith is forced to live with an incomplete sense of self, always seeking its own memories and swiftly growing violent and vengeful as its quest to reclaim these ephemeral notions constantly meets with failure. Recall Knowledge - Astral (Occultism): DC 43 Recall Knowledge - Undead (Religion): DC 43 Unspecific Lore : DC 41 Specific Lore : DC 38 Aiudara Wraith Source Pathfinder #150: Broken Promises pg. 78 Perception +33; darkvision, lifesense 60 feet Languages Common, Elven, Necril Skills Acrobatics +35, Arcana +31, Stealth +35 Str -5 Dex +9 Con +5 Int +0 Wis +7 Cha +8 --- AC 45 Fort +33 Ref +37 Will +33 HP 300 (negative healing) Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all damage 15 (except force, ghost touch , or positive; double resistance vs. non-magical) Teleportation Attachment Reaction (conjuration, teleportation) Trigger A creature within 60 feet uses a teleportation effect; Effect The aiudara wraith teleports with the creature, arriving in an empty space of its choice adjacent to the triggering creature’s destination. If the triggering effect targets multiple creatures, the aiudara wraith chooses which creature it arrives beside. --- Speed fly 60 feet; instantaneous movement Melee Single Action spectral hand +35 (Agile, Finesse, Magical), Damage 4d10+16 force plus dimensional shunt and drain life Dimensional Shunt (Arcane, Conjuration, Teleportation) The aiudara wraith’s touch displaces creatures and flings them through space. The creature must attempt a DC 40 Fortitude save. Critical Success The creature is unaffected and becomes temporarily immune to dimensional shunt for 1 minute. Success The creature is pushed 5 feet in a random direction. Failure The creature is teleported 20 feet in a direction of the aiudara wraith’s choice. Critical Failure As failure, but the creature is also stunned 2. Drain Life (Arcane, Necromancy) When an aiudara wraith damages a living creature with its spectral hand Strike, the aiudara wraith gains 18 temporary Hit Points and the target must succeed at a DC 40 Fortitude save or become drained 1 and stupefied 1 as long as it is drained. Further damage dealt by the aiudara wraith’s spectral hand Strikes increases the value of the drained and stupefied conditions by 1 each on a failed save, to a maximum of 10 for both. Instantaneous Movement (Arcane, Conjuration, Teleportation) An aiudara wraith moves by means of localized teleportation. An aiudara wraith’s Stride does not have the move trait. When an aiudara wraith Strides, it reaches its destination within the range of its Speed immediately. Draining Memories Aiudara wraiths hunger for memories that they feel they once owned but, in fact, never had at all. Their life-draining touch saps physical and mental energy alike, and those who suffer this effect and become stupefied report feelings of forgetfulness and unnerving incidents of temporary, highly localized amnesia. ",
+ "trait": [
+  "Astral",
+  "Incorporeal",
+  "Rare",
+  "Undead",
+  "Wraith",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Astral](/Traits.aspx?ID=14), [Incorporeal](/Traits.aspx?ID=222), [Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160), [Wraith](/Traits.aspx?ID=260)",
+ "trait_raw": [
+  "Astral",
+  "Incorporeal",
+  "Rare",
+  "Undead",
+  "Wraith"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=488",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 33,
+ "wisdom": 7
+}

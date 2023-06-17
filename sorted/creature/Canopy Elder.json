@@ -1,0 +1,118 @@
+{
+ "ac": 42,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 9,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Fungal Web",
+  "Pollen Cloud",
+  "Vine Splint"
+ ],
+ "creature_family": "Arboreal",
+ "creature_family_markdown": "[Arboreal](/MonsterFamilies.aspx?ID=8)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 36,
+ "hp": 445,
+ "hp_raw": "445",
+ "id": "creature-1410",
+ "image": [
+  "/Images/Monsters/Arboreal_CanopyElder.png"
+ ],
+ "intelligence": 6,
+ "language": [
+  "Arboreal",
+  "Common",
+  "Sylvan",
+  "<%SPELLS%293%%><i>speak with animals</i><%END>, <%SPELLS%294%%><i>speak with plants</i><%END>"
+ ],
+ "language_markdown": "[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_speak with animals_](/Spells.aspx?ID=293), [_speak with plants_](/Spells.aspx?ID=294)",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"\">[Canopy Elder](/Monsters.aspx?ID=1410)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIn the densest and oldest jungles, arboreals can reach heights of 200 feet or more. Given thousands of undisturbed years, these massive creatures enter into a symbiotic relationship with a myriad of plants, fungi, and animals to achieve the esteemed status of canopy elder. They provide a safe home for the creatures they host and develop a variety of powers that help them defend their forest realms.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 44\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 42\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 39\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Arboreal_CanopyElder.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Canopy Elder](/Monsters.aspx?ID=1410)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 78</row>\n\n**Perception** +32; [low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 120 feet\r\n\r\n**Languages**\r\n[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_speak with animals_](/Spells.aspx?ID=293), [_speak with plants_](/Spells.aspx?ID=294)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +37, [Diplomacy](/Skills.aspx?ID=6) +35, [Forest Lore](/Skills.aspx?ID=8) +35, [Intimidation](/Skills.aspx?ID=7) +35, [Nature](/Skills.aspx?ID=10) +40, [Stealth](/Skills.aspx?ID=15) +31\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +4\r\n\r\n**Con** +9\r\n\r\n**Int** +6\r\n\r\n**Wis** +8\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 42 \r\n\r\n**Fort** +36 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +33 \n\n</row>\r\n\r\n**HP** 445\n\n**Resistances**\r\nbludgeoning 15, piercing 15\r\n\r\n**Weaknesses**\r\n[axe](/WeaponGroups.aspx?ID=1) vulnerability 15, fire 15\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbranch +37 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+18 bludgeoning and [Improved Push](/MonsterAbilities.aspx?ID=29) 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nroot +37 ([reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+18 bludgeoning plus [Trip](/Traits.aspx?ID=196)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nvine +37 ([Agile](/Traits.aspx?ID=170), [reach 40 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d6+18 bludgeoning plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Primal Innate Spells** DC 38\r\n- **9th**\r\n[Nature's Enmity](/Spells.aspx?ID=205) (×4)\r\n- **Constant (9th)**\r\n[Speak with Animals](/Spells.aspx?ID=293), [Speak with Plants](/Spells.aspx?ID=294)\r\n\r\n**Fungal Web** <actions string=\"Single Action\" />  The canopy elder launches a rapidly growing net of fungus from the mushrooms growing on its body at a single creature within 80 feet. The target must attempt a DC 39 Reflex save or become [restrained](/Conditions.aspx?ID=33) by the fungal web ([Escape](/Actions.aspx?ID=79) DC 39). While restrained, the creature takes 4d6 poison damage at the end of each of their turns.\r\n\r\n**Pollen Cloud** <actions string=\"Two Actions\" />  The canopy elder releases a dense cloud of pollen from the epiphytes living in its branches. The cloud emanates from the canopy elder in a 40-foot emanation. The cloud doesn't move with the canopy elder and remains in place for 1d6 rounds before dissipating. Creatures inside the cloud become [concealed](/Conditions.aspx?ID=4), and all creatures outside the cloud become concealed to creatures within it. Non-[plant](/Traits.aspx?ID=125) and non-[fungus](/Traits.aspx?ID=77) creatures within the cloud must attempt a DC 38 Fortitude save. On a failure, the creature is [sickened 3](/Conditions.aspx?ID=34), and on a critical failure the creature is also [blinded](/Conditions.aspx?ID=1) for 1 minute. Regardless of the result, a creature is then temporarily immune to the sickening and blinding effects of the canopy elder's pollen for 24 hours.\r\n\r\n**Vine Splint** <actions string=\"Single Action\" /> ([Healing](/Traits.aspx?ID=89)) The canopy elder grows a mesh of vines around its broken branches, repairing the damage and restoring 40 HP to itself. The canopy elder can't use Vine Splint again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Canopy Elder Allies</title>\r\n\r\nEpiphytes, hallucinogenic mushrooms, carnivorous orchids, and stinging insects all call a canopy elder home, as might larger creatures such as primates, big cats, birds, bats, and snakes. Many of these residents will take great pains to defend their home from threats.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-8\" />",
+ "name": "Canopy Elder",
+ "npc": false,
+ "perception": 32,
+ "rarity": "rare",
+ "reflex_save": 28,
+ "release_date": "2021-07-07",
+ "resistance": {
+  "bludgeoning": 15,
+  "piercing": 15
+ },
+ "resistance_markdown": "bludgeoning 15, piercing 15",
+ "resistance_raw": "bludgeoning 15, piercing 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 78</row>\r\n\r\n**Creature Family** [Arboreal](/MonsterFamilies.aspx?ID=8)\r\n\r\n<row gap=\"medium\">\r\n**HP** 445\r\n\r\n**AC** 42\r\n\r\n**Fort** +36\r\n\r\n**Ref** +28\r\n\r\n**Will** +33\r\n\r\n**Perception** +32\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn the densest and oldest jungles, arboreals can reach heights of 200 feet or more. Given thousands of undisturbed years, these massive creatures …\r\n</summary>",
+ "sense": " low-light vision ,  tremorsense  (imprecise) 120 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 120 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +37",
+  "Diplomacy +35",
+  "Forest Lore +35",
+  "Intimidation +35",
+  "Nature +40",
+  "Stealth +31"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +37, [Diplomacy](/Skills.aspx?ID=6) +35, [Forest Lore](/Skills.aspx?ID=8) +35, [Intimidation](/Skills.aspx?ID=7) +35, [Nature](/Skills.aspx?ID=10) +40, [Stealth](/Skills.aspx?ID=15) +31",
+ "source": [
+  "Pathfinder #168: King of the Mountain"
+ ],
+ "source_raw": [
+  "Pathfinder #168: King of the Mountain pg. 78"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 78</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell": [
+  "Nature's Enmity",
+  "Speak with Animals",
+  "Speak with Plants"
+ ],
+ "spell_markdown": "[Nature's Enmity](/Spells.aspx?ID=205), [Speak with Animals](/Spells.aspx?ID=293), [Speak with Plants](/Spells.aspx?ID=294)",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "31",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "In the densest and oldest jungles, arboreals can reach heights of 200 feet or more. Given thousands of undisturbed years, these massive creatures …",
+ "summary_markdown": "In the densest and oldest jungles, arboreals can reach heights of 200 feet or more. Given thousands of undisturbed years, these massive creatures …",
+ "text": " Canopy Elder In the densest and oldest jungles, arboreals can reach heights of 200 feet or more. Given thousands of undisturbed years, these massive creatures enter into a symbiotic relationship with a myriad of plants, fungi, and animals to achieve the esteemed status of canopy elder. They provide a safe home for the creatures they host and develop a variety of powers that help them defend their forest realms. Recall Knowledge - Plant (Nature): DC 44 Unspecific Lore : DC 42 Specific Lore : DC 39 Canopy Elder Source Pathfinder #168: King of the Mountain pg. 78 Perception +32; low-light vision, tremorsense (imprecise) 120 feet Languages Arboreal, Common, Sylvan; speak with animals , speak with plants Skills Athletics +37, Diplomacy +35, Forest Lore +35, Intimidation +35, Nature +40, Stealth +31 Str +10 Dex +4 Con +9 Int +6 Wis +8 Cha +5 --- AC 42 Fort +36 Ref +28 Will +33 HP 445 Resistances bludgeoning 15, piercing 15 Weaknesses axe vulnerability 15, fire 15 Attack of Opportunity Reaction --- Speed 40 feet Melee Single Action branch +37 (reach 15 feet), Damage 4d12+18 bludgeoning and Improved Push 20 feet Melee Single Action root +37 (reach 30 feet), Damage 4d8+18 bludgeoning plus Trip Melee Single Action vine +37 (Agile, reach 40 feet), Damage 4d6+18 bludgeoning plus Improved Grab Primal Innate Spells DC 38 - 9th Nature's Enmity (×4) - Constant (9th) Speak with Animals, Speak with Plants Fungal Web Single Action The canopy elder launches a rapidly growing net of fungus from the mushrooms growing on its body at a single creature within 80 feet. The target must attempt a DC 39 Reflex save or become restrained by the fungal web (Escape DC 39). While restrained, the creature takes 4d6 poison damage at the end of each of their turns. Pollen Cloud Two Actions The canopy elder releases a dense cloud of pollen from the epiphytes living in its branches. The cloud emanates from the canopy elder in a 40-foot emanation. The cloud doesn't move with the canopy elder and remains in place for 1d6 rounds before dissipating. Creatures inside the cloud become concealed, and all creatures outside the cloud become concealed to creatures within it. Non-plant and non-fungus creatures within the cloud must attempt a DC 38 Fortitude save. On a failure, the creature is sickened 3, and on a critical failure the creature is also blinded for 1 minute. Regardless of the result, a creature is then temporarily immune to the sickening and blinding effects of the canopy elder's pollen for 24 hours. Vine Splint Single Action (Healing) The canopy elder grows a mesh of vines around its broken branches, repairing the damage and restoring 40 HP to itself. The canopy elder can't use Vine Splint again for 1d4 rounds. Canopy Elder Allies Epiphytes, hallucinogenic mushrooms, carnivorous orchids, and stinging insects all call a canopy elder home, as might larger creatures such as primates, big cats, birds, bats, and snakes. Many of these residents will take great pains to defend their home from threats. ",
+ "trait": [
+  "Plant",
+  "Rare",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Plant",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1410",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 15
+ },
+ "weakness_markdown": "[axe](/WeaponGroups.aspx?ID=1) vulnerability 15, fire 15",
+ "weakness_raw": " axe  vulnerability 15, fire 15",
+ "will_save": 33,
+ "wisdom": 8
+}

@@ -1,0 +1,91 @@
+{
+ "ac": 23,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Rage",
+  "Sudden Charge"
+ ],
+ "creature_family": "Mercenaries",
+ "creature_family_markdown": "[Mercenaries](/MonsterFamilies.aspx?ID=190)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 108,
+ "hp_raw": "108",
+ "id": "creature-924",
+ "intelligence": 1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Monster Hunter](/NPCs.aspx?ID=924)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSome mercenaries eschew the complications of politics, oaths of service, and fealty and just get paid to hunt monsters. It's a straightforward form of mercenary service, often dangerous in the extreme, but one that can yield glory and fame.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Monster Hunter](/NPCs.aspx?ID=924)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 227</row>\n\n**Perception** +13\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +15, [Monster Lore](/Skills.aspx?ID=8) +13, [Stealth](/Skills.aspx?ID=15) +13, [Survival](/Skills.aspx?ID=16) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Composite Longbow](/Weapons.aspx?ID=74) (20 arrows), [_+1 greataxe_](/Weapons.aspx?ID=21), [Hide Armor](/Armor.aspx?ID=7)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 108\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_greataxe_ +15 ([Magical](/Traits.aspx?ID=103), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 1d12+8 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncomposite longbow +14 ([deadly d10](/Traits.aspx?ID=174), [Propulsive](/Traits.aspx?ID=191), [range increment 100 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 1d8+6 piercing\n\n**Rage** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106)) **Requirements** The monster hunter isn't [fatigued](/Conditions.aspx?ID=15) or raging; **Effect** The monster hunter gains 9 temporary Hit Points that last until the rage ends. While raging, they deal 8 additional damage with melee attacks, gain a +10-foot status bonus to their Speed, and take a -1 penalty to AC. The monster hunter can't use [concentrate](/Traits.aspx?ID=32) actions except [Seek](/Actions.aspx?ID=84) and [rage](/Traits.aspx?ID=135) actions. The rage lasts for 1 minute, until there are no enemies the monster hunter can perceive, or until the monster hunter falls [unconscious](/Conditions.aspx?ID=38). Once the rage ends, the monster hunter can't Rage again for 1 minute.\r\n\r\n**Sudden Charge** <actions string=\"Two Actions\" />  The monster hunter Strides twice and makes a melee Strike.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-190\" />",
+ "name": "Monster Hunter",
+ "npc": true,
+ "perception": 13,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 227</row>\r\n\r\n**Creature Family** [Mercenaries](/MonsterFamilies.aspx?ID=190)\r\n\r\n<row gap=\"medium\">\r\n**HP** 108\r\n\r\n**AC** 23\r\n\r\n**Fort** +15\r\n\r\n**Ref** +11\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome mercenaries eschew the complications of politics, oaths of service, and fealty and just get paid to hunt monsters. It's a straightforward form …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +15",
+  "Monster Lore +13",
+  "Stealth +13",
+  "Survival +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +15, [Monster Lore](/Skills.aspx?ID=8) +13, [Stealth](/Skills.aspx?ID=15) +13, [Survival](/Skills.aspx?ID=16) +11",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 227"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 227</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Some mercenaries eschew the complications of politics, oaths of service, and fealty and just get paid to hunt monsters. It's a straightforward form …",
+ "summary_markdown": "Some mercenaries eschew the complications of politics, oaths of service, and fealty and just get paid to hunt monsters. It's a straightforward form …",
+ "text": " Monster Hunter Some mercenaries eschew the complications of politics, oaths of service, and fealty and just get paid to hunt monsters. It's a straightforward form of mercenary service, often dangerous in the extreme, but one that can yield glory and fame. Recall Knowledge - Humanoid (Society): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Monster Hunter Source Gamemastery Guide pg. 227 Perception +13 Languages Common Skills Athletics +15, Monster Lore +13, Stealth +13, Survival +11 Str +4 Dex +3 Con +3 Int +1 Wis +1 Cha +1 Items Composite Longbow (20 arrows), +1 greataxe , Hide Armor --- AC 23 Fort +15 Ref +11 Will +13 HP 108 Attack of Opportunity Reaction --- Speed 20 feet Melee Single Action greataxe +15 (Magical, Sweep), Damage 1d12+8 slashing Ranged Single Action composite longbow +14 (deadly d10, Propulsive, range increment 100 feet, reload 0, volley 30 feet), Damage 1d8+6 piercing Rage Single Action (Concentrate, Emotion, Mental) Requirements The monster hunter isn't fatigued or raging; Effect The monster hunter gains 9 temporary Hit Points that last until the rage ends. While raging, they deal 8 additional damage with melee attacks, gain a +10-foot status bonus to their Speed, and take a -1 penalty to AC. The monster hunter can't use concentrate actions except Seek and rage actions. The rage lasts for 1 minute, until there are no enemies the monster hunter can perceive, or until the monster hunter falls unconscious. Once the rage ends, the monster hunter can't Rage again for 1 minute. Sudden Charge Two Actions The monster hunter Strides twice and makes a melee Strike. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=924",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 1
+}

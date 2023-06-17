@@ -1,0 +1,111 @@
+{
+ "ac": 29,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 4,
+ "creature_ability": [
+  "Sense Murderer",
+  "Self-Loathing",
+  "Undying Vendetta",
+  "Bullets of Vengeance",
+  "Dead Shot",
+  "Revenant Reload"
+ ],
+ "creature_family": "Revenant",
+ "creature_family_markdown": "[Revenant](/MonsterFamilies.aspx?ID=308)",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 155,
+ "hp_raw": "155 ( negative healing )",
+ "id": "creature-1893",
+ "image": [
+  "/Images/Monsters/Revenant_PaleStranger.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [_sleep_](/Spells.aspx?ID=288)",
+ "intelligence": 0,
+ "language": [
+  "any one language spoken in life by their murderer (typically <%LANGUAGES%1%%>Common<%END>)"
+ ],
+ "language_markdown": "any one language spoken in life by their murderer (typically [Common](/Languages.aspx?ID=1))",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Pale Stranger](/Monsters.aspx?ID=1893)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA pale stranger arises when a gunslinger is slain in a duel by an underhanded foe. Buried with their pistols, the corpse claws out of the grave to wreak vengeance upon their killer for cheating. Sometimes a pale stranger is created when a particularly petty [gunslinger](/Classes.aspx?ID=20) is beaten fairly and refuses to accept defeat, though such an individual must be especially self-delusional to retain the hatred necessary to spur the transformation. Whatever the circumstance, a pale stranger can wield their firearms with deadly grace and efficacy.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Revenant_PaleStranger.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Pale Stranger](/Monsters.aspx?ID=1893)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 140</row>\n\n**Perception** +19; [darkvision](/MonsterAbilities.aspx?ID=12), sense murderer\r\n\r\n**Languages**\r\nany one language spoken in life by their murderer (typically [Common](/Languages.aspx?ID=1))\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +21, [Athletics](/Skills.aspx?ID=3) +19, [Intimidation](/Skills.aspx?ID=7) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +7\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Sense Murderer** ([detection](/Traits.aspx?ID=43), [divination](/Traits.aspx?ID=47), [occult](/Traits.aspx?ID=120)) A pale stranger knows the direction of their murderer (as long as both are on the same plane), but not the distance.\r\n\r\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [flintlock pistol](/Weapons.aspx?ID=192)_ (2)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 155\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [_sleep_](/Spells.aspx?ID=288)\r\n\r\n**Resistances**\r\nphysical 10 (except slashing)\n\n**Self-Loathing** ([emotion](/Traits.aspx?ID=60), [mental](/Traits.aspx?ID=106), [visual](/Traits.aspx?ID=163)) If a pale stranger sees their own reflection or any object important to them in life, they must attempt a DC 30 Will save.<br /> **Critical Success** The pale stranger is unaffected and can no longer be affected by that reflection or object in this way.<br /> **Success** The pale stranger is distracted by self-loathing and is [slowed 1](/Conditions.aspx?ID=35) for 1 round.<br /> **Failure** The pale stranger becomes [fascinated](/Conditions.aspx?ID=14) by the source of their self-loathing and does everything they can to destroy it until the end of their next turn.<br /> **Critical Failure** The pale stranger becomes [immobilized](/Conditions.aspx?ID=24) as long as the source of their self-loathing is apparent, until they're attacked, or until they see their murderer.<br />**Undying Vendetta** ([emotion](/Traits.aspx?ID=60), [necromancy](/Traits.aspx?ID=117), [occult](/Traits.aspx?ID=120)) If the pale stranger's murderer dies, the pale stranger is immediately destroyed. A pale stranger that can't sense their murderer must attempt a DC 11 flat check once every 24 hours to avoid becoming [immobilized](/Conditions.aspx?ID=24) and [prone](/Conditions.aspx?ID=31); they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the pale stranger's destruction until the murderer is finally destroyed. The pale stranger gains a +2 status bonus to checks and DCs against their murderer.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_pistol whip_ +20 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+9 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +21 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 1d6+9 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_flintlock pistol_ +24 ([Concussive](/Traits.aspx?ID=401), [fatal d8](/Traits.aspx?ID=178), [range increment 40 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d4+6 piercing plus bullets of vengeance\n\n**Bullets of Vengeance**  ([Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) Shots from a pale stranger's firearms deal an additional 1d6 precision damage, or 2d6 precision damage against the one who murdered them. A creature who has never killed a living being doesn't take this precision damage. When a pale stranger critically succeeds at a ranged Strike with a pistol, the target must succeed at a DC 29 Fortitude save or be [stunned 1](/Conditions.aspx?ID=36).\r\n\r\n**Dead Shot** <actions string=\"Two Actions\" />  **Frequency** once per turn; **Requirements** The pale stranger is wielding two loaded firearms; **Effect** The pale stranger takes aim at a target and shoots both of their firearms simultaneously. The pale stranger makes two ranged Strikes, one with each of the firearms, each using the pale stranger's current multiple attack penalty. Both Strikes must have the same target, who must be within the first range increment of both weapons.<br /> If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. The pale stranger adds any precision damage only once, to the attack of their choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating the pale stranger's multiple attack penalty.\r\n\r\n**Revenant Reload** <actions string=\"Single Action\" /> ([Conjuration](/Traits.aspx?ID=33), [Occult](/Traits.aspx?ID=120)) The pale stranger reloads each firearm they're wielding, supernaturally generating new black powder and bullets. When firing these magical bullets, the firearm can't misfire, and the attack doesn't trigger reactions triggered by ranged attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Ghastly Guns</title>\r\n\r\nThe pistols carried by a pale stranger are valuable, but many believe they contain fragments of the creature's soul, making them cursed to slowly corrupt their wielder with the pale stranger's personality. As such, it can be difficult to sell a pale stranger's pistols. Luckily, most underworld markets trade in such goods regardless of their origin.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-308\" />",
+ "name": "Pale Stranger",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 21,
+ "release_date": "2022-04-27",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10
+ },
+ "resistance_markdown": "physical 10 (except slashing)",
+ "resistance_raw": "physical 10 (except slashing)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 140</row>\r\n\r\n**Creature Family** [Revenant](/MonsterFamilies.aspx?ID=308)\r\n\r\n<row gap=\"medium\">\r\n**HP** 155 ( negative healing )\r\n\r\n**AC** 29\r\n\r\n**Fort** +19\r\n\r\n**Ref** +21\r\n\r\n**Will** +15\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA pale stranger arises when a gunslinger is slain in a duel by an underhanded foe. Buried with their pistols, the corpse claws out of the grave to …\r\n</summary>",
+ "sense": " darkvision , sense murderer",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), sense murderer",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +21",
+  "Athletics +19",
+  "Intimidation +20"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +21, [Athletics](/Skills.aspx?ID=3) +19, [Intimidation](/Skills.aspx?ID=7) +20",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 140"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 140</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A pale stranger arises when a gunslinger is slain in a duel by an underhanded foe. Buried with their pistols, the corpse claws out of the grave to …",
+ "summary_markdown": "A pale stranger arises when a gunslinger is slain in a duel by an underhanded foe. Buried with their pistols, the corpse claws out of the grave to …",
+ "text": " Pale Stranger A pale stranger arises when a gunslinger is slain in a duel by an underhanded foe. Buried with their pistols, the corpse claws out of the grave to wreak vengeance upon their killer for cheating. Sometimes a pale stranger is created when a particularly petty gunslinger is beaten fairly and refuses to accept defeat, though such an individual must be especially self-delusional to retain the hatred necessary to spur the transformation. Whatever the circumstance, a pale stranger can wield their firearms with deadly grace and efficacy. Recall Knowledge - Undead (Religion): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Pale Stranger Source Book of the Dead pg. 140 Perception +19; darkvision, sense murderer Languages any one language spoken in life by their murderer (typically Common) Skills Acrobatics +21, Athletics +19, Intimidation +20 Str +5 Dex +7 Con +4 Int +0 Wis +3 Cha +2 Sense Murderer (detection, divination, occult) A pale stranger knows the direction of their murderer (as long as both are on the same plane), but not the distance. Items +1 striking flintlock pistol (2) --- AC 29 Fort +19 Ref +21 Will +15 HP 155 (negative healing) Immunities death effects, disease, paralyzed, poison, sleep Resistances physical 10 (except slashing) Self-Loathing (emotion, mental, visual) If a pale stranger sees their own reflection or any object important to them in life, they must attempt a DC 30 Will save. Critical Success The pale stranger is unaffected and can no longer be affected by that reflection or object in this way. Success The pale stranger is distracted by self-loathing and is slowed 1 for 1 round. Failure The pale stranger becomes fascinated by the source of their self-loathing and does everything they can to destroy it until the end of their next turn. Critical Failure The pale stranger becomes immobilized as long as the source of their self-loathing is apparent, until they're attacked, or until they see their murderer. Undying Vendetta (emotion, necromancy, occult) If the pale stranger's murderer dies, the pale stranger is immediately destroyed. A pale stranger that can't sense their murderer must attempt a DC 11 flat check once every 24 hours to avoid becoming immobilized and prone; they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the pale stranger's destruction until the murderer is finally destroyed. The pale stranger gains a +2 status bonus to checks and DCs against their murderer. --- Speed 25 feet Melee Single Action pistol whip +20 (Magical), Damage 2d6+9 bludgeoning Melee Single Action fist +21 (Agile, Finesse, Nonlethal), Damage 1d6+9 bludgeoning Ranged Single Action flintlock pistol +24 (Concussive, fatal d8, range increment 40 feet), Damage 2d4+6 piercing plus bullets of vengeance Bullets of Vengeance (Necromancy, Occult) Shots from a pale stranger's firearms deal an additional 1d6 precision damage, or 2d6 precision damage against the one who murdered them. A creature who has never killed a living being doesn't take this precision damage. When a pale stranger critically succeeds at a ranged Strike with a pistol, the target must succeed at a DC 29 Fortitude save or be stunned 1. Dead Shot Two Actions Frequency once per turn; Requirements The pale stranger is wielding two loaded firearms; Effect The pale stranger takes aim at a target and shoots both of their firearms simultaneously. The pale stranger makes two ranged Strikes, one with each of the firearms, each using the pale stranger's current multiple attack penalty. Both Strikes must have the same target, who must be within the first range increment of both weapons. If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. The pale stranger adds any precision damage only once, to the attack of their choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating the pale stranger's multiple attack penalty. Revenant Reload Single Action (Conjuration, Occult) The pale stranger reloads each firearm they're wielding, supernaturally generating new black powder and bullets. When firing these magical bullets, the firearm can't misfire, and the attack doesn't trigger reactions triggered by ranged attacks. Ghastly Guns The pistols carried by a pale stranger are valuable, but many believe they contain fragments of the creature's soul, making them cursed to slowly corrupt their wielder with the pale stranger's personality. As such, it can be difficult to sell a pale stranger's pistols. Luckily, most underworld markets trade in such goods regardless of their origin. ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "LN",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Rare",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1893",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 3
+}

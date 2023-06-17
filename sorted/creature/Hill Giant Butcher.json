@@ -1,0 +1,103 @@
+{
+ "ac": 36,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Catch Rock",
+  "Menace Prey",
+  "Sneak Attack",
+  "Throw Rock",
+  "Twin Butchery",
+  "Wide Swing"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 260,
+ "hp_raw": "260",
+ "id": "creature-2262",
+ "intelligence": -2,
+ "language": [
+  "Common",
+  "Jotun"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Hill Giant Butcher](/Monsters.aspx?ID=2262)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Hill Giant Butcher](/Monsters.aspx?ID=2262)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 110</row>\n\n**Perception** +25; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +28, [Intimidation](/Skills.aspx?ID=7) +24, [Survival](/Skills.aspx?ID=16) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** -2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +0\r\n</row>\r\n\r\nhide armor, sack with 5 rocks\r\n\r\n**Items**\r\n_+2 [striking](/Equipment.aspx?ID=280) [battle axe](/Weapons.aspx?ID=16)_, _+1 [striking](/Equipment.aspx?ID=280) [hatchet](/Weapons.aspx?ID=27)_, _+1 [resilient](/Equipment.aspx?ID=279) [hide armor](/Armor.aspx?ID=7)_, [sack with 5 rocks](/Equipment.aspx?ID=45)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 260\n\n**[Catch Rock](/MonsterAbilities.aspx?ID=7)** <actions string=\"Reaction\" /><br />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_battle axe_ +30 ([Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 2d8+16 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_hatchet_ +30 ([Agile](/Traits.aspx?ID=170), [Sweep](/Traits.aspx?ID=194), [thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d6+16 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +26 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d4+16 bludgeoning\r\n\r\n**Primal Innate Spells** DC 31\r\n- **6th**\r\n[Barkskin](/Spells.aspx?ID=20)\r\n- **7th**\r\n[Entangle](/Spells.aspx?ID=103), [Longstrider](/Spells.aspx?ID=175)\r\n\r\n**Menace Prey** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) The hill giant butcher designates up to two creatures they can see and hear, or one they're [Tracking](/Actions.aspx?ID=66), as their prey. The hill giant butcher gains a +2 circumstance bonus to Perception checks to Seek the prey and to Intimidation checks to [Demoralize](/Actions.aspx?ID=53) the prey. This effect lasts until the hill giant butcher uses Menace Prey again.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The hill giant butcher deals an extra 2d6 precision damage to flat-footed creatures.\r\n\r\n**Throw Rock** <actions string=\"Single Action\" />  \r\n\r\n**Twin Butchery** <actions string=\"Single Action\" />  **Frequency** once per round; **Requirement** the hill giant butcher is wielding two melee weapons, each in a different hand; **Effect** The hill giant butcher uses both of its axes against a single target. It makes two Strikes against its menaced prey, one with each of the required weapons. If both hit the same menaced prey, combine their damage for the purpose of its resistances and weaknesses. In addition, if both Strikes hit, the menaced prey is [flat-footed](/Conditions.aspx?ID=16) until the start of the hill giant butcher's next turn. Apply the hill giant butcher's multiple attack penalty normally.\r\n\r\n**Wide Swing** <actions string=\"Single Action\" />  The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the hill giant's multiple attack penalty.\r\n\r\n</column>",
+ "name": "Hill Giant Butcher",
+ "npc": false,
+ "perception": 25,
+ "rarity": "rare",
+ "reflex_save": 23,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 110</row>\n\n<row gap=\"medium\">\r\n**HP** 260\r\n\r\n**AC** 36\r\n\r\n**Fort** +28\r\n\r\n**Ref** +23\r\n\r\n**Will** +26\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +28",
+  "Intimidation +24",
+  "Survival +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +28, [Intimidation](/Skills.aspx?ID=7) +24, [Survival](/Skills.aspx?ID=16) +25",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 110"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 110</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Entangle",
+  "Longstrider",
+  "Barkskin"
+ ],
+ "spell_markdown": "[Barkskin](/Spells.aspx?ID=20), [Entangle](/Spells.aspx?ID=103), [Longstrider](/Spells.aspx?ID=175)",
+ "spoilers": "Kingmaker",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Hill Giant Butcher Recall Knowledge - Humanoid (Society): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Hill Giant Butcher Source Kingmaker Adventure Path pg. 110 Perception +25; low-light vision Languages Common, Jotun Skills Athletics +28, Intimidation +24, Survival +25 Str +8 Dex +4 Con +5 Int -2 Wis +5 Cha +0 hide armor, sack with 5 rocks Items +2 striking battle axe , +1 striking hatchet , +1 resilient hide armor , sack with 5 rocks --- AC 36 Fort +28 Ref +23 Will +26 HP 260 Catch Rock Reaction --- Speed 35 feet Melee Single Action battle axe +30 (Sweep), Damage 2d8+16 slashing Melee Single Action hatchet +30 (Agile, Sweep, thrown 10 feet), Damage 2d6+16 slashing Ranged Single Action rock +26 (Brutal, range increment 120 feet), Damage 3d4+16 bludgeoning Primal Innate Spells DC 31 - 6th Barkskin - 7th Entangle, Longstrider Menace Prey Single Action (Concentrate) The hill giant butcher designates up to two creatures they can see and hear, or one they're Tracking, as their prey. The hill giant butcher gains a +2 circumstance bonus to Perception checks to Seek the prey and to Intimidation checks to Demoralize the prey. This effect lasts until the hill giant butcher uses Menace Prey again. Sneak Attack The hill giant butcher deals an extra 2d6 precision damage to flat-footed creatures. Throw Rock Single Action Twin Butchery Single Action Frequency once per round; Requirement the hill giant butcher is wielding two melee weapons, each in a different hand; Effect The hill giant butcher uses both of its axes against a single target. It makes two Strikes against its menaced prey, one with each of the required weapons. If both hit the same menaced prey, combine their damage for the purpose of its resistances and weaknesses. In addition, if both Strikes hit, the menaced prey is flat-footed until the start of the hill giant butcher's next turn. Apply the hill giant butcher's multiple attack penalty normally. Wide Swing Single Action The hill giant makes a single greatclub Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the hill giant's multiple attack penalty. ",
+ "trait": [
+  "Earth",
+  "Giant",
+  "Humanoid",
+  "Rare",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Earth",
+  "Giant",
+  "Humanoid",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2262",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 26,
+ "wisdom": 5
+}

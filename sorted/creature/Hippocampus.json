@@ -1,0 +1,91 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Buck",
+  "Sudden Retreat"
+ ],
+ "creature_family": "Hippocampus",
+ "creature_family_markdown": "[Hippocampus](/MonsterFamilies.aspx?ID=138)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 24,
+ "hp_raw": "24",
+ "id": "creature-696",
+ "image": [
+  "/Images/Monsters/Hippocampus.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Hippocampus](/Monsters.aspx?ID=696)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHippocampi serve as steeds for aquatic humanoids or roam wild in the sea.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Hippocampus.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Hippocampus](/Monsters.aspx?ID=696)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 142 <sup>2.0</sup></row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +4, [Athletics](/Skills.aspx?ID=3) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +4 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 24\n\n**[Buck](/MonsterAbilities.aspx?ID=6)** <actions string=\"Reaction\" /> DC 17\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet, swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +7 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d6+4 bludgeoning\n\n**Sudden Retreat** <actions string=\"Two Actions\" />  The hippocampus makes a tail Strike, then [Swims](/Actions.aspx?ID=39) with a +10-foot circumstance bonus to its swim Speed. It gains a +2 circumstance bonus to AC against reactions triggered by this movement.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-138\" />",
+ "name": "Hippocampus",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 4,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 142 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Hippocampus](/MonsterFamilies.aspx?ID=138)\r\n\r\n<row gap=\"medium\">\r\n**HP** 24\r\n\r\n**AC** 16\r\n\r\n**Fort** +9\r\n\r\n**Ref** +4\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHippocampi serve as steeds for aquatic humanoids or roam wild in the sea.\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +4",
+  "Athletics +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +4, [Athletics](/Skills.aspx?ID=3) +7",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 142"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 142 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 5,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "5 feet, swim 40 feet",
+ "speed_raw": "5 feet, swim 40 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Hippocampi serve as steeds for aquatic humanoids or roam wild in the sea.",
+ "summary_markdown": "Hippocampi serve as steeds for aquatic humanoids or roam wild in the sea.",
+ "text": " Hippocampus Hippocampi serve as steeds for aquatic humanoids or roam wild in the sea. Recall Knowledge - Animal (Nature): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Hippocampus Source Bestiary 2 pg. 142 2.0 Perception +6; darkvision, scent (imprecise) 30 feet Languages Skills Acrobatics +4, Athletics +7 Str +4 Dex +1 Con +4 Int -4 Wis +3 Cha +1 --- AC 16 Fort +9 Ref +4 Will +6 HP 24 Buck Reaction DC 17 --- Speed 5 feet, swim 40 feet Melee Single Action tail +7 (reach 10 feet), Damage 1d6+4 bludgeoning Sudden Retreat Two Actions The hippocampus makes a tail Strike, then Swims with a +10-foot circumstance bonus to its swim Speed. It gains a +2 circumstance bonus to AC against reactions triggered by this movement. ",
+ "trait": [
+  "Animal",
+  "Aquatic",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Aquatic](/Traits.aspx?ID=168)",
+ "trait_raw": [
+  "Animal",
+  "Aquatic"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=696",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 3
+}

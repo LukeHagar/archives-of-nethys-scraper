@@ -1,0 +1,108 @@
+{
+ "ac": 30,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 6,
+ "creature_ability": [
+  "Motion Sense",
+  "Splatter",
+  "Constrict",
+  "Crawling Slurry Acid",
+  "Engulf"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 300,
+ "hp_raw": "300",
+ "id": "creature-1796",
+ "image": [
+  "/Images/Monsters/Ooze_CrawlingSlurry.png"
+ ],
+ "immunity": [
+  "acid",
+  "critical hits",
+  "mental",
+  "poison",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "[acid](/Traits.aspx?ID=3), critical hits, [mental](/Traits.aspx?ID=106), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"\">[Crawling Slurry](/Monsters.aspx?ID=1796)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAcid damage can scar stone and reduce flesh to pitted chunks, but some organic compounds are resistant to acid and respond by combining into a mass of roiling, living slurry. These scarred clumps hunger to consume anything they can sense. They move with quick, darting contractions that surprise those used to facing slow-moving oozes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ooze_CrawlingSlurry.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Crawling Slurry](/Monsters.aspx?ID=1796)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Acid\" url=\"/Traits.aspx?ID=3\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 82</row>\n\n**Perception** +26; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +35, [Stealth](/Skills.aspx?ID=15) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +9\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A crawling slurry can sense nearby motion through vibration and air movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +31 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 300\n\n**Immunities**\r\n[acid](/Traits.aspx?ID=3), critical hits, [mental](/Traits.aspx?ID=106), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Splatter** <actions string=\"Reaction\" /> **Trigger** The crawling slurry takes bludgeoning damage from a creature it can sense within 10 feet; **Effect** The crawling slurry ejects a splash of acid onto the creature, dealing acid damage equal to the bludgeoning damage dealt to the crawling slurry (DC 37 [basic](/Rules.aspx?ID=329) Reflex).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +32,\r\n**Damage** 3d10+11 bludgeoning plus 2d8 acid and [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d10+3 bludgeoning plus 2d8 acid, DC 37\r\n\r\n**Crawling Slurry Acid**   A crawling slurry's acid damages metals and organic materials but not stone.\r\n\r\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Two Actions\" />  DC 37, 5d10 acid, [Escape](/Actions.aspx?ID=79) DC 37, Rupture 20. A crawling slurry regains 30 Hit Points if a living creature it is engulfing dies.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Accidental Oozes</title>\r\n\r\nCrawling slurries are almost always by-products of toxic waste or alchemical runoff into areas with a high concentration of acid, magic, or both. The first quickening pulses of animation in acid-pitted flesh are easy enough to end with counteracting chemicals or even isolation and starvation, but most crawling slurries are left to fester for a long time and become as large as a person. Left untended in a vat of nutritive acids and organic matter, a crawling slurry might become truly immense, but the power such a slithering horror holds is beyond comprehension.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Crawling Slurry",
+ "npc": false,
+ "perception": 26,
+ "rarity": "rare",
+ "reflex_save": 31,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Acid\" url=\"/Traits.aspx?ID=3\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 82</row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 300\r\n\r\n**AC** 30\r\n\r\n**Fort** +28\r\n\r\n**Ref** +31\r\n\r\n**Will** +20\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAcid damage can scar stone and reduce flesh to pitted chunks, but some organic compounds are resistant to acid and respond by combining into a mass …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +35",
+  "Stealth +30"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +35, [Stealth](/Skills.aspx?ID=15) +30",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 82</row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "stealth": "30",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Acid damage can scar stone and reduce flesh to pitted chunks, but some organic compounds are resistant to acid and respond by combining into a mass …",
+ "summary_markdown": "Acid damage can scar stone and reduce flesh to pitted chunks, but some organic compounds are resistant to acid and respond by combining into a mass …",
+ "text": " Crawling Slurry Acid damage can scar stone and reduce flesh to pitted chunks, but some organic compounds are resistant to acid and respond by combining into a mass of roiling, living slurry. These scarred clumps hunger to consume anything they can sense. They move with quick, darting contractions that surprise those used to facing slow-moving oozes. Recall Knowledge - Ooze (Occultism): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Crawling Slurry Source Pathfinder #174: Shadows of the Ancients pg. 82 Perception +26; motion sense 60 feet, no vision Languages Skills Athletics +35, Stealth +30 Str +5 Dex +9 Con +6 Int -5 Wis +0 Cha -5 Motion Sense A crawling slurry can sense nearby motion through vibration and air movement. --- AC 30 Fort +28 Ref +31 Will +20 HP 300 Immunities acid, critical hits, mental, poison, precision, unconscious, visual Splatter Reaction Trigger The crawling slurry takes bludgeoning damage from a creature it can sense within 10 feet; Effect The crawling slurry ejects a splash of acid onto the creature, dealing acid damage equal to the bludgeoning damage dealt to the crawling slurry (DC 37 basic Reflex). --- Speed 30 feet, climb 20 feet Melee Single Action pseudopod +32, Damage 3d10+11 bludgeoning plus 2d8 acid and Grab Constrict Single Action 2d10+3 bludgeoning plus 2d8 acid, DC 37 Crawling Slurry Acid A crawling slurry's acid damages metals and organic materials but not stone. Engulf Two Actions DC 37, 5d10 acid, Escape DC 37, Rupture 20. A crawling slurry regains 30 Hit Points if a living creature it is engulfing dies. Accidental Oozes Crawling slurries are almost always by-products of toxic waste or alchemical runoff into areas with a high concentration of acid, magic, or both. The first quickening pulses of animation in acid-pitted flesh are easy enough to end with counteracting chemicals or even isolation and starvation, but most crawling slurries are left to fester for a long time and become as large as a person. Left untended in a vat of nutritive acids and organic matter, a crawling slurry might become truly immense, but the power such a slithering horror holds is beyond comprehension. ",
+ "trait": [
+  "Acid",
+  "Mindless",
+  "Ooze",
+  "Rare",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Acid](/Traits.aspx?ID=3), [Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Acid",
+  "Mindless",
+  "Ooze",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1796",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 20,
+ "wisdom": 0
+}

@@ -1,0 +1,58 @@
+{
+ "ac": 31,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 32  Thievery  (master) to sufficiently jam the tubes to make the trap unable to attack creatures in a single 5-foot square in the room, or DC 34  Crafting  (master) to alter one of the three launching mechanisms",
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hardness": 20,
+ "hardness_raw": "20",
+ "hazard_type": "Trap",
+ "hp": 80,
+ "hp_raw": "80 (BT 40) per launching mechanism",
+ "id": "hazard-227",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 11,
+ "markdown": "<title level=\"1\" right=\"Hazard 11\" pfs=\"\">[Caustic Dart Trap](/Hazards.aspx?ID=227)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 29</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThree launching mechanisms built into the mudbrick walls expel darts containing acidic chemicals. All three launching mechanisms must be disabled or destroyed to deactivate the trap.\r\n\r\n---\r\n\r\n**Stealth**\r\n+20 (expert) or DC 30 (expert) to notice the three launching mechanisms built into the wall\r\n\r\n**Disable**\r\nDC 32 [Thievery](/Skills.aspx?ID=17) (master) to sufficiently jam the tubes to make the trap unable to attack creatures in a single 5-foot square in the room, or DC 34 [Crafting](/Skills.aspx?ID=4) (master) to alter one of the three launching mechanisms\n\n<column gap=\"tiny\">\r\n\r\n**AC** 31, **Fort** +24, **Ref** +15\r\n\r\n**Hardness**\r\n20\r\n\r\n**HP**\r\n80 (BT 40) per launching mechanism\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Dart Barrage** <actions string=\"Reaction\" /> ([attack](/Traits.aspx?ID=15)); **Trigger** A creature reaches the midpoint of the hall; **Effect** The trap makes an acid dart against three different random creatures in the hall. The trap then rolls initiative.\n\n---\r\n**Routine**\r\n(3 actions) The trap uses each action for a caustic dart Strike. The trap loses 1 action for each launching mechanism that is [broken](/Conditions.aspx?ID=2) or destroyed.<br /> **Ranged** caustic dart +28, **Damage** 2d4+5 piercing and 4d4+8 acid\r\n\r\n---\r\n**Reset**\r\nThe trap deactivates and resets 1 minute after no creatures are in area C7.",
+ "name": "Caustic Dart Trap",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2020-03-26",
+ "reset": "The trap deactivates and resets 1 minute after no creatures are in area C7.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 29</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThree launching mechanisms built into the mudbrick walls expel darts containing acidic chemicals. All three launching mechanisms must be disabled or …\r\n</summary>",
+ "source": [
+  "Pathfinder #153: Life's Long Shadows"
+ ],
+ "source_raw": [
+  "Pathfinder #153: Life's Long Shadows pg. 29"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 29</row>",
+ "speed": {},
+ "stealth": "+20 (expert) or DC 30 (expert) to notice the three launching mechanisms built into the wall",
+ "summary": "Three launching mechanisms built into the mudbrick walls expel darts containing acidic chemicals. All three launching mechanisms must be disabled or …",
+ "summary_markdown": "Three launching mechanisms built into the mudbrick walls expel darts containing acidic chemicals. All three launching mechanisms must be disabled or …",
+ "text": " Caustic Dart Trap Source Pathfinder #153: Life's Long Shadows pg. 29 Complexity Complex Three launching mechanisms built into the mudbrick walls expel darts containing acidic chemicals. All three launching mechanisms must be disabled or destroyed to deactivate the trap. --- Stealth +20 (expert) or DC 30 (expert) to notice the three launching mechanisms built into the wall Disable DC 32 Thievery (master) to sufficiently jam the tubes to make the trap unable to attack creatures in a single 5-foot square in the room, or DC 34 Crafting (master) to alter one of the three launching mechanisms AC 31, Fort +24, Ref +15 Hardness 20 HP 80 (BT 40) per launching mechanism Immunities critical hits, object immunities, precision damage Dart Barrage Reaction (attack); Trigger A creature reaches the midpoint of the hall; Effect The trap makes an acid dart against three different random creatures in the hall. The trap then rolls initiative. --- Routine (3 actions) The trap uses each action for a caustic dart Strike. The trap loses 1 action for each launching mechanism that is broken or destroyed. Ranged caustic dart +28, Damage 2d4+5 piercing and 4d4+8 acid --- Reset The trap deactivates and resets 1 minute after no creatures are in area C7.",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=227",
+ "weakness": {}
+}

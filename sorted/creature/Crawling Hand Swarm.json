@@ -1,0 +1,110 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Stifle",
+  "Pummeling Grasp"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 60,
+ "hp_raw": "60 ( negative healing )",
+ "id": "creature-1783",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "swarm mind",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [swarm mind](/MonsterAbilities.aspx?ID=36), [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -4,
+ "language": [
+  "Common",
+  "Hallit",
+  "can't speak any language"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37); can't speak any language",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Crawling Hand Swarm](/Monsters.aspx?ID=1783)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Crawling Hand Swarm](/Monsters.aspx?ID=1783)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 38</row>\n\n**Perception** +11; [lifesense](/MonsterAbilities.aspx?ID=21) 30 feet, [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37); can't speak any language\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 60\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [swarm mind](/MonsterAbilities.aspx?ID=36), [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\r\n\r\n**Resistances**\r\nbludgeoning 2, piercing 5, slashing 5\r\n\r\n**Weaknesses**\r\narea damage 5, [splash](/Traits.aspx?ID=150) damage 5\r\n\r\n**Stifle** <actions string=\"Reaction\" /> **Trigger** A creature in the swarm's space attempts to Cast a Spell with a verbal component or attempts an action with the [linguistic](/Traits.aspx?ID=101) or [vocal](/Traits.aspx?ID=297) traits **Effect** The swarming hands clamp over the triggering creature's mouth, preventing it from vocalizing. The affected creature must succeed at a DC 22 Reflex save or the triggering action is disrupted.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\n\n**Pummeling Grasp** <actions string=\"Single Action\" />  Each enemy in the swarm's space takes 3d6 slashing damage (DC 20 [basic](/Rules.aspx?ID=329) Reflex save). A creature that fails its save against Pummeling Grasp is also knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>",
+ "name": "Crawling Hand Swarm",
+ "npc": false,
+ "perception": 11,
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2022-02-23",
+ "resistance": {
+  "bludgeoning": 2,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "bludgeoning 2, piercing 5, slashing 5",
+ "resistance_raw": "bludgeoning 2, piercing 5, slashing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 38</row>\n\n<row gap=\"medium\">\r\n**HP** 60 ( negative healing )\r\n\r\n**AC** 21\r\n\r\n**Fort** +11\r\n\r\n**Ref** +15\r\n\r\n**Will** +9\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " lifesense  30 feet,  tremorsense  (imprecise) 30 feet",
+ "sense_markdown": "[lifesense](/MonsterAbilities.aspx?ID=21) 30 feet, [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +10",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Pathfinder #176: Lost Mammoth Valley"
+ ],
+ "source_raw": [
+  "Pathfinder #176: Lost Mammoth Valley pg. 38"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 38</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Crawling Hand Swarm Recall Knowledge - Undead (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Crawling Hand Swarm Source Pathfinder #176: Lost Mammoth Valley pg. 38 Perception +11; lifesense 30 feet, tremorsense (imprecise) 30 feet Languages Common, Hallit; can't speak any language Skills Athletics +10, Stealth +12 Str +3 Dex +5 Con +4 Int -4 Wis +2 Cha +0 --- AC 21 Fort +11 Ref +15 Will +9 HP 60 (negative healing) Immunities death effects, disease, paralyzed, poison, precision, swarm mind, unconscious, visual Resistances bludgeoning 2, piercing 5, slashing 5 Weaknesses area damage 5, splash damage 5 Stifle Reaction Trigger A creature in the swarm's space attempts to Cast a Spell with a verbal component or attempts an action with the linguistic or vocal traits Effect The swarming hands clamp over the triggering creature's mouth, preventing it from vocalizing. The affected creature must succeed at a DC 22 Reflex save or the triggering action is disrupted. --- Speed 30 feet, climb 30 feet Pummeling Grasp Single Action Each enemy in the swarm's space takes 3d6 slashing damage (DC 20 basic Reflex save). A creature that fails its save against Pummeling Grasp is also knocked prone. ",
+ "trait": [
+  "Swarm",
+  "Undead",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Swarm](/Traits.aspx?ID=239), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Swarm",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1783",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 5
+ },
+ "weakness_markdown": "area damage 5, [splash](/Traits.aspx?ID=150) damage 5",
+ "weakness_raw": "area damage 5,  splash  damage 5",
+ "will_save": 9,
+ "wisdom": 2
+}

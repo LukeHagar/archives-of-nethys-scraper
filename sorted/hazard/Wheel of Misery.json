@@ -1,0 +1,59 @@
+{
+ "ac": 24,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Thievery  DC 26 (expert) on the wheel to stop it from spinning, Thievery DC 22 (master) to erase each rune, or   dispel magic   (4th level; counteract DC 22) to counteract each rune",
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hardness": 14,
+ "hardness_raw": "14",
+ "hazard_type": "Trap",
+ "hp": 56,
+ "hp_raw": "56 (BT 28)",
+ "id": "hazard-24",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 6,
+ "markdown": "<title level=\"1\" right=\"Hazard 6\" pfs=\"\">[Wheel of Misery](/Hazards.aspx?ID=24)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 527 <sup>4.0</sup></row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nAn ornate wheel set into a wall—divided into six segments with colored runes on each—is controlled by a magical sensor that detects any creature within 100 feet in front of it.\r\n\r\n---\r\n\r\n**Stealth**\r\n+16 (expert) to detect the magical sensor; noticing the wheel has a DC of 0\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 26 (expert) on the wheel to stop it from spinning, Thievery DC 22 (master) to erase each rune, or [_dispel magic_](/Spells.aspx?ID=78) (4th level; counteract DC 22) to counteract each rune\n\n<column gap=\"tiny\">\r\n\r\n**AC** 24, **Fort** +15, **Ref** +13\r\n\r\n**Hardness**\r\n14\r\n\r\n**HP**\r\n56 (BT 28)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Wheel Spin** <actions string=\"Reaction\" /> **Trigger** A creature enters the sensor’s detection area. **Effect** The wheel begins to spin and rolls initiative.\n\n---\r\n**Routine**\r\n(2 actions) On its initiative, the trap uses its first action to spin, then stops. Roll 1d6 to determine which segment is topmost when the wheel stops spinning. The wheel uses its second action to replicate the spell listed for that segment (3rd level, DC 24, spell attack roll +14). This spell’s target is centered on or otherwise includes the nearest creature in the area. This increases the spell’s range to 100 feet if necessary. Any spell cast by this trap is arcane. <ol><li>[_sleep_](/Spells.aspx?ID=288)</li> <li>[_paralyze_](/Spells.aspx?ID=213)</li> <li>[_lightning bolt_](/Spells.aspx?ID=172) (100-foot line)</li> <li>[_blindness_](/Spells.aspx?ID=26)</li> <li>[_acid arrow_](/Spells.aspx?ID=2)</li> <li>[_ray of enfeeblement_](/Spells.aspx?ID=244)</li></ol>\r\n\r\n---\r\n**Reset**\r\nThe trap deactivates and resets if 1 minute passes without any creature moving within range of its sensor.",
+ "name": "Wheel of Misery",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2019-08-01",
+ "reset": "The trap deactivates and resets if 1 minute passes without any creature moving within range of its sensor.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 527 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn ornate wheel set into a wall—divided into six segments with colored runes on each—is controlled by a magical sensor that detects any creature …\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 527"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 527 <sup>4.0</sup></row>",
+ "speed": {},
+ "stealth": "+16 (expert) to detect the magical sensor; noticing the wheel has a DC of 0",
+ "summary": "An ornate wheel set into a wall—divided into six segments with colored runes on each—is controlled by a magical sensor that detects any creature …",
+ "summary_markdown": "An ornate wheel set into a wall—divided into six segments with colored runes on each—is controlled by a magical sensor that detects any creature …",
+ "text": " Wheel of Misery Source Core Rulebook pg. 527 4.0 Complexity Complex An ornate wheel set into a wall—divided into six segments with colored runes on each—is controlled by a magical sensor that detects any creature within 100 feet in front of it. --- Stealth +16 (expert) to detect the magical sensor; noticing the wheel has a DC of 0 Disable Thievery DC 26 (expert) on the wheel to stop it from spinning, Thievery DC 22 (master) to erase each rune, or dispel magic (4th level; counteract DC 22) to counteract each rune AC 24, Fort +15, Ref +13 Hardness 14 HP 56 (BT 28) Immunities critical hits, object immunities, precision damage Wheel Spin Reaction Trigger A creature enters the sensor’s detection area. Effect The wheel begins to spin and rolls initiative. --- Routine (2 actions) On its initiative, the trap uses its first action to spin, then stops. Roll 1d6 to determine which segment is topmost when the wheel stops spinning. The wheel uses its second action to replicate the spell listed for that segment (3rd level, DC 24, spell attack roll +14). This spell’s target is centered on or otherwise includes the nearest creature in the area. This increases the spell’s range to 100 feet if necessary. Any spell cast by this trap is arcane. sleep paralyze lightning bolt (100-foot line) blindness acid arrow ray of enfeeblement --- Reset The trap deactivates and resets if 1 minute passes without any creature moving within range of its sensor.",
+ "trait": [
+  "Complex",
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Magical](/Traits.aspx?ID=103), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=24",
+ "weakness": {}
+}

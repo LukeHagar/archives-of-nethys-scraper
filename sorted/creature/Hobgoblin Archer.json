@@ -1,0 +1,94 @@
+{
+ "ac": 23,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 2,
+ "creature_ability": [
+  "Formation",
+  "Crossbow Precision",
+  "Perfect Aim",
+  "Running Reload"
+ ],
+ "creature_family": "Hobgoblin",
+ "creature_family_markdown": "[Hobgoblin](/MonsterFamilies.aspx?ID=61)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 50,
+ "hp_raw": "50",
+ "id": "creature-262",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Goblin"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Hobgoblin Archer](/Monsters.aspx?ID=262)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBands of hobgoblin soldiers typically have at least one archer among their ranks. In smaller groups, the hobgoblin archer also serves as that band’s captain.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Hobgoblin Archer](/Monsters.aspx?ID=262)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 207</row>\n\n**Perception** +10; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** -1\r\n</row>\n\n**Items**\r\n[Scale Mail](/Armor.aspx?ID=8), [Crossbow](/Weapons.aspx?ID=67) (20 bolts)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 50\n\n**Formation** When it’s adjacent to at least two other allies, the hobgoblin archer gains a +1 circumstance bonus to AC and saving throws. This bonus increases to +2 to Reflex saves against area effects.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +12 ([Agile](/Traits.aspx?ID=170), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncrossbow +14 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d8+2 piercing plus crossbow precision\n\n**Crossbow Precision**   The first time the archer hits with a crossbow attack in a round, it deals 1d8 extra precision damage.\r\n\r\n**Perfect Aim**   The hobgoblin archer ignores the concealed condition. Their targets don’t benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer’s attack.\r\n\r\n**Running Reload** <actions string=\"Single Action\" />  The archer Strides, Steps, or Sneaks, then Interacts to reload.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-61\" />",
+ "name": "Hobgoblin Archer",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 207</row>\r\n\r\n**Creature Family** [Hobgoblin](/MonsterFamilies.aspx?ID=61)\r\n\r\n<row gap=\"medium\">\r\n**HP** 50\r\n\r\n**AC** 23\r\n\r\n**Fort** +10\r\n\r\n**Ref** +12\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBands of hobgoblin soldiers typically have at least one archer among their ranks. In smaller groups, the hobgoblin archer also serves as that band’s …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +8",
+  "Stealth +10"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +10",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 207"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 207</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "10",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Bands of hobgoblin soldiers typically have at least one archer among their ranks. In smaller groups, the hobgoblin archer also serves as that band’s …",
+ "summary_markdown": "Bands of hobgoblin soldiers typically have at least one archer among their ranks. In smaller groups, the hobgoblin archer also serves as that band’s …",
+ "text": " Hobgoblin Archer Bands of hobgoblin soldiers typically have at least one archer among their ranks. In smaller groups, the hobgoblin archer also serves as that band’s captain. Recall Knowledge - Humanoid (Society): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Hobgoblin Archer Source Bestiary pg. 207 Perception +10; darkvision Languages Common, Goblin Skills Acrobatics +8, Athletics +8, Stealth +10 Str +2 Dex +4 Con +2 Int +0 Wis +2 Cha -1 Items Scale Mail, Crossbow (20 bolts) --- AC 23 Fort +10 Ref +12 Will +8 HP 50 Formation When it’s adjacent to at least two other allies, the hobgoblin archer gains a +1 circumstance bonus to AC and saving throws. This bonus increases to +2 to Reflex saves against area effects. --- Speed 25 feet Melee Single Action shortsword +12 (Agile, versatile S), Damage 1d6+4 piercing Ranged Single Action crossbow +14 (range increment 120 feet, reload 1), Damage 1d8+2 piercing plus crossbow precision Crossbow Precision The first time the archer hits with a crossbow attack in a round, it deals 1d8 extra precision damage. Perfect Aim The hobgoblin archer ignores the concealed condition. Their targets don’t benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer’s attack. Running Reload Single Action The archer Strides, Steps, or Sneaks, then Interacts to reload. ",
+ "trait": [
+  "Goblin",
+  "Humanoid",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Goblin](/Traits.aspx?ID=81), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Goblin",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=262",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 2
+}

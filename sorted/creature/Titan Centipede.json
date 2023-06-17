@@ -1,0 +1,91 @@
+{
+ "ac": 28,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 5,
+ "creature_ability": [
+  "Impaling Critical",
+  "Titan Centipede Venom",
+  "Trample",
+  "Undulate"
+ ],
+ "creature_family": "Centipede",
+ "creature_family_markdown": "[Centipede](/MonsterFamilies.aspx?ID=22)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 155,
+ "hp_raw": "155",
+ "id": "creature-582",
+ "image": [
+  "/Images/Monsters/Centipede_TitanCentipede.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Titan Centipede](/Monsters.aspx?ID=582)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese colossal, solitary centipedes claim vast hunting grounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Centipede_TitanCentipede.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Titan Centipede](/Monsters.aspx?ID=582)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 50 <sup>2.0</sup></row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +1\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +5\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 155\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet, climb 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandibles +21 ([reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+12 piercing plus titan centipede venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +19,\r\n**Damage** 2d8+10 bludgeoning\n\n**Impaling Critical**   When a titan centipede scores a critical hit with its mandibles, the target is painfully pierced with barbed spines and bristles, taking 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) and becoming [flat-footed](/Conditions.aspx?ID=16) as long as the bleed damage continues.\r\n\r\n**Titan Centipede Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 28 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [clumsy 2](/Conditions.aspx?ID=3) (1 round); **Stage 2** 2d8 poison damage, clumsy 2, and [slowed 1](/Conditions.aspx?ID=35) (1 round); **Stage 3** 2d10 poison damage, clumsy 2, and slowed 2 (1 round)\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Huge or smaller, foot, DC 28\r\n\r\n**Undulate** <actions string=\"Single Action\" />  The titan centipede Strides up to its Speed or Steps. During this movement, it can pass through spaces as narrow as 10 feet without [Squeezing](/Actions.aspx?ID=31).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-22\" />",
+ "name": "Titan Centipede",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 50 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Centipede](/MonsterFamilies.aspx?ID=22)\r\n\r\n<row gap=\"medium\">\r\n**HP** 155\r\n\r\n**AC** 28\r\n\r\n**Fort** +20\r\n\r\n**Ref** +16\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese colossal, solitary centipedes claim vast hunting grounds.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Athletics +21"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +21",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 50"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 50 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 50,
+  "land": 50,
+  "max": 50
+ },
+ "speed_markdown": "50 feet, climb 50 feet",
+ "speed_raw": "50 feet, climb 50 feet",
+ "spell_markdown": "",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "These colossal, solitary centipedes claim vast hunting grounds.",
+ "summary_markdown": "These colossal, solitary centipedes claim vast hunting grounds.",
+ "text": " Titan Centipede These colossal, solitary centipedes claim vast hunting grounds. Recall Knowledge - Animal (Nature): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Titan Centipede Source Bestiary 2 pg. 50 2.0 Perception +18; darkvision Languages Skills Acrobatics +16, Athletics +21 Str +8 Dex +1 Con +5 Int -5 Wis +5 Cha -4 --- AC 28 Fort +20 Ref +16 Will +18 HP 155 --- Speed 50 feet, climb 50 feet Melee Single Action mandibles +21 (reach 20 feet), Damage 2d10+12 piercing plus titan centipede venom Melee Single Action foot +19, Damage 2d8+10 bludgeoning Impaling Critical When a titan centipede scores a critical hit with its mandibles, the target is painfully pierced with barbed spines and bristles, taking 1d6 persistent bleed damage and becoming flat-footed as long as the bleed damage continues. Titan Centipede Venom (Poison) Saving Throw DC 28 Fortitude; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and clumsy 2 (1 round); Stage 2 2d8 poison damage, clumsy 2, and slowed 1 (1 round); Stage 3 2d10 poison damage, clumsy 2, and slowed 2 (1 round) Trample Three Actions Huge or smaller, foot, DC 28 Undulate Single Action The titan centipede Strides up to its Speed or Steps. During this movement, it can pass through spaces as narrow as 10 feet without Squeezing. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=582",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 5
+}

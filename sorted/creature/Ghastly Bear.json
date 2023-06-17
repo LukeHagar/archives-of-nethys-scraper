@@ -1,0 +1,98 @@
+{
+ "ac": 27,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 6,
+ "creature_ability": [
+  "Stench",
+  "Consume Flesh",
+  "Ghast Fever",
+  "Mauler",
+  "Paralysis"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 135,
+ "hp_raw": "135 ( negative healing )",
+ "id": "creature-1556",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ghastly Bear](/Monsters.aspx?ID=1556)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Ghastly Bear](/Monsters.aspx?ID=1556)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 50</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +19, [Survival](/Skills.aspx?ID=16) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +1\r\n\r\n**Con** +6\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 26 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (plus, on a critical failure, [slowed 1](/Conditions.aspx?ID=35) as long as it's sickened). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 135\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +20,\r\n**Damage** 2d10+9 piercing plus ghast fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+9 slashing plus [Grab](/MonsterAbilities.aspx?ID=18) and paralysis\n\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ghastly bear is adjacent to the corpse of a creature that died within the last hour. **Effect** The ghastly bear devours a chunk of the corpse and regains 6d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Ghast Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 26 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 3d8 negative damage and regains half as many Hit Points from all [healing](/Domains.aspx?ID=15) (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 3d8 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [ghast](/Monsters.aspx?ID=219) the next midnight.\r\n\r\n**Mauler**   A ghastly bear gains a +4 circumstance bonus to damage rolls against creatures it has [grabbed](/Conditions.aspx?ID=20).\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) Any living creature hit by a ghastly bear's attack must succeed at a DC 26 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n</column>",
+ "name": "Ghastly Bear",
+ "npc": false,
+ "perception": 16,
+ "rarity": "unique",
+ "reflex_save": 14,
+ "release_date": "2019-09-18",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 50</row>\n\n<row gap=\"medium\">\r\n**HP** 135 ( negative healing )\r\n\r\n**AC** 27\r\n\r\n**Fort** +19\r\n\r\n**Ref** +14\r\n\r\n**Will** +16\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +19",
+  "Survival +14"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +19, [Survival](/Skills.aspx?ID=16) +14",
+ "source": [
+  "Pathfinder #147: Tomorrow Must Burn"
+ ],
+ "source_raw": [
+  "Pathfinder #147: Tomorrow Must Burn pg. 50"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 50</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Ghastly Bear Recall Knowledge - Undead (Religion): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Ghastly Bear Source Pathfinder #147: Tomorrow Must Burn pg. 50 Perception +16; darkvision, scent (imprecise) 30 feet Languages Skills Athletics +19, Survival +14 Str +6 Dex +1 Con +6 Int -4 Wis +1 Cha -1 Stench (aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 26 Fortitude save or become sickened 1 (plus, on a critical failure, slowed 1 as long as it's sickened). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute. --- AC 27 Fort +19 Ref +14 Will +16 HP 135 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 35 feet Melee Single Action jaws +20, Damage 2d10+9 piercing plus ghast fever and paralysis Melee Single Action claw +20 (Agile), Damage 2d8+9 slashing plus Grab and paralysis Consume Flesh Single Action (Manipulate) Requirements The ghastly bear is adjacent to the corpse of a creature that died within the last hour. Effect The ghastly bear devours a chunk of the corpse and regains 6d6 Hit Points. It can regain Hit Points from any given corpse only once. Ghast Fever (Disease) Saving Throw DC 26 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 3d8 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 3d8 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghast the next midnight. Mauler A ghastly bear gains a +4 circumstance bonus to damage rolls against creatures it has grabbed. Paralysis (Incapacitation, Necromancy, Occult) Any living creature hit by a ghastly bear's attack must succeed at a DC 26 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. ",
+ "trait": [
+  "Ghoul",
+  "Undead",
+  "Unique",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Ghoul",
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1556",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 1
+}

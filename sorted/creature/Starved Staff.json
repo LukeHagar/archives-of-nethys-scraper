@@ -1,0 +1,107 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Starvation Aura",
+  "Breath Weapon",
+  "Corpse Consumption",
+  "Swallow Whole"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 250,
+ "hp_raw": "250 ( negative healing )",
+ "id": "creature-2113",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -3,
+ "language": [
+  "Common",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can't speak any language)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Starved Staff](/Monsters.aspx?ID=2113)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 42\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 40\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 37\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Starved Staff](/Monsters.aspx?ID=2113)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 16</row>\n\n**Perception** +26; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +29, [Intimidation](/Skills.aspx?ID=7) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** -3\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 250\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\n[cold](/Traits.aspx?ID=27) 10, [electricity](/Traits.aspx?ID=56) 10, [fire](/Traits.aspx?ID=72) 10, piercing 10, slashing 10\n\n**Starvation Aura** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117)) 60 feet. Any creature that ends its turn in the aura feels the intense pain of starvation and must attempt a DC 32 Fortitude save. On a failure, the creature becomes [fatigued](/Conditions.aspx?ID=15) and takes 7d6 damage. The damage and fatigue a creature takes from this aura can't be healed until the affected creature has eaten a full meal.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +29 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+16 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +29 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+16 slashing\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) The gashadokuro breathes a spray of bone shards in a 30-foot cone. Each creature in the area takes 9d12 piercing damage (DC 36 [basic](/Rules.aspx?ID=329) Reflex save). It can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Corpse Consumption**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) If the gashadokuro kills a creature with Swallow Whole, it immediately regains Hit Points equal to the swallowed creature's level. As long as the gashadokuro still exists, creatures consumed in this way can't be resurrected except by [_wish_](/Spells.aspx?ID=377) or a similarly powerful effect.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 3d10 bludgeoning, Rupture 26\r\n\r\n</column>",
+ "name": "Starved Staff",
+ "npc": false,
+ "perception": 26,
+ "rarity": "unique",
+ "reflex_save": 16,
+ "release_date": "2020-04-29",
+ "resistance": {
+  "cold": 10,
+  "electricity": 10,
+  "fire": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "[cold](/Traits.aspx?ID=27) 10, [electricity](/Traits.aspx?ID=56) 10, [fire](/Traits.aspx?ID=72) 10, piercing 10, slashing 10",
+ "resistance_raw": " cold  10,  electricity  10,  fire  10, piercing 10, slashing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 16</row>\n\n<row gap=\"medium\">\r\n**HP** 250 ( negative healing )\r\n\r\n**AC** 32\r\n\r\n**Fort** +24\r\n\r\n**Ref** +16\r\n\r\n**Will** +21\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +29",
+  "Intimidation +26"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +29, [Intimidation](/Skills.aspx?ID=7) +26",
+ "source": [
+  "Pathfinder #154: Siege of the Dinosaurs"
+ ],
+ "source_raw": [
+  "Pathfinder #154: Siege of the Dinosaurs pg. 16"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 16</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Starved Staff Recall Knowledge - Undead (Religion): DC 42 Unspecific Lore : DC 40 Specific Lore : DC 37 Starved Staff Source Pathfinder #154: Siege of the Dinosaurs pg. 16 Perception +26; darkvision Languages Common; (can't speak any language) Skills Athletics +29, Intimidation +26 Str +8 Dex +4 Con +5 Int -3 Wis +3 Cha +3 --- AC 32 Fort +24 Ref +16 Will +21 HP 250 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Resistances cold 10, electricity 10, fire 10, piercing 10, slashing 10 Starvation Aura (aura, divine, mental, necromancy) 60 feet. Any creature that ends its turn in the aura feels the intense pain of starvation and must attempt a DC 32 Fortitude save. On a failure, the creature becomes fatigued and takes 7d6 damage. The damage and fatigue a creature takes from this aura can't be healed until the affected creature has eaten a full meal. --- Speed 25 feet Melee Single Action jaws +29 (reach 10 feet), Damage 3d12+16 piercing plus Grab Melee Single Action claw +29 (Agile, reach 15 feet), Damage 3d8+16 slashing Breath Weapon Two Actions (Divine, Necromancy) The gashadokuro breathes a spray of bone shards in a 30-foot cone. Each creature in the area takes 9d12 piercing damage (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds. Corpse Consumption (Divine, Necromancy) If the gashadokuro kills a creature with Swallow Whole, it immediately regains Hit Points equal to the swallowed creature's level. As long as the gashadokuro still exists, creatures consumed in this way can't be resurrected except by wish or a similarly powerful effect. Swallow Whole Single Action (Attack) Large, 3d10 bludgeoning, Rupture 26 ",
+ "trait": [
+  "Undead",
+  "Unique",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2113",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 3
+}

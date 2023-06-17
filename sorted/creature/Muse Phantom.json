@@ -1,0 +1,146 @@
+{
+ "ac": 21,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 2,
+ "creature_ability": [
+  "Thespian Aura",
+  "Grand Finale",
+  "Muse Possession"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 50,
+ "hp_raw": "50 ( negative healing )",
+ "id": "creature-511",
+ "image": [
+  "/Images/Monsters/MusePhantom.png"
+ ],
+ "immunity": [
+  "death effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "death effects, disease, paralyzed, poison, precision, unconscious",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Muse Phantom](/Monsters.aspx?ID=511)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFor performers who die before their time and whose love of the theater is stronger than death’s grasp, the show does indeed go on. Such actors rise from the grave to become muse phantoms—undead spirits that haunt opera houses or auditoriums and possess the bodies of living actors to continue their art.\n\n A host is often utterly unaware of being possessed by a muse phantom. Like egotistical parasites, muse phantoms assume command of their unwitting thespian shells only during big shows with packed audiences, and even then the host might chalk up their sudden lack of control to the transcendence of performance, not the nefarious influence of some paranormal entity. In time, a performer’s mind can become utterly warped by the spirit’s domination, twisting artistic temperament and vanity into evil selfishness and tireless obsession.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 22\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/MusePhantom.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Muse Phantom](/Monsters.aspx?ID=511)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 81</row>\n\n**Perception** +10; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Deception](/Skills.aspx?ID=5) +14, [Diplomacy](/Skills.aspx?ID=6) +14, [Performance](/Skills.aspx?ID=12) +16, [Occultism](/Skills.aspx?ID=11) +13, [Theater Lore](/Skills.aspx?ID=8) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Thespian Aura** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) 30 feet. The muse phantom inspires a supernatural emotional response—either comedy or drama. Each creature that begins its turn in the aura must attempt a DC 20 Will save; on a failure, the creature is affected as long as it remains within the aura. If the muse phantom is emitting a comedic aura, affected creatures become [clumsy 1](/Conditions.aspx?ID=3); if it is emitting a dramatic aura, affected creatures instead become [stupefied 1](/Conditions.aspx?ID=37).<br /> The muse phantom can change its aura from comedic to dramatic or vice-versa, or cease or activate this aura, by spending a single action, which has the [concentrate](/Traits.aspx?ID=32) trait. A creature possessed by a muse phantom is immune to this aura.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 50\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\ndeath effects, disease, paralyzed, poison, precision, unconscious\r\n\r\n**Resistances**\r\nall damage 5 (except force, _ghost touch_, or positive; double resistance vs. non-magical)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nphantom hand +13 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+5 negative\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nresonating note +15 ([Magical](/Traits.aspx?ID=103), [range 60 feet](/Traits.aspx?ID=248), [Sonic](/Traits.aspx?ID=147)),\r\n**Damage** 2d4+5 sonic\r\n\r\n**Occult Spontaneous Spells** DC 22, attack +14\r\n- **Cantrips (2nd)**\r\n[Ghost Sound](/Spells.aspx?ID=132), [Telekinetic Projectile](/Spells.aspx?ID=334)\r\n- **1st**\r\n[Charm](/Spells.aspx?ID=34), [Fear](/Spells.aspx?ID=110), [Mindlink](/Spells.aspx?ID=195)\r\n- **2nd**\r\n[Hideous Laughter](/Spells.aspx?ID=150), [Invisibility](/Spells.aspx?ID=164) (at will; self only)\r\n\r\n**Grand Finale** <actions string=\"Three Actions\" /> ([Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) **Requirements** The muse phantom’s thespian aura is active; **Effect** The muse ceases its thespian aura and deals 4d8 mental damage to creatures in a 30-foot burst, including the creature it is possessing, if any (DC 22 basic Will save). Creatures that fail their Will saves are [fascinated](/Conditions.aspx?ID=14) by the muse phantom for 1 minute. The muse phantom can’t use Grand Finale again for 1d4 rounds.\r\n\r\n**Muse Possession** <actions string=\"Two Actions\" />  The phantom muse attempts to possess an adjacent corporeal creature. This has the same effect as the [_possession_](/Spells.aspx?ID=225) spell (DC 20), except the duration is 1d4 hours, and since the phantom muse doesn't have a physical body, it is unaffected by that restriction of the spell. If the target is at least trained in [Performance](/Skills.aspx?ID=12), the DC of this ability is 24.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Willing Hosts</title>\r\n\r\nSome actors who have felt the touch of a muse phantom come to relish and even desire the feeling of giving oneself over to what they consider a divine theatrical spirit. Such willing hosts voluntarily and routinely let themselves become possessed by a muse phantom, or even allow the spirit to reside within their body permanently. This symbiotic relationship allows the actor to advance their acting career and the phantom to continue performing to admiring masses.\r\n</aside>",
+ "name": "Muse Phantom",
+ "npc": false,
+ "perception": 10,
+ "rarity": "uncommon",
+ "reflex_save": 13,
+ "release_date": "2020-02-26",
+ "resistance": {
+  "acid": 5,
+  "all": 5,
+  "area": 5,
+  "bleed": 5,
+  "bludgeoning": 5,
+  "chaotic": 5,
+  "cold": 5,
+  "cold_iron": 5,
+  "electricity": 5,
+  "evil": 5,
+  "fire": 5,
+  "good": 5,
+  "lawful": 5,
+  "mental": 5,
+  "negative": 5,
+  "orichalcum": 5,
+  "physical": 5,
+  "piercing": 5,
+  "poison": 5,
+  "precision": 5,
+  "silver": 5,
+  "slashing": 5,
+  "sonic": 5,
+  "splash": 5
+ },
+ "resistance_markdown": "all damage 5 (except force, _ghost touch_, or positive; double resistance vs. non-magical)",
+ "resistance_raw": "all damage 5 (except force,  ghost touch , or positive; double resistance vs. non-magical)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 81</row>\n\n<row gap=\"medium\">\r\n**HP** 50 ( negative healing )\r\n\r\n**AC** 21\r\n\r\n**Fort** +9\r\n\r\n**Ref** +13\r\n\r\n**Will** +14\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFor performers who die before their time and whose love of the theater is stronger than death’s grasp, the show does indeed go on. Such actors rise …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Deception +14",
+  "Diplomacy +14",
+  "Performance +16",
+  "Occultism +13",
+  "Theater Lore +11"
+ ],
+ "skill_markdown": "[Deception](/Skills.aspx?ID=5) +14, [Diplomacy](/Skills.aspx?ID=6) +14, [Performance](/Skills.aspx?ID=12) +16, [Occultism](/Skills.aspx?ID=11) +13, [Theater Lore](/Skills.aspx?ID=8) +11",
+ "source": [
+  "Pathfinder #152: Legacy of the Lost God"
+ ],
+ "source_raw": [
+  "Pathfinder #152: Legacy of the Lost God pg. 81"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 81</row>",
+ "speed": {
+  "fly": 25,
+  "max": 25
+ },
+ "speed_markdown": "fly 25 feet",
+ "speed_raw": "fly 25 feet",
+ "spell": [
+  "Hideous Laughter",
+  "Invisibility",
+  "Charm",
+  "Fear",
+  "Mindlink",
+  "Ghost Sound",
+  "Telekinetic Projectile"
+ ],
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Fear](/Spells.aspx?ID=110), [Ghost Sound](/Spells.aspx?ID=132), [Hideous Laughter](/Spells.aspx?ID=150), [Invisibility](/Spells.aspx?ID=164), [Mindlink](/Spells.aspx?ID=195), [Telekinetic Projectile](/Spells.aspx?ID=334)",
+ "spoilers": "Extinction Curse",
+ "strength": -5,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "For performers who die before their time and whose love of the theater is stronger than death’s grasp, the show does indeed go on. Such actors rise …",
+ "summary_markdown": "For performers who die before their time and whose love of the theater is stronger than death’s grasp, the show does indeed go on. Such actors rise …",
+ "text": " Muse Phantom For performers who die before their time and whose love of the theater is stronger than death’s grasp, the show does indeed go on. Such actors rise from the grave to become muse phantoms—undead spirits that haunt opera houses or auditoriums and possess the bodies of living actors to continue their art. A host is often utterly unaware of being possessed by a muse phantom. Like egotistical parasites, muse phantoms assume command of their unwitting thespian shells only during big shows with packed audiences, and even then the host might chalk up their sudden lack of control to the transcendence of performance, not the nefarious influence of some paranormal entity. In time, a performer’s mind can become utterly warped by the spirit’s domination, twisting artistic temperament and vanity into evil selfishness and tireless obsession. Recall Knowledge - Spirit (Occultism): DC 22 Recall Knowledge - Undead (Religion): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Muse Phantom Source Pathfinder #152: Legacy of the Lost God pg. 81 Perception +10; darkvision Languages Common, Necril Skills Deception +14, Diplomacy +14, Performance +16, Occultism +13, Theater Lore +11 Str -5 Dex +4 Con +2 Int +0 Wis +3 Cha +5 Thespian Aura (aura, emotion, mental, occult) 30 feet. The muse phantom inspires a supernatural emotional response—either comedy or drama. Each creature that begins its turn in the aura must attempt a DC 20 Will save; on a failure, the creature is affected as long as it remains within the aura. If the muse phantom is emitting a comedic aura, affected creatures become clumsy 1; if it is emitting a dramatic aura, affected creatures instead become stupefied 1. The muse phantom can change its aura from comedic to dramatic or vice-versa, or cease or activate this aura, by spending a single action, which has the concentrate trait. A creature possessed by a muse phantom is immune to this aura. --- AC 21 Fort +9 Ref +13 Will +14 HP 50 (negative healing) Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all damage 5 (except force, ghost touch , or positive; double resistance vs. non-magical) --- Speed fly 25 feet Melee Single Action phantom hand +13 (Agile, Finesse, Magical), Damage 2d6+5 negative Ranged Single Action resonating note +15 (Magical, range 60 feet, Sonic), Damage 2d4+5 sonic Occult Spontaneous Spells DC 22, attack +14 - Cantrips (2nd) Ghost Sound, Telekinetic Projectile - 1st Charm, Fear, Mindlink - 2nd Hideous Laughter, Invisibility (at will; self only) Grand Finale Three Actions (Mental, Occult) Requirements The muse phantom’s thespian aura is active; Effect The muse ceases its thespian aura and deals 4d8 mental damage to creatures in a 30-foot burst, including the creature it is possessing, if any (DC 22 basic Will save). Creatures that fail their Will saves are fascinated by the muse phantom for 1 minute. The muse phantom can’t use Grand Finale again for 1d4 rounds. Muse Possession Two Actions The phantom muse attempts to possess an adjacent corporeal creature. This has the same effect as the possession spell (DC 20), except the duration is 1d4 hours, and since the phantom muse doesn't have a physical body, it is unaffected by that restriction of the spell. If the target is at least trained in Performance, the DC of this ability is 24. Willing Hosts Some actors who have felt the touch of a muse phantom come to relish and even desire the feeling of giving oneself over to what they consider a divine theatrical spirit. Such willing hosts voluntarily and routinely let themselves become possessed by a muse phantom, or even allow the spirit to reside within their body permanently. This symbiotic relationship allows the actor to advance their acting career and the phantom to continue performing to admiring masses. ",
+ "trait": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=511",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 3
+}

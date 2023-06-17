@@ -1,0 +1,55 @@
+{
+ "ac": 19,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 20  Thievery  (trained) to disable the pressure sensors, or DC 20  Survival  (trained) to safely extinguish the stove fires.",
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hardness": 10,
+ "hardness_raw": "10",
+ "hazard_type": "Trap",
+ "hp": 42,
+ "hp_raw": "42 (21)",
+ "id": "hazard-349",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 3,
+ "markdown": "<title level=\"1\" right=\"Hazard 3\" pfs=\"\">[Exploding Stove](/Hazards.aspx?ID=349)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 22</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThe stove has been rigged to explode when pressure sensors under the floor are depressed.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 22 (expert)\r\n\r\n**Disable**\r\nDC 20 [Thievery](/Skills.aspx?ID=17) (trained) to disable the pressure sensors, or DC 20 [Survival](/Skills.aspx?ID=16) (trained) to safely extinguish the stove fires.\n\n<column gap=\"tiny\">\r\n\r\n**AC** 19, **Fort** +10, **Ref** +5\r\n\r\n**Hardness**\r\n10\r\n\r\n**HP**\r\n42 (21)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Explode** <actions string=\"Reaction\" /> **Trigger** A creature steps on the floor within 5 feet of the stove; Effect The stove explodes, dealing 2d10+13 fire damage to each creature within 10 feet (basic DC 20 Reflex save).",
+ "name": "Exploding Stove",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2023-01-25",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 22</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe stove has been rigged to explode when pressure sensors under the floor are depressed.\r\n</summary>",
+ "source": [
+  "Pathfinder #187: The Seventh Arch"
+ ],
+ "source_raw": [
+  "Pathfinder #187: The Seventh Arch pg. 22"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 22</row>",
+ "speed": {},
+ "stealth": "DC 22 (expert)",
+ "summary": "The stove has been rigged to explode when pressure sensors under the floor are depressed.",
+ "summary_markdown": "The stove has been rigged to explode when pressure sensors under the floor are depressed.",
+ "text": " Exploding Stove Source Pathfinder #187: The Seventh Arch pg. 22 Complexity Simple The stove has been rigged to explode when pressure sensors under the floor are depressed. --- Stealth DC 22 (expert) Disable DC 20 Thievery (trained) to disable the pressure sensors, or DC 20 Survival (trained) to safely extinguish the stove fires. AC 19, Fort +10, Ref +5 Hardness 10 HP 42 (21) Immunities critical hits, object immunities, precision damage Explode Reaction Trigger A creature steps on the floor within 5 feet of the stove; Effect The stove explodes, dealing 2d10+13 fire damage to each creature within 10 feet (basic DC 20 Reflex save).",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=349",
+ "weakness": {}
+}

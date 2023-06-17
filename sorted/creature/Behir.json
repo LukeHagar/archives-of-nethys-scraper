@@ -1,0 +1,103 @@
+{
+ "ac": 27,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 5,
+ "creature_ability": [
+  "Breath Weapon",
+  "Claw Storm",
+  "Constrict",
+  "Swallow Whole",
+  "Wrap in Coils"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 140,
+ "hp_raw": "140",
+ "id": "creature-569",
+ "image": [
+  "/Images/Monsters/Behir.png"
+ ],
+ "immunity": [
+  "electricity"
+ ],
+ "immunity_markdown": "electricity",
+ "intelligence": -2,
+ "language": [
+  "Draconic"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Behir](/Monsters.aspx?ID=569)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe behir is a massive, serpentine beast with never fewer than a dozen short legs, each ending in three hooked talons. A behir can live to 80 years, but most perish far younger to violence. Fully grown, a behir is 40 feet long and weighs 4,000 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Behir.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Behir](/Monsters.aspx?ID=569)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 38 <sup>2.0</sup></row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +19, [Intimidation](/Skills.aspx?ID=7) +18, [Stealth](/Skills.aspx?ID=15) +18, [Survival](/Skills.aspx?ID=16) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 140\n\n**Immunities**\r\nelectricity\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +18 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+10 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+10 slashing\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Electricity](/Traits.aspx?ID=56), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The behir breathes lightning that deals 9d6 electricity damage in an 60-foot line (DC 27 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Claw Storm** <actions string=\"Three Actions\" />  The behir Strides up to its Speed, during which it can walk on air as if it were solid ground, ascending or descending at up to a 45-degree angle. It can make up to four claw Strikes at any point during this movement, each against a different target within reach, and it deals an extra 1d6 electricity damage with each Strike. These attacks count toward the behir's multiple attack penalty, but the multiple attack penalty doesn't increase until after the behir makes all of its attacks. If the behir moves half its Speed or less during a Claw Storm, that movement doesn't trigger reactions. The behir can't use Claw Storm if it has a creature wrapped in its coils. At the end of Claw Storm, it drifts downward up to 60 feet to the ground, landing softly and taking no damage from the fall. If it descends further than 60 feet, it takes damage normally from the remaining fall.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d6+7 bludgeoning, DC 27\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 2d12+7 bludgeoning, Rupture 21\r\n\r\n**Wrap in Coils** <actions string=\"Single Action\" />  **Requirements** The behir has a creature either [restrained](/Conditions.aspx?ID=33) or [grabbed](/Conditions.aspx?ID=20) in its jaws; **Effect** The behir moves the creature into its coils, freeing its jaws. The creature remains grabbed and takes 1d6+6 slashing damage. The behir's coils can hold as many creatures as will fit in its space.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Hatred of Dragons</title>\r\n\r\nSome scholars have speculated that behirs are somehow related to [blue dragons](/MonsterFamilies.aspx?ID=34), citing their reptilian features, lightning breath, and ability to speak the [Draconic](/Languages.aspx?ID=2) language, but such scholars would do well to keep such opinions from behirs they encounter in the field. Nothing infuriates a behir faster than likening it to a dragon!\r\n</aside>",
+ "name": "Behir",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 38 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 140\r\n\r\n**AC** 27\r\n\r\n**Fort** +19\r\n\r\n**Ref** +16\r\n\r\n**Will** +15\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe behir is a massive, serpentine beast with never fewer than a dozen short legs, each ending in three hooked talons. A behir can live to 80 years, …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Athletics +19",
+  "Intimidation +18",
+  "Stealth +18",
+  "Survival +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +19, [Intimidation](/Skills.aspx?ID=7) +18, [Stealth](/Skills.aspx?ID=15) +18, [Survival](/Skills.aspx?ID=16) +15",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 38"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 38 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 15,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 15 feet",
+ "speed_raw": "30 feet, climb 15 feet",
+ "spell_markdown": "",
+ "stealth": "18",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The behir is a massive, serpentine beast with never fewer than a dozen short legs, each ending in three hooked talons. A behir can live to 80 years, …",
+ "summary_markdown": "The behir is a massive, serpentine beast with never fewer than a dozen short legs, each ending in three hooked talons. A behir can live to 80 years, …",
+ "text": " Behir The behir is a massive, serpentine beast with never fewer than a dozen short legs, each ending in three hooked talons. A behir can live to 80 years, but most perish far younger to violence. Fully grown, a behir is 40 feet long and weighs 4,000 pounds. Recall Knowledge - Beast (Arcana, Nature): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Behir Source Bestiary 2 pg. 38 2.0 Perception +17; darkvision Languages Draconic Skills Acrobatics +16, Athletics +19, Intimidation +18, Stealth +18, Survival +15 Str +7 Dex +4 Con +5 Int -2 Wis +3 Cha +4 --- AC 27 Fort +19 Ref +16 Will +15 HP 140 Immunities electricity --- Speed 30 feet, climb 15 feet Melee Single Action jaws +18 (reach 15 feet), Damage 2d12+10 piercing plus Grab Melee Single Action claw +18 (Agile), Damage 2d6+10 slashing Breath Weapon Two Actions (Electricity, Evocation, Primal) The behir breathes lightning that deals 9d6 electricity damage in an 60-foot line (DC 27 basic Reflex save). It can't use Breath Weapon again for 1d4 rounds. Claw Storm Three Actions The behir Strides up to its Speed, during which it can walk on air as if it were solid ground, ascending or descending at up to a 45-degree angle. It can make up to four claw Strikes at any point during this movement, each against a different target within reach, and it deals an extra 1d6 electricity damage with each Strike. These attacks count toward the behir's multiple attack penalty, but the multiple attack penalty doesn't increase until after the behir makes all of its attacks. If the behir moves half its Speed or less during a Claw Storm, that movement doesn't trigger reactions. The behir can't use Claw Storm if it has a creature wrapped in its coils. At the end of Claw Storm, it drifts downward up to 60 feet to the ground, landing softly and taking no damage from the fall. If it descends further than 60 feet, it takes damage normally from the remaining fall. Constrict Single Action 2d6+7 bludgeoning, DC 27 Swallow Whole Single Action (Attack) Large, 2d12+7 bludgeoning, Rupture 21 Wrap in Coils Single Action Requirements The behir has a creature either restrained or grabbed in its jaws; Effect The behir moves the creature into its coils, freeing its jaws. The creature remains grabbed and takes 1d6+6 slashing damage. The behir's coils can hold as many creatures as will fit in its space. Hatred of Dragons Some scholars have speculated that behirs are somehow related to blue dragons, citing their reptilian features, lightning breath, and ability to speak the Draconic language, but such scholars would do well to keep such opinions from behirs they encounter in the field. Nothing infuriates a behir faster than likening it to a dragon! ",
+ "trait": [
+  "Beast",
+  "Electricity",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Electricity](/Traits.aspx?ID=56)",
+ "trait_raw": [
+  "Beast",
+  "Electricity"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=569",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 3
+}

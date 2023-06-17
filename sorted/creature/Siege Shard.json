@@ -1,0 +1,117 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 2,
+ "creature_ability": [
+  "Exorcism",
+  "Surreptitious Siege",
+  "Overwhelming Anguish",
+  "Rejuvenation"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hardness": 5,
+ "hardness_raw": "5",
+ "hp": 37,
+ "hp_raw": "37",
+ "id": "creature-987",
+ "image": [
+  "/Images/Monsters/SiegeShard.png"
+ ],
+ "immunity": [
+  "bleed",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"\">[Siege Shard](/Monsters.aspx?ID=987)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSieges provoke lingering feelings of confinement and desperation. These emotions can coalesce as a psychic presence that animates broken battlements as quasi-intelligent constructs dubbed siege shards. The shard's surface depicts the conflicts that created it, which hold the key to dispersing its psychic presence. A successful DC 18 check to [Recall Knowledge](/Actions.aspx?ID=26) is sufficient to identify the conflict that engendered the construct. A creature aware of a shard's generative conflict can attempt the following activity.\n\n<document level=\"2\" id=\"action-625\" />\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SiegeShard.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Siege Shard](/Monsters.aspx?ID=987)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 84</row>\n\n**Perception** +9; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 (15 when broken)\r\n\r\n**Fort** +12 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 37\n\n**Immunities**\r\nbleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Exorcism** Mental damage ignores a siege shard's hardness. Additionally, proving the siege shard's generative conflict is over with the Prove Peace activity reverts the creature to ordinary stone.<br />**Surreptitious Siege** While a siege shard is embedded within a structure while using [_meld into stone_](/Spells.aspx?ID=188), the structure and all objects within it take twice as long to repair.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nslam +11,\r\n**Damage** 1d8+4 bludgeoning\r\n\r\n**Occult Innate Spells** DC 20, attack +12\r\n- **Cantrips (2nd)**\r\n[Mage Hand](/Spells.aspx?ID=177), [Telekinetic Projectile](/Spells.aspx?ID=334)\r\n- **2nd**\r\n[Telekinetic Maneuver](/Spells.aspx?ID=333)\r\n- **3rd**\r\n[Meld into Stone](/Spells.aspx?ID=188) (at will)\r\n\r\n**Overwhelming Anguish** <actions string=\"Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) **Frequency** once per minute; **Effect** The siege shard emits a disorienting psychic blast. All creatures within a 15 feet take 4d6 mental damage (DC 20 basic Will save).\r\n\r\n**Rejuvenation**  ([Abjuration](/Traits.aspx?ID=2), [Occult](/Traits.aspx?ID=120)) When a siege shard is destroyed within 100 feet of a structure, it reforms after 2d4 days within the nearest structure, fully healed. A siege shard within a structure can be permanently destroyed by the Prove Peace activity.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Unique Siege Shards</title>\r\n\r\nEspecially charged events, such as the clash of two bitter rivals or the destruction of a neighborhood, can create a stronger psychic presence resulting in a more powerful siege shard with potent innate psychic abilities. This shard's surfaces still display images of conflict, but it might take significant research to determine such a shard's origins.\r\n</aside>",
+ "name": "Siege Shard",
+ "npc": false,
+ "perception": 9,
+ "rarity": "uncommon",
+ "reflex_save": 6,
+ "release_date": "2020-07-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 84</row>\n\n<row gap=\"medium\">\r\n**HP** 37\r\n\r\n**AC** 19\r\n\r\n**Fort** +12\r\n\r\n**Ref** +6\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSieges provoke lingering feelings of confinement and desperation. These emotions can coalesce as a psychic presence that animates broken battlements …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Athletics +9",
+  "Stealth +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +10",
+ "source": [
+  "Pathfinder #157: Devil at the Dreaming Palace"
+ ],
+ "source_raw": [
+  "Pathfinder #157: Devil at the Dreaming Palace pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 84</row>",
+ "speed": {
+  "fly": 25,
+  "max": 25
+ },
+ "speed_markdown": "fly 25 feet",
+ "speed_raw": "fly 25 feet",
+ "spell": [
+  "Meld into Stone",
+  "Telekinetic Maneuver",
+  "Mage Hand",
+  "Telekinetic Projectile"
+ ],
+ "spell_markdown": "[Mage Hand](/Spells.aspx?ID=177), [Meld into Stone](/Spells.aspx?ID=188), [Telekinetic Maneuver](/Spells.aspx?ID=333), [Telekinetic Projectile](/Spells.aspx?ID=334)",
+ "spoilers": "Agents of Edgewatch",
+ "stealth": "10",
+ "strength": 2,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Sieges provoke lingering feelings of confinement and desperation. These emotions can coalesce as a psychic presence that animates broken battlements …",
+ "summary_markdown": "Sieges provoke lingering feelings of confinement and desperation. These emotions can coalesce as a psychic presence that animates broken battlements …",
+ "text": " Siege Shard Sieges provoke lingering feelings of confinement and desperation. These emotions can coalesce as a psychic presence that animates broken battlements as quasi-intelligent constructs dubbed siege shards. The shard's surface depicts the conflicts that created it, which hold the key to dispersing its psychic presence. A successful DC 18 check to Recall Knowledge is sufficient to identify the conflict that engendered the construct. A creature aware of a shard's generative conflict can attempt the following activity. Recall Knowledge - Construct (Arcana, Crafting): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Siege Shard Source Pathfinder #157: Devil at the Dreaming Palace pg. 84 Perception +9; darkvision Languages Skills Athletics +9, Stealth +10 Str +2 Dex +3 Con +2 Int -4 Wis +2 Cha -4 --- AC 19 (15 when broken) Fort +12 Ref +6 Will +9 HP 37 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Exorcism Mental damage ignores a siege shard's hardness. Additionally, proving the siege shard's generative conflict is over with the Prove Peace activity reverts the creature to ordinary stone. Surreptitious Siege While a siege shard is embedded within a structure while using meld into stone , the structure and all objects within it take twice as long to repair. --- Speed fly 25 feet Melee Single Action slam +11, Damage 1d8+4 bludgeoning Occult Innate Spells DC 20, attack +12 - Cantrips (2nd) Mage Hand, Telekinetic Projectile - 2nd Telekinetic Maneuver - 3rd Meld into Stone (at will) Overwhelming Anguish Two Actions (Emotion, Enchantment, Mental, Occult) Frequency once per minute; Effect The siege shard emits a disorienting psychic blast. All creatures within a 15 feet take 4d6 mental damage (DC 20 basic Will save). Rejuvenation (Abjuration, Occult) When a siege shard is destroyed within 100 feet of a structure, it reforms after 2d4 days within the nearest structure, fully healed. A siege shard within a structure can be permanently destroyed by the Prove Peace activity. Unique Siege Shards Especially charged events, such as the clash of two bitter rivals or the destruction of a neighborhood, can create a stronger psychic presence resulting in a more powerful siege shard with potent innate psychic abilities. This shard's surfaces still display images of conflict, but it might take significant research to determine such a shard's origins. ",
+ "trait": [
+  "Construct",
+  "Uncommon",
+  "N",
+  "Tiny"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Construct",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=987",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 2
+}

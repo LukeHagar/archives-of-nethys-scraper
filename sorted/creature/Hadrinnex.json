@@ -1,0 +1,112 @@
+{
+ "ac": 27,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 6,
+ "creature_ability": [
+  "Rapid Evolution",
+  "Energy Gland",
+  "Husk",
+  "Extend Limbs",
+  "Vent Energy"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 118,
+ "hp_raw": "118",
+ "id": "creature-1185",
+ "image": [
+  "/Images/Monsters/Hadrinnex.png"
+ ],
+ "intelligence": -3,
+ "language": [
+  "Aklo",
+  "<%UMR%37%%>telepathy<%END> (touch)"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); [telepathy](/MonsterAbilities.aspx?ID=37) (touch)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Hadrinnex](/Monsters.aspx?ID=1185)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe bizarre hadrinnexes resemble defensive systems more than living creatures. They evolve at a rapid rate, but only to specific attacks against them, which suggests they were created through advanced technology or magic. The husk surrounding a hadrinnex—flecks of metal suspended in a malleable organic carapace—reshapes in response to harm. So too can a glowing gland within the creature's thorax, which collects energy and restructures the creature's biology to protect it from that energy. This organ is fragile and ruptures soon after a hadrinnex is killed.\n\n Hadrinnexes have only a rudimentary intellect and usually follow more intelligent aberrations. As bodyguards or peons, they perform simple tasks diligently. Though poor at problem-solving and improvisation, hadrinnexes' dependability and adaptive physiology make them ideal for dangerous tasks in hazardous environments.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Hadrinnex.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Hadrinnex](/Monsters.aspx?ID=1185)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 127</row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); [telepathy](/MonsterAbilities.aspx?ID=37) (touch)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +18, [Occultism](/Skills.aspx?ID=11) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -3\r\n\r\n**Wis** +3\r\n\r\n**Cha** -3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 118\n\n**Resistances**\r\nenergy 15, physical 15 (see Rapid Evolution)\n\n**Rapid Evolution** <actions string=\"Reaction\" /> ([morph](/Traits.aspx?ID=113), [occult](/Traits.aspx?ID=120), [transmutation](/Traits.aspx?ID=157)) **Trigger** The hadrinnex takes damage of a physical or energy damage type (bludgeoning, piercing, or slashing for physical; acid, cold, electricity, fire, force, negative, or sonic for energy) **Effect** The hadrinnex reconfigures its husk (if triggered by physical damage) or its energy gland (if triggered by energy damage). Any reconfiguration applies to the triggering damage and lasts until the next time the hadrinnex uses Rapid Evolution. \n<ul><li>**Energy Gland** Reconfiguring the energy gland changes both the hadrinnex's energy damage resistance and the damage of its energy ray to that type. By default, the energy gland is configured to sonic.</li><li>**Husk** The hadrinnex's physical damage resistance and the damage of its weapon arm Strikes change to the triggering type. Weapon arm Strikes gain an additional trait depending on the current damage type: bludgeoning adds [shove](/Traits.aspx?ID=193), piercing adds [deadly d8](/Traits.aspx?ID=174), and slashing adds [sweep](/Traits.aspx?ID=194). By default the husk is configured to bludgeoning.</li></ul>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nweapon arm +20 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+9 physical (see Rapid Evolution)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nenergy ray +18 ([Evocation](/Traits.aspx?ID=65), [Occult](/Traits.aspx?ID=120), [range 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 5d6 energy (see Rapid Evolution)\n\n**Extend Limbs** <actions string=\"Two Actions\" />  The hadrinnex makes two weapon arm Strikes, each targeting a different creature. The hadrinnex's reach increases to 20 feet for these Strikes.\r\n\r\n**Vent Energy** <actions string=\"Single Action\" /> ([Evocation](/Traits.aspx?ID=65), [Occult](/Traits.aspx?ID=120)) The hadrinnex purges the energy in its energy gland for an external discharge. It either blasts the energy to deal 7d6 energy damage to creatures in a 30-foot cone (DC 26 [basic](/Rules.aspx?ID=329) Reflex save), or directs the energy to its weapon arms, making its weapon arm Strikes deal an extra 2d6 energy damage for 1 minute. Either one expends the damage type stored in the hadrinnex's energy gland, as described below. <br />After the energy is vented, the energy gland goes dormant. The hadrinnex loses its energy resistance and can't use energy ray until it uses Rapid Evolution to reconfigure its energy gland again. Directing energy to its weapon arms again removes any previous energy boost to its weapon arm.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Hibernation Pods</title>\r\n\r\nHadrinnexes can be found hibernating in remote areas, their husks shaped into ovoid pods. These pods are usually centered in craters, suggesting the hadrinnex fell from above. Leaving hibernation takes 2 months as it extrudes its limbs and restarts biological processes. This can be accelerated with a daily influx of energy to its energy gland.\r\n</aside>",
+ "name": "Hadrinnex",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 14,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "acid": 15,
+  "bludgeoning": 15,
+  "cold": 15,
+  "electricity": 15,
+  "fire": 15,
+  "force": 15,
+  "negative": 15,
+  "physical": 15,
+  "piercing": 15,
+  "positive": 15,
+  "slashing": 15,
+  "sonic": 15
+ },
+ "resistance_markdown": "energy 15, physical 15 (see Rapid Evolution)",
+ "resistance_raw": "energy 15, physical 15 (see Rapid Evolution)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 127</row>\n\n<row gap=\"medium\">\r\n**HP** 118\r\n\r\n**AC** 27\r\n\r\n**Fort** +18\r\n\r\n**Ref** +14\r\n\r\n**Will** +17\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe bizarre hadrinnexes resemble defensive systems more than living creatures. They evolve at a rapid rate, but only to specific attacks against …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Athletics +18",
+  "Occultism +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +18, [Occultism](/Skills.aspx?ID=11) +11",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 127"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 127</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The bizarre hadrinnexes resemble defensive systems more than living creatures. They evolve at a rapid rate, but only to specific attacks against …",
+ "summary_markdown": "The bizarre hadrinnexes resemble defensive systems more than living creatures. They evolve at a rapid rate, but only to specific attacks against …",
+ "text": " Hadrinnex The bizarre hadrinnexes resemble defensive systems more than living creatures. They evolve at a rapid rate, but only to specific attacks against them, which suggests they were created through advanced technology or magic. The husk surrounding a hadrinnex—flecks of metal suspended in a malleable organic carapace—reshapes in response to harm. So too can a glowing gland within the creature's thorax, which collects energy and restructures the creature's biology to protect it from that energy. This organ is fragile and ruptures soon after a hadrinnex is killed. Hadrinnexes have only a rudimentary intellect and usually follow more intelligent aberrations. As bodyguards or peons, they perform simple tasks diligently. Though poor at problem-solving and improvisation, hadrinnexes' dependability and adaptive physiology make them ideal for dangerous tasks in hazardous environments. Recall Knowledge - Aberration (Occultism): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Hadrinnex Source Bestiary 3 pg. 127 Perception +17; darkvision Languages Aklo; telepathy (touch) Skills Acrobatics +16, Athletics +18, Occultism +11 Str +6 Dex +4 Con +6 Int -3 Wis +3 Cha -3 --- AC 27 Fort +18 Ref +14 Will +17 HP 118 Resistances energy 15, physical 15 (see Rapid Evolution) Rapid Evolution Reaction (morph, occult, transmutation) Trigger The hadrinnex takes damage of a physical or energy damage type (bludgeoning, piercing, or slashing for physical; acid, cold, electricity, fire, force, negative, or sonic for energy) Effect The hadrinnex reconfigures its husk (if triggered by physical damage) or its energy gland (if triggered by energy damage). Any reconfiguration applies to the triggering damage and lasts until the next time the hadrinnex uses Rapid Evolution. Energy Gland Reconfiguring the energy gland changes both the hadrinnex's energy damage resistance and the damage of its energy ray to that type. By default, the energy gland is configured to sonic. Husk The hadrinnex's physical damage resistance and the damage of its weapon arm Strikes change to the triggering type. Weapon arm Strikes gain an additional trait depending on the current damage type: bludgeoning adds shove, piercing adds deadly d8, and slashing adds sweep. By default the husk is configured to bludgeoning. --- Speed 40 feet Melee Single Action weapon arm +20 (reach 10 feet), Damage 2d8+9 physical (see Rapid Evolution) Ranged Single Action energy ray +18 (Evocation, Occult, range 120 feet), Damage 5d6 energy (see Rapid Evolution) Extend Limbs Two Actions The hadrinnex makes two weapon arm Strikes, each targeting a different creature. The hadrinnex's reach increases to 20 feet for these Strikes. Vent Energy Single Action (Evocation, Occult) The hadrinnex purges the energy in its energy gland for an external discharge. It either blasts the energy to deal 7d6 energy damage to creatures in a 30-foot cone (DC 26 basic Reflex save), or directs the energy to its weapon arms, making its weapon arm Strikes deal an extra 2d6 energy damage for 1 minute. Either one expends the damage type stored in the hadrinnex's energy gland, as described below. After the energy is vented, the energy gland goes dormant. The hadrinnex loses its energy resistance and can't use energy ray until it uses Rapid Evolution to reconfigure its energy gland again. Directing energy to its weapon arms again removes any previous energy boost to its weapon arm. Hibernation Pods Hadrinnexes can be found hibernating in remote areas, their husks shaped into ovoid pods. These pods are usually centered in craters, suggesting the hadrinnex fell from above. Leaving hibernation takes 2 months as it extrudes its limbs and restarts biological processes. This can be accelerated with a daily influx of energy to its energy gland. ",
+ "trait": [
+  "Aberration",
+  "Uncommon",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1185",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 3
+}

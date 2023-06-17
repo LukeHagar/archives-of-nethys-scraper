@@ -1,0 +1,121 @@
+{
+ "ac": 24,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Entropy Sense",
+  "Protean Anatomy",
+  "Adaptive Strike",
+  "Change Shape",
+  "Confounding Slam",
+  "Constrict"
+ ],
+ "creature_family": "Protean",
+ "creature_family_markdown": "[Protean](/MonsterFamilies.aspx?ID=82)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 120,
+ "hp_raw": "120 ( fast healing  2)",
+ "id": "creature-337",
+ "image": [
+  "/Images/Monsters/Protean_Naunet.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Protean"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Protean](/Languages.aspx?ID=33)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Naunet](/Monsters.aspx?ID=337)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nPugnacious and powerfully muscled, naunets serve as scouts and rank-and-file troops of protean armies. Resembling a thick salamander with a wide head, a powerful tail, and tentacles tipped with snapping jaws in place of rear legs, naunets are the most bestial of the proteans and occupy one of their lowest castes. Naunets are 12 feet long and weigh 900 pounds.\n\n All proteans are prone to unpredictable fits and unexpected action, but compared to most others, naunets are much more bestial. Always ready for a fight, naunets pride themselves in acting swiftly and striking before unpleasant distractions like diplomacy can blunt a combat’s beginning.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Monitor](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Protean_Naunet.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Naunet](/Monsters.aspx?ID=337)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Monitor\" url=\"/Traits.aspx?ID=111\" />\r\n<trait label=\"Protean\" url=\"/Traits.aspx?ID=231\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 267</row>\n\n**Perception** +14; entropy sense (imprecise) 30 feet, darkvision\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Protean](/Languages.aspx?ID=33)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Stealth](/Skills.aspx?ID=15) +14, [Survival](/Skills.aspx?ID=16) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Entropy Sense** ([divination](/Traits.aspx?ID=47), [divine](/Traits.aspx?ID=48), [prediction](/Traits.aspx?ID=132)) A naunet can anticipate the most likely presence of a creature through a supernatural insight into chaotic probabilities and chance. This grants it the ability to sense creatures within the listed range. A creature under the effects of [_nondetection_](/Spells.aspx?ID=209) or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +12 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 120\r\n([fast healing](/MonsterAbilities.aspx?ID=15) 2)\n\n**Resistances**\r\nprecision 5, protean anatomy 10\r\n\r\n**Weaknesses**\r\nlawful 5\r\n\r\n**Protean Anatomy** ([divine](/Traits.aspx?ID=48), [transmutation](/Traits.aspx?ID=157)) A naunet’s vital organs shift and change shape and position constantly. Immediately after the naunet takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first.<br /> The naunet is immune to polymorph effects unless it is a willing target. If blinded or deafened, the naunet automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 30 feet, swim 25 feet; [_freedom of movement_](/Spells.aspx?ID=128)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +18 ([Chaotic](/Traits.aspx?ID=25), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+8 piercing plus 1d6 chaotic\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +18 ([Chaotic](/Traits.aspx?ID=25), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+8 bludgeoning plus 1d6 chaotic and Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +18 ([Agile](/Traits.aspx?ID=170), [Chaotic](/Traits.aspx?ID=25), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+6 piercing plus 1d6 chaotic and confounding slam\r\n\r\n**Divine Innate Spells** DC 26, attack +16\r\n- **1st**\r\n[Detect Alignment](/Spells.aspx?ID=65) (at will; lawful only)\r\n- **2nd**\r\n[Obscuring Mist](/Spells.aspx?ID=210) (at will)\r\n- **3rd**\r\n[Shatter](/Spells.aspx?ID=279) (at will)\r\n- **4th**\r\n[Acid Arrow](/Spells.aspx?ID=2), [Solid Fog](/Spells.aspx?ID=290)\r\n- **5th**\r\n[Dimension Door](/Spells.aspx?ID=69)\r\n- **Constant (4th)**\r\n[Freedom of Movement](/Spells.aspx?ID=128)\r\n\r\n**Adaptive Strike** <actions string=\"Free Action\" /> ([Divine](/Traits.aspx?ID=48), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The naunet chooses adamantine, cold iron, or silver; its melee Strikes count as that type for 1 minute or until it uses Adaptive Strike again.\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The naunet can take the appearance of any Small, Medium, or Large animal, beast, or humanoid. This doesn’t change its Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal.\r\n\r\n**Confounding Slam**  ([Divine](/Traits.aspx?ID=48), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106)) A creature hit by the naunet’s tentacle Strike is [stupefied 2](/Conditions.aspx?ID=37) for 1d4 rounds (DC 24 Will negates). If the creature was already stupefied in this way, the duration extends by 1 round instead. A chaotic creature is only [stupefied 1](/Conditions.aspx?ID=37) instead.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+8 bludgeoning, DC 26\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-82\" />",
+ "name": "Naunet",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "precision": 5
+ },
+ "resistance_markdown": "precision 5, protean anatomy 10",
+ "resistance_raw": "precision 5, protean anatomy 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Monitor\" url=\"/Traits.aspx?ID=111\" />\r\n<trait label=\"Protean\" url=\"/Traits.aspx?ID=231\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 267</row>\r\n\r\n**Creature Family** [Protean](/MonsterFamilies.aspx?ID=82)\r\n\r\n<row gap=\"medium\">\r\n**HP** 120 ( fast healing  2)\r\n\r\n**AC** 24\r\n\r\n**Fort** +18\r\n\r\n**Ref** +14\r\n\r\n**Will** +12\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPugnacious and powerfully muscled, naunets serve as scouts and rank-and-file troops of protean armies. Resembling a thick salamander with a wide …\r\n</summary>",
+ "sense": "entropy sense (imprecise) 30 feet, darkvision",
+ "sense_markdown": "entropy sense (imprecise) 30 feet, darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +16",
+  "Intimidation +16",
+  "Stealth +14",
+  "Survival +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Stealth](/Skills.aspx?ID=15) +14, [Survival](/Skills.aspx?ID=16) +12",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 267"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 267</row>",
+ "speed": {
+  "fly": 30,
+  "land": 25,
+  "max": 30,
+  "swim": 25
+ },
+ "speed_markdown": "25 feet, fly 30 feet, swim 25 feet; [_freedom of movement_](/Spells.aspx?ID=128)",
+ "speed_raw": "25 feet, fly 30 feet, swim 25 feet;   freedom of movement  ",
+ "spell": [
+  "Dimension Door",
+  "Acid Arrow",
+  "Solid Fog",
+  "Shatter",
+  "Obscuring Mist",
+  "Detect Alignment",
+  "Freedom of Movement"
+ ],
+ "spell_markdown": "[Acid Arrow](/Spells.aspx?ID=2), [Detect Alignment](/Spells.aspx?ID=65), [Dimension Door](/Spells.aspx?ID=69), [Freedom of Movement](/Spells.aspx?ID=128), [Obscuring Mist](/Spells.aspx?ID=210), [Shatter](/Spells.aspx?ID=279), [Solid Fog](/Spells.aspx?ID=290)",
+ "stealth": "14",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Pugnacious and powerfully muscled, naunets serve as scouts and rank-and-file troops of protean armies. Resembling a thick salamander with a wide …",
+ "summary_markdown": "Pugnacious and powerfully muscled, naunets serve as scouts and rank-and-file troops of protean armies. Resembling a thick salamander with a wide …",
+ "text": " Naunet Pugnacious and powerfully muscled, naunets serve as scouts and rank-and-file troops of protean armies. Resembling a thick salamander with a wide head, a powerful tail, and tentacles tipped with snapping jaws in place of rear legs, naunets are the most bestial of the proteans and occupy one of their lowest castes. Naunets are 12 feet long and weigh 900 pounds. All proteans are prone to unpredictable fits and unexpected action, but compared to most others, naunets are much more bestial. Always ready for a fight, naunets pride themselves in acting swiftly and striking before unpleasant distractions like diplomacy can blunt a combat’s beginning. Recall Knowledge - Monitor (Religion): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Naunet Source Bestiary pg. 267 Perception +14; entropy sense (imprecise) 30 feet, darkvision Languages Abyssal, Celestial, Protean Skills Acrobatics +14, Athletics +16, Intimidation +16, Stealth +14, Survival +12 Str +5 Dex +3 Con +5 Int +0 Wis +3 Cha +3 Entropy Sense (divination, divine, prediction) A naunet can anticipate the most likely presence of a creature through a supernatural insight into chaotic probabilities and chance. This grants it the ability to sense creatures within the listed range. A creature under the effects of nondetection or that is otherwise shielded from divinations and predictions cannot be noticed via entropy sense. --- AC 24 Fort +18 Ref +14 Will +12 +1 status to all saves vs. magic HP 120 (fast healing 2) Resistances precision 5, protean anatomy 10 Weaknesses lawful 5 Protean Anatomy (divine, transmutation) A naunet’s vital organs shift and change shape and position constantly. Immediately after the naunet takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The naunet is immune to polymorph effects unless it is a willing target. If blinded or deafened, the naunet automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones. --- Speed 25 feet, fly 30 feet, swim 25 feet; freedom of movement Melee Single Action jaws +18 (Chaotic, Magical, reach 10 feet), Damage 2d10+8 piercing plus 1d6 chaotic Melee Single Action tail +18 (Chaotic, Magical, reach 15 feet), Damage 2d8+8 bludgeoning plus 1d6 chaotic and Grab Melee Single Action tentacle +18 (Agile, Chaotic, Magical, reach 10 feet), Damage 2d8+6 piercing plus 1d6 chaotic and confounding slam Divine Innate Spells DC 26, attack +16 - 1st Detect Alignment (at will; lawful only) - 2nd Obscuring Mist (at will) - 3rd Shatter (at will) - 4th Acid Arrow, Solid Fog - 5th Dimension Door - Constant (4th) Freedom of Movement Adaptive Strike Free Action (Divine, Polymorph, Transmutation) The naunet chooses adamantine, cold iron, or silver; its melee Strikes count as that type for 1 minute or until it uses Adaptive Strike again. Change Shape Single Action (Concentrate, Divine, Polymorph, Transmutation) The naunet can take the appearance of any Small, Medium, or Large animal, beast, or humanoid. This doesn’t change its Speed or its attack and damage bonuses with its Strikes but might change the damage type its Strikes deal. Confounding Slam (Divine, Emotion, Enchantment, Mental) A creature hit by the naunet’s tentacle Strike is stupefied 2 for 1d4 rounds (DC 24 Will negates). If the creature was already stupefied in this way, the duration extends by 1 round instead. A chaotic creature is only stupefied 1 instead. Constrict Single Action 1d8+8 bludgeoning, DC 26 ",
+ "trait": [
+  "Monitor",
+  "Protean",
+  "CN",
+  "Large"
+ ],
+ "trait_markdown": "[Monitor](/Traits.aspx?ID=111), [Protean](/Traits.aspx?ID=231)",
+ "trait_raw": [
+  "Monitor",
+  "Protean"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=337",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "lawful": 5
+ },
+ "weakness_markdown": "lawful 5",
+ "weakness_raw": "lawful 5",
+ "will_save": 12,
+ "wisdom": 3
+}

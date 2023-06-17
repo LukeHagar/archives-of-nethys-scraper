@@ -1,0 +1,134 @@
+{
+ "ac": 49,
+ "alignment": "NG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 10,
+ "constitution": 8,
+ "creature_ability": [
+  "Aura of Protection",
+  "Animate Weapon",
+  "Arrow of Mortality",
+  "Change Shape",
+  "Holy Armaments"
+ ],
+ "creature_family": "Angel",
+ "creature_family_markdown": "[Angel](/MonsterFamilies.aspx?ID=3)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 40,
+ "hp": 500,
+ "hp_raw": "500",
+ "id": "creature-545",
+ "image": [
+  "/Images/Monsters/Angel_Solar.png"
+ ],
+ "intelligence": 5,
+ "language": [
+  "Celestial",
+  "Draconic",
+  "Infernal",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 23,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Solar (Archangel)](/Monsters.aspx?ID=545)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSolars are among the greatest of all angels, ranking just below empyreal lords. Many solars serve at the right hand of a deity or champion a cause that benefits an entire world. Most archangels resemble humanoids, but not all—they can adopt more unusual forms as needed. A typical solar is about 9 feet tall and weighs about 500 pounds, with a commanding voice that is impossible to ignore. Most have silvery or golden skin.\n\nSolars are legendary trackers; the most masterful of them are said to be able to follow the centuries-old passage of a pit fiend flying through the Astral Plane.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Celestial](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 51\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 49\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 46\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Angel_Solar.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 23\">[Solar](/Monsters.aspx?ID=545)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Angel\" url=\"/Traits.aspx?ID=8\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=23\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 16 <sup>2.0</sup></row>\n\n**Perception** +40; [darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +38, [Athletics](/Skills.aspx?ID=3) +43, [Diplomacy](/Skills.aspx?ID=6) +43, [Religion](/Skills.aspx?ID=13) +43, [Stealth](/Skills.aspx?ID=15) +36, [Survival](/Skills.aspx?ID=16) +46\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +6\r\n\r\n**Con** +8\r\n\r\n**Int** +5\r\n\r\n**Wis** +9\r\n\r\n**Cha** +10\r\n</row>\n\n**Items**\r\n_+3 [major striking](/Equipment.aspx?ID=280) [greatsword](/Weapons.aspx?ID=24)_, _+3 [major striking](/Equipment.aspx?ID=280) [longbow](/Weapons.aspx?ID=76)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 49 \r\n\r\n**Fort** +40 \r\n\r\n**Ref** +34 \r\n\r\n**Will** +37 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 500\r\n\r\n, regeneration 20 (deactivated by evil)\n\n**Weaknesses**\r\nevil 25\r\n\r\n**Aura of Protection** ([abjuration](/Traits.aspx?ID=2), [aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48)) 20 feet. Allies in the solar's aura gain a +2 status bonus to AC against evil creatures and a +2 status bonus to saves against effects from evil creatures. The bonus increases to +4 against control by evil creatures and attacks by evil summoned creatures. When the solar or an ally is hit by an attack from a creature in the aura, that foe must succeed at a DC 43 Will save or be blinded for 1 minute (this is an [incapacitation](/Traits.aspx?ID=93) effect). It's then temporarily immune for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, fly 100 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_holy greatsword_ +44 ([Good](/Traits.aspx?ID=83), [Magical](/Traits.aspx?ID=103), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 4d12+22 slashing plus 2d6 good\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_holy longbow_ +40 ([deadly d10](/Traits.aspx?ID=174), [Good](/Traits.aspx?ID=83), [Magical](/Traits.aspx?ID=103), [Propulsive](/Traits.aspx?ID=191), [range increment 100 feet](/Traits.aspx?ID=248), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 4d8+17 piercing plus 2d6 good and arrow of mortality\r\n\r\n**Divine Innate Spells** DC 46, spell attack +38\r\n- **2nd**\r\n[Invisibility](/Spells.aspx?ID=164) (at will; self only)\r\n- **4th**\r\n[Dimensional Anchor](/Spells.aspx?ID=70) (at will)\r\n- **5th**\r\n[Breath of Life](/Spells.aspx?ID=29), [Death Ward](/Spells.aspx?ID=64)\r\n- **6th**\r\n[Restoration](/Spells.aspx?ID=258) (at will)\r\n- **7th**\r\n[Plane Shift](/Spells.aspx?ID=222), [Remove Fear](/Spells.aspx?ID=252) (at will)\r\n- **9th**\r\n[Dispel Magic](/Spells.aspx?ID=78) (at will), [Heal](/Spells.aspx?ID=148), [Overwhelming Presence](/Spells.aspx?ID=212), [Power Word Blind](/Spells.aspx?ID=226), [Power Word Kill](/Spells.aspx?ID=227), [Sunburst](/Spells.aspx?ID=326)\r\n- **10th**\r\n[Charm](/Spells.aspx?ID=34), [Power Word Stun](/Spells.aspx?ID=228), [Remove Curse](/Spells.aspx?ID=250), [Remove Disease](/Spells.aspx?ID=251), [Revival](/Spells.aspx?ID=262)\r\n- **Constant (10th)**\r\n[Detect Alignment](/Spells.aspx?ID=65) (evil only), [Tongues](/Spells.aspx?ID=340), [True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Rituals** DC 46\r\n\r\n- **1st**\r\n[Angelic Messenger](/Rituals.aspx?ID=22)\r\n- **2nd**\r\n[Animate Object](/Rituals.aspx?ID=1)\r\n- **5th**\r\n[Call Spirit](/Rituals.aspx?ID=5), [Resurrect](/Rituals.aspx?ID=20)\r\n- **8th**\r\n[Freedom](/Rituals.aspx?ID=11), [Imprisonment](/Rituals.aspx?ID=13)\r\n\r\n**Animate Weapon** <actions string=\"Reaction\" />  **Trigger** The solar hits with a melee weapon Strike while Animate Weapon is not already in effect; **Effect** The solar's weapon leaps into the air and moves with the solar as if held with both hands. The weapon gains the effects of the [dancing](/Equipment.aspx?ID=293) weapon rune for 1 minute.\r\n\r\n**Arrow of Mortality**   The solar doesn't need to provide ammunition for their bow. When they draw their bow, they create a magical arrow of light that sheds bright light in a 20-foot radius until the end of the solar's next turn. On a critical hit with the arrow, if the target has 75 or fewer Hit Points after taking the damage, it drops to 0 Hit Points and becomes [dying 1](/Conditions.aspx?ID=11) (or, if it was already dying, increases its dying value by 3).\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The solar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or Strikes.\r\n\r\n**Holy Armaments**  ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65)) Any weapon gains the effect of a [holy](/Equipment.aspx?ID=299) property rune while a solar wields it.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Solar Genesis</title>\r\n\r\nUnlike most angels, solars are created from divine energy, sometimes blended with good souls. They are joined in this distinction by the ancient empyrean angels.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-3\" />",
+ "name": "Solar",
+ "npc": false,
+ "perception": 40,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 34,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Angel\" url=\"/Traits.aspx?ID=8\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=23\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 16 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Angel](/MonsterFamilies.aspx?ID=3)\r\n\r\n<row gap=\"medium\">\r\n**HP** 500\r\n\r\n**AC** 49\r\n\r\n**Fort** +40\r\n\r\n**Ref** +34\r\n\r\n**Will** +37\r\n\r\n**Perception** +40\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSolars are among the greatest of all angels, ranking just below empyreal lords. Many solars serve at the right hand of a deity or champion a cause …\r\n</summary>",
+ "sense": " darkvision ,   true seeing  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Arcana +38",
+  "Athletics +43",
+  "Diplomacy +43",
+  "Religion +43",
+  "Stealth +36",
+  "Survival +46"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +38, [Athletics](/Skills.aspx?ID=3) +43, [Diplomacy](/Skills.aspx?ID=6) +43, [Religion](/Skills.aspx?ID=13) +43, [Stealth](/Skills.aspx?ID=15) +36, [Survival](/Skills.aspx?ID=16) +46",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 16"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 16 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 100,
+  "land": 35,
+  "max": 100
+ },
+ "speed_markdown": "35 feet, fly 100 feet",
+ "speed_raw": "35 feet, fly 100 feet",
+ "spell": [
+  "Charm",
+  "Power Word Stun",
+  "Remove Curse",
+  "Remove Disease",
+  "Revival",
+  "Dispel Magic",
+  "Heal",
+  "Overwhelming Presence",
+  "Power Word Blind",
+  "Power Word Kill",
+  "Sunburst",
+  "Plane Shift",
+  "Remove Fear",
+  "Restoration",
+  "Breath of Life",
+  "Death Ward",
+  "Dimensional Anchor",
+  "Invisibility",
+  "Detect Alignment",
+  "Tongues",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Breath of Life](/Spells.aspx?ID=29), [Charm](/Spells.aspx?ID=34), [Death Ward](/Spells.aspx?ID=64), [Detect Alignment](/Spells.aspx?ID=65), [Dimensional Anchor](/Spells.aspx?ID=70), [Dispel Magic](/Spells.aspx?ID=78), [Heal](/Spells.aspx?ID=148), [Invisibility](/Spells.aspx?ID=164), [Overwhelming Presence](/Spells.aspx?ID=212), [Plane Shift](/Spells.aspx?ID=222), [Power Word Blind](/Spells.aspx?ID=226), [Power Word Kill](/Spells.aspx?ID=227), [Power Word Stun](/Spells.aspx?ID=228), [Remove Curse](/Spells.aspx?ID=250), [Remove Disease](/Spells.aspx?ID=251), [Remove Fear](/Spells.aspx?ID=252), [Restoration](/Spells.aspx?ID=258), [Revival](/Spells.aspx?ID=262), [Sunburst](/Spells.aspx?ID=326), [Tongues](/Spells.aspx?ID=340), [True Seeing](/Spells.aspx?ID=344)",
+ "stealth": "36",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Solars are among the greatest of all angels, ranking just below empyreal lords. Many solars serve at the right hand of a deity or champion a cause …",
+ "summary_markdown": "Solars are among the greatest of all angels, ranking just below empyreal lords. Many solars serve at the right hand of a deity or champion a cause …",
+ "text": " Solar (Archangel) Solars are among the greatest of all angels, ranking just below empyreal lords. Many solars serve at the right hand of a deity or champion a cause that benefits an entire world. Most archangels resemble humanoids, but not all—they can adopt more unusual forms as needed. A typical solar is about 9 feet tall and weighs about 500 pounds, with a commanding voice that is impossible to ignore. Most have silvery or golden skin. Solars are legendary trackers; the most masterful of them are said to be able to follow the centuries-old passage of a pit fiend flying through the Astral Plane. Recall Knowledge - Celestial (Religion): DC 51 Unspecific Lore : DC 49 Specific Lore : DC 46 Solar Source Bestiary 2 pg. 16 2.0 Perception +40; darkvision, true seeing Languages Celestial, Draconic, Infernal; tongues Skills Arcana +38, Athletics +43, Diplomacy +43, Religion +43, Stealth +36, Survival +46 Str +10 Dex +6 Con +8 Int +5 Wis +9 Cha +10 Items +3 major striking greatsword , +3 major striking longbow --- AC 49 Fort +40 Ref +34 Will +37 +1 status to all saves vs. magic HP 500 , regeneration 20 (deactivated by evil) Weaknesses evil 25 Aura of Protection (abjuration, aura, divine) 20 feet. Allies in the solar's aura gain a +2 status bonus to AC against evil creatures and a +2 status bonus to saves against effects from evil creatures. The bonus increases to +4 against control by evil creatures and attacks by evil summoned creatures. When the solar or an ally is hit by an attack from a creature in the aura, that foe must succeed at a DC 43 Will save or be blinded for 1 minute (this is an incapacitation effect). It's then temporarily immune for 1 minute. --- Speed 35 feet, fly 100 feet Melee Single Action holy greatsword +44 (Good, Magical, versatile P), Damage 4d12+22 slashing plus 2d6 good Ranged Single Action holy longbow +40 (deadly d10, Good, Magical, Propulsive, range increment 100 feet, volley 30 feet), Damage 4d8+17 piercing plus 2d6 good and arrow of mortality Divine Innate Spells DC 46, spell attack +38 - 2nd Invisibility (at will; self only) - 4th Dimensional Anchor (at will) - 5th Breath of Life, Death Ward - 6th Restoration (at will) - 7th Plane Shift, Remove Fear (at will) - 9th Dispel Magic (at will), Heal, Overwhelming Presence, Power Word Blind, Power Word Kill, Sunburst - 10th Charm, Power Word Stun, Remove Curse, Remove Disease, Revival - Constant (10th) Detect Alignment (evil only), Tongues, True Seeing Rituals DC 46 - 1st Angelic Messenger - 2nd Animate Object - 5th Call Spirit, Resurrect - 8th Freedom, Imprisonment Animate Weapon Reaction Trigger The solar hits with a melee weapon Strike while Animate Weapon is not already in effect; Effect The solar's weapon leaps into the air and moves with the solar as if held with both hands. The weapon gains the effects of the dancing weapon rune for 1 minute. Arrow of Mortality The solar doesn't need to provide ammunition for their bow. When they draw their bow, they create a magical arrow of light that sheds bright light in a 20-foot radius until the end of the solar's next turn. On a critical hit with the arrow, if the target has 75 or fewer Hit Points after taking the damage, it drops to 0 Hit Points and becomes dying 1 (or, if it was already dying, increases its dying value by 3). Change Shape Single Action (Concentrate, Divine, Polymorph, Transmutation) The solar can take on the appearance of any Small or Medium humanoid. This doesn't change their Speed or Strikes. Holy Armaments (Divine, Evocation) Any weapon gains the effect of a holy property rune while a solar wields it. Solar Genesis Unlike most angels, solars are created from divine energy, sometimes blended with good souls. They are joined in this distinction by the ancient empyrean angels. ",
+ "trait": [
+  "Angel",
+  "Celestial",
+  "Rare",
+  "NG",
+  "Large"
+ ],
+ "trait_markdown": "[Angel](/Traits.aspx?ID=8), [Celestial](/Traits.aspx?ID=23), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Angel",
+  "Celestial",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=545",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "evil": 25
+ },
+ "weakness_markdown": "evil 25",
+ "weakness_raw": "evil 25",
+ "will_save": 37,
+ "wisdom": 9
+}

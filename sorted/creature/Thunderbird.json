@@ -1,0 +1,112 @@
+{
+ "ac": 31,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 7,
+ "creature_ability": [
+  "Stormsight",
+  "Storm Aura",
+  "Reactive Shock",
+  "Lightning Blast",
+  "Stormflight",
+  "Thunderstrike"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 200,
+ "hp_raw": "200",
+ "id": "creature-825",
+ "image": [
+  "/Images/Monsters/Thunderbird.png"
+ ],
+ "immunity": [
+  "electricity"
+ ],
+ "immunity_markdown": "electricity",
+ "intelligence": 3,
+ "language": [
+  "Auran",
+  "Common"
+ ],
+ "language_markdown": "[Auran](/Languages.aspx?ID=15), [Common](/Languages.aspx?ID=1)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Thunderbird](/Monsters.aspx?ID=825)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThunderbirds bring storms on their wings. In times of drought, they are welcomed. Other times, they are offered gifts in hopes they might leave before flooding begins. When angered, they call down hurricanes and lay waste to entire villages, so many settlements conduct extensive rites to appease and honor local thunderbirds.\n\n Thunderbird parents carry their newly hatched offspring to hidden mountaintop nests, where the young are struck by their first bolts of lightning and learn the mysteries of the storm.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Thunderbird.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Thunderbird](/Monsters.aspx?ID=825)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 259 <sup>2.0</sup></row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12), stormsight\r\n\r\n**Languages**\r\n[Auran](/Languages.aspx?ID=15), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +22, [Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +20, [Nature](/Skills.aspx?ID=10) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +3\r\n\r\n**Con** +7\r\n\r\n**Int** +3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Stormsight** Wind, precipitation, and clouds don't impair a thunderbird's vision; it ignores the [concealed](/Conditions.aspx?ID=4) condition from storms, mist, precipitation, and the like.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 200\n\n**Immunities**\r\nelectricity\r\n\r\n**Resistances**\r\nsonic 10\n\n**Storm Aura** ([air](/Traits.aspx?ID=5), [aura](/Traits.aspx?ID=206), [evocation](/Traits.aspx?ID=65), [primal](/Traits.aspx?ID=134), [water](/Traits.aspx?ID=165)) 100 feet. The thunderbird is surrounded by a cyclone of wind and driving rain. This area is greater difficult terrain for flying creatures, who must successfully [Maneuver in Flight](/Actions.aspx?ID=30) (DC 27) or be blown 30 feet away from the thunderbird. Creatures on the ground must succeed at a DC 27 Reflex save to perform any [move](/Traits.aspx?ID=114) action and are knocked [prone](/Conditions.aspx?ID=31) on a critical failure. The driving rain in the storm aura imposes a –2 circumstance penalty on Perception checks and extinguishes smaller flames. A thunderbird can deactivate or activate the storm aura as a free action with the [concentrate](/Traits.aspx?ID=32) trait.<br />**Reactive Shock** <actions string=\"Reaction\" /> **Trigger** A creature enters the thunderbird's reach or uses a [move](/Traits.aspx?ID=114) action within their reach; **Effect** A lightning bolt dancing on the thunderbird's body leaps onto the creature, dealing 8d6 electricity damage (DC 30 basic Reflex save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 80 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +24,\r\n**Damage** 2d6+12 piercing plus 3d6 electricity\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +24 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+12 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthunderbolt +23 ([range 200 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d6 electricity and 3d6 sonic plus thunderstrike\r\n\r\n**Rituals** DC 30\r\n\r\n- **8th**\r\n[Control Weather](/Rituals.aspx?ID=9) (does not require secondary casters)\r\n\r\n**Lightning Blast** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The thunderbird spreads their wings and blasts their foe with thunderous bolts of lightning. Each creature in a 30-foot emanation takes 6d6 electricity damage and 6d6 sonic damage (DC 30 basic Reflex save). The thunderbird can't use Lightning Blast for 1d4 rounds.\r\n\r\n**Stormflight**   A thunderbird can move in wind with ease. They don't treat wind as difficult terrain or need to [Maneuver in Flight](/Actions.aspx?ID=30) in high winds.\r\n\r\n**Thunderstrike**   A creature that takes damage from a thunderbird's thunderbolt Strike must succeed at a DC 28 Fortitude save or be knocked [prone](/Conditions.aspx?ID=31) and [deafened](/Conditions.aspx?ID=8) for 1 round.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Thunder and Fire</title>\r\n\r\nThunderbirds have a complex relationship with [phoenixes](/Monsters.aspx?ID=330), whom they regard as too kindly and patient with human civilizations, even as they admire phoenixes' beauty and mastery over elements that thunderbirds cannot control. Often, encounters with phoenixes escalate into violent arguments, but it's rare for one of these meetings to end in a thunderbird's death, and even rarer for a phoenix to be significantly threatened by the upstart challenger.\r\n</aside>",
+ "name": "Thunderbird",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 20,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "sonic": 10
+ },
+ "resistance_markdown": "sonic 10",
+ "resistance_raw": "sonic 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 259 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 200\r\n\r\n**AC** 31\r\n\r\n**Fort** +24\r\n\r\n**Ref** +20\r\n\r\n**Will** +22\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThunderbirds bring storms on their wings. In times of drought, they are welcomed. Other times, they are offered gifts in hopes they might leave …\r\n</summary>",
+ "sense": " darkvision , stormsight",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), stormsight",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +22",
+  "Athletics +23",
+  "Intimidation +20",
+  "Nature +20"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +22, [Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +20, [Nature](/Skills.aspx?ID=10) +20",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 259"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 259 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 80,
+  "land": 25,
+  "max": 80
+ },
+ "speed_markdown": "25 feet, fly 80 feet",
+ "speed_raw": "25 feet, fly 80 feet",
+ "spell_markdown": "",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Thunderbirds bring storms on their wings. In times of drought, they are welcomed. Other times, they are offered gifts in hopes they might leave …",
+ "summary_markdown": "Thunderbirds bring storms on their wings. In times of drought, they are welcomed. Other times, they are offered gifts in hopes they might leave …",
+ "text": " Thunderbird Thunderbirds bring storms on their wings. In times of drought, they are welcomed. Other times, they are offered gifts in hopes they might leave before flooding begins. When angered, they call down hurricanes and lay waste to entire villages, so many settlements conduct extensive rites to appease and honor local thunderbirds. Thunderbird parents carry their newly hatched offspring to hidden mountaintop nests, where the young are struck by their first bolts of lightning and learn the mysteries of the storm. Recall Knowledge - Beast (Arcana, Nature): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Thunderbird Source Bestiary 2 pg. 259 2.0 Perception +22; darkvision, stormsight Languages Auran, Common Skills Acrobatics +22, Athletics +23, Intimidation +20, Nature +20 Str +8 Dex +3 Con +7 Int +3 Wis +5 Cha +3 Stormsight Wind, precipitation, and clouds don't impair a thunderbird's vision; it ignores the concealed condition from storms, mist, precipitation, and the like. --- AC 31 Fort +24 Ref +20 Will +22 HP 200 Immunities electricity Resistances sonic 10 Storm Aura (air, aura, evocation, primal, water) 100 feet. The thunderbird is surrounded by a cyclone of wind and driving rain. This area is greater difficult terrain for flying creatures, who must successfully Maneuver in Flight (DC 27) or be blown 30 feet away from the thunderbird. Creatures on the ground must succeed at a DC 27 Reflex save to perform any move action and are knocked prone on a critical failure. The driving rain in the storm aura imposes a –2 circumstance penalty on Perception checks and extinguishes smaller flames. A thunderbird can deactivate or activate the storm aura as a free action with the concentrate trait. Reactive Shock Reaction Trigger A creature enters the thunderbird's reach or uses a move action within their reach; Effect A lightning bolt dancing on the thunderbird's body leaps onto the creature, dealing 8d6 electricity damage (DC 30 basic Reflex save). --- Speed 25 feet, fly 80 feet Melee Single Action beak +24, Damage 2d6+12 piercing plus 3d6 electricity Melee Single Action talon +24 (Agile), Damage 2d8+12 slashing Ranged Single Action thunderbolt +23 (range 200 feet), Damage 3d6 electricity and 3d6 sonic plus thunderstrike Rituals DC 30 - 8th Control Weather (does not require secondary casters) Lightning Blast Two Actions (Evocation, Primal) The thunderbird spreads their wings and blasts their foe with thunderous bolts of lightning. Each creature in a 30-foot emanation takes 6d6 electricity damage and 6d6 sonic damage (DC 30 basic Reflex save). The thunderbird can't use Lightning Blast for 1d4 rounds. Stormflight A thunderbird can move in wind with ease. They don't treat wind as difficult terrain or need to Maneuver in Flight in high winds. Thunderstrike A creature that takes damage from a thunderbird's thunderbolt Strike must succeed at a DC 28 Fortitude save or be knocked prone and deafened for 1 round. Thunder and Fire Thunderbirds have a complex relationship with phoenixes, whom they regard as too kindly and patient with human civilizations, even as they admire phoenixes' beauty and mastery over elements that thunderbirds cannot control. Often, encounters with phoenixes escalate into violent arguments, but it's rare for one of these meetings to end in a thunderbird's death, and even rarer for a phoenix to be significantly threatened by the upstart challenger. ",
+ "trait": [
+  "Air",
+  "Beast",
+  "Electricity",
+  "Uncommon",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Beast](/Traits.aspx?ID=20), [Electricity](/Traits.aspx?ID=56), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Air",
+  "Beast",
+  "Electricity",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=825",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 22,
+ "wisdom": 5
+}

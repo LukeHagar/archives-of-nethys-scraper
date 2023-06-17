@@ -1,0 +1,100 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Protective Pinch",
+  "Constrict",
+  "Retract"
+ ],
+ "creature_family": "Crab",
+ "creature_family_markdown": "[Crab](/MonsterFamilies.aspx?ID=129)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 114,
+ "hp_raw": "114",
+ "id": "creature-1107",
+ "image": [
+  "/Images/Monsters/Crab_GiantHermitCrab.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Hermit Crab](/Monsters.aspx?ID=1107)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLucky hermit crabs with plentiful resources can live for decades and grow to tremendous sizes, often with magical help. Too large for most natural shells, giant hermit crabs use a variety of debris instead, including wagons, boats, treasure chests, and even abandoned pieces of giant armor.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Crab_GiantHermitCrab.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Giant Hermit Crab](/Monsters.aspx?ID=1107)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 57</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 15 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 114\n\n**Weaknesses**\r\nbludgeoning 5\r\n\r\n**Protective Pinch** <actions string=\"Reaction\" /> **Trigger** A creature adjacent to the hermit crab attempts to Strike the hermit crab while it is Retracted; **Effect** The hermit crab makes a big claw Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 10 feet, swim 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbig claw +15,\r\n**Damage** 2d8+8 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +15 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d4+8 piercing\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+6 bludgeoning, DC 22\r\n\r\n**Retract** <actions string=\"Single Action\" />  The hermit crab curls fully into its shell to protect itself. This gives it a +4 circumstance bonus to AC, removes its weakness to bludgeoning damage, and grants it resistance 5 to piercing and slashing damage. The only actions the hermit crab can use while in this state are Protective Pinch and Interact to come out of its shell.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-129\" />",
+ "name": "Giant Hermit Crab",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 57</row>\r\n\r\n**Creature Family** [Crab](/MonsterFamilies.aspx?ID=129)\r\n\r\n<row gap=\"medium\">\r\n**HP** 114\r\n\r\n**AC** 21\r\n\r\n**Fort** +15\r\n\r\n**Ref** +9\r\n\r\n**Will** +9\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLucky hermit crabs with plentiful resources can live for decades and grow to tremendous sizes, often with magical help. Too large for most natural …\r\n</summary>",
+ "sense": " darkvision ,  tremorsense  (imprecise) 15 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 15 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +9",
+  "Athletics +15",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 57"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 57</row>",
+ "speed": {
+  "climb": 10,
+  "land": 20,
+  "max": 20,
+  "swim": 15
+ },
+ "speed_markdown": "20 feet, climb 10 feet, swim 15 feet",
+ "speed_raw": "20 feet, climb 10 feet, swim 15 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Lucky hermit crabs with plentiful resources can live for decades and grow to tremendous sizes, often with magical help. Too large for most natural …",
+ "summary_markdown": "Lucky hermit crabs with plentiful resources can live for decades and grow to tremendous sizes, often with magical help. Too large for most natural …",
+ "text": " Giant Hermit Crab Lucky hermit crabs with plentiful resources can live for decades and grow to tremendous sizes, often with magical help. Too large for most natural shells, giant hermit crabs use a variety of debris instead, including wagons, boats, treasure chests, and even abandoned pieces of giant armor. Recall Knowledge - Animal (Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Giant Hermit Crab Source Bestiary 3 pg. 57 Perception +13; darkvision, tremorsense (imprecise) 15 feet Languages Skills Acrobatics +9, Athletics +15, Stealth +9 Str +6 Dex +2 Con +4 Int -4 Wis +2 Cha +0 --- AC 21 Fort +15 Ref +9 Will +9 HP 114 Weaknesses bludgeoning 5 Protective Pinch Reaction Trigger A creature adjacent to the hermit crab attempts to Strike the hermit crab while it is Retracted; Effect The hermit crab makes a big claw Strike against the triggering creature. --- Speed 20 feet, climb 10 feet, swim 15 feet Melee Single Action big claw +15, Damage 2d8+8 piercing plus Grab Melee Single Action claw +15 (Agile), Damage 2d4+8 piercing Constrict Single Action 1d8+6 bludgeoning, DC 22 Retract Single Action The hermit crab curls fully into its shell to protect itself. This gives it a +4 circumstance bonus to AC, removes its weakness to bludgeoning damage, and grants it resistance 5 to piercing and slashing damage. The only actions the hermit crab can use while in this state are Protective Pinch and Interact to come out of its shell. ",
+ "trait": [
+  "Amphibious",
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Amphibious",
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1107",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {
+  "bludgeoning": 5
+ },
+ "weakness_markdown": "bludgeoning 5",
+ "weakness_raw": "bludgeoning 5",
+ "will_save": 9,
+ "wisdom": 2
+}

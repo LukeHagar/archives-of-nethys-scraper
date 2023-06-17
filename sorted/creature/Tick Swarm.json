@@ -1,0 +1,106 @@
+{
+ "ac": 28,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 4,
+ "creature_ability": [
+  "Cling",
+  "Swarming Bites",
+  "Tick Fever"
+ ],
+ "creature_family": "Tick",
+ "creature_family_markdown": "[Tick](/MonsterFamilies.aspx?ID=156)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 130,
+ "hp_raw": "130",
+ "id": "creature-827",
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, [swarm mind](/MonsterAbilities.aspx?ID=36)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tick Swarm](/Monsters.aspx?ID=827)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis swarm of thousands of fist-sized ticks forms a moving carpet of bloated insects—a nauseating and intimidating sight.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Tick Swarm](/Monsters.aspx?ID=827)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 260 <sup>2.0</sup></row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +16, [Stealth](/Skills.aspx?ID=15) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +3\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 130\n\n**Immunities**\r\nprecision, [swarm mind](/MonsterAbilities.aspx?ID=36)\r\n\r\n**Resistances**\r\nbludgeoning 5, piercing 10, slashing 10\r\n\r\n**Weaknesses**\r\narea damage 10, [splash](/Traits.aspx?ID=150) damage 10\r\n\r\n**Cling** <actions string=\"Reaction\" /> **Trigger** A creature leaves the swarm's space; **Effect** The swarm takes 1d6 damage as ticks cling to the creature and continue biting, dealing 3d6 [persistent piercing damage](/Conditions.aspx?ID=29). Immersion in water reduces the DC of the flat check to end this persistent damage to 5, and any area damage dealt to the creature destroys these clinging ticks.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\n\n**Swarming Bites** <actions string=\"Single Action\" />  Each enemy in the swarm's space takes 3d6 piercing damage (DC 28 basic Reflex save) plus Cling and exposure to tick fever.\r\n\r\n**Tick Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 27 Fortitude; **Onset** 1 day; **Stage 1** [enfeebled](/Conditions.aspx?ID=13) (1 day); **Stage 2** enfeebled 2 (1 day).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-156\" />",
+ "name": "Tick Swarm",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 5,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "bludgeoning 5, piercing 10, slashing 10",
+ "resistance_raw": "bludgeoning 5, piercing 10, slashing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 260 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Tick](/MonsterFamilies.aspx?ID=156)\r\n\r\n<row gap=\"medium\">\r\n**HP** 130\r\n\r\n**AC** 28\r\n\r\n**Fort** +19\r\n\r\n**Ref** +19\r\n\r\n**Will** +14\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis swarm of thousands of fist-sized ticks forms a moving carpet of bloated insects—a nauseating and intimidating sight.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +16",
+  "Stealth +19"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +16, [Stealth](/Skills.aspx?ID=15) +19",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 260"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 260 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell_markdown": "",
+ "stealth": "19",
+ "strength": 1,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "This swarm of thousands of fist-sized ticks forms a moving carpet of bloated insects—a nauseating and intimidating sight.",
+ "summary_markdown": "This swarm of thousands of fist-sized ticks forms a moving carpet of bloated insects—a nauseating and intimidating sight.",
+ "text": " Tick Swarm This swarm of thousands of fist-sized ticks forms a moving carpet of bloated insects—a nauseating and intimidating sight. Recall Knowledge - Animal (Nature): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Tick Swarm Source Bestiary 2 pg. 260 2.0 Perception +18; darkvision Languages Skills Athletics +16, Stealth +19 Str +1 Dex +6 Con +4 Int -5 Wis +3 Cha -5 --- AC 28 Fort +19 Ref +19 Will +14 HP 130 Immunities precision, swarm mind Resistances bludgeoning 5, piercing 10, slashing 10 Weaknesses area damage 10, splash damage 10 Cling Reaction Trigger A creature leaves the swarm's space; Effect The swarm takes 1d6 damage as ticks cling to the creature and continue biting, dealing 3d6 persistent piercing damage. Immersion in water reduces the DC of the flat check to end this persistent damage to 5, and any area damage dealt to the creature destroys these clinging ticks. --- Speed 25 feet, climb 25 feet Swarming Bites Single Action Each enemy in the swarm's space takes 3d6 piercing damage (DC 28 basic Reflex save) plus Cling and exposure to tick fever. Tick Fever (Disease) Saving Throw DC 27 Fortitude; Onset 1 day; Stage 1 enfeebled (1 day); Stage 2 enfeebled 2 (1 day). ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=827",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 10
+ },
+ "weakness_markdown": "area damage 10, [splash](/Traits.aspx?ID=150) damage 10",
+ "weakness_raw": "area damage 10,  splash  damage 10",
+ "will_save": 14,
+ "wisdom": 3
+}

@@ -1,0 +1,107 @@
+{
+ "ac": 28,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "Thoughtsense",
+  "Reconstruct Spell",
+  "Search Memory",
+  "Redact"
+ ],
+ "creature_family": "Ennosite",
+ "creature_family_markdown": "[Ennosite](/MonsterFamilies.aspx?ID=233)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 155,
+ "hp_raw": "155",
+ "id": "creature-1942",
+ "intelligence": 6,
+ "language": [
+  "Common",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Loreavor](/Monsters.aspx?ID=1942)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRarely, when an [ioton](/Monsters.aspx?ID=1146) (the lowliest ennosite) leeches a particularly secretive thought, it can choke to death on the secret, only to be born from its previous body into that of a loreavor: an ennosite whose existence is shaped around the consumption of secrets and artistry.\n\n Loreavors sip at secrets throughout their lives and are instinctively drawn to obscure information. Their hunger places them firmly at odds with scholars and historians alike. Living victims lose memories; written texts become blank books. Loreavors' favorite sites are ruins and ancient libraries, but they can also survive on banal secrets of everyday life as well. While the creatures are secretive, typically staying out of sight and fleeing danger, they become aggressive when their favored food sources are threatened.\n\n A loreavor appears as a 3-foot-long, pale, wormlike creature with dozens of half-formed faces growing from its segmented body. Trapped in an area without secrets to eat, a loreavor won't starve and can live for years.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Astral](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 31\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 29\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 26\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Loreavor](/Monsters.aspx?ID=1942)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Astral\" url=\"/Traits.aspx?ID=14\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Shadows at Sundown](/Sources.aspx?ID=121) pg. 56</row>\n\n**Perception** +19; thoughtsense (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Arcana](/Skills.aspx?ID=2) +17, [Occultism](/Skills.aspx?ID=11) +21, [Society](/Skills.aspx?ID=14) +17, [Stealth](/Skills.aspx?ID=15) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** +6\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Thoughtsense** The loreavor senses all non-[mindless](/Traits.aspx?ID=108) creatures at the listed range.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 155\n\n**Resistances**\r\n[mental](/Traits.aspx?ID=106) 10\n\n**Reconstruct Spell** <actions string=\"Reaction\" /> ([divination](/Traits.aspx?ID=47), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) **Trigger** A creature within 30 feet attempts and fails to Cast a Spell while [stupefied](/Conditions.aspx?ID=37); **Effect** The loreavor gains use of the failed spell as an occult innate spell. It can cast that spell once; if the spell is of a higher level than half the loreavor's level (5th level or higher for most loreavors), the loreavor must succeed at a flat check with a DC equal to 5 + the level of the spell it is attempting to cast; on a failure, the spell fails, and the loreavor becomes stupefied 1 for 1 minute. If the spell isn't cast within 24 hours, or if the loreavor uses Reconstruct Spell again before casting the spell, the spell is lost. No more than one loreavor can reconstruct a given spell this way.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntouch +19 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d10+7 mental plus search memory\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nmind bolt +21 ([range 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d12+4 mental\r\n\r\n**Occult Innate Spells** DC 28\r\n- **Cantrips (5th)**\r\n[Mage Hand](/Spells.aspx?ID=177)\r\n- **4th**\r\n[Modify Memory](/Spells.aspx?ID=200) (at will)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Search Memory**  ([Divination](/Traits.aspx?ID=47), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) When the loreavor damages a creature with its touch Strike, the creature must succeed at a 28 Will save or become [stupefied 1](/Conditions.aspx?ID=37), or stupefied 2 on a critical failure.\r\n\r\n**Redact**  ([Occult](/Traits.aspx?ID=120), [Transmutation](/Traits.aspx?ID=157)) By spending an hour in contact with a nonmagical document or piece of artwork no larger than 1 Bulk, a loreavor can consume either a few words from the text or render the artistry of the work more mundane. Doing so heals the loreavor of 4d8 HP. Words fade from the text, leaving an obvious blank space behind, while artwork is reduced in worth by 10% of its original value. A loreavor can consume incidental text in this manner from a spellbook but cannot consume actual spells recorded in the book. The loreavor can't use Redact for 24 hours\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">A One-way Journey</title>\r\n\r\nWhen a loreavor is “born,” it gains the ability to cast [_plane shift_](/Spells.aspx?ID=222) once as an innate spell that affects itself only and does so to travel to another plane— typically the [Material Plane](/Planes.aspx?ID=1)—when it senses a particularly enticing collection of unprotected secrets or artwork. The GM might determine a loreavor encountered on the [Astral Plane](/Planes.aspx?ID=8) might not have used this spell yet, affording it a one-time method of escaping conflict if a battle goes against it.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-233\" />",
+ "name": "Loreavor",
+ "npc": false,
+ "perception": 19,
+ "rarity": "rare",
+ "reflex_save": 21,
+ "release_date": "2022-05-25",
+ "resistance": {
+  "mental": 10
+ },
+ "resistance_markdown": "[mental](/Traits.aspx?ID=106) 10",
+ "resistance_raw": " mental  10",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Astral\" url=\"/Traits.aspx?ID=14\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Shadows at Sundown](/Sources.aspx?ID=121) pg. 56</row>\r\n\r\n**Creature Family** [Ennosite](/MonsterFamilies.aspx?ID=233)\r\n\r\n<row gap=\"medium\">\r\n**HP** 155\r\n\r\n**AC** 28\r\n\r\n**Fort** +15\r\n\r\n**Ref** +21\r\n\r\n**Will** +19\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRarely, when an  ioton  (the lowliest ennosite) leeches a particularly secretive thought, it can choke to death on the secret, only to be born from …\r\n</summary>",
+ "sense": "thoughtsense (imprecise) 60 feet",
+ "sense_markdown": "thoughtsense (imprecise) 60 feet",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Arcana +17",
+  "Occultism +21",
+  "Society +17",
+  "Stealth +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Arcana](/Skills.aspx?ID=2) +17, [Occultism](/Skills.aspx?ID=11) +21, [Society](/Skills.aspx?ID=14) +17, [Stealth](/Skills.aspx?ID=15) +19",
+ "source": [
+  "Shadows at Sundown"
+ ],
+ "source_raw": [
+  "Shadows at Sundown pg. 56"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Shadows at Sundown",
+ "source_markdown": "<row gap=\"tiny\">[Shadows at Sundown](/Sources.aspx?ID=121) pg. 56</row>",
+ "speed": {
+  "fly": 20,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, fly 20 feet",
+ "speed_raw": "20 feet, fly 20 feet",
+ "spell": [
+  "Modify Memory",
+  "Tongues",
+  "Mage Hand"
+ ],
+ "spell_markdown": "[Mage Hand](/Spells.aspx?ID=177), [Modify Memory](/Spells.aspx?ID=200), [Tongues](/Spells.aspx?ID=340)",
+ "spoilers": "Shadows at Sundown",
+ "stealth": "19",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Rarely, when an  ioton  (the lowliest ennosite) leeches a particularly secretive thought, it can choke to death on the secret, only to be born from …",
+ "summary_markdown": "Rarely, when an  ioton  (the lowliest ennosite) leeches a particularly secretive thought, it can choke to death on the secret, only to be born from …",
+ "text": " Loreavor Rarely, when an ioton (the lowliest ennosite) leeches a particularly secretive thought, it can choke to death on the secret, only to be born from its previous body into that of a loreavor: an ennosite whose existence is shaped around the consumption of secrets and artistry. Loreavors sip at secrets throughout their lives and are instinctively drawn to obscure information. Their hunger places them firmly at odds with scholars and historians alike. Living victims lose memories; written texts become blank books. Loreavors' favorite sites are ruins and ancient libraries, but they can also survive on banal secrets of everyday life as well. While the creatures are secretive, typically staying out of sight and fleeing danger, they become aggressive when their favored food sources are threatened. A loreavor appears as a 3-foot-long, pale, wormlike creature with dozens of half-formed faces growing from its segmented body. Trapped in an area without secrets to eat, a loreavor won't starve and can live for years. Recall Knowledge - Astral (Occultism): DC 31 Unspecific Lore : DC 29 Specific Lore : DC 26 Loreavor Source Shadows at Sundown pg. 56 Perception +19; thoughtsense (imprecise) 60 feet Languages Common; tongues Skills Acrobatics +19, Arcana +17, Occultism +21, Society +17, Stealth +19 Str +3 Dex +6 Con +4 Int +6 Wis +4 Cha +3 Thoughtsense The loreavor senses all non-mindless creatures at the listed range. --- AC 28 Fort +15 Ref +21 Will +19 HP 155 Resistances mental 10 Reconstruct Spell Reaction (divination, mental, occult) Trigger A creature within 30 feet attempts and fails to Cast a Spell while stupefied; Effect The loreavor gains use of the failed spell as an occult innate spell. It can cast that spell once; if the spell is of a higher level than half the loreavor's level (5th level or higher for most loreavors), the loreavor must succeed at a flat check with a DC equal to 5 + the level of the spell it is attempting to cast; on a failure, the spell fails, and the loreavor becomes stupefied 1 for 1 minute. If the spell isn't cast within 24 hours, or if the loreavor uses Reconstruct Spell again before casting the spell, the spell is lost. No more than one loreavor can reconstruct a given spell this way. --- Speed 20 feet, fly 20 feet Melee Single Action touch +19 (Agile, Finesse), Damage 2d10+7 mental plus search memory Ranged Single Action mind bolt +21 (range 60 feet), Damage 2d12+4 mental Occult Innate Spells DC 28 - Cantrips (5th) Mage Hand - 4th Modify Memory (at will) - Constant (5th) Tongues Search Memory (Divination, Mental, Occult) When the loreavor damages a creature with its touch Strike, the creature must succeed at a 28 Will save or become stupefied 1, or stupefied 2 on a critical failure. Redact (Occult, Transmutation) By spending an hour in contact with a nonmagical document or piece of artwork no larger than 1 Bulk, a loreavor can consume either a few words from the text or render the artistry of the work more mundane. Doing so heals the loreavor of 4d8 HP. Words fade from the text, leaving an obvious blank space behind, while artwork is reduced in worth by 10% of its original value. A loreavor can consume incidental text in this manner from a spellbook but cannot consume actual spells recorded in the book. The loreavor can't use Redact for 24 hours A One-way Journey When a loreavor is “born,” it gains the ability to cast plane shift once as an innate spell that affects itself only and does so to travel to another plane— typically the Material Plane—when it senses a particularly enticing collection of unprotected secrets or artwork. The GM might determine a loreavor encountered on the Astral Plane might not have used this spell yet, affording it a one-time method of escaping conflict if a battle goes against it. ",
+ "trait": [
+  "Astral",
+  "Rare",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Astral](/Traits.aspx?ID=14), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Astral",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1942",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 4
+}

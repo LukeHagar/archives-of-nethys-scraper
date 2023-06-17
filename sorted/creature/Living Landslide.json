@@ -1,0 +1,103 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 4,
+ "creature_ability": [
+  "Earthbound",
+  "Crumble",
+  "Earth Glide"
+ ],
+ "creature_family": "Elemental, Earth",
+ "creature_family_markdown": "[Elemental, Earth](/MonsterFamilies.aspx?ID=42)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 90,
+ "hp_raw": "90",
+ "id": "creature-183",
+ "image": [
+  "/Images/Monsters/ElementalEarth_LivingLandslide.png"
+ ],
+ "immunity": [
+  "bleed",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, paralyzed, poison, sleep",
+ "intelligence": -2,
+ "language": [
+  "Terran"
+ ],
+ "language_markdown": "[Terran](/Languages.aspx?ID=22)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Living Landslide](/Monsters.aspx?ID=183)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLiving landslides resemble humanoids made of earth and gravel.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ElementalEarth_LivingLandslide.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Living Landslide](/Monsters.aspx?ID=183)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 146</row>\n\n**Perception** +12; darkvision, tremorsense (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Terran](/Languages.aspx?ID=22)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** -1\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +1\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Earthbound** When not touching solid ground, the living landslide is slowed 1 and can’t use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 90\n\n**Immunities**\r\nbleed, paralyzed, poison, sleep\n\n**Crumble** <actions string=\"Reaction\" /> **Trigger** The living landslide takes damage from a hostile source while atop rock or earth. **Effect** The living landslide crumbles into the ground, Burrowing down 10 feet. This Burrowing does not trigger reactions. The living landslide can’t Crumble again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, burrow 25 feet; earth glide\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +16 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+8 bludgeoning\n\n**Earth Glide**   The living landslide can Burrow through any earthen matter, including rock. When it does so, the living landslide moves at its full burrow Speed, leaving no tunnels or signs of its passing.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-42\" />",
+ "name": "Living Landslide",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 146</row>\r\n\r\n**Creature Family** [Elemental, Earth](/MonsterFamilies.aspx?ID=42)\r\n\r\n<row gap=\"medium\">\r\n**HP** 90\r\n\r\n**AC** 21\r\n\r\n**Fort** +15\r\n\r\n**Ref** +8\r\n\r\n**Will** +10\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLiving landslides resemble humanoids made of earth and gravel.\r\n</summary>",
+ "sense": "darkvision, tremorsense (imprecise) 60 feet",
+ "sense_markdown": "darkvision, tremorsense (imprecise) 60 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +14",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 146"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 146</row>",
+ "speed": {
+  "burrow": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, burrow 25 feet; earth glide",
+ "speed_raw": "25 feet, burrow 25 feet; earth glide",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Living landslides resemble humanoids made of earth and gravel.",
+ "summary_markdown": "Living landslides resemble humanoids made of earth and gravel.",
+ "text": " Living Landslide Living landslides resemble humanoids made of earth and gravel. Recall Knowledge - Elemental (Arcana, Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Living Landslide Source Bestiary pg. 146 Perception +12; darkvision, tremorsense (imprecise) 60 feet Languages Terran Skills Athletics +14, Stealth +8 Str +5 Dex -1 Con +4 Int -2 Wis +1 Cha -1 Earthbound When not touching solid ground, the living landslide is slowed 1 and can’t use reactions. --- AC 21 Fort +15 Ref +8 Will +10 HP 90 Immunities bleed, paralyzed, poison, sleep Crumble Reaction Trigger The living landslide takes damage from a hostile source while atop rock or earth. Effect The living landslide crumbles into the ground, Burrowing down 10 feet. This Burrowing does not trigger reactions. The living landslide can’t Crumble again for 1d4 rounds. --- Speed 25 feet, burrow 25 feet; earth glide Melee Single Action fist +16 (reach 10 feet), Damage 2d8+8 bludgeoning Earth Glide The living landslide can Burrow through any earthen matter, including rock. When it does so, the living landslide moves at its full burrow Speed, leaving no tunnels or signs of its passing. ",
+ "trait": [
+  "Earth",
+  "Elemental",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Elemental](/Traits.aspx?ID=57)",
+ "trait_raw": [
+  "Earth",
+  "Elemental"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=183",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 1
+}

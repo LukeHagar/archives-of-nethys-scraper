@@ -1,0 +1,121 @@
+{
+ "ac": 41,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 8,
+ "creature_ability": [
+  "Clutching Stones",
+  "Tremorsense",
+  "Grasping Bites",
+  "Landslide",
+  "Pummeling Assault"
+ ],
+ "creature_family": "Cobble Mite",
+ "creature_family_markdown": "[Cobble Mite](/MonsterFamilies.aspx?ID=224)",
+ "dexterity": 10,
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hp": 280,
+ "hp_raw": "280",
+ "id": "creature-1100",
+ "image": [
+  "/Images/Monsters/CobbleMite_Sturzstome.png"
+ ],
+ "immunity": [
+  "precision",
+  "swarm mind",
+  "visual"
+ ],
+ "immunity_markdown": "precision, [swarm mind](/MonsterAbilities.aspx?ID=36), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -1,
+ "language": [
+  "Terran"
+ ],
+ "language_markdown": "[Terran](/Languages.aspx?ID=22)",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Sturzstromer](/Monsters.aspx?ID=1100)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCobble mites that remain a cohesive swarm for many years become dangerous living landslides.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CobbleMite_Sturzstome.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Sturzstromer](/Monsters.aspx?ID=1100)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 52</row>\n\n**Perception** +33; no vision, [tremorsense](/MonsterAbilities.aspx?ID=40) (precise) 120 feet\r\n\r\n**Languages**\r\n[Terran](/Languages.aspx?ID=22)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +37, [Stealth](/Skills.aspx?ID=15) +35\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +10\r\n\r\n**Con** +8\r\n\r\n**Int** -1\r\n\r\n**Wis** +6\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Clutching Stones** The sturzstromer's space is greater difficult terrain.<br />**Tremorsense** A sturzstromer's tremorsense is a precise sense out to 120 feet and an imprecise sense out to 240 feet. A sturzstromer can't sense anything beyond the range of its tremorsense\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 41 \r\n\r\n**Fort** +33 \r\n\r\n**Ref** +35 \r\n\r\n**Will** +29 \n\n</row>\r\n\r\n**HP** 280\n\n**Immunities**\r\nprecision, [swarm mind](/MonsterAbilities.aspx?ID=36), [visual](/Traits.aspx?ID=163)\r\n\r\n**Resistances**\r\npiercing 20, slashing 20\r\n\r\n**Weaknesses**\r\narea damage 12, splash damage 12\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet, burrow 20 feet\n\n**Primal Innate Spells** DC 41\r\n- **8th**\r\n[Earthbind](/Spells.aspx?ID=94) (at will), [Earthquake](/Spells.aspx?ID=95) (×3), [Stone Tell](/Spells.aspx?ID=310)\r\n- **10th**\r\n[Earthquake](/Spells.aspx?ID=95)\r\n\r\n**Grasping Bites** <actions string=\"Two Actions\" /> ([Attack](/Traits.aspx?ID=15)) The sturzstromer attempts an [Athletics](/Skills.aspx?ID=3) check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the sturzstromer's multiple attack penalty. <br />**Critical Success** The creature falls [prone](/Conditions.aspx?ID=31), takes 1d6 bludgeoning damage, and is [restrained](/Conditions.aspx?ID=33) by the sturzstromer until the end of the sturzstromer's next turn. <br />**Success** The creature falls prone and is [grabbed](/Conditions.aspx?ID=20) by the sturzstromer until the end of the sturzstromer's next turn\r\n\r\n**Landslide** <actions string=\"Free Action\" />  **Requirements** The sturzstromer's most recent action was to cast [_earthquake_](/Spells.aspx?ID=95); **Effect** The sturzstromer closes a fissure it made, choosing one creature that fell in. That creature must succeed at a DC 41 Reflex save or be [buried as in an avalanche](/Rules.aspx?ID=646).\r\n\r\n**Pummeling Assault** <actions string=\"Single Action\" />  Each foe in the sturzstromer's space takes 4d10 bludgeoning damage (DC 41 basic Reflex save).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-224\" />",
+ "name": "Sturzstromer",
+ "npc": false,
+ "perception": 33,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 35,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "piercing": 20,
+  "slashing": 20
+ },
+ "resistance_markdown": "piercing 20, slashing 20",
+ "resistance_raw": "piercing 20, slashing 20",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 52</row>\r\n\r\n**Creature Family** [Cobble Mite](/MonsterFamilies.aspx?ID=224)\r\n\r\n<row gap=\"medium\">\r\n**HP** 280\r\n\r\n**AC** 41\r\n\r\n**Fort** +33\r\n\r\n**Ref** +35\r\n\r\n**Will** +29\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCobble mites that remain a cohesive swarm for many years become dangerous living landslides.\r\n</summary>",
+ "sense": "no vision,  tremorsense  (precise) 120 feet",
+ "sense_markdown": "no vision, [tremorsense](/MonsterAbilities.aspx?ID=40) (precise) 120 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +37",
+  "Stealth +35"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +37, [Stealth](/Skills.aspx?ID=15) +35",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 52"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 52</row>",
+ "speed": {
+  "burrow": 20,
+  "land": 50,
+  "max": 50
+ },
+ "speed_markdown": "50 feet, burrow 20 feet",
+ "speed_raw": "50 feet, burrow 20 feet",
+ "spell": [
+  "Earthquake",
+  "Earthbind",
+  "Stone Tell"
+ ],
+ "spell_markdown": "[Earthbind](/Spells.aspx?ID=94), [Earthquake](/Spells.aspx?ID=95), [Stone Tell](/Spells.aspx?ID=310)",
+ "stealth": "35",
+ "strength": 8,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Cobble mites that remain a cohesive swarm for many years become dangerous living landslides.",
+ "summary_markdown": "Cobble mites that remain a cohesive swarm for many years become dangerous living landslides.",
+ "text": " Sturzstromer Cobble mites that remain a cohesive swarm for many years become dangerous living landslides. Recall Knowledge - Aberration (Occultism): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Sturzstromer Source Bestiary 3 pg. 52 Perception +33; no vision, tremorsense (precise) 120 feet Languages Terran Skills Athletics +37, Stealth +35 Str +8 Dex +10 Con +8 Int -1 Wis +6 Cha +2 Clutching Stones The sturzstromer's space is greater difficult terrain. Tremorsense A sturzstromer's tremorsense is a precise sense out to 120 feet and an imprecise sense out to 240 feet. A sturzstromer can't sense anything beyond the range of its tremorsense --- AC 41 Fort +33 Ref +35 Will +29 HP 280 Immunities precision, swarm mind, visual Resistances piercing 20, slashing 20 Weaknesses area damage 12, splash damage 12 --- Speed 50 feet, burrow 20 feet Primal Innate Spells DC 41 - 8th Earthbind (at will), Earthquake (×3), Stone Tell - 10th Earthquake Grasping Bites Two Actions (Attack) The sturzstromer attempts an Athletics check and compares the result to the Fortitude DC of each creature in its space. This counts as two attacks for the sturzstromer's multiple attack penalty. Critical Success The creature falls prone, takes 1d6 bludgeoning damage, and is restrained by the sturzstromer until the end of the sturzstromer's next turn. Success The creature falls prone and is grabbed by the sturzstromer until the end of the sturzstromer's next turn Landslide Free Action Requirements The sturzstromer's most recent action was to cast earthquake ; Effect The sturzstromer closes a fissure it made, choosing one creature that fell in. That creature must succeed at a DC 41 Reflex save or be buried as in an avalanche. Pummeling Assault Single Action Each foe in the sturzstromer's space takes 4d10 bludgeoning damage (DC 41 basic Reflex save). ",
+ "trait": [
+  "Aberration",
+  "Earth",
+  "Swarm",
+  "Uncommon",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Earth](/Traits.aspx?ID=55), [Swarm](/Traits.aspx?ID=239), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Earth",
+  "Swarm",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1100",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 12,
+  "splash": 12
+ },
+ "weakness_markdown": "area damage 12, splash damage 12",
+ "weakness_raw": "area damage 12, splash damage 12",
+ "will_save": 29,
+ "wisdom": 6
+}

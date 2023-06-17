@@ -1,0 +1,124 @@
+{
+ "ac": 42,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 9,
+ "creature_ability": [
+  "Golem Antimagic",
+  "Repair Mode",
+  "Vulnerable to Dispelling",
+  "Destructive Strike",
+  "Inexorable March",
+  "Self-Repair",
+  "Vent"
+ ],
+ "creature_family": "Golem",
+ "creature_family_markdown": "[Golem](/MonsterFamilies.aspx?ID=57)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hp": 255,
+ "hp_raw": "255 (repair mode)",
+ "id": "creature-243",
+ "image": [
+  "/Images/Monsters/Golem_AdamantineGolem.png"
+ ],
+ "immunity": [
+  "bleed",
+  "death effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "fire",
+  "healing",
+  "magic (see below)",
+  "mental",
+  "necromancy",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Adamantine Golem](/Monsters.aspx?ID=243)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCrafted from a nigh-indestructible metal of great rarity, adamantine golems can’t be destroyed except by the most powerful foes. Crafting an adamantine golem requires a quantity of adamantine so massive that collecting it usually requires mounting a mining expedition to a distant planet, the Plane of Earth, or an Outer Plane.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 43\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 41\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 38\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Golem_AdamantineGolem.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Adamantine Golem](/Monsters.aspx?ID=243)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Golem\" url=\"/Traits.aspx?ID=220\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 189</row>\n\n**Perception** +26; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +38\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** -1\r\n\r\n**Con** +9\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 42 \r\n\r\n**Fort** +33 \r\n\r\n**Ref** +27 \r\n\r\n**Will** +29 \n\n</row>\r\n\r\n**HP** 255\r\n(repair mode)\n\n**Immunities**\r\nbleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious\r\n\r\n**Resistances**\r\nphysical 20 (except [_vorpal_](/Equipment.aspx?ID=308) adamantine)\n\n**Golem Antimagic** harmed by acid (9d10, 2d10 from areas or persistent damage); healed by fire (area 2d10 HP); slowed by electricity<br /> **Repair Mode** When the adamantine golem is at 0 HP, it isn’t destroyed. Instead, it enters repair mode, during which it is slowed 1, can’t take reactions, and can take only the Self-Repair action. Once it has more than 30 HP, it can use any type of action and can use reactions, though it remains slowed 1 and can’t take any reactions until the start of its next turn. If a critical hit with an adamantine vorpal weapon reduces the golem to 0 HP, or if such a weapon hits it while it’s already at 0 HP, then the golem is destroyed.<br /> **Vulnerable to Dispelling** The golem can be targeted by [_disjunction_](/Spells.aspx?ID=77) and [_dispel magic_](/Spells.aspx?ID=78). If targeted by such a spell of 9th level or higher, the golem has its resistance to physical damage lowered to 15 and is slowed 1 (or slowed 2 if in repair mode) for 1d4 rounds. During this time, if the golem is reduced to 0 HP while already in repair mode, it is destroyed.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +35 ([deadly 3d12](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+17 bludgeoning plus destructive strike\n\n**Destructive Strike**   On a critical hit, the adamantine golem’s fist Strike breaks the target’s armor, if any, in addition to dealing damage to the target. If the target has a shield raised, the golem breaks the shield instead.\r\n\r\n**Inexorable March** <actions string=\"Single Action\" />  The adamantine golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can try to bar the way by attempting a DC 45 Fortitude save.<br /> **Critical Success** The creature takes no damage and its armor takes no damage.<br /> **Success** The golem halts its movement and cannot enter the creature’s square.<br /> **Failure** The resisting creature is damaged and its armor takes damage as if hit by the adamantine golem’s fist.\r\n\r\n**Self-Repair** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) The golem repairs itself, regaining 30 Hit Points.\r\n\r\n**Vent** <actions string=\"Single Action\" /> ([Fire](/Traits.aspx?ID=72)) The golem vents a 30-foot cone of superheated steam from its internal forge. This deals 15d6 fire damage to all creatures in the cone (DC 40 basic Reflex). The golem can't use Vent again for 1d6 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Adamantine Golems</title>\r\n\r\nThe incredible amount of adamantine necessary to create a single adamantine golem is worth more than many nations’ treasuries. The powerful heart of an adamantine golem can be turned into a legendary forge for blacksmithing.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-57\" />",
+ "name": "Adamantine Golem",
+ "npc": false,
+ "perception": 26,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 27,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 20,
+  "physical": 20,
+  "piercing": 20,
+  "slashing": 20
+ },
+ "resistance_markdown": "physical 20 (except [_vorpal_](/Equipment.aspx?ID=308) adamantine)",
+ "resistance_raw": "physical 20 (except   vorpal   adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Golem\" url=\"/Traits.aspx?ID=220\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 189</row>\r\n\r\n**Creature Family** [Golem](/MonsterFamilies.aspx?ID=57)\r\n\r\n<row gap=\"medium\">\r\n**HP** 255 (repair mode)\r\n\r\n**AC** 42\r\n\r\n**Fort** +33\r\n\r\n**Ref** +27\r\n\r\n**Will** +29\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCrafted from a nigh-indestructible metal of great rarity, adamantine golems can’t be destroyed except by the most powerful foes. Crafting an …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +38"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +38",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 189"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 189</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Crafted from a nigh-indestructible metal of great rarity, adamantine golems can’t be destroyed except by the most powerful foes. Crafting an …",
+ "summary_markdown": "Crafted from a nigh-indestructible metal of great rarity, adamantine golems can’t be destroyed except by the most powerful foes. Crafting an …",
+ "text": " Adamantine Golem Crafted from a nigh-indestructible metal of great rarity, adamantine golems can’t be destroyed except by the most powerful foes. Crafting an adamantine golem requires a quantity of adamantine so massive that collecting it usually requires mounting a mining expedition to a distant planet, the Plane of Earth, or an Outer Plane. Recall Knowledge - Construct (Arcana, Crafting): DC 43 Unspecific Lore : DC 41 Specific Lore : DC 38 Adamantine Golem Source Bestiary pg. 189 Perception +26; darkvision Languages Skills Athletics +38 Str +9 Dex -1 Con +9 Int -5 Wis +0 Cha -5 --- AC 42 Fort +33 Ref +27 Will +29 HP 255 (repair mode) Immunities bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances physical 20 (except vorpal adamantine) Golem Antimagic harmed by acid (9d10, 2d10 from areas or persistent damage); healed by fire (area 2d10 HP); slowed by electricity Repair Mode When the adamantine golem is at 0 HP, it isn’t destroyed. Instead, it enters repair mode, during which it is slowed 1, can’t take reactions, and can take only the Self-Repair action. Once it has more than 30 HP, it can use any type of action and can use reactions, though it remains slowed 1 and can’t take any reactions until the start of its next turn. If a critical hit with an adamantine vorpal weapon reduces the golem to 0 HP, or if such a weapon hits it while it’s already at 0 HP, then the golem is destroyed. Vulnerable to Dispelling The golem can be targeted by disjunction and dispel magic . If targeted by such a spell of 9th level or higher, the golem has its resistance to physical damage lowered to 15 and is slowed 1 (or slowed 2 if in repair mode) for 1d4 rounds. During this time, if the golem is reduced to 0 HP while already in repair mode, it is destroyed. --- Speed 30 feet Melee Single Action fist +35 (deadly 3d12, Magical, reach 15 feet), Damage 3d10+17 bludgeoning plus destructive strike Destructive Strike On a critical hit, the adamantine golem’s fist Strike breaks the target’s armor, if any, in addition to dealing damage to the target. If the target has a shield raised, the golem breaks the shield instead. Inexorable March Single Action The adamantine golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can try to bar the way by attempting a DC 45 Fortitude save. Critical Success The creature takes no damage and its armor takes no damage. Success The golem halts its movement and cannot enter the creature’s square. Failure The resisting creature is damaged and its armor takes damage as if hit by the adamantine golem’s fist. Self-Repair Single Action (Manipulate) The golem repairs itself, regaining 30 Hit Points. Vent Single Action (Fire) The golem vents a 30-foot cone of superheated steam from its internal forge. This deals 15d6 fire damage to all creatures in the cone (DC 40 basic Reflex). The golem can't use Vent again for 1d6 rounds. Adamantine Golems The incredible amount of adamantine necessary to create a single adamantine golem is worth more than many nations’ treasuries. The powerful heart of an adamantine golem can be turned into a legendary forge for blacksmithing. ",
+ "trait": [
+  "Construct",
+  "Golem",
+  "Mindless",
+  "Rare",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Golem](/Traits.aspx?ID=220), [Mindless](/Traits.aspx?ID=108), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Construct",
+  "Golem",
+  "Mindless",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=243",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 29,
+ "wisdom": 0
+}

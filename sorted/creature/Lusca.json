@@ -1,0 +1,113 @@
+{
+ "ac": 40,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 9,
+ "creature_ability": [
+  "Blood Scent",
+  "All-Around Vision",
+  "Storm Bringer",
+  "Attack of Opportunity",
+  "Capsize",
+  "Lusca Venom",
+  "Ravenous Jaws",
+  "Rend",
+  "Swallow Whole"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 32,
+ "hp": 320,
+ "hp_raw": "320",
+ "id": "creature-1010",
+ "image": [
+  "/Images/Monsters/Lusca.png"
+ ],
+ "immunity": [
+  "electricity"
+ ],
+ "immunity_markdown": "electricity",
+ "intelligence": 0,
+ "language": [
+  "Aquan",
+  "Common"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"\">[Lusca](/Monsters.aspx?ID=1010)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA lusca is a predatory sea monster that resembles a three-headed shark with the body of an octopus. Ferocious electrical storms usually herald a lusca's arrival; such violent bursts of electricity result from the creature's superconductive flesh, which allows the lusca to store energy from lightning strikes that it can then discharge at foes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Lusca.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Lusca](/Monsters.aspx?ID=1010)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #161: Belly of the Black Whale](/Sources.aspx?ID=51) pg. 83</row>\n\n**Perception** +31; blood scent, [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 100 feet\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +34, [Intimidation](/Skills.aspx?ID=7) +30, [Survival](/Skills.aspx?ID=16) +31\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +5\r\n\r\n**Con** +9\r\n\r\n**Int** +0\r\n\r\n**Wis** +6\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Blood Scent** The lusca can smell blood in the water up to 1 mile away.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 40 \r\n\r\n**Fort** +32 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +29 \n\n</row>\r\n\r\n**HP** 320\n\n**Immunities**\r\nelectricity\n\n**[All-Around Vision](/MonsterAbilities.aspx?ID=1)** <br />**Storm Bringer** ([aura](/Traits.aspx?ID=206), [evocation](/Traits.aspx?ID=65), [primal](/Traits.aspx?ID=134)) When the lusca is near the surface for more than 1 hour, clouds appear and deliver a thunderstorm with a 2-mile radius centered on its location. The weather returns to normal 1 hour after the lusca departs.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> The lusca gains 2 extra reactions at the start of each of its turns that it can use only to make an Attack of Opportunity with its jaws. It can't use more than one Attack of Opportunity triggered by the same action.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, swim 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +35 ([Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+17 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +35 ([Magical](/Traits.aspx?ID=103), [reach 40 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+17 bludgeoning plus lusca venom\r\n\r\n**Primal Innate Spells** DC 38\r\n- **8th**\r\n[Punishing Winds](/Spells.aspx?ID=240) (×3)\r\n- **9th**\r\n[Chain Lightning](/Spells.aspx?ID=33) (×3)\r\n\r\n**Capsize** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) The lusca tries to capsize an adjacent aquatic vessel of its size or smaller. It must succeed at an [Athletics](/Skills.aspx?ID=3) check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the lusca) or the pilot's [Sailing Lore](/Skills.aspx?ID=8) DC, whichever is higher.\r\n\r\n**Lusca Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 38; **Maximum Duration** 6 rounds; **Stage 1** 4d6 poison damage and [clumsy 1](/Conditions.aspx?ID=3) (1 round); **Stage 2** 6d6 poison damage and clumsy 2 (1 round)\r\n\r\n**Ravenous Jaws** <actions string=\"Two Actions\" />  The lusca makes three jaws Strikes, each against a different target. These attacks count toward the lusca's multiple attack penalty, but the penalty doesn't increase until after the lusca makes all of these attacks. If the lusca subsequently uses the [Grab](/MonsterAbilities.aspx?ID=18) action, it Grabs any number of creatures it hit with Ravenous Jaws.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  jaws\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Huge, 4d12+9 bludgeoning, Rupture 38\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Blue Holes</title>\r\n\r\nLuscas frequently lurk in blue holes— marine sinkholes that descend far below the surrounding sea bottom and connect to flooded subterranean passages or deeper into the Darklands. For all their might, however, luscas don't dominate these lightless realms. Rather, they are but one of many types of crafty and titanic sea monsters, from the more-familiar [aboleths](/Monsters.aspx?ID=2) and [krakens](/Monsters.aspx?ID=275) to bizarre hybrids of whales, eels, and cuttlefish.\r\n</aside>",
+ "name": "Lusca",
+ "npc": false,
+ "perception": 31,
+ "rarity": "uncommon",
+ "reflex_save": 26,
+ "release_date": "2020-11-15",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #161: Belly of the Black Whale](/Sources.aspx?ID=51) pg. 83</row>\n\n<row gap=\"medium\">\r\n**HP** 320\r\n\r\n**AC** 40\r\n\r\n**Fort** +32\r\n\r\n**Ref** +26\r\n\r\n**Will** +29\r\n\r\n**Perception** +31\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA lusca is a predatory sea monster that resembles a three-headed shark with the body of an octopus. Ferocious electrical storms usually herald a …\r\n</summary>",
+ "sense": "blood scent,  darkvision ,  scent  (imprecise) 100 feet",
+ "sense_markdown": "blood scent, [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 100 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +34",
+  "Intimidation +30",
+  "Survival +31"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +34, [Intimidation](/Skills.aspx?ID=7) +30, [Survival](/Skills.aspx?ID=16) +31",
+ "source": [
+  "Pathfinder #161: Belly of the Black Whale"
+ ],
+ "source_raw": [
+  "Pathfinder #161: Belly of the Black Whale pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #161: Belly of the Black Whale](/Sources.aspx?ID=51) pg. 83</row>",
+ "speed": {
+  "land": 10,
+  "max": 50,
+  "swim": 50
+ },
+ "speed_markdown": "10 feet, swim 50 feet",
+ "speed_raw": "10 feet, swim 50 feet",
+ "spell": [
+  "Chain Lightning",
+  "Punishing Winds"
+ ],
+ "spell_markdown": "[Chain Lightning](/Spells.aspx?ID=33), [Punishing Winds](/Spells.aspx?ID=240)",
+ "spoilers": "Agents of Edgewatch",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A lusca is a predatory sea monster that resembles a three-headed shark with the body of an octopus. Ferocious electrical storms usually herald a …",
+ "summary_markdown": "A lusca is a predatory sea monster that resembles a three-headed shark with the body of an octopus. Ferocious electrical storms usually herald a …",
+ "text": " Lusca A lusca is a predatory sea monster that resembles a three-headed shark with the body of an octopus. Ferocious electrical storms usually herald a lusca's arrival; such violent bursts of electricity result from the creature's superconductive flesh, which allows the lusca to store energy from lightning strikes that it can then discharge at foes. Recall Knowledge - Aberration (Occultism): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Lusca Source Pathfinder #161: Belly of the Black Whale pg. 83 Perception +31; blood scent, darkvision, scent (imprecise) 100 feet Languages Aquan, Common Skills Athletics +34, Intimidation +30, Survival +31 Str +9 Dex +5 Con +9 Int +0 Wis +6 Cha +5 Blood Scent The lusca can smell blood in the water up to 1 mile away. --- AC 40 Fort +32 Ref +26 Will +29 HP 320 Immunities electricity All-Around Vision Storm Bringer (aura, evocation, primal) When the lusca is near the surface for more than 1 hour, clouds appear and deliver a thunderstorm with a 2-mile radius centered on its location. The weather returns to normal 1 hour after the lusca departs. Attack of Opportunity Reaction The lusca gains 2 extra reactions at the start of each of its turns that it can use only to make an Attack of Opportunity with its jaws. It can't use more than one Attack of Opportunity triggered by the same action. --- Speed 10 feet, swim 50 feet Melee Single Action jaws +35 (Magical, reach 20 feet), Damage 3d12+17 piercing plus Grab Melee Single Action tentacle +35 (Magical, reach 40 feet), Damage 3d10+17 bludgeoning plus lusca venom Primal Innate Spells DC 38 - 8th Punishing Winds (×3) - 9th Chain Lightning (×3) Capsize Single Action (Attack) The lusca tries to capsize an adjacent aquatic vessel of its size or smaller. It must succeed at an Athletics check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the lusca) or the pilot's Sailing Lore DC, whichever is higher. Lusca Venom (Poison) Saving Throw Fortitude DC 38; Maximum Duration 6 rounds; Stage 1 4d6 poison damage and clumsy 1 (1 round); Stage 2 6d6 poison damage and clumsy 2 (1 round) Ravenous Jaws Two Actions The lusca makes three jaws Strikes, each against a different target. These attacks count toward the lusca's multiple attack penalty, but the penalty doesn't increase until after the lusca makes all of these attacks. If the lusca subsequently uses the Grab action, it Grabs any number of creatures it hit with Ravenous Jaws. Rend Single Action jaws Swallow Whole Single Action (Attack) Huge, 4d12+9 bludgeoning, Rupture 38 Blue Holes Luscas frequently lurk in blue holes— marine sinkholes that descend far below the surrounding sea bottom and connect to flooded subterranean passages or deeper into the Darklands. For all their might, however, luscas don't dominate these lightless realms. Rather, they are but one of many types of crafty and titanic sea monsters, from the more-familiar aboleths and krakens to bizarre hybrids of whales, eels, and cuttlefish. ",
+ "trait": [
+  "Aberration",
+  "Aquatic",
+  "Uncommon",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Aquatic](/Traits.aspx?ID=168), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Aquatic",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1010",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 29,
+ "wisdom": 6
+}

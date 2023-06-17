@@ -1,0 +1,94 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 2,
+ "creature_ability": [
+  "Amphisbaena Venom",
+  "Blinding Spittle",
+  "Twin Bites"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 70,
+ "hp_raw": "70",
+ "id": "creature-1060",
+ "image": [
+  "/Images/Monsters/Amphisbaena.png"
+ ],
+ "immunity": [
+  "petrified"
+ ],
+ "immunity_markdown": "[petrified](/Conditions.aspx?ID=30)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Amphisbaena](/Monsters.aspx?ID=1060)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn amphisbaena is an exceedingly aggressive, venomous viper of remarkable size that bears two heads—one on each end of its body. It moves in a manner similar to that of the more common sidewinder snake, throwing its body forward in a loop and anchoring itself by keeping one head or the other on the ground at all times.\n\n Amphisbaenas' typical prey includes rabbits, foxes, various birds, small deer, and even humanoids if presented the opportunity. Fiercely territorial by nature, they attack just about anything that gets near their lairs, regardless of the intruder's size. Many a child has been warned about going too far into the woods alone, lest they wander too close to an amphisbaena den and become the creature's next meal.\n\n The venom of an amphisbaena is incredibly potent, able to take down a stout [dwarf](/Ancestries.aspx?ID=1) within minutes if left untreated. However, it also has uses in a variety of healing remedies, which makes it a valuable commodity if collected. For example, a pregnant person might be advised to drink the venom in small, dilute doses to help safeguard the pregnancy. Mixing small amounts of the venom with various herbs and oil creates a poultice which dulls aches and pains. As a result, the image of an amphisbaena appears in many contexts associated with healing and alchemical subjects, such as labels for tinctures, annotations in herbalists' records, and illustrations in textbooks of medicine.\n\n The first amphisbaena is said to have formed from the blood that fell as a [medusa's](/Monsters.aspx?ID=297) head was severed. This story's origin most likely stems from the fact that amphisbaenas are oddly immune to petrification, which in turn leads to them sometimes being kept as pets by a medusa. A medusa who keeps an amphisbaena as a pet might regard the viper as their most treasured companion or perhaps even as their own child. Despite these fabled supernatural origins and the occasional special treatment they receive, however, amphisbaenas are entirely mundane animals with only rudimentary intelligence and no innate magical abilities whatsoever.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Amphisbaena.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Amphisbaena](/Monsters.aspx?ID=1060)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 15</row>\n\n**Perception** +10; [tremorsense](/MonsterAbilities.aspx?ID=40) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -4\r\n\r\n**Wis** +0\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +10 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 70\n\n**Immunities**\r\n[petrified](/Conditions.aspx?ID=30)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet, swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +13,\r\n**Damage** 2d6+5 piercing plus amphisbaena venom\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspit +12 ([range increment 15 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d6 poison plus amphisbaena venom and blinding spittle\n\n**Amphisbaena Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 18 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [enfeebled 1](/Conditions.aspx?ID=13) (1 round); **Stage 2** 2d6 poison damage and enfeebled 2 and [slowed 1](/Conditions.aspx?ID=35) (1 round); **Stage 3** 3d6 poison damage and [paralyzed](/Conditions.aspx?ID=28) (1 round)\r\n\r\n**Blinding Spittle**   A creature critically hit by an amphisbaena's spit Strike is [blinded](/Conditions.aspx?ID=1) for 1 round.\r\n\r\n**Twin Bites** <actions string=\"Single Action\" />  An amphisbaena makes a fangs Strike with each of its heads, each against a different target. Both Strikes count toward its multiple attack penalty, but the penalty doesn't increase until after it has made both attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Amphisbaena Variants</title>\r\n\r\nWhile the two-headed snake is by far the most common amphisbaenas, the term sometimes describes other creatures with heads on both ends of their bodies. Occasionally stories circulate of a monstrous amphisbaena with the body of a lizard, clawed feet, or even feathered wings. These stories are typically chalked up to an overactive imagination or an abundance of drink, but they persist regardless.\r\n\r\n</aside>",
+ "name": "Amphisbaena",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 15</row>\n\n<row gap=\"medium\">\r\n**HP** 70\r\n\r\n**AC** 21\r\n\r\n**Fort** +10\r\n\r\n**Ref** +14\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn amphisbaena is an exceedingly aggressive, venomous viper of remarkable size that bears two heads—one on each end of its body. It moves in a manner …\r\n</summary>",
+ "sense": " tremorsense  60 feet",
+ "sense_markdown": "[tremorsense](/MonsterAbilities.aspx?ID=40) 60 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Athletics +13",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 15"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 15</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet, swim 25 feet",
+ "speed_raw": "25 feet, climb 25 feet, swim 25 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "An amphisbaena is an exceedingly aggressive, venomous viper of remarkable size that bears two heads—one on each end of its body. It moves in a manner …",
+ "summary_markdown": "An amphisbaena is an exceedingly aggressive, venomous viper of remarkable size that bears two heads—one on each end of its body. It moves in a manner …",
+ "text": " Amphisbaena An amphisbaena is an exceedingly aggressive, venomous viper of remarkable size that bears two heads—one on each end of its body. It moves in a manner similar to that of the more common sidewinder snake, throwing its body forward in a loop and anchoring itself by keeping one head or the other on the ground at all times. Amphisbaenas' typical prey includes rabbits, foxes, various birds, small deer, and even humanoids if presented the opportunity. Fiercely territorial by nature, they attack just about anything that gets near their lairs, regardless of the intruder's size. Many a child has been warned about going too far into the woods alone, lest they wander too close to an amphisbaena den and become the creature's next meal. The venom of an amphisbaena is incredibly potent, able to take down a stout dwarf within minutes if left untreated. However, it also has uses in a variety of healing remedies, which makes it a valuable commodity if collected. For example, a pregnant person might be advised to drink the venom in small, dilute doses to help safeguard the pregnancy. Mixing small amounts of the venom with various herbs and oil creates a poultice which dulls aches and pains. As a result, the image of an amphisbaena appears in many contexts associated with healing and alchemical subjects, such as labels for tinctures, annotations in herbalists' records, and illustrations in textbooks of medicine. The first amphisbaena is said to have formed from the blood that fell as a medusa's head was severed. This story's origin most likely stems from the fact that amphisbaenas are oddly immune to petrification, which in turn leads to them sometimes being kept as pets by a medusa. A medusa who keeps an amphisbaena as a pet might regard the viper as their most treasured companion or perhaps even as their own child. Despite these fabled supernatural origins and the occasional special treatment they receive, however, amphisbaenas are entirely mundane animals with only rudimentary intelligence and no innate magical abilities whatsoever. Recall Knowledge - Animal (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Amphisbaena Source Bestiary 3 pg. 15 Perception +10; tremorsense 60 feet Languages Skills Acrobatics +10, Athletics +13, Stealth +12 Str +5 Dex +4 Con +2 Int -4 Wis +0 Cha -4 --- AC 21 all-around vision Fort +10 Ref +14 Will +8 HP 70 Immunities petrified --- Speed 25 feet, climb 25 feet, swim 25 feet Melee Single Action fangs +13, Damage 2d6+5 piercing plus amphisbaena venom Ranged Single Action spit +12 (range increment 15 feet), Damage 1d6 poison plus amphisbaena venom and blinding spittle Amphisbaena Venom (Poison) Saving Throw DC 18 Fortitude; Maximum Duration 6 rounds; Stage 1 1d6 poison damage and enfeebled 1 (1 round); Stage 2 2d6 poison damage and enfeebled 2 and slowed 1 (1 round); Stage 3 3d6 poison damage and paralyzed (1 round) Blinding Spittle A creature critically hit by an amphisbaena's spit Strike is blinded for 1 round. Twin Bites Single Action An amphisbaena makes a fangs Strike with each of its heads, each against a different target. Both Strikes count toward its multiple attack penalty, but the penalty doesn't increase until after it has made both attacks. Amphisbaena Variants While the two-headed snake is by far the most common amphisbaenas, the term sometimes describes other creatures with heads on both ends of their bodies. Occasionally stories circulate of a monstrous amphisbaena with the body of a lizard, clawed feet, or even feathered wings. These stories are typically chalked up to an overactive imagination or an abundance of drink, but they persist regardless. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1060",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 0
+}

@@ -1,0 +1,42 @@
+{
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Survival  DC 18 (trained) to disturb the surface",
+ "exclude_from_search": false,
+ "hazard_type": "Environmental",
+ "id": "hazard-22",
+ "level": 3,
+ "markdown": "<title level=\"1\" right=\"Hazard 3\" pfs=\"\">[Quicksand](/Hazards.aspx?ID=22)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 526 <sup>4.0</sup></row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA 15-foot-wide patch of water and sand attempts to submerge creatures that step onto it.\r\n\r\n---\r\n\r\n**Stealth**\r\n+12 (trained) (or –10 and no minimum proficiency if the surface is disturbed)\r\n\r\n**Disable**\r\n[Survival](/Skills.aspx?ID=16) DC 18 (trained) to disturb the surface\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Submerge** <actions string=\"Free Action\" /> **Trigger** A Huge or smaller creature walks onto the quicksand. **Effect** The triggering creature sinks into the quicksand up to its waist. The quicksand rolls initiative if it hasn’t already.\n\n---\r\n**Routine**\r\n(1 action) On its initiative, the quicksand pulls down each creature within it. A creature that was submerged up to its waist becomes submerged up to its neck, and a creature that was submerged up to its neck is pulled under and has to hold its breath to avoid [suffocation](/Rules.aspx?ID=468).\n\n A creature in the quicksand can attempt a DC 20 [Athletics](/Skills.aspx?ID=3) check to [Swim](/Actions.aspx?ID=39) to either raise itself by one step if it’s submerged to its neck or worse, or to move 5 feet if it’s submerged only up to its waist. On a critical failure, the creature is pulled down one step. A creature that Swims out of the quicksand escapes the hazard and is [prone](/Conditions.aspx?ID=31) in a space adjacent to the quicksand patch. Other creatures can [Aid](/Actions.aspx?ID=75) the creature, typically by using a rope or similar aid, or attempt to pull the creature out with their own DC 20 Athletics check, with the same results as if the creature attempted the check.\r\n\r\n---\r\n**Reset**\r\nThe hazard still submerges anyone who walks in, but the surface doesn’t become hidden again until it settles over the course of 24 hours.",
+ "name": "Quicksand",
+ "rarity": "common",
+ "release_date": "2019-08-01",
+ "reset": "The hazard still submerges anyone who walks in, but the surface doesn’t become hidden again until it settles over the course of 24 hours.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 526 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA 15-foot-wide patch of water and sand attempts to submerge creatures that step onto it.\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 526"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 526 <sup>4.0</sup></row>",
+ "speed": {},
+ "stealth": "+12 (trained) (or –10 and no minimum proficiency if the surface is disturbed)",
+ "summary": "A 15-foot-wide patch of water and sand attempts to submerge creatures that step onto it.",
+ "summary_markdown": "A 15-foot-wide patch of water and sand attempts to submerge creatures that step onto it.",
+ "text": " Quicksand Source Core Rulebook pg. 526 4.0 Complexity Complex A 15-foot-wide patch of water and sand attempts to submerge creatures that step onto it. --- Stealth +12 (trained) (or –10 and no minimum proficiency if the surface is disturbed) Disable Survival DC 18 (trained) to disturb the surface Submerge Free Action Trigger A Huge or smaller creature walks onto the quicksand. Effect The triggering creature sinks into the quicksand up to its waist. The quicksand rolls initiative if it hasn’t already. --- Routine (1 action) On its initiative, the quicksand pulls down each creature within it. A creature that was submerged up to its waist becomes submerged up to its neck, and a creature that was submerged up to its neck is pulled under and has to hold its breath to avoid suffocation. A creature in the quicksand can attempt a DC 20 Athletics check to Swim to either raise itself by one step if it’s submerged to its neck or worse, or to move 5 feet if it’s submerged only up to its waist. On a critical failure, the creature is pulled down one step. A creature that Swims out of the quicksand escapes the hazard and is prone in a space adjacent to the quicksand patch. Other creatures can Aid the creature, typically by using a rope or similar aid, or attempt to pull the creature out with their own DC 20 Athletics check, with the same results as if the creature attempted the check. --- Reset The hazard still submerges anyone who walks in, but the surface doesn’t become hidden again until it settles over the course of 24 hours.",
+ "trait": [
+  "Complex",
+  "Environmental"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Environmental](/Traits.aspx?ID=62)",
+ "trait_raw": [
+  "Complex",
+  "Environmental"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=22",
+ "weakness": {}
+}

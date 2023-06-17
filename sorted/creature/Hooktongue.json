@@ -1,0 +1,102 @@
+{
+ "ac": 35,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Slow Metabolism",
+  "Undetectable",
+  "Capsize",
+  "Hooktongue Venom",
+  "Swallow Whole",
+  "Poison Spray",
+  "Water Travel"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 275,
+ "hp_raw": "275",
+ "id": "creature-2239",
+ "intelligence": -3,
+ "language": [
+  "Aquan",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14); (can't speak any language)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Hooktongue](/Monsters.aspx?ID=2239)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 42\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 40\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 37\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Hooktongue](/Monsters.aspx?ID=2239)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 97</row>\n\n**Perception** +25; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +28, [Stealth](/Skills.aspx?ID=15) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +5\r\n\r\n**Con** +5\r\n\r\n**Int** -3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Slow Metabolism** Hooktongue can go for 10 years without feeding. After this, its hunger makes it [slowed 1](/Conditions.aspx?ID=35) but doesn't otherwise impact its lifespan. If Hooktongue is slowed as a result of starvation, it can remove this condition by using Swallow Whole to gulp down a meal.<br />**Undetectable** ([abjuration](/Traits.aspx?ID=2), [primal](/Traits.aspx?ID=134)) Hooktongue automatically tries to counteract any [detection](/Traits.aspx?ID=43), [revelation](/Traits.aspx?ID=138), or [scrying](/Traits.aspx?ID=141) [divination](/Traits.aspx?ID=47) attempted against it, using its [Stealth](/Skills.aspx?ID=15) modifier for the [counteract](/Rules.aspx?ID=371) check.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 275\n\n**Resistances**\r\n[cold](/Traits.aspx?ID=27) 15, [fire](/Traits.aspx?ID=72) 15\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +30 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+14 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntongue +30 ([Agile](/Traits.aspx?ID=170), [reach 25 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+14 piercing plus Hooktongue Venom\n\n**Capsize** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Hooktongue attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an [Athletics](/Skills.aspx?ID=3) check with a DC of 35 or the pilot's [Sailing Lore](/Skills.aspx?ID=8) DC, whichever is higher.\r\n\r\n**Hooktongue Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 34; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [clumsy 1](/Conditions.aspx?ID=3) (1 round); **Stage 2** 3d6 poison damage, clumsy 1, and [confused](/Conditions.aspx?ID=5) (1 round); **Stage 3** 4d6 poison damage, clumsy 2, and confused (1 round)\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 2d10+10 bludgeoning, Rupture 28\r\n\r\n**Poison Spray** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Poison](/Traits.aspx?ID=126), [Primal](/Traits.aspx?ID=134)) Hooktongue sprays poison from its throat in an 80-foot line that deals 15d6 poison damage (DC 34 [basic](/Rules.aspx?ID=329) Reflex save). A creature that fails or critically fails this save is exposed to Hooktongue Venom as well. Hooktongue can't use Poison Spray again for 1d4 rounds.\r\n\r\n**Water Travel** <actions string=\"Three Actions\" /> ([Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157), [Water](/Traits.aspx?ID=165)) Hooktongue dissolves into water, appearing only as a long, serpentine silhouette on the waves. While in this form, Hooktongue's swim Speed increases to 600 feet, it automatically succeeds at [Athletics](/Skills.aspx?ID=3) checks to Swim, and it gains a +4 circumstance bonus to [Stealth](/Skills.aspx?ID=15) checks in water. Hooktongue can remain in this form for 8 hours but can't enter salt water when using this ability. Hooktongue can return to its normal form using a single action, which has the [concentrate](/Traits.aspx?ID=32) trait.\r\n\r\n</column>",
+ "name": "Hooktongue",
+ "npc": false,
+ "perception": 25,
+ "rarity": "unique",
+ "reflex_save": 25,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "cold": 15,
+  "fire": 15
+ },
+ "resistance_markdown": "[cold](/Traits.aspx?ID=27) 15, [fire](/Traits.aspx?ID=72) 15",
+ "resistance_raw": " cold  15,  fire  15",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 97</row>\n\n<row gap=\"medium\">\r\n**HP** 275\r\n\r\n**AC** 35\r\n\r\n**Fort** +27\r\n\r\n**Ref** +25\r\n\r\n**Will** +23\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +28",
+  "Stealth +27"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +28, [Stealth](/Skills.aspx?ID=15) +27",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 97"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 97</row>",
+ "speed": {
+  "land": 20,
+  "max": 50,
+  "swim": 50
+ },
+ "speed_markdown": "20 feet, swim 50 feet",
+ "speed_raw": "20 feet, swim 50 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "27",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Hooktongue Recall Knowledge - Animal (Nature): DC 42 Unspecific Lore : DC 40 Specific Lore : DC 37 Hooktongue Source Kingmaker Adventure Path pg. 97 Perception +25; darkvision Languages Aquan; (can't speak any language) Skills Athletics +28, Stealth +27 Str +8 Dex +5 Con +5 Int -3 Wis +5 Cha +0 Slow Metabolism Hooktongue can go for 10 years without feeding. After this, its hunger makes it slowed 1 but doesn't otherwise impact its lifespan. If Hooktongue is slowed as a result of starvation, it can remove this condition by using Swallow Whole to gulp down a meal. Undetectable (abjuration, primal) Hooktongue automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its Stealth modifier for the counteract check. --- AC 35 Fort +27 Ref +25 Will +23 HP 275 Resistances cold 15, fire 15 --- Speed 20 feet, swim 50 feet Melee Single Action jaws +30 (reach 15 feet), Damage 3d12+14 piercing plus Grab Melee Single Action tongue +30 (Agile, reach 25 feet), Damage 3d8+14 piercing plus Hooktongue Venom Capsize Single Action (Attack) Hooktongue attempts to capsize an aquatic vessel of its size or smaller that it's adjacent to. It must succeed at an Athletics check with a DC of 35 or the pilot's Sailing Lore DC, whichever is higher. Hooktongue Venom (Poison) Saving Throw Fortitude DC 34; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and clumsy 1 (1 round); Stage 2 3d6 poison damage, clumsy 1, and confused (1 round); Stage 3 4d6 poison damage, clumsy 2, and confused (1 round) Swallow Whole Single Action (Attack) Large, 2d10+10 bludgeoning, Rupture 28 Poison Spray Two Actions (Evocation, Poison, Primal) Hooktongue sprays poison from its throat in an 80-foot line that deals 15d6 poison damage (DC 34 basic Reflex save). A creature that fails or critically fails this save is exposed to Hooktongue Venom as well. Hooktongue can't use Poison Spray again for 1d4 rounds. Water Travel Three Actions (Primal, Transmutation, Water) Hooktongue dissolves into water, appearing only as a long, serpentine silhouette on the waves. While in this form, Hooktongue's swim Speed increases to 600 feet, it automatically succeeds at Athletics checks to Swim, and it gains a +4 circumstance bonus to Stealth checks in water. Hooktongue can remain in this form for 8 hours but can't enter salt water when using this ability. Hooktongue can return to its normal form using a single action, which has the concentrate trait. ",
+ "trait": [
+  "Amphibious",
+  "Animal",
+  "Unique",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Animal](/Traits.aspx?ID=9), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Amphibious",
+  "Animal",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2239",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": 5
+}

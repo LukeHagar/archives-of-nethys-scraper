@@ -1,0 +1,119 @@
+{
+ "ac": 22,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 1,
+ "creature_ability": [
+  "Deceptive Reposition",
+  "Maintain Disguise",
+  "Serpentfolk Venom",
+  "Sneak Attack"
+ ],
+ "creature_family": "Serpentfolk",
+ "creature_family_markdown": "[Serpentfolk](/MonsterFamilies.aspx?ID=151)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 48,
+ "hp_raw": "48",
+ "id": "creature-800",
+ "image": [
+  "/Images/Monsters/Serpentfolk_CoilSpy.png"
+ ],
+ "intelligence": 4,
+ "language": [
+  "Aklo",
+  "Common",
+  "Dwarven",
+  "Gnomish",
+  "Undercommon",
+  "<%UMR%37%%>telepathy 100 feet<%END>"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Dwarven](/Languages.aspx?ID=3), [Gnomish](/Languages.aspx?ID=5), [Undercommon](/Languages.aspx?ID=11); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Coil Spy](/Monsters.aspx?ID=800)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSome serpentfolk undergo intense ritual training and practice to improve their innate ability to disguise themselves. These serpentfolk often identify as members of a sinister society known as the Coils of [Ydersius](/Deities.aspx?ID=211), and the most devoted of their number seek out methods of reincarnating into new forms to even more efficiently infiltrate enemy societies. But before such agents take this extreme step, they must prove themselves as Coil spies. These serpentfolk train in methods of infiltrating other societies to such an extent that they might be capable of infiltrating a mammalian civilization for years. Though they're expected to work entirely toward the eventual triumph of their people, most Coil spies also find personal pursuits to keep them occupied in the shorter term. When Coil spies get caught, it's rarely due to a lack of pure skill, but rather to their arrogance or recklessness as they pursue their hedonistic desires.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Serpentfolk_CoilSpy.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Coil Spy](/Monsters.aspx?ID=800)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Serpentfolk\" url=\"/Traits.aspx?ID=307\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 238 <sup>2.0</sup></row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Dwarven](/Languages.aspx?ID=3), [Gnomish](/Languages.aspx?ID=5), [Undercommon](/Languages.aspx?ID=11); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +11, [Intimidation](/Skills.aspx?ID=7) +11, [Occultism](/Skills.aspx?ID=11) +10, [Society](/Skills.aspx?ID=14) +10, [Stealth](/Skills.aspx?ID=15) +12, [Thievery](/Skills.aspx?ID=17) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** +4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +5\r\n</row>\n\n**Items**\r\n[Hand Crossbow](/Weapons.aspx?ID=69) (20 bolts), [Hunting Spider Venom](/Equipment.aspx?ID=118) (2), [Shortsword](/Weapons.aspx?ID=43), [Thieves' Tools](/Equipment.aspx?ID=58)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +10 (+4 status vs. [mental](/Traits.aspx?ID=106))\r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 48\n\n**Resistances**\r\npoison 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +14 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+5 piercing plus serpentfolk venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +14 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+5 piercing plus serpentfolk venom\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhand crossbow +10 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+3 piercing plus serpentfolk venom or [hunting spider venom](/Equipment.aspx?ID=118)\r\n\r\n**Occult Innate Spells** DC 21\r\n- **1st**\r\n[Ventriloquism](/Spells.aspx?ID=356) (at will)\r\n- **2nd**\r\n[Mirror Image](/Spells.aspx?ID=197) (at will)\r\n- **3rd**\r\n[Illusory Disguise](/Spells.aspx?ID=159) (at will)\r\n- **4th**\r\n[Suggestion](/Spells.aspx?ID=315)\r\n\r\n**Deceptive Reposition** <actions string=\"Single Action\" />  The Coil spy Strides up to half their Speed and attempts a [Feint](/Actions.aspx?ID=48), in either order.\r\n\r\n**Maintain Disguise**   A Coil spy can maintain an ongoing illusory disguise as long as they are conscious without having to re-cast the spell; they need only Cast the Spell again to reassume their illusory disguise if they wish to change their appearance or if the active spell is dispelled. Coil spies typically seek privacy when they need to sleep, as an ongoing illusory disguise ends an hour after they fall [unconscious](/Conditions.aspx?ID=38).\r\n\r\n**Serpentfolk Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 19 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage and [enfeebled 1](/Conditions.aspx?ID=13) (1 round); **Stage 2** 2d4 poison damage and enfeebled 1 (1 round)\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The Coil spy's Strikes deal an extra 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-151\" />",
+ "name": "Coil Spy",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 12,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "poison": 5
+ },
+ "resistance_markdown": "poison 5",
+ "resistance_raw": "poison 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Serpentfolk\" url=\"/Traits.aspx?ID=307\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 238 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Serpentfolk](/MonsterFamilies.aspx?ID=151)\r\n\r\n<row gap=\"medium\">\r\n**HP** 48\r\n\r\n**AC** 22\r\n\r\n**Fort** +9\r\n\r\n**Ref** +12\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome serpentfolk undergo intense ritual training and practice to improve their innate ability to disguise themselves. These serpentfolk often …\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Deception +13",
+  "Diplomacy +11",
+  "Intimidation +11",
+  "Occultism +10",
+  "Society +10",
+  "Stealth +12",
+  "Thievery +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +11, [Intimidation](/Skills.aspx?ID=7) +11, [Occultism](/Skills.aspx?ID=11) +10, [Society](/Skills.aspx?ID=14) +10, [Stealth](/Skills.aspx?ID=15) +12, [Thievery](/Skills.aspx?ID=17) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 238"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 238 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Suggestion",
+  "Illusory Disguise",
+  "Mirror Image",
+  "Ventriloquism"
+ ],
+ "spell_markdown": "[Illusory Disguise](/Spells.aspx?ID=159), [Mirror Image](/Spells.aspx?ID=197), [Suggestion](/Spells.aspx?ID=315), [Ventriloquism](/Spells.aspx?ID=356)",
+ "stealth": "12",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Some serpentfolk undergo intense ritual training and practice to improve their innate ability to disguise themselves. These serpentfolk often …",
+ "summary_markdown": "Some serpentfolk undergo intense ritual training and practice to improve their innate ability to disguise themselves. These serpentfolk often …",
+ "text": " Coil Spy Some serpentfolk undergo intense ritual training and practice to improve their innate ability to disguise themselves. These serpentfolk often identify as members of a sinister society known as the Coils of Ydersius, and the most devoted of their number seek out methods of reincarnating into new forms to even more efficiently infiltrate enemy societies. But before such agents take this extreme step, they must prove themselves as Coil spies. These serpentfolk train in methods of infiltrating other societies to such an extent that they might be capable of infiltrating a mammalian civilization for years. Though they're expected to work entirely toward the eventual triumph of their people, most Coil spies also find personal pursuits to keep them occupied in the shorter term. When Coil spies get caught, it's rarely due to a lack of pure skill, but rather to their arrogance or recklessness as they pursue their hedonistic desires. Recall Knowledge - Humanoid (Society): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Coil Spy Source Bestiary 2 pg. 238 2.0 Perception +10; darkvision, scent (imprecise) 30 feet Languages Aklo, Common, Dwarven, Gnomish, Undercommon; telepathy 100 feet Skills Acrobatics +10, Deception +13, Diplomacy +11, Intimidation +11, Occultism +10, Society +10, Stealth +12, Thievery +12 Str +2 Dex +4 Con +1 Int +4 Wis +2 Cha +5 Items Hand Crossbow (20 bolts), Hunting Spider Venom (2), Shortsword, Thieves' Tools --- AC 22 Fort +9 Ref +12 Will +10 (+4 status vs. mental) +1 status to all saves vs. magic HP 48 Resistances poison 5 --- Speed 25 feet Melee Single Action shortsword +14 (Agile, Finesse, versatile S), Damage 1d6+5 piercing plus serpentfolk venom Melee Single Action fangs +14 (Finesse), Damage 1d6+5 piercing plus serpentfolk venom Ranged Single Action hand crossbow +10 (range increment 60 feet, reload 1), Damage 1d6+3 piercing plus serpentfolk venom or hunting spider venom Occult Innate Spells DC 21 - 1st Ventriloquism (at will) - 2nd Mirror Image (at will) - 3rd Illusory Disguise (at will) - 4th Suggestion Deceptive Reposition Single Action The Coil spy Strides up to half their Speed and attempts a Feint, in either order. Maintain Disguise A Coil spy can maintain an ongoing illusory disguise as long as they are conscious without having to re-cast the spell; they need only Cast the Spell again to reassume their illusory disguise if they wish to change their appearance or if the active spell is dispelled. Coil spies typically seek privacy when they need to sleep, as an ongoing illusory disguise ends an hour after they fall unconscious. Serpentfolk Venom (Poison) Saving Throw DC 19 Fortitude; Maximum Duration 6 rounds; Stage 1 1d4 poison damage and enfeebled 1 (1 round); Stage 2 2d4 poison damage and enfeebled 1 (1 round) Sneak Attack The Coil spy's Strikes deal an extra 2d6 precision damage to flat-footed creatures. ",
+ "trait": [
+  "Humanoid",
+  "Serpentfolk",
+  "Uncommon",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Serpentfolk](/Traits.aspx?ID=307), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Serpentfolk",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=800",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

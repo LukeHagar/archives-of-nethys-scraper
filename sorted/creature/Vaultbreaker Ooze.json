@@ -1,0 +1,103 @@
+{
+ "ac": 13,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 7,
+ "creature_ability": [
+  "Motion Sense",
+  "Treasure Sense",
+  "Metallify",
+  "Engulf",
+  "Form Tool"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 150,
+ "hp_raw": "150",
+ "id": "creature-997",
+ "image": [
+  "/Images/Monsters/Ooze_VaultbreakerOoze.png"
+ ],
+ "immunity": [
+  "acid",
+  "critical hits",
+  "mental",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "[acid](/Traits.aspx?ID=3), critical hits, [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"\">[Vaultbreaker Ooze](/Monsters.aspx?ID=997)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThough many oozes hunt among the dreary confines of underground caverns, dungeons, and abandoned ruins, others seek to quell their hunger in areas well-trafficked by civilized creatures. The aptly named vaultbreaker oozes exhibit a mindless compulsion to feed on and digest precious metals. When near precious metals, the ichor exuded from their metallic plasm tarnishes black and forms small, jagged crystals that dot the oozes' surface. Like a strange biological compass, these crystals point vaultbreaker oozes to their next meal.\n\n Though mindless, these strange oozes exhibit an innate instinct for picking and bypassing locks to reach their meals by inserting a gelatinous pseudopod into a keyhole and then hardening the appendage into solid metal, forming a tool similar to a skeleton key.\n\n Vaultbreaker oozes can often be found in cities where tectonic instability has created fissures and cracks, allowing them to infiltrate basements, vaults, and underground chambers that may contain treasure. When rumors of vaultbreaker ooze sightings surface, banker consortiums, Abadaran priests, and even local thieves guilds offer hefty sums to have the dangerous oozes destroyed—though some might instead offer a bounty for their capture.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ooze_VaultbreakerOoze.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Vaultbreaker Ooze](/Monsters.aspx?ID=997)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 87</row>\n\n**Perception** +10; motion sense 60 feet, treasure sense (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Thievery](/Skills.aspx?ID=17) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +7\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A vaultbreaker ooze can sense nearby motion through vibration and air movement.<br />**Treasure Sense** The vaultbreaker ooze's metallic plasm alerts it to the presence of metals with the [precious](/Traits.aspx?ID=131) trait (including gold and platinum) within 30 feet.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 13 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 150\n\n**Immunities**\r\n[acid](/Traits.aspx?ID=3), critical hits, [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Metallify** <actions string=\"Reaction\" /> ([manipulate](/Traits.aspx?ID=104), [polymorph](/Traits.aspx?ID=127), [transmutation](/Traits.aspx?ID=157)) **Trigger** A creature Strikes the vaultbreaker ooze; **Effect** The ooze's outer plasm hardens into a protective shell of precious metals. Until the start of its next turn, it gains resistance 5 to physical damage (except [adamantine](/Equipment.aspx?ID=374)), it has a –5-foot penalty to its Speed, and its pseudopod Strikes gain the [versatile S or P](/Traits.aspx?ID=200) weapon trait.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +17,\r\n**Damage** 1d8+8 bludgeoning plus 2d6 acid\n\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Two Actions\" />  DC 23, 2d8+9 acid, [Escape](/Actions.aspx?ID=79) DC 23, Rupture 14 (19 when using Metallify)\r\n\r\n**Form Tool** <actions string=\"Two Actions\" /> ([Manipulate](/Traits.aspx?ID=104), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The vaultbreaker ooze instinctually shapes its pseudopod into a key, lockpick, or tool required to bypass a locking mechanism; it uses this pseudopod as [thieves' tools](/Equipment.aspx?ID=58) to [Pick a Lock](/Actions.aspx?ID=70) or [Disable a Device](/Actions.aspx?ID=69).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Tracking a Vaultbreaker Ooze</title>\r\n\r\nA vaultbreaker ooze that has recently fed on precious metals leaves behind a faint trail of smeared, molten leaf of what it ingested (often gold or silver). A character who succeeds at a DC 23 Perception check can detect the strange trail, though following the ooze using this residue requires a successful DC 26 [Survival](/Skills.aspx?ID=16) check to [Track](/Actions.aspx?ID=66). A trail of metal leaf left by a vaultbreaker ooze flakes away after 1d4 days. \r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Vaultbreaker Ooze",
+ "npc": false,
+ "perception": 10,
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2020-08-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 87</row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 150\r\n\r\n**AC** 13\r\n\r\n**Fort** +17\r\n\r\n**Ref** +10\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThough many oozes hunt among the dreary confines of underground caverns, dungeons, and abandoned ruins, others seek to quell their hunger in areas …\r\n</summary>",
+ "sense": "motion sense 60 feet, treasure sense (imprecise) 30 feet",
+ "sense_markdown": "motion sense 60 feet, treasure sense (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Thievery +17"
+ ],
+ "skill_markdown": "[Thievery](/Skills.aspx?ID=17) +17",
+ "source": [
+  "Pathfinder #158: Sixty Feet Under"
+ ],
+ "source_raw": [
+  "Pathfinder #158: Sixty Feet Under pg. 87"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 87</row>",
+ "speed": {
+  "climb": 10,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 10 feet",
+ "speed_raw": "20 feet, climb 10 feet",
+ "spell_markdown": "",
+ "spoilers": "Agents of Edgewatch",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Though many oozes hunt among the dreary confines of underground caverns, dungeons, and abandoned ruins, others seek to quell their hunger in areas …",
+ "summary_markdown": "Though many oozes hunt among the dreary confines of underground caverns, dungeons, and abandoned ruins, others seek to quell their hunger in areas …",
+ "text": " Vaultbreaker Ooze Though many oozes hunt among the dreary confines of underground caverns, dungeons, and abandoned ruins, others seek to quell their hunger in areas well-trafficked by civilized creatures. The aptly named vaultbreaker oozes exhibit a mindless compulsion to feed on and digest precious metals. When near precious metals, the ichor exuded from their metallic plasm tarnishes black and forms small, jagged crystals that dot the oozes' surface. Like a strange biological compass, these crystals point vaultbreaker oozes to their next meal. Though mindless, these strange oozes exhibit an innate instinct for picking and bypassing locks to reach their meals by inserting a gelatinous pseudopod into a keyhole and then hardening the appendage into solid metal, forming a tool similar to a skeleton key. Vaultbreaker oozes can often be found in cities where tectonic instability has created fissures and cracks, allowing them to infiltrate basements, vaults, and underground chambers that may contain treasure. When rumors of vaultbreaker ooze sightings surface, banker consortiums, Abadaran priests, and even local thieves guilds offer hefty sums to have the dangerous oozes destroyed—though some might instead offer a bounty for their capture. Recall Knowledge - Ooze (Occultism): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Vaultbreaker Ooze Source Pathfinder #158: Sixty Feet Under pg. 87 Perception +10; motion sense 60 feet, treasure sense (imprecise) 30 feet Languages Skills Thievery +17 Str +4 Dex +2 Con +7 Int -5 Wis +0 Cha -5 Motion Sense A vaultbreaker ooze can sense nearby motion through vibration and air movement. Treasure Sense The vaultbreaker ooze's metallic plasm alerts it to the presence of metals with the precious trait (including gold and platinum) within 30 feet. --- AC 13 Fort +17 Ref +10 Will +8 HP 150 Immunities acid, critical hits, mental, precision, unconscious, visual Metallify Reaction (manipulate, polymorph, transmutation) Trigger A creature Strikes the vaultbreaker ooze; Effect The ooze's outer plasm hardens into a protective shell of precious metals. Until the start of its next turn, it gains resistance 5 to physical damage (except adamantine), it has a –5-foot penalty to its Speed, and its pseudopod Strikes gain the versatile S or P weapon trait. --- Speed 20 feet, climb 10 feet Melee Single Action pseudopod +17, Damage 1d8+8 bludgeoning plus 2d6 acid Engulf Two Actions DC 23, 2d8+9 acid, Escape DC 23, Rupture 14 (19 when using Metallify) Form Tool Two Actions (Manipulate, Polymorph, Transmutation) The vaultbreaker ooze instinctually shapes its pseudopod into a key, lockpick, or tool required to bypass a locking mechanism; it uses this pseudopod as thieves' tools to Pick a Lock or Disable a Device. Tracking a Vaultbreaker Ooze A vaultbreaker ooze that has recently fed on precious metals leaves behind a faint trail of smeared, molten leaf of what it ingested (often gold or silver). A character who succeeds at a DC 23 Perception check can detect the strange trail, though following the ooze using this residue requires a successful DC 26 Survival check to Track. A trail of metal leaf left by a vaultbreaker ooze flakes away after 1d4 days. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=997",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 0
+}

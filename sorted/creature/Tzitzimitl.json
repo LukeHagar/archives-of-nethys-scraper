@@ -1,0 +1,114 @@
+{
+ "ac": 43,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 8,
+ "constitution": 6,
+ "creature_ability": [
+  "Immunities",
+  "Weaknesses",
+  "Light to Dark",
+  "Drain Life",
+  "Eclipse"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 390,
+ "hp_raw": "390 ( fast healing  15,  negative healing )",
+ "id": "creature-1353",
+ "image": [
+  "/Images/Monsters/Tzitzimitl.png"
+ ],
+ "intelligence": 5,
+ "language": [
+  "Abyssal",
+  "Aklo",
+  "Celestial",
+  "Common"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Aklo](/Languages.aspx?ID=13), [Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1)",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tzitzimitl](/Monsters.aspx?ID=1353)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDue to their affinity for darkness and apocalyptic terror, tzitzimitls are widely feared as harbingers of death and destruction. A solar eclipse marks their arrivals, and they draw strange powers of darkness and electricity from these phenomena. Some sages believe tzitzimitls to be instruments of the gods, called down to destroy worlds whose times have come, while others claim they're the undead remains of stranded exiles from a far-off civilization of spacefaring giants. The legends that include them are ancient and fragmented, but some tell of tzitzimitls being defeated by great heroes and sealed away—though these tales imply that the enormous undead now lie buried and waiting, soon to rampage again should their tombs be breached.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Tzitzimitl.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Tzitzimitl](/Monsters.aspx?ID=1353)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 279, [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 82</row>\n\n**Perception** +32; [darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Aklo](/Languages.aspx?ID=13), [Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +33, [Arcana](/Skills.aspx?ID=2) +37, [Athletics](/Skills.aspx?ID=3) +33, [Nature](/Skills.aspx?ID=10) +37, [Occultism](/Skills.aspx?ID=11) +37, [Religion](/Skills.aspx?ID=13) +40\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +8\r\n\r\n**Con** +6\r\n\r\n**Int** +5\r\n\r\n**Wis** +7\r\n\r\n**Cha** +8\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 43 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +32 \r\n\r\n**Will** +35 \n\n</row>\r\n\r\n**HP** 390\r\n([fast healing](/MonsterAbilities.aspx?ID=15) 15, [negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities** [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), electricity, [negative](/Traits.aspx?ID=118), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38) **Weaknesses** good 15; Resistances cold 15, physical 15 (except bludgeoning)<br />**Light to Dark** <actions string=\"Reaction\" /> ([divine](/Traits.aspx?ID=48), [negative](/Traits.aspx?ID=118)) **Trigger** A creature uses an ability or spell with the [positive](/Traits.aspx?ID=128) trait within 120 feet of the tzitzimitl; **Effect** The tzitzimitl inverts the energy used in the triggering ability or spell, causing it to lose the positive trait and gain the [negative](/Traits.aspx?ID=118) trait, and changing all instances of positive energy or healing in the ability's description to negative energy.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +34 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+10 slashing plus 3d8 electricity and drain life\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\neye beam +34 ([range 100 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d12 electricity plus 10d6 force\r\n\r\n**Occult Innate Spells** DC 38\r\n- **Cantrips (9th)**\r\n[Detect Magic](/Spells.aspx?ID=66)\r\n- **3rd**\r\n[Haste](/Spells.aspx?ID=147) (×3)\r\n- **4th**\r\n[Darkness](/Spells.aspx?ID=59) (×3)\r\n- **5th**\r\n[Abyssal Plague](/Spells.aspx?ID=1)\r\n- **7th**\r\n[Eclipse Burst](/Spells.aspx?ID=96), [Teleport](/Spells.aspx?ID=338) (×3)\r\n- **9th**\r\n[Darkness](/Spells.aspx?ID=59) (×3), [Teleport](/Spells.aspx?ID=338), [Wail of the Banshee](/Spells.aspx?ID=361)\r\n- **Constant (6th)**\r\n[True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Rituals** DC 38\r\n\r\n- **9th**\r\n[Create Undead](/Rituals.aspx?ID=10), [Imprisonment](/Rituals.aspx?ID=13)\r\n\r\n**Drain Life**   When a tzitzimitl's claw Strike deals damages to a living creature, the tzitzimitl gains 20 temporary Hit Points, and the target must succeed at a DC 41 Fortitude save or become [drained 2](/Conditions.aspx?ID=10). Further damage dealt by a tzitzimitl's claw Strike increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4.\r\n\r\n**Eclipse** <actions string=\"Two Actions\" /> ([Cold](/Traits.aspx?ID=27), [Occult](/Traits.aspx?ID=120)) **Effect** The tzitzimitl casts [_darkness_](/Spells.aspx?ID=59) and drains the heat and warmth from the darkness spell's area, and each creature within the spell's area must attempt a DC 41 Fortitude save. <br />**Critical Success** The creature takes 4d8 cold damage. <br />**Success** The creature takes 8d8 cold damage and is [slowed 1](/Conditions.aspx?ID=35) for 1 round. <br />**Failure** The creature takes 16d8 cold damage and is slowed 1 for 1 minute. <br />**Critical Failure** The creature takes 16d8 cold damage, is slowed 2 for 1 minute, and is [doomed 1](/Conditions.aspx?ID=9).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Harbingers of the End</title>\r\n\r\nA tzitzimitl's arrival in a region often precedes a deadly disaster or apocalyptic event. It isn't known whether the tzitzimitl accompanies an event already fated to occur or if the undead causes such events through their own strange magic.\r\n</aside>",
+ "name": "Tzitzimitl",
+ "npc": false,
+ "perception": 32,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 32,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Bestiary 3](/Sources.aspx?ID=66) pg. 279, [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 82</row>\n\n<row gap=\"medium\">\r\n**HP** 390 ( fast healing  15,  negative healing )\r\n\r\n**AC** 43\r\n\r\n**Fort** +29\r\n\r\n**Ref** +32\r\n\r\n**Will** +35\r\n\r\n**Perception** +32\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDue to their affinity for darkness and apocalyptic terror, tzitzimitls are widely feared as harbingers of death and destruction. A solar eclipse …\r\n</summary>",
+ "sense": " darkvision ,   true seeing  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +33",
+  "Arcana +37",
+  "Athletics +33",
+  "Nature +37",
+  "Occultism +37",
+  "Religion +40"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +33, [Arcana](/Skills.aspx?ID=2) +37, [Athletics](/Skills.aspx?ID=3) +33, [Nature](/Skills.aspx?ID=10) +37, [Occultism](/Skills.aspx?ID=11) +37, [Religion](/Skills.aspx?ID=13) +40",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 279"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 279, [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 82</row>",
+ "speed": {
+  "fly": 60,
+  "land": 50,
+  "max": 60
+ },
+ "speed_markdown": "50 feet, fly 60 feet",
+ "speed_raw": "50 feet, fly 60 feet",
+ "spell": [
+  "Darkness",
+  "Teleport",
+  "Wail of the Banshee",
+  "Eclipse Burst",
+  "Abyssal Plague",
+  "Haste",
+  "Detect Magic",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Abyssal Plague](/Spells.aspx?ID=1), [Darkness](/Spells.aspx?ID=59), [Detect Magic](/Spells.aspx?ID=66), [Eclipse Burst](/Spells.aspx?ID=96), [Haste](/Spells.aspx?ID=147), [Teleport](/Spells.aspx?ID=338), [True Seeing](/Spells.aspx?ID=344), [Wail of the Banshee](/Spells.aspx?ID=361)",
+ "strength": 10,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Due to their affinity for darkness and apocalyptic terror, tzitzimitls are widely feared as harbingers of death and destruction. A solar eclipse …",
+ "summary_markdown": "Due to their affinity for darkness and apocalyptic terror, tzitzimitls are widely feared as harbingers of death and destruction. A solar eclipse …",
+ "text": " Tzitzimitl Due to their affinity for darkness and apocalyptic terror, tzitzimitls are widely feared as harbingers of death and destruction. A solar eclipse marks their arrivals, and they draw strange powers of darkness and electricity from these phenomena. Some sages believe tzitzimitls to be instruments of the gods, called down to destroy worlds whose times have come, while others claim they're the undead remains of stranded exiles from a far-off civilization of spacefaring giants. The legends that include them are ancient and fragmented, but some tell of tzitzimitls being defeated by great heroes and sealed away—though these tales imply that the enormous undead now lie buried and waiting, soon to rampage again should their tombs be breached. Recall Knowledge - Undead (Religion): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Tzitzimitl Source Bestiary 3 pg. 279, Pathfinder #150: Broken Promises pg. 82 Perception +32; darkvision, true seeing Languages Abyssal, Aklo, Celestial, Common Skills Acrobatics +33, Arcana +37, Athletics +33, Nature +37, Occultism +37, Religion +40 Str +10 Dex +8 Con +6 Int +5 Wis +7 Cha +8 --- AC 43 Fort +29 Ref +32 Will +35 HP 390 (fast healing 15, negative healing) Immunities death effects, disease, electricity, negative, paralyzed, poison, precision, unconscious Weaknesses good 15; Resistances cold 15, physical 15 (except bludgeoning) Light to Dark Reaction (divine, negative) Trigger A creature uses an ability or spell with the positive trait within 120 feet of the tzitzimitl; Effect The tzitzimitl inverts the energy used in the triggering ability or spell, causing it to lose the positive trait and gain the negative trait, and changing all instances of positive energy or healing in the ability's description to negative energy. --- Speed 50 feet, fly 60 feet Melee Single Action claw +34 (Agile, Magical, reach 20 feet), Damage 4d12+10 slashing plus 3d8 electricity and drain life Ranged Single Action eye beam +34 (range 100 feet), Damage 4d12 electricity plus 10d6 force Occult Innate Spells DC 38 - Cantrips (9th) Detect Magic - 3rd Haste (×3) - 4th Darkness (×3) - 5th Abyssal Plague - 7th Eclipse Burst, Teleport (×3) - 9th Darkness (×3), Teleport, Wail of the Banshee - Constant (6th) True Seeing Rituals DC 38 - 9th Create Undead, Imprisonment Drain Life When a tzitzimitl's claw Strike deals damages to a living creature, the tzitzimitl gains 20 temporary Hit Points, and the target must succeed at a DC 41 Fortitude save or become drained 2. Further damage dealt by a tzitzimitl's claw Strike increases the value of the drained condition by 2 on a failed save, to a maximum of drained 4. Eclipse Two Actions (Cold, Occult) Effect The tzitzimitl casts darkness and drains the heat and warmth from the darkness spell's area, and each creature within the spell's area must attempt a DC 41 Fortitude save. Critical Success The creature takes 4d8 cold damage. Success The creature takes 8d8 cold damage and is slowed 1 for 1 round. Failure The creature takes 16d8 cold damage and is slowed 1 for 1 minute. Critical Failure The creature takes 16d8 cold damage, is slowed 2 for 1 minute, and is doomed 1. Harbingers of the End A tzitzimitl's arrival in a region often precedes a deadly disaster or apocalyptic event. It isn't known whether the tzitzimitl accompanies an event already fated to occur or if the undead causes such events through their own strange magic. ",
+ "trait": [
+  "Electricity",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Electricity](/Traits.aspx?ID=56), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Electricity",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1353",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 35,
+ "wisdom": 7
+}

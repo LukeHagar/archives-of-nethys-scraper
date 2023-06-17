@@ -1,0 +1,91 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Camouflage",
+  "Crooning Cry",
+  "Rompo Chills"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 80,
+ "hp_raw": "80",
+ "id": "creature-1440",
+ "image": [
+  "/Images/Monsters/Ronpo.png"
+ ],
+ "intelligence": -3,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Rompo](/Monsters.aspx?ID=1440)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRompos are unusual creatures that feed on corpses. They have thin, almost-skeletal bodies with strong rear legs that resemble a bear's, front legs like a badger's, and a head like a hare's with humanoid ears. A rompo tends to be timid on its own; it avoids other creatures and typically flees in the presence of larger animals. Though no more intelligent than any other beast, it usually acts with extreme paranoia, dodging traps or ambushes with an uncanny acumen. When danger is present, a rompo utters a loud cry to afford itself space to run and hides by using its body's natural color-shifting fur as camouflage.\n\n Although rompos sport the perfect physical features to act as predators, they tend to live their lives as solitary scavengers of leftover corpses. Rompos prefer to avoid hunting for themselves since they risk sustaining injuries in the process. It's not uncommon for rompos to follow other predators for hours, waiting for an opportunity to feast on the leftover remains of a hunt.\n\n Once a rompo gains access to a meal, it takes several minutes circling the corpse to make sure the area is clear. As it begins to feast, it lets out a whimpering cry that fascinates and compels other creatures to keep away so that the rompo can feed in peace. Due to its constant feeding on decaying flesh, a rompo's mouth is filled with rot, parasites, and deadly pathogens. Its bite can impart these combined infections as a dangerous disease known as rompo chills. The disease causes its victim to tremble uncontrollably, lightly at first but eventually developing into a violent shaking that ends with the victim's death. Despite their cautious nature, rompos always seem to linger close to creatures they infect with rompo chills; though they remain unseen while the victim lives, they emerge when that victim finally succumbs, in order to feed on the corpse.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ronpo.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Rompo](/Monsters.aspx?ID=1440)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 304 <sup>2.0</sup></row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +2\r\n\r\n**Int** -3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Camouflage** The rompo can change its coloration to match its surroundings. It doesn't need cover to attempt to [Hide](/Actions.aspx?ID=62) with a [Stealth](/Skills.aspx?ID=15) check.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 80\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +15,\r\n**Damage** 2d8+5 piercing plus rompo chills\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaws +13 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+5 slashing\n\n**Crooning Cry** <actions string=\"Two Actions\" /> ([Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) 60 feet. The rompo hums in a low voice. Each creature within the emanation must succeed at a DC 19 Will save or become [fascinated](/Conditions.aspx?ID=14) and compelled to move away from the rompo, traveling to the furthest edge of the emanation. Fascinated creatures are also [flat-footed](/Conditions.aspx?ID=16). The effect lasts for 1 round, but if the rompo spends a single action on subsequent rounds, it can extend the duration by 1 round for all affected creatures. If the rompo attacks, the fascinated condition ends only for the creature that is attacked. On a successful save, a creature is temporarily immune to Crooning Cry for 24 hours.\r\n\r\n**Rompo Chills**  ([Disease](/Traits.aspx?ID=46)) The target can't reduce its [sickened](/Conditions.aspx?ID=34) condition while affected by rompo chills; **Saving Throw** DC 19 Fortitude; **Onset** 1 day; **Stage 1** [clumsy 1](/Conditions.aspx?ID=3) (1 day); **Stage 2** clumsy 1 and sickened 1 (1 day); **Stage 3** clumsy 2 and sickened 2 (1 day); **Stage 4** [unconscious](/Conditions.aspx?ID=38) (1 day); **Stage 5** dead\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Rompo Packs</title>\r\n\r\nRompos tend to live in isolation, and on their own are so timid their behavior borders on cowardice. But in larger environments that can support them, like the Mwangi Jungle, rompos travel in packs of up to a dozen and become unusually aggressive. These packs actively hunt animals much larger than themselves, such as water buffalo, and one or two rompos cry through the night to deter other animals from their dens.\r\n</aside>",
+ "name": "Rompo",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 304 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 80\r\n\r\n**AC** 21\r\n\r\n**Fort** +15\r\n\r\n**Ref** +9\r\n\r\n**Will** +11\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRompos are unusual creatures that feed on corpses. They have thin, almost-skeletal bodies with strong rear legs that resemble a bear's, front legs …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Stealth +12",
+  "Survival +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +12",
+ "source": [
+  "The Mwangi Expanse"
+ ],
+ "source_raw": [
+  "The Mwangi Expanse pg. 304"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 304 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 25,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 25 feet",
+ "speed_raw": "30 feet, climb 25 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Rompos are unusual creatures that feed on corpses. They have thin, almost-skeletal bodies with strong rear legs that resemble a bear's, front legs …",
+ "summary_markdown": "Rompos are unusual creatures that feed on corpses. They have thin, almost-skeletal bodies with strong rear legs that resemble a bear's, front legs …",
+ "text": " Rompo Rompos are unusual creatures that feed on corpses. They have thin, almost-skeletal bodies with strong rear legs that resemble a bear's, front legs like a badger's, and a head like a hare's with humanoid ears. A rompo tends to be timid on its own; it avoids other creatures and typically flees in the presence of larger animals. Though no more intelligent than any other beast, it usually acts with extreme paranoia, dodging traps or ambushes with an uncanny acumen. When danger is present, a rompo utters a loud cry to afford itself space to run and hides by using its body's natural color-shifting fur as camouflage. Although rompos sport the perfect physical features to act as predators, they tend to live their lives as solitary scavengers of leftover corpses. Rompos prefer to avoid hunting for themselves since they risk sustaining injuries in the process. It's not uncommon for rompos to follow other predators for hours, waiting for an opportunity to feast on the leftover remains of a hunt. Once a rompo gains access to a meal, it takes several minutes circling the corpse to make sure the area is clear. As it begins to feast, it lets out a whimpering cry that fascinates and compels other creatures to keep away so that the rompo can feed in peace. Due to its constant feeding on decaying flesh, a rompo's mouth is filled with rot, parasites, and deadly pathogens. Its bite can impart these combined infections as a dangerous disease known as rompo chills. The disease causes its victim to tremble uncontrollably, lightly at first but eventually developing into a violent shaking that ends with the victim's death. Despite their cautious nature, rompos always seem to linger close to creatures they infect with rompo chills; though they remain unseen while the victim lives, they emerge when that victim finally succumbs, in order to feed on the corpse. Recall Knowledge - Beast (Arcana, Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Rompo Source The Mwangi Expanse pg. 304 2.0 Perception +15; darkvision, scent (imprecise) 30 feet Languages Skills Athletics +13, Stealth +12, Survival +12 Str +5 Dex +2 Con +2 Int -3 Wis +2 Cha +0 Camouflage The rompo can change its coloration to match its surroundings. It doesn't need cover to attempt to Hide with a Stealth check. --- AC 21 Fort +15 Ref +9 Will +11 HP 80 --- Speed 30 feet, climb 25 feet Melee Single Action jaws +15, Damage 2d8+5 piercing plus rompo chills Melee Single Action claws +13 (Agile), Damage 2d6+5 slashing Crooning Cry Two Actions (Enchantment, Incapacitation, Mental, Primal) 60 feet. The rompo hums in a low voice. Each creature within the emanation must succeed at a DC 19 Will save or become fascinated and compelled to move away from the rompo, traveling to the furthest edge of the emanation. Fascinated creatures are also flat-footed. The effect lasts for 1 round, but if the rompo spends a single action on subsequent rounds, it can extend the duration by 1 round for all affected creatures. If the rompo attacks, the fascinated condition ends only for the creature that is attacked. On a successful save, a creature is temporarily immune to Crooning Cry for 24 hours. Rompo Chills (Disease) The target can't reduce its sickened condition while affected by rompo chills; Saving Throw DC 19 Fortitude; Onset 1 day; Stage 1 clumsy 1 (1 day); Stage 2 clumsy 1 and sickened 1 (1 day); Stage 3 clumsy 2 and sickened 2 (1 day); Stage 4 unconscious (1 day); Stage 5 dead Rompo Packs Rompos tend to live in isolation, and on their own are so timid their behavior borders on cowardice. But in larger environments that can support them, like the Mwangi Jungle, rompos travel in packs of up to a dozen and become unusually aggressive. These packs actively hunt animals much larger than themselves, such as water buffalo, and one or two rompos cry through the night to deter other animals from their dens. ",
+ "trait": [
+  "Beast",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1440",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 2
+}

@@ -1,0 +1,102 @@
+{
+ "ac": 33,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 6,
+ "creature_ability": [
+  "Stench",
+  "Ferocity",
+  "Breath Weapon",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 215,
+ "hp_raw": "215",
+ "id": "creature-579",
+ "image": [
+  "/Images/Monsters/Catoblepas.png"
+ ],
+ "immunity": [
+  "disease",
+  "poison",
+  "olfactory"
+ ],
+ "immunity_markdown": "[disease](/Traits.aspx?ID=46), [poison](/Traits.aspx?ID=126), [olfactory](/Traits.aspx?ID=246)",
+ "intelligence": -2,
+ "language": [
+  "Aklo"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Catoblepas](/Monsters.aspx?ID=579)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe catoblepas is an aggressive beast at the best of times. Though it prefers swamps, the catoblepas has been know to forage in plains and forests for short periods, leaving behind hunting grounds tainted by its foul breath and noxious waste that other predators and prey alike avoid for days or even weeks thereafter. The catoblepas bullies those creatures it believes are a match for it, and eats everything weaker.\n\nA catoblepas is 15 feet long and weighs 2,200 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Catoblepas.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Catoblepas](/Monsters.aspx?ID=579)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 48 <sup>2.0</sup></row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +20, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 30 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (plus [slowed 1](/Conditions.aspx?ID=35) for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against [disease](/Traits.aspx?ID=46) and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 215\n\n**Immunities**\r\n[disease](/Traits.aspx?ID=46), [poison](/Traits.aspx?ID=126), [olfactory](/Traits.aspx?ID=246)\n\n**Ferocity** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +25 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+13 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nantler +25 ([Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+13 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhoof +23 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d10+11 bludgeoning\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Necromancy](/Traits.aspx?ID=117), [Poison](/Traits.aspx?ID=126), [Primal](/Traits.aspx?ID=134)) The catoblepas breathes a 60-foot cone of horrid fumes, dealing 13d6 poison damage (DC 32 basic Fortitude save). The area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw also become [sickened 1](/Conditions.aspx?ID=34) (sickened 2 on a critical failure). The catoblepas can't use its Breath Weapon again for 1d4 rounds.\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Medium or smaller, hoof, DC 32\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Catoblepas Nests</title>\r\n\r\nA catoblepas den is an awful place indeed - a filthy nest composed of piles of decaying vegetation, half-finished or half-digested meals of decaying animals, never-quite-dry banks of mud, and tangles of thorny branches. Worse, the catoblepas's stink infuses such a site, imposing the beast's ungodly stench upon those who would explore and search within for treasure. A catoblepas nest can retain its stink in this way for up to a week after it's been abandoned by its foul denizen.\r\n</aside>",
+ "name": "Catoblepas",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 20,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 48 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 215\r\n\r\n**AC** 33\r\n\r\n**Fort** +24\r\n\r\n**Ref** +20\r\n\r\n**Will** +22\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe catoblepas is an aggressive beast at the best of times. Though it prefers swamps, the catoblepas has been know to forage in plains and forests …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Intimidation +20",
+  "Stealth +22",
+  "Survival +20"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +20, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +20",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 48"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 48 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 35,
+  "max": 35,
+  "swim": 20
+ },
+ "speed_markdown": "35 feet, swim 20 feet",
+ "speed_raw": "35 feet, swim 20 feet",
+ "spell_markdown": "",
+ "stealth": "22",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The catoblepas is an aggressive beast at the best of times. Though it prefers swamps, the catoblepas has been know to forage in plains and forests …",
+ "summary_markdown": "The catoblepas is an aggressive beast at the best of times. Though it prefers swamps, the catoblepas has been know to forage in plains and forests …",
+ "text": " Catoblepas The catoblepas is an aggressive beast at the best of times. Though it prefers swamps, the catoblepas has been know to forage in plains and forests for short periods, leaving behind hunting grounds tainted by its foul breath and noxious waste that other predators and prey alike avoid for days or even weeks thereafter. The catoblepas bullies those creatures it believes are a match for it, and eats everything weaker. A catoblepas is 15 feet long and weighs 2,200 pounds. Recall Knowledge - Beast (Arcana, Nature): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Catoblepas Source Bestiary 2 pg. 48 2.0 Perception +22; darkvision Languages Aklo Skills Athletics +25, Intimidation +20, Stealth +22, Survival +20 Str +7 Dex +4 Con +6 Int -2 Wis +4 Cha +2 Stench (aura, olfactory) 30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 30 Fortitude save or become sickened 1 (plus slowed 1 for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute. --- AC 33 Fort +24 Ref +20 Will +22 HP 215 Immunities disease, poison, olfactory Ferocity Reaction --- Speed 35 feet, swim 20 feet Melee Single Action jaws +25 (Magical, reach 10 feet), Damage 3d10+13 piercing Melee Single Action antler +25 (Magical, reach 15 feet), Damage 3d12+13 piercing Melee Single Action hoof +23 (Magical), Damage 3d10+11 bludgeoning Breath Weapon Two Actions (Necromancy, Poison, Primal) The catoblepas breathes a 60-foot cone of horrid fumes, dealing 13d6 poison damage (DC 32 basic Fortitude save). The area of this cone is reduced to 30 feet underwater. Targets that fail their saving throw also become sickened 1 (sickened 2 on a critical failure). The catoblepas can't use its Breath Weapon again for 1d4 rounds. Trample Three Actions Medium or smaller, hoof, DC 32 Catoblepas Nests A catoblepas den is an awful place indeed - a filthy nest composed of piles of decaying vegetation, half-finished or half-digested meals of decaying animals, never-quite-dry banks of mud, and tangles of thorny branches. Worse, the catoblepas's stink infuses such a site, imposing the beast's ungodly stench upon those who would explore and search within for treasure. A catoblepas nest can retain its stink in this way for up to a week after it's been abandoned by its foul denizen. ",
+ "trait": [
+  "Beast",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=579",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 22,
+ "wisdom": 4
+}

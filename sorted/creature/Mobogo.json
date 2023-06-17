@@ -1,0 +1,110 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 6,
+ "creature_ability": [
+  "Song of the Swamp",
+  "Swallow Whole",
+  "Swamp Stride",
+  "Tongue Grab",
+  "Tongue Reposition"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 160,
+ "hp_raw": "160",
+ "id": "creature-1229",
+ "image": [
+  "/Images/Monsters/Mobogo.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Boggard",
+  "<%SPELLS%293%%><i>speak with animals</i><%END>"
+ ],
+ "language_markdown": "[Boggard](/Languages.aspx?ID=27); [_speak with animals_](/Spells.aspx?ID=293)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mobogo](/Monsters.aspx?ID=1229)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMobogos are massive, swamp-dwelling monstrosities that combine the worst aspects of giant toads and evil dragons. Lazy, cruel, and greedy, these vile creatures make their lairs in the most ancient and primordial swamps. The [boggards](/MonsterFamilies.aspx?ID=16) who call such places home worship mobogos as living demigods, regularly bringing sacrifices of food and valuables lest they become the next victims of the mobogos' boundless appetites.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mobogo.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Mobogo](/Monsters.aspx?ID=1229)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 170</row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Boggard](/Languages.aspx?ID=27); [_speak with animals_](/Spells.aspx?ID=293)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +23, [Nature](/Skills.aspx?ID=10) +21, [Stealth](/Skills.aspx?ID=15) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +6\r\n\r\n**Int** -2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +7\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 160\r\n\r\n, regeneration 30 (deactivated by acid, cold, or fire)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 20 feet, swim 30 feet; swamp stride\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+13 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntongue +23 ([Agile](/Traits.aspx?ID=170), [reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+13 bludgeoning plus tongue grab\r\n\r\n**Primal Innate Spells** DC 27\r\n- **4th**\r\n[Create Water](/Spells.aspx?ID=53) (at will), [Entangle](/Spells.aspx?ID=103), [Obscuring Mist](/Spells.aspx?ID=210), [Sound Burst](/Spells.aspx?ID=292) (at will)\r\n- **5th**\r\n[Control Water](/Spells.aspx?ID=51)\r\n- **Constant (2nd)**\r\n[Pass Without Trace](/Spells.aspx?ID=215), [Speak with Animals](/Spells.aspx?ID=293)\r\n\r\n**Rituals** DC 27\r\n\r\n- **4th**\r\n[Plant Growth](/Rituals.aspx?ID=18)\r\n\r\n**Song of the Swamp** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) **Frequency** once per 10 minutes; **Effect** The mobogo unleashes a booming croak. All boggards and mobogos within 50 feet gain a +2 status bonus to damage rolls and saves against fear for 1 round. Other creatures in the area of effect must attempt a DC 27 Will save. <br />**Success** The creature is unaffected and is temporarily immune for 24 hours. <br />**Failure** The creature is [slowed 1](/Conditions.aspx?ID=35) for 1d4 rounds. <br />**Critical Failure** The creature is slowed 2 for 1d4 rounds.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 2d12+6 bludgeoning, Rupture 19\r\n\r\n**Swamp Stride**   A mobogo ignores difficult terrain caused by swamp terrain features.\r\n\r\n**Tongue Grab**   A creature hit by the mobogo's tongue becomes [grabbed](/Conditions.aspx?ID=20) by the mobogo. The creature isn't [immobilized](/Conditions.aspx?ID=24), but it can't move beyond the reach of the mobogo's tongue. A creature can sever the tongue with a Strike against AC 27 that deals at least 10 slashing damage. This deals no damage to the mobogo but prevents it from using its tongue Strike until it regrows its tongue, which takes 1 round. The mobogo can move without ending the Grab as long as the creature remains within the tongue's reach.\r\n\r\n**Tongue Reposition** <actions string=\"Single Action\" />  The mobogo attempts to move a creature grabbed by its tongue. The mobogo rolls an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. On a success, the mobogo moves the creature into any space within the tongue's reach. If it wishes, the mobogo can transfer the grabbed creature to its jaws.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Children of Gogunta</title>\r\n\r\nThe [boggards](/MonsterFamilies.aspx?ID=16) of Golarion believe mobogos to have hatched from the first clutch of eggs laid by their demon goddess [Gogunta](/Deities.aspx?ID=25), following her awakening at the dawn of creation. The boggards, hatched millennia later from the second clutch, have been charged with serving and aiding their elder siblings in keeping her sacred swamplands untainted by the presence of outsiders.\r\n</aside>",
+ "name": "Mobogo",
+ "npc": false,
+ "perception": 21,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 170</row>\n\n<row gap=\"medium\">\r\n**HP** 160\r\n\r\n**AC** 29\r\n\r\n**Fort** +22\r\n\r\n**Ref** +17\r\n\r\n**Will** +19\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMobogos are massive, swamp-dwelling monstrosities that combine the worst aspects of giant toads and evil dragons. Lazy, cruel, and greedy, these vile …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +23",
+  "Nature +21",
+  "Stealth +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +23, [Nature](/Skills.aspx?ID=10) +21, [Stealth](/Skills.aspx?ID=15) +19",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 170"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 170</row>",
+ "speed": {
+  "fly": 20,
+  "land": 25,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "25 feet, fly 20 feet, swim 30 feet; swamp stride",
+ "speed_raw": "25 feet, fly 20 feet, swim 30 feet; swamp stride",
+ "spell": [
+  "Control Water",
+  "Create Water",
+  "Entangle",
+  "Obscuring Mist",
+  "Sound Burst",
+  "Pass Without Trace",
+  "Speak with Animals"
+ ],
+ "spell_markdown": "[Control Water](/Spells.aspx?ID=51), [Create Water](/Spells.aspx?ID=53), [Entangle](/Spells.aspx?ID=103), [Obscuring Mist](/Spells.aspx?ID=210), [Pass Without Trace](/Spells.aspx?ID=215), [Sound Burst](/Spells.aspx?ID=292), [Speak with Animals](/Spells.aspx?ID=293)",
+ "stealth": "19",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Mobogos are massive, swamp-dwelling monstrosities that combine the worst aspects of giant toads and evil dragons. Lazy, cruel, and greedy, these vile …",
+ "summary_markdown": "Mobogos are massive, swamp-dwelling monstrosities that combine the worst aspects of giant toads and evil dragons. Lazy, cruel, and greedy, these vile …",
+ "text": " Mobogo Mobogos are massive, swamp-dwelling monstrosities that combine the worst aspects of giant toads and evil dragons. Lazy, cruel, and greedy, these vile creatures make their lairs in the most ancient and primordial swamps. The boggards who call such places home worship mobogos as living demigods, regularly bringing sacrifices of food and valuables lest they become the next victims of the mobogos' boundless appetites. Recall Knowledge - Beast (Arcana, Nature): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Mobogo Source Bestiary 3 pg. 170 Perception +21; darkvision Languages Boggard; speak with animals Skills Acrobatics +19, Athletics +23, Nature +21, Stealth +19 Str +7 Dex +5 Con +6 Int -2 Wis +5 Cha +7 --- AC 29 Fort +22 Ref +17 Will +19 HP 160 , regeneration 30 (deactivated by acid, cold, or fire) --- Speed 25 feet, fly 20 feet, swim 30 feet; swamp stride Melee Single Action jaws +23 (reach 10 feet), Damage 2d12+13 piercing plus Improved Grab Melee Single Action tongue +23 (Agile, reach 30 feet), Damage 2d6+13 bludgeoning plus tongue grab Primal Innate Spells DC 27 - 4th Create Water (at will), Entangle, Obscuring Mist, Sound Burst (at will) - 5th Control Water - Constant (2nd) Pass Without Trace, Speak with Animals Rituals DC 27 - 4th Plant Growth Song of the Swamp Single Action (Auditory, Emotion, Enchantment, Mental, Primal) Frequency once per 10 minutes; Effect The mobogo unleashes a booming croak. All boggards and mobogos within 50 feet gain a +2 status bonus to damage rolls and saves against fear for 1 round. Other creatures in the area of effect must attempt a DC 27 Will save. Success The creature is unaffected and is temporarily immune for 24 hours. Failure The creature is slowed 1 for 1d4 rounds. Critical Failure The creature is slowed 2 for 1d4 rounds. Swallow Whole Single Action (Attack) Large, 2d12+6 bludgeoning, Rupture 19 Swamp Stride A mobogo ignores difficult terrain caused by swamp terrain features. Tongue Grab A creature hit by the mobogo's tongue becomes grabbed by the mobogo. The creature isn't immobilized, but it can't move beyond the reach of the mobogo's tongue. A creature can sever the tongue with a Strike against AC 27 that deals at least 10 slashing damage. This deals no damage to the mobogo but prevents it from using its tongue Strike until it regrows its tongue, which takes 1 round. The mobogo can move without ending the Grab as long as the creature remains within the tongue's reach. Tongue Reposition Single Action The mobogo attempts to move a creature grabbed by its tongue. The mobogo rolls an Athletics check against the creature's Fortitude DC. On a success, the mobogo moves the creature into any space within the tongue's reach. If it wishes, the mobogo can transfer the grabbed creature to its jaws. Children of Gogunta The boggards of Golarion believe mobogos to have hatched from the first clutch of eggs laid by their demon goddess Gogunta, following her awakening at the dawn of creation. The boggards, hatched millennia later from the second clutch, have been charged with serving and aiding their elder siblings in keeping her sacred swamplands untainted by the presence of outsiders. ",
+ "trait": [
+  "Amphibious",
+  "Beast",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Amphibious",
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1229",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 5
+}

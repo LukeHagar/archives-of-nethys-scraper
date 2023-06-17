@@ -1,0 +1,116 @@
+{
+ "ac": 33,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Children of the Night",
+  "Mist Escape",
+  "Change Shape",
+  "Create Spawn",
+  "Dominate",
+  "Dread Striker",
+  "Drink Blood",
+  "Sneak Attack",
+  "Turn to Mist"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 210,
+ "hp_raw": "210",
+ "id": "creature-2187",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 7,
+ "language": [
+  "Common",
+  "Halfling",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Halfling](/Languages.aspx?ID=7), [Necril](/Languages.aspx?ID=20)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Weeping Jack](/Monsters.aspx?ID=2187)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Weeping Jack](/Monsters.aspx?ID=2187)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Vampire\" url=\"/Traits.aspx?ID=242\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 61</row>\n\n**Perception** +23; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Halfling](/Languages.aspx?ID=7), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +23, [Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +24, [Society](/Skills.aspx?ID=14) +25, [Stealth](/Skills.aspx?ID=15) +25, [Thievery](/Skills.aspx?ID=17) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** +7\r\n\r\n**Wis** +5\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Children of the Night** ([divine](/Traits.aspx?ID=48), [enchantment](/Traits.aspx?ID=61), [mental](/Traits.aspx?ID=106)) The vampire's presence brings forth creatures of the night to do the master's bidding. These typically include [rat swarms](/Monsters.aspx?ID=347), [bat swarms](/Monsters.aspx?ID=45), and [wolves](/MonsterFamilies.aspx?ID=101), but can include other creatures. The vampire can give telepathic orders to these creatures as long as they are within 100 feet, but they can't communicate back.\r\n\r\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [spiked chain](/Weapons.aspx?ID=60)_, _+1 [resilient](/Equipment.aspx?ID=279) [studded leather armor](/Armor.aspx?ID=5)_, [_greater demon mask_](/Equipment.aspx?ID=430)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +24 \r\n\r\n**Will** +24 \n\n</row>\r\n\r\n**HP** 210\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\nvampire\r\n\r\n**Mist Escape** <actions string=\"Free Action\" /> **Trigger** The vampire is reduced to 0 HP. **Effect** The vampire uses Turn to Mist. It can take move actions to move toward its coffin even though it's at 0 HP. While at 0 HP in this form, the vampire is unaffected by further damage. It automatically returns to its corporeal form, unconscious, if it reaches its coffin or after 2 hours, whichever comes first.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_spiked chain_ +26 ([Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 2d8+13 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +25 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+13 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Change Shape** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The vampire transforms into one of its animal forms or back into its normal form. Most vampires can turn into a bat, but some can turn into a different creature, such as a rat or a wolf. Use the options in the [_aerial form_](/Spells.aspx?ID=4) and [_animal form_](/Spells.aspx?ID=10) spells as guidelines. Weeping Jack's bat form's fangs strike have a +25 attack bonus and deal 2d8+13 piercing damage.\n<ul><li>**Bat** The vampire changes into a bat swarm or giant bat. It gains echolocation 40 feet, a land Speed of 20 feet and a fly Speed of 30 feet, and a fangs Strike with the same attack bonus as its highest melee attack. These fangs deal the same amount of damage as the vampire's claws, but deal piercing damage rather than slashing damage.</li></ul>\r\n\r\n**Create Spawn**  ([Divine](/Traits.aspx?ID=48), [Downtime](/Traits.aspx?ID=49), [Necromancy](/Traits.aspx?ID=117)) If a creature dies after being reduced to 0 HP by Drink Blood, the vampire can turn this victim into a vampire by donating some of its own blood to the victim and burying the victim in earth for 3 nights. If the new vampire is lower level than its creator, it is under the creator's control. If a vampire controls too many spawn at once (as determined by the GM), strong-willed spawn can free themselves by succeeding at a Will saving throw against the vampire's Will DC.\r\n\r\n**Dominate** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) The vampire can cast [_dominate_](/Spells.aspx?ID=87) at will as a divine innate spell (DC 29 Will save). Casting it requires staring into the target's eyes, giving the spell the [visual](/Traits.aspx?ID=163) trait. A creature that succeeds is temporarily immune to that vampire's Dominate for 24 hours. Fully destroying the vampire ends the domination, but merely reducing the vampire to 0 HP is insufficient to break the spell.\r\n\r\n**Dread Striker**   Any creature that has the [frightened](/Conditions.aspx?ID=19) condition is also [flat-footed](/Conditions.aspx?ID=16) to Weeping Jack's attacks.\r\n\r\n**Drink Blood** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Requirement** A [grabbed](/Conditions.aspx?ID=20), [paralyzed](/Conditions.aspx?ID=28), [restrained](/Conditions.aspx?ID=33), [unconscious](/Conditions.aspx?ID=38), or willing creature is within the vampire's reach. **Effect** The vampire sinks its fangs into that creature to drink its blood. This requires an [Athletics](/Skills.aspx?ID=3) check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [drained 1](/Conditions.aspx?ID=10) and Weeping Jack regains 16 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drain value by 1. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.<br />A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a DC 20 [Medicine](/Skills.aspx?ID=9) check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   Weeping Jack deals 3d6 extra precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Turn to Mist** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Transmutation](/Traits.aspx?ID=157)) The vampire turns into a cloud of vapor, as the [_gaseous form_](/Spells.aspx?ID=129) spell, or back to its normal form. The vampire loses fast healing while in gaseous form. The vampire can remain in this form indefinitely.\r\n\r\n</column>",
+ "name": "Weeping Jack",
+ "npc": false,
+ "perception": 23,
+ "rarity": "unique",
+ "reflex_save": 24,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Vampire\" url=\"/Traits.aspx?ID=242\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 61</row>\n\n<row gap=\"medium\">\r\n**HP** 210\r\n\r\n**AC** 33\r\n\r\n**Fort** +21\r\n\r\n**Ref** +24\r\n\r\n**Will** +24\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +23",
+  "Athletics +25",
+  "Intimidation +24",
+  "Society +25",
+  "Stealth +25",
+  "Thievery +23"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +23, [Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +24, [Society](/Skills.aspx?ID=14) +25, [Stealth](/Skills.aspx?ID=15) +25, [Thievery](/Skills.aspx?ID=17) +23",
+ "source": [
+  "Pathfinder #184: The Ghouls Hunger"
+ ],
+ "source_raw": [
+  "Pathfinder #184: The Ghouls Hunger pg. 61"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 61</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "25",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "text": " Weeping Jack Recall Knowledge - Undead (Religion): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Weeping Jack Source Pathfinder #184: The Ghouls Hunger pg. 61 Perception +23; darkvision Languages Common, Halfling, Necril Skills Acrobatics +23, Athletics +25, Intimidation +24, Society +25, Stealth +25, Thievery +23 Str +7 Dex +5 Con +4 Int +7 Wis +5 Cha +4 Children of the Night (divine, enchantment, mental) The vampire's presence brings forth creatures of the night to do the master's bidding. These typically include rat swarms, bat swarms, and wolves, but can include other creatures. The vampire can give telepathic orders to these creatures as long as they are within 100 feet, but they can't communicate back. Items +1 striking spiked chain , +1 resilient studded leather armor , greater demon mask --- AC 33 Fort +21 Ref +24 Will +24 HP 210 Immunities death effects, disease, paralyzed, poison, sleep Weaknesses vampire Mist Escape Free Action Trigger The vampire is reduced to 0 HP. Effect The vampire uses Turn to Mist. It can take move actions to move toward its coffin even though it's at 0 HP. While at 0 HP in this form, the vampire is unaffected by further damage. It automatically returns to its corporeal form, unconscious, if it reaches its coffin or after 2 hours, whichever comes first. --- Speed 25 feet, climb 25 feet Melee Single Action spiked chain +26 (Disarm, Finesse, Trip), Damage 2d8+13 slashing Melee Single Action claw +25 (Agile), Damage 2d6+13 slashing plus Grab Change Shape Single Action (Concentrate, Divine, Polymorph, Transmutation) The vampire transforms into one of its animal forms or back into its normal form. Most vampires can turn into a bat, but some can turn into a different creature, such as a rat or a wolf. Use the options in the aerial form and animal form spells as guidelines. Weeping Jack's bat form's fangs strike have a +25 attack bonus and deal 2d8+13 piercing damage. Bat The vampire changes into a bat swarm or giant bat. It gains echolocation 40 feet, a land Speed of 20 feet and a fly Speed of 30 feet, and a fangs Strike with the same attack bonus as its highest melee attack. These fangs deal the same amount of damage as the vampire's claws, but deal piercing damage rather than slashing damage. Create Spawn (Divine, Downtime, Necromancy) If a creature dies after being reduced to 0 HP by Drink Blood, the vampire can turn this victim into a vampire by donating some of its own blood to the victim and burying the victim in earth for 3 nights. If the new vampire is lower level than its creator, it is under the creator's control. If a vampire controls too many spawn at once (as determined by the GM), strong-willed spawn can free themselves by succeeding at a Will saving throw against the vampire's Will DC. Dominate Two Actions (Divine, Enchantment, Incapacitation, Mental, Visual) The vampire can cast dominate at will as a divine innate spell (DC 29 Will save). Casting it requires staring into the target's eyes, giving the spell the visual trait. A creature that succeeds is temporarily immune to that vampire's Dominate for 24 hours. Fully destroying the vampire ends the domination, but merely reducing the vampire to 0 HP is insufficient to break the spell. Dread Striker Any creature that has the frightened condition is also flat-footed to Weeping Jack's attacks. Drink Blood Single Action (Divine, Necromancy) Requirement A grabbed, paralyzed, restrained, unconscious, or willing creature is within the vampire's reach. Effect The vampire sinks its fangs into that creature to drink its blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is drained 1 and Weeping Jack regains 16 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire but increases the victim's drain value by 1. A vampire can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a DC 20 Medicine check and sufficient blood or a blood donor, reduces the drain by 1 after 10 minutes. Sneak Attack Weeping Jack deals 3d6 extra precision damage to flat-footed creatures. Turn to Mist Single Action (Concentrate, Divine, Transmutation) The vampire turns into a cloud of vapor, as the gaseous form spell, or back to its normal form. The vampire loses fast healing while in gaseous form. The vampire can remain in this form indefinitely. ",
+ "trait": [
+  "Undead",
+  "Unique",
+  "Vampire",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161), [Vampire](/Traits.aspx?ID=242)",
+ "trait_raw": [
+  "Undead",
+  "Unique",
+  "Vampire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2187",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "weakness_markdown": "vampire",
+ "weakness_raw": "vampire",
+ "will_save": 24,
+ "wisdom": 5
+}

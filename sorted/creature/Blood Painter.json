@@ -1,0 +1,98 @@
+{
+ "ac": 27,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 3,
+ "creature_ability": [
+  "Bloodsense",
+  "Easily Fascinated",
+  "Dab",
+  "Paint"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 155,
+ "hp_raw": "155",
+ "id": "creature-1081",
+ "image": [
+  "/Images/Monsters/BloodPainter.png"
+ ],
+ "intelligence": 6,
+ "language": [
+  "Aklo",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Blood Painter](/Monsters.aspx?ID=1081)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSimultaneously enamored with the natural world yet too alien to survive in it, blood painters are eight-limbed artists who stalk, kill, and dismember in search of pigment and sustenance alike. Blood painter physiology can't digest typical food, so the creatures feed by harvesting blood and using it to paint and animate something edible.\n\n When not on the hunt, blood painters seek out beautiful vistas, which they placidly admire via the eyes in the hands of their uppermost limbs and then reproduce on canvas. Exceptional art endlessly fascinates these creatures, and skilled dancers and painters alike occasionally escape the aberrations by creating a new work to trade for their lives. Blood painters jealously guard these works, and much of their treasure consists of art. Blood painters tend to mastermind the periodic theft of masterpieces.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/BloodPainter.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Blood Painter](/Monsters.aspx?ID=1081)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 33</row>\n\n**Perception** +19; bloodsense (imprecise) 60 feet, [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Art Lore](/Skills.aspx?ID=8) +21, [Athletics](/Skills.aspx?ID=3) +20, [Crafting](/Skills.aspx?ID=4) +17, [Medicine](/Skills.aspx?ID=9) +19, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +6\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Bloodsense** A blood painter can detect exposed blood as an imprecise sense at the listed range, including from creatures taking [persistent bleed damage](/Conditions.aspx?ID=29).\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 155\n\n**Easily Fascinated** When subject to a visual illusion with the [incapacitation](/Traits.aspx?ID=93) trait, the blood painter doesn't adjust their degree of success due to the incapacitation trait.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+8 slashing plus 1d8 [persistent bleed](/Conditions.aspx?ID=29)\n\n**Dab** <actions string=\"Single Action\" /> ([Enchantment](/Traits.aspx?ID=61), [Manipulate](/Traits.aspx?ID=104), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) **Requirements** The blood painter is within reach of an enemy taking [persistent bleed damage](/Conditions.aspx?ID=29); **Effect** The blood painter touches the creature and applies blood to one of their four claws; the blood remains fresh for 1 minute. The target must succeed at a DC 28 Will save or become [fascinated](/Conditions.aspx?ID=14) with the blood painter.\r\n\r\n**Paint** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Illusion](/Traits.aspx?ID=92), [Manipulate](/Traits.aspx?ID=104), [Occult](/Traits.aspx?ID=120)) **Requirements** The blood painter has fresh blood applied to a claw using Dab; **Effect** The blood painter expends the blood on one claw to paint a illusion with the effects of one of the following spells: [_illusory creature_](/Spells.aspx?ID=158), [_illusory disguise_](/Spells.aspx?ID=159), [_illusory object_](/Spells.aspx?ID=160), or [_mirror image_](/Spells.aspx?ID=197). The Paint action gains the traits of the spell it's reproducing, and the blood painter can Sustain a Spell on these effects. They use a spell attack modifier of +20 and DC 28 for these effects, which are heightened to 5th level.<br /> If they have fresh blood applied to two or more claws, the blood painter can expend the blood on all of them to instead produce the effects of [_cloak of colors_](/Spells.aspx?ID=41) or [_vibrant pattern_](/Spells.aspx?ID=357).<br />Any effects produced by this ability have a +2 status bonus to attack rolls, damage rolls, saving throws, skill checks, and AC against the creature whose blood was used to Paint and that creature takes a –2 status penalty to Perception checks and saves against it.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Apocryphal Origins</title>\r\n\r\nDespite blood painters' mysterious origins, the prevailing theory insists the first one arose from overzealous [Shelynites](/Deities.aspx?ID=17) so devoted to their art they ceased eating and sleeping, eventually transforming into aberrations that could feed on their own art only. Some believe it possible to “cure” a blood painter, restoring the accursed creature's original memories and form.\r\n</aside>",
+ "name": "Blood Painter",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 33</row>\n\n<row gap=\"medium\">\r\n**HP** 155\r\n\r\n**AC** 27\r\n\r\n**Fort** +16\r\n\r\n**Ref** +19\r\n\r\n**Will** +17\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSimultaneously enamored with the natural world yet too alien to survive in it, blood painters are eight-limbed artists who stalk, kill, and dismember …\r\n</summary>",
+ "sense": "bloodsense (imprecise) 60 feet,  darkvision ",
+ "sense_markdown": "bloodsense (imprecise) 60 feet, [darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Art Lore +21",
+  "Athletics +20",
+  "Crafting +17",
+  "Medicine +19",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Art Lore](/Skills.aspx?ID=8) +21, [Athletics](/Skills.aspx?ID=3) +20, [Crafting](/Skills.aspx?ID=4) +17, [Medicine](/Skills.aspx?ID=9) +19, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 33"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 33</row>",
+ "speed": {
+  "climb": 15,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 15 feet",
+ "speed_raw": "30 feet, climb 15 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Simultaneously enamored with the natural world yet too alien to survive in it, blood painters are eight-limbed artists who stalk, kill, and dismember …",
+ "summary_markdown": "Simultaneously enamored with the natural world yet too alien to survive in it, blood painters are eight-limbed artists who stalk, kill, and dismember …",
+ "text": " Blood Painter Simultaneously enamored with the natural world yet too alien to survive in it, blood painters are eight-limbed artists who stalk, kill, and dismember in search of pigment and sustenance alike. Blood painter physiology can't digest typical food, so the creatures feed by harvesting blood and using it to paint and animate something edible. When not on the hunt, blood painters seek out beautiful vistas, which they placidly admire via the eyes in the hands of their uppermost limbs and then reproduce on canvas. Exceptional art endlessly fascinates these creatures, and skilled dancers and painters alike occasionally escape the aberrations by creating a new work to trade for their lives. Blood painters jealously guard these works, and much of their treasure consists of art. Blood painters tend to mastermind the periodic theft of masterpieces. Recall Knowledge - Aberration (Occultism): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Blood Painter Source Bestiary 3 pg. 33 Perception +19; bloodsense (imprecise) 60 feet, darkvision Languages Aklo, Common Skills Art Lore +21, Athletics +20, Crafting +17, Medicine +19, Stealth +17 Str +5 Dex +4 Con +3 Int +6 Wis +4 Cha +3 Bloodsense A blood painter can detect exposed blood as an imprecise sense at the listed range, including from creatures taking persistent bleed damage. --- AC 27 Fort +16 Ref +19 Will +17 HP 155 Easily Fascinated When subject to a visual illusion with the incapacitation trait, the blood painter doesn't adjust their degree of success due to the incapacitation trait. --- Speed 30 feet, climb 15 feet Melee Single Action claw +20 (Agile, reach 10 feet), Damage 3d8+8 slashing plus 1d8 persistent bleed Dab Single Action (Enchantment, Manipulate, Mental, Occult) Requirements The blood painter is within reach of an enemy taking persistent bleed damage; Effect The blood painter touches the creature and applies blood to one of their four claws; the blood remains fresh for 1 minute. The target must succeed at a DC 28 Will save or become fascinated with the blood painter. Paint Single Action (Concentrate, Illusion, Manipulate, Occult) Requirements The blood painter has fresh blood applied to a claw using Dab; Effect The blood painter expends the blood on one claw to paint a illusion with the effects of one of the following spells: illusory creature , illusory disguise , illusory object , or mirror image . The Paint action gains the traits of the spell it's reproducing, and the blood painter can Sustain a Spell on these effects. They use a spell attack modifier of +20 and DC 28 for these effects, which are heightened to 5th level. If they have fresh blood applied to two or more claws, the blood painter can expend the blood on all of them to instead produce the effects of cloak of colors or vibrant pattern . Any effects produced by this ability have a +2 status bonus to attack rolls, damage rolls, saving throws, skill checks, and AC against the creature whose blood was used to Paint and that creature takes a –2 status penalty to Perception checks and saves against it. Apocryphal Origins Despite blood painters' mysterious origins, the prevailing theory insists the first one arose from overzealous Shelynites so devoted to their art they ceased eating and sleeping, eventually transforming into aberrations that could feed on their own art only. Some believe it possible to “cure” a blood painter, restoring the accursed creature's original memories and form. ",
+ "trait": [
+  "Aberration",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1081",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 4
+}

@@ -1,0 +1,60 @@
+{
+ "ac": 33,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 34  Thievery  (master) to disrupt the rune without triggering it or   dispel magic   (6th level;  counteract  DC 31) to magically counteract the rune",
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hardness": 21,
+ "hardness_raw": "21",
+ "hazard_type": "Trap",
+ "hp": 84,
+ "hp_raw": "84 (BT 42)",
+ "id": "hazard-229",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 13,
+ "markdown": "<title level=\"1\" right=\"Hazard 13\" pfs=\"\">[Buzzing Latch Rune](/Hazards.aspx?ID=229)</title>\r\n\r\n<traits>\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Sonic\" url=\"/Traits.aspx?ID=147\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 21</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nAn invisible rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 32 (master)\r\n\r\n**Disable**\r\nDC 34 [Thievery](/Skills.aspx?ID=17) (master) to disrupt the rune without triggering it or [_dispel magic_](/Spells.aspx?ID=78) (6th level; [counteract](/Rules.aspx?ID=371) DC 31) to magically counteract the rune\n\n<column gap=\"tiny\">\r\n\r\n**AC** 33, **Fort** +25, **Ref** +19\r\n\r\n**Hardness**\r\n21\r\n\r\n**HP**\r\n84 (BT 42)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Jolting Buzz** <actions string=\"Reaction\" /> ([electricity](/Traits.aspx?ID=56), [evocation](/Traits.aspx?ID=65), [primal](/Traits.aspx?ID=134), [sonic](/Traits.aspx?ID=147)) **Trigger** A creature attempts to open the door without using the key; **Effect** The trap makes a loud buzz and deals 5d10 electricity damage and 5d10 sonic damage to the triggering creature (DC 32 [basic](/Rules.aspx?ID=329) Reflex save; this save applies to both the electricity damage and the sonic damage). Further, the creature must attempt a DC 32 Fortitude save.\r\n\r\n**Critical Success** No effect.<br />\r\n**Success** The target is [paralyzed](/Conditions.aspx?ID=28) for 1 round.<br />\r\n**Failure** The target is paralyzed for 1d4 rounds. At the end of each of its turns, it can attempt a new DC 32 Fortitude save to reduce the remaining duration by 1 round, or end it entirely on a critical success.<br />\r\n**Critical Failure** The target is paralyzed for 1 minute. At the end of each of its turns, it can attempt a new Fortitude save to reduce the remaining duration by 1 round, or end it entirely on a critical success.\n\n---\r\n**Reset**\r\nThe trap resets after 1 hour.",
+ "name": "Buzzing Latch Rune",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2020-04-29",
+ "reset": "The trap resets after 1 hour.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Sonic\" url=\"/Traits.aspx?ID=147\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 21</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn invisible rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.\r\n</summary>",
+ "source": [
+  "Pathfinder #154: Siege of the Dinosaurs"
+ ],
+ "source_raw": [
+  "Pathfinder #154: Siege of the Dinosaurs pg. 21"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 21</row>",
+ "speed": {},
+ "stealth": "DC 32 (master)",
+ "summary": "An invisible rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.",
+ "summary_markdown": "An invisible rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.",
+ "text": " Buzzing Latch Rune Source Pathfinder #154: Siege of the Dinosaurs pg. 21 Complexity Simple An invisible rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder. --- Stealth DC 32 (master) Disable DC 34 Thievery (master) to disrupt the rune without triggering it or dispel magic (6th level; counteract DC 31) to magically counteract the rune AC 33, Fort +25, Ref +19 Hardness 21 HP 84 (BT 42) Immunities critical hits, object immunities, precision damage Jolting Buzz Reaction (electricity, evocation, primal, sonic) Trigger A creature attempts to open the door without using the key; Effect The trap makes a loud buzz and deals 5d10 electricity damage and 5d10 sonic damage to the triggering creature (DC 32 basic Reflex save; this save applies to both the electricity damage and the sonic damage). Further, the creature must attempt a DC 32 Fortitude save. Critical Success No effect. Success The target is paralyzed for 1 round. Failure The target is paralyzed for 1d4 rounds. At the end of each of its turns, it can attempt a new DC 32 Fortitude save to reduce the remaining duration by 1 round, or end it entirely on a critical success. Critical Failure The target is paralyzed for 1 minute. At the end of each of its turns, it can attempt a new Fortitude save to reduce the remaining duration by 1 round, or end it entirely on a critical success. --- Reset The trap resets after 1 hour.",
+ "trait": [
+  "Electricity",
+  "Magical",
+  "Sonic",
+  "Trap"
+ ],
+ "trait_markdown": "[Electricity](/Traits.aspx?ID=56), [Magical](/Traits.aspx?ID=103), [Sonic](/Traits.aspx?ID=147), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Electricity",
+  "Magical",
+  "Sonic",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=229",
+ "weakness": {}
+}

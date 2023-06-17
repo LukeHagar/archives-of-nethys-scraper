@@ -1,0 +1,110 @@
+{
+ "ac": 19,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Rat Empathy",
+  "Nimble Dodge",
+  "Change Shape",
+  "Curse of the Wererat",
+  "Moon Frenzy",
+  "Sneak Attack"
+ ],
+ "creature_family": "Werecreature",
+ "creature_family_markdown": "[Werecreature](/MonsterFamilies.aspx?ID=100)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-410",
+ "image": [
+  "/Images/Monsters/Werecreature_Wererat.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "rat empathy"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); rat empathy",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Wererat](/Monsters.aspx?ID=410)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWererats tend to be selfishly opportunistic, avaricious, and paranoid as a result of their curse. Because wererats typically dwell in metropolitan areas where they can hide in plain sight, practically any city-goer could be a wererat in disguise—from the quiet shopkeep to the city’s criminal mastermind. The bustle of crowds and countless rat-holes make ghettos and shantytowns favored homes for wererats, especially since in these poorer districts the wererat can kill out of greed or fear with little chance of the authorities noticing. In some cities, wererats operate entire thieves’ guilds or organized crime rings, and membership requires willfully submitting to the wererat’s cursed bite. Wererats look very similar to ratfolk when in hybrid form, apart from potential differences in size, but ratfolk have no love for these monsters.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Werecreature_Wererat.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Wererat](/Monsters.aspx?ID=410)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 329</row>\n\n**Perception** +8; low-light vision, scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); rat empathy\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +6, [Deception](/Skills.aspx?ID=5) +5, [Society](/Skills.aspx?ID=14) +4, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Rat Empathy** ([divination](/Traits.aspx?ID=47), [primal](/Traits.aspx?ID=134)) The wererat can communicate with rodents.\r\n\r\n**Items**\r\n[Leather Armor](/Armor.aspx?ID=4), [Hand Crossbow](/Weapons.aspx?ID=69) (20 bolts)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\n\n**Weaknesses**\r\nsilver 5\r\n\r\n**Nimble Dodge** <actions string=\"Reaction\" /> **Trigger** The wererat is targeted with a melee or ranged attack by an attacker it can see. **Effect** The wererat gains a +2 circumstance bonus to AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+4 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+2 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8+2 piercing plus curse of the wererat\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhand crossbow +10 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6 piercing\n\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) Human with fist +10 for 1d4+2 bludgeoning, or Small rat with Speed 30 feet, climb 10 feet.\r\n\r\n**Curse of the Wererat**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)) This curse affects only humanoids. **Saving Throw** DC 18 Fortitude save. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a wererat until dawn. The creature is under the GM’s control and goes on a rampage for half the night before falling unconscious until dawn.\r\n\r\n**Moon Frenzy**  ([Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) When a full moon appears in the night sky, the wererat must enter hybrid form, can’t Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the wererat returns to humanoid form and is fatigued for 2d4 hours.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The wererat deals 1d6 extra precision damage to flat-footed creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-100\" />",
+ "name": "Wererat",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 329</row>\r\n\r\n**Creature Family** [Werecreature](/MonsterFamilies.aspx?ID=100)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +6\r\n\r\n**Ref** +10\r\n\r\n**Will** +8\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWererats tend to be selfishly opportunistic, avaricious, and paranoid as a result of their curse. Because wererats typically dwell in metropolitan …\r\n</summary>",
+ "sense": "low-light vision, scent (imprecise) 30 feet",
+ "sense_markdown": "low-light vision, scent (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +6",
+  "Deception +5",
+  "Society +4",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +6, [Deception](/Skills.aspx?ID=5) +5, [Society](/Skills.aspx?ID=14) +4, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 329"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 329</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Wererats tend to be selfishly opportunistic, avaricious, and paranoid as a result of their curse. Because wererats typically dwell in metropolitan …",
+ "summary_markdown": "Wererats tend to be selfishly opportunistic, avaricious, and paranoid as a result of their curse. Because wererats typically dwell in metropolitan …",
+ "text": " Wererat Wererats tend to be selfishly opportunistic, avaricious, and paranoid as a result of their curse. Because wererats typically dwell in metropolitan areas where they can hide in plain sight, practically any city-goer could be a wererat in disguise—from the quiet shopkeep to the city’s criminal mastermind. The bustle of crowds and countless rat-holes make ghettos and shantytowns favored homes for wererats, especially since in these poorer districts the wererat can kill out of greed or fear with little chance of the authorities noticing. In some cities, wererats operate entire thieves’ guilds or organized crime rings, and membership requires willfully submitting to the wererat’s cursed bite. Wererats look very similar to ratfolk when in hybrid form, apart from potential differences in size, but ratfolk have no love for these monsters. Recall Knowledge - Beast (Arcana, Nature): DC 16 Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Wererat Source Bestiary pg. 329 Perception +8; low-light vision, scent (imprecise) 30 feet Languages Common; rat empathy Skills Acrobatics +8, Athletics +6, Deception +5, Society +4, Stealth +8 Str +2 Dex +4 Con +2 Int +0 Wis +2 Cha +1 Rat Empathy (divination, primal) The wererat can communicate with rodents. Items Leather Armor, Hand Crossbow (20 bolts) --- AC 19 Fort +6 Ref +10 Will +8 HP 45 Weaknesses silver 5 Nimble Dodge Reaction Trigger The wererat is targeted with a melee or ranged attack by an attacker it can see. Effect The wererat gains a +2 circumstance bonus to AC against the triggering attack. --- Speed 25 feet Melee Single Action shortsword +10 (Agile, Finesse, versatile S), Damage 1d6+4 piercing Melee Single Action claw +10 (Agile, Finesse), Damage 1d6+2 slashing Melee Single Action jaws +10 (Finesse), Damage 1d8+2 piercing plus curse of the wererat Ranged Single Action hand crossbow +10 (range increment 60 feet, reload 1), Damage 1d6 piercing Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) Human with fist +10 for 1d4+2 bludgeoning, or Small rat with Speed 30 feet, climb 10 feet. Curse of the Wererat (Curse, Necromancy, Primal) This curse affects only humanoids. Saving Throw DC 18 Fortitude save. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a wererat until dawn. The creature is under the GM’s control and goes on a rampage for half the night before falling unconscious until dawn. Moon Frenzy (Polymorph, Primal, Transmutation) When a full moon appears in the night sky, the wererat must enter hybrid form, can’t Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the wererat returns to humanoid form and is fatigued for 2d4 hours. Sneak Attack The wererat deals 1d6 extra precision damage to flat-footed creatures. ",
+ "trait": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Werecreature",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Werecreature](/Traits.aspx?ID=243)",
+ "trait_raw": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Werecreature"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=410",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "silver": 5
+ },
+ "weakness_markdown": "silver 5",
+ "weakness_raw": "silver 5",
+ "will_save": 8,
+ "wisdom": 2
+}

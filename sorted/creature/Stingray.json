@@ -1,0 +1,89 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 1,
+ "creature_ability": [
+  "Electrolocation",
+  "Stingray Venom"
+ ],
+ "creature_family": "Ray",
+ "creature_family_markdown": "[Ray](/MonsterFamilies.aspx?ID=149)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 5,
+ "hp": 15,
+ "hp_raw": "15",
+ "id": "creature-785",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Stingray](/Monsters.aspx?ID=785)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFound in salt or fresh water, stingrays are normally passive creatures, but when threatened or cornered, they lash out with their tails to lance foes with their toxic stingers. Stingrays often bury themselves in mud, sand, or sea grass, and unfortunately for those wading in shallow waters, stepping on an unseen stingray is a surefire way to receive a painful sting.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Stingray](/Monsters.aspx?ID=785)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 226 <sup>2.0</sup></row>\n\n**Perception** +6; electrolocation (imprecise) 30 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -4\r\n</row>\r\n\r\n**Electrolocation** A stingray in water can use its electrolocation as an imprecise sense at the listed range to detect living creatures that are in the same body of water as itself.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 15\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nsting +7 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+1 piercing plus stingray venom\n\n**Stingray Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 16 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage and [clumsy 1](/Conditions.aspx?ID=3) (1 round)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-149\" />",
+ "name": "Stingray",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 226 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Ray](/MonsterFamilies.aspx?ID=149)\r\n\r\n<row gap=\"medium\">\r\n**HP** 15\r\n\r\n**AC** 16\r\n\r\n**Fort** +5\r\n\r\n**Ref** +7\r\n\r\n**Will** +5\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFound in salt or fresh water, stingrays are normally passive creatures, but when threatened or cornered, they lash out with their tails to lance foes …\r\n</summary>",
+ "sense": "electrolocation (imprecise) 30 feet,  low-light vision ",
+ "sense_markdown": "electrolocation (imprecise) 30 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +5",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 226"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 226 <sup>2.0</sup></row>",
+ "speed": {
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "swim 30 feet",
+ "speed_raw": "swim 30 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Found in salt or fresh water, stingrays are normally passive creatures, but when threatened or cornered, they lash out with their tails to lance foes …",
+ "summary_markdown": "Found in salt or fresh water, stingrays are normally passive creatures, but when threatened or cornered, they lash out with their tails to lance foes …",
+ "text": " Stingray Found in salt or fresh water, stingrays are normally passive creatures, but when threatened or cornered, they lash out with their tails to lance foes with their toxic stingers. Stingrays often bury themselves in mud, sand, or sea grass, and unfortunately for those wading in shallow waters, stepping on an unseen stingray is a surefire way to receive a painful sting. Recall Knowledge - Animal (Nature): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Stingray Source Bestiary 2 pg. 226 2.0 Perception +6; electrolocation (imprecise) 30 feet, low-light vision Languages Skills Athletics +5, Stealth +7 Str +1 Dex +3 Con +1 Int -4 Wis +1 Cha -4 Electrolocation A stingray in water can use its electrolocation as an imprecise sense at the listed range to detect living creatures that are in the same body of water as itself. --- AC 16 Fort +5 Ref +7 Will +5 HP 15 --- Speed swim 30 feet Melee Single Action sting +7 (Agile, Finesse), Damage 1d6+1 piercing plus stingray venom Stingray Venom (Poison) Saving Throw DC 16 Fortitude; Maximum Duration 4 rounds; Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and clumsy 1 (1 round) ",
+ "trait": [
+  "Animal",
+  "Aquatic",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Aquatic](/Traits.aspx?ID=168)",
+ "trait_raw": [
+  "Animal",
+  "Aquatic"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=785",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 5,
+ "wisdom": 1
+}

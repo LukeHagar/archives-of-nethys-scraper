@@ -1,0 +1,120 @@
+{
+ "ac": 41,
+ "alignment": "NG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 6,
+ "creature_ability": [
+  "Aura of Peace",
+  "Attack of Opportunity",
+  "Banishing Swipe",
+  "Radiant Feathers"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 30,
+ "hp": 350,
+ "hp_raw": "350",
+ "id": "creature-370",
+ "image": [
+  "/Images/Monsters/Simurgh.png"
+ ],
+ "immunity": [
+  "disease",
+  "fire",
+  "negative energy",
+  "sleep"
+ ],
+ "immunity_markdown": "disease, fire, negative energy, sleep",
+ "intelligence": 3,
+ "language": [
+  "Celestial",
+  "Common",
+  "Draconic",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Simurgh](/Monsters.aspx?ID=370)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDesert-dwelling people consider the sight of a simurgh a herald to a lifetime’s worth of luck, and those who are unfamiliar with the majestic beast might mistake it for the avatar of a deity. Beautiful, graceful, and truly gargantuan, the simurgh resembles nothing so much as a massive multicolored bird with the head of an equally enormous and regal lupine. Simurghs act as intermediaries in world-threatening conflicts, serving as agents of good deities or vigilantes who spread their own brand of justice, typically by obliterating or banishing evil extraplanar beings.\n\n Simurghs can live for thousands of years, and because these ancient beings are so rare many doubt their existence. But they are very real, as those who have been aided by a simurgh can enthusiastically attest. A simurgh does not show itself often, but when it does, it is typically in response to a truly grave threat, such as the incursion of an undead army or the rampage of some truly epic monster. Simurghs are nothing if not paragons of righteousness, and goodly heroes can hardly find a better ally in their quest to vanquish evil than a simurgh.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 43\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 41\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 38\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Simurgh.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Simurgh](/Monsters.aspx?ID=370)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 295</row>\n\n**Perception** +32; darkvision\r\n\r\n**Languages**\r\n[Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +27, [Arcana](/Skills.aspx?ID=2) +28, [Athletics](/Skills.aspx?ID=3) +32, [Diplomacy](/Skills.aspx?ID=6) +34, [Medicine](/Skills.aspx?ID=9) +35, [Performance](/Skills.aspx?ID=12) +28, [Religion](/Skills.aspx?ID=13) +35, [Survival](/Skills.aspx?ID=16) +32\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +3\r\n\r\n**Con** +6\r\n\r\n**Int** +3\r\n\r\n**Wis** +6\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 41 \r\n\r\n**Fort** +30 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +32 \r\n\r\n+1 status bonus to all saves vs. magic\r\n</row>\r\n\r\n**HP** 350\n\n**Immunities**\r\ndisease, fire, negative energy, sleep\n\n**Aura of Peace** ([divine](/Traits.aspx?ID=48), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [incapacitation](/Traits.aspx?ID=93), [mental](/Traits.aspx?ID=106)) 50 feet. A creature that starts its turn in the aura must attempt a DC 37 Will save or be affected by calm emotions. Creatures that successfully save are unaffected, but must attempt another save each turn they start in the aura.<br /> **Attack of Opportunity** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, fly 90 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +34 ([Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+12 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +34 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+12 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +34 ([Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+10 slashing plus banishing swipe\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nglaring ray +34 ([Magical](/Traits.aspx?ID=103), [range 100 feet](/Traits.aspx?ID=248)),\r\n**Damage** 10d6 fire\r\n\r\n**Divine Innate Spells** DC 42\r\n- **Cantrips (9th)**\r\n[Detect Magic](/Spells.aspx?ID=66), [Light](/Spells.aspx?ID=171)\r\n- **1st**\r\n[Dazzling Flash](/Spells.aspx?ID=412)\r\n- **2nd**\r\n[Detect Alignment](/Spells.aspx?ID=65) (evil only; at will)\r\n- **3rd**\r\n[Zone of Truth](/Spells.aspx?ID=379) (at will)\r\n- **9th**\r\n[Flame Strike](/Spells.aspx?ID=120), [Heal](/Spells.aspx?ID=148)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Banishing Swipe**   If a creature hit by the simurgh’s tail Strike is not currently on its home plane, it must succeed at a DC 42 Will save or be affected by [_banishment_](/Spells.aspx?ID=19), except that if the creature critically succeeds its save the simurgh is not stunned.\r\n\r\n**Radiant Feathers** <actions string=\"Two Actions\" /> ([Attack](/Traits.aspx?ID=15)) **Frequency** Once per day. **Effect** The simurgh fans out its glimmering tail feathers and blasts its foes with a 100-foot cone of radiant light. Aside from the size of the cone, this effect is identical to _[prismatic spray](/Spells.aspx?ID=233)_ (DC 42).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Simurgh</title>\r\n\r\nWhile simurghs can be found in the service of most good-aligned faiths, it is the teachings of Shelyn, goddess of art, to which these creatures are most often drawn. A temple of Shelyn that has managed to attract the attention and friendship of a simurgh typically honors the creature’s privacy and does not boast of the alliance, yet won’t hesitate to call for its aid in times of need.\r\n</aside>",
+ "name": "Simurgh",
+ "npc": false,
+ "perception": 32,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 29,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 295</row>\n\n<row gap=\"medium\">\r\n**HP** 350\r\n\r\n**AC** 41\r\n\r\n**Fort** +30\r\n\r\n**Ref** +29\r\n\r\n**Will** +32\r\n\r\n**Perception** +32\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDesert-dwelling people consider the sight of a simurgh a herald to a lifetime’s worth of luck, and those who are unfamiliar with the majestic beast …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +27",
+  "Arcana +28",
+  "Athletics +32",
+  "Diplomacy +34",
+  "Medicine +35",
+  "Performance +28",
+  "Religion +35",
+  "Survival +32"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +27, [Arcana](/Skills.aspx?ID=2) +28, [Athletics](/Skills.aspx?ID=3) +32, [Diplomacy](/Skills.aspx?ID=6) +34, [Medicine](/Skills.aspx?ID=9) +35, [Performance](/Skills.aspx?ID=12) +28, [Religion](/Skills.aspx?ID=13) +35, [Survival](/Skills.aspx?ID=16) +32",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 295"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 295</row>",
+ "speed": {
+  "fly": 90,
+  "land": 40,
+  "max": 90
+ },
+ "speed_markdown": "40 feet, fly 90 feet",
+ "speed_raw": "40 feet, fly 90 feet",
+ "spell": [
+  "Flame Strike",
+  "Heal",
+  "Zone of Truth",
+  "Detect Alignment",
+  "Dazzling Flash",
+  "Detect Magic",
+  "Light",
+  "Tongues"
+ ],
+ "spell_markdown": "[Dazzling Flash](/Spells.aspx?ID=412), [Detect Alignment](/Spells.aspx?ID=65), [Detect Magic](/Spells.aspx?ID=66), [Flame Strike](/Spells.aspx?ID=120), [Heal](/Spells.aspx?ID=148), [Light](/Spells.aspx?ID=171), [Tongues](/Spells.aspx?ID=340), [Zone of Truth](/Spells.aspx?ID=379)",
+ "strength": 8,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Desert-dwelling people consider the sight of a simurgh a herald to a lifetime’s worth of luck, and those who are unfamiliar with the majestic beast …",
+ "summary_markdown": "Desert-dwelling people consider the sight of a simurgh a herald to a lifetime’s worth of luck, and those who are unfamiliar with the majestic beast …",
+ "text": " Simurgh Desert-dwelling people consider the sight of a simurgh a herald to a lifetime’s worth of luck, and those who are unfamiliar with the majestic beast might mistake it for the avatar of a deity. Beautiful, graceful, and truly gargantuan, the simurgh resembles nothing so much as a massive multicolored bird with the head of an equally enormous and regal lupine. Simurghs act as intermediaries in world-threatening conflicts, serving as agents of good deities or vigilantes who spread their own brand of justice, typically by obliterating or banishing evil extraplanar beings. Simurghs can live for thousands of years, and because these ancient beings are so rare many doubt their existence. But they are very real, as those who have been aided by a simurgh can enthusiastically attest. A simurgh does not show itself often, but when it does, it is typically in response to a truly grave threat, such as the incursion of an undead army or the rampage of some truly epic monster. Simurghs are nothing if not paragons of righteousness, and goodly heroes can hardly find a better ally in their quest to vanquish evil than a simurgh. Recall Knowledge - Beast (Arcana, Nature): DC 43 Unspecific Lore : DC 41 Specific Lore : DC 38 Simurgh Source Bestiary pg. 295 Perception +32; darkvision Languages Celestial, Common, Draconic; tongues Skills Acrobatics +27, Arcana +28, Athletics +32, Diplomacy +34, Medicine +35, Performance +28, Religion +35, Survival +32 Str +8 Dex +3 Con +6 Int +3 Wis +6 Cha +5 --- AC 41 Fort +30 Ref +29 Will +32 +1 status bonus to all saves vs. magic HP 350 Immunities disease, fire, negative energy, sleep Aura of Peace (divine, emotion, enchantment, incapacitation, mental) 50 feet. A creature that starts its turn in the aura must attempt a DC 37 Will save or be affected by calm emotions. Creatures that successfully save are unaffected, but must attempt another save each turn they start in the aura. Attack of Opportunity Reaction --- Speed 40 feet, fly 90 feet Melee Single Action jaws +34 (Magical, reach 20 feet), Damage 4d12+12 piercing Melee Single Action claw +34 (Agile, Magical, reach 15 feet), Damage 4d8+12 slashing Melee Single Action tail +34 (Magical, reach 20 feet), Damage 4d8+10 slashing plus banishing swipe Ranged Single Action glaring ray +34 (Magical, range 100 feet), Damage 10d6 fire Divine Innate Spells DC 42 - Cantrips (9th) Detect Magic, Light - 1st Dazzling Flash - 2nd Detect Alignment (evil only; at will) - 3rd Zone of Truth (at will) - 9th Flame Strike, Heal - Constant (5th) Tongues Banishing Swipe If a creature hit by the simurgh’s tail Strike is not currently on its home plane, it must succeed at a DC 42 Will save or be affected by banishment , except that if the creature critically succeeds its save the simurgh is not stunned. Radiant Feathers Two Actions (Attack) Frequency Once per day. Effect The simurgh fans out its glimmering tail feathers and blasts its foes with a 100-foot cone of radiant light. Aside from the size of the cone, this effect is identical to prismatic spray (DC 42). Simurgh While simurghs can be found in the service of most good-aligned faiths, it is the teachings of Shelyn, goddess of art, to which these creatures are most often drawn. A temple of Shelyn that has managed to attract the attention and friendship of a simurgh typically honors the creature’s privacy and does not boast of the alliance, yet won’t hesitate to call for its aid in times of need. ",
+ "trait": [
+  "Beast",
+  "Rare",
+  "NG",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Beast",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=370",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 32,
+ "wisdom": 6
+}

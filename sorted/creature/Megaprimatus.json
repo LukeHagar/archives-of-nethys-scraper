@@ -1,0 +1,88 @@
+{
+ "ac": 26,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 5,
+ "creature_ability": [
+  "Mangling Rend",
+  "Terrifying Display"
+ ],
+ "creature_family": "Ape",
+ "creature_family_markdown": "[Ape](/MonsterFamilies.aspx?ID=6)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 150,
+ "hp_raw": "150",
+ "id": "creature-26",
+ "image": [
+  "/Images/Monsters/Ape_Megaprimatus.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Megaprimatus](/Monsters.aspx?ID=26)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe megaprimatus is among the mightiest of apes, quick to confront any perceived intrusions into its domain. With a height of 40 feet, it towers over even most giants, and is used to being the top-tier predator in the region.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ape_Megaprimatus.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Megaprimatus](/Monsters.aspx?ID=26)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 23</row>\n\n**Perception** +15; low-light vision, scent (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 150\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +21 ([Agile](/Traits.aspx?ID=170), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+10 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+10 piercing\n\n**Mangling Rend** <actions string=\"Two Actions\" />  A megaprimatus makes two fist Strikes against the same target. If both hit, the attack deals an additional 2d6 bludgeoning damage, the target is [flat-footed](/Conditions.aspx?ID=16), and the target takes a –20-foot status penalty to all Speeds until the end of its next turn.\r\n\r\n**Terrifying Display** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The megaprimatus beats its chest in a terrifying display. Creatures within 50 feet must attempt a DC 27 Will save. While a creature is [frightened](/Conditions.aspx?ID=19) by this ability, it is [flat-footed](/Conditions.aspx?ID=16) to the megaprimatus and to gorillas.<br /> **Critical Success** No effect and temporarily immune for 1 minute.<br /> **Success** The creature is unaffected.<br /> **Failure** The creature is [frightened 1](/Conditions.aspx?ID=19).<br /> **Critical Failure** The creature is [frightened 2](/Conditions.aspx?ID=19) and fleeing until the end of its next turn.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-6\" />",
+ "name": "Megaprimatus",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 23</row>\r\n\r\n**Creature Family** [Ape](/MonsterFamilies.aspx?ID=6)\r\n\r\n<row gap=\"medium\">\r\n**HP** 150\r\n\r\n**AC** 26\r\n\r\n**Fort** +19\r\n\r\n**Ref** +16\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe megaprimatus is among the mightiest of apes, quick to confront any perceived intrusions into its domain. With a height of 40 feet, it towers over …\r\n</summary>",
+ "sense": "low-light vision, scent (imprecise) 30 feet",
+ "sense_markdown": "low-light vision, scent (imprecise) 30 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +19",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 23"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 23</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The megaprimatus is among the mightiest of apes, quick to confront any perceived intrusions into its domain. With a height of 40 feet, it towers over …",
+ "summary_markdown": "The megaprimatus is among the mightiest of apes, quick to confront any perceived intrusions into its domain. With a height of 40 feet, it towers over …",
+ "text": " Megaprimatus The megaprimatus is among the mightiest of apes, quick to confront any perceived intrusions into its domain. With a height of 40 feet, it towers over even most giants, and is used to being the top-tier predator in the region. Recall Knowledge - Animal (Nature): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Megaprimatus Source Bestiary pg. 23 Perception +15; low-light vision, scent (imprecise) 30 feet Languages Skills Acrobatics +14, Athletics +19 Str +7 Dex +2 Con +5 Int -4 Wis +1 Cha +2 --- AC 26 Fort +19 Ref +16 Will +13 HP 150 --- Speed 30 feet, climb 30 feet Melee Single Action fist +21 (Agile, reach 20 feet), Damage 2d8+10 bludgeoning Melee Single Action jaws +21 (reach 10 feet), Damage 2d10+10 piercing Mangling Rend Two Actions A megaprimatus makes two fist Strikes against the same target. If both hit, the attack deals an additional 2d6 bludgeoning damage, the target is flat-footed, and the target takes a –20-foot status penalty to all Speeds until the end of its next turn. Terrifying Display Two Actions (Auditory, Emotion, Fear, Mental) The megaprimatus beats its chest in a terrifying display. Creatures within 50 feet must attempt a DC 27 Will save. While a creature is frightened by this ability, it is flat-footed to the megaprimatus and to gorillas. Critical Success No effect and temporarily immune for 1 minute. Success The creature is unaffected. Failure The creature is frightened 1. Critical Failure The creature is frightened 2 and fleeing until the end of its next turn. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=26",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 1
+}

@@ -1,0 +1,90 @@
+{
+ "ac": 35,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Fling",
+  "Pin Prey",
+  "Swallow Whole",
+  "Tail Swipe",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 260,
+ "hp_raw": "260",
+ "id": "creature-1459",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tyrannosaurus Imperator](/Monsters.aspx?ID=1459)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Tyrannosaurus Imperator](/Monsters.aspx?ID=1459)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Dinosaur\" url=\"/Traits.aspx?ID=45\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 31</row>\n\n**Perception** +25; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +20, [Athletics](/Skills.aspx?ID=3) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 260\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +28 ([deadly d12](/Traits.aspx?ID=174), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+12 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +28 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+12 bludgeoning\n\n**Fling** <actions string=\"Single Action\" />  **Requirements** A creature is [Grabbed](/Conditions.aspx?ID=20) in the tyrannosaurus's jaws. **Effect** The tyrannosaurus flings the creature into the air up to 10 feet up from its mouth and 20ft away. The creature falls 25 feet (assuming the tyrannosaurus flings it as high as it can) and takes falling damage accordingly. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed upon can attempt a DC 29 [basic](/Rules.aspx?ID=329) Reflex save.\r\n\r\n**Pin Prey** <actions string=\"Reaction\" />  **Trigger** The tyrannosaurus critically hits a Large or smaller foe with its **foot**. **Effect** The creature struck by the foot is knocked [prone](/Conditions.aspx?ID=31) and the tyrannosaurus uses its foot to hold the creature in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is [Grabbed](/Conditions.aspx?ID=20). A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner, but it cannot use swallow whole on the target unless it uses its jaws to [Grab](/MonsterAbilities.aspx?ID=18) the victim first.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Medium, 4d6+8 bludgeoning, Rupture 34\r\n\r\n**Tail Swipe** <actions string=\"Two Actions\" />  The tyrannosaurus sweeps its tail in a 15-foot cone, dealing 4d8+12 bludgeoning damage to all creatures in the cone. Creatures in the area must attempt a DC 34 Reflex save. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature takes half damage. <br />**Failure** The creature takes full damage and falls [prone](/Conditions.aspx?ID=31). <br />**Critical Failure** The creature takes double damage, is pushed back 10 feet, and falls prone.\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Huge or smaller, foot, DC 34\r\n\r\n</column>",
+ "name": "Tyrannosaurus Imperator",
+ "npc": false,
+ "perception": 25,
+ "rarity": "rare",
+ "reflex_save": 20,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Dinosaur\" url=\"/Traits.aspx?ID=45\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 31</row>\n\n<row gap=\"medium\">\r\n**HP** 260\r\n\r\n**AC** 35\r\n\r\n**Fort** +27\r\n\r\n**Ref** +20\r\n\r\n**Will** +25\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +20",
+  "Athletics +30"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +20, [Athletics](/Skills.aspx?ID=3) +30",
+ "source": [
+  "Pathfinder #166: Despair on Danger Island"
+ ],
+ "source_raw": [
+  "Pathfinder #166: Despair on Danger Island pg. 31"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 31</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Tyrannosaurus Imperator Recall Knowledge - Animal (Nature): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Tyrannosaurus Imperator Source Pathfinder #166: Despair on Danger Island pg. 31 Perception +25; low-light vision, scent (imprecise) 60 feet Languages Skills Acrobatics +20, Athletics +30 Str +9 Dex +2 Con +5 Int -4 Wis +3 Cha +0 --- AC 35 Fort +27 Ref +20 Will +25 HP 260 --- Speed 40 feet Melee Single Action jaws +28 (deadly d12, reach 20 feet), Damage 3d12+12 piercing plus Grab Melee Single Action foot +28 (reach 15 feet), Damage 3d10+12 bludgeoning Fling Single Action Requirements A creature is Grabbed in the tyrannosaurus's jaws. Effect The tyrannosaurus flings the creature into the air up to 10 feet up from its mouth and 20ft away. The creature falls 25 feet (assuming the tyrannosaurus flings it as high as it can) and takes falling damage accordingly. If the flung creature lands on another creature, the creature it lands on takes the same amount of bludgeoning damage. The creature being landed upon can attempt a DC 29 basic Reflex save. Pin Prey Reaction Trigger The tyrannosaurus critically hits a Large or smaller foe with its foot . Effect The creature struck by the foot is knocked prone and the tyrannosaurus uses its foot to hold the creature in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is Grabbed. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner, but it cannot use swallow whole on the target unless it uses its jaws to Grab the victim first. Swallow Whole Single Action (Attack) Medium, 4d6+8 bludgeoning, Rupture 34 Tail Swipe Two Actions The tyrannosaurus sweeps its tail in a 15-foot cone, dealing 4d8+12 bludgeoning damage to all creatures in the cone. Creatures in the area must attempt a DC 34 Reflex save. Critical Success The creature is unaffected. Success The creature takes half damage. Failure The creature takes full damage and falls prone. Critical Failure The creature takes double damage, is pushed back 10 feet, and falls prone. Trample Three Actions Huge or smaller, foot, DC 34 ",
+ "trait": [
+  "Animal",
+  "Dinosaur",
+  "Rare",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Dinosaur](/Traits.aspx?ID=45), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Animal",
+  "Dinosaur",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1459",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 3
+}

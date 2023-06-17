@@ -1,0 +1,109 @@
+{
+ "ac": 21,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 2,
+ "creature_ability": [
+  "Consume Flesh",
+  "Ghoul Fever",
+  "Hungry Rage",
+  "Gnaw and Chew",
+  "Paralysis",
+  "Swift Leap"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 80,
+ "hp_raw": "80 ( negative healing )",
+ "id": "creature-2172",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Hallit",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37), [Necril](/Languages.aspx?ID=20)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Hymmir Urath](/Monsters.aspx?ID=2172)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Hymmir Urath](/Monsters.aspx?ID=2172)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 82</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +14, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 80\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 5 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+7 plus ghoul fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +14 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d4+7 plus paralysis\n\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour. **Effect** The ghoul devours a chunk of the corpse and regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Ghoul Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** Fortitude DC 22; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [ghoul](/MonsterFamilies.aspx?ID=52) the next midnight.\r\n\r\n**Hungry Rage** <actions string=\"Reaction\" /> ([Concentrate](/Traits.aspx?ID=32), [Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106)) **Trigger** Hymmir damages a living creature with his jaws Strike; **Effect** The taste of flesh and blood throws Hymmir into a violent rage. He gains 9 temporary Hit Points, deals an additional 2 damage with melee Strikes, and takes a –1 penalty to AC for 1 minute.\r\n\r\n**Gnaw and Chew** <actions string=\"Three Actions\" />  **Requirements** Hymmir is in a hungry rage; **Effect** Hymmir attempts a jaws Strike. If he hits, he chews at his target and inflicts an additional 1d6 slashing damage. Hymmir regains 3d6 Hit Points.\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) Any living, non-[elf](/Traits.aspx?ID=58) creature hit by a ghoul's attack must succeed at a DC 22 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**Swift Leap** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The ghoul jumps up to half its Speed. This movement doesn't trigger reactions.\r\n\r\n</column>",
+ "name": "Hymmir Urath",
+ "npc": false,
+ "perception": 13,
+ "rarity": "unique",
+ "reflex_save": 15,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 82</row>\n\n<row gap=\"medium\">\r\n**HP** 80 ( negative healing )\r\n\r\n**AC** 21\r\n\r\n**Fort** +9\r\n\r\n**Ref** +15\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Athletics +14",
+  "Intimidation +11",
+  "Stealth +11",
+  "Survival +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +14, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +13",
+ "source": [
+  "Crown of the Kobold King"
+ ],
+ "source_raw": [
+  "Crown of the Kobold King pg. 82"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Crown of the Kobold King",
+ "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 82</row>",
+ "speed": {
+  "burrow": 5,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 5 feet",
+ "speed_raw": "30 feet, burrow 5 feet",
+ "spell_markdown": "",
+ "spoilers": "Crown of the Kobold King",
+ "stealth": "11",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Hymmir Urath Recall Knowledge - Undead (Religion): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Hymmir Urath Source Crown of the Kobold King pg. 82 Perception +13; darkvision Languages Common, Hallit, Necril Skills Acrobatics +13, Athletics +14, Intimidation +11, Stealth +11, Survival +13 Str +5 Dex +4 Con +2 Int +0 Wis +4 Cha +2 --- AC 21 Fort +9 Ref +15 Will +13 HP 80 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 30 feet, burrow 5 feet Melee Single Action jaws +14 (Finesse), Damage 2d6+7 plus ghoul fever and paralysis Melee Single Action claw +14 (Agile, Finesse), Damage 2d4+7 plus paralysis Consume Flesh Single Action (Manipulate) Requirements The ghoul is adjacent to the corpse of a creature that died within the last hour. Effect The ghoul devours a chunk of the corpse and regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once. Ghoul Fever (Disease) Saving Throw Fortitude DC 22; Stage 1 carrier with no ill effect (1 day); Stage 2 2d6 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 2d6 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghoul the next midnight. Hungry Rage Reaction (Concentrate, Emotion, Mental) Trigger Hymmir damages a living creature with his jaws Strike; Effect The taste of flesh and blood throws Hymmir into a violent rage. He gains 9 temporary Hit Points, deals an additional 2 damage with melee Strikes, and takes a –1 penalty to AC for 1 minute. Gnaw and Chew Three Actions Requirements Hymmir is in a hungry rage; Effect Hymmir attempts a jaws Strike. If he hits, he chews at his target and inflicts an additional 1d6 slashing damage. Hymmir regains 3d6 Hit Points. Paralysis (Incapacitation, Necromancy, Occult) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 22 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Swift Leap Single Action (Move) The ghoul jumps up to half its Speed. This movement doesn't trigger reactions. ",
+ "trait": [
+  "Ghoul",
+  "Undead",
+  "Unique",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Ghoul",
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2172",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 4
+}

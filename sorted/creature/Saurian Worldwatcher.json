@@ -1,0 +1,119 @@
+{
+ "ac": 43,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 6,
+ "creature_ability": [
+  "Raptor Jaw Disarm",
+  "Boneshaking Roar",
+  "Stunning Blow"
+ ],
+ "creature_family": "Saurian",
+ "creature_family_markdown": "[Saurian](/MonsterFamilies.aspx?ID=204)",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 30,
+ "hp": 330,
+ "hp_raw": "330",
+ "id": "creature-978",
+ "image": [
+  "/Images/Monsters/Saurian_SaurianWorldwatcher.png"
+ ],
+ "intelligence": 5,
+ "language": [
+  "Common",
+  "Ignan",
+  "Sylvan",
+  "<%SPELLS%293%%><i>speak with animals</i><%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Ignan](/Languages.aspx?ID=18), [Sylvan](/Languages.aspx?ID=10); [_speak with animals_](/Spells.aspx?ID=293)",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Saurian Worldwatcher](/Monsters.aspx?ID=978)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe longest-lived saurians favor introspection and take the long view of things—though this thoughtfulness should not be mistaken for weakness. Other saurians defer to worldwatchers' experience.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Saurian_SaurianWorldwatcher.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Saurian Worldwatcher](/Monsters.aspx?ID=978)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Dinosaur\" url=\"/Traits.aspx?ID=45\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 81</row>\n\n**Perception** +34; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Ignan](/Languages.aspx?ID=18), [Sylvan](/Languages.aspx?ID=10); [_speak with animals_](/Spells.aspx?ID=293)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +35, [Athletics](/Skills.aspx?ID=3) +33, [Diplomacy](/Skills.aspx?ID=6) +32, [Intimidation](/Skills.aspx?ID=7) +32, [Nature](/Skills.aspx?ID=10) +34, [Stealth](/Skills.aspx?ID=15) +35, [Survival](/Skills.aspx?ID=16) +34\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +9\r\n\r\n**Con** +6\r\n\r\n**Int** +5\r\n\r\n**Wis** +8\r\n\r\n**Cha** +6\r\n</row>\n\n**Items**\r\n[javelins](/Weapons.aspx?ID=71) (2), _+2 [greater striking](/Equipment.aspx?ID=280) [naginata](/Weapons.aspx?ID=98)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 43 \r\n\r\n**Fort** +30 \r\n\r\n**Ref** +33 \r\n\r\n**Will** +32 \n\n</row>\r\n\r\n**HP** 330\n\n**Resistances**\r\nfire 15\n\n**Raptor Jaw Disarm** <actions string=\"Reaction\" /> **Frequency** once per round; **Trigger** A creature makes a melee Strike against the worldwatcher but misses; **Effect** The worldwatcher breaks the triggering creature's limb or weapon. If the triggering Strike was an unarmed attack, the triggering creature takes 6d6 bludgeoning damage and becomes [clumsy 1](/Conditions.aspx?ID=3) until the limb is reset (an Interact action with the [manipulate](/Traits.aspx?ID=104) trait). If the triggering Strike was a weapon Strike, the weapon takes 6d6 bludgeoning damage.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_naginata_ +35 ([deadly d8](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 3d8+19 slashing plus stunning blow\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +33 ([deadly d12](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+17 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +35 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d10+19 bludgeoning plus stunning blow\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +35 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 3d6+19 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\njavelin +35 ([thrown 30 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+19 piercing\r\n\r\n**Primal Innate Spells** DC 40\r\n- **2nd**\r\n[Animal Messenger](/Spells.aspx?ID=11)\r\n- **3rd**\r\n[Animal Vision](/Spells.aspx?ID=12) (at will; dinosaurs only)\r\n- **4th**\r\n[Air Walk](/Spells.aspx?ID=6)\r\n- **9th**\r\n[Fiery Body](/Spells.aspx?ID=115), [Summon Animal](/Spells.aspx?ID=316) (dinosaur only), [Volcanic Eruption](/Spells.aspx?ID=360)\r\n- **Constant (2nd)**\r\n[Speak with Animals](/Spells.aspx?ID=293)\r\n\r\n**Boneshaking Roar** <actions string=\"Two Actions\" /> ([Incapacitation](/Traits.aspx?ID=93), [Sonic](/Traits.aspx?ID=147)) The saurian worldwatcher bellows, evoking the power of the primordial world. Non-[dinosaur](/Traits.aspx?ID=45) creatures within 30 feet take 10d6 sonic damage (DC 38 basic Fortitude save). On a failed save, a creature is also [slowed 2](/Conditions.aspx?ID=35) for 1 round (stunned 1d4 on a critical failure). The saurian can't use Boneshaking Roar again for 1d4 rounds.\r\n\r\n**Stunning Blow**  ([Incapacitation](/Traits.aspx?ID=93)) Whenever the worldwatcher hits a creature with their fist or naginata Strike, that creature must succeed at a DC 39 Fortitude save or be [stunned 1](/Conditions.aspx?ID=36) (stunned 3 on a critical hit).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-204\" />",
+ "name": "Saurian Worldwatcher",
+ "npc": false,
+ "perception": 34,
+ "rarity": "uncommon",
+ "reflex_save": 33,
+ "release_date": "2020-06-24",
+ "resistance": {
+  "fire": 15
+ },
+ "resistance_markdown": "fire 15",
+ "resistance_raw": "fire 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Dinosaur\" url=\"/Traits.aspx?ID=45\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 81</row>\r\n\r\n**Creature Family** [Saurian](/MonsterFamilies.aspx?ID=204)\r\n\r\n<row gap=\"medium\">\r\n**HP** 330\r\n\r\n**AC** 43\r\n\r\n**Fort** +30\r\n\r\n**Ref** +33\r\n\r\n**Will** +32\r\n\r\n**Perception** +34\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe longest-lived saurians favor introspection and take the long view of things—though this thoughtfulness should not be mistaken for weakness. Other …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +35",
+  "Athletics +33",
+  "Diplomacy +32",
+  "Intimidation +32",
+  "Nature +34",
+  "Stealth +35",
+  "Survival +34"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +35, [Athletics](/Skills.aspx?ID=3) +33, [Diplomacy](/Skills.aspx?ID=6) +32, [Intimidation](/Skills.aspx?ID=7) +32, [Nature](/Skills.aspx?ID=10) +34, [Stealth](/Skills.aspx?ID=15) +35, [Survival](/Skills.aspx?ID=16) +34",
+ "source": [
+  "Pathfinder #156: The Apocalypse Prophet"
+ ],
+ "source_raw": [
+  "Pathfinder #156: The Apocalypse Prophet pg. 81"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 81</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell": [
+  "Fiery Body",
+  "Summon Animal",
+  "Volcanic Eruption",
+  "Air Walk",
+  "Animal Vision",
+  "Animal Messenger",
+  "Speak with Animals"
+ ],
+ "spell_markdown": "[Air Walk](/Spells.aspx?ID=6), [Animal Messenger](/Spells.aspx?ID=11), [Animal Vision](/Spells.aspx?ID=12), [Fiery Body](/Spells.aspx?ID=115), [Speak with Animals](/Spells.aspx?ID=293), [Summon Animal](/Spells.aspx?ID=316), [Volcanic Eruption](/Spells.aspx?ID=360)",
+ "spoilers": "Extinction Curse",
+ "stealth": "35",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The longest-lived saurians favor introspection and take the long view of things—though this thoughtfulness should not be mistaken for weakness. Other …",
+ "summary_markdown": "The longest-lived saurians favor introspection and take the long view of things—though this thoughtfulness should not be mistaken for weakness. Other …",
+ "text": " Saurian Worldwatcher The longest-lived saurians favor introspection and take the long view of things—though this thoughtfulness should not be mistaken for weakness. Other saurians defer to worldwatchers' experience. Recall Knowledge - Humanoid (Society): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Saurian Worldwatcher Source Pathfinder #156: The Apocalypse Prophet pg. 81 Perception +34; darkvision Languages Common, Ignan, Sylvan; speak with animals Skills Acrobatics +35, Athletics +33, Diplomacy +32, Intimidation +32, Nature +34, Stealth +35, Survival +34 Str +7 Dex +9 Con +6 Int +5 Wis +8 Cha +6 Items javelins (2), +2 greater striking naginata --- AC 43 Fort +30 Ref +33 Will +32 HP 330 Resistances fire 15 Raptor Jaw Disarm Reaction Frequency once per round; Trigger A creature makes a melee Strike against the worldwatcher but misses; Effect The worldwatcher breaks the triggering creature's limb or weapon. If the triggering Strike was an unarmed attack, the triggering creature takes 6d6 bludgeoning damage and becomes clumsy 1 until the limb is reset (an Interact action with the manipulate trait). If the triggering Strike was a weapon Strike, the weapon takes 6d6 bludgeoning damage. --- Speed 40 feet Melee Single Action naginata +35 (deadly d8, Magical, reach 20 feet, versatile P), Damage 3d8+19 slashing plus stunning blow Melee Single Action jaws +33 (deadly d12, Magical, reach 15 feet), Damage 3d10+17 piercing Melee Single Action fist +35 (Agile, Finesse, Magical, reach 10 feet), Damage 4d10+19 bludgeoning plus stunning blow Melee Single Action tail +35 (Agile, Finesse, Magical, reach 10 feet, Trip), Damage 3d6+19 bludgeoning Ranged Single Action javelin +35 (thrown 30 feet), Damage 1d6+19 piercing Primal Innate Spells DC 40 - 2nd Animal Messenger - 3rd Animal Vision (at will; dinosaurs only) - 4th Air Walk - 9th Fiery Body, Summon Animal (dinosaur only), Volcanic Eruption - Constant (2nd) Speak with Animals Boneshaking Roar Two Actions (Incapacitation, Sonic) The saurian worldwatcher bellows, evoking the power of the primordial world. Non-dinosaur creatures within 30 feet take 10d6 sonic damage (DC 38 basic Fortitude save). On a failed save, a creature is also slowed 2 for 1 round (stunned 1d4 on a critical failure). The saurian can't use Boneshaking Roar again for 1d4 rounds. Stunning Blow (Incapacitation) Whenever the worldwatcher hits a creature with their fist or naginata Strike, that creature must succeed at a DC 39 Fortitude save or be stunned 1 (stunned 3 on a critical hit). ",
+ "trait": [
+  "Dinosaur",
+  "Humanoid",
+  "Uncommon",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Dinosaur](/Traits.aspx?ID=45), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Dinosaur",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=978",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 32,
+ "wisdom": 8
+}

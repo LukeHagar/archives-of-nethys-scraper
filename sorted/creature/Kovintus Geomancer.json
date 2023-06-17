@@ -1,0 +1,109 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 1,
+ "creature_ability": [
+  "Nature's Rebirth",
+  "Nature's Chosen"
+ ],
+ "creature_family": "Kovintus",
+ "creature_family_markdown": "[Kovintus](/MonsterFamilies.aspx?ID=244)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-1212",
+ "image": [
+  "/Images/Monsters/Kovintus.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Kovintal",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Kovintal](/Languages.aspx?ID=66), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Kovintus Geomancer](/Monsters.aspx?ID=1212)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nKovintus are reclusive humanoids with an inborn talent for geomancy that ties them intrinsically to nature. Not only can they call upon the magic of nature, it also calls to them in return, turning them into an element of the surrounding terrain when they die. One of the strongest traditions in kovintus culture is making maps to chronicle the places their loved ones have become one with the landscape.\n\n Kovintus live in small groups in natural places far from larger civilizations. A typical kovintus settlement consists of natural houses built into the environment around a central meeting place. The form fits the terrain, with dwellings nestled into crags on a mountain or forming a windbreak on a plain. Though kovintus beliefs can greatly differ based on their home terrain, many of these creatures believe their intrinsic commonality through nature links them more intimately than such superficial differences.\n\n Once, all kovintus lived in their ancient home, the Valley—a place of bounty and natural splendor unheard of in the modern world. This paradise was lost in ancient times, and the kovintus set out in small groups to find new homes. Today, any valley kovintus come upon is called merely an “echo” of the true Valley. Rather than seeking their original valley, kovintus believe the cycles of nature will someday bring about a new home with the same grandeur.\n\n Kovintus faith calls for respect rather than reverence. When traveling away from home, kovintus believe it's crucial to respect any local deities who have built the land they stand upon, and pay them tribute with small offerings.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Kovintus.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Kovintus Geomancer](/Monsters.aspx?ID=1212)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Kovintus\" url=\"/Traits.aspx?ID=355\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 153</row>\n\n**Perception** +11; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Kovintal](/Languages.aspx?ID=66), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Nature](/Skills.aspx?ID=10) +11, [Survival](/Skills.aspx?ID=16) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** -1\r\n</row>\n\n**Items**\r\n[Mace](/Weapons.aspx?ID=7), [Sling](/Weapons.aspx?ID=72) (10 bullets)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 40\n\n**Resistances**\r\nair 5, earth 5, plant 5, water 5\n\n**Nature's Rebirth** ([primal](/Traits.aspx?ID=134), [transmutation](/Traits.aspx?ID=157)) When slain, a kovintus immediately and permanently transforms into a part of the natural environment: a stone outcropping in a rocky area, a rivulet near a body of water, a young tree in a forest, or a low-lying cloud atop a high mountain. This ability has the trait appropriate to the environment (such as [air](/Traits.aspx?ID=5), [earth](/Traits.aspx?ID=55), [plant](/Traits.aspx?ID=125), or [water](/Traits.aspx?ID=165)). This piece of the environment looks ordinary to most, but other kovintus can easily identify this as their kin. A kovintus slain far from any appropriate terrain transforms into a feature matching the terrain where they were born.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmace +12 ([Shove](/Traits.aspx?ID=193)),\r\n**Damage** 1d6+6 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nsling +12 ([Propulsive](/Traits.aspx?ID=191), [range increment 50 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+4 bludgeoning\r\n\r\n**Primal Innate Spells** DC 21\r\n- **2nd**\r\n[Entangle](/Spells.aspx?ID=103), [Gust of Wind](/Spells.aspx?ID=143), [Obscuring Mist](/Spells.aspx?ID=210), [Pummeling Rubble](/Spells.aspx?ID=708)\r\n- **3rd**\r\nsee nature's chosen\r\n- **Constant (3rd)**\r\n[Endure Elements](/Spells.aspx?ID=99), [Pass Without Trace](/Spells.aspx?ID=215), [Water Breathing](/Spells.aspx?ID=370)\r\n\r\n**Nature's Chosen**   Once per day, the kovintus can cast a 3rd-level primal innate spell. They can do so only if a spell with a corresponding trait was cast within 10 feet of the kovintus since the start of their last turn (including if the kovintus Cast the Spell). The traits and the spells they grant are as follows: [_wall of wind_](/Spells.aspx?ID=367) for [air](/Traits.aspx?ID=5), [_meld into stone_](/Spells.aspx?ID=188) for [earth](/Traits.aspx?ID=55), [_wall of thorns_](/Spells.aspx?ID=366) for [plant](/Traits.aspx?ID=125), and [_crashing wave_](/Spells.aspx?ID=682) for [water](/Traits.aspx?ID=165).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-244\" />",
+ "name": "Kovintus Geomancer",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "resistance_markdown": "air 5, earth 5, plant 5, water 5",
+ "resistance_raw": "air 5, earth 5, plant 5, water 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Kovintus\" url=\"/Traits.aspx?ID=355\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 153</row>\r\n\r\n**Creature Family** [Kovintus](/MonsterFamilies.aspx?ID=244)\r\n\r\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 18\r\n\r\n**Fort** +8\r\n\r\n**Ref** +8\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nKovintus are reclusive humanoids with an inborn talent for geomancy that ties them intrinsically to nature. Not only can they call upon the magic of …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Nature +11",
+  "Survival +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Nature](/Skills.aspx?ID=10) +11, [Survival](/Skills.aspx?ID=16) +9",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 153"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 153</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Entangle",
+  "Gust of Wind",
+  "Obscuring Mist",
+  "Pummeling Rubble",
+  "Endure Elements",
+  "Pass Without Trace",
+  "Water Breathing",
+  "Wall of Wind"
+ ],
+ "spell_markdown": "[Endure Elements](/Spells.aspx?ID=99), [Entangle](/Spells.aspx?ID=103), [Gust of Wind](/Spells.aspx?ID=143), [Obscuring Mist](/Spells.aspx?ID=210), [Pass Without Trace](/Spells.aspx?ID=215), [Pummeling Rubble](/Spells.aspx?ID=708), [Wall of Wind](/Spells.aspx?ID=367), [Water Breathing](/Spells.aspx?ID=370)",
+ "strength": 3,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Kovintus are reclusive humanoids with an inborn talent for geomancy that ties them intrinsically to nature. Not only can they call upon the magic of …",
+ "summary_markdown": "Kovintus are reclusive humanoids with an inborn talent for geomancy that ties them intrinsically to nature. Not only can they call upon the magic of …",
+ "text": " Kovintus Geomancer Kovintus are reclusive humanoids with an inborn talent for geomancy that ties them intrinsically to nature. Not only can they call upon the magic of nature, it also calls to them in return, turning them into an element of the surrounding terrain when they die. One of the strongest traditions in kovintus culture is making maps to chronicle the places their loved ones have become one with the landscape. Kovintus live in small groups in natural places far from larger civilizations. A typical kovintus settlement consists of natural houses built into the environment around a central meeting place. The form fits the terrain, with dwellings nestled into crags on a mountain or forming a windbreak on a plain. Though kovintus beliefs can greatly differ based on their home terrain, many of these creatures believe their intrinsic commonality through nature links them more intimately than such superficial differences. Once, all kovintus lived in their ancient home, the Valley—a place of bounty and natural splendor unheard of in the modern world. This paradise was lost in ancient times, and the kovintus set out in small groups to find new homes. Today, any valley kovintus come upon is called merely an “echo” of the true Valley. Rather than seeking their original valley, kovintus believe the cycles of nature will someday bring about a new home with the same grandeur. Kovintus faith calls for respect rather than reverence. When traveling away from home, kovintus believe it's crucial to respect any local deities who have built the land they stand upon, and pay them tribute with small offerings. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Kovintus Geomancer Source Bestiary 3 pg. 153 Perception +11; low-light vision Languages Common, Kovintal, Sylvan Skills Athletics +8, Nature +11, Survival +9 Str +3 Dex +3 Con +1 Int +0 Wis +4 Cha -1 Items Mace, Sling (10 bullets) --- AC 18 Fort +8 Ref +8 Will +11 HP 40 Resistances air 5, earth 5, plant 5, water 5 Nature's Rebirth (primal, transmutation) When slain, a kovintus immediately and permanently transforms into a part of the natural environment: a stone outcropping in a rocky area, a rivulet near a body of water, a young tree in a forest, or a low-lying cloud atop a high mountain. This ability has the trait appropriate to the environment (such as air, earth, plant, or water). This piece of the environment looks ordinary to most, but other kovintus can easily identify this as their kin. A kovintus slain far from any appropriate terrain transforms into a feature matching the terrain where they were born. --- Speed 25 feet Melee Single Action mace +12 (Shove), Damage 1d6+6 bludgeoning Ranged Single Action sling +12 (Propulsive, range increment 50 feet, reload 1), Damage 1d6+4 bludgeoning Primal Innate Spells DC 21 - 2nd Entangle, Gust of Wind, Obscuring Mist, Pummeling Rubble - 3rd see nature's chosen - Constant (3rd) Endure Elements, Pass Without Trace, Water Breathing Nature's Chosen Once per day, the kovintus can cast a 3rd-level primal innate spell. They can do so only if a spell with a corresponding trait was cast within 10 feet of the kovintus since the start of their last turn (including if the kovintus Cast the Spell). The traits and the spells they grant are as follows: wall of wind for air, meld into stone for earth, wall of thorns for plant, and crashing wave for water. ",
+ "trait": [
+  "Humanoid",
+  "Kovintus",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Kovintus](/Traits.aspx?ID=355)",
+ "trait_raw": [
+  "Humanoid",
+  "Kovintus"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1212",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 4
+}

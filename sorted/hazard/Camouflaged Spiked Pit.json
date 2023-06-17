@@ -1,0 +1,43 @@
+{
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "Yanking the cloth away is a simple way to expose the danger to allow someone to merely avoid it by walking around its edges, but it cannot be quickly disabled.",
+ "exclude_from_search": false,
+ "hazard_type": "Trap",
+ "id": "hazard-281",
+ "level": 8,
+ "markdown": "<title level=\"1\" right=\"Hazard 8\" pfs=\"\">[Camouflaged Spiked Pit](/Hazards.aspx?ID=281)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 257</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA 20-foot deep, funnel-shaped pit with dozens of wooden spikes lining its walls.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 31 (expert)\r\n\r\n**Disable**\r\nYanking the cloth away is a simple way to expose the danger to allow someone to merely avoid it by walking around its edges, but it cannot be quickly disabled.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Spiked Pitall** <actions string=\"Reaction\" /> **Trigger** A creature walks onto one of the pits; **Effect** The triggering creature falls and rolls through several spikes as it slides to the bottom. This inflicts 5 bludgeoning damage from the fall itself down the steep slope (the falling PC can't attempt to [Grab an Edge](/Actions.aspx?ID=95) due to the lack of defined edges to the pit's walls), but the falling PC must also attempt a DC 26 Reflex save.\r\n\r\n**Critical Success** The character avoids all of the spikes and takes no additional damage.<br />\r\n**Success** The character takes 2d10+11 piercing damage from the spikes.<br />\r\n**Failure** The character takes 4d10+22 piercing damage from the spikes.<br />\r\n**Critical Failure** The character takes 4d10+22 piercing damage from the spikes plus 2d6 [bleed](/Conditions.aspx?ID=29)damage. While the character is taking this bleed damage, they are also sickened 2 from the pain.\n\n---\r\n**Reset**\r\nCreatures can still fall into the trap once it has been exposed, but the camouflaged cover must be reset manually for the trap to become hidden again.",
+ "name": "Camouflaged Spiked Pit",
+ "rarity": "common",
+ "release_date": "2022-10-26",
+ "reset": "Creatures can still fall into the trap once it has been exposed, but the camouflaged cover must be reset manually for the trap to become hidden again.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 257</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA 20-foot deep, funnel-shaped pit with dozens of wooden spikes lining its walls.\r\n</summary>",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 257"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 257</row>",
+ "speed": {},
+ "stealth": "DC 31 (expert)",
+ "summary": "A 20-foot deep, funnel-shaped pit with dozens of wooden spikes lining its walls.",
+ "summary_markdown": "A 20-foot deep, funnel-shaped pit with dozens of wooden spikes lining its walls.",
+ "text": " Camouflaged Spiked Pit Source Kingmaker Adventure Path pg. 257 Complexity Simple A 20-foot deep, funnel-shaped pit with dozens of wooden spikes lining its walls. --- Stealth DC 31 (expert) Disable Yanking the cloth away is a simple way to expose the danger to allow someone to merely avoid it by walking around its edges, but it cannot be quickly disabled. Spiked Pitall Reaction Trigger A creature walks onto one of the pits; Effect The triggering creature falls and rolls through several spikes as it slides to the bottom. This inflicts 5 bludgeoning damage from the fall itself down the steep slope (the falling PC can't attempt to Grab an Edge due to the lack of defined edges to the pit's walls), but the falling PC must also attempt a DC 26 Reflex save. Critical Success The character avoids all of the spikes and takes no additional damage. Success The character takes 2d10+11 piercing damage from the spikes. Failure The character takes 4d10+22 piercing damage from the spikes. Critical Failure The character takes 4d10+22 piercing damage from the spikes plus 2d6 bleeddamage. While the character is taking this bleed damage, they are also sickened 2 from the pain. --- Reset Creatures can still fall into the trap once it has been exposed, but the camouflaged cover must be reset manually for the trap to become hidden again.",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=281",
+ "weakness": {}
+}

@@ -1,0 +1,145 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 0,
+ "creature_ability": [
+  "Rejuvenation",
+  "Breath Weapon",
+  "Pyrokinetic Whirlwind",
+  "Soul Consumption"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 130,
+ "hp_raw": "130 ( negative healing )",
+ "id": "creature-2156",
+ "image": [
+  "/Images/Monsters/Pyrogeist.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "precision",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), precision, [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Pyrogeist](/Monsters.aspx?ID=2156)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBorn from the deaths of arsonists who died in the fires they started, pyrogeists are roiling infernos whose spectral fire emits no actual heat and harms only living creatures. Obsessed with sharing their torment with the living, pyrogeists haunt the area of their demise until whatever wrong they refuse to forgive has been righted, and they are finally put to rest. While pyrogeists can't set their own fires, they often use their terrifying illusory capabilities and telekinetic powers to lure their victims into setting themselves ablaze.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 29\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Pyrogeist.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Pyrogeist](/Monsters.aspx?ID=2156)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 86</row>\n\n**Perception** +20; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +22, [Intimidation](/Skills.aspx?ID=7) +22, [Stealth](/Skills.aspx?ID=15) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +7\r\n\r\n**Con** +0\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +18 \r\n\r\n+1 status to all saves vs. [positive](/Traits.aspx?ID=128)\r\n</row>\r\n\r\n**HP** 130\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), precision, [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nall damage 5 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or positive, double resistance against non-[magical](/Traits.aspx?ID=103)), channeling resistance (see below)\n\n**Rejuvenation** ([necromancy](/Traits.aspx?ID=117), [occult](/Traits.aspx?ID=120)) When a pyrogeist is destroyed, it reforms where it was destroyed after 2d4 days, fully healed. The pyrogeist can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nghastly flames +23 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [Negative](/Traits.aspx?ID=118), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+8 negative\r\n\r\n**Occult Innate Spells** DC 29, attack +21\r\n- **Cantrips (5th)**\r\n[Ghost Sound](/Spells.aspx?ID=132), [Mage Hand](/Spells.aspx?ID=177)\r\n- **2nd**\r\n[Telekinetic Maneuver](/Spells.aspx?ID=333) (at will)\r\n- **5th**\r\n[Illusory Scene](/Spells.aspx?ID=161) (at will), [Telekinetic Haul](/Spells.aspx?ID=332) (at will)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65), [Negative](/Traits.aspx?ID=118)) A pyrogeist can spit a cone of spectral fire in a 30-foot cone, dealing 10d6 negative damage (DC 29 [basic](/Rules.aspx?ID=329) Fortitude save). A creature that fails the save also takes 1d6 [persistent negative damage](/Conditions.aspx?ID=29) and is subject to the effects of [_faerie fire_](/Spells.aspx?ID=107) until the persistent damage ends.\r\n\r\n**Pyrokinetic Whirlwind** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Negative](/Traits.aspx?ID=118), [Occult](/Traits.aspx?ID=120), [Transmutation](/Traits.aspx?ID=157), [Polymorph](/Traits.aspx?ID=127)) The pyrogeist transforms into a 40-foot tall vortex of spectral flame that appears to immolate everything within a 10-foot burst. A creature within this area take 2d12+20 negative damage (DC 29 [basic](/Rules.aspx?ID=329) Fortitude save).\r\n\r\n**Soul Consumption**  ([Divine](/Traits.aspx?ID=48), [Evil](/Traits.aspx?ID=64), [Necromancy](/Traits.aspx?ID=117)) The spirit of a creature that dies from damage dealt by the pyrogeist's Pyrokinetic Whirlwind is trapped within the pyrogeist as if subjected to the effects of the [_bind soul_](/Spells.aspx?ID=21) spell. This effect persists until the pyrogeist is destroyed or chooses to set the soul free. The spirit remains trapped whether or not the pyrogeist is using Pyrokinetic Whirlwind. A pyrogeist can contain only one soul at a time in this manner.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Extinguishing the Spectral Flames</title>\r\n\r\nPutting a pyrogeist to rest permanently often requires a ritualist to perform burial rites with at least some fragment of the pyrogeist's mortal remains. Because what's left of a pyrogeist's living form has most likely melted beyond recognition, it can often be difficult to locate. Pyrogeists can sense innately when what lingers of their mortal forms has been disturbed, and often attack without provocation to quell the threat. When a pyrogeist is finally laid to rest and the appropriate sacraments have been performed, the pyrogeist fails to return to and no longer terrorizes the site of its death.\r\n</aside>",
+ "name": "Pyrogeist",
+ "npc": false,
+ "perception": 20,
+ "rarity": "uncommon",
+ "reflex_save": 19,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "acid": 5,
+  "all": 5,
+  "area": 5,
+  "bleed": 5,
+  "bludgeoning": 5,
+  "chaotic": 5,
+  "cold": 5,
+  "cold_iron": 5,
+  "electricity": 5,
+  "evil": 5,
+  "fire": 5,
+  "good": 5,
+  "lawful": 5,
+  "mental": 5,
+  "negative": 5,
+  "orichalcum": 5,
+  "physical": 5,
+  "piercing": 5,
+  "poison": 5,
+  "precision": 5,
+  "silver": 5,
+  "slashing": 5,
+  "sonic": 5,
+  "splash": 5
+ },
+ "resistance_markdown": "all damage 5 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or positive, double resistance against non-[magical](/Traits.aspx?ID=103)), channeling resistance (see below)",
+ "resistance_raw": "all damage 5 (except  force ,   ghost touch  , or positive, double resistance against non- magical ), channeling resistance (see below)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 86</row>\n\n<row gap=\"medium\">\r\n**HP** 130 ( negative healing )\r\n\r\n**AC** 29\r\n\r\n**Fort** +16\r\n\r\n**Ref** +19\r\n\r\n**Will** +18\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBorn from the deaths of arsonists who died in the fires they started, pyrogeists are roiling infernos whose spectral fire emits no actual heat and …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +22",
+  "Intimidation +22",
+  "Stealth +22"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +22, [Intimidation](/Skills.aspx?ID=7) +22, [Stealth](/Skills.aspx?ID=15) +22",
+ "source": [
+  "Pathfinder #184: The Ghouls Hunger"
+ ],
+ "source_raw": [
+  "Pathfinder #184: The Ghouls Hunger pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 86</row>",
+ "speed": {
+  "fly": 40,
+  "max": 40
+ },
+ "speed_markdown": "fly 40 feet",
+ "speed_raw": "fly 40 feet",
+ "spell": [
+  "Illusory Scene",
+  "Telekinetic Haul",
+  "Telekinetic Maneuver",
+  "Ghost Sound",
+  "Mage Hand"
+ ],
+ "spell_markdown": "[Ghost Sound](/Spells.aspx?ID=132), [Illusory Scene](/Spells.aspx?ID=161), [Mage Hand](/Spells.aspx?ID=177), [Telekinetic Haul](/Spells.aspx?ID=332), [Telekinetic Maneuver](/Spells.aspx?ID=333)",
+ "spoilers": "Blood Lords",
+ "stealth": "22",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Born from the deaths of arsonists who died in the fires they started, pyrogeists are roiling infernos whose spectral fire emits no actual heat and …",
+ "summary_markdown": "Born from the deaths of arsonists who died in the fires they started, pyrogeists are roiling infernos whose spectral fire emits no actual heat and …",
+ "text": " Pyrogeist Born from the deaths of arsonists who died in the fires they started, pyrogeists are roiling infernos whose spectral fire emits no actual heat and harms only living creatures. Obsessed with sharing their torment with the living, pyrogeists haunt the area of their demise until whatever wrong they refuse to forgive has been righted, and they are finally put to rest. While pyrogeists can't set their own fires, they often use their terrifying illusory capabilities and telekinetic powers to lure their victims into setting themselves ablaze. Recall Knowledge - Spirit (Occultism): DC 29 Recall Knowledge - Undead (Religion): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Pyrogeist Source Pathfinder #184: The Ghouls Hunger pg. 86 Perception +20; darkvision Languages Common, Necril Skills Acrobatics +22, Intimidation +22, Stealth +22 Str -5 Dex +7 Con +0 Int -1 Wis +3 Cha +5 --- AC 29 Fort +16 Ref +19 Will +18 +1 status to all saves vs. positive HP 130 (negative healing) Immunities death effects, disease, paralyzed, precision, poison, unconscious Resistances all damage 5 (except force, ghost touch , or positive, double resistance against non-magical), channeling resistance (see below) Rejuvenation (necromancy, occult) When a pyrogeist is destroyed, it reforms where it was destroyed after 2d4 days, fully healed. The pyrogeist can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting. --- Speed fly 40 feet Melee Single Action ghastly flames +23 (Agile, Finesse, Magical, Negative, reach 10 feet), Damage 2d12+8 negative Occult Innate Spells DC 29, attack +21 - Cantrips (5th) Ghost Sound, Mage Hand - 2nd Telekinetic Maneuver (at will) - 5th Illusory Scene (at will), Telekinetic Haul (at will) Breath Weapon Two Actions (Arcane, Evocation, Negative) A pyrogeist can spit a cone of spectral fire in a 30-foot cone, dealing 10d6 negative damage (DC 29 basic Fortitude save). A creature that fails the save also takes 1d6 persistent negative damage and is subject to the effects of faerie fire until the persistent damage ends. Pyrokinetic Whirlwind Single Action (Concentrate, Negative, Occult, Transmutation, Polymorph) The pyrogeist transforms into a 40-foot tall vortex of spectral flame that appears to immolate everything within a 10-foot burst. A creature within this area take 2d12+20 negative damage (DC 29 basic Fortitude save). Soul Consumption (Divine, Evil, Necromancy) The spirit of a creature that dies from damage dealt by the pyrogeist's Pyrokinetic Whirlwind is trapped within the pyrogeist as if subjected to the effects of the bind soul spell. This effect persists until the pyrogeist is destroyed or chooses to set the soul free. The spirit remains trapped whether or not the pyrogeist is using Pyrokinetic Whirlwind. A pyrogeist can contain only one soul at a time in this manner. Extinguishing the Spectral Flames Putting a pyrogeist to rest permanently often requires a ritualist to perform burial rites with at least some fragment of the pyrogeist's mortal remains. Because what's left of a pyrogeist's living form has most likely melted beyond recognition, it can often be difficult to locate. Pyrogeists can sense innately when what lingers of their mortal forms has been disturbed, and often attack without provocation to quell the threat. When a pyrogeist is finally laid to rest and the appropriate sacraments have been performed, the pyrogeist fails to return to and no longer terrorizes the site of its death. ",
+ "trait": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2156",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 3
+}

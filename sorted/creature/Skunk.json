@@ -1,0 +1,85 @@
+{
+ "ac": 15,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Spray Musk"
+ ],
+ "creature_family": "Skunk",
+ "creature_family_markdown": "[Skunk](/MonsterFamilies.aspx?ID=262)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 4,
+ "hp": 7,
+ "hp_raw": "7",
+ "id": "creature-1310",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": -1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Skunk](/Monsters.aspx?ID=1310)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese omnivores are most active at twilight, feeding on everything from berries to grubs and insects. Some farmers even encourage the animals to live near their farms to keep destructive pest populations low.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 13\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 11\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 8\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature -1\">[Skunk](/Monsters.aspx?ID=1310)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 246</row>\n\n**Perception** +5; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 40 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +2, [Stealth](/Skills.aspx?ID=15) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +4 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +3 \n\n</row>\r\n\r\n**HP** 7\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +7 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8 piercing\n\n**Spray Musk** <actions string=\"Two Actions\" /> ([Poison](/Traits.aspx?ID=126)) The skunk propels a stream of acrid musk in a 10-foot line. Each creature in the line must attempt a DC 16 Fortitude save. <br />**Critical Success** The target is unaffected. <br />**Success** The target is [sickened 1](/Conditions.aspx?ID=34). <br />**Failure** The target is sickened 2. <br />**Critical Failure** The target is sickened 2 and takes a –2 penalty to [Stealth](/Skills.aspx?ID=15) checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-262\" />",
+ "name": "Skunk",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 246</row>\r\n\r\n**Creature Family** [Skunk](/MonsterFamilies.aspx?ID=262)\r\n\r\n<row gap=\"medium\">\r\n**HP** 7\r\n\r\n**AC** 15\r\n\r\n**Fort** +4\r\n\r\n**Ref** +7\r\n\r\n**Will** +3\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese omnivores are most active at twilight, feeding on everything from berries to grubs and insects. Some farmers even encourage the animals to live …\r\n</summary>",
+ "sense": " low-light vision ,  scent  (imprecise) 40 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 40 feet",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +5",
+  "Athletics +2",
+  "Stealth +5"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +2, [Stealth](/Skills.aspx?ID=15) +5",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 246"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 246</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "5",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "These omnivores are most active at twilight, feeding on everything from berries to grubs and insects. Some farmers even encourage the animals to live …",
+ "summary_markdown": "These omnivores are most active at twilight, feeding on everything from berries to grubs and insects. Some farmers even encourage the animals to live …",
+ "text": " Skunk These omnivores are most active at twilight, feeding on everything from berries to grubs and insects. Some farmers even encourage the animals to live near their farms to keep destructive pest populations low. Recall Knowledge - Animal (Nature): DC 13 Unspecific Lore : DC 11 Specific Lore : DC 8 Skunk Source Bestiary 3 pg. 246 Perception +5; low-light vision, scent (imprecise) 40 feet Languages Skills Acrobatics +5, Athletics +2, Stealth +5 Str +0 Dex +3 Con +2 Int -4 Wis +1 Cha +0 --- AC 15 Fort +4 Ref +7 Will +3 HP 7 --- Speed 20 feet Melee Single Action jaws +7 (Agile, Finesse), Damage 1d8 piercing Spray Musk Two Actions (Poison) The skunk propels a stream of acrid musk in a 10-foot line. Each creature in the line must attempt a DC 16 Fortitude save. Critical Success The target is unaffected. Success The target is sickened 1. Failure The target is sickened 2. Critical Failure The target is sickened 2 and takes a –2 penalty to Stealth checks from the horrific odor for 24 hours or until the musk is removed or neutralized, requiring 10 minutes of thorough scrubbing with soap. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Tiny"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1310",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 3,
+ "wisdom": 1
+}

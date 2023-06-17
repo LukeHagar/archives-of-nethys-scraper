@@ -1,0 +1,101 @@
+{
+ "ac": 21,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 1,
+ "creature_ability": [
+  "Befuddling Lash",
+  "Manipulate Luck"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 70,
+ "hp_raw": "70",
+ "id": "creature-1197",
+ "image": [
+  "/Images/Monsters/Huldra.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Huldra](/Monsters.aspx?ID=1197)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAt first glance, a huldra seems a simple creature—a human in plain robes or peasant dress, sporting long, unbound hair. These tresses and full skirts in fact disguise the huldra's supernatural features: a hollow wooden back, a long bovine tail, and incredible strength.\n\n Folk legends from the lands of the north describe huldras as the creations of [troll](/MonsterFamilies.aspx?ID=96) witches, intended to lure potential meals to the slaughter. Indeed, a huldra's regeneration is so similar to a troll's that a link between the two creatures seems entirely possible, but huldras despise trolls and resent tales suggesting any connection between them. Rather, huldras are wardens of the woodlands they occupy. Grown from saplings by powerful forest-dwelling fey as a response to humanoid encroachment, huldras protect and parley for the forest itself. Woodland creatures adore huldras, and sometimes approach [humans](/Ancestries.aspx?ID=6) or [elves](/Ancestries.aspx?ID=2) thinking they're huldras. This illusion is shattered if the animal sees the humanoid's back is made of flesh or that they're lacking a tail, at which point the animal recoils and runs away.\n\n Huldras respond well to travelers who show respect and deference for the forest, bestowing those they favor with supernatural luck and fortune. Those who scorn or attack a huldra, or those who mock their distinctive, bovine tails, find themselves plagued by poor decisions and even worse luck. Huldras commonly carry a bad reputation as sirens of the deep forest—cunning monsters who seek to lure woodcutters and unwary adventurers to uncertain ends. These stories largely come from miscreants foolish enough to have treated a huldra rudely and later complain about how they were unjustly persecuted. Even woodcutters and hunters can stay in the good graces of huldras provided they plant new trees to replace what they've taken and don't kill any creatures they don't eat.\n\n Though huldras choose to appear unassuming, the attention they put into disguising the supernatural parts of their bodies is sometimes lacking when it comes to their strength. They often perform feats of strength, like bending horseshoes straight or lifting heavy objects, without realizing they're breaking their carefully crafted facade.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Huldra.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Huldra](/Monsters.aspx?ID=1197)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 138</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +13, [Intimidation](/Skills.aspx?ID=7) +11, [Nature](/Skills.aspx?ID=10) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 70\r\n\r\n, regeneration 5 (deactivated by [acid](/Traits.aspx?ID=3) or [fire](/Traits.aspx?ID=72))\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 5, fire 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +14,\r\n**Damage** 2d6+7 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +14 ([Agile](/Traits.aspx?ID=170), [Backswing](/Traits.aspx?ID=173)),\r\n**Damage** 2d4+7 bludgeoning plus Befuddling Lash\n\n**Befuddling Lash**  ([Curse](/Traits.aspx?ID=38), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106)) When the huldra damages a creature with their tail, a wave of befuddlement clouds the target's thoughts. The creature must succeed at a DC 19 Will save or become [stupefied 1](/Conditions.aspx?ID=37) (stupefied 2 on a critical failure) for 1 minute.\r\n\r\n**Manipulate Luck** <actions string=\"Single Action\" /> ([Curse](/Traits.aspx?ID=38), [Primal](/Traits.aspx?ID=134)) **Frequency** once per day; **Effect** The huldra touches another creature to manipulate the creature's luck. The creature must attempt a DC 21 Will save. On a failure, the huldra chooses good luck or bad luck. If the huldra chooses good luck, the affected creature can roll twice on one d20 roll within the next minute and use the higher result; this is a [fortune](/Traits.aspx?ID=76) effect. If the huldra chooses bad luck, the creature must roll twice and use the lower result on its next d20 roll; this is a [misfortune](/Traits.aspx?ID=110) effect.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Guardians of the North</title>\r\n\r\nHuldras live in the northern reaches of Avistan and Casmaron. Tales of these fey are told from the Lands of the Linnorm Kings to Iobaria and beyond, but are perhaps most common in Irrisen, where [First World](/Planes.aspx?ID=10) influence has seeped through the land. Even here, however, most huldras are reclusive and reticent, making their presence known only when outsiders encroach upon the forests they protect.\r\n</aside>",
+ "name": "Huldra",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 14,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 138</row>\n\n<row gap=\"medium\">\r\n**HP** 70\r\n\r\n**AC** 21\r\n\r\n**Fort** +9\r\n\r\n**Ref** +14\r\n\r\n**Will** +11\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAt first glance, a huldra seems a simple creature—a human in plain robes or peasant dress, sporting long, unbound hair. These tresses and full skirts …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +11",
+  "Deception +13",
+  "Diplomacy +13",
+  "Intimidation +11",
+  "Nature +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +13, [Intimidation](/Skills.aspx?ID=7) +11, [Nature](/Skills.aspx?ID=10) +10",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 138"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 138</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "At first glance, a huldra seems a simple creature—a human in plain robes or peasant dress, sporting long, unbound hair. These tresses and full skirts …",
+ "summary_markdown": "At first glance, a huldra seems a simple creature—a human in plain robes or peasant dress, sporting long, unbound hair. These tresses and full skirts …",
+ "text": " Huldra At first glance, a huldra seems a simple creature—a human in plain robes or peasant dress, sporting long, unbound hair. These tresses and full skirts in fact disguise the huldra's supernatural features: a hollow wooden back, a long bovine tail, and incredible strength. Folk legends from the lands of the north describe huldras as the creations of troll witches, intended to lure potential meals to the slaughter. Indeed, a huldra's regeneration is so similar to a troll's that a link between the two creatures seems entirely possible, but huldras despise trolls and resent tales suggesting any connection between them. Rather, huldras are wardens of the woodlands they occupy. Grown from saplings by powerful forest-dwelling fey as a response to humanoid encroachment, huldras protect and parley for the forest itself. Woodland creatures adore huldras, and sometimes approach humans or elves thinking they're huldras. This illusion is shattered if the animal sees the humanoid's back is made of flesh or that they're lacking a tail, at which point the animal recoils and runs away. Huldras respond well to travelers who show respect and deference for the forest, bestowing those they favor with supernatural luck and fortune. Those who scorn or attack a huldra, or those who mock their distinctive, bovine tails, find themselves plagued by poor decisions and even worse luck. Huldras commonly carry a bad reputation as sirens of the deep forest—cunning monsters who seek to lure woodcutters and unwary adventurers to uncertain ends. These stories largely come from miscreants foolish enough to have treated a huldra rudely and later complain about how they were unjustly persecuted. Even woodcutters and hunters can stay in the good graces of huldras provided they plant new trees to replace what they've taken and don't kill any creatures they don't eat. Though huldras choose to appear unassuming, the attention they put into disguising the supernatural parts of their bodies is sometimes lacking when it comes to their strength. They often perform feats of strength, like bending horseshoes straight or lifting heavy objects, without realizing they're breaking their carefully crafted facade. Recall Knowledge - Fey (Nature): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Huldra Source Bestiary 3 pg. 138 Perception +13; darkvision, scent (imprecise) 60 feet Languages Common, Sylvan Skills Athletics +11, Deception +13, Diplomacy +13, Intimidation +11, Nature +10 Str +5 Dex +4 Con +1 Int +1 Wis +3 Cha +5 --- AC 21 Fort +9 Ref +14 Will +11 HP 70 , regeneration 5 (deactivated by acid or fire) Weaknesses cold iron 5, fire 5 --- Speed 30 feet Melee Single Action fist +14, Damage 2d6+7 bludgeoning Melee Single Action tail +14 (Agile, Backswing), Damage 2d4+7 bludgeoning plus Befuddling Lash Befuddling Lash (Curse, Enchantment, Mental) When the huldra damages a creature with their tail, a wave of befuddlement clouds the target's thoughts. The creature must succeed at a DC 19 Will save or become stupefied 1 (stupefied 2 on a critical failure) for 1 minute. Manipulate Luck Single Action (Curse, Primal) Frequency once per day; Effect The huldra touches another creature to manipulate the creature's luck. The creature must attempt a DC 21 Will save. On a failure, the huldra chooses good luck or bad luck. If the huldra chooses good luck, the affected creature can roll twice on one d20 roll within the next minute and use the higher result; this is a fortune effect. If the huldra chooses bad luck, the creature must roll twice and use the lower result on its next d20 roll; this is a misfortune effect. Guardians of the North Huldras live in the northern reaches of Avistan and Casmaron. Tales of these fey are told from the Lands of the Linnorm Kings to Iobaria and beyond, but are perhaps most common in Irrisen, where First World influence has seeped through the land. Even here, however, most huldras are reclusive and reticent, making their presence known only when outsiders encroach upon the forests they protect. ",
+ "trait": [
+  "Fey",
+  "Uncommon",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fey",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1197",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold_iron": 5,
+  "fire": 5
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 5, fire 5",
+ "weakness_raw": " cold iron  5, fire 5",
+ "will_save": 11,
+ "wisdom": 3
+}

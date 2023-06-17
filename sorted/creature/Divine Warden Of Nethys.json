@@ -1,0 +1,114 @@
+{
+ "ac": 22,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 4,
+ "creature_ability": [
+  "Divine Destruction",
+  "Faith Bound",
+  "Faithful Weapon",
+  "Instrument of Faith"
+ ],
+ "creature_family": "Divine Warden",
+ "creature_family_markdown": "[Divine Warden](/MonsterFamilies.aspx?ID=279)",
+ "dexterity": -2,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-1121",
+ "image": [
+  "/Images/Monsters/DivineWarden_Nethys.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Divine Warden Of Nethys](/Monsters.aspx?ID=1121)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis divine warden serves [Nethys](/Deities.aspx?ID=12), the neutral god of magic. It uses its divine gift to defend temples or shrines of Nethys.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/DivineWarden_Nethys.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Divine Warden Of Nethys](/Monsters.aspx?ID=1121)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 73</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** -2\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 60\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Divine Destruction** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 5d6 negative damage. Each creature in the area must attempt a DC 19 Will save with the following outcomes. <br />**Critical Success** The creature takes half damage. <br />**Success** The creature takes full damage. <br />**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [enfeebled 1](/Conditions.aspx?ID=13) and [stupefied 1](/Conditions.aspx?ID=37) for 1 day; this is a [curse](/Traits.aspx?ID=38) effect that uses the Will save DC as the [counteract](/Rules.aspx?ID=371) DC <br />**Critical Failure** As failure, except the creature becomes enfeebled 2 and stupefied 2<br />**Faith Bound** ([abjuration](/Traits.aspx?ID=2), [divine](/Traits.aspx?ID=48)) A divine warden can't attack a creature that openly wears or displays the religious symbol of the divine warden's patron deity unless that creature uses a [hostile action](/Rules.aspx?ID=300) against the divine warden first. If the divine warden is intelligent, it can also attack a creature it believes isn't faithful to its deity or who wears the religious symbol as a ruse (typically after succeeding at a Perception check to [Sense Motive](/Actions.aspx?ID=85)).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +14 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+7 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstaff +14 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192), [two-hand d8](/Traits.aspx?ID=198)),\r\n**Damage** 2d4+7 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Divine Innate Spells** DC 19\r\n- **Cantrips (3rd)**\r\n[Daze](/Spells.aspx?ID=61)\r\n\r\n**Divine Domain Spells** DC 19, 1 Focus Point\r\n- **3rd**\r\n[Cry of Destruction](/Spells.aspx?ID=410), [Protector's Sacrifice](/Spells.aspx?ID=441)\r\n\r\n**Faithful Weapon**   A divine warden always wields its patron diety's favored weapon, in this case a _+1 [striking](/Equipment.aspx?ID=280) [staff](/Weapons.aspx?ID=12)_.\r\n\r\n**Instrument of Faith**   The divine warden is a beacon for its deity's faith. A [cleric](/Classes.aspx?ID=5) of the divine warden's patron deity can channel a [_heal_](/Spells.aspx?ID=148) spell through a divine warden they can see within 60 feet. The cleric determines any targets or area for the spell as if they were standing in the divine warden's space.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-279\" />",
+ "name": "Divine Warden Of Nethys",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 73</row>\r\n\r\n**Creature Family** [Divine Warden](/MonsterFamilies.aspx?ID=279)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 22\r\n\r\n**Fort** +15\r\n\r\n**Ref** +9\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis divine warden serves  Nethys , the neutral god of magic. It uses its divine gift to defend temples or shrines of Nethys.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +14"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 73"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 73</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Daze",
+  "Cry of Destruction",
+  "Protector's Sacrifice"
+ ],
+ "spell_markdown": "[Cry of Destruction](/Spells.aspx?ID=410), [Daze](/Spells.aspx?ID=61), [Protector's Sacrifice](/Spells.aspx?ID=441)",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "This divine warden serves  Nethys , the neutral god of magic. It uses its divine gift to defend temples or shrines of Nethys.",
+ "summary_markdown": "This divine warden serves  Nethys , the neutral god of magic. It uses its divine gift to defend temples or shrines of Nethys.",
+ "text": " Divine Warden Of Nethys This divine warden serves Nethys, the neutral god of magic. It uses its divine gift to defend temples or shrines of Nethys. Recall Knowledge - Construct (Arcana, Crafting): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Divine Warden Of Nethys Source Bestiary 3 pg. 73 Perception +11; darkvision Languages Skills Athletics +14 Str +5 Dex -2 Con +4 Int -5 Wis +0 Cha -5 --- AC 22 Fort +15 Ref +9 Will +11 HP 60 Immunities death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Divine Destruction (divine, necromancy) When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-foot emanation, dealing 5d6 negative damage. Each creature in the area must attempt a DC 19 Will save with the following outcomes. Critical Success The creature takes half damage. Success The creature takes full damage. Failure The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes enfeebled 1 and stupefied 1 for 1 day; this is a curse effect that uses the Will save DC as the counteract DC Critical Failure As failure, except the creature becomes enfeebled 2 and stupefied 2 Faith Bound (abjuration, divine) A divine warden can't attack a creature that openly wears or displays the religious symbol of the divine warden's patron deity unless that creature uses a hostile action against the divine warden first. If the divine warden is intelligent, it can also attack a creature it believes isn't faithful to its deity or who wears the religious symbol as a ruse (typically after succeeding at a Perception check to Sense Motive). --- Speed 30 feet Melee Single Action fist +14 (Magical, reach 10 feet), Damage 2d8+7 bludgeoning plus Grab Melee Single Action staff +14 (Magical, reach 10 feet, two-hand d8), Damage 2d4+7 bludgeoning plus Grab Divine Innate Spells DC 19 - Cantrips (3rd) Daze Divine Domain Spells DC 19, 1 Focus Point - 3rd Cry of Destruction, Protector's Sacrifice Faithful Weapon A divine warden always wields its patron diety's favored weapon, in this case a +1 striking staff . Instrument of Faith The divine warden is a beacon for its deity's faith. A cleric of the divine warden's patron deity can channel a heal spell through a divine warden they can see within 60 feet. The cleric determines any targets or area for the spell as if they were standing in the divine warden's space. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Construct",
+  "Mindless",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1121",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 0
+}

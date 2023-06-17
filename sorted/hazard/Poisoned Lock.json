@@ -1,0 +1,54 @@
+{
+ "ac": 15,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "Thievery  DC 17 (trained) on the spring mechanism",
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hardness": 6,
+ "hardness_raw": "6",
+ "hazard_type": "Trap",
+ "hp": 24,
+ "hp_raw": "24 (BT 12)",
+ "id": "hazard-2",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 1,
+ "markdown": "<title level=\"1\" right=\"Hazard 1\" pfs=\"\">[Poisoned Lock](/Hazards.aspx?ID=2)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 523 <sup>4.0</sup></row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 17 (trained)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 17 (trained) on the spring mechanism\n\n<column gap=\"tiny\">\r\n\r\n**AC** 15, **Fort** +8, **Ref** +4\r\n\r\n**Hardness**\r\n6\r\n\r\n**HP**\r\n24 (BT 12)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Spring** <actions string=\"Reaction\" /> (attack); **Trigger** A creature tries to unlock or Pick the Lock. **Effect** A spine extends to attack the triggering creature.<br /> **Melee** spine +13, **Damage** 1 piercing plus cladis poison<br /> **Cladis Poison** (poison); **Saving Throw** DC 19 Fortitude; **Maximum Duration** 4 hours; **Stage 1** 1d6 poison damage and drained 1 (1 hour); **Stage 2** 2d6 poison damage and drained 2 (1 hour); **Stage 3** 3d6 poison damage and drained 2 (1 hour)",
+ "name": "Poisoned Lock",
+ "rarity": "common",
+ "reflex_save": 4,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 523 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock.\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 523"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 523 <sup>4.0</sup></row>",
+ "speed": {},
+ "stealth": "DC 17 (trained)",
+ "summary": "A spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock.",
+ "summary_markdown": "A spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock.",
+ "text": " Poisoned Lock Source Core Rulebook pg. 523 4.0 Complexity Simple A spring-loaded, poisoned spine is hidden near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock. --- Stealth DC 17 (trained) Disable Thievery DC 17 (trained) on the spring mechanism AC 15, Fort +8, Ref +4 Hardness 6 HP 24 (BT 12) Immunities critical hits, object immunities, precision damage Spring Reaction (attack); Trigger A creature tries to unlock or Pick the Lock. Effect A spine extends to attack the triggering creature. Melee spine +13, Damage 1 piercing plus cladis poison Cladis Poison (poison); Saving Throw DC 19 Fortitude; Maximum Duration 4 hours; Stage 1 1d6 poison damage and drained 1 (1 hour); Stage 2 2d6 poison damage and drained 2 (1 hour); Stage 3 3d6 poison damage and drained 2 (1 hour)",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=2",
+ "weakness": {}
+}

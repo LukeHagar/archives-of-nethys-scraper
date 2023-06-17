@@ -1,0 +1,144 @@
+{
+ "ac": 29,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Guardian's Aegis",
+  "Avenging Claws",
+  "Bond with Mortal",
+  "Feathered Charge",
+  "Bonded Strike",
+  "Mauler"
+ ],
+ "creature_family": "Spirit Guide",
+ "creature_family_markdown": "[Spirit Guide](/MonsterFamilies.aspx?ID=264)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 160,
+ "hp_raw": "160",
+ "id": "creature-1320",
+ "image": [
+  "/Images/Monsters/SpiritGuide_Strong.png"
+ ],
+ "immunity": [
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision"
+ ],
+ "immunity_markdown": "[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Sylvan",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Feathered Bear](/Monsters.aspx?ID=1320)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBorn from spirits possessing the qualities of strength, endurance, and ferocity, these spirit guides act as martial guardians for mortals under their care. Most have a burning hatred for [demons](/MonsterFamilies.aspx?ID=28), [devils](/MonsterFamilies.aspx?ID=30), and other [fiends](/Traits.aspx?ID=70) who prey on mortal weaknesses. However, they also display care and consideration around mortal children, who in turn seem to instinctively recognize the beings as protectors. Strength takes many forms, some evident in their power—like the feathered bear—and some unassuming.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 27\r\n\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SpiritGuide_Strong.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Feathered Bear](/Monsters.aspx?ID=1320)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 253</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +20, [Survival](/Skills.aspx?ID=16) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 160\n\n**Immunities**\r\n[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision\r\n\r\n**Resistances**\r\nall damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\n\n**Guardian's Aegis** ([abjuration](/Traits.aspx?ID=2), [aura](/Traits.aspx?ID=206), [primal](/Traits.aspx?ID=134)) 30 feet. All allies within 30 feet of the feathered bear gain a +1 status bonus to saves against [magical](/Traits.aspx?ID=103) effects. The bonus increases to +2 if the effect originated from a [demon](/MonsterFamilies.aspx?ID=28) or other chaotic evil [fiend](/Traits.aspx?ID=70).<br />**Avenging Claws**<actions string=\"Reaction\" /> **Trigger** A creature within 10 feet damages the feathered bear's ally with a melee attack; **Effect** The feathered bear immediately Steps toward the triggering attacker and makes a claws Strike.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d10+9 force\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +21 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d6+9 force plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Primal Innate Spells** DC 27\r\n- **3rd**\r\n[Barkskin](/Spells.aspx?ID=20), [Endure Elements](/Spells.aspx?ID=99), [Haste](/Spells.aspx?ID=147), [Jump](/Spells.aspx?ID=167), [Longstrider](/Spells.aspx?ID=175)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Bond with Mortal** <actions string=\"Two Actions\" /> ([Mental](/Traits.aspx?ID=106), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)) **Frequency** once per day; **Effect** The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 20, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane. The spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies.<br /> This bond strengthens the spirit guide's connection to the [Material Plane](/Planes.aspx?ID=1). While bonded, the spirit guide loses the [incorporeal](/Traits.aspx?ID=222) and [spirit](/Traits.aspx?ID=149) traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage.\r\n\r\n**Feathered Charge** <actions string=\"Two Actions\" />  The feathered bear Strides and makes a Strike at the end of that movement. During the Stride, the feathered bear ignores difficult terrain and greater difficult terrain, and they can move across air as easily as solid ground. If the feathered bear doesn't end their movement on solid ground, they fall as soon as the Strike is completed.\r\n\r\n**Bonded Strike** <actions string=\"Two Actions\" />  **Requirements** The spirit guide is currently Bonded with a Mortal; **Effect** The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target.\r\n\r\n**Mauler**   The feathered bear gains a +4 circumstance bonus to damage rolls against creatures they have [grabbed](/Conditions.aspx?ID=20).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-264\" />",
+ "name": "Feathered Bear",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "acid": 10,
+  "all": 10,
+  "area": 10,
+  "bleed": 10,
+  "bludgeoning": 10,
+  "chaotic": 10,
+  "cold": 10,
+  "cold_iron": 10,
+  "electricity": 10,
+  "evil": 10,
+  "fire": 10,
+  "good": 10,
+  "lawful": 10,
+  "mental": 10,
+  "negative": 10,
+  "orichalcum": 10,
+  "physical": 10,
+  "piercing": 10,
+  "poison": 10,
+  "precision": 10,
+  "silver": 10,
+  "slashing": 10,
+  "sonic": 10,
+  "splash": 10
+ },
+ "resistance_markdown": "all damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all damage 10 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 253</row>\r\n\r\n**Creature Family** [Spirit Guide](/MonsterFamilies.aspx?ID=264)\r\n\r\n<row gap=\"medium\">\r\n**HP** 160\r\n\r\n**AC** 29\r\n\r\n**Fort** +21\r\n\r\n**Ref** +16\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBorn from spirits possessing the qualities of strength, endurance, and ferocity, these spirit guides act as martial guardians for mortals under their …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Intimidation +20",
+  "Survival +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +20, [Survival](/Skills.aspx?ID=16) +16",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 253"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 253</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Barkskin",
+  "Endure Elements",
+  "Haste",
+  "Jump",
+  "Longstrider",
+  "Tongues"
+ ],
+ "spell_markdown": "[Barkskin](/Spells.aspx?ID=20), [Endure Elements](/Spells.aspx?ID=99), [Haste](/Spells.aspx?ID=147), [Jump](/Spells.aspx?ID=167), [Longstrider](/Spells.aspx?ID=175), [Tongues](/Spells.aspx?ID=340)",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Born from spirits possessing the qualities of strength, endurance, and ferocity, these spirit guides act as martial guardians for mortals under their …",
+ "summary_markdown": "Born from spirits possessing the qualities of strength, endurance, and ferocity, these spirit guides act as martial guardians for mortals under their …",
+ "text": " Feathered Bear Born from spirits possessing the qualities of strength, endurance, and ferocity, these spirit guides act as martial guardians for mortals under their care. Most have a burning hatred for demons, devils, and other fiends who prey on mortal weaknesses. However, they also display care and consideration around mortal children, who in turn seem to instinctively recognize the beings as protectors. Strength takes many forms, some evident in their power—like the feathered bear—and some unassuming. Recall Knowledge - Beast (Arcana, Nature): DC 27 Recall Knowledge - Spirit (Occultism): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Feathered Bear Source Bestiary 3 pg. 253 Perception +18; darkvision, scent (imprecise) 60 feet Languages Common, Sylvan; tongues Skills Athletics +23, Intimidation +20, Survival +16 Str +7 Dex +2 Con +5 Int +0 Wis +2 Cha +3 --- AC 29 Fort +21 Ref +16 Will +18 HP 160 Immunities disease, paralyzed, poison, precision Resistances all damage 10 (except force, ghost touch , or positive; double resistance vs. non-magical) Guardian's Aegis (abjuration, aura, primal) 30 feet. All allies within 30 feet of the feathered bear gain a +1 status bonus to saves against magical effects. The bonus increases to +2 if the effect originated from a demon or other chaotic evil fiend. Avenging Claws Reaction Trigger A creature within 10 feet damages the feathered bear's ally with a melee attack; Effect The feathered bear immediately Steps toward the triggering attacker and makes a claws Strike. --- Speed 35 feet Melee Single Action jaws +21 (Magical), Damage 3d10+9 force Melee Single Action claw +21 (Agile, Magical), Damage 3d6+9 force plus Grab Primal Innate Spells DC 27 - 3rd Barkskin, Endure Elements, Haste, Jump, Longstrider - Constant (5th) Tongues Bond with Mortal Two Actions (Mental, Necromancy, Primal) Frequency once per day; Effect The spirit guide forms a bond with a mortal creature. While the bond exists, the spirit guide increases their current and maximum Hit Points by 20, gains a +2 status bonus to their attack and damage rolls, and can communicate telepathically with the bonded mortal as long as the two beings are on the same plane. The spirit guide can only be bonded with one mortal at a time, and they can take this action again to end the bond or to form a new bond (which also ends the old bond). The bond also ends if the spirit guide or the mortal dies. This bond strengthens the spirit guide's connection to the Material Plane. While bonded, the spirit guide loses the incorporeal and spirit traits, loses their immunities and resistances, and changes their Strikes to deal the appropriate physical damage (typically piercing or slashing) instead of force damage. Feathered Charge Two Actions The feathered bear Strides and makes a Strike at the end of that movement. During the Stride, the feathered bear ignores difficult terrain and greater difficult terrain, and they can move across air as easily as solid ground. If the feathered bear doesn't end their movement on solid ground, they fall as soon as the Strike is completed. Bonded Strike Two Actions Requirements The spirit guide is currently Bonded with a Mortal; Effect The spirit guide makes a jaws Strike. If this attack hits, the bonded mortal can spend their reaction to Strike the same target. Mauler The feathered bear gains a +4 circumstance bonus to damage rolls against creatures they have grabbed. ",
+ "trait": [
+  "Beast",
+  "Incorporeal",
+  "Spirit",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149)",
+ "trait_raw": [
+  "Beast",
+  "Incorporeal",
+  "Spirit"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1320",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 2
+}

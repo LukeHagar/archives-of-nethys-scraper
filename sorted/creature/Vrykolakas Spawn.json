@@ -1,0 +1,108 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 2,
+ "creature_ability": [
+  "Vrykolakas Vulnerabilities",
+  "Burial Site Bound",
+  "Vulnerable to Decapitation",
+  "Feral Possession",
+  "Drink Blood",
+  "Rend"
+ ],
+ "creature_family": "Vampire, Vrykolakas",
+ "creature_family_markdown": "[Vampire, Vrykolakas](/MonsterFamilies.aspx?ID=159)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 99,
+ "hp_raw": "99 ( negative healing )",
+ "id": "creature-842",
+ "image": [
+  "/Images/Monsters/Vampire_VrykolakasSpawn.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyze",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyze](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -3,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Vrykolakas Spawn](/Monsters.aspx?ID=842)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nVrykolakas unleash their spawn upon the world to spread terror, plague, and suffering and to draw attention away from their masters.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Vampire_VrykolakasSpawn.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Vrykolakas Spawn](/Monsters.aspx?ID=842)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Vampire\" url=\"/Traits.aspx?ID=242\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 276 <sup>2.0</sup></row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +14, [Survival](/Skills.aspx?ID=16) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 99\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyze](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Vrykolakas Vulnerabilities**Vrykolakas all have the following vulnerabilities. \n<ul><li>**Burial Site Bound** A vrykolakas is bound to the place of its death or interment. It must return to this location once per week and bury itself in the earth for 24 hours, during which time it is [paralyzed](/Conditions.aspx?ID=28) and can be beheaded. If it is unable to return to this site, it is reduced to 0 Hit Points and attempts to use Feral Corruption; if this host animal can't return to the burial site before the possession effect ends, the vrykolakas is destroyed and the animal host returns to normal.</li><li>**Vulnerable to Decapitation** A vrykolakas that is beheaded can't use its Feral Possession, and a beheaded corpse cannot rise as a vrykolakas.</li></ul><br />**Feral Possession** <actions string=\"Free Action\" /> ([divine](/Traits.aspx?ID=48), [incapacitation](/Traits.aspx?ID=93), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [possession](/Traits.aspx?ID=129)) **Trigger** The vrykolakas is reduced to 0 Hit Points, and an [animal](/Traits.aspx?ID=9) is within 100 feet; **Effect** Unlike most other undead, a vrykolakas isn't destroyed when it reaches 0 HP. Instead, it attempts to cast its spirit into an animal within 100 feet, which must attempt a Will save (DC 24). On a failure, the animal is possessed. This has the effects of the [_possession_](/Spells.aspx?ID=225) spell, but it lasts a number of days equal to the vrykolakas's level. This possession can't be counteracted with magic (though [_remove curse_](/Spells.aspx?ID=250) works against it normally).<br /> If the animal succeeds at its save, the vrykolakas can attempt to possess a different animal within 100 feet. If at any point an animal critically succeeds at its save or no animal is within 100 feet, the vrykolakas fails to possess anything and is destroyed.<br /> A vrykolakas possessing an animal seeks out its burial site (see Burial Site Bound) immediately, burying itself there. While the vrykolakas is in this state of recovery, its animal host is [paralyzed](/Conditions.aspx?ID=28), and beheading it destroys the vrykolakas and kills its host. Removing the curse destroys the vrykolakas and returns the animal to normal. After 1d4 days, if the vrykolakas hasn't been destroyed, the animal dies and the vrykolakas rises in a new body that's identical to its previous one, formed from the animal's remains.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +17,\r\n**Damage** 2d8+8 piercing plus Drink Blood\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +17 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+8 slashing\n\n**Drink Blood** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Requirements** The vrykolakas' last action was a successful fangs Strike; **Effect** The vrykolakas sinks its fangs into that creature to drink its blood. This requires an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. On a success, the creature becomes [drained 1](/Conditions.aspx?ID=10), and the vrykolakas regains 10 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire, but it increases the creature's drained condition value by 1. A vrykolakas can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.<br /> The target creature's drained condition value decreases by 1 per week. A blood transfusion, which requires a successful DC 20 Medicine check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-159\" />",
+ "name": "Vrykolakas Spawn",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Vampire\" url=\"/Traits.aspx?ID=242\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 276 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Vampire, Vrykolakas](/MonsterFamilies.aspx?ID=159)\r\n\r\n<row gap=\"medium\">\r\n**HP** 99 ( negative healing )\r\n\r\n**AC** 24\r\n\r\n**Fort** +14\r\n\r\n**Ref** +16\r\n\r\n**Will** +12\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nVrykolakas unleash their spawn upon the world to spread terror, plague, and suffering and to draw attention away from their masters.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +15",
+  "Stealth +14",
+  "Survival +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +14, [Survival](/Skills.aspx?ID=16) +11",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 276"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 276 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 20,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 20 feet",
+ "speed_raw": "40 feet, climb 20 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Vrykolakas unleash their spawn upon the world to spread terror, plague, and suffering and to draw attention away from their masters.",
+ "summary_markdown": "Vrykolakas unleash their spawn upon the world to spread terror, plague, and suffering and to draw attention away from their masters.",
+ "text": " Vrykolakas Spawn Vrykolakas unleash their spawn upon the world to spread terror, plague, and suffering and to draw attention away from their masters. Recall Knowledge - Undead (Religion): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Vrykolakas Spawn Source Bestiary 2 pg. 276 2.0 Perception +14; darkvision Languages Common Skills Acrobatics +14, Athletics +15, Stealth +14, Survival +11 Str +5 Dex +4 Con +2 Int -3 Wis +2 Cha +2 --- AC 24 Fort +14 Ref +16 Will +12 HP 99 (negative healing) Immunities death effects, disease, paralyze, poison, sleep Vrykolakas Vulnerabilities Vrykolakas all have the following vulnerabilities. Burial Site Bound A vrykolakas is bound to the place of its death or interment. It must return to this location once per week and bury itself in the earth for 24 hours, during which time it is paralyzed and can be beheaded. If it is unable to return to this site, it is reduced to 0 Hit Points and attempts to use Feral Corruption; if this host animal can't return to the burial site before the possession effect ends, the vrykolakas is destroyed and the animal host returns to normal. Vulnerable to Decapitation A vrykolakas that is beheaded can't use its Feral Possession, and a beheaded corpse cannot rise as a vrykolakas. Feral Possession Free Action (divine, incapacitation, mental, necromancy, possession) Trigger The vrykolakas is reduced to 0 Hit Points, and an animal is within 100 feet; Effect Unlike most other undead, a vrykolakas isn't destroyed when it reaches 0 HP. Instead, it attempts to cast its spirit into an animal within 100 feet, which must attempt a Will save (DC 24). On a failure, the animal is possessed. This has the effects of the possession spell, but it lasts a number of days equal to the vrykolakas's level. This possession can't be counteracted with magic (though remove curse works against it normally). If the animal succeeds at its save, the vrykolakas can attempt to possess a different animal within 100 feet. If at any point an animal critically succeeds at its save or no animal is within 100 feet, the vrykolakas fails to possess anything and is destroyed. A vrykolakas possessing an animal seeks out its burial site (see Burial Site Bound) immediately, burying itself there. While the vrykolakas is in this state of recovery, its animal host is paralyzed, and beheading it destroys the vrykolakas and kills its host. Removing the curse destroys the vrykolakas and returns the animal to normal. After 1d4 days, if the vrykolakas hasn't been destroyed, the animal dies and the vrykolakas rises in a new body that's identical to its previous one, formed from the animal's remains. --- Speed 40 feet, climb 20 feet Melee Single Action fangs +17, Damage 2d8+8 piercing plus Drink Blood Melee Single Action claw +17 (Agile), Damage 2d6+8 slashing Drink Blood Single Action (Divine, Necromancy) Requirements The vrykolakas' last action was a successful fangs Strike; Effect The vrykolakas sinks its fangs into that creature to drink its blood. This requires an Athletics check against the creature's Fortitude DC. On a success, the creature becomes drained 1, and the vrykolakas regains 10 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire, but it increases the creature's drained condition value by 1. A vrykolakas can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. The target creature's drained condition value decreases by 1 per week. A blood transfusion, which requires a successful DC 20 Medicine check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes. Rend Single Action claw ",
+ "trait": [
+  "Undead",
+  "Vampire",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160), [Vampire](/Traits.aspx?ID=242)",
+ "trait_raw": [
+  "Undead",
+  "Vampire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=842",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 2
+}

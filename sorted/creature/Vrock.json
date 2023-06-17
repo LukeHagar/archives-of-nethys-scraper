@@ -1,0 +1,117 @@
+{
+ "ac": 28,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Peace Vulnerability",
+  "Dance of Ruin",
+  "Spore Cloud",
+  "Stunning Screech"
+ ],
+ "creature_family": "Demon",
+ "creature_family_markdown": "[Demon](/MonsterFamilies.aspx?ID=28)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 185,
+ "hp_raw": "185",
+ "id": "creature-100",
+ "image": [
+  "/Images/Monsters/Demon_Vrock.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Draconic",
+  "telepathy 100 feet"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); telepathy 100 feet",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Vrock (Wrath Demon)](/Monsters.aspx?ID=100)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen the gates to the Abyss swing wide, the first demons through are often vrocks, vulture-headed scions of rage who wheel through the air on black wings or dance with the exultation of their fiendish power. Their hatred for mortals is matched only by their desire to inflict suffering through their horrible screech or their devastating dance. Vrocks form from the souls of hateful mortals who are thus given another chance to inflict their rage on the world.\n\n Vrocks often travel in small groups so as to make the best use of their dance of ruin ability, but they rarely appear in groups larger than four. Against small groups and individuals, they swoop down without fear, hoping to play with their prey before going for the kill. Against formidable foes, they are just as happy to fly above, using their dance of ruin to cast a storm of lightning down on them.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Demon_Vrock.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Vrock](/Monsters.aspx?ID=100)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 78</row>\n\n**Perception** +18; darkvision\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); telepathy 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Intimidation](/Skills.aspx?ID=7) +18, [Performance](/Skills.aspx?ID=12) +18, [Religion](/Skills.aspx?ID=13) +18, [Stealth](/Skills.aspx?ID=15) +18, [Survival](/Skills.aspx?ID=16) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +3\r\n\r\n**Con** +5\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +15 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 185\n\n**Resistances**\r\n[electricity](/Traits.aspx?ID=56) 10\n\n**Weaknesses**\r\ncold iron 10, good 10\r\n\r\n**Attack of Opportunity** <actions string=\"Reaction\" /> If the vrock is flying and a creature triggers an attack of opportunity, the vrock can make 2 Strikes with its talons against that creature instead of 1 Strike.<br /> **Peace Vulnerability** A vrock’s wrath is the heart of their essence, and forcing peace upon them wrenches at their soul. If they fail a save against [_calm emotions_](/Spells.aspx?ID=31) or a similar effect forcing them to be peaceful, a vrock takes 4d6 mental damage.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +21 ([Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+9 piercing plus 1d6 evil\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +21 ([Agile](/Traits.aspx?ID=170), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+9 slashing plus 1d6 evil\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +19 ([Agile](/Traits.aspx?ID=170), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+8 slashing plus 1d6 evil\r\n\r\n**Divine Innate Spells** DC 26\r\n- **2nd**\r\n[Mirror Image](/Spells.aspx?ID=197)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **5th**\r\n[Dimension Door](/Spells.aspx?ID=69)\r\n\r\n**Divine Rituals** DC 26\r\n\r\n- **1st**\r\n[Abyssal Pact](/Rituals.aspx?ID=21)\r\n\r\n**Dance of Ruin** <actions string=\"Three Actions\" /> ([Divine](/Traits.aspx?ID=48), [Electricity](/Traits.aspx?ID=56), [Evocation](/Traits.aspx?ID=65), [Manipulate](/Traits.aspx?ID=104), [Move](/Traits.aspx?ID=114)) The vrock dances in flight and chants to create a ruinous explosion of electricity. If more vrocks within 30 feet want to join the dance, the vrock can delay the dance to wait for more vrocks; in that case, the effect occurs after the last vrock uses Dance of Ruin or one of the vrocks chooses to complete that round of the dance. Each non-demon creature in a 20-foot emanation from any of the dancing vrocks takes 2d12 electricity damage (DC 28 basic Reflex save). For each additional vrock that joins the dance, the damage increases by 1d12 and the save DC increases by 1 (to a maximum of four vrocks dealing 5d12 damage with a DC 31 save). The vrocks can continue dancing by using Dance of Ruin each round, for up to 3 rounds in total. The emanation’s size increases by 20 feet each round, and the damage increases by 1d12 per vrock each round.\r\n\r\n**Spore Cloud** <actions string=\"Single Action\" /> ([Disease](/Traits.aspx?ID=46), [Poison](/Traits.aspx?ID=126)) The vrock emits a cloud of spores from their body, dealing 2d8 poison damage to all adjacent creatures. Each creature damaged this way must succeed at a DC 28 Fortitude save or take 2d8 persistent piercing damage as the spores penetrate its skin and grow into thick, green vines. The vines cease growing after 10 rounds, and they wither away in 1d4 days if not shaved off before then. The vines can be destroyed if the creature is affected by a good spell or if _holy water_ is applied to the vines (with an Interact action). Once the vrock uses Spore Cloud, the ability can’t be used for 1d6 rounds.\r\n\r\n**Stunning Screech** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Divine](/Traits.aspx?ID=48), [Incapacitation](/Traits.aspx?ID=93), [Sonic](/Traits.aspx?ID=147)) **Frequency** once per minute. **Effect** The vrock emits a shrill screech. Each non-demon creature within a 30-foot burst must attempt a DC 28 Fortitude save. On a failure, the creature is [stunned 2](/Conditions.aspx?ID=36), and on a critical failure, it’s [stunned 3](/Conditions.aspx?ID=36).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-28\" />",
+ "name": "Vrock",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 18,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "electricity": 10
+ },
+ "resistance_markdown": "[electricity](/Traits.aspx?ID=56) 10\r\n",
+ "resistance_raw": " electricity  10\r\n",
+ "search_markdown": "<traits>\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 78</row>\r\n\r\n**Creature Family** [Demon](/MonsterFamilies.aspx?ID=28)\r\n\r\n<row gap=\"medium\">\r\n**HP** 185\r\n\r\n**AC** 28\r\n\r\n**Fort** +20\r\n\r\n**Ref** +18\r\n\r\n**Will** +15\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen the gates to the Abyss swing wide, the first demons through are often vrocks, vulture-headed scions of rage who wheel through the air on black …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Intimidation +18",
+  "Performance +18",
+  "Religion +18",
+  "Stealth +18",
+  "Survival +16"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Intimidation](/Skills.aspx?ID=7) +18, [Performance](/Skills.aspx?ID=12) +18, [Religion](/Skills.aspx?ID=13) +18, [Stealth](/Skills.aspx?ID=15) +18, [Survival](/Skills.aspx?ID=16) +16",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 78"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 78</row>",
+ "speed": {
+  "fly": 35,
+  "land": 25,
+  "max": 35
+ },
+ "speed_markdown": "25 feet, fly 35 feet",
+ "speed_raw": "25 feet, fly 35 feet",
+ "spell": [
+  "Dimension Door",
+  "Mirror Image"
+ ],
+ "spell_markdown": "[Dimension Door](/Spells.aspx?ID=69), [Mirror Image](/Spells.aspx?ID=197)",
+ "stealth": "18",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "When the gates to the Abyss swing wide, the first demons through are often vrocks, vulture-headed scions of rage who wheel through the air on black …",
+ "summary_markdown": "When the gates to the Abyss swing wide, the first demons through are often vrocks, vulture-headed scions of rage who wheel through the air on black …",
+ "text": " Vrock (Wrath Demon) When the gates to the Abyss swing wide, the first demons through are often vrocks, vulture-headed scions of rage who wheel through the air on black wings or dance with the exultation of their fiendish power. Their hatred for mortals is matched only by their desire to inflict suffering through their horrible screech or their devastating dance. Vrocks form from the souls of hateful mortals who are thus given another chance to inflict their rage on the world. Vrocks often travel in small groups so as to make the best use of their dance of ruin ability, but they rarely appear in groups larger than four. Against small groups and individuals, they swoop down without fear, hoping to play with their prey before going for the kill. Against formidable foes, they are just as happy to fly above, using their dance of ruin to cast a storm of lightning down on them. Recall Knowledge - Fiend (Religion): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Vrock Source Bestiary pg. 78 Perception +18; darkvision Languages Abyssal, Celestial, Draconic; telepathy 100 feet Skills Acrobatics +18, Intimidation +18, Performance +18, Religion +18, Stealth +18, Survival +16 Str +6 Dex +3 Con +5 Int +2 Wis +3 Cha +3 --- AC 28 Fort +20 Ref +18 Will +15 +1 status to all saves vs. magic HP 185 Resistances electricity 10 Weaknesses cold iron 10, good 10 Attack of Opportunity Reaction If the vrock is flying and a creature triggers an attack of opportunity, the vrock can make 2 Strikes with its talons against that creature instead of 1 Strike. Peace Vulnerability A vrock’s wrath is the heart of their essence, and forcing peace upon them wrenches at their soul. If they fail a save against calm emotions or a similar effect forcing them to be peaceful, a vrock takes 4d6 mental damage. --- Speed 25 feet, fly 35 feet Melee Single Action beak +21 (Evil, Magical, reach 10 feet), Damage 3d8+9 piercing plus 1d6 evil Melee Single Action claw +21 (Agile, Evil, Magical, reach 10 feet), Damage 3d6+9 slashing plus 1d6 evil Melee Single Action talon +19 (Agile, Evil, Magical, reach 10 feet), Damage 2d6+8 slashing plus 1d6 evil Divine Innate Spells DC 26 - 2nd Mirror Image - 4th Dimension Door (at will) - 5th Dimension Door Divine Rituals DC 26 - 1st Abyssal Pact Dance of Ruin Three Actions (Divine, Electricity, Evocation, Manipulate, Move) The vrock dances in flight and chants to create a ruinous explosion of electricity. If more vrocks within 30 feet want to join the dance, the vrock can delay the dance to wait for more vrocks; in that case, the effect occurs after the last vrock uses Dance of Ruin or one of the vrocks chooses to complete that round of the dance. Each non-demon creature in a 20-foot emanation from any of the dancing vrocks takes 2d12 electricity damage (DC 28 basic Reflex save). For each additional vrock that joins the dance, the damage increases by 1d12 and the save DC increases by 1 (to a maximum of four vrocks dealing 5d12 damage with a DC 31 save). The vrocks can continue dancing by using Dance of Ruin each round, for up to 3 rounds in total. The emanation’s size increases by 20 feet each round, and the damage increases by 1d12 per vrock each round. Spore Cloud Single Action (Disease, Poison) The vrock emits a cloud of spores from their body, dealing 2d8 poison damage to all adjacent creatures. Each creature damaged this way must succeed at a DC 28 Fortitude save or take 2d8 persistent piercing damage as the spores penetrate its skin and grow into thick, green vines. The vines cease growing after 10 rounds, and they wither away in 1d4 days if not shaved off before then. The vines can be destroyed if the creature is affected by a good spell or if holy water is applied to the vines (with an Interact action). Once the vrock uses Spore Cloud, the ability can’t be used for 1d6 rounds. Stunning Screech Single Action (Auditory, Divine, Incapacitation, Sonic) Frequency once per minute. Effect The vrock emits a shrill screech. Each non-demon creature within a 30-foot burst must attempt a DC 28 Fortitude save. On a failure, the creature is stunned 2, and on a critical failure, it’s stunned 3. ",
+ "trait": [
+  "Demon",
+  "Fiend",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Demon](/Traits.aspx?ID=42), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Demon",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=100",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 10,
+  "good": 10
+ },
+ "weakness_markdown": "cold iron 10, good 10",
+ "weakness_raw": "cold iron 10, good 10",
+ "will_save": 15,
+ "wisdom": 3
+}

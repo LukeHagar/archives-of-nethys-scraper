@@ -1,0 +1,106 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 1,
+ "creature_ability": [
+  "Live to Tell the Tale",
+  "Scroll Mastery"
+ ],
+ "creature_family": "Explorers",
+ "creature_family_markdown": "[Explorers](/MonsterFamilies.aspx?ID=185)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-902",
+ "image": [
+  "/Images/NPCs/Explorer_Chronicler.png"
+ ],
+ "intelligence": 4,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Chronicler](/NPCs.aspx?ID=902)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nExploration means very little if no account of the details exist. Members of adventuring bands cherish chroniclers who record tales of their deeds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/NPCs/Explorer_Chronicler.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Chronicler](/NPCs.aspx?ID=902)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 216</row>\n\n**Perception** +14\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Map Lore](/Skills.aspx?ID=8) +17, [Nature](/Skills.aspx?ID=10) +14, [Scribing Lore](/Skills.aspx?ID=8) +17, [Society](/Skills.aspx?ID=14) +12, [Survival](/Skills.aspx?ID=16) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +2\r\n\r\n**Con** +1\r\n\r\n**Int** +4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Crossbow](/Weapons.aspx?ID=67) (20 bolts), [Dagger](/Weapons.aspx?ID=3), journal, [Leather Armor](/Armor.aspx?ID=4), maps, _scroll of [_acid arrow_](/Spells.aspx?ID=2)_, _scroll of [heal_](/Spells.aspx?ID=148), [Staff](/Weapons.aspx?ID=12)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 45\n\n**Live to Tell the Tale** <actions string=\"Reaction\" /> **Frequency** once per day; **Trigger** The chronicler is [dying](/Conditions.aspx?ID=11); **Effect** The chronicler reduces their dying condition by 1. If the chronicler is no longer dying, they remain [unconscious](/Conditions.aspx?ID=38) for at least 1 hour or until they regain 1 Hit Point.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +7 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+2 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstaff +7 ([two-hand d8](/Traits.aspx?ID=198)),\r\n**Damage** 1d4+2 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncrossbow +7 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d8 piercing\r\n\r\n**Primal Prepared Spells** DC 20, attack +12\r\n- **Cantrips (2nd)**\r\n[Know Direction](/Spells.aspx?ID=169), [Light](/Spells.aspx?ID=171), [Ray of Frost](/Spells.aspx?ID=245), [Sigil](/Spells.aspx?ID=286), [Tanglefoot](/Spells.aspx?ID=330)\r\n- **1st**\r\n[Fleet Step](/Spells.aspx?ID=122), [Longstrider](/Spells.aspx?ID=175), [Pass Without Trace](/Spells.aspx?ID=215)\r\n- **2nd**\r\n[Entangle](/Spells.aspx?ID=103), [Flaming Sphere](/Spells.aspx?ID=121)\r\n\r\n**Scroll Mastery**   The chronicler can activate any [scroll](/equipment/consumables/scrolls) of a 2nd-level spell or lower as if they had the spell on their spell list, regardless of its magical tradition.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-185\" />",
+ "name": "Chronicler",
+ "npc": true,
+ "perception": 14,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 216</row>\r\n\r\n**Creature Family** [Explorers](/MonsterFamilies.aspx?ID=185)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 18\r\n\r\n**Fort** +8\r\n\r\n**Ref** +9\r\n\r\n**Will** +9\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nExploration means very little if no account of the details exist. Members of adventuring bands cherish chroniclers who record tales of their deeds.\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Map Lore +17",
+  "Nature +14",
+  "Scribing Lore +17",
+  "Society +12",
+  "Survival +14"
+ ],
+ "skill_markdown": "[Map Lore](/Skills.aspx?ID=8) +17, [Nature](/Skills.aspx?ID=10) +14, [Scribing Lore](/Skills.aspx?ID=8) +17, [Society](/Skills.aspx?ID=14) +12, [Survival](/Skills.aspx?ID=16) +14",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 216"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 216</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Entangle",
+  "Flaming Sphere",
+  "Fleet Step",
+  "Longstrider",
+  "Pass Without Trace",
+  "Know Direction",
+  "Light",
+  "Ray of Frost",
+  "Sigil",
+  "Tanglefoot"
+ ],
+ "spell_markdown": "[Entangle](/Spells.aspx?ID=103), [Flaming Sphere](/Spells.aspx?ID=121), [Fleet Step](/Spells.aspx?ID=122), [Know Direction](/Spells.aspx?ID=169), [Light](/Spells.aspx?ID=171), [Longstrider](/Spells.aspx?ID=175), [Pass Without Trace](/Spells.aspx?ID=215), [Ray of Frost](/Spells.aspx?ID=245), [Sigil](/Spells.aspx?ID=286), [Tanglefoot](/Spells.aspx?ID=330)",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "summary": "Exploration means very little if no account of the details exist. Members of adventuring bands cherish chroniclers who record tales of their deeds.",
+ "summary_markdown": "Exploration means very little if no account of the details exist. Members of adventuring bands cherish chroniclers who record tales of their deeds.",
+ "text": " Chronicler Exploration means very little if no account of the details exist. Members of adventuring bands cherish chroniclers who record tales of their deeds. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Chronicler Source Gamemastery Guide pg. 216 Perception +14 Languages Common Skills Map Lore +17, Nature +14, Scribing Lore +17, Society +12, Survival +14 Str +2 Dex +2 Con +1 Int +4 Wis +4 Cha +0 Items Crossbow (20 bolts), Dagger, journal, Leather Armor, maps, scroll of acid arrow , scroll of heal , Staff --- AC 18 Fort +8 Ref +9 Will +9 HP 45 Live to Tell the Tale Reaction Frequency once per day; Trigger The chronicler is dying; Effect The chronicler reduces their dying condition by 1. If the chronicler is no longer dying, they remain unconscious for at least 1 hour or until they regain 1 Hit Point. --- Speed 25 feet Melee Single Action dagger +7 (Agile, thrown 10 feet, versatile S), Damage 1d4+2 piercing Melee Single Action staff +7 (two-hand d8), Damage 1d4+2 bludgeoning Ranged Single Action crossbow +7 (range increment 120 feet, reload 1), Damage 1d8 piercing Primal Prepared Spells DC 20, attack +12 - Cantrips (2nd) Know Direction, Light, Ray of Frost, Sigil, Tanglefoot - 1st Fleet Step, Longstrider, Pass Without Trace - 2nd Entangle, Flaming Sphere Scroll Mastery The chronicler can activate any scroll of a 2nd-level spell or lower as if they had the spell on their spell list, regardless of its magical tradition. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=902",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 4
+}

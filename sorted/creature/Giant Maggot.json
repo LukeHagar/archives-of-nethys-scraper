@@ -1,0 +1,88 @@
+{
+ "ac": 13,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 3,
+ "creature_ability": [
+  "Regurgitation",
+  "Gnaw Flesh"
+ ],
+ "creature_family": "Fly",
+ "creature_family_markdown": "[Fly](/MonsterFamilies.aspx?ID=136)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 18,
+ "hp_raw": "18",
+ "id": "creature-672",
+ "immunity": [
+  "visual"
+ ],
+ "immunity_markdown": "[visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Maggot](/Monsters.aspx?ID=672)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGiant flies lay their eggs on the bodies of larger monsters or livestock. When they hatch, these eggs release squirming maggots the size of human children, ravenous young who voraciously consume any flesh in the immediate vicinity—typically starting with the body upon which they were born.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Giant Maggot](/Monsters.aspx?ID=672)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 120 <sup>2.0</sup></row>\n\n**Perception** +3; no vision, [tremorsense 30 feet](/MonsterAbilities.aspx?ID=40)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** -1\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 13 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +3 \r\n\r\n**Will** +3 \n\n</row>\r\n\r\n**HP** 18\n\n**Immunities**\r\n[visual](/Traits.aspx?ID=163)\n\n**Regurgitation** <actions string=\"Reaction\" /> **Trigger** The giant maggot takes damage; **Effect** The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (or sickened 2 on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandibles +6,\r\n**Damage** 1d8+2 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Gnaw Flesh** <actions string=\"Single Action\" />  **Requirement** The giant maggot has [Grabbed](/Conditions.aspx?ID=20) a creature; **Effect** The giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 19 basic Reflex save).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-136\" />",
+ "name": "Giant Maggot",
+ "npc": false,
+ "perception": 3,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 3,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 120 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Fly](/MonsterFamilies.aspx?ID=136)\r\n\r\n<row gap=\"medium\">\r\n**HP** 18\r\n\r\n**AC** 13\r\n\r\n**Fort** +9\r\n\r\n**Ref** +3\r\n\r\n**Will** +3\r\n\r\n**Perception** +3\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGiant flies lay their eggs on the bodies of larger monsters or livestock. When they hatch, these eggs release squirming maggots the size of human …\r\n</summary>",
+ "sense": "no vision,  tremorsense 30 feet ",
+ "sense_markdown": "no vision, [tremorsense 30 feet](/MonsterAbilities.aspx?ID=40)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +4"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +4",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 120"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 120 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 10,
+  "max": 10
+ },
+ "speed_markdown": "10 feet",
+ "speed_raw": "10 feet",
+ "spell_markdown": "",
+ "strength": 2,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Giant flies lay their eggs on the bodies of larger monsters or livestock. When they hatch, these eggs release squirming maggots the size of human …",
+ "summary_markdown": "Giant flies lay their eggs on the bodies of larger monsters or livestock. When they hatch, these eggs release squirming maggots the size of human …",
+ "text": " Giant Maggot Giant flies lay their eggs on the bodies of larger monsters or livestock. When they hatch, these eggs release squirming maggots the size of human children, ravenous young who voraciously consume any flesh in the immediate vicinity—typically starting with the body upon which they were born. Recall Knowledge - Animal (Nature): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Giant Maggot Source Bestiary 2 pg. 120 2.0 Perception +3; no vision, tremorsense 30 feet Languages Skills Athletics +4 Str +2 Dex -1 Con +3 Int -5 Wis +1 Cha -5 --- AC 13 Fort +9 Ref +3 Will +3 HP 18 Immunities visual Regurgitation Reaction Trigger The giant maggot takes damage; Effect The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude save or become sickened 1 (or sickened 2 on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse. --- Speed 10 feet Melee Single Action mandibles +6, Damage 1d8+2 piercing plus Grab Gnaw Flesh Single Action Requirement The giant maggot has Grabbed a creature; Effect The giant maggot deals 1d8+2 slashing damage to the grabbed creature as it chews the creature's flesh (DC 19 basic Reflex save). ",
+ "trait": [
+  "Animal",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=672",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 3,
+ "wisdom": 1
+}

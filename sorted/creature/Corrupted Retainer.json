@@ -1,0 +1,87 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "No Escape",
+  "Shield Block",
+  "Demonic Strength",
+  "Tainted Rage"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-2004",
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Corrupted Retainer](/NPCs.aspx?ID=2004)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Corrupted Retainer](/NPCs.aspx?ID=2004)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 35</row>\n\n**Perception** +6\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +6, [Athletics](/Skills.aspx?ID=3) +6, [Survival](/Skills.aspx?ID=16) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Hide Armor](/Armor.aspx?ID=7), gray robes, [Trident](/Weapons.aspx?ID=45), [Wooden Shield](/Shields.aspx?ID=2) (Hardness 3)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 (21 with shield raised)\r\n\r\n**Fort** +9 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 30\n\n**No Escape** <actions string=\"Reaction\" /> ([rage](/Traits.aspx?ID=135)) **Trigger** A foe within the corrupted retainer's reach attempts to move away from them; **Effect** The corrupted retainer keeps pace with the triggering foe. The corrupted retainer Strides up to their Speed, following that foe and keeping it in reach throughout its movement until it stops moving or the corrupted retainer has moved their full Speed.<br />**[Shield Block](/MonsterAbilities.aspx?ID=32)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntrident +11 ([fatal d10](/Traits.aspx?ID=178), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d8+2 piercing\n\n**Demonic Strength**   Corrupted retainers deal an extra 1d8 damage with their tridents, and any trident gains the [fatal d10](/Traits.aspx?ID=178) trait while the corrupted retainer is using it (both the extra weapon damage die and the fatal trait have already been included in the corrupted retainer's trident Strike above).\r\n\r\n**Tainted Rage** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106)) The corrupted retainer begins to rage and gains 5 temporary Hit Points. The rage lasts for 1 minute or until they fall [unconscious](/Conditions.aspx?ID=38), whichever happens first. While raging, the corrupted retainer deals 2 additional damage with melee weapons, has a –1 penalty to AC, and cannot use actions that have the [concentrate](/Traits.aspx?ID=32) trait unless those actions also have the [rage](/Traits.aspx?ID=135) trait. The corrupted retainer can still [Seek](/Actions.aspx?ID=84) while raging.\r\n\r\n</column>",
+ "name": "Corrupted Retainer",
+ "npc": true,
+ "perception": 6,
+ "rarity": "common",
+ "reflex_save": 6,
+ "release_date": "2020-01-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 35</row>\n\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 19\r\n\r\n**Fort** +9\r\n\r\n**Ref** +6\r\n\r\n**Will** +7\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +6",
+  "Athletics +6",
+  "Survival +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +6, [Athletics](/Skills.aspx?ID=3) +6, [Survival](/Skills.aspx?ID=16) +6",
+ "source": [
+  "Pathfinder #151: The Show Must Go On"
+ ],
+ "source_raw": [
+  "Pathfinder #151: The Show Must Go On pg. 35"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 35</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 2,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Corrupted Retainer Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Corrupted Retainer Source Pathfinder #151: The Show Must Go On pg. 35 Perception +6 Languages Common Skills Acrobatics +6, Athletics +6, Survival +6 Str +2 Dex +2 Con +3 Int +0 Wis +2 Cha +0 Items Hide Armor, gray robes, Trident, Wooden Shield (Hardness 3) --- AC 19 (21 with shield raised) Fort +9 Ref +6 Will +7 HP 30 No Escape Reaction (rage) Trigger A foe within the corrupted retainer's reach attempts to move away from them; Effect The corrupted retainer keeps pace with the triggering foe. The corrupted retainer Strides up to their Speed, following that foe and keeping it in reach throughout its movement until it stops moving or the corrupted retainer has moved their full Speed. Shield Block Reaction --- Speed 25 feet Melee Single Action trident +11 (fatal d10, thrown 20 feet), Damage 2d8+2 piercing Demonic Strength Corrupted retainers deal an extra 1d8 damage with their tridents, and any trident gains the fatal d10 trait while the corrupted retainer is using it (both the extra weapon damage die and the fatal trait have already been included in the corrupted retainer's trident Strike above). Tainted Rage Single Action (Concentrate, Emotion, Mental) The corrupted retainer begins to rage and gains 5 temporary Hit Points. The rage lasts for 1 minute or until they fall unconscious, whichever happens first. While raging, the corrupted retainer deals 2 additional damage with melee weapons, has a –1 penalty to AC, and cannot use actions that have the concentrate trait unless those actions also have the rage trait. The corrupted retainer can still Seek while raging. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2004",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 2
+}

@@ -1,0 +1,109 @@
+{
+ "ac": 36,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Alchemical Cartridge",
+  "Attack of Opportunity",
+  "Alchemical Amplification",
+  "Rend",
+  "Smashing Blow",
+  "Throw Rock"
+ ],
+ "creature_family": "Necrohulk",
+ "creature_family_markdown": "[Necrohulk](/MonsterFamilies.aspx?ID=328)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 345,
+ "hp_raw": "345 ( negative healing )",
+ "id": "creature-2365",
+ "image": [
+  "/Images/Monsters/Necrohulk_Smasher.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Necrohulk Smasher](/Monsters.aspx?ID=2365)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMutants with incredible strength make the most powerful necrohulks. These necrohulk smashers are so swollen with biological and alchemical muscle enhancements that they can simply pound their way through enemies.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Necrohulk_Smasher.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Necrohulk Smasher](/Monsters.aspx?ID=2365)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 87</row>\n\n**Perception** +25; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +32, [Intimidation](/Skills.aspx?ID=7) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 345\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\r\n, regeneration 15 (deactivated by [acid](/Traits.aspx?ID=3))\r\n\r\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\nslashing 15\r\n\r\n**Alchemical Cartridge** ([alchemical](/Traits.aspx?ID=6)) Critical hits rupture the necrohulk's alchemical cartridge. The first time the necrohulk takes a critical hit, it loses its regeneration. The second time it takes a critical hit, it takes 15 [persistent acid damage](/Conditions.aspx?ID=29) that it can't heal unless the cartridge is stitched back into place.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +30 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d10+15 bludgeoning and [Improved Knockback](/Feats.aspx?ID=470)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +25 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d10+15 bludgeoning\n\n**Alchemical Amplification** <actions string=\"Free Action\" /> ([Alchemical](/Traits.aspx?ID=6)) **Frequency** once per hour; **Effect** The necrohulk draws upon alchemical stores to push its body into overdrive. It becomes [quickened](/Conditions.aspx?ID=32) for 1d4 rounds. It can use this extra action to Step, Stride, or Strike.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  fist\r\n\r\n**Smashing Blow** <actions string=\"Two Actions\" />  The necrohulk smasher makes a fist Strike. If it hits, the necrohulk smashes the target into the floor or nearby wall. The target takes an additional 6d10 bludgeoning damage, depending on its DC 33 Fortitude save. <br />**Critical Success** The target takes half of the additional damage. <br />**Success** The target takes half the additional damage and is [stunned 1](/Conditions.aspx?ID=36). <br />**Failure** The target takes full additional damage, is stunned 3, and knocked [prone](/Conditions.aspx?ID=31). <br />**Critical Failure** The target takes double the additional damage, is stunned 3, and knocked prone.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Undead Fleshwarps</title>\r\n\r\nMuscular [fleshwarps](/Ancestries.aspx?ID=31) are the most common ancestry used to make necrohulk smashers. These people have often already experienced lives of rejection or exclusion before the final indignity of unwanted reanimation.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-328\" />",
+ "name": "Necrohulk Smasher",
+ "npc": false,
+ "perception": 25,
+ "rarity": "uncommon",
+ "reflex_save": 23,
+ "release_date": "2022-11-16",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 87</row>\r\n\r\n**Creature Family** [Necrohulk](/MonsterFamilies.aspx?ID=328)\r\n\r\n<row gap=\"medium\">\r\n**HP** 345 ( negative healing )\r\n\r\n**AC** 36\r\n\r\n**Fort** +29\r\n\r\n**Ref** +23\r\n\r\n**Will** +26\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMutants with incredible strength make the most powerful necrohulks. These necrohulk smashers are so swollen with biological and alchemical muscle …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +32",
+  "Intimidation +27"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +32, [Intimidation](/Skills.aspx?ID=7) +27",
+ "source": [
+  "Pathfinder #185: A Taste of Ashes"
+ ],
+ "source_raw": [
+  "Pathfinder #185: A Taste of Ashes pg. 87"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 87</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Mutants with incredible strength make the most powerful necrohulks. These necrohulk smashers are so swollen with biological and alchemical muscle …",
+ "summary_markdown": "Mutants with incredible strength make the most powerful necrohulks. These necrohulk smashers are so swollen with biological and alchemical muscle …",
+ "text": " Necrohulk Smasher Mutants with incredible strength make the most powerful necrohulks. These necrohulk smashers are so swollen with biological and alchemical muscle enhancements that they can simply pound their way through enemies. Recall Knowledge - Undead (Religion): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Necrohulk Smasher Source Pathfinder #185: A Taste of Ashes pg. 87 Perception +25; darkvision Languages Skills Athletics +32, Intimidation +27 Str +9 Dex +4 Con +6 Int -4 Wis +4 Cha +4 --- AC 36 Fort +29 Ref +23 Will +26 HP 345 (negative healing) , regeneration 15 (deactivated by acid) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses slashing 15 Alchemical Cartridge (alchemical) Critical hits rupture the necrohulk's alchemical cartridge. The first time the necrohulk takes a critical hit, it loses its regeneration. The second time it takes a critical hit, it takes 15 persistent acid damage that it can't heal unless the cartridge is stitched back into place. Attack of Opportunity Reaction --- Speed 30 feet Melee Single Action fist +30 (reach 10 feet), Damage 4d10+15 bludgeoning and Improved Knockback Ranged Single Action rock +25 (Brutal, range increment 120 feet), Damage 4d10+15 bludgeoning Alchemical Amplification Free Action (Alchemical) Frequency once per hour; Effect The necrohulk draws upon alchemical stores to push its body into overdrive. It becomes quickened for 1d4 rounds. It can use this extra action to Step, Stride, or Strike. Rend Single Action fist Smashing Blow Two Actions The necrohulk smasher makes a fist Strike. If it hits, the necrohulk smashes the target into the floor or nearby wall. The target takes an additional 6d10 bludgeoning damage, depending on its DC 33 Fortitude save. Critical Success The target takes half of the additional damage. Success The target takes half the additional damage and is stunned 1. Failure The target takes full additional damage, is stunned 3, and knocked prone. Critical Failure The target takes double the additional damage, is stunned 3, and knocked prone. Throw Rock Single Action Undead Fleshwarps Muscular fleshwarps are the most common ancestry used to make necrohulk smashers. These people have often already experienced lives of rejection or exclusion before the final indignity of unwanted reanimation. ",
+ "trait": [
+  "Mutant",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Mutant](/Traits.aspx?ID=229), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mutant",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2365",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "slashing": 15
+ },
+ "weakness_markdown": "slashing 15",
+ "weakness_raw": "slashing 15",
+ "will_save": 26,
+ "wisdom": 4
+}

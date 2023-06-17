@@ -1,0 +1,61 @@
+{
+ "ac": 25,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Thievery DC 26 (this increases to DC 30 once the trap is activated) to disable one of the 12 trapdoors and seal it shut; disabling all 12 of the trapdoors completely deactivates the trap, but a critical failure on any attempt causes the trap to trigger; Thievery DC 24 to disable one of the watertight portcullises and prevent it from falling; magic such as   shape stone   or   wall of stone   or even   lock   can also be used to disable portions of this deadly trap at the GM's discretion",
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hardness": 16,
+ "hardness_raw": "16 Portcullis Hardness",
+ "hazard_type": "Trap",
+ "hp": 70,
+ "hp_raw": "70 (BT 35)",
+ "id": "hazard-284",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 9,
+ "markdown": "<title level=\"1\" right=\"Hazard 9\" pfs=\"\">[Flooding Room](/Hazards.aspx?ID=284)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 276</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nWhen the western secret door is opened or any of the trapdoors in the ceiling are forced open, the trap is triggered. As soon as this occurs, the portcullises to the east and west come crashing down, each consisting of solid iron sheets that form watertight seals. At the same time, the dozen 5-foot-wide trapdoors open in the ceiling. These holes are the mouths of winding tunnels that connect to a second pair of apertures on the submerged side of the island outside, allowing the waters of the Little Sellen River to plunge down into this room, possibly damaging or knocking prone those in the square portion of the room itself (but not in the adjoining hallway) and eventually flooding the entire chamber.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC +23 (master)\r\n\r\n**Disable**\r\nThievery DC 26 (this increases to DC 30 once the trap is activated) to disable one of the 12 trapdoors and seal it shut; disabling all 12 of the trapdoors completely deactivates the trap, but a critical failure on any attempt causes the trap to trigger; Thievery DC 24 to disable one of the watertight portcullises and prevent it from falling; magic such as [_shape stone_](/Spells.aspx?ID=276) or [_wall of stone_](/Spells.aspx?ID=365) or even [_lock_](/Spells.aspx?ID=174) can also be used to disable portions of this deadly trap at the GM's discretion\n\n<column gap=\"tiny\">\r\n\r\n**AC** 25, **Fort** +23, **Ref** +15\r\n\r\n**Portcullis Hardness**\r\n16\r\n\r\n**Portcullis HP**\r\n70 (BT 35)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Rushing Water** <actions string=\"Reaction\" /> **Trigger** The secret door to the west or any trapdoor is opened. **Effect** The 12 ceiling trapdoors open along with the two secret doors to the cyclops zombie alcoves, releasing river water and zombies into the room. Any creature standing in the central 40-by-40 foot section of the main room must attempt a DC 28 Reflex save; the trap then rolls initiative.\r\n\r\n**Critical Success** Success The creature takes no damage.<br />\r\n**Success** The creature takes 1d10+6 bludgeoning damage from the cascade of water.<br />\r\n**Failure** The creature takes 2d10+13 bludgeoning damage from the cascade of water.<br />\r\n**Critical Failure** The creature takes 2d10+13 bludgeoning damage from the cascade of falling water and is knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n---\r\n**Routine**\r\n(12 actions) The trap loses 1 action for each of its 12 ceiling trapdoors that are disabled. On each of the trap's actions, it pours water into the room, filling it to a depth of one inch. If all 12 trapdoors are open, it thus fills the room at a rate of 1 foot per round. If one of the portcullises is breached, the trap fills the room at half the rate, and if both are breached, it fills at one quarter the rate. Once the cascade of water begins, it's easy enough for a PC to avoid the downpour, but any creature that deliberately enters the cascade is subjected to the trap's Rushing Water reaction. If a creature is struck by Rushing Water while already underwater, the result of its Reflex save is automatically improved one degree of success.<br /> The flooding ends and the trap deactivates once the area is filled to the ceiling—at this point, the water's surface is at the level of the river, and at the top of the stairs leading down from areas **D4** and **D6**. A Medium or smaller creature can try to [Swim](/Actions.aspx?ID=39) to freedom through one of the 5-foot-wide tunnels leading to the river from a trapdoor, but doing so requires navigating 200 feet of flooded tunnels.\r\n\r\n---\r\n**Reset**\r\nThe trap must be reset with a major engineering effort.",
+ "name": "Flooding Room",
+ "rarity": "unique",
+ "reflex_save": 15,
+ "release_date": "2022-10-26",
+ "reset": "The trap must be reset with a major engineering effort.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 276</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen the western secret door is opened or any of the trapdoors in the ceiling are forced open, the trap is triggered. As soon as this occurs, the …\r\n</summary>",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 276"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 276</row>",
+ "speed": {},
+ "spoilers": "Kingmaker",
+ "stealth": "DC +23 (master)",
+ "summary": "When the western secret door is opened or any of the trapdoors in the ceiling are forced open, the trap is triggered. As soon as this occurs, the …",
+ "summary_markdown": "When the western secret door is opened or any of the trapdoors in the ceiling are forced open, the trap is triggered. As soon as this occurs, the …",
+ "text": " Flooding Room Source Kingmaker Adventure Path pg. 276 Complexity Complex When the western secret door is opened or any of the trapdoors in the ceiling are forced open, the trap is triggered. As soon as this occurs, the portcullises to the east and west come crashing down, each consisting of solid iron sheets that form watertight seals. At the same time, the dozen 5-foot-wide trapdoors open in the ceiling. These holes are the mouths of winding tunnels that connect to a second pair of apertures on the submerged side of the island outside, allowing the waters of the Little Sellen River to plunge down into this room, possibly damaging or knocking prone those in the square portion of the room itself (but not in the adjoining hallway) and eventually flooding the entire chamber. --- Stealth DC +23 (master) Disable Thievery DC 26 (this increases to DC 30 once the trap is activated) to disable one of the 12 trapdoors and seal it shut; disabling all 12 of the trapdoors completely deactivates the trap, but a critical failure on any attempt causes the trap to trigger; Thievery DC 24 to disable one of the watertight portcullises and prevent it from falling; magic such as shape stone or wall of stone or even lock can also be used to disable portions of this deadly trap at the GM's discretion AC 25, Fort +23, Ref +15 Portcullis Hardness 16 Portcullis HP 70 (BT 35) Immunities critical hits, object immunities, precision damage Rushing Water Reaction Trigger The secret door to the west or any trapdoor is opened. Effect The 12 ceiling trapdoors open along with the two secret doors to the cyclops zombie alcoves, releasing river water and zombies into the room. Any creature standing in the central 40-by-40 foot section of the main room must attempt a DC 28 Reflex save; the trap then rolls initiative. Critical Success Success The creature takes no damage. Success The creature takes 1d10+6 bludgeoning damage from the cascade of water. Failure The creature takes 2d10+13 bludgeoning damage from the cascade of water. Critical Failure The creature takes 2d10+13 bludgeoning damage from the cascade of falling water and is knocked prone. --- Routine (12 actions) The trap loses 1 action for each of its 12 ceiling trapdoors that are disabled. On each of the trap's actions, it pours water into the room, filling it to a depth of one inch. If all 12 trapdoors are open, it thus fills the room at a rate of 1 foot per round. If one of the portcullises is breached, the trap fills the room at half the rate, and if both are breached, it fills at one quarter the rate. Once the cascade of water begins, it's easy enough for a PC to avoid the downpour, but any creature that deliberately enters the cascade is subjected to the trap's Rushing Water reaction. If a creature is struck by Rushing Water while already underwater, the result of its Reflex save is automatically improved one degree of success. The flooding ends and the trap deactivates once the area is filled to the ceiling—at this point, the water's surface is at the level of the river, and at the top of the stairs leading down from areas D4 and D6 . A Medium or smaller creature can try to Swim to freedom through one of the 5-foot-wide tunnels leading to the river from a trapdoor, but doing so requires navigating 200 feet of flooded tunnels. --- Reset The trap must be reset with a major engineering effort.",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap",
+  "Unique"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap",
+  "Unique"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=284",
+ "weakness": {}
+}

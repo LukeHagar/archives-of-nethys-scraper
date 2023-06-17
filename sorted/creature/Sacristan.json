@@ -1,0 +1,114 @@
+{
+ "ac": 30,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 6,
+ "creature_ability": [
+  "Painsight",
+  "Staggering Servitude",
+  "Attack of Opportunity",
+  "Focus Gaze",
+  "Shadow Scream"
+ ],
+ "creature_family": "Velstrac",
+ "creature_family_markdown": "[Velstrac](/MonsterFamilies.aspx?ID=111)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-850",
+ "image": [
+  "/Images/Monsters/Velstrac_Sacristan.png"
+ ],
+ "immunity": [
+  "cold"
+ ],
+ "immunity_markdown": "cold",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Infernal",
+  "Shadowtongue"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Shadowtongue](/Languages.aspx?ID=21)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Sacristan](/Monsters.aspx?ID=850)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSacristans are failures among the velstracs, creatures whose bodies and minds have been utterly broken by the velstracs' torments. These unfortunates are assembled from scrap metal, nerveless flesh, and bits of darkness into loyal agents who take ecstatic pleasure in serving other velstracs. Sacristans are empowered by a miniature gateway to the [Shadow Plane](/Planes.aspx?ID=11) deep in their mouths. By distending their jaws, they can howl with the shrieks and windstorms of that plane. Sacristans vary in appearance but are the size of maimed humans. Their features are redundant or absent and they are wrapped in barbed and rusted chains.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Velstrac_Sacristan.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Sacristan](/Monsters.aspx?ID=850)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Velstrac\" url=\"/Traits.aspx?ID=265\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 283 <sup>2.0</sup></row>\n\n**Perception** +19; [greater darkvision](/MonsterAbilities.aspx?ID=12), painsight\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Shadowtongue](/Languages.aspx?ID=21)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +22, [Intimidation](/Skills.aspx?ID=7) +18, [Stealth](/Skills.aspx?ID=15) +21, [Torture Lore](/Skills.aspx?ID=8) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +5\r\n\r\n**Con** +6\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Painsight** ([divination](/Traits.aspx?ID=47), [divine](/Traits.aspx?ID=48)) A velstrac automatically knows whether a creature it sees has any of the [doomed](/Conditions.aspx?ID=9), [dying](/Conditions.aspx?ID=11), and [wounded](/Conditions.aspx?ID=42) conditions, as well as the value of those conditions\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +17 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 175\r\n\r\n, regeneration 10 (deactivated by good or silver)\r\n\r\n**Immunities**\r\ncold\n\n**Weaknesses**\r\ngood 10, silver 10\r\n\r\n**Staggering Servitude** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [enchantment](/Traits.aspx?ID=61), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106), [visual](/Traits.aspx?ID=163)) 30 feet. When a<br />creature ends its turn in the aura, it sees a vision of the sacristan groveling in pitiable<br />servitude. The creature must succeed at a DC 27 Will save or become [stunned 1](/Conditions.aspx?ID=36).<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbarbed chain +22 ([Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192), [Trip](/Traits.aspx?ID=196), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 2d8+9 piercing plus 1d6 evil and 2d6 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Divine Innate Spells** DC 29\r\n- **3rd**\r\n[Fear](/Spells.aspx?ID=110)\r\n- **5th**\r\n[Chilling Darkness](/Spells.aspx?ID=36)\r\n\r\n**Focus Gaze** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) The sacristan stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against Staggering Servitude. In addition, if the creature was already [stunned](/Conditions.aspx?ID=36), on a failed save its revulsion toward the sacristan's presence causes it to be [stupefied 2](/Conditions.aspx?ID=37) for 1 minute. After attempting this save, the creature is then temporarily immune until the start of the sacristan's next turn.\r\n\r\n**Shadow Scream** <actions string=\"Three Actions\" /> ([Aura](/Traits.aspx?ID=206), [Concentrate](/Traits.aspx?ID=32), [Darkness](/Traits.aspx?ID=39), [Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65), [Mental](/Traits.aspx?ID=106), [Sonic](/Traits.aspx?ID=147)) **Frequency** once per hour; **Effect** The sacristan opens their mouth to unloose the wailing howls and mind-twisting darkness of the [Shadow Plane](/Planes.aspx?ID=11). This creates a 30-foot emanation of darkness and wailing sounds around the sacristan. Creatures with [darkvision](/MonsterAbilities.aspx?ID=12) can't see through this darkness. The sacristan can Sustain Shadow Scream for up to 1 minute. Non-velstrac creatures in the area when the ability is used, as well as those who enter or start their turn in the area, must attempt a DC 28 Will save. <br />**Critical Success** The creature is unaffected and is then temporarily immune for 24 hours. <br />**Success** The creature is [deafened](/Conditions.aspx?ID=8) for 1 round. <br />**Failure** The creature is [confused](/Conditions.aspx?ID=5) and deafened for 1 round. <br />**Critical Failure** The creature takes 20 mental damage, and is confused and deafened for 1 round.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-111\" />",
+ "name": "Sacristan",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Velstrac\" url=\"/Traits.aspx?ID=265\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 283 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Velstrac](/MonsterFamilies.aspx?ID=111)\r\n\r\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 30\r\n\r\n**Fort** +22\r\n\r\n**Ref** +19\r\n\r\n**Will** +17\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSacristans are failures among the velstracs, creatures whose bodies and minds have been utterly broken by the velstracs' torments. These unfortunates …\r\n</summary>",
+ "sense": " greater darkvision , painsight",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12), painsight",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +22",
+  "Intimidation +18",
+  "Stealth +21",
+  "Torture Lore +16"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +22, [Intimidation](/Skills.aspx?ID=7) +18, [Stealth](/Skills.aspx?ID=15) +21, [Torture Lore](/Skills.aspx?ID=8) +16",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 283"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 283 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Chilling Darkness",
+  "Fear"
+ ],
+ "spell_markdown": "[Chilling Darkness](/Spells.aspx?ID=36), [Fear](/Spells.aspx?ID=110)",
+ "stealth": "21",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Sacristans are failures among the velstracs, creatures whose bodies and minds have been utterly broken by the velstracs' torments. These unfortunates …",
+ "summary_markdown": "Sacristans are failures among the velstracs, creatures whose bodies and minds have been utterly broken by the velstracs' torments. These unfortunates …",
+ "text": " Sacristan Sacristans are failures among the velstracs, creatures whose bodies and minds have been utterly broken by the velstracs' torments. These unfortunates are assembled from scrap metal, nerveless flesh, and bits of darkness into loyal agents who take ecstatic pleasure in serving other velstracs. Sacristans are empowered by a miniature gateway to the Shadow Plane deep in their mouths. By distending their jaws, they can howl with the shrieks and windstorms of that plane. Sacristans vary in appearance but are the size of maimed humans. Their features are redundant or absent and they are wrapped in barbed and rusted chains. Recall Knowledge - Fiend (Religion): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Sacristan Source Bestiary 2 pg. 283 2.0 Perception +19; greater darkvision, painsight Languages Common, Infernal, Shadowtongue Skills Acrobatics +19, Athletics +22, Intimidation +18, Stealth +21, Torture Lore +16 Str +6 Dex +5 Con +6 Int +0 Wis +3 Cha +2 Painsight (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions --- AC 30 Fort +22 Ref +19 Will +17 +1 status to all saves vs. magic HP 175 , regeneration 10 (deactivated by good or silver) Immunities cold Weaknesses good 10, silver 10 Staggering Servitude (aura, divine, enchantment, fear, mental, visual) 30 feet. When a creature ends its turn in the aura, it sees a vision of the sacristan groveling in pitiable servitude. The creature must succeed at a DC 27 Will save or become stunned 1. Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action barbed chain +22 (Evil, Magical, reach 10 feet, Trip, versatile S), Damage 2d8+9 piercing plus 1d6 evil and 2d6 persistent bleed Divine Innate Spells DC 29 - 3rd Fear - 5th Chilling Darkness Focus Gaze Single Action (Concentrate, Divine, Enchantment, Fear, Mental, Visual) The sacristan stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against Staggering Servitude. In addition, if the creature was already stunned, on a failed save its revulsion toward the sacristan's presence causes it to be stupefied 2 for 1 minute. After attempting this save, the creature is then temporarily immune until the start of the sacristan's next turn. Shadow Scream Three Actions (Aura, Concentrate, Darkness, Divine, Evocation, Mental, Sonic) Frequency once per hour; Effect The sacristan opens their mouth to unloose the wailing howls and mind-twisting darkness of the Shadow Plane. This creates a 30-foot emanation of darkness and wailing sounds around the sacristan. Creatures with darkvision can't see through this darkness. The sacristan can Sustain Shadow Scream for up to 1 minute. Non-velstrac creatures in the area when the ability is used, as well as those who enter or start their turn in the area, must attempt a DC 28 Will save. Critical Success The creature is unaffected and is then temporarily immune for 24 hours. Success The creature is deafened for 1 round. Failure The creature is confused and deafened for 1 round. Critical Failure The creature takes 20 mental damage, and is confused and deafened for 1 round. ",
+ "trait": [
+  "Fiend",
+  "Velstrac",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Velstrac](/Traits.aspx?ID=265)",
+ "trait_raw": [
+  "Fiend",
+  "Velstrac"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=850",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "good": 10,
+  "silver": 10
+ },
+ "weakness_markdown": "good 10, silver 10",
+ "weakness_raw": "good 10, silver 10",
+ "will_save": 17,
+ "wisdom": 3
+}

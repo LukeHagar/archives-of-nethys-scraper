@@ -1,0 +1,103 @@
+{
+ "ac": 23,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Runic Resistance",
+  "Paired Strike",
+  "Powerful Scimitars",
+  "Raptor Dive"
+ ],
+ "creature_family": "Maftet",
+ "creature_family_markdown": "[Maftet](/MonsterFamilies.aspx?ID=246)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 92,
+ "hp_raw": "92",
+ "id": "creature-1225",
+ "image": [
+  "/Images/Monsters/Maftet.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Sphinx"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sphinx](/Languages.aspx?ID=35)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Maftet Guardian](/Monsters.aspx?ID=1225)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMaftets are hawk-winged humanoids with leonine lower bodies that dwell in ancient ruins and cities thought lost, typically in desert or mountain regions. They view themselves as guardians and practice a specialized technique of dual-wielding scimitars so central to their culture that a maftet's scimitars are often cherished family heirlooms. Most maftets venerate their ancestors in addition to various deities, and even a child can detail their family lineage back multiple generations. Maftet prides tend to be matriarchal and isolationist, though maftets aren't necessarily hostile to outsiders who respect their homes and don't seek to loot them.\n\n When a young maftet comes of age, they receive runic tattoos from a pride's elder. These tattoos are imbued with magic that allows a maftet to enchant their wielded weapons, but the individualized designs tell of the maftet's ancestors, childhood adventures, and positive qualities. Such tattoos are considered sacred and never given to non-maftets.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Maftet.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Maftet Guardian](/Monsters.aspx?ID=1225)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 166</row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sphinx](/Languages.aspx?ID=35)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Arcana](/Skills.aspx?ID=2) +13, [Athletics](/Skills.aspx?ID=3) +15, [Ruins Lore](/Skills.aspx?ID=8) +15, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Scimitar](/Weapons.aspx?ID=38) (2)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 92\n\n**Runic Resistance** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [abjuration](/Traits.aspx?ID=2)) **Trigger** The maftet takes damage from a Strike or spell effect; **Effect** The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack. This resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_scimitar_ +17 ([Forceful](/Traits.aspx?ID=180), [Magical](/Traits.aspx?ID=103), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 2d6+8 slashing\r\n\r\n**Arcane Innate Spells** DC 23\r\n- **Cantrips (3rd)**\r\n[Sigil](/Spells.aspx?ID=286)\r\n- **1st**\r\n[Sanctuary](/Spells.aspx?ID=266) (×3), [True Strike](/Spells.aspx?ID=345)\r\n\r\n**Paired Strike** <actions string=\"Two Actions\" />  **Requirements** The maftet is wielding two [scimitars](/Weapons.aspx?ID=38); **Effect** The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty.\r\n\r\n**Powerful Scimitars**  ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65)) Any non-magical [scimitar](/Weapons.aspx?ID=38) becomes a _+1 [striking](/Equipment.aspx?ID=280) scimitar_ while a maftet wields it.\r\n\r\n**Raptor Dive** <actions string=\"Three Actions\" />  **Requirements** The maftet is flying at least 10 feet above the target; **Effect** The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-246\" />",
+ "name": "Maftet Guardian",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 166</row>\r\n\r\n**Creature Family** [Maftet](/MonsterFamilies.aspx?ID=246)\r\n\r\n<row gap=\"medium\">\r\n**HP** 92\r\n\r\n**AC** 23\r\n\r\n**Fort** +14\r\n\r\n**Ref** +15\r\n\r\n**Will** +12\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMaftets are hawk-winged humanoids with leonine lower bodies that dwell in ancient ruins and cities thought lost, typically in desert or mountain …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Arcana +13",
+  "Athletics +15",
+  "Ruins Lore +15",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Arcana](/Skills.aspx?ID=2) +13, [Athletics](/Skills.aspx?ID=3) +15, [Ruins Lore](/Skills.aspx?ID=8) +15, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 166"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 166</row>",
+ "speed": {
+  "fly": 40,
+  "land": 30,
+  "max": 40
+ },
+ "speed_markdown": "30 feet, fly 40 feet",
+ "speed_raw": "30 feet, fly 40 feet",
+ "spell": [
+  "Sanctuary",
+  "True Strike",
+  "Sigil"
+ ],
+ "spell_markdown": "[Sanctuary](/Spells.aspx?ID=266), [Sigil](/Spells.aspx?ID=286), [True Strike](/Spells.aspx?ID=345)",
+ "stealth": "13",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Maftets are hawk-winged humanoids with leonine lower bodies that dwell in ancient ruins and cities thought lost, typically in desert or mountain …",
+ "summary_markdown": "Maftets are hawk-winged humanoids with leonine lower bodies that dwell in ancient ruins and cities thought lost, typically in desert or mountain …",
+ "text": " Maftet Guardian Maftets are hawk-winged humanoids with leonine lower bodies that dwell in ancient ruins and cities thought lost, typically in desert or mountain regions. They view themselves as guardians and practice a specialized technique of dual-wielding scimitars so central to their culture that a maftet's scimitars are often cherished family heirlooms. Most maftets venerate their ancestors in addition to various deities, and even a child can detail their family lineage back multiple generations. Maftet prides tend to be matriarchal and isolationist, though maftets aren't necessarily hostile to outsiders who respect their homes and don't seek to loot them. When a young maftet comes of age, they receive runic tattoos from a pride's elder. These tattoos are imbued with magic that allows a maftet to enchant their wielded weapons, but the individualized designs tell of the maftet's ancestors, childhood adventures, and positive qualities. Such tattoos are considered sacred and never given to non-maftets. Recall Knowledge - Humanoid (Society): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Maftet Guardian Source Bestiary 3 pg. 166 Perception +14; darkvision Languages Common, Sphinx Skills Acrobatics +13, Arcana +13, Athletics +15, Ruins Lore +15, Stealth +13 Str +5 Dex +3 Con +4 Int +3 Wis +2 Cha +0 Items Scimitar (2) --- AC 23 Fort +14 Ref +15 Will +12 HP 92 Runic Resistance Reaction (arcane, abjuration) Trigger The maftet takes damage from a Strike or spell effect; Effect The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack. This resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist. --- Speed 30 feet, fly 40 feet Melee Single Action scimitar +17 (Forceful, Magical, Sweep), Damage 2d6+8 slashing Arcane Innate Spells DC 23 - Cantrips (3rd) Sigil - 1st Sanctuary (×3), True Strike Paired Strike Two Actions Requirements The maftet is wielding two scimitars; Effect The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty. Powerful Scimitars (Arcane, Evocation) Any non-magical scimitar becomes a +1 striking scimitar while a maftet wields it. Raptor Dive Three Actions Requirements The maftet is flying at least 10 feet above the target; Effect The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked prone. ",
+ "trait": [
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1225",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 2
+}

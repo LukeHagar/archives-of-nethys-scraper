@@ -1,0 +1,124 @@
+{
+ "ac": 22,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Avernal Fever",
+  "Infernal Wound",
+  "Reposition",
+  "Wriggling Beard"
+ ],
+ "creature_family": "Devil",
+ "creature_family_markdown": "[Devil](/MonsterFamilies.aspx?ID=30)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-110",
+ "image": [
+  "/Images/Monsters/Devil_Barbazu.png"
+ ],
+ "immunity": [
+  "fire"
+ ],
+ "immunity_markdown": "[fire](/Traits.aspx?ID=72)\r\n",
+ "intelligence": -2,
+ "language": [
+  "Celestial",
+  "Common",
+  "Draconic",
+  "Infernal",
+  "telepathy 100 feet"
+ ],
+ "language_markdown": "[Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); telepathy 100 feet",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Barbazu (Bearded Devil)](/Monsters.aspx?ID=110)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBarbazus, known also as bearded devils or infantry devils, are murderous fiends who satiate their lust for annihilation by serving as the foot soldiers of Hell’s armies, often leading hordes of lesser devils such as imps and lemures into battle. Bearded devils wield serrated glaives to inflict jagged gashes that resist healing magic, resulting in tremendous blood loss. When enemies come too close, bearded devils strike with the spines of their wriggling beards to deliver a wretched contagion called Avernal fever, savoring the sight of their victim’s strength being slowly devoured from within.\n\n Barbazus can be found savagely indulging the whims of evil infernal lords from all layers of Hell, rejoicing as they disseminate murder, misery, and anguish as they see fit.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Devil_Barbazu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Barbazu](/Monsters.aspx?ID=110)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Devil\" url=\"/Traits.aspx?ID=44\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 88</row>\n\n**Perception** +13; greater darkvision\r\n\r\n**Languages**\r\n[Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); telepathy 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +10, [Religion](/Skills.aspx?ID=13) +11, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Glaive](/Weapons.aspx?ID=20)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +11 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 60\n\n**Immunities**\r\n[fire](/Traits.aspx?ID=72)\n\n**Resistances**\r\nphysical 5 (except [silver](/Equipment.aspx?ID=379)), [poison](/Traits.aspx?ID=126) 10\n\n**Weaknesses**\r\ngood 5\r\n\r\n**Attack of Opportunity** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nglaive +15 ([deadly 1d8](/Traits.aspx?ID=174), [Evil](/Traits.aspx?ID=64), [Forceful](/Traits.aspx?ID=180), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+7 slashing plus 2d6 evil and infernal wound\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +15 ([Agile](/Traits.aspx?ID=170), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+7 slashing plus 1d6 evil\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeard +15 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d6+7 piercing plus Avernal fever\r\n\r\n**Divine Innate Spells** DC 19\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **5th**\r\n[Dimension Door](/Spells.aspx?ID=69)\r\n\r\n**Rituals** DC 19\r\n\r\n- **1st**\r\n[Infernal Pact](/Rituals.aspx?ID=23)\r\n\r\n**Avernal Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 23 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** [enfeebled 1](/Conditions.aspx?ID=13) (1 day); **Stage 3** [enfeebled 2](/Conditions.aspx?ID=13) (1 day)\r\n\r\n**Infernal Wound**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) A bearded devil’s glaive Strike also deals 1d6 persistent bleed damage that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery.<br /> The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 21 counteract check or the magic fails to heal the creature.\r\n\r\n**Reposition** <actions string=\"Free Action\" />  **Trigger** The devil hits a creature with a glaive Strike. **Effect** The devil moves the creature 5 feet in any direction. The destination square must be within reach of the devil’s glaive. This movement doesn’t trigger reactions.\r\n\r\n**Wriggling Beard** <actions string=\"Single Action\" />  **Frequency** once per round. **Effect** The barbazu makes a beard Strike. This Strike ignores their multiple attack penalty and doesn’t count toward that penalty.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-30\" />",
+ "name": "Barbazu",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 5,
+  "physical": 5,
+  "piercing": 5,
+  "poison": 10,
+  "slashing": 5
+ },
+ "resistance_markdown": "physical 5 (except [silver](/Equipment.aspx?ID=379)), [poison](/Traits.aspx?ID=126) 10\r\n",
+ "resistance_raw": "physical 5 (except  silver ),  poison  10\r\n",
+ "search_markdown": "<traits>\r\n<trait label=\"Devil\" url=\"/Traits.aspx?ID=44\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 88</row>\r\n\r\n**Creature Family** [Devil](/MonsterFamilies.aspx?ID=30)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 22\r\n\r\n**Fort** +15\r\n\r\n**Ref** +11\r\n\r\n**Will** +11\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBarbazus, known also as bearded devils or infantry devils, are murderous fiends who satiate their lust for annihilation by serving as the foot …\r\n</summary>",
+ "sense": "greater darkvision",
+ "sense_markdown": "greater darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +11",
+  "Athletics +13",
+  "Intimidation +10",
+  "Religion +11",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +10, [Religion](/Skills.aspx?ID=13) +11, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 88"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 88</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Dimension Door"
+ ],
+ "spell_markdown": "[Dimension Door](/Spells.aspx?ID=69)",
+ "stealth": "11",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Barbazus, known also as bearded devils or infantry devils, are murderous fiends who satiate their lust for annihilation by serving as the foot …",
+ "summary_markdown": "Barbazus, known also as bearded devils or infantry devils, are murderous fiends who satiate their lust for annihilation by serving as the foot …",
+ "text": " Barbazu (Bearded Devil) Barbazus, known also as bearded devils or infantry devils, are murderous fiends who satiate their lust for annihilation by serving as the foot soldiers of Hell’s armies, often leading hordes of lesser devils such as imps and lemures into battle. Bearded devils wield serrated glaives to inflict jagged gashes that resist healing magic, resulting in tremendous blood loss. When enemies come too close, bearded devils strike with the spines of their wriggling beards to deliver a wretched contagion called Avernal fever, savoring the sight of their victim’s strength being slowly devoured from within. Barbazus can be found savagely indulging the whims of evil infernal lords from all layers of Hell, rejoicing as they disseminate murder, misery, and anguish as they see fit. Recall Knowledge - Fiend (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Barbazu Source Bestiary pg. 88 Perception +13; greater darkvision Languages Celestial, Common, Draconic, Infernal; telepathy 100 feet Skills Acrobatics +11, Athletics +13, Intimidation +10, Religion +11, Stealth +11 Str +4 Dex +2 Con +4 Int -2 Wis +2 Cha +1 Items Glaive --- AC 22 Fort +15 Ref +11 Will +11 +1 status to all saves vs. magic HP 60 Immunities fire Resistances physical 5 (except silver), poison 10 Weaknesses good 5 Attack of Opportunity Reaction --- Speed 35 feet Melee Single Action glaive +15 (deadly 1d8, Evil, Forceful, Magical, reach 10 feet), Damage 1d8+7 slashing plus 2d6 evil and infernal wound Melee Single Action claw +15 (Agile, Evil, Magical), Damage 2d6+7 slashing plus 1d6 evil Melee Single Action beard +15 (Magical), Damage 1d6+7 piercing plus Avernal fever Divine Innate Spells DC 19 - 4th Dimension Door (at will) - 5th Dimension Door Rituals DC 19 - 1st Infernal Pact Avernal Fever (Disease) Saving Throw DC 23 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 enfeebled 1 (1 day); Stage 3 enfeebled 2 (1 day) Infernal Wound (Divine, Necromancy) A bearded devil’s glaive Strike also deals 1d6 persistent bleed damage that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to Administer First Aid to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 21 counteract check or the magic fails to heal the creature. Reposition Free Action Trigger The devil hits a creature with a glaive Strike. Effect The devil moves the creature 5 feet in any direction. The destination square must be within reach of the devil’s glaive. This movement doesn’t trigger reactions. Wriggling Beard Single Action Frequency once per round. Effect The barbazu makes a beard Strike. This Strike ignores their multiple attack penalty and doesn’t count toward that penalty. ",
+ "trait": [
+  "Devil",
+  "Fiend",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Devil](/Traits.aspx?ID=44), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Devil",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=110",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {
+  "good": 5
+ },
+ "weakness_markdown": "good 5",
+ "weakness_raw": "good 5",
+ "will_save": 11,
+ "wisdom": 2
+}

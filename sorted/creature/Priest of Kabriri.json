@@ -1,0 +1,127 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 1,
+ "creature_ability": [
+  "Ecstatic Ululation",
+  "Consume Flesh",
+  "Ghoul Fever",
+  "Paralysis",
+  "Swift Leap"
+ ],
+ "creature_family": "Ghoul",
+ "creature_family_markdown": "[Ghoul](/MonsterFamilies.aspx?ID=52)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 63,
+ "hp_raw": "63 ( negative healing )",
+ "id": "creature-1866",
+ "image": [
+  "/Images/Monsters/Ghoul_PriestOfKabriri.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Priest of Kabriri](/Monsters.aspx?ID=1866)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA great number of powerful entities have vied for the mantle of patron of the undead, but none of these is more venerated among ghouls than the demon lord [Kabriri](/Deities.aspx?ID=76), Him Who Gnaws. Nearly all ghouls who are inclined to worship gods dedicate themselves to Kabriri, who is honored through profane rituals and macabre ceremonies centered on the gluttonous consumption of sentient beings. Presiding over these liturgies are the priests of Kabriri, particularly vile and cunning ghouls who are specifically tasked by their primogenitor with the duty to ensure his numerous progeny need never go hungry.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ghoul_PriestOfKabriri.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Priest of Kabriri](/Monsters.aspx?ID=1866)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 105</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Diplomacy](/Skills.aspx?ID=6) +11, [Religion](/Skills.aspx?ID=13) +13, [Society](/Skills.aspx?ID=14) +9, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[Flail](/Weapons.aspx?ID=19)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 63\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Ecstatic Ululation** <actions string=\"Reaction\" /> ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117), [negative](/Traits.aspx?ID=118)) **Trigger** A ghoul ally within 30 feet Consumes Flesh to regain Hit Points; **Effect** The priest of Kabriri unleashes a rapturous howl in praise of their god. All [ghouls](/MonsterFamilies.aspx?ID=52) within 30 feet of the priest of Kabriri, including the priest but not the triggering ghoul, regain half as many Hit Points as the triggering ghoul. All living creatures within 30 feet take negative damage equal to half the number of Hit Points the triggering ghoul gained, with a DC 20 [basic](/Rules.aspx?ID=329) Fortitude save. Only one Ecstatic Ululation can affect a use of Consume Flesh. Any beyond the first have no effect.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nflail +13 ([Disarm](/Traits.aspx?ID=175), [Sweep](/Traits.aspx?ID=194), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d6+6 bludgeoning plus 2d6 negative\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +13,\r\n**Damage** 2d6+6 piercing plus ghoul fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +13 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d4+6 slashing plus paralysis\r\n\r\n**Divine Prepared Spells** DC 23, attack +13\r\n- **Cantrips (3rd)**\r\n[Chill Touch](/Spells.aspx?ID=35), [Divine Lance](/Spells.aspx?ID=84), [Forbidding Ward](/Spells.aspx?ID=126), [Message](/Spells.aspx?ID=190)\r\n- **1st**\r\n[Bane](/Spells.aspx?ID=18), [Bless](/Spells.aspx?ID=25), [Fear](/Spells.aspx?ID=110)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59), [Death Knell](/Spells.aspx?ID=63), [Silence](/Spells.aspx?ID=287)\r\n- **3rd**\r\n[Chilling Darkness](/Spells.aspx?ID=36), [Crisis of Faith](/Spells.aspx?ID=55), [Harm](/Spells.aspx?ID=146) (×3)\r\n\r\n**Cleric Domain Spells** 2 Focus Points, DC 23\r\n- **3rd**\r\n[Overstuff](/Spells.aspx?ID=436), [Touch of Undeath](/Spells.aspx?ID=461)\r\n\r\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The priest of Kabriri is adjacent to the corpse of a creature that died within the last hour; **Effect** The priest of Kabriri devours a chunk of the corpse and regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Ghoul Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 20 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead and rises as a [ghoul](/MonsterFamilies.aspx?ID=52) the next midnight\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living, non-[elf](/Traits.aspx?ID=58) creature hit by the priest's jaws or claws Strike must succeed at a DC 20 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**Swift Leap** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The priest jumps up to half their Speed. This movement doesn't trigger reactions.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-52\" />",
+ "name": "Priest of Kabriri",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 105</row>\r\n\r\n**Creature Family** [Ghoul](/MonsterFamilies.aspx?ID=52)\r\n\r\n<row gap=\"medium\">\r\n**HP** 63 ( negative healing )\r\n\r\n**AC** 19\r\n\r\n**Fort** +9\r\n\r\n**Ref** +9\r\n\r\n**Will** +12\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA great number of powerful entities have vied for the mantle of patron of the undead, but none of these is more venerated among ghouls than the demon …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Diplomacy +11",
+  "Religion +13",
+  "Society +9",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Diplomacy](/Skills.aspx?ID=6) +11, [Religion](/Skills.aspx?ID=13) +13, [Society](/Skills.aspx?ID=14) +9, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 105"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 105</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Chilling Darkness",
+  "Crisis of Faith",
+  "Harm",
+  "Darkness",
+  "Death Knell",
+  "Silence",
+  "Bane",
+  "Bless",
+  "Fear",
+  "Chill Touch",
+  "Divine Lance",
+  "Forbidding Ward",
+  "Message",
+  "Overstuff",
+  "Touch of Undeath"
+ ],
+ "spell_markdown": "[Bane](/Spells.aspx?ID=18), [Bless](/Spells.aspx?ID=25), [Chill Touch](/Spells.aspx?ID=35), [Chilling Darkness](/Spells.aspx?ID=36), [Crisis of Faith](/Spells.aspx?ID=55), [Darkness](/Spells.aspx?ID=59), [Death Knell](/Spells.aspx?ID=63), [Divine Lance](/Spells.aspx?ID=84), [Fear](/Spells.aspx?ID=110), [Forbidding Ward](/Spells.aspx?ID=126), [Harm](/Spells.aspx?ID=146), [Message](/Spells.aspx?ID=190), [Overstuff](/Spells.aspx?ID=436), [Silence](/Spells.aspx?ID=287), [Touch of Undeath](/Spells.aspx?ID=461)",
+ "stealth": "12",
+ "strength": 4,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "A great number of powerful entities have vied for the mantle of patron of the undead, but none of these is more venerated among ghouls than the demon …",
+ "summary_markdown": "A great number of powerful entities have vied for the mantle of patron of the undead, but none of these is more venerated among ghouls than the demon …",
+ "text": " Priest of Kabriri A great number of powerful entities have vied for the mantle of patron of the undead, but none of these is more venerated among ghouls than the demon lord Kabriri, Him Who Gnaws. Nearly all ghouls who are inclined to worship gods dedicate themselves to Kabriri, who is honored through profane rituals and macabre ceremonies centered on the gluttonous consumption of sentient beings. Presiding over these liturgies are the priests of Kabriri, particularly vile and cunning ghouls who are specifically tasked by their primogenitor with the duty to ensure his numerous progeny need never go hungry. Recall Knowledge - Undead (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Priest of Kabriri Source Book of the Dead pg. 105 Perception +13; darkvision Languages Common, Necril Skills Athletics +13, Diplomacy +11, Religion +13, Society +9, Stealth +12 Str +4 Dex +3 Con +1 Int +0 Wis +4 Cha +2 Items Flail --- AC 19 Fort +9 Ref +9 Will +12 HP 63 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Ecstatic Ululation Reaction (divine, necromancy, negative) Trigger A ghoul ally within 30 feet Consumes Flesh to regain Hit Points; Effect The priest of Kabriri unleashes a rapturous howl in praise of their god. All ghouls within 30 feet of the priest of Kabriri, including the priest but not the triggering ghoul, regain half as many Hit Points as the triggering ghoul. All living creatures within 30 feet take negative damage equal to half the number of Hit Points the triggering ghoul gained, with a DC 20 basic Fortitude save. Only one Ecstatic Ululation can affect a use of Consume Flesh. Any beyond the first have no effect. --- Speed 25 feet Melee Single Action flail +13 (Disarm, Sweep, Trip), Damage 1d6+6 bludgeoning plus 2d6 negative Melee Single Action jaws +13, Damage 2d6+6 piercing plus ghoul fever and paralysis Melee Single Action claw +13 (Agile), Damage 2d4+6 slashing plus paralysis Divine Prepared Spells DC 23, attack +13 - Cantrips (3rd) Chill Touch, Divine Lance, Forbidding Ward, Message - 1st Bane, Bless, Fear - 2nd Darkness, Death Knell, Silence - 3rd Chilling Darkness, Crisis of Faith, Harm (×3) Cleric Domain Spells 2 Focus Points, DC 23 - 3rd Overstuff, Touch of Undeath Consume Flesh Single Action (Manipulate) Requirements The priest of Kabriri is adjacent to the corpse of a creature that died within the last hour; Effect The priest of Kabriri devours a chunk of the corpse and regains 3d6 Hit Points. It can regain Hit Points from any given corpse only once. Ghoul Fever (Disease) Saving Throw DC 20 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 2d6 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 2d6 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead and rises as a ghoul the next midnight Paralysis (Incapacitation, Occult, Necromancy) Any living, non-elf creature hit by the priest's jaws or claws Strike must succeed at a DC 20 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Swift Leap Single Action (Move) The priest jumps up to half their Speed. This movement doesn't trigger reactions. ",
+ "trait": [
+  "Ghoul",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Ghoul",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1866",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 4
+}

@@ -1,0 +1,105 @@
+{
+ "ac": 38,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 7,
+ "creature_ability": [
+  "Flaying Flurry",
+  "Muscular Leap",
+  "Tear Skin",
+  "Wear Skin"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 275,
+ "hp_raw": "275",
+ "id": "creature-1855",
+ "image": [
+  "/Images/Monsters/Ecorche.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Ecorche](/Monsters.aspx?ID=1855)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen a necromancer has need of a versatile agent to serve as a bodyguard and do their bidding in disguise, they build an ecorche—a skinless monstrosity filled with putrid alchemical agents, covered in pulsing muscle and sinew grafts, and imbued with razor-sharp claws. The ecorche uses its claws to flay its victims, stripping off skin in seconds. It can then horrifyingly squeeze itself into the stolen skin and impersonate the deceased, which it does to covertly carry out orders or find more victims to expand its collection. If its deception is uncovered, it shreds its disguise, bursting forth in terrible skinless form.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 35\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 33\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 30\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ecorche.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Ecorche](/Monsters.aspx?ID=1855)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 90</row>\n\n**Perception** +27; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +33, [Deception](/Skills.aspx?ID=5) +31, [Intimidation](/Skills.aspx?ID=7) +27, [Stealth](/Skills.aspx?ID=15) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +6\r\n\r\n**Con** +7\r\n\r\n**Int** +0\r\n\r\n**Wis** +5\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 38 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +27 \n\n</row>\r\n\r\n**HP** 275\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +33 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d8+17 slashing\n\n**Flaying Flurry** <actions string=\"Two Actions\" />  The ecorche attempts two claw Strikes against the same target. If both hit and deal damage, it attempts to pull the skin off its target. It attempts an [Athletics](/Skills.aspx?ID=3) check against the enemy's Fortitude DC.<br /> **Critical Success** The ecorche fully pulls the target's skin off its body. The creature takes 4d8 [persistent bleed damage](/Conditions.aspx?ID=29), and it's [frightened 4](/Conditions.aspx?ID=19) and [stunned 4](/Conditions.aspx?ID=36). The bleed damage can't end naturally, only ending if the creature regains at least 75 HP or regains at least 10 HP from [regeneration](/Rules.aspx?ID=796).<br /> **Success** The target takes 2d8 persistent bleed damage and is stunned 1.\r\n\r\n**Muscular Leap** <actions string=\"Single Action\" />  The ecorche over-stresses its leg muscles for a massive jump. It loses 20 HP and [Leaps](/Actions.aspx?ID=81) up to 120 feet in any direction. If its next action is a Strike or Flaying Flurry, it doesn't fall until after that action.\r\n\r\n**Tear Skin** <actions string=\"Single Action\" /> ([Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Manipulate](/Traits.aspx?ID=104), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) **Requirements** The ecorche is wearing skin; **Effect** The ecorche destroys the skin it's currently wearing. The ecorche reverts to its true appearance and size, and anyone within 120 feet who witnesses this must succeed at a DC 37 Will save or become [frightened 2](/Conditions.aspx?ID=19) (frightened 4 on a critical failure). Regardless of the results of their saving throws, the creatures are temporarily immune for 24 hours.\r\n\r\n**Wear Skin** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ecorche is holding the stolen skin of a Small, Medium, or Large creature and isn't already wearing a skin; **Effect** The ecorche wears the skin as a disguise. It assumes the creature's size, appearance, and voice. Wearing Skin counts as creating a disguise for the [Impersonate](/Actions.aspx?ID=46) use of [Deception](/Skills.aspx?ID=5).<br /> The ecorche's transformation automatically defeats Perception DCs to determine whether it's a member of the ancestry or creature type into which it transformed, and the ecorche gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise.<br /> Wearing a skin gives the ecorche a +2 item bonus to AC and 75 temporary Hit Points. If the ecorche takes more than 50 slashing damage from a single source, the skin becomes broken. When broken, the skin no longer provides any of these benefits (any remaining temporary HP are immediately lost) but can still be used for Tear Skin.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">The Ecorche's Collection</title>\r\n\r\nIf the ecorche receives a space of its own, it decorates it by hanging skins on the walls and displaying any bodies it has claimed from victims on pedestals—skinless—to admire their musculature. It spends its time whispering to them, and the skins respond by whispering back. Anyone who eavesdrops on the unsettling conversation is treated to a dialogue like someone would have with a favored pet.\r\n</aside>",
+ "name": "Ecorche",
+ "npc": false,
+ "perception": 27,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 30,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 90</row>\n\n<row gap=\"medium\">\r\n**HP** 275\r\n\r\n**AC** 38\r\n\r\n**Fort** +27\r\n\r\n**Ref** +30\r\n\r\n**Will** +27\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a necromancer has need of a versatile agent to serve as a bodyguard and do their bidding in disguise, they build an ecorche—a skinless …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +33",
+  "Deception +31",
+  "Intimidation +27",
+  "Stealth +28"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +33, [Deception](/Skills.aspx?ID=5) +31, [Intimidation](/Skills.aspx?ID=7) +27, [Stealth](/Skills.aspx?ID=15) +28",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 90"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 90</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "28",
+ "strength": 9,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "When a necromancer has need of a versatile agent to serve as a bodyguard and do their bidding in disguise, they build an ecorche—a skinless …",
+ "summary_markdown": "When a necromancer has need of a versatile agent to serve as a bodyguard and do their bidding in disguise, they build an ecorche—a skinless …",
+ "text": " Ecorche When a necromancer has need of a versatile agent to serve as a bodyguard and do their bidding in disguise, they build an ecorche—a skinless monstrosity filled with putrid alchemical agents, covered in pulsing muscle and sinew grafts, and imbued with razor-sharp claws. The ecorche uses its claws to flay its victims, stripping off skin in seconds. It can then horrifyingly squeeze itself into the stolen skin and impersonate the deceased, which it does to covertly carry out orders or find more victims to expand its collection. If its deception is uncovered, it shreds its disguise, bursting forth in terrible skinless form. Recall Knowledge - Undead (Religion): DC 35 Unspecific Lore : DC 33 Specific Lore : DC 30 Ecorche Source Book of the Dead pg. 90 Perception +27; darkvision Languages Common, Necril Skills Athletics +33, Deception +31, Intimidation +27, Stealth +28 Str +9 Dex +6 Con +7 Int +0 Wis +5 Cha +5 --- AC 38 Fort +27 Ref +30 Will +27 HP 275 Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 25 feet Melee Single Action claw +33 (Agile), Damage 3d8+17 slashing Flaying Flurry Two Actions The ecorche attempts two claw Strikes against the same target. If both hit and deal damage, it attempts to pull the skin off its target. It attempts an Athletics check against the enemy's Fortitude DC. Critical Success The ecorche fully pulls the target's skin off its body. The creature takes 4d8 persistent bleed damage, and it's frightened 4 and stunned 4. The bleed damage can't end naturally, only ending if the creature regains at least 75 HP or regains at least 10 HP from regeneration. Success The target takes 2d8 persistent bleed damage and is stunned 1. Muscular Leap Single Action The ecorche over-stresses its leg muscles for a massive jump. It loses 20 HP and Leaps up to 120 feet in any direction. If its next action is a Strike or Flaying Flurry, it doesn't fall until after that action. Tear Skin Single Action (Emotion, Fear, Manipulate, Mental, Visual) Requirements The ecorche is wearing skin; Effect The ecorche destroys the skin it's currently wearing. The ecorche reverts to its true appearance and size, and anyone within 120 feet who witnesses this must succeed at a DC 37 Will save or become frightened 2 (frightened 4 on a critical failure). Regardless of the results of their saving throws, the creatures are temporarily immune for 24 hours. Wear Skin Single Action (Manipulate) Requirements The ecorche is holding the stolen skin of a Small, Medium, or Large creature and isn't already wearing a skin; Effect The ecorche wears the skin as a disguise. It assumes the creature's size, appearance, and voice. Wearing Skin counts as creating a disguise for the Impersonate use of Deception. The ecorche's transformation automatically defeats Perception DCs to determine whether it's a member of the ancestry or creature type into which it transformed, and the ecorche gains a +4 status bonus to its Deception DC to prevent others from seeing through its disguise. Wearing a skin gives the ecorche a +2 item bonus to AC and 75 temporary Hit Points. If the ecorche takes more than 50 slashing damage from a single source, the skin becomes broken. When broken, the skin no longer provides any of these benefits (any remaining temporary HP are immediately lost) but can still be used for Tear Skin. The Ecorche's Collection If the ecorche receives a space of its own, it decorates it by hanging skins on the walls and displaying any bodies it has claimed from victims on pedestals—skinless—to admire their musculature. It spends its time whispering to them, and the skins respond by whispering back. Anyone who eavesdrops on the unsettling conversation is treated to a dialogue like someone would have with a favored pet. ",
+ "trait": [
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1855",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 27,
+ "wisdom": 5
+}

@@ -1,0 +1,131 @@
+{
+ "ac": 48,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 9,
+ "creature_ability": [
+  "Frightful Presence",
+  "Light Blindness",
+  "Reactive",
+  "Attack of Opportunity",
+  "Firebleed",
+  "Bomb Barrage",
+  "Breath Weapon",
+  "Swallow Whole",
+  "Trample"
+ ],
+ "creature_family": "Spawn of Rovagug",
+ "creature_family_markdown": "[Spawn of Rovagug](/MonsterFamilies.aspx?ID=115)",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 36,
+ "hp": 385,
+ "hp_raw": "385",
+ "id": "creature-491",
+ "image": [
+  "/Images/Monsters/Xotani.png"
+ ],
+ "immunity": [
+  "clumsy",
+  "disease",
+  "drained",
+  "enfeebled",
+  "fire",
+  "mental",
+  "paralyzed",
+  "petrified",
+  "poison",
+  "polymorph",
+  "stupefied"
+ ],
+ "immunity_markdown": "clumsy, disease, drained, enfeebled, fire, mental, paralyzed, petrified, poison, polymorph, stupefied",
+ "intelligence": -4,
+ "language": [
+  "Aklo",
+  "can't speak any language"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); can't speak any language",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"\">[Xotani, The Firebleeder](/Monsters.aspx?ID=491)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA monstrosity of living flame and magma, Xotani may be the weakest of Rovagug’s spawn, but it remains a formidable threat. Xotani was slain in 2104 AR by an alliance of spellcasters, but recently its deathlike slumber was interrupted. Its corpse twitches, signaling that it might be close to returning.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 50\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 48\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 45\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Xotani.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Xotani](/Monsters.aspx?ID=491)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 81</row>\n\n**Perception** +39; blindsight (precise) 120 feet, darkvision\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); can't speak any language\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +41\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +8\r\n\r\n**Con** +9\r\n\r\n**Int** -4\r\n\r\n**Wis** +7\r\n\r\n**Cha** +6\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 48 \r\n\r\n**Fort** +36 \r\n\r\n**Ref** +33 \r\n\r\n**Will** +30 \n\n</row>\r\n\r\n**HP** 385\r\n\r\n, regeneration 25\r\n\r\n**Immunities**\r\nclumsy, disease, drained, enfeebled, fire, mental, paralyzed, petrified, poison, polymorph, stupefied\r\n\r\n**Resistances**\r\nelectricity 22, physical 22, sonic 22\r\n\r\n**Weaknesses**\r\ncold 22\r\n\r\n**Frightful Presence** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 300 feet, DC 39<br /> **Light Blindness** Xotani’s light blindness is caused by only sunlight.<br /> **Reactive** Xotani gains 3 reactions each round. It can still use only one reaction per trigger.<br /> **Attack of Opportunity** <actions string=\"Reaction\" /><br /> **Firebleed** <actions string=\"Reaction\" /> ([fire](/Traits.aspx?ID=72)) **Trigger** Xotani is damaged; **Effect** Xotani’s wound erupts with magma in a 30-foot cone, dealing 6d8 fire damage and 6d8 persistent fire damage (DC 42 basic Reflex save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 60 feet, burrow 40 feet, climb 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +38 ([reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 5d10+8 piercing plus 2d10 persistent fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +38 ([Agile](/Traits.aspx?ID=170), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 5d8+8 slashing plus 2d8 persistent fire\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nlava bomb +38 ([range increment 80 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d10+8 bludgeoning plus 2d10 persistent fire\n\n**Bomb Barrage** <actions string=\"Two Actions\" />  Xotani makes three lava bomb Strikes. These Strikes can be made against the same creature or different creatures, as long as all targets are within 40 feet of each other.\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) Xotani breathes a blast of flame that deals 18d6 fire damage plus 4d6 persistent fire damage to all creatures in a 70-foot cone (DC 42 basic Reflex save). It can’t use Breath Weapon again for 1d4 rounds.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Huge, 8d6+8 bludgeoning plus 12d6 fire, Rupture 35\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Huge or smaller, claw, DC 42. When Xotani Tramples, it can Stride up to triple its Speed.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-115\" />",
+ "name": "Xotani",
+ "npc": false,
+ "perception": 39,
+ "rarity": "unique",
+ "reflex_save": 33,
+ "release_date": "2019-12-12",
+ "resistance": {
+  "bludgeoning": 22,
+  "electricity": 22,
+  "physical": 22,
+  "piercing": 22,
+  "slashing": 22,
+  "sonic": 22
+ },
+ "resistance_markdown": "electricity 22, physical 22, sonic 22",
+ "resistance_raw": "electricity 22, physical 22, sonic 22",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 81</row>\r\n\r\n**Creature Family** [Spawn of Rovagug](/MonsterFamilies.aspx?ID=115)\r\n\r\n<row gap=\"medium\">\r\n**HP** 385\r\n\r\n**AC** 48\r\n\r\n**Fort** +36\r\n\r\n**Ref** +33\r\n\r\n**Will** +30\r\n\r\n**Perception** +39\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA monstrosity of living flame and magma, Xotani may be the weakest of Rovagug’s spawn, but it remains a formidable threat. Xotani was slain in 2104 …\r\n</summary>",
+ "sense": "blindsight (precise) 120 feet, darkvision",
+ "sense_markdown": "blindsight (precise) 120 feet, darkvision",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +41"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +41",
+ "source": [
+  "Pathfinder #150: Broken Promises"
+ ],
+ "source_raw": [
+  "Pathfinder #150: Broken Promises pg. 81"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 81</row>",
+ "speed": {
+  "burrow": 40,
+  "climb": 60,
+  "land": 60,
+  "max": 60
+ },
+ "speed_markdown": "60 feet, burrow 40 feet, climb 60 feet",
+ "speed_raw": "60 feet, burrow 40 feet, climb 60 feet",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A monstrosity of living flame and magma, Xotani may be the weakest of Rovagug’s spawn, but it remains a formidable threat. Xotani was slain in 2104 …",
+ "summary_markdown": "A monstrosity of living flame and magma, Xotani may be the weakest of Rovagug’s spawn, but it remains a formidable threat. Xotani was slain in 2104 …",
+ "text": " Xotani, The Firebleeder A monstrosity of living flame and magma, Xotani may be the weakest of Rovagug’s spawn, but it remains a formidable threat. Xotani was slain in 2104 AR by an alliance of spellcasters, but recently its deathlike slumber was interrupted. Its corpse twitches, signaling that it might be close to returning. Recall Knowledge - Beast (Arcana, Nature): DC 50 Unspecific Lore : DC 48 Specific Lore : DC 45 Xotani Source Pathfinder #150: Broken Promises pg. 81 Perception +39; blindsight (precise) 120 feet, darkvision Languages Aklo; can't speak any language Skills Athletics +41 Str +10 Dex +8 Con +9 Int -4 Wis +7 Cha +6 --- AC 48 Fort +36 Ref +33 Will +30 HP 385 , regeneration 25 Immunities clumsy, disease, drained, enfeebled, fire, mental, paralyzed, petrified, poison, polymorph, stupefied Resistances electricity 22, physical 22, sonic 22 Weaknesses cold 22 Frightful Presence (aura, emotion, fear, mental) 300 feet, DC 39 Light Blindness Xotani’s light blindness is caused by only sunlight. Reactive Xotani gains 3 reactions each round. It can still use only one reaction per trigger. Attack of Opportunity Reaction Firebleed Reaction (fire) Trigger Xotani is damaged; Effect Xotani’s wound erupts with magma in a 30-foot cone, dealing 6d8 fire damage and 6d8 persistent fire damage (DC 42 basic Reflex save). --- Speed 60 feet, burrow 40 feet, climb 60 feet Melee Single Action jaws +38 (reach 20 feet), Damage 5d10+8 piercing plus 2d10 persistent fire Melee Single Action claw +38 (Agile, reach 20 feet), Damage 5d8+8 slashing plus 2d8 persistent fire Ranged Single Action lava bomb +38 (range increment 80 feet), Damage 2d10+8 bludgeoning plus 2d10 persistent fire Bomb Barrage Two Actions Xotani makes three lava bomb Strikes. These Strikes can be made against the same creature or different creatures, as long as all targets are within 40 feet of each other. Breath Weapon Two Actions (Arcane, Evocation, Fire) Xotani breathes a blast of flame that deals 18d6 fire damage plus 4d6 persistent fire damage to all creatures in a 70-foot cone (DC 42 basic Reflex save). It can’t use Breath Weapon again for 1d4 rounds. Swallow Whole Single Action (Attack) Huge, 8d6+8 bludgeoning plus 12d6 fire, Rupture 35 Trample Three Actions Huge or smaller, claw, DC 42. When Xotani Tramples, it can Stride up to triple its Speed. ",
+ "trait": [
+  "Beast",
+  "Fire",
+  "Unique",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Fire](/Traits.aspx?ID=72), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Beast",
+  "Fire",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=491",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold": 22
+ },
+ "weakness_markdown": "cold 22",
+ "weakness_raw": "cold 22",
+ "will_save": 30,
+ "wisdom": 7
+}

@@ -1,0 +1,94 @@
+{
+ "ac": 31,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Hasty Sacrifice",
+  "Prerequisite",
+  "Powerful Stench",
+  "Feral Directive",
+  "Mounted Superiority"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 195,
+ "hp_raw": "195",
+ "id": "creature-2114",
+ "intelligence": -1,
+ "language": [
+  "Draconic",
+  "Undercommon"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Xulgath Roughrider](/Monsters.aspx?ID=2114)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Xulgath Roughrider](/Monsters.aspx?ID=2114)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 23</row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +21, [Athletics](/Skills.aspx?ID=3) +22, [Dinosaur Lore](/Skills.aspx?ID=8) +16, [Intimidation](/Skills.aspx?ID=7) +18, [Nature](/Skills.aspx?ID=10) +21, [Survival](/Skills.aspx?ID=16) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [halberd](/Weapons.aspx?ID=26)_, [Hide Armor](/Armor.aspx?ID=7), [javelins](/Weapons.aspx?ID=71) (6)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 195\n\n**Hasty Sacrifice** <actions string=\"Reaction\" /> ([concentrate](/Traits.aspx?ID=32), [move](/Traits.aspx?ID=114)) **Prerequisite** The roughrider is mounted; **Trigger** The roughrider is targeted with an attack from a creature they can see; **Effect** The roughrider's mount becomes the target of the attack instead. The roughrider must succeed at a DC 5 flat check or they fall off their mount and land prone. If the check is a critical failure, the roughrider also takes 1d6 bludgeoning damage in addition to the normal damage from the fall.<br />**Powerful Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature that enters the area must attempt a DC 30 Fortitude save. On a failure, the creature is [sickened 2](/Conditions.aspx?ID=34), and on a critical failure, the creature is also [slowed 1](/Conditions.aspx?ID=35) for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all [xulgaths'](/MonsterFamilies.aspx?ID=102) stenches for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_halberd_ +24 ([Magical](/Traits.aspx?ID=103), [Reach](/Traits.aspx?ID=192), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 2d10+11 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23,\r\n**Damage** 2d8+11 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+11 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\njavelin +22 ([thrown 30 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+11 piercing\n\n**Feral Directive** <actions string=\"Two Actions\" />  The xulgath attempts to [Command an Animal](/Actions.aspx?ID=58) on their mount, but instead of demanding a specific action such as Stride or Strike, the xulgath gives a general directive, such as to return to camp or to attack a small group the mount can see. The mount and the xulgath each retain 3 actions on their turns, but the mount doesn't change its general tactics until the xulgath uses Feral Directive or Command an Animal again.\r\n\r\n**Mounted Superiority**   A mounted roughrider's Strikes deal an additional 1d10 damage to creatures that aren't mounted.\r\n\r\n</column>",
+ "name": "Xulgath Roughrider",
+ "npc": false,
+ "perception": 21,
+ "rarity": "common",
+ "reflex_save": 23,
+ "release_date": "2020-04-29",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 23</row>\n\n<row gap=\"medium\">\r\n**HP** 195\r\n\r\n**AC** 31\r\n\r\n**Fort** +22\r\n\r\n**Ref** +23\r\n\r\n**Will** +19\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +21",
+  "Athletics +22",
+  "Dinosaur Lore +16",
+  "Intimidation +18",
+  "Nature +21",
+  "Survival +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +21, [Athletics](/Skills.aspx?ID=3) +22, [Dinosaur Lore](/Skills.aspx?ID=8) +16, [Intimidation](/Skills.aspx?ID=7) +18, [Nature](/Skills.aspx?ID=10) +21, [Survival](/Skills.aspx?ID=16) +19",
+ "source": [
+  "Pathfinder #154: Siege of the Dinosaurs"
+ ],
+ "source_raw": [
+  "Pathfinder #154: Siege of the Dinosaurs pg. 23"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 23</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Xulgath Roughrider Recall Knowledge - Humanoid (Society): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Xulgath Roughrider Source Pathfinder #154: Siege of the Dinosaurs pg. 23 Perception +21; darkvision Languages Draconic, Undercommon Skills Acrobatics +21, Athletics +22, Dinosaur Lore +16, Intimidation +18, Nature +21, Survival +19 Str +5 Dex +4 Con +3 Int -1 Wis +4 Cha +1 Items +1 striking halberd , Hide Armor, javelins (6) --- AC 31 Fort +22 Ref +23 Will +19 HP 195 Hasty Sacrifice Reaction (concentrate, move) Prerequisite The roughrider is mounted; Trigger The roughrider is targeted with an attack from a creature they can see; Effect The roughrider's mount becomes the target of the attack instead. The roughrider must succeed at a DC 5 flat check or they fall off their mount and land prone. If the check is a critical failure, the roughrider also takes 1d6 bludgeoning damage in addition to the normal damage from the fall. Powerful Stench (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 30 Fortitude save. On a failure, the creature is sickened 2, and on a critical failure, the creature is also slowed 1 for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute. --- Speed 30 feet Melee Single Action halberd +24 (Magical, Reach, versatile S), Damage 2d10+11 piercing Melee Single Action jaws +23, Damage 2d8+11 piercing Melee Single Action claw +23 (Agile), Damage 2d6+11 slashing Ranged Single Action javelin +22 (thrown 30 feet), Damage 1d6+11 piercing Feral Directive Two Actions The xulgath attempts to Command an Animal on their mount, but instead of demanding a specific action such as Stride or Strike, the xulgath gives a general directive, such as to return to camp or to attack a small group the mount can see. The mount and the xulgath each retain 3 actions on their turns, but the mount doesn't change its general tactics until the xulgath uses Feral Directive or Command an Animal again. Mounted Superiority A mounted roughrider's Strikes deal an additional 1d10 damage to creatures that aren't mounted. ",
+ "trait": [
+  "Humanoid",
+  "Xulgath",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Xulgath](/Traits.aspx?ID=244)",
+ "trait_raw": [
+  "Humanoid",
+  "Xulgath"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2114",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 4
+}

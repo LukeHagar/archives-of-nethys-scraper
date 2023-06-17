@@ -1,0 +1,94 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 4,
+ "creature_ability": [
+  "Blood Scent",
+  "Aquatic Opportunity",
+  "Blood Frenzy",
+  "Roar",
+  "Shift Form"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-62",
+ "image": [
+  "/Images/Monsters/Bunyip.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Bunyip](/Monsters.aspx?ID=62)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBunyips are dangerous aquatic predators that resemble a cross between a shark and a seal. Found in freshwater inlets or saltwater coves worldwide, bunyips hunt where prey is plentiful, often to the consternation of coastal residents and fisherfolk.\n\n Despite their outlandish appearance and tendency to defend their territory with loud, bellowing roars that echo for great distances, bunyips are very rarely sighted by humanoids, leaving many to question their existence. For hundreds of years, bunyips were widely regarded as nothing more than folk tales, and even now that their existence as a species has been proven, the existence of any particular bunyip in a local area is often met with heavy skepticism. While their limited shapechanging abilities are no doubt a significant part of the reason for this air of mystery, another major factor is that the aquatic creatures rarely hunt humanoids, preferring to eat smaller animals. Most bunyips avoid human contact, except when one wanders too close to their den or favorite hunting spot, at which point the territorial bunyip attacks with swift and terrible ferocity. Many scholars agree that a large number of unexplained disappearances near coastal areas are the result of unreported bunyip aggression.\n\n In some ports, bunyips have learned that delicious prizes can be had from the chum and garbage discarded by fishing boats and merchant vessels. They lurk close to the shore and carefully choose their victims, plucking them off docks and small boats. These bunyips are particularly careful to keep their true forms hidden, but this does little to dull rumors of monster-infested waters.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Bunyip.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Bunyip](/Monsters.aspx?ID=62)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 49</row>\n\n**Perception** +10; blood scent, darkvision, scent (imprecise) 100 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11, [Stealth](/Skills.aspx?ID=15) +10, [Survival](/Skills.aspx?ID=16) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Blood Scent** The bunyip can smell blood in the water from up to 1 mile away.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 45\n\n**Aquatic Opportunity** <actions string=\"Reaction\" /> As [Attack of Opportunity](/MonsterAbilities.aspx?ID=3), but both the bunyip and the triggering creature must be in water.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +11,\r\n**Damage** 1d10+4 piercing plus 1d6 [_persistent_](/Conditions.aspx?ID=29) [_bleed damage_](/Rules.aspx?ID=340)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +11 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d8+4 bludgeoning\n\n**Blood Frenzy** <actions string=\"Free Action\" />  **Requirements** The bunyip is not [_fatigued_](/Conditions.aspx?ID=15) or already in a frenzy. **Trigger** The bunyip deals [_bleed damage_](/Rules.aspx?ID=340) to a living creature. **Effect** The bunyip flies into a frenzy that lasts 1 minute. While frenzied, the bunyip gains a +4 status bonus to damage rolls with its jaws, gains 8 [_temporary HP_](/Rules.aspx?ID=385) that go away at the end of the frenzy, and takes a –2 penalty to AC.\r\n\r\n**Roar** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The bunyip lets out a loud and horrifying roar. Other creatures within 100 feet must succeed at a DC 21 Will save or become [_frightened 2_](/Conditions.aspx?ID=19) ([_frightened 3_](/Conditions.aspx?ID=19) on a critical failure, [_frightened 1_](/Conditions.aspx?ID=19) on a success, or unaffected on a critical success). No matter the result, the creature is temporarily immune to the  effect for 1 minute.\r\n\r\n**Shift Form** <actions string=\"Single Action\" /> ([Morph](/Traits.aspx?ID=113), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) A bunyip can alter its form slightly to gain an advantage and make it harder to recognize. When it does, its teeth shrink and its Jaws Strike doesn’t deal the 1d6 [_persistent_](/Rules.aspx?ID=340) [_bleed damage_](/Rules.aspx?ID=340). It can choose to gain either a long snake tail, granting its tail Strike reach 10 feet and Grab, or squat crocodile legs, increasing its land Speed to 20 feet. If it uses Shift Form again, the bunyip can return to normal or switch between a long tail or crocodile legs.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Bunyip Treasure</title>\r\n\r\nBunyips have no use for treasure, and do not actively collect it, but the floors of their lairs are sometimes littered with the possessions of their humanoid victims. A bunyip's teeth can be collected and sold (most bunyips have about 50 teeth at any one time). Alternatively, due to their elusiveness and fabled nature, a high-quality taxidermic bunyip could easily command a high price from a collector. \r\n</aside>",
+ "name": "Bunyip",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 49</row>\n\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +9\r\n\r\n**Ref** +12\r\n\r\n**Will** +6\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBunyips are dangerous aquatic predators that resemble a cross between a shark and a seal. Found in freshwater inlets or saltwater coves worldwide, …\r\n</summary>",
+ "sense": "blood scent, darkvision, scent (imprecise) 100 feet",
+ "sense_markdown": "blood scent, darkvision, scent (imprecise) 100 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +11",
+  "Stealth +10",
+  "Survival +8"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11, [Stealth](/Skills.aspx?ID=15) +10, [Survival](/Skills.aspx?ID=16) +8",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 49"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 49</row>",
+ "speed": {
+  "land": 10,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "10 feet, swim 40 feet",
+ "speed_raw": "10 feet, swim 40 feet",
+ "spell_markdown": "",
+ "stealth": "10",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Bunyips are dangerous aquatic predators that resemble a cross between a shark and a seal. Found in freshwater inlets or saltwater coves worldwide, …",
+ "summary_markdown": "Bunyips are dangerous aquatic predators that resemble a cross between a shark and a seal. Found in freshwater inlets or saltwater coves worldwide, …",
+ "text": " Bunyip Bunyips are dangerous aquatic predators that resemble a cross between a shark and a seal. Found in freshwater inlets or saltwater coves worldwide, bunyips hunt where prey is plentiful, often to the consternation of coastal residents and fisherfolk. Despite their outlandish appearance and tendency to defend their territory with loud, bellowing roars that echo for great distances, bunyips are very rarely sighted by humanoids, leaving many to question their existence. For hundreds of years, bunyips were widely regarded as nothing more than folk tales, and even now that their existence as a species has been proven, the existence of any particular bunyip in a local area is often met with heavy skepticism. While their limited shapechanging abilities are no doubt a significant part of the reason for this air of mystery, another major factor is that the aquatic creatures rarely hunt humanoids, preferring to eat smaller animals. Most bunyips avoid human contact, except when one wanders too close to their den or favorite hunting spot, at which point the territorial bunyip attacks with swift and terrible ferocity. Many scholars agree that a large number of unexplained disappearances near coastal areas are the result of unreported bunyip aggression. In some ports, bunyips have learned that delicious prizes can be had from the chum and garbage discarded by fishing boats and merchant vessels. They lurk close to the shore and carefully choose their victims, plucking them off docks and small boats. These bunyips are particularly careful to keep their true forms hidden, but this does little to dull rumors of monster-infested waters. Recall Knowledge - Animal (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Bunyip Source Bestiary pg. 49 Perception +10; blood scent, darkvision, scent (imprecise) 100 feet Languages Skills Athletics +11, Stealth +10, Survival +8 Str +4 Dex +3 Con +4 Int -4 Wis +1 Cha -1 Blood Scent The bunyip can smell blood in the water from up to 1 mile away. --- AC 19 Fort +9 Ref +12 Will +6 HP 45 Aquatic Opportunity Reaction As Attack of Opportunity, but both the bunyip and the triggering creature must be in water. --- Speed 10 feet, swim 40 feet Melee Single Action jaws +11, Damage 1d10+4 piercing plus 1d6 persistent bleed damage Melee Single Action tail +11 (Agile), Damage 1d8+4 bludgeoning Blood Frenzy Free Action Requirements The bunyip is not fatigued or already in a frenzy. Trigger The bunyip deals bleed damage to a living creature. Effect The bunyip flies into a frenzy that lasts 1 minute. While frenzied, the bunyip gains a +4 status bonus to damage rolls with its jaws, gains 8 temporary HP that go away at the end of the frenzy, and takes a –2 penalty to AC. Roar Single Action (Auditory, Concentrate, Emotion, Enchantment, Fear, Mental, Primal) The bunyip lets out a loud and horrifying roar. Other creatures within 100 feet must succeed at a DC 21 Will save or become frightened 2 ( frightened 3 on a critical failure, frightened 1 on a success, or unaffected on a critical success). No matter the result, the creature is temporarily immune to the effect for 1 minute. Shift Form Single Action (Morph, Primal, Transmutation) A bunyip can alter its form slightly to gain an advantage and make it harder to recognize. When it does, its teeth shrink and its Jaws Strike doesn’t deal the 1d6 persistent bleed damage . It can choose to gain either a long snake tail, granting its tail Strike reach 10 feet and Grab, or squat crocodile legs, increasing its land Speed to 20 feet. If it uses Shift Form again, the bunyip can return to normal or switch between a long tail or crocodile legs. Bunyip Treasure Bunyips have no use for treasure, and do not actively collect it, but the floors of their lairs are sometimes littered with the possessions of their humanoid victims. A bunyip's teeth can be collected and sold (most bunyips have about 50 teeth at any one time). Alternatively, due to their elusiveness and fabled nature, a high-quality taxidermic bunyip could easily command a high price from a collector. ",
+ "trait": [
+  "Animal",
+  "Aquatic",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Aquatic](/Traits.aspx?ID=168)",
+ "trait_raw": [
+  "Animal",
+  "Aquatic"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=62",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 1
+}

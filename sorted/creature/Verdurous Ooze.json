@@ -1,0 +1,106 @@
+{
+ "ac": 12,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 5,
+ "creature_ability": [
+  "Motion Sense",
+  "Corrosive Surface",
+  "Enliven Foliage",
+  "Split",
+  "Constrict",
+  "Sleep Gas",
+  "Verdurous Ooze Acid"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": -4,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 157,
+ "hp_raw": "157",
+ "id": "creature-754",
+ "image": [
+  "/Images/Monsters/Ooze_VerdurousOoze.png"
+ ],
+ "immunity": [
+  "acid",
+  "critical hits",
+  "mental",
+  "piercing",
+  "precision",
+  "slashing",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "acid, critical hits, [mental](/Traits.aspx?ID=106), piercing, precision, slashing, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Verdurous Ooze](/Monsters.aspx?ID=754)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nVerdurous oozes are found in temperate forests, warm jungles, or other places where plant life grows in abundance. Unlike many types of oozes, verdurous oozes are not particularly good climbers and have been known to get trapped in natural or artificial chasms. Warlords and wizards sometimes make use of that fact and keep verdurous oozes as guardians in pits around the walls of their fortresses or towers.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ooze_VerdurousOoze.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Verdurous Ooze](/Monsters.aspx?ID=754)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 194 <sup>2.0</sup></row>\n\n**Perception** +8; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** -4\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A verdurous ooze can sense nearby creatures through vibration and air or water movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 12 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 157\n\n**Immunities**\r\nacid, critical hits, [mental](/Traits.aspx?ID=106), piercing, precision, slashing, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Corrosive Surface** A creature that hits a verdurous ooze with a metal weapon or unarmed attack must attempt a DC 21 Reflex save. On a failure, the weapon or creature takes 2d4 acid damage (after dealing damage to the ooze as normal). [Thrown](/Traits.aspx?ID=195) weapons take this damage automatically with no save.<br />**Enliven Foliage** ([aura](/Traits.aspx?ID=206), [primal](/Traits.aspx?ID=134), [transmutation](/Traits.aspx?ID=157)) 20 feet. The verdurous ooze constantly emits supernatural vapors that cause nearby plants to grow rapidly and writhe and grasp at anything and everything within the emanation. This area becomes difficult terrain for non–verdurous ooze creatures. When a creature starts its turn in this aura, it must succeed at a DC 21 Reflex save or take a –10-foot circumstance penalty to its Speeds until it leaves the emanation.<br />**Split** When a verdurous ooze that has 10 or more HP is hit by an attack that would deal piercing or slashing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +15,\r\n**Damage** 2d6+7 bludgeoning plus 1d6 acid and [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d6 bludgeoning plus 1d6 acid, DC 24\r\n\r\n**Sleep Gas** <actions string=\"Two Actions\" /> ([Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Poison](/Traits.aspx?ID=126), [Sleep](/Traits.aspx?ID=145)) The verdurous ooze adjusts its aura of supernatural vapors to affect living creatures within a 20-foot emanation, forcing them to attempt a DC 24 Will save. <br />**Critical Success** The creature is unaffected and becomes temporarily immune to Sleep Gas for 24 hours. <br />**Success** The creature is [stupefied 1](/Conditions.aspx?ID=37) for 1 round. <br />**Failure** The creature falls [unconscious](/Conditions.aspx?ID=38). If it's still unconscious after 1 minute, it wakes up automatically. <br />**Critical Failure** The creature falls unconscious. If it's still unconscious after 1 hour, it wakes up automatically.\r\n\r\n**Verdurous Ooze Acid**   A verdurous ooze's acid damages only metal and flesh—not bone, stone, or other materials.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Verdurous Congregation</title>\r\n\r\nWhen verdurous oozes gather in sufficient number, they can merge together into conjoined forms. These enlarged blobs develop red and white connecting vessels that pulse hideously as thick, green fluid moves within them. While conjoined, the oozes move as one creature. Their usual enliven foliage and sleep gas auras double in size, and they become even more aggressive, feeding voraciously on any metal or flesh they can find.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Verdurous Ooze",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 194 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 157\r\n\r\n**AC** 12\r\n\r\n**Fort** +17\r\n\r\n**Ref** +8\r\n\r\n**Will** +10\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nVerdurous oozes are found in temperate forests, warm jungles, or other places where plant life grows in abundance. Unlike many types of oozes, …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +15",
+  "Stealth +4"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +4",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 194"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 194 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet",
+ "speed_raw": "15 feet",
+ "spell_markdown": "",
+ "stealth": "4",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Verdurous oozes are found in temperate forests, warm jungles, or other places where plant life grows in abundance. Unlike many types of oozes, …",
+ "summary_markdown": "Verdurous oozes are found in temperate forests, warm jungles, or other places where plant life grows in abundance. Unlike many types of oozes, …",
+ "text": " Verdurous Ooze Verdurous oozes are found in temperate forests, warm jungles, or other places where plant life grows in abundance. Unlike many types of oozes, verdurous oozes are not particularly good climbers and have been known to get trapped in natural or artificial chasms. Warlords and wizards sometimes make use of that fact and keep verdurous oozes as guardians in pits around the walls of their fortresses or towers. Recall Knowledge - Ooze (Occultism): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Verdurous Ooze Source Bestiary 2 pg. 194 2.0 Perception +8; motion sense 60 feet, no vision Languages Skills Athletics +15, Stealth +4 Str +5 Dex -4 Con +5 Int -5 Wis +0 Cha -5 Motion Sense A verdurous ooze can sense nearby creatures through vibration and air or water movement. --- AC 12 Fort +17 Ref +8 Will +10 HP 157 Immunities acid, critical hits, mental, piercing, precision, slashing, unconscious, visual Corrosive Surface A creature that hits a verdurous ooze with a metal weapon or unarmed attack must attempt a DC 21 Reflex save. On a failure, the weapon or creature takes 2d4 acid damage (after dealing damage to the ooze as normal). Thrown weapons take this damage automatically with no save. Enliven Foliage (aura, primal, transmutation) 20 feet. The verdurous ooze constantly emits supernatural vapors that cause nearby plants to grow rapidly and writhe and grasp at anything and everything within the emanation. This area becomes difficult terrain for non–verdurous ooze creatures. When a creature starts its turn in this aura, it must succeed at a DC 21 Reflex save or take a –10-foot circumstance penalty to its Speeds until it leaves the emanation. Split When a verdurous ooze that has 10 or more HP is hit by an attack that would deal piercing or slashing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push). --- Speed 15 feet Melee Single Action pseudopod +15, Damage 2d6+7 bludgeoning plus 1d6 acid and Grab Constrict Single Action 2d6 bludgeoning plus 1d6 acid, DC 24 Sleep Gas Two Actions (Incapacitation, Mental, Poison, Sleep) The verdurous ooze adjusts its aura of supernatural vapors to affect living creatures within a 20-foot emanation, forcing them to attempt a DC 24 Will save. Critical Success The creature is unaffected and becomes temporarily immune to Sleep Gas for 24 hours. Success The creature is stupefied 1 for 1 round. Failure The creature falls unconscious. If it's still unconscious after 1 minute, it wakes up automatically. Critical Failure The creature falls unconscious. If it's still unconscious after 1 hour, it wakes up automatically. Verdurous Ooze Acid A verdurous ooze's acid damages only metal and flesh—not bone, stone, or other materials. Verdurous Congregation When verdurous oozes gather in sufficient number, they can merge together into conjoined forms. These enlarged blobs develop red and white connecting vessels that pulse hideously as thick, green fluid moves within them. While conjoined, the oozes move as one creature. Their usual enliven foliage and sleep gas auras double in size, and they become even more aggressive, feeding voraciously on any metal or flesh they can find. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=754",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 0
+}

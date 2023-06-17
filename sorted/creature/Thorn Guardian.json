@@ -1,0 +1,109 @@
+{
+ "ac": 39,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 6,
+ "creature_ability": [
+  "Extra Reaction",
+  "Attack of Opportunity",
+  "Retaliate",
+  "Bond with Ward",
+  "Fly Free",
+  "Interpose"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 330,
+ "hp_raw": "330",
+ "id": "creature-1804",
+ "immunity": [
+  "critical hits",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "grabbed",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "precision",
+  "prone",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "critical hits, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [grabbed](/Conditions.aspx?ID=20), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [prone](/Conditions.aspx?ID=31), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"\">[Thorn Guardian](/Monsters.aspx?ID=1804)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Thorn Guardian](/Monsters.aspx?ID=1804)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 19</row>\n\n**Perception** +27; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +9\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +5\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +35 \n\n</row>\r\n\r\n**HP** 330\n\n**Immunities**\r\ncritical hits, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [grabbed](/Conditions.aspx?ID=20), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [prone](/Conditions.aspx?ID=31), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Extra Reaction** A thorn guardian gains an additional reaction each turn but can use this extra reaction only to Retaliate.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Retaliate** <actions string=\"Reaction\" /> **Trigger** A creature within the thorn guardian's reach attacks the guardian's ward; **Effect** The thorn guardian makes a briar Strike against the triggering creature. If it hits, it deals an additional 2d6 [persistent bleed](/Conditions.aspx?ID=29).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbriar +30,\r\n**Damage** 3d12+12\n\n**Bond with Ward** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Move](/Traits.aspx?ID=114)) **Requirements** The thorn guardian is adjacent to its ward; **Effect** The thorn guardian enters its ward's space and encases the creature. This doesn't interfere with its ward's senses or actions. The thorn guardian occupies the same space as its ward and moves with its ward.<br /> While worn, the thorn guardian establishes a constant [_shield other_](/Spells.aspx?ID=281) effect with its ward. Attacks that target the thorn guardian target the ward instead but use the higher AC or saving throw values between the thorn guardian and the ward. Area effects apply to both the thorn guardian and the ward, as normal for an area effect.\r\n\r\n**Fly Free** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Move](/Traits.aspx?ID=114)) **Requirements** The thorn guardian is Bonded with its Ward; **Effect** The thorn guardian removes itself from the ward and enters an adjacent space.\r\n\r\n**Interpose** <actions string=\"Single Action\" />  **Requirements** The thorn guardian is Bonded with or adjacent to its ward; **Effect** The thorn guardian interposes itself between the ward and its foes, granting its ward a +2 circumstance bonus to AC until the start of the thorn guardian's next turn.\r\n\r\n</column>",
+ "name": "Thorn Guardian",
+ "npc": false,
+ "perception": 27,
+ "rarity": "rare",
+ "reflex_save": 30,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 19</row>\n\n<row gap=\"medium\">\r\n**HP** 330\r\n\r\n**AC** 39\r\n\r\n**Fort** +27\r\n\r\n**Ref** +30\r\n\r\n**Will** +35\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +33"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +33",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 19"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 19</row>",
+ "speed": {
+  "fly": 20,
+  "max": 20
+ },
+ "speed_markdown": "fly 20 feet",
+ "speed_raw": "fly 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 6,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Thorn Guardian Recall Knowledge - Construct (Arcana, Crafting): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Thorn Guardian Source Pathfinder #174: Shadows of the Ancients pg. 19 Perception +27; darkvision Languages Skills Acrobatics +33 Str +6 Dex +9 Con +6 Int -5 Wis +5 Cha +2 --- AC 39 Fort +27 Ref +30 Will +35 HP 330 Immunities critical hits, death effects, disease, doomed, drained, fatigued, grabbed, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, precision, prone, sickened, unconscious Extra Reaction A thorn guardian gains an additional reaction each turn but can use this extra reaction only to Retaliate. Attack of Opportunity Reaction Retaliate Reaction Trigger A creature within the thorn guardian's reach attacks the guardian's ward; Effect The thorn guardian makes a briar Strike against the triggering creature. If it hits, it deals an additional 2d6 persistent bleed. --- Speed fly 20 feet Melee Single Action briar +30, Damage 3d12+12 Bond with Ward Single Action (Concentrate, Move) Requirements The thorn guardian is adjacent to its ward; Effect The thorn guardian enters its ward's space and encases the creature. This doesn't interfere with its ward's senses or actions. The thorn guardian occupies the same space as its ward and moves with its ward. While worn, the thorn guardian establishes a constant shield other effect with its ward. Attacks that target the thorn guardian target the ward instead but use the higher AC or saving throw values between the thorn guardian and the ward. Area effects apply to both the thorn guardian and the ward, as normal for an area effect. Fly Free Single Action (Concentrate, Move) Requirements The thorn guardian is Bonded with its Ward; Effect The thorn guardian removes itself from the ward and enters an adjacent space. Interpose Single Action Requirements The thorn guardian is Bonded with or adjacent to its ward; Effect The thorn guardian interposes itself between the ward and its foes, granting its ward a +2 circumstance bonus to AC until the start of the thorn guardian's next turn. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "Rare",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Construct",
+  "Mindless",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1804",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 35,
+ "wisdom": 5
+}

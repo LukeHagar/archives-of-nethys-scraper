@@ -1,0 +1,94 @@
+{
+ "ac": 34,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Voice Imitation",
+  "Disfigure",
+  "Tail Drag"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 235,
+ "hp_raw": "235",
+ "id": "creature-2238",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Irahkatu](/Monsters.aspx?ID=2238)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Irahkatu](/Monsters.aspx?ID=2238)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 96</row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Deception](/Skills.aspx?ID=5) +23, [Stealth](/Skills.aspx?ID=15) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +6\r\n\r\n**Con** +6\r\n\r\n**Int** +0\r\n\r\n**Wis** +5\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Voice Imitation** Irahkatu can mimic the sounds of a person in distress by attempting a [Deception](/Skills.aspx?ID=5) check to [Lie](/Actions.aspx?ID=47). Irahkatu has a +4 circumstance bonus to this check.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 34 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 235\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +27,\r\n**Damage** 3d12+14 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +27 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d8+14 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail claw +27 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+14 slashing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\n\n**Disfigure** <actions string=\"Two Actions\" />  **Requirements** Irahkatu has a Medium or smaller creature [grabbed](/Conditions.aspx?ID=20) with his tail claw or has already damaged a creature with his claw or tail claw Strike this turn; **Effect** Irahkatu attempts an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. <br />**Critical Success** Irahkatu tears at the target's eyes. The target takes 14d6 slashing damage and is [blinded](/Conditions.aspx?ID=1) for 24 hours. This blinded condition is removed earlier if the creature is fully healed of all damage. <br />**Success** Irahkatu mangles some fingers. The target takes 7d6 slashing damage and is [clumsy 1](/Conditions.aspx?ID=3) for 24 hours. <br />**Failure** Irahkatu claws at the creature, dealing 3d6 slashing damage. <br />**Critical Failure** The creature is unaffected.\r\n\r\n**Tail Drag** <actions string=\"Single Action\" />  **Requirements** Irahkatu has a Medium or smaller creature [grabbed](/Conditions.aspx?ID=20) with his tail claw; **Effect** Irahkatu attempts an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. <br />**Critical Success** If the creature is 10 feet away from Irahkatu, it is [dragged](/Rules.aspx?ID=451) into a square adjacent to it. Irahkatu can make a jaws Strike against the creature. <br />**Success** If the creature is 10 feet away from Irahkatu, it is dragged into a square adjacent to Irahkatu. <br />**Failure** The creature is not dragged. <br />**Critical Failure** The creature is not dragged and Irahkatu no longer has the creature grabbed.\r\n\r\n</column>",
+ "name": "Irahkatu",
+ "npc": false,
+ "perception": 22,
+ "rarity": "unique",
+ "reflex_save": 21,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 96</row>\n\n<row gap=\"medium\">\r\n**HP** 235\r\n\r\n**AC** 34\r\n\r\n**Fort** +25\r\n\r\n**Ref** +21\r\n\r\n**Will** +20\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Deception +23",
+  "Stealth +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Deception](/Skills.aspx?ID=5) +23, [Stealth](/Skills.aspx?ID=15) +25",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 96"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 96</row>",
+ "speed": {
+  "land": 25,
+  "max": 35,
+  "swim": 35
+ },
+ "speed_markdown": "25 feet, swim 35 feet",
+ "speed_raw": "25 feet, swim 35 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "25",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Irahkatu Recall Knowledge - Beast (Arcana, Nature): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Irahkatu Source Kingmaker Adventure Path pg. 96 Perception +22; darkvision Languages Aklo, Common Skills Athletics +25, Deception +23, Stealth +25 Str +8 Dex +6 Con +6 Int +0 Wis +5 Cha +4 Voice Imitation Irahkatu can mimic the sounds of a person in distress by attempting a Deception check to Lie. Irahkatu has a +4 circumstance bonus to this check. --- AC 34 Fort +25 Ref +21 Will +20 HP 235 --- Speed 25 feet, swim 35 feet Melee Single Action jaws +27, Damage 3d12+14 piercing Melee Single Action claw +27 (Agile), Damage 3d8+14 slashing Melee Single Action tail claw +27 (Agile, reach 10 feet), Damage 3d6+14 slashing plus Improved Grab Disfigure Two Actions Requirements Irahkatu has a Medium or smaller creature grabbed with his tail claw or has already damaged a creature with his claw or tail claw Strike this turn; Effect Irahkatu attempts an Athletics check against the creature's Fortitude DC. Critical Success Irahkatu tears at the target's eyes. The target takes 14d6 slashing damage and is blinded for 24 hours. This blinded condition is removed earlier if the creature is fully healed of all damage. Success Irahkatu mangles some fingers. The target takes 7d6 slashing damage and is clumsy 1 for 24 hours. Failure Irahkatu claws at the creature, dealing 3d6 slashing damage. Critical Failure The creature is unaffected. Tail Drag Single Action Requirements Irahkatu has a Medium or smaller creature grabbed with his tail claw; Effect Irahkatu attempts an Athletics check against the creature's Fortitude DC. Critical Success If the creature is 10 feet away from Irahkatu, it is dragged into a square adjacent to it. Irahkatu can make a jaws Strike against the creature. Success If the creature is 10 feet away from Irahkatu, it is dragged into a square adjacent to Irahkatu. Failure The creature is not dragged. Critical Failure The creature is not dragged and Irahkatu no longer has the creature grabbed. ",
+ "trait": [
+  "Amphibious",
+  "Beast",
+  "Unique",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Beast](/Traits.aspx?ID=20), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Amphibious",
+  "Beast",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2238",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 20,
+ "wisdom": 5
+}

@@ -1,0 +1,109 @@
+{
+ "ac": 22,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 4,
+ "creature_ability": [
+  "Seize Prayer",
+  "Change Shape"
+ ],
+ "creature_family": "Skelm",
+ "creature_family_markdown": "[Skelm](/MonsterFamilies.aspx?ID=260)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 80,
+ "hp_raw": "80",
+ "id": "creature-1302",
+ "image": [
+  "/Images/Monsters/Skelm_ShrineSkelm.png"
+ ],
+ "intelligence": 4,
+ "language": [
+  "Aklo",
+  "Common",
+  "<%UMR%37%%>telepathy<%END> 30 feet"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1); [telepathy](/MonsterAbilities.aspx?ID=37) 30 feet",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Shrine Skelm](/Monsters.aspx?ID=1302)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe unquestioned authority that a priest wields, with influence over even the most intimate details of a congregation's lives, is the ultimate prize for a shrine skelm. Most shrine skelms insinuate themselves into positions of judgment in powerful religious groups to gain that power for their own use and abuse. Shrine skelms wear the old-fashioned, traditional apparel of whatever faith they've infiltrated, brandishing religious symbols made of precious metals to better blend in and give an impression of age and power.\n\n No matter what religion they infiltrate, a shrine skelm is a master at taking established teachings out of context to justify elaborate, painful, and often humiliating punishments for his victims. He usually targets people with the audacity to question his position or teachings, but also relentlessly harasses anyone he envies.\n\n Shrine skelms are skilled listeners, especially in settings like group prayers where they can learn worshippers' fears or hopes. They exploit whatever information they learn for their own prestige and power, but they also watch for jealousy and the seeds of rage that could be nurtured to make a new skelm. They can even intercept sincere prayers and steal their effects for themselves, and they command several spells to manipulate and control their unwitting, vulnerable victims.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Skelm_ShrineSkelm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Shrine Skelm](/Monsters.aspx?ID=1302)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Skelm\" url=\"/Traits.aspx?ID=364\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 239</row>\n\n**Perception** +11; [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1); [telepathy](/MonsterAbilities.aspx?ID=37) 30 feet\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Deception](/Skills.aspx?ID=5) +14, [Intimidation](/Skills.aspx?ID=7) +14, [Occultism](/Skills.aspx?ID=11) +11, [Religion](/Skills.aspx?ID=13) +11, [Stealth](/Skills.aspx?ID=15) +12, [Thievery](/Skills.aspx?ID=17) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +5\r\n</row>\n\n**Items**\r\n[silver](/Equipment.aspx?ID=277) [religious symbol](/Equipment.aspx?ID=41)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +11 \r\n\r\n–1 to all saves vs. [emotion](/Traits.aspx?ID=60) effects\r\n</row>\r\n\r\n**HP** 80\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 5\r\n\r\n**Seize Prayer** <actions string=\"Reaction\" /> ([abjuration](/Traits.aspx?ID=2), [concentrate](/Traits.aspx?ID=32), [occult](/Traits.aspx?ID=120)) **Trigger** A creature the shrine skelm can hear within 30 feet Casts a [divine](/Traits.aspx?ID=48) Spell with a verbal component; **Effect** The shrine skelm utters an incantation and attempts to [counteract](/Rules.aspx?ID=371) the triggering spell (counteract modifier +14, counteract level 3rd). If he successfully counteracts the spell, the skelm and the caster each take 1d8 mental damage per level of the triggering spell, and if the spell had one or more targets, the skelm learns its effect and can allow the spell's effects to continue with himself as the only target (any other effect is still counteracted).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +15 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d4+7 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nantler +15 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+7 piercing plus [Knockdown](/MonsterAbilities.aspx?ID=20)\r\n\r\n**Occult Innate Spells** DC 22\r\n- **3rd**\r\n[Command](/Spells.aspx?ID=45), [Enthrall](/Spells.aspx?ID=104), [Mind Reading](/Spells.aspx?ID=194) (×3), [Soothe](/Spells.aspx?ID=291)\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Occult](/Traits.aspx?ID=120), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The shrine skelm can take on the appearance of any Medium male [humanoid](/Traits.aspx?ID=91). This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-260\" />",
+ "name": "Shrine Skelm",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Skelm\" url=\"/Traits.aspx?ID=364\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 239</row>\r\n\r\n**Creature Family** [Skelm](/MonsterFamilies.aspx?ID=260)\r\n\r\n<row gap=\"medium\">\r\n**HP** 80\r\n\r\n**AC** 22\r\n\r\n**Fort** +13\r\n\r\n**Ref** +12\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe unquestioned authority that a priest wields, with influence over even the most intimate details of a congregation's lives, is the ultimate prize …\r\n</summary>",
+ "sense": " scent  (imprecise) 30 feet",
+ "sense_markdown": "[scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Deception +14",
+  "Intimidation +14",
+  "Occultism +11",
+  "Religion +11",
+  "Stealth +12",
+  "Thievery +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Deception](/Skills.aspx?ID=5) +14, [Intimidation](/Skills.aspx?ID=7) +14, [Occultism](/Skills.aspx?ID=11) +11, [Religion](/Skills.aspx?ID=13) +11, [Stealth](/Skills.aspx?ID=15) +12, [Thievery](/Skills.aspx?ID=17) +12",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 239"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 239</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Command",
+  "Enthrall",
+  "Mind Reading",
+  "Soothe"
+ ],
+ "spell_markdown": "[Command](/Spells.aspx?ID=45), [Enthrall](/Spells.aspx?ID=104), [Mind Reading](/Spells.aspx?ID=194), [Soothe](/Spells.aspx?ID=291)",
+ "stealth": "12",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The unquestioned authority that a priest wields, with influence over even the most intimate details of a congregation's lives, is the ultimate prize …",
+ "summary_markdown": "The unquestioned authority that a priest wields, with influence over even the most intimate details of a congregation's lives, is the ultimate prize …",
+ "text": " Shrine Skelm The unquestioned authority that a priest wields, with influence over even the most intimate details of a congregation's lives, is the ultimate prize for a shrine skelm. Most shrine skelms insinuate themselves into positions of judgment in powerful religious groups to gain that power for their own use and abuse. Shrine skelms wear the old-fashioned, traditional apparel of whatever faith they've infiltrated, brandishing religious symbols made of precious metals to better blend in and give an impression of age and power. No matter what religion they infiltrate, a shrine skelm is a master at taking established teachings out of context to justify elaborate, painful, and often humiliating punishments for his victims. He usually targets people with the audacity to question his position or teachings, but also relentlessly harasses anyone he envies. Shrine skelms are skilled listeners, especially in settings like group prayers where they can learn worshippers' fears or hopes. They exploit whatever information they learn for their own prestige and power, but they also watch for jealousy and the seeds of rage that could be nurtured to make a new skelm. They can even intercept sincere prayers and steal their effects for themselves, and they command several spells to manipulate and control their unwitting, vulnerable victims. Recall Knowledge - Humanoid (Society): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Shrine Skelm Source Bestiary 3 pg. 239 Perception +11; scent (imprecise) 30 feet Languages Aklo, Common; telepathy 30 feet Skills Athletics +12, Deception +14, Intimidation +14, Occultism +11, Religion +11, Stealth +12, Thievery +12 Str +5 Dex +3 Con +4 Int +4 Wis +2 Cha +5 Items silver religious symbol --- AC 22 Fort +13 Ref +12 Will +11 –1 to all saves vs. emotion effects HP 80 Weaknesses cold iron 5 Seize Prayer Reaction (abjuration, concentrate, occult) Trigger A creature the shrine skelm can hear within 30 feet Casts a divine Spell with a verbal component; Effect The shrine skelm utters an incantation and attempts to counteract the triggering spell (counteract modifier +14, counteract level 3rd). If he successfully counteracts the spell, the skelm and the caster each take 1d8 mental damage per level of the triggering spell, and if the spell had one or more targets, the skelm learns its effect and can allow the spell's effects to continue with himself as the only target (any other effect is still counteracted). --- Speed 25 feet Melee Single Action fist +15 (Agile, Magical), Damage 2d4+7 bludgeoning plus Grab Melee Single Action antler +15 (Magical), Damage 2d8+7 piercing plus Knockdown Occult Innate Spells DC 22 - 3rd Command, Enthrall, Mind Reading (×3), Soothe Change Shape Single Action (Concentrate, Occult, Polymorph, Transmutation) The shrine skelm can take on the appearance of any Medium male humanoid. This doesn't change his Speed or his attack and damage bonuses with his Strikes but might change the damage type his Strikes deal. ",
+ "trait": [
+  "Humanoid",
+  "Skelm",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Skelm](/Traits.aspx?ID=364)",
+ "trait_raw": [
+  "Humanoid",
+  "Skelm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1302",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 5
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 5",
+ "weakness_raw": " cold iron  5",
+ "will_save": 11,
+ "wisdom": 2
+}

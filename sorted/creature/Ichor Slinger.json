@@ -1,0 +1,107 @@
+{
+ "ac": 20,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 4,
+ "creature_ability": [
+  "Mystery Ingredients",
+  "Brew Tomb Juice",
+  "Exhume",
+  "Force Feed"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 65,
+ "hp_raw": "65 ( negative healing )",
+ "id": "creature-1873",
+ "image": [
+  "/Images/Monsters/IchorSlinger.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poisoned",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poisoned](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Necril",
+  "plus any one language"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20); plus any one language",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Ichor Slinger](/Monsters.aspx?ID=1873)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhile the typical snake oil salesperson seeks riches, some medical fraudsters become so enamored with the swindler lifestyle they reanimate to keep living the lie. Known as ichor slingers, these cadaverous alchemists disguise themselves to walk among the living. There they gleefully concoct tonics and peddle cure-alls, charismatically convincing bystanders to overlook questionable ingredients and credentials. Ichor slingers feed on others' attention and trust, caring little for clients' health so long as buyers imbibe the offered medicines. Conversely, rejection infuriates ichor slingers. The undead often stalk, subdue, and administer unwanted medicines to those who snub them. When not selling “panaceas,” ichor slingers harvest macabre ingredients to make dubious new medicines.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/IchorSlinger.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Ichor Slinger](/Monsters.aspx?ID=1873)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 115</row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20); plus any one language\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11, [Crafting](/Skills.aspx?ID=4) +13, [Deception](/Skills.aspx?ID=5) +13, [Performance](/Skills.aspx?ID=12) +11, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +1\r\n\r\n**Con** +4\r\n\r\n**Int** +3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +5\r\n</row>\n\n**Items**\r\n[Alchemist's Tools](/Equipment.aspx?ID=2), [Disguise Kit](/Equipment.aspx?ID=19), infused reagents, [Snake Oil](/Equipment.aspx?ID=136) (6)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 65\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poisoned](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Mystery Ingredients** ([auditory](/Traits.aspx?ID=16), [aura](/Traits.aspx?ID=206), [occult](/Traits.aspx?ID=120)) 60 feet. Creatures in the aura take a –2 status penalty to checks to [Identify Alchemy](/Actions.aspx?ID=44), [Recall Knowledge](/Actions.aspx?ID=26) about alchemical subjects, or examine snake oil effects. When a creature first enters the area, if it hears the ichor slinger talking, it must attempt a [secret](/Traits.aspx?ID=142) Will save against the slinger's [Deception](/Skills.aspx?ID=5) DC. On a failure, it treats its next failed check to Identify Alchemy or Recall Knowledge about alchemical subjects in the next 24 hours as though it were a critical failure instead. This is an [auditory](/Traits.aspx?ID=16) [misfortune](/Traits.aspx?ID=110) effect.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +13 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+3 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Brew Tomb Juice** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104))  **Cost** 1 batch of infused reagents; **Effect** The ichor slinger creates a vial of tomb juice, an alchemical tonic that has the [infused](/Traits.aspx?ID=94) trait and becomes inert after 24 hours. Tomb juice has the effects of snake oil, and maybe more depending on the results of the ichor slinger's DC 20 [Crafting](/Skills.aspx?ID=4) check.<br /> **Critical Success** The slinger chooses one of the following items and adds its effects to the tomb juice: [moderate antidote](/Equipment.aspx?ID=80), [moderate antiplague](/Equipment.aspx?ID=81), [lesser elixir of life](/Equipment.aspx?ID=91), [giant scorpion venom](/Equipment.aspx?ID=114), or [moderate juggernaut mutagen](/Equipment.aspx?ID=94). Poisons created in this way gain an onset of 1 round, gain the [ingested](/Traits.aspx?ID=95) trait, and lose any [contact](/Traits.aspx?ID=37), [inhaled](/Traits.aspx?ID=96), or [injury](/Traits.aspx?ID=97) traits.<br /> **Success** As critical success, but the slinger chooses from lesser antidote, lesser antiplague, minor elixir of life, [graveroot](/Equipment.aspx?ID=116), or lesser juggernaut mutagen.\r\n\r\n**Exhume** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ichor slinger is adjacent to a dead creature that hasn't already been affected by Exhume; **Effect** The ichor slinger harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead.\r\n\r\n**Force Feed** <actions string=\"Single Action\" />  **Requirements** The ichor slinger has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) and is holding tomb juice, an [alchemical elixir](/equipment/alchemical-items/alchemical-elixirs), or an [alchemical poison](/equipment/alchemical-items/alchemical-poisons); **Effect** The ichor slinger forces the target to consume the alchemical item.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Unlikely Allies</title>\r\n\r\nRarely, ichor slingers can be non-evil. These variants crave validation and might have once been a physician who failed to detect a plague or a similarly disgraced practitioner of medicine. These alchemists might provide unreliable assistance to heroes and innocents. It's even possible that helping such an ichor slinger cure a disease outbreak could peacefully lay their soul to rest.\r\n</aside>",
+ "name": "Ichor Slinger",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 11,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 115</row>\n\n<row gap=\"medium\">\r\n**HP** 65 ( negative healing )\r\n\r\n**AC** 20\r\n\r\n**Fort** +12\r\n\r\n**Ref** +11\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile the typical snake oil salesperson seeks riches, some medical fraudsters become so enamored with the swindler lifestyle they reanimate to keep …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +11",
+  "Crafting +13",
+  "Deception +13",
+  "Performance +11",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11, [Crafting](/Skills.aspx?ID=4) +13, [Deception](/Skills.aspx?ID=5) +13, [Performance](/Skills.aspx?ID=12) +11, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 115"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 115</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "While the typical snake oil salesperson seeks riches, some medical fraudsters become so enamored with the swindler lifestyle they reanimate to keep …",
+ "summary_markdown": "While the typical snake oil salesperson seeks riches, some medical fraudsters become so enamored with the swindler lifestyle they reanimate to keep …",
+ "text": " Ichor Slinger While the typical snake oil salesperson seeks riches, some medical fraudsters become so enamored with the swindler lifestyle they reanimate to keep living the lie. Known as ichor slingers, these cadaverous alchemists disguise themselves to walk among the living. There they gleefully concoct tonics and peddle cure-alls, charismatically convincing bystanders to overlook questionable ingredients and credentials. Ichor slingers feed on others' attention and trust, caring little for clients' health so long as buyers imbibe the offered medicines. Conversely, rejection infuriates ichor slingers. The undead often stalk, subdue, and administer unwanted medicines to those who snub them. When not selling “panaceas,” ichor slingers harvest macabre ingredients to make dubious new medicines. Recall Knowledge - Undead (Religion): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Ichor Slinger Source Book of the Dead pg. 115 Perception +10; darkvision Languages Common, Necril; plus any one language Skills Athletics +11, Crafting +13, Deception +13, Performance +11, Stealth +9 Str +3 Dex +1 Con +4 Int +3 Wis +2 Cha +5 Items Alchemist's Tools, Disguise Kit, infused reagents, Snake Oil (6) --- AC 20 Fort +12 Ref +11 Will +10 HP 65 (negative healing) Immunities death effects, disease, paralyzed, poisoned, unconscious Mystery Ingredients (auditory, aura, occult) 60 feet. Creatures in the aura take a –2 status penalty to checks to Identify Alchemy, Recall Knowledge about alchemical subjects, or examine snake oil effects. When a creature first enters the area, if it hears the ichor slinger talking, it must attempt a secret Will save against the slinger's Deception DC. On a failure, it treats its next failed check to Identify Alchemy or Recall Knowledge about alchemical subjects in the next 24 hours as though it were a critical failure instead. This is an auditory misfortune effect. --- Speed 25 feet Melee Single Action fist +13 (Agile), Damage 2d6+3 bludgeoning plus Grab Brew Tomb Juice Single Action (Manipulate) Cost 1 batch of infused reagents; Effect The ichor slinger creates a vial of tomb juice, an alchemical tonic that has the infused trait and becomes inert after 24 hours. Tomb juice has the effects of snake oil, and maybe more depending on the results of the ichor slinger's DC 20 Crafting check. Critical Success The slinger chooses one of the following items and adds its effects to the tomb juice: moderate antidote, moderate antiplague, lesser elixir of life, giant scorpion venom, or moderate juggernaut mutagen. Poisons created in this way gain an onset of 1 round, gain the ingested trait, and lose any contact, inhaled, or injury traits. Success As critical success, but the slinger chooses from lesser antidote, lesser antiplague, minor elixir of life, graveroot, or lesser juggernaut mutagen. Exhume Single Action (Manipulate) Requirements The ichor slinger is adjacent to a dead creature that hasn't already been affected by Exhume; Effect The ichor slinger harvests portions of the corpse to gain 1 dose of infused reagents, or 2 infused reagents if the creature was undead. Force Feed Single Action Requirements The ichor slinger has a creature grabbed or restrained and is holding tomb juice, an alchemical elixir, or an alchemical poison; Effect The ichor slinger forces the target to consume the alchemical item. Unlikely Allies Rarely, ichor slingers can be non-evil. These variants crave validation and might have once been a physician who failed to detect a plague or a similarly disgraced practitioner of medicine. These alchemists might provide unreliable assistance to heroes and innocents. It's even possible that helping such an ichor slinger cure a disease outbreak could peacefully lay their soul to rest. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1873",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

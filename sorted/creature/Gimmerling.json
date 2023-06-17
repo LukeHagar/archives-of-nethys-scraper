@@ -1,0 +1,106 @@
+{
+ "ac": 34,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Hungersense",
+  "Treacherous Aura",
+  "Trip Up",
+  "Change Shape",
+  "Disarm",
+  "Sneak Attack",
+  "Trickster's Step"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 235,
+ "hp_raw": "235",
+ "id": "creature-228",
+ "image": [
+  "/Images/Monsters/Gimmerling.png"
+ ],
+ "intelligence": 5,
+ "language": [
+  "Aklo",
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Gimmerling](/Monsters.aspx?ID=228)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGimmerlings are small, shapeshifting fey who stage ambushes to sate their endless hunger and childish greed. These cruelly curious fey obsess over finding and making unusual traps and sadistic weapons, and their favorite amusement is se eing these traps sprung or the weapons wielded. When on the Material Plane, they are frequently found in urban areas, particularly slums or other parts of town where they can either go unnoticed or be easily forgotten—and have plenty of victims to choose from.\n\n A typical gimmerling disguises itself as an endangered child, doing so in hopes of drawing creatures close enough to rob. The gimmerling puts itself in apparent danger using a trap, construct, or bribed ally, or even a coerced monster like a redcap.\n\n Because gimmerlings sometimes trade obscure smithing or trapping techniques in exchange for gifts that sate their curiosity, their greed, or their hunger, they have at times been worshipped as minor gods of the forge. Some disciplined gimmerlings work as honored artisans, elite guards, or spies for the demigods known as the Eldest who dwell in the depths of the First World.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gimmerling.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Gimmerling](/Monsters.aspx?ID=228)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 177</row>\n\n**Perception** +21; hungersense (imprecise) 30 feet, low-light vision\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Crafting](/Skills.aspx?ID=4) +23, [Deception](/Skills.aspx?ID=5) +25, [Nature](/Skills.aspx?ID=10) +21, [Stealth](/Skills.aspx?ID=15) +25, [Thievery](/Skills.aspx?ID=17) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +7\r\n\r\n**Con** +4\r\n\r\n**Int** +5\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Hungersense** Hungersense allows the gimmerling to sense creatures that require food to live.\r\n\r\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [hand crossbow](/Weapons.aspx?ID=69)_ (20 bolts)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 34 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 235\n\n**Weaknesses**\r\ncold iron 10\r\n\r\n**Treacherous Aura** ([aura](/Traits.aspx?ID=206), [primal](/Traits.aspx?ID=134), [transmutation](/Traits.aspx?ID=157)) 15 feet. Tangled roots, jagged divots, sharp rocks and other hazards appear on surfaces in the aura, creating difficult terrain.<br /> **Trip Up** <actions string=\"Reaction\" /> **Trigger** A creature critically fails a melee attack to hit the gimmerling or moves into a space within the gimmerling’s treacherous aura. **Effect** The triggering creature must attempt a DC 32 Reflex save.<br /> **Critical Success** The target is unaffected.<br /> **Success** The target is flat-footed until the start of its next turn.<br /> **Failure** The target takes 2d10 bludgeoning damage and is flat-footed until the start of its next turn.<br /> **Critical Failure** As failure, and the target is knocked prone.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet; trickster’s step\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +26 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d8+7 slashing plus Disarm\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +26 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d8+7 piercing plus 2d6 poison\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_hand crossbow_ +28 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 2d6+3 piercing plus 2d6 poison\n\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The gimmerling changes into its natural form or that of any humanoid. In humanoid form, it loses its treacherous aura, and its equipment appears to be trinkets or toys. As a humanoid that lacks claws or fangs, it loses the matching Strike. If it loses its claw Strike, it gains a fist Strike that is identical except that it deals bludgeoning damage.\r\n\r\n**Disarm** <actions string=\"Two Actions\" />  **Requirement** The gimmerling’s last action was a success with a Strike that has Disarm in its damage entry. **Effect** The gimmerling knocks a held or carried weapon to the ground in the target’s space.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The gimmerling deals 2d6 extra precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Trickster's Step**   The gimmerling ignores difficult terrain and doesn’t trigger traps with its movement.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Gimmerling Locations</title>\r\n\r\nGimmerlings are more common in the First World than on the Material Plane and favor hunting grounds on the verges of dangerous places where they might encounter protective creatures to mislead with their disguises.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Gimmerling Treasure</title>\r\n\r\nGimmerlings collect weapons, traps, mechanical novelties, and dangerous magic items. A gimmerling is likely found with tools (like artisan’s tools, repair kits, and thieves’ tools) and items it can use to appear more vulnerable, such as locks, manacles, and snare kits (which it feigns being trapped by).\r\n</aside>",
+ "name": "Gimmerling",
+ "npc": false,
+ "perception": 21,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 25,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 177</row>\n\n<row gap=\"medium\">\r\n**HP** 235\r\n\r\n**AC** 34\r\n\r\n**Fort** +22\r\n\r\n**Ref** +25\r\n\r\n**Will** +19\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGimmerlings are small, shapeshifting fey who stage ambushes to sate their endless hunger and childish greed. These cruelly curious fey obsess over …\r\n</summary>",
+ "sense": "hungersense (imprecise) 30 feet, low-light vision",
+ "sense_markdown": "hungersense (imprecise) 30 feet, low-light vision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Crafting +23",
+  "Deception +25",
+  "Nature +21",
+  "Stealth +25",
+  "Thievery +25"
+ ],
+ "skill_markdown": "[Crafting](/Skills.aspx?ID=4) +23, [Deception](/Skills.aspx?ID=5) +25, [Nature](/Skills.aspx?ID=10) +21, [Stealth](/Skills.aspx?ID=15) +25, [Thievery](/Skills.aspx?ID=17) +25",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 177"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 177</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet; trickster’s step",
+ "speed_raw": "30 feet; trickster’s step",
+ "spell_markdown": "",
+ "stealth": "25",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Gimmerlings are small, shapeshifting fey who stage ambushes to sate their endless hunger and childish greed. These cruelly curious fey obsess over …",
+ "summary_markdown": "Gimmerlings are small, shapeshifting fey who stage ambushes to sate their endless hunger and childish greed. These cruelly curious fey obsess over …",
+ "text": " Gimmerling Gimmerlings are small, shapeshifting fey who stage ambushes to sate their endless hunger and childish greed. These cruelly curious fey obsess over finding and making unusual traps and sadistic weapons, and their favorite amusement is se eing these traps sprung or the weapons wielded. When on the Material Plane, they are frequently found in urban areas, particularly slums or other parts of town where they can either go unnoticed or be easily forgotten—and have plenty of victims to choose from. A typical gimmerling disguises itself as an endangered child, doing so in hopes of drawing creatures close enough to rob. The gimmerling puts itself in apparent danger using a trap, construct, or bribed ally, or even a coerced monster like a redcap. Because gimmerlings sometimes trade obscure smithing or trapping techniques in exchange for gifts that sate their curiosity, their greed, or their hunger, they have at times been worshipped as minor gods of the forge. Some disciplined gimmerlings work as honored artisans, elite guards, or spies for the demigods known as the Eldest who dwell in the depths of the First World. Recall Knowledge - Fey (Nature): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Gimmerling Source Bestiary pg. 177 Perception +21; hungersense (imprecise) 30 feet, low-light vision Languages Aklo, Common, Sylvan Skills Crafting +23, Deception +25, Nature +21, Stealth +25, Thievery +25 Str +4 Dex +7 Con +4 Int +5 Wis +3 Cha +4 Hungersense Hungersense allows the gimmerling to sense creatures that require food to live. Items +1 striking hand crossbow (20 bolts) --- AC 34 Fort +22 Ref +25 Will +19 HP 235 Weaknesses cold iron 10 Treacherous Aura (aura, primal, transmutation) 15 feet. Tangled roots, jagged divots, sharp rocks and other hazards appear on surfaces in the aura, creating difficult terrain. Trip Up Reaction Trigger A creature critically fails a melee attack to hit the gimmerling or moves into a space within the gimmerling’s treacherous aura. Effect The triggering creature must attempt a DC 32 Reflex save. Critical Success The target is unaffected. Success The target is flat-footed until the start of its next turn. Failure The target takes 2d10 bludgeoning damage and is flat-footed until the start of its next turn. Critical Failure As failure, and the target is knocked prone. --- Speed 30 feet; trickster’s step Melee Single Action claw +26 (Agile, Finesse), Damage 2d8+7 slashing plus Disarm Melee Single Action jaws +26 (Finesse), Damage 3d8+7 piercing plus 2d6 poison Ranged Single Action hand crossbow +28 (range increment 60 feet, reload 1), Damage 2d6+3 piercing plus 2d6 poison Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) The gimmerling changes into its natural form or that of any humanoid. In humanoid form, it loses its treacherous aura, and its equipment appears to be trinkets or toys. As a humanoid that lacks claws or fangs, it loses the matching Strike. If it loses its claw Strike, it gains a fist Strike that is identical except that it deals bludgeoning damage. Disarm Two Actions Requirement The gimmerling’s last action was a success with a Strike that has Disarm in its damage entry. Effect The gimmerling knocks a held or carried weapon to the ground in the target’s space. Sneak Attack The gimmerling deals 2d6 extra precision damage to flat-footed creatures. Trickster's Step The gimmerling ignores difficult terrain and doesn’t trigger traps with its movement. Gimmerling Locations Gimmerlings are more common in the First World than on the Material Plane and favor hunting grounds on the verges of dangerous places where they might encounter protective creatures to mislead with their disguises. Gimmerling Treasure Gimmerlings collect weapons, traps, mechanical novelties, and dangerous magic items. A gimmerling is likely found with tools (like artisan’s tools, repair kits, and thieves’ tools) and items it can use to appear more vulnerable, such as locks, manacles, and snare kits (which it feigns being trapped by). ",
+ "trait": [
+  "Fey",
+  "Uncommon",
+  "LE",
+  "Small"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fey",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=228",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 10
+ },
+ "weakness_markdown": "cold iron 10",
+ "weakness_raw": "cold iron 10",
+ "will_save": 19,
+ "wisdom": 3
+}

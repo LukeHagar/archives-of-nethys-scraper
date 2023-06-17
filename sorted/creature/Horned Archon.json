@@ -1,0 +1,115 @@
+{
+ "ac": 22,
+ "alignment": "LG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Menacing Guardian",
+  "Retributive Strike",
+  "Archon's Door",
+  "Touch of Charity"
+ ],
+ "creature_family": "Archon",
+ "creature_family_markdown": "[Archon](/MonsterFamilies.aspx?ID=9)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 65,
+ "hp_raw": "65",
+ "id": "creature-31",
+ "image": [
+  "/Images/Monsters/Archon_HornedArchon.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Celestial",
+  "Draconic",
+  "Infernal",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Horned Archon](/Monsters.aspx?ID=31)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHorned archons are secretive and tireless sentinels and scouts, patrolling the Outer Sphere’s untamed wilds for evil to eliminate and keeping small communities safe from demons, devils, and worse. They resemble muscular humans with the head, horns, and legs of a stag. When requested to do so by their patrons, especially Erastil, they journey to the Material Plane and patrol dangerous frontier areas, secretly performing acts of kindness such as leading hunters to food, helping lost children, and driving off evil creatures. Because they roam the wilds of Nirvana and Elysium, horned archons are among the best at understanding the perspectives of other celestials.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Celestial](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Archon_HornedArchon.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Horned Archon](/Monsters.aspx?ID=31)</title>\r\n\r\n<traits>\r\n<trait label=\"LG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Archon\" url=\"/Traits.aspx?ID=13\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=23\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 27</row>\n\n**Perception** +11; darkvision\r\n\r\n**Languages**\r\n[Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Nature](/Skills.aspx?ID=10) +11, [Religion](/Skills.aspx?ID=13) +9, [Stealth](/Skills.aspx?ID=15) +10, [Survival](/Skills.aspx?ID=16) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[composite longbow (20 arrows)](/Weapons.aspx?ID=74)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +11 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 65\n\n**Weaknesses**\r\nevil 5\r\n\r\n**Menacing Guardian** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [enchantment](/Traits.aspx?ID=61)) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 19 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can’t use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours.<br />**Retributive Strike** <actions string=\"Reaction\" /> A horned archon can also make a Retributive Strike with its composite longbow.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhorn +11 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+3 piercing plus 1d6 good and [Push](/MonsterAbilities.aspx?ID=25)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncomposite longbow +14 ([deadly 1d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [range increment 100 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [Volley](/Traits.aspx?ID=201)),\r\n**Damage** 1d8+4 piercing plus 1d6 good\r\n\r\n**Divine Innate Spells** DC 21\r\n- **Cantrips (2nd)**\r\n[Dancing Lights](/Spells.aspx?ID=58)\r\n- **1st**\r\n[Charm](/Spells.aspx?ID=34) (animals only; x3), [True Strike](/Spells.aspx?ID=345) (x3)\r\n- **2nd**\r\n[Animal Messenger](/Spells.aspx?ID=11) (x3)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (x3)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Archon's Door**   Once per day, if an archon sees another creature cast [_dimension door_](/Spells.aspx?ID=69), it can cast an innate [_dimension door_](/Spells.aspx?ID=69) (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon’s [_dimension door_](/Spells.aspx?ID=69). If the archon’s [_dimension door_](/Spells.aspx?ID=69) has enough distance, the archon appears the same distance and direction from the creature as before either used [_dimension door_](/Spells.aspx?ID=69).\r\n\r\n**Touch of Charity** <actions string=\"Single Action\" /> ([Healing](/Traits.aspx?ID=89), [Manipulate](/Traits.aspx?ID=104), [Necromancy](/Traits.aspx?ID=117)) A horned archon can touch another creature to take on that creature’s wounds, transferring up to 30 of the horned archon’s HP to the touched creature. The horned archon can’t transfer more HP than it currently has.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-9\" />",
+ "name": "Horned Archon",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Archon\" url=\"/Traits.aspx?ID=13\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=23\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 27</row>\r\n\r\n**Creature Family** [Archon](/MonsterFamilies.aspx?ID=9)\r\n\r\n<row gap=\"medium\">\r\n**HP** 65\r\n\r\n**AC** 22\r\n\r\n**Fort** +11\r\n\r\n**Ref** +10\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHorned archons are secretive and tireless sentinels and scouts, patrolling the Outer Sphere’s untamed wilds for evil to eliminate and keeping small …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Nature +11",
+  "Religion +9",
+  "Stealth +10",
+  "Survival +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Nature](/Skills.aspx?ID=10) +11, [Religion](/Skills.aspx?ID=13) +9, [Stealth](/Skills.aspx?ID=15) +10, [Survival](/Skills.aspx?ID=16) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 27"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 27</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Dimension Door",
+  "Animal Messenger",
+  "Charm",
+  "True Strike",
+  "Dancing Lights",
+  "Tongues"
+ ],
+ "spell_markdown": "[Animal Messenger](/Spells.aspx?ID=11), [Charm](/Spells.aspx?ID=34), [Dancing Lights](/Spells.aspx?ID=58), [Dimension Door](/Spells.aspx?ID=69), [Tongues](/Spells.aspx?ID=340), [True Strike](/Spells.aspx?ID=345)",
+ "stealth": "10",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "summary": "Horned archons are secretive and tireless sentinels and scouts, patrolling the Outer Sphere’s untamed wilds for evil to eliminate and keeping small …",
+ "summary_markdown": "Horned archons are secretive and tireless sentinels and scouts, patrolling the Outer Sphere’s untamed wilds for evil to eliminate and keeping small …",
+ "text": " Horned Archon Horned archons are secretive and tireless sentinels and scouts, patrolling the Outer Sphere’s untamed wilds for evil to eliminate and keeping small communities safe from demons, devils, and worse. They resemble muscular humans with the head, horns, and legs of a stag. When requested to do so by their patrons, especially Erastil, they journey to the Material Plane and patrol dangerous frontier areas, secretly performing acts of kindness such as leading hunters to food, helping lost children, and driving off evil creatures. Because they roam the wilds of Nirvana and Elysium, horned archons are among the best at understanding the perspectives of other celestials. Recall Knowledge - Celestial (Religion): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Horned Archon Source Bestiary pg. 27 Perception +11; darkvision Languages Celestial, Draconic, Infernal; tongues Skills Acrobatics +12, Nature +11, Religion +9, Stealth +10, Survival +11 Str +3 Dex +4 Con +3 Int +1 Wis +3 Cha +1 Items composite longbow (20 arrows) --- AC 22 Fort +11 Ref +10 Will +11 +1 status to all saves vs. magic HP 65 Weaknesses evil 5 Menacing Guardian (aura, divine, enchantment) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 19 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can’t use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours. Retributive Strike Reaction A horned archon can also make a Retributive Strike with its composite longbow. --- Speed 35 feet Melee Single Action horn +11 (Magical), Damage 2d8+3 piercing plus 1d6 good and Push Ranged Single Action composite longbow +14 (deadly 1d10, Magical, range increment 100 feet, reload 0, Volley), Damage 1d8+4 piercing plus 1d6 good Divine Innate Spells DC 21 - Cantrips (2nd) Dancing Lights - 1st Charm (animals only; x3), True Strike (x3) - 2nd Animal Messenger (x3) - 4th Dimension Door (x3) - Constant (5th) Tongues Archon's Door Once per day, if an archon sees another creature cast dimension door , it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon’s dimension door . If the archon’s dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door . Touch of Charity Single Action (Healing, Manipulate, Necromancy) A horned archon can touch another creature to take on that creature’s wounds, transferring up to 30 of the horned archon’s HP to the touched creature. The horned archon can’t transfer more HP than it currently has. ",
+ "trait": [
+  "Archon",
+  "Celestial",
+  "LG",
+  "Medium"
+ ],
+ "trait_markdown": "[Archon](/Traits.aspx?ID=13), [Celestial](/Traits.aspx?ID=23)",
+ "trait_raw": [
+  "Archon",
+  "Celestial"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=31",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "evil": 5
+ },
+ "weakness_markdown": "evil 5",
+ "weakness_raw": "evil 5",
+ "will_save": 11,
+ "wisdom": 3
+}

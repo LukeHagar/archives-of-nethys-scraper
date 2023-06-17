@@ -1,0 +1,54 @@
+{
+ "ac": 21,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 22  Survival  (trained) to mislead the flytrap’s sense of weight and pressure",
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hazard_type": "Environmental",
+ "hp": 56,
+ "hp_raw": "56 (BT 28)",
+ "id": "hazard-37",
+ "immunity": [
+  "mental"
+ ],
+ "immunity_markdown": "mental",
+ "level": 4,
+ "markdown": "<title level=\"1\" right=\"Hazard 4\" pfs=\"\">[Titanic Flytrap](/Hazards.aspx?ID=37)</title>\r\n\r\n<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 78</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nOn the surface, a titanic flytrap appears to be a patch of the more common flytrap plant, but beneath murky waters it hides a far larger set of jaws, reaching 10 feet across and reinforced with woody branches and lined with paralytic hairs.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 25 (trained)\r\n\r\n**Disable**\r\nDC 22 [Survival](/Skills.aspx?ID=16) (trained) to mislead the flytrap’s sense of weight and pressure\n\n<column gap=\"tiny\">\r\n\r\n**AC** 21, **Fort** +15, **Ref** +8\n\n**HP**\r\n56 (BT 28)\r\n\r\n**Immunities**\r\nmental\r\n\r\n**Weaknesses**\r\nacid 20, fire 10\n\n</column>\r\n\r\n**Snap Shut** <actions string=\"Reaction\" /> **Trigger** A Small or Medium creature moves into a square that is within reach of the flytrap’s hidden jaws; **Effect** The flytrap’s jaws snap shut, making a jaws Strike against the triggering creature.\n\n **Melee** <actions string=\"Single Action\" /> jaws +17, **Effect** devour \n\n**Devour** The target is trapped by the flytrap’s jaws, gaining the [grabbed](/Conditions.aspx?ID=20) condition until it [Escapes](/Actions.aspx?ID=79) (DC 21). Additionally, it is exposed to the titanic flytrap toxin from the hundreds of tiny hairs that line the inside of its leaves. If the flytrap’s jaws Strike was a critical success, the target takes a –2 circumstance penalty to its saving throws against this poison. At the end of each of target’s turns that it remains grabbed, the target takes 3d6 acid damage.\n\n **Titanic Flytrap Toxin** ([contact](/Traits.aspx?ID=37), [poison](/Traits.aspx?ID=126)) **Saving Throw** DC 21 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 2d6 poison damage and [stunned 1](/Conditions.aspx?ID=36) (1 round); **Stage 2** 3d6 poison damage and stunned 2 (1 round); **Stage 3** 4d6 poison damage and [paralyzed](/Conditions.aspx?ID=28) (1 round)\n\n---\r\n**Reset**\r\n1 hour (or longer, after a large meal)",
+ "name": "Titanic Flytrap",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2020-02-26",
+ "reset": "1 hour (or longer, after a large meal)",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 78</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOn the surface, a titanic flytrap appears to be a patch of the more common flytrap plant, but beneath murky waters it hides a far larger set of jaws, …\r\n</summary>",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 78"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 78</row>",
+ "speed": {},
+ "stealth": "DC 25 (trained)",
+ "summary": "On the surface, a titanic flytrap appears to be a patch of the more common flytrap plant, but beneath murky waters it hides a far larger set of jaws, …",
+ "summary_markdown": "On the surface, a titanic flytrap appears to be a patch of the more common flytrap plant, but beneath murky waters it hides a far larger set of jaws, …",
+ "text": " Titanic Flytrap Source Gamemastery Guide pg. 78 Complexity Simple On the surface, a titanic flytrap appears to be a patch of the more common flytrap plant, but beneath murky waters it hides a far larger set of jaws, reaching 10 feet across and reinforced with woody branches and lined with paralytic hairs. --- Stealth DC 25 (trained) Disable DC 22 Survival (trained) to mislead the flytrap’s sense of weight and pressure AC 21, Fort +15, Ref +8 HP 56 (BT 28) Immunities mental Weaknesses acid 20, fire 10 Snap Shut Reaction Trigger A Small or Medium creature moves into a square that is within reach of the flytrap’s hidden jaws; Effect The flytrap’s jaws snap shut, making a jaws Strike against the triggering creature. Melee Single Action jaws +17, Effect devour Devour The target is trapped by the flytrap’s jaws, gaining the grabbed condition until it Escapes (DC 21). Additionally, it is exposed to the titanic flytrap toxin from the hundreds of tiny hairs that line the inside of its leaves. If the flytrap’s jaws Strike was a critical success, the target takes a –2 circumstance penalty to its saving throws against this poison. At the end of each of target’s turns that it remains grabbed, the target takes 3d6 acid damage. Titanic Flytrap Toxin (contact, poison) Saving Throw DC 21 Fortitude; Maximum Duration 4 rounds; Stage 1 2d6 poison damage and stunned 1 (1 round); Stage 2 3d6 poison damage and stunned 2 (1 round); Stage 3 4d6 poison damage and paralyzed (1 round) --- Reset 1 hour (or longer, after a large meal)",
+ "trait": [
+  "Environmental"
+ ],
+ "trait_markdown": "[Environmental](/Traits.aspx?ID=62)",
+ "trait_raw": [
+  "Environmental"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=37",
+ "weakness": {
+  "acid": 20,
+  "fire": 10
+ },
+ "weakness_markdown": "acid 20, fire 10",
+ "weakness_raw": "acid 20, fire 10"
+}

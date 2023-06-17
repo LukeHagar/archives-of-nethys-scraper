@@ -1,0 +1,117 @@
+{
+ "ac": 27,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 1,
+ "creature_ability": [
+  "Light Blindness",
+  "Shootist's Luck",
+  "Distracting Shot",
+  "Reloading Trick",
+  "Shootist's Draw",
+  "Sneak Attack"
+ ],
+ "creature_family": "Drow",
+ "creature_family_markdown": "[Drow](/MonsterFamilies.aspx?ID=37)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 120,
+ "hp_raw": "120",
+ "id": "creature-1387",
+ "image": [
+  "/Images/Monsters/Drow_DrowShootist.png"
+ ],
+ "immunity": [
+  "sleep"
+ ],
+ "immunity_markdown": "[sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "Elven",
+  "Undercommon"
+ ],
+ "language_markdown": "[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Drow Shootist](/Monsters.aspx?ID=1387)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe rare few drow who specialize in the repeating hand crossbow command respect not only for their skills but for their luck and swagger.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drow_DrowShootist.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Drow Shootist](/Monsters.aspx?ID=1387)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 83</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +16, [Deception](/Skills.aspx?ID=5) +16, [Intimidation](/Skills.aspx?ID=7) +14, [Stealth](/Skills.aspx?ID=15) +17, [Thievery](/Skills.aspx?ID=17) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +5\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)**\r\n\r\n**Items**\r\n_+1 [repeating hand crossbow](/Weapons.aspx?ID=160)_ (4 magazines), [rapier](/Weapons.aspx?ID=36), [shootist bandolier](/Equipment.aspx?ID=937), [stupor poison](/Equipment.aspx?ID=939) (4), [studded leather armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +16 \r\n\r\n+1 status to all saves vs. magic, +2 status to all saves vs. [mental](/Traits.aspx?ID=106)\r\n</row>\r\n\r\n**HP** 120\n\n**Immunities**\r\n[sleep](/Traits.aspx?ID=145)\n\n**Shootist's Luck** <actions string=\"Reaction\" /> ([fortune](/Traits.aspx?ID=76)) **Trigger** The shootist fails a save &lt;%END>; **Frequency** once per day; **Effect** The shootist rerolls the save and uses the better result.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nrapier + 18 ([deadly d8](/Traits.aspx?ID=174), [Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+9 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrepeating hand crossbow +20 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 0 [3 to reload magazine]](/Traits.aspx?ID=254), [Repeating](/Traits.aspx?ID=374)),\r\n**Damage** 1d6+9 piercing plus stupor poison\r\n\r\n**Divine Innate Spells** DC 24\r\n- **Cantrips (4th)**\r\n[Dancing Lights](/Spells.aspx?ID=58)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59) (at will), [Faerie Fire](/Spells.aspx?ID=107) (at will)\r\n\r\n**Distracting Shot** <actions string=\"Two Actions\" />  The shootist takes aim and makes a ranged Strike. If the attack hits and deals damage, the target is [flat-footed](/Conditions.aspx?ID=16) until the end of the shootist's turn, or until the end of the shootist's next turn on a critical hit.\r\n\r\n**Reloading Trick** <actions string=\"Two Actions\" />  **Requirements** The shootist is holding an unloaded repeating hand crossbow; **Effect** The shootist [Interacts](/Actions.aspx?ID=705) to reload the repeating hand crossbow and Strikes with it.\r\n\r\n**Shootist's Draw** <actions string=\"Single Action\" />  **Frequency** once per round; **Effect** The shootist Interacts to draw a repeating hand crossbow and Strikes with it, or Strikes with a loaded repeating hand crossbow they're holding then Interacts to stow it.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The shootist deals an extra 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Shootist Entourages</title>\r\n\r\nMany drow shootists have a magnetic bravado that draws others to follow and learn from them. Few shootists are as skilled at teaching as they are at fighting, however, and their followers aren't much more than an entourage. These hangers-on are rarely as lucky or quick as the shootist, so shootists lose their followers to monsters or mischance with startling frequency.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-37\" />",
+ "name": "Drow Shootist",
+ "npc": false,
+ "perception": 16,
+ "rarity": "uncommon",
+ "reflex_save": 17,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 83</row>\r\n\r\n**Creature Family** [Drow](/MonsterFamilies.aspx?ID=37)\r\n\r\n<row gap=\"medium\">\r\n**HP** 120\r\n\r\n**AC** 27\r\n\r\n**Fort** +15\r\n\r\n**Ref** +17\r\n\r\n**Will** +16\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe rare few drow who specialize in the repeating hand crossbow command respect not only for their skills but for their luck and swagger.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +16",
+  "Deception +16",
+  "Intimidation +14",
+  "Stealth +17",
+  "Thievery +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +16, [Deception](/Skills.aspx?ID=5) +16, [Intimidation](/Skills.aspx?ID=7) +14, [Stealth](/Skills.aspx?ID=15) +17, [Thievery](/Skills.aspx?ID=17) +17",
+ "source": [
+  "Pathfinder #165: Eyes of Empty Death"
+ ],
+ "source_raw": [
+  "Pathfinder #165: Eyes of Empty Death pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 83</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Darkness",
+  "Faerie Fire",
+  "Dancing Lights"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Darkness](/Spells.aspx?ID=59), [Faerie Fire](/Spells.aspx?ID=107)",
+ "spoilers": "Abomination Vaults",
+ "stealth": "17",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The rare few drow who specialize in the repeating hand crossbow command respect not only for their skills but for their luck and swagger.",
+ "summary_markdown": "The rare few drow who specialize in the repeating hand crossbow command respect not only for their skills but for their luck and swagger.",
+ "text": " Drow Shootist The rare few drow who specialize in the repeating hand crossbow command respect not only for their skills but for their luck and swagger. Recall Knowledge - Humanoid (Society): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Drow Shootist Source Pathfinder #165: Eyes of Empty Death pg. 83 Perception +16; darkvision Languages Elven, Undercommon Skills Acrobatics +19, Athletics +16, Deception +16, Intimidation +14, Stealth +17, Thievery +17 Str +2 Dex +5 Con +1 Int +0 Wis +4 Cha +2 Light Blindness Items +1 repeating hand crossbow (4 magazines), rapier, shootist bandolier, stupor poison (4), studded leather armor --- AC 27 Fort +15 Ref +17 Will +16 +1 status to all saves vs. magic, +2 status to all saves vs. mental HP 120 Immunities sleep Shootist's Luck Reaction (fortune) Trigger The shootist fails a save &lt;%END>; Frequency once per day; Effect The shootist rerolls the save and uses the better result. --- Speed 30 feet Melee Single Action rapier + 18 (deadly d8, Disarm, Finesse), Damage 1d6+9 piercing Ranged Single Action repeating hand crossbow +20 (range increment 60 feet, reload 0 [3 to reload magazine], Repeating), Damage 1d6+9 piercing plus stupor poison Divine Innate Spells DC 24 - Cantrips (4th) Dancing Lights - 2nd Darkness (at will), Faerie Fire (at will) Distracting Shot Two Actions The shootist takes aim and makes a ranged Strike. If the attack hits and deals damage, the target is flat-footed until the end of the shootist's turn, or until the end of the shootist's next turn on a critical hit. Reloading Trick Two Actions Requirements The shootist is holding an unloaded repeating hand crossbow; Effect The shootist Interacts to reload the repeating hand crossbow and Strikes with it. Shootist's Draw Single Action Frequency once per round; Effect The shootist Interacts to draw a repeating hand crossbow and Strikes with it, or Strikes with a loaded repeating hand crossbow they're holding then Interacts to stow it. Sneak Attack The shootist deals an extra 2d6 precision damage to flat-footed creatures. Shootist Entourages Many drow shootists have a magnetic bravado that draws others to follow and learn from them. Few shootists are as skilled at teaching as they are at fighting, however, and their followers aren't much more than an entourage. These hangers-on are rarely as lucky or quick as the shootist, so shootists lose their followers to monsters or mischance with startling frequency. ",
+ "trait": [
+  "Drow",
+  "Elf",
+  "Humanoid",
+  "Uncommon",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Drow](/Traits.aspx?ID=51), [Elf](/Traits.aspx?ID=58), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Drow",
+  "Elf",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1387",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 4
+}

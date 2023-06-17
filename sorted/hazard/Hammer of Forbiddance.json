@@ -1,0 +1,57 @@
+{
+ "ac": 32,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "Thievery  DC 28 (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging",
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hardness": 22,
+ "hardness_raw": "22 Hammer Hardness",
+ "hazard_type": "Trap",
+ "hp": 88,
+ "hp_raw": "88 (44); <b>Joint Hardness</b> 16, <b>Joint HP</b> 64 (BT 32)",
+ "id": "hazard-13",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 11,
+ "markdown": "<title level=\"1\" right=\"Hazard 11\" pfs=\"\">[Hammer of Forbiddance](/Hazards.aspx?ID=13)</title>\r\n\r\n<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 525 <sup>4.0</sup></row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nAn enormous hammer at an edifice’s entrance swings down in an attempt to damage a creature entering an area, push it back, and prevent it from going any further.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 30 (expert)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 28 (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging\n\n<column gap=\"tiny\">\r\n\r\n**AC** 32, **Fort** +24, **Ref** +15\r\n\r\n**Hammer Hardness**\r\n22\r\n\r\n**Hammer HP**\r\n88 (44); **Joint Hardness** 16, **Joint HP** 64 (BT 32)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Forbid Entry** <actions string=\"Reaction\" /> (abjuration, attack, divine); **Trigger** A creature attempts to enter through the entrance. **Effect** The hammer swings down, making an attack against the triggering creature.<br /> **Melee** hammer +28, **Damage** 6d8+20 bludgeoning plus the target is knocked back 10 feet and must succeed at a DC 30 Will save or be unable to enter the edifice through any entrance for 24 hours (on a critical hit, the target automatically fails the Will save); no multiple attack penalty\n\n---\r\n**Reset**\r\nThe trap resets over the course of the round, and is ready to swing again 1 round later.",
+ "name": "Hammer of Forbiddance",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2019-08-01",
+ "reset": "The trap resets over the course of the round, and is ready to swing again 1 round later.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 525 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn enormous hammer at an edifice’s entrance swings down in an attempt to damage a creature entering an area, push it back, and prevent it from going …\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 525"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 525 <sup>4.0</sup></row>",
+ "speed": {},
+ "stealth": "DC 30 (expert)",
+ "summary": "An enormous hammer at an edifice’s entrance swings down in an attempt to damage a creature entering an area, push it back, and prevent it from going …",
+ "summary_markdown": "An enormous hammer at an edifice’s entrance swings down in an attempt to damage a creature entering an area, push it back, and prevent it from going …",
+ "text": " Hammer of Forbiddance Source Core Rulebook pg. 525 4.0 Complexity Simple An enormous hammer at an edifice’s entrance swings down in an attempt to damage a creature entering an area, push it back, and prevent it from going any further. --- Stealth DC 30 (expert) Disable Thievery DC 28 (expert) once on the hammer itself and once on its joint to prevent the hammer from swinging AC 32, Fort +24, Ref +15 Hammer Hardness 22 Hammer HP 88 (44); Joint Hardness 16, Joint HP 64 (BT 32) Immunities critical hits, object immunities, precision damage Forbid Entry Reaction (abjuration, attack, divine); Trigger A creature attempts to enter through the entrance. Effect The hammer swings down, making an attack against the triggering creature. Melee hammer +28, Damage 6d8+20 bludgeoning plus the target is knocked back 10 feet and must succeed at a DC 30 Will save or be unable to enter the edifice through any entrance for 24 hours (on a critical hit, the target automatically fails the Will save); no multiple attack penalty --- Reset The trap resets over the course of the round, and is ready to swing again 1 round later.",
+ "trait": [
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Magical](/Traits.aspx?ID=103), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=13",
+ "weakness": {}
+}

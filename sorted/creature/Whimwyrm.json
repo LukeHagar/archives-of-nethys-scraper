@@ -1,0 +1,136 @@
+{
+ "ac": 42,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 6,
+ "creature_ability": [
+  "Fog Vision",
+  "Attack of Opportunity",
+  "Mind-Numbing Breath",
+  "Meddling Tail"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 280,
+ "hp_raw": "280",
+ "id": "creature-2211",
+ "image": [
+  "/Images/Monsters/Whimwyrm.png"
+ ],
+ "immunity": [
+  "confused",
+  "controlled",
+  "paralyzed",
+  "petrified",
+  "unconscious"
+ ],
+ "immunity_markdown": "[confused](/Conditions.aspx?ID=5), [controlled](/Conditions.aspx?ID=6), [paralyzed](/Conditions.aspx?ID=28), [petrified](/Conditions.aspx?ID=30), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 5,
+ "language": [
+  "Common",
+  "Draconic",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"\">[Whimwyrm](/Monsters.aspx?ID=2211)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhimwyrms are unpredictable dragons native to the whimsically dangerous [First World](/Planes.aspx?ID=10). While their coloration and appearance might evoke reactions of adoration, their moods shift quickly from one extreme to the other. Many who have assumed that their adorability and relatively small size equates to safety have met swift and grisly ends on a whimwyrm's fangs or magic.\n\n A whimwyrm is a slender, sleek dragon, not much longer than seven feet from snout to tail, but its speed in combat is unnerving. When a whimwyrm attacks, be it with its fanged mouth or its long tail, it makes several quick, darting snaps or lashes at once. While stylistically, these attacks consist of multiple bites or lashings, they still resolve as a single Strike.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Whimwyrm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Whimwyrm](/Monsters.aspx?ID=2211)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 615</row>\n\n**Perception** +31; [darkvision](/MonsterAbilities.aspx?ID=12), fog vision, [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +34, [Athletics](/Skills.aspx?ID=3) +30, [Deception](/Skills.aspx?ID=5) +32, [Intimidation](/Skills.aspx?ID=7) +30, [Nature](/Skills.aspx?ID=10) +30, [Performance](/Skills.aspx?ID=12) +35, [Stealth](/Skills.aspx?ID=15) +34, [Survival](/Skills.aspx?ID=16) +29\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +9\r\n\r\n**Con** +6\r\n\r\n**Int** +5\r\n\r\n**Wis** +6\r\n\r\n**Cha** +7\r\n</row>\r\n\r\n**Fog Vision** Fog and mist doesn't impair a whimwyrm's vision; it ignores the [concealed](/Conditions.aspx?ID=4) condition from fog and mist.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 42 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +34 \r\n\r\n**Will** +29 \n\n</row>\r\n\r\n**HP** 280\n\n**Immunities**\r\n[confused](/Conditions.aspx?ID=5), [controlled](/Conditions.aspx?ID=6), [paralyzed](/Conditions.aspx?ID=28), [petrified](/Conditions.aspx?ID=30), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\n[mental](/Traits.aspx?ID=106) 15\r\n\r\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 15\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> Fangs only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfrenzied fangs +35 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d12+12 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwhiplashing tail +35 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+12 slashing\r\n\r\n**Arcane Innate Spells** DC 38, attack +30\r\n- **Cantrips (8th)**\r\n[Dancing Lights](/Spells.aspx?ID=58), [Ghost Sound](/Spells.aspx?ID=132), [Message](/Spells.aspx?ID=190), [Telekinetic Projectile](/Spells.aspx?ID=334)\r\n- **7th**\r\n[Prismatic Spray](/Spells.aspx?ID=233), [Warp Mind](/Spells.aspx?ID=369)\r\n- **8th**\r\n[Illusory Scene](/Spells.aspx?ID=161), [Scintillating Pattern](/Spells.aspx?ID=267)\r\n- **9th**\r\n[Cloudkill](/Spells.aspx?ID=42), [Duplicate Foe](/Spells.aspx?ID=93)\r\n\r\n**Mind-Numbing Breath** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106)) The whimwyrm exhales a 40-foot cone of sparkling magenta mist. Creatures within the area must attempt a DC 38 Will save as their minds are overwhelmed by a sudden riot of false (and typically unpleasant) memories, taking 10d12 mental damage depending on their save. The whimwyrm can't use mind-numbing breath for 1d4 rounds. <br />**Critical Success** The creature becomes outlined in sparkling dust, negating any [invisibility](/Conditions.aspx?ID=26) it has in effect for 1 round and takes no damage. <br />**Success** The creature takes half damage, and its invisibility is negated for 2 rounds. <br />**Failure** The creature takes full damage, is [dazzled](/Conditions.aspx?ID=7) for 1 minute, and its invisibility is negated for 1 minute. <br />**Critical Failure** The creature takes double damage, is [blinded](/Conditions.aspx?ID=1) for 1 round, dazzled for 1 minute, and its invisibility is negated for 1 minute.\r\n\r\n**Meddling Tail** <actions string=\"Reaction\" />  **Trigger** The whimwyrm damages a creature with its whiplashing tail Strike; **Effect** The whimwyrm can attempt to [Disarm](/Actions.aspx?ID=41), [Shove](/Actions.aspx?ID=38), or [Trip](/Actions.aspx?ID=40) the damaged creature.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Insult Challenges</title>\r\n\r\nWhen a whimwyrm's insults result in combat, it rolls [Performance](/Skills.aspx?ID=12) for initiative. A PC who engaged in the insults can roll Performance as well, and if they insulted the whimwyrm, it begins the combat [stunned 1](/Conditions.aspx?ID=36) as it sputters in indignation if the Performance check also exceeds the Whimwyrm's Will DC of 39.\r\n</aside>",
+ "name": "Whimwyrm",
+ "npc": false,
+ "perception": 31,
+ "rarity": "rare",
+ "reflex_save": 34,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "mental": 15
+ },
+ "resistance_markdown": "[mental](/Traits.aspx?ID=106) 15",
+ "resistance_raw": " mental  15",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 615</row>\n\n<row gap=\"medium\">\r\n**HP** 280\r\n\r\n**AC** 42\r\n\r\n**Fort** +29\r\n\r\n**Ref** +34\r\n\r\n**Will** +29\r\n\r\n**Perception** +31\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhimwyrms are unpredictable dragons native to the whimsically dangerous  First World . While their coloration and appearance might evoke reactions of …\r\n</summary>",
+ "sense": " darkvision , fog vision,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), fog vision, [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +34",
+  "Athletics +30",
+  "Deception +32",
+  "Intimidation +30",
+  "Nature +30",
+  "Performance +35",
+  "Stealth +34",
+  "Survival +29"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +34, [Athletics](/Skills.aspx?ID=3) +30, [Deception](/Skills.aspx?ID=5) +32, [Intimidation](/Skills.aspx?ID=7) +30, [Nature](/Skills.aspx?ID=10) +30, [Performance](/Skills.aspx?ID=12) +35, [Stealth](/Skills.aspx?ID=15) +34, [Survival](/Skills.aspx?ID=16) +29",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 615"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 615</row>",
+ "speed": {
+  "fly": 60,
+  "land": 30,
+  "max": 60
+ },
+ "speed_markdown": "30 feet, fly 60 feet",
+ "speed_raw": "30 feet, fly 60 feet",
+ "spell": [
+  "Cloudkill",
+  "Duplicate Foe",
+  "Illusory Scene",
+  "Scintillating Pattern",
+  "Prismatic Spray",
+  "Warp Mind",
+  "Dancing Lights",
+  "Ghost Sound",
+  "Message",
+  "Telekinetic Projectile"
+ ],
+ "spell_markdown": "[Cloudkill](/Spells.aspx?ID=42), [Dancing Lights](/Spells.aspx?ID=58), [Duplicate Foe](/Spells.aspx?ID=93), [Ghost Sound](/Spells.aspx?ID=132), [Illusory Scene](/Spells.aspx?ID=161), [Message](/Spells.aspx?ID=190), [Prismatic Spray](/Spells.aspx?ID=233), [Scintillating Pattern](/Spells.aspx?ID=267), [Telekinetic Projectile](/Spells.aspx?ID=334), [Warp Mind](/Spells.aspx?ID=369)",
+ "spoilers": "Kingmaker",
+ "stealth": "34",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Whimwyrms are unpredictable dragons native to the whimsically dangerous  First World . While their coloration and appearance might evoke reactions of …",
+ "summary_markdown": "Whimwyrms are unpredictable dragons native to the whimsically dangerous  First World . While their coloration and appearance might evoke reactions of …",
+ "text": " Whimwyrm Whimwyrms are unpredictable dragons native to the whimsically dangerous First World. While their coloration and appearance might evoke reactions of adoration, their moods shift quickly from one extreme to the other. Many who have assumed that their adorability and relatively small size equates to safety have met swift and grisly ends on a whimwyrm's fangs or magic. A whimwyrm is a slender, sleek dragon, not much longer than seven feet from snout to tail, but its speed in combat is unnerving. When a whimwyrm attacks, be it with its fanged mouth or its long tail, it makes several quick, darting snaps or lashes at once. While stylistically, these attacks consist of multiple bites or lashings, they still resolve as a single Strike. Recall Knowledge - Dragon (Arcana): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Whimwyrm Source Kingmaker Adventure Path pg. 615 Perception +31; darkvision, fog vision, scent (imprecise) 30 feet Languages Common, Draconic, Sylvan Skills Acrobatics +34, Athletics +30, Deception +32, Intimidation +30, Nature +30, Performance +35, Stealth +34, Survival +29 Str +5 Dex +9 Con +6 Int +5 Wis +6 Cha +7 Fog Vision Fog and mist doesn't impair a whimwyrm's vision; it ignores the concealed condition from fog and mist. --- AC 42 Fort +29 Ref +34 Will +29 HP 280 Immunities confused, controlled, paralyzed, petrified, unconscious Resistances mental 15 Weaknesses cold iron 15 Attack of Opportunity Reaction Fangs only. --- Speed 30 feet, fly 60 feet Melee Single Action frenzied fangs +35 (Finesse), Damage 3d12+12 piercing Melee Single Action whiplashing tail +35 (Agile, Finesse, reach 10 feet), Damage 3d8+12 slashing Arcane Innate Spells DC 38, attack +30 - Cantrips (8th) Dancing Lights, Ghost Sound, Message, Telekinetic Projectile - 7th Prismatic Spray, Warp Mind - 8th Illusory Scene, Scintillating Pattern - 9th Cloudkill, Duplicate Foe Mind-Numbing Breath Two Actions (Arcane, Enchantment, Mental) The whimwyrm exhales a 40-foot cone of sparkling magenta mist. Creatures within the area must attempt a DC 38 Will save as their minds are overwhelmed by a sudden riot of false (and typically unpleasant) memories, taking 10d12 mental damage depending on their save. The whimwyrm can't use mind-numbing breath for 1d4 rounds. Critical Success The creature becomes outlined in sparkling dust, negating any invisibility it has in effect for 1 round and takes no damage. Success The creature takes half damage, and its invisibility is negated for 2 rounds. Failure The creature takes full damage, is dazzled for 1 minute, and its invisibility is negated for 1 minute. Critical Failure The creature takes double damage, is blinded for 1 round, dazzled for 1 minute, and its invisibility is negated for 1 minute. Meddling Tail Reaction Trigger The whimwyrm damages a creature with its whiplashing tail Strike; Effect The whimwyrm can attempt to Disarm, Shove, or Trip the damaged creature. Insult Challenges When a whimwyrm's insults result in combat, it rolls Performance for initiative. A PC who engaged in the insults can roll Performance as well, and if they insulted the whimwyrm, it begins the combat stunned 1 as it sputters in indignation if the Performance check also exceeds the Whimwyrm's Will DC of 39. ",
+ "trait": [
+  "Air",
+  "Dragon",
+  "Rare",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Dragon](/Traits.aspx?ID=50), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Air",
+  "Dragon",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2211",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 15
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 15",
+ "weakness_raw": " cold iron  15",
+ "will_save": 29,
+ "wisdom": 6
+}

@@ -1,0 +1,58 @@
+{
+ "ac": 18,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 18  Thievery  (trained) to safely puncture a pipe, or DC 16  Engineering Lore  (trained) to find and turn a pressure release valve; any combination of three punctured pipes or turned valves disables the trap",
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hardness": 7,
+ "hardness_raw": "7 Tank Hardness",
+ "hazard_type": "Trap",
+ "hp": 50,
+ "hp_raw": "50 (BT 25); <b>Pipe Hardness</b> 7, <b>Pipe HP</b> 30 (BT 15)",
+ "id": "hazard-351",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 2,
+ "markdown": "<title level=\"1\" right=\"Hazard 2\" pfs=\"\">[Reservoir Trap](/Hazards.aspx?ID=351)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 26</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nPipes extending from a pressurized water tank spray fesh-cutting jets of water at unwary passersby.\r\n\r\n---\r\n\r\n**Stealth**\r\n+11 (trained); DC 19 (expert) to notice the water tank bulging under the immense pressure\r\n\r\n**Disable**\r\nDC 18 [Thievery](/Skills.aspx?ID=17) (trained) to safely puncture a pipe, or DC 16 [Engineering Lore](/Skills.aspx?ID=8) (trained) to find and turn a pressure release valve; any combination of three punctured pipes or turned valves disables the trap\n\n<column gap=\"tiny\">\r\n\r\n**AC** 18, **Fort** +11, **Ref** +3\r\n\r\n**Tank Hardness**\r\n7\r\n\r\n**Tank HP**\r\n50 (BT 25); **Pipe Hardness** 7, **Pipe HP** 30 (BT 15)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Water Jets** <actions string=\"Reaction\" /> **Trigger** A creature steps on a floor space in this room; **Effect** Seals on the water pipes burst, issuing forth high-pressure water jets in random directions. The hazard makes a water jet Strike against the triggering creature. The hazard rolls initiative. Violent Deluge <actions string=\"Reaction\" /> **Trigger** The water tank is broken or destroyed; **Effect** A torrent of water bursts from the shattered tank, dealing 3d8 bludgeoning damage to each creature within 15 feet (basic DC 22 Refex save). The trap is then disabled.\n\n---\r\n**Routine**\r\n(3 actions) For each pipe destroyed or disabled, the trap loses 1 action. On each of the trap's actions, the trap targets a random creature in the room with a water jet Strike.<br /> **Ranged** water jet +11 ([water](/Traits.aspx?ID=165)), Damage 2d8 piercing; no multiple attack penalty\r\n\r\n---\r\n**Reset**\r\nThe trap deactivates after 5 rounds. It cannot be reactivated until the reservoir is ref lled, which takes an average of 5 days.",
+ "name": "Reservoir Trap",
+ "rarity": "common",
+ "reflex_save": 3,
+ "release_date": "2023-01-25",
+ "reset": "The trap deactivates after 5 rounds. It cannot be reactivated until the reservoir is ref lled, which takes an average of 5 days.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 26</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPipes extending from a pressurized water tank spray fesh-cutting jets of water at unwary passersby.\r\n</summary>",
+ "source": [
+  "Pathfinder #187: The Seventh Arch"
+ ],
+ "source_raw": [
+  "Pathfinder #187: The Seventh Arch pg. 26"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 26</row>",
+ "speed": {},
+ "stealth": "+11 (trained); DC 19 (expert) to notice the water tank bulging under the immense pressure",
+ "summary": "Pipes extending from a pressurized water tank spray fesh-cutting jets of water at unwary passersby.",
+ "summary_markdown": "Pipes extending from a pressurized water tank spray fesh-cutting jets of water at unwary passersby.",
+ "text": " Reservoir Trap Source Pathfinder #187: The Seventh Arch pg. 26 Complexity Complex Pipes extending from a pressurized water tank spray fesh-cutting jets of water at unwary passersby. --- Stealth +11 (trained); DC 19 (expert) to notice the water tank bulging under the immense pressure Disable DC 18 Thievery (trained) to safely puncture a pipe, or DC 16 Engineering Lore (trained) to find and turn a pressure release valve; any combination of three punctured pipes or turned valves disables the trap AC 18, Fort +11, Ref +3 Tank Hardness 7 Tank HP 50 (BT 25); Pipe Hardness 7, Pipe HP 30 (BT 15) Immunities critical hits, object immunities, precision damage Water Jets Reaction Trigger A creature steps on a floor space in this room; Effect Seals on the water pipes burst, issuing forth high-pressure water jets in random directions. The hazard makes a water jet Strike against the triggering creature. The hazard rolls initiative. Violent Deluge Reaction Trigger The water tank is broken or destroyed; Effect A torrent of water bursts from the shattered tank, dealing 3d8 bludgeoning damage to each creature within 15 feet (basic DC 22 Refex save). The trap is then disabled. --- Routine (3 actions) For each pipe destroyed or disabled, the trap loses 1 action. On each of the trap's actions, the trap targets a random creature in the room with a water jet Strike. Ranged water jet +11 (water), Damage 2d8 piercing; no multiple attack penalty --- Reset The trap deactivates after 5 rounds. It cannot be reactivated until the reservoir is ref lled, which takes an average of 5 days.",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=351",
+ "weakness": {}
+}

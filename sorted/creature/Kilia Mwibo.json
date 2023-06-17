@@ -1,0 +1,113 @@
+{
+ "ac": 36,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Emotion Sense",
+  "Despairing Presence",
+  "Attack of Opportunity",
+  "Constrict",
+  "Consume Emotion"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 345,
+ "hp_raw": "345",
+ "id": "creature-1665",
+ "image": [
+  "/Images/Monsters/KiliaMwibo.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "precision",
+  "vision-based effects"
+ ],
+ "immunity_markdown": "critical hits, precision, vision-based effects",
+ "intelligence": -2,
+ "language": [
+  "Sylvan",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Sylvan](/Languages.aspx?ID=10); (can't speak any language)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Kilia Mwibo](/Monsters.aspx?ID=1665)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBeautiful and dangerous, kilia mwibos appear as lush, green trees with brightly colored and appealing fleshy seedpods that remain attached year round. Over time, these seedpods become hollow and create an eerie, forlorn wail that generates feelings of sadness and despair.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/KiliaMwibo.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Kilia Mwibo](/Monsters.aspx?ID=1665)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 84</row>\n\n**Perception** +26; emotion sense 60 feet\r\n\r\n**Languages**\r\n[Sylvan](/Languages.aspx?ID=10); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +30, [Deception](/Skills.aspx?ID=5) +25, [Stealth](/Skills.aspx?ID=15) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Emotion Sense** A kilia mwibo can sense nearby negative emotions. This is a precise sense against creatures who are under powerful [emotion](/Traits.aspx?ID=60) effects like [rage](/Actions.aspx?ID=3), those who are [frightened](/Conditions.aspx?ID=19), or, at the GM's discretion, those who are in the grips of hatred, sadness, or other overwhelming negative emotions. Against all other creatures that possess emotions, this is an imprecise sense. A creature that has no emotions is effectively invisible to a kilia mwibo. A creature that knows about emotion sense can take precautions to [Hide](/Actions.aspx?ID=62) and [Sneak](/Actions.aspx?ID=63) from a kilia mwibo, in this case by suppressing feelings of negativity. You can flnd more details on hiding from special senses [here](/Rules.aspx?ID=414).\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 345\n\n**Immunities**\r\ncritical hits, precision, vision-based effects\r\n\r\n**Resistances**\r\n[sonic](/Traits.aspx?ID=147) 15\r\n\r\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 15, slashing 15\r\n\r\n**Despairing Presence** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [fear](/Traits.aspx?ID=68), [incapacitation](/Traits.aspx?ID=93), [mental](/Traits.aspx?ID=106), [primal](/Traits.aspx?ID=134)) 60 feet. A creature that enters the emanation or starts its turn within it tumbles down a deep well of dread and must attempt a DC 33 Will save. <br />**Critical Success** The target is unaffected. <br />**Success** The target becomes [frightened 1](/Conditions.aspx?ID=19). <br />**Failure** The target becomes frightened 2. <br />**Critical Failure** The target becomes frightened 3 and [immobilized](/Conditions.aspx?ID=24) until it's no longer frightened.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> Frond only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfrond +30 ([deadly d12](/Traits.aspx?ID=174), [reach 15 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 3d10+15 slashing plus 1d6 bleed and [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nroot +28 ([reach 20 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 3d8+15 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthorn +28 ([deadly d12](/Traits.aspx?ID=174), [range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d6+15 piercing\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d12+15, DC 36\r\n\r\n**Consume Emotion** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Mental](/Traits.aspx?ID=106), [Necromancy](/Traits.aspx?ID=117)) The kilia mwibo feeds on the negative emotions of a creature within 60 feet; this must be a creature that it can precisely sense with its emotion sense. The target must succeed at a DC 36 Will save or increase its [drained](/Conditions.aspx?ID=10) condition value by 1 (by 2 on a critical failure), to a maximum of drained 4.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Fear Feeders</title>\r\n\r\nInstead of drawing sustenance from light and soil, kilia mwibos gorge themselves on the negative emotions of creatures, eventually draining them of their life force and discarding their carcasses. When creatures recognize the true nature of the kilia mwibos and attempt to flee, the trees send out buried roots to trip and slow them down before grabbing them with their thorny fronds.\r\n</aside>",
+ "name": "Kilia Mwibo",
+ "npc": false,
+ "perception": 26,
+ "rarity": "uncommon",
+ "reflex_save": 29,
+ "release_date": "2021-10-13",
+ "resistance": {
+  "sonic": 15
+ },
+ "resistance_markdown": "[sonic](/Traits.aspx?ID=147) 15",
+ "resistance_raw": " sonic  15",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 84</row>\n\n<row gap=\"medium\">\r\n**HP** 345\r\n\r\n**AC** 36\r\n\r\n**Fort** +24\r\n\r\n**Ref** +29\r\n\r\n**Will** +26\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBeautiful and dangerous, kilia mwibos appear as lush, green trees with brightly colored and appealing fleshy seedpods that remain attached year …\r\n</summary>",
+ "sense": "emotion sense 60 feet",
+ "sense_markdown": "emotion sense 60 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +30",
+  "Deception +25",
+  "Stealth +28"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +30, [Deception](/Skills.aspx?ID=5) +25, [Stealth](/Skills.aspx?ID=15) +28",
+ "source": [
+  "Pathfinder #172: Secrets of the Temple City"
+ ],
+ "source_raw": [
+  "Pathfinder #172: Secrets of the Temple City pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 84</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "stealth": "28",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Beautiful and dangerous, kilia mwibos appear as lush, green trees with brightly colored and appealing fleshy seedpods that remain attached year …",
+ "summary_markdown": "Beautiful and dangerous, kilia mwibos appear as lush, green trees with brightly colored and appealing fleshy seedpods that remain attached year …",
+ "text": " Kilia Mwibo Beautiful and dangerous, kilia mwibos appear as lush, green trees with brightly colored and appealing fleshy seedpods that remain attached year round. Over time, these seedpods become hollow and create an eerie, forlorn wail that generates feelings of sadness and despair. Recall Knowledge - Plant (Nature): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Kilia Mwibo Source Pathfinder #172: Secrets of the Temple City pg. 84 Perception +26; emotion sense 60 feet Languages Sylvan; (can't speak any language) Skills Athletics +30, Deception +25, Stealth +28 Str +7 Dex +5 Con +3 Int -2 Wis +5 Cha +0 Emotion Sense A kilia mwibo can sense nearby negative emotions. This is a precise sense against creatures who are under powerful emotion effects like rage, those who are frightened, or, at the GM's discretion, those who are in the grips of hatred, sadness, or other overwhelming negative emotions. Against all other creatures that possess emotions, this is an imprecise sense. A creature that has no emotions is effectively invisible to a kilia mwibo. A creature that knows about emotion sense can take precautions to Hide and Sneak from a kilia mwibo, in this case by suppressing feelings of negativity. You can flnd more details on hiding from special senses here. --- AC 36 Fort +24 Ref +29 Will +26 HP 345 Immunities critical hits, precision, vision-based effects Resistances sonic 15 Weaknesses fire 15, slashing 15 Despairing Presence (aura, emotion, enchantment, fear, incapacitation, mental, primal) 60 feet. A creature that enters the emanation or starts its turn within it tumbles down a deep well of dread and must attempt a DC 33 Will save. Critical Success The target is unaffected. Success The target becomes frightened 1. Failure The target becomes frightened 2. Critical Failure The target becomes frightened 3 and immobilized until it's no longer frightened. Attack of Opportunity Reaction Frond only. --- Speed 25 feet Melee Single Action frond +30 (deadly d12, reach 15 feet, Sweep, versatile P), Damage 3d10+15 slashing plus 1d6 bleed and Improved Grab Melee Single Action root +28 (reach 20 feet, Sweep, Trip), Damage 3d8+15 bludgeoning Ranged Single Action thorn +28 (deadly d12, range increment 60 feet), Damage 3d6+15 piercing Constrict Single Action 2d12+15, DC 36 Consume Emotion Two Actions (Divine, Mental, Necromancy) The kilia mwibo feeds on the negative emotions of a creature within 60 feet; this must be a creature that it can precisely sense with its emotion sense. The target must succeed at a DC 36 Will save or increase its drained condition value by 1 (by 2 on a critical failure), to a maximum of drained 4. Fear Feeders Instead of drawing sustenance from light and soil, kilia mwibos gorge themselves on the negative emotions of creatures, eventually draining them of their life force and discarding their carcasses. When creatures recognize the true nature of the kilia mwibos and attempt to flee, the trees send out buried roots to trip and slow them down before grabbing them with their thorny fronds. ",
+ "trait": [
+  "Plant",
+  "Uncommon",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Plant",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1665",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "fire": 15,
+  "slashing": 15
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 15, slashing 15",
+ "weakness_raw": " fire  15, slashing 15",
+ "will_save": 26,
+ "wisdom": 5
+}

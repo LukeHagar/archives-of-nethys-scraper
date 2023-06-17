@@ -1,0 +1,57 @@
+{
+ "ac": 21,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Thievery  DC 21 (trained) twice on the pillar, or Thievery DC 19 (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).",
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hardness": 12,
+ "hardness_raw": "12 Pillar Hardness",
+ "hazard_type": "Trap",
+ "hp": 48,
+ "hp_raw": "48 (BT 24); <b>Panel Hardness</b> 5, <b>Panel HP</b> 20 (BT 10)",
+ "id": "hazard-23",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 4,
+ "markdown": "<title level=\"1\" right=\"Hazard 4\" pfs=\"\">[Spinning Blade Pillar](/Hazards.aspx?ID=23)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 527 <sup>4.0</sup></row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA metal pole with three razor-sharp spinning blades is hidden in the floor, connected to trigger plates in up to eight floor tiles and a hidden control panel within 30 feet.\r\n\r\n---\r\n\r\n**Stealth**\r\n+11 (trained) or DC 26 (expert) to notice the control panel\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 21 (trained) twice on the pillar, or Thievery DC 19 (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).\n\n<column gap=\"tiny\">\r\n\r\n**AC** 21, **Fort** +10, **Ref** +12\r\n\r\n**Pillar Hardness**\r\n12\r\n\r\n**Pillar HP**\r\n48 (BT 24); **Panel Hardness** 5, **Panel HP** 20 (BT 10)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Rising Pillar** <actions string=\"Reaction\" /> (attack); **Trigger** A creature steps on one of the trapped floor tiles. **Effect** The trap pops up in a grid intersection and makes a spinning blade attack against one adjacent creature (if any), then rolls initiative.\n\n---\r\n**Routine**\r\n(3 actions) The trap uses its first action to make a spinning blade Strike against each adjacent creature, its second action to move straight in a random direction (roll 1d4 to determine the direction), and its third action to make a spinning blade Strike against each adjacent creature. This trap doesn’t take a multiple attack penalty.<br />**Speed** 10 feet<br />**Melee** <actions string=\"Single Action\" /> spinning blade +12, **Damage** 2d10+5 slashing\r\n\r\n---\r\n**Reset**\r\nThe trap deactivates and resets after 1 minute.",
+ "name": "Spinning Blade Pillar",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-08-01",
+ "reset": "The trap deactivates and resets after 1 minute.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 527 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA metal pole with three razor-sharp spinning blades is hidden in the floor, connected to trigger plates in up to eight floor tiles and a hidden …\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 527"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 527 <sup>4.0</sup></row>",
+ "speed": {},
+ "stealth": "+11 (trained) or DC 26 (expert) to notice the control panel",
+ "summary": "A metal pole with three razor-sharp spinning blades is hidden in the floor, connected to trigger plates in up to eight floor tiles and a hidden …",
+ "summary_markdown": "A metal pole with three razor-sharp spinning blades is hidden in the floor, connected to trigger plates in up to eight floor tiles and a hidden …",
+ "text": " Spinning Blade Pillar Source Core Rulebook pg. 527 4.0 Complexity Complex A metal pole with three razor-sharp spinning blades is hidden in the floor, connected to trigger plates in up to eight floor tiles and a hidden control panel within 30 feet. --- Stealth +11 (trained) or DC 26 (expert) to notice the control panel Disable Thievery DC 21 (trained) twice on the pillar, or Thievery DC 19 (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below). AC 21, Fort +10, Ref +12 Pillar Hardness 12 Pillar HP 48 (BT 24); Panel Hardness 5, Panel HP 20 (BT 10) Immunities critical hits, object immunities, precision damage Rising Pillar Reaction (attack); Trigger A creature steps on one of the trapped floor tiles. Effect The trap pops up in a grid intersection and makes a spinning blade attack against one adjacent creature (if any), then rolls initiative. --- Routine (3 actions) The trap uses its first action to make a spinning blade Strike against each adjacent creature, its second action to move straight in a random direction (roll 1d4 to determine the direction), and its third action to make a spinning blade Strike against each adjacent creature. This trap doesn’t take a multiple attack penalty. Speed 10 feet Melee Single Action spinning blade +12, Damage 2d10+5 slashing --- Reset The trap deactivates and resets after 1 minute.",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=23",
+ "weakness": {}
+}

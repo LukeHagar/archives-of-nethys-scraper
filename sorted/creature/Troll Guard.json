@@ -1,0 +1,100 @@
+{
+ "ac": 35,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 8,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Vigorous Shake",
+  "Rend",
+  "Axe Critical Specialization",
+  "Forced Regeneration",
+  "Primordial Roar",
+  "Twin Chop"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 340,
+ "hp_raw": "340",
+ "id": "creature-2329",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Jotun"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Troll Guard](/Monsters.aspx?ID=2329)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\n\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 37\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 34\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Troll Guard](/Monsters.aspx?ID=2329)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 383</row>\n\n**Perception** +27; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +31, [Intimidation](/Skills.aspx?ID=7) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +8\r\n\r\n**Int** +0\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_[+1 striking](/Equipment.aspx?ID=380) [battleaxes](/Weapons.aspx?ID=16) (2)_, _[+2 resilient](/Equipment.aspx?ID=147) [full plate](/Armor.aspx?ID=13)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +27 \n\n</row>\r\n\r\n**HP** 340\r\n\r\n, regeneration 40 (deactivated by acid or fire)\n\n**Weaknesses**\r\nfire 15\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /><br />**Vigorous Shake** <actions string=\"Reaction\" /> **Trigger** The troll king takes persistent acid or fire damage. **Effect** The troll king shakes itself to remove persistent acid or fire effects. The troll king immediately attempts a DC 15 flat check to end the persistent damage that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_battleaxe_ +31 ([reach 10 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 4d8+16 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +30 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+16 piercing\n\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  battleaxe\r\n\r\n**Axe Critical Specialization**   The troll guard has access to [axe](/WeaponGroups.aspx?ID=1) critical specialization effects.\r\n\r\n**Forced Regeneration** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) **Requirements** The troll king's regeneration is not currently deactivated. **Effect** The troll king regains 20 HP.\r\n\r\n**Primordial Roar** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 29 Will save. The creature is then temporarily immune for 10 minutes.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature is [frightened](/Conditions.aspx?ID=19) 1.<br /> **Failure** The creature is frightened 2.<br /> **Critical Failure** The creature is frightened 3.\r\n\r\n**Twin Chop** <actions string=\"Single Action\" />  **Frequency** once per round; **Effect** The troll guard lashes out at two foes with its axes. The troll guard attempts two battleaxe Strikes, each of which must target a different foe within reach. These attacks count toward the troll's multiple attack penalty, but the multiple attack penalty doesn't increase until after the troll makes both attacks.\r\n\r\n</column>",
+ "name": "Troll Guard",
+ "npc": false,
+ "perception": 27,
+ "rarity": "rare",
+ "reflex_save": 23,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 383</row>\n\n<row gap=\"medium\">\r\n**HP** 340\r\n\r\n**AC** 35\r\n\r\n**Fort** +29\r\n\r\n**Ref** +23\r\n\r\n**Will** +27\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +31",
+  "Intimidation +27"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +31, [Intimidation](/Skills.aspx?ID=7) +27",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 383"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 383</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Troll Guard Unspecific Lore : DC 37 Specific Lore : DC 34 Troll Guard Source Kingmaker Adventure Path pg. 383 Perception +27; darkvision Languages Common, Jotun Skills Athletics +31, Intimidation +27 Str +8 Dex +4 Con +8 Int +0 Wis +6 Cha +4 Items +1 striking battleaxes (2) , +2 resilient full plate --- AC 35 Fort +29 Ref +23 Will +27 HP 340 , regeneration 40 (deactivated by acid or fire) Weaknesses fire 15 Attack of Opportunity Reaction Vigorous Shake Reaction Trigger The troll king takes persistent acid or fire damage. Effect The troll king shakes itself to remove persistent acid or fire effects. The troll king immediately attempts a DC 15 flat check to end the persistent damage that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction. --- Speed 30 feet Melee Single Action battleaxe +31 (reach 10 feet, Sweep), Damage 4d8+16 slashing Melee Single Action jaws +30 (reach 10 feet), Damage 3d12+16 piercing Rend Single Action battleaxe Axe Critical Specialization The troll guard has access to axe critical specialization effects. Forced Regeneration Single Action (Concentrate) Requirements The troll king's regeneration is not currently deactivated. Effect The troll king regains 20 HP. Primordial Roar Two Actions (Auditory, Emotion, Fear, Mental) The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 29 Will save. The creature is then temporarily immune for 10 minutes. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure The creature is frightened 3. Twin Chop Single Action Frequency once per round; Effect The troll guard lashes out at two foes with its axes. The troll guard attempts two battleaxe Strikes, each of which must target a different foe within reach. These attacks count toward the troll's multiple attack penalty, but the multiple attack penalty doesn't increase until after the troll makes both attacks. ",
+ "trait": [
+  "Giant",
+  "Rare",
+  "Troll",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Rare](/Traits.aspx?ID=137), [Troll](/Traits.aspx?ID=241)",
+ "trait_raw": [
+  "Giant",
+  "Rare",
+  "Troll"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2329",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 15
+ },
+ "weakness_markdown": "fire 15",
+ "weakness_raw": "fire 15",
+ "will_save": 27,
+ "wisdom": 6
+}

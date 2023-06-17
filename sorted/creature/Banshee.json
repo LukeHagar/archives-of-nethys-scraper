@@ -1,0 +1,136 @@
+{
+ "ac": 39,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 2,
+ "creature_ability": [
+  "Hears Heartbeats",
+  "Sunlight Powerlessness",
+  "Vengeful Spite",
+  "Spectral Ripple",
+  "Terrifying Touch",
+  "Wail"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 250,
+ "hp_raw": "250 ( negative healing )",
+ "id": "creature-39",
+ "image": [
+  "/Images/Monsters/Banshee.png"
+ ],
+ "immunity": [
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Elven"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Banshee](/Monsters.aspx?ID=39)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBanshees are the furious, tormented souls of elves bound to the Material Plane by a betrayal that defined the final hours of their lives. Some banshees arise from elves who were slain by trusted friends and allies, or whose loved ones betrayed them on their deathbeds. Others spawn from elves whose treacherous deeds shortly before their deaths left a stain upon their souls. Regardless of their origin, banshees despise the living. This hatred of life is all too often a horrific inversion of their personalities in life. Some speculate that the more kind-hearted the elf (and the more wrenching the betrayal), the crueler the banshee.\n\n Banshees rarely stray far from where they perished and typically haunt thick forests and canopied swamps where little light graces the ground. Many banshees can be found in the elven nation of Kyonin, specifically in Tanglebriar, the sinister domain of the demon Treerazer. Similarly, a large number of banshees can be found lurking about the edges of drow settlements in the Darklands, as plenty of cruelty and betrayal exists in drow culture.\n\n Banshees’ mere touch inflicts pain and primal fear, and those exposed to their wails of grief rarely survive the experience.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 38\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Banshee.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Banshee](/Monsters.aspx?ID=39)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 34</row>\n\n**Perception** +32; hears heartbeats (imprecise) 60 feet, darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +31, [Intimidation](/Skills.aspx?ID=7) +32, [Occultism](/Skills.aspx?ID=11) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +6\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +7\r\n\r\n**Cha** +7\r\n</row>\r\n\r\n**Hears Heartbeats** The banshee can hear heartbeats within 60 feet (imprecise).<br /> **Sunlight Powerlessness** If in direct sunlight, the banshee is slowed 1 and can’t use actions that have the attack trait.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +32 \n\n</row>\r\n\r\n**HP** 250\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\n\n**Resistances**\r\nall damage 12 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\n\n**Vengeful Spite** <actions string=\"Reaction\" /> ([evocation](/Traits.aspx?ID=65), [occult](/Traits.aspx?ID=120)); **Trigger** A foe critically hits the banshee, or the banshee critically fails their save against a foe’s damaging effect. **Effect** The banshee lashes back at their tormentor, dealing 4d10+14 mental damage (DC 38 basic Will save) and applying the effects of terrifying touch based on the results of the same Will save.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhand +32 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 4d10+14 negative plus terrifying touch\n\n**Spectral Ripple**   When a banshee Strides at least 10 feet, they’re concealed until the start of their next turn.\r\n\r\n**Terrifying Touch**  ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Occult](/Traits.aspx?ID=120)) A creature damaged by the banshee’s touch that isn’t already [frightened](/Conditions.aspx?ID=19) must attempt a DC 38 Will save (DC 43 if the attack was a critical hit). If the creature fails its save, it’s [frightened 2](/Conditions.aspx?ID=19); on a critical failure, the creature also cowers with fear and is [stunned 4](/Conditions.aspx?ID=36). If the creature is protected against fear by a spell or magic item, the banshee’s touch first attempts to counteract the protection effect, with the effect of a 9th-level [_dispel magic_](/Spells.aspx?ID=78) spell.\r\n\r\n**Wail** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Death](/Traits.aspx?ID=40), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) The banshee unleashes a soul-chilling _[wail of the banshee](/Spells.aspx?ID=361)_ (DC 38). This Wail overcomes _[silence](/Spells.aspx?ID=287)_ and similar effects of 5th level or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th level.<br /> The banshee’s Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can’t be affected more than once by the same Wail. The banshee can’t Wail again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Born from Tragedy</title>\r\n\r\nThe banshee represents one of the most tragic of undead, a soul so wracked with agony and fury over a betrayal in life that, in death, it lingers on as a great evil. That most of those who become banshees were not evil in life only deepens this tragic theme, and many elven adventurers see it as their duty not only to put banshees to rest, but to right the wrong that saw their creation in the first place.\r\n</aside>",
+ "name": "Banshee",
+ "npc": false,
+ "perception": 32,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 29,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "acid": 12,
+  "all": 12,
+  "area": 12,
+  "bleed": 12,
+  "bludgeoning": 12,
+  "chaotic": 12,
+  "cold": 12,
+  "cold_iron": 12,
+  "electricity": 12,
+  "evil": 12,
+  "fire": 12,
+  "good": 12,
+  "lawful": 12,
+  "mental": 12,
+  "negative": 12,
+  "orichalcum": 12,
+  "physical": 12,
+  "piercing": 12,
+  "poison": 12,
+  "precision": 12,
+  "silver": 12,
+  "slashing": 12,
+  "sonic": 12,
+  "splash": 12
+ },
+ "resistance_markdown": "all damage 12 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\r\n",
+ "resistance_raw": "all damage 12 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )\r\n",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 34</row>\n\n<row gap=\"medium\">\r\n**HP** 250 ( negative healing )\r\n\r\n**AC** 39\r\n\r\n**Fort** +25\r\n\r\n**Ref** +29\r\n\r\n**Will** +32\r\n\r\n**Perception** +32\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBanshees are the furious, tormented souls of elves bound to the Material Plane by a betrayal that defined the final hours of their lives. Some …\r\n</summary>",
+ "sense": "hears heartbeats (imprecise) 60 feet, darkvision",
+ "sense_markdown": "hears heartbeats (imprecise) 60 feet, darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +31",
+  "Intimidation +32",
+  "Occultism +25"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +31, [Intimidation](/Skills.aspx?ID=7) +32, [Occultism](/Skills.aspx?ID=11) +25",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 34"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 34</row>",
+ "speed": {
+  "fly": 60,
+  "max": 60
+ },
+ "speed_markdown": "fly 60 feet",
+ "speed_raw": "fly 60 feet",
+ "spell_markdown": "",
+ "strength": -5,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Banshees are the furious, tormented souls of elves bound to the Material Plane by a betrayal that defined the final hours of their lives. Some …",
+ "summary_markdown": "Banshees are the furious, tormented souls of elves bound to the Material Plane by a betrayal that defined the final hours of their lives. Some …",
+ "text": " Banshee Banshees are the furious, tormented souls of elves bound to the Material Plane by a betrayal that defined the final hours of their lives. Some banshees arise from elves who were slain by trusted friends and allies, or whose loved ones betrayed them on their deathbeds. Others spawn from elves whose treacherous deeds shortly before their deaths left a stain upon their souls. Regardless of their origin, banshees despise the living. This hatred of life is all too often a horrific inversion of their personalities in life. Some speculate that the more kind-hearted the elf (and the more wrenching the betrayal), the crueler the banshee. Banshees rarely stray far from where they perished and typically haunt thick forests and canopied swamps where little light graces the ground. Many banshees can be found in the elven nation of Kyonin, specifically in Tanglebriar, the sinister domain of the demon Treerazer. Similarly, a large number of banshees can be found lurking about the edges of drow settlements in the Darklands, as plenty of cruelty and betrayal exists in drow culture. Banshees’ mere touch inflicts pain and primal fear, and those exposed to their wails of grief rarely survive the experience. Recall Knowledge - Spirit (Occultism): DC 38 Recall Knowledge - Undead (Religion): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Banshee Source Bestiary pg. 34 Perception +32; hears heartbeats (imprecise) 60 feet, darkvision Languages Common, Elven Skills Acrobatics +31, Intimidation +32, Occultism +25 Str -5 Dex +6 Con +2 Int +0 Wis +7 Cha +7 Hears Heartbeats The banshee can hear heartbeats within 60 feet (imprecise). Sunlight Powerlessness If in direct sunlight, the banshee is slowed 1 and can’t use actions that have the attack trait. --- AC 39 Fort +25 Ref +29 Will +32 HP 250 (negative healing) Immunities disease, paralyzed, poison, precision, unconscious Resistances all damage 12 (except force, ghost touch , or positive; double resistance vs. non-magical) Vengeful Spite Reaction (evocation, occult); Trigger A foe critically hits the banshee, or the banshee critically fails their save against a foe’s damaging effect. Effect The banshee lashes back at their tormentor, dealing 4d10+14 mental damage (DC 38 basic Will save) and applying the effects of terrifying touch based on the results of the same Will save. --- Speed fly 60 feet Melee Single Action hand +32 (Finesse, Magical), Damage 4d10+14 negative plus terrifying touch Spectral Ripple When a banshee Strides at least 10 feet, they’re concealed until the start of their next turn. Terrifying Touch (Emotion, Enchantment, Fear, Occult) A creature damaged by the banshee’s touch that isn’t already frightened must attempt a DC 38 Will save (DC 43 if the attack was a critical hit). If the creature fails its save, it’s frightened 2; on a critical failure, the creature also cowers with fear and is stunned 4. If the creature is protected against fear by a spell or magic item, the banshee’s touch first attempts to counteract the protection effect, with the effect of a 9th-level dispel magic spell. Wail Two Actions (Auditory, Concentrate, Death, Necromancy, Occult) The banshee unleashes a soul-chilling wail of the banshee (DC 38). This Wail overcomes silence and similar effects of 5th level or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th level. The banshee’s Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can’t be affected more than once by the same Wail. The banshee can’t Wail again for 1d4 rounds. Born from Tragedy The banshee represents one of the most tragic of undead, a soul so wracked with agony and fury over a betrayal in life that, in death, it lingers on as a great evil. That most of those who become banshees were not evil in life only deepens this tragic theme, and many elven adventurers see it as their duty not only to put banshees to rest, but to right the wrong that saw their creation in the first place. ",
+ "trait": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=39",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 32,
+ "wisdom": 7
+}

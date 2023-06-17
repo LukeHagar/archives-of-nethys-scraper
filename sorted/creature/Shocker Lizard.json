@@ -1,0 +1,98 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Greater Electrolocation",
+  "Amplify Voltage",
+  "Discharge",
+  "Shocking Burst"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 32,
+ "hp_raw": "32",
+ "id": "creature-802",
+ "image": [
+  "/Images/Monsters/ShockerLizard.png"
+ ],
+ "immunity": [
+  "electricity"
+ ],
+ "immunity_markdown": "electricity",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Shocker Lizard](/Monsters.aspx?ID=802)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese brightly colored reptiles share the rough size and pack mentality of guard dogs, roaming in small groups. Shocker lizards have specialized glands under their scales that accumulate static electricity, and they can unleash blasts of lightning strong enough to harm significantly larger foes. Though they're meek and docile when encountered alone, shocker lizards are significantly more aggressive in packs, when they can amplify each other's electrical attacks.\n\n Shocker lizards are notoriously difficult to domesticate because they're dangerously hostile as part of a pack, but will also swiftly wither and die if kept alone in captivity without constant attention. A shocker lizard is 3 feet long and weighs 25 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ShockerLizard.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Shocker Lizard](/Monsters.aspx?ID=802)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 240 <sup>2.0</sup></row>\n\n**Perception** +7; [low-light vision](/MonsterAbilities.aspx?ID=23), greater electrolocation 20 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Greater Electrolocation** A shocker lizard can sense minute electrical charges in living creatures, which it can use as a precise sense at a range of 20 feet. This distance increases to 100 feet against any creature that has used an [electricity](/Traits.aspx?ID=56) effect within the last minute.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 32\n\n**Immunities**\r\nelectricity\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, climb 15 feet, swim 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8+3 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nshock +10 ([Nonlethal](/Traits.aspx?ID=188), [range increment 5 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6 electricity\n\n**Amplify Voltage** <actions string=\"Reaction\" />  **Trigger** A shocker lizard within 20 feet makes a shock Strike or uses Discharge; **Effect** The shocker lizard lends some of its electrical power to the nearby lizard. This either causes the other lizard's shock Strike to lose the [nonlethal](/Traits.aspx?ID=188) trait or increases the DC of its Discharge to 20.\r\n\r\n**Discharge** <actions string=\"Two Actions\" /> ([Electricity](/Traits.aspx?ID=56)) The shocker lizard releases a blast of lightning from its body. Creatures within a 10-foot emanation take 3d6 electricity damage (DC 18 basic Reflex save). The shocker lizard can't use Discharge for 1d4 rounds.\r\n\r\n**Shocking Burst** <actions string=\"Three Actions\" /> ([Electricity](/Traits.aspx?ID=56), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The shocker lizard hunkers down and begins to spark with electricity, which it releases in a 10-foot emanation that deals 3d8 electricity damage (DC 18 basic Reflex save). The shocker lizard can't use Shocking Burst again for 1 minute.<br /> Up to four shocker lizards can combine their Shocking Bursts. In this case, the lizards can delay the release of their electricity until any other shocker lizard within 30 feet completes its Shocking Burst. The combined Shocking Bursts create an emanation with the combined area from all participating shocker lizards. For each additional shocker lizard that joins the burst, the damage increases by 3d8 and the save DC increases by 1 (to a maximum of four lizards dealing 12d8 damage with a DC 21 save).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Shocker Lizard Traps</title>\r\n\r\n[Kobolds](/MonsterFamilies.aspx?ID=65) are particularly fond of using shocker lizards in their trap designs, although such traps rarely keep the shocker lizards' safety and comfort in mind, forcing these cruel but creative kobolds to constantly replace the permanently restrained lizards they've set up to defend their lairs.\r\n</aside>",
+ "name": "Shocker Lizard",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 240 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 32\r\n\r\n**AC** 18\r\n\r\n**Fort** +7\r\n\r\n**Ref** +10\r\n\r\n**Will** +7\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese brightly colored reptiles share the rough size and pack mentality of guard dogs, roaming in small groups. Shocker lizards have specialized …\r\n</summary>",
+ "sense": " low-light vision , greater electrolocation 20 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), greater electrolocation 20 feet",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +5",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 240"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 240 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 15,
+  "land": 35,
+  "max": 35,
+  "swim": 15
+ },
+ "speed_markdown": "35 feet, climb 15 feet, swim 15 feet",
+ "speed_raw": "35 feet, climb 15 feet, swim 15 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "These brightly colored reptiles share the rough size and pack mentality of guard dogs, roaming in small groups. Shocker lizards have specialized …",
+ "summary_markdown": "These brightly colored reptiles share the rough size and pack mentality of guard dogs, roaming in small groups. Shocker lizards have specialized …",
+ "text": " Shocker Lizard These brightly colored reptiles share the rough size and pack mentality of guard dogs, roaming in small groups. Shocker lizards have specialized glands under their scales that accumulate static electricity, and they can unleash blasts of lightning strong enough to harm significantly larger foes. Though they're meek and docile when encountered alone, shocker lizards are significantly more aggressive in packs, when they can amplify each other's electrical attacks. Shocker lizards are notoriously difficult to domesticate because they're dangerously hostile as part of a pack, but will also swiftly wither and die if kept alone in captivity without constant attention. A shocker lizard is 3 feet long and weighs 25 pounds. Recall Knowledge - Animal (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Shocker Lizard Source Bestiary 2 pg. 240 2.0 Perception +7; low-light vision, greater electrolocation 20 feet Languages Skills Acrobatics +8, Athletics +5, Stealth +8 Str +1 Dex +4 Con +3 Int -4 Wis +3 Cha +0 Greater Electrolocation A shocker lizard can sense minute electrical charges in living creatures, which it can use as a precise sense at a range of 20 feet. This distance increases to 100 feet against any creature that has used an electricity effect within the last minute. --- AC 18 Fort +7 Ref +10 Will +7 HP 32 Immunities electricity --- Speed 35 feet, climb 15 feet, swim 15 feet Melee Single Action jaws +10 (Agile, Finesse), Damage 1d8+3 piercing Ranged Single Action shock +10 (Nonlethal, range increment 5 feet), Damage 2d6 electricity Amplify Voltage Reaction Trigger A shocker lizard within 20 feet makes a shock Strike or uses Discharge; Effect The shocker lizard lends some of its electrical power to the nearby lizard. This either causes the other lizard's shock Strike to lose the nonlethal trait or increases the DC of its Discharge to 20. Discharge Two Actions (Electricity) The shocker lizard releases a blast of lightning from its body. Creatures within a 10-foot emanation take 3d6 electricity damage (DC 18 basic Reflex save). The shocker lizard can't use Discharge for 1d4 rounds. Shocking Burst Three Actions (Electricity, Evocation, Primal) The shocker lizard hunkers down and begins to spark with electricity, which it releases in a 10-foot emanation that deals 3d8 electricity damage (DC 18 basic Reflex save). The shocker lizard can't use Shocking Burst again for 1 minute. Up to four shocker lizards can combine their Shocking Bursts. In this case, the lizards can delay the release of their electricity until any other shocker lizard within 30 feet completes its Shocking Burst. The combined Shocking Bursts create an emanation with the combined area from all participating shocker lizards. For each additional shocker lizard that joins the burst, the damage increases by 3d8 and the save DC increases by 1 (to a maximum of four lizards dealing 12d8 damage with a DC 21 save). Shocker Lizard Traps Kobolds are particularly fond of using shocker lizards in their trap designs, although such traps rarely keep the shocker lizards' safety and comfort in mind, forcing these cruel but creative kobolds to constantly replace the permanently restrained lizards they've set up to defend their lairs. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=802",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 3
+}

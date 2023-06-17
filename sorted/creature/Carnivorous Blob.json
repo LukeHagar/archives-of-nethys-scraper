@@ -1,0 +1,106 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 6,
+ "creature_ability": [
+  "Motion Sense",
+  "Split",
+  "Reactive Strikes",
+  "Carnivorous Blob Acid",
+  "Constrict",
+  "Engulf"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": -3,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 300,
+ "hp_raw": "300",
+ "id": "creature-755",
+ "image": [
+  "/Images/Monsters/Ooze_CarnivorousBlob.png"
+ ],
+ "immunity": [
+  "acid",
+  "critical hits",
+  "mental",
+  "piercing",
+  "precision",
+  "slashing",
+  "sonic",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "acid, critical hits, [mental](/Traits.aspx?ID=106), piercing, precision, slashing, sonic, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Carnivorous Blob](/Monsters.aspx?ID=755)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCarnivorous blobs are the ravenous spawn of shattered worlds far beyond the stars, born across the galaxy in inert form until they fall like meteorites onto unsuspecting worlds. These massive beings can lie dormant for years in desolate caverns or barren wastelands. When a carnivorous blob perceives living creatures nearby, it lurches to gelatinous life, seeking out and consuming every creature it can catch until it is destroyed or until it has been unable to locate food for 24 hours, at which point it returns to hibernation. Often, keeping food away from a carnivorous blob is the safest way to defeat it. The blob's ability to split into smaller oozes that might stay hidden after a fight means it can be hard to fully eradicate these mindless predators.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 31\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 29\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 26\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ooze_CarnivorousBlob.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Carnivorous Blob](/Monsters.aspx?ID=755)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 195 <sup>2.0</sup></row>\n\n**Perception** +23; motion sense 240 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** -3\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A carnivorous blob can sense nearby creatures through vibration and air or water movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 300\n\n**Immunities**\r\nacid, critical hits, [mental](/Traits.aspx?ID=106), piercing, precision, slashing, sonic, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Split** When a carniverous blob that has 10 or more HP is hit by an attack that would deal piercing or slashing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push).<br />**Reactive Strikes** <actions string=\"Reaction\" /> **Trigger** The carnivorous blob takes damage from any source; **Effect** The blob makes a pseudopod Strike against an adjacent target. If an adjacent creature dealt the triggering damage, that creature is the target of this Reactive Strike.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +26 ([reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+12 bludgeoning plus 2d6 acid and [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Carnivorous Blob Acid**   A carnivorous blob's acid damages only flesh—not bone, stone, wood, or other materials— but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude save or become [drained 1](/Conditions.aspx?ID=10) (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d12 bludgeoning plus 2d6 acid, DC 33\r\n\r\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Two Actions\" />  DC 33, 4d10 acid, Escape DC 33, Rupture 20\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Carnivorous Blob",
+ "npc": false,
+ "perception": 23,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 195 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 300\r\n\r\n**AC** 20\r\n\r\n**Fort** +25\r\n\r\n**Ref** +14\r\n\r\n**Will** +19\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCarnivorous blobs are the ravenous spawn of shattered worlds far beyond the stars, born across the galaxy in inert form until they fall like …\r\n</summary>",
+ "sense": "motion sense 240 feet, no vision",
+ "sense_markdown": "motion sense 240 feet, no vision",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +27"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +27",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 195"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 195 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet, swim 20 feet",
+ "speed_raw": "20 feet, climb 20 feet, swim 20 feet",
+ "spell_markdown": "",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Carnivorous blobs are the ravenous spawn of shattered worlds far beyond the stars, born across the galaxy in inert form until they fall like …",
+ "summary_markdown": "Carnivorous blobs are the ravenous spawn of shattered worlds far beyond the stars, born across the galaxy in inert form until they fall like …",
+ "text": " Carnivorous Blob Carnivorous blobs are the ravenous spawn of shattered worlds far beyond the stars, born across the galaxy in inert form until they fall like meteorites onto unsuspecting worlds. These massive beings can lie dormant for years in desolate caverns or barren wastelands. When a carnivorous blob perceives living creatures nearby, it lurches to gelatinous life, seeking out and consuming every creature it can catch until it is destroyed or until it has been unable to locate food for 24 hours, at which point it returns to hibernation. Often, keeping food away from a carnivorous blob is the safest way to defeat it. The blob's ability to split into smaller oozes that might stay hidden after a fight means it can be hard to fully eradicate these mindless predators. Recall Knowledge - Ooze (Occultism): DC 31 Unspecific Lore : DC 29 Specific Lore : DC 26 Carnivorous Blob Source Bestiary 2 pg. 195 2.0 Perception +23; motion sense 240 feet, no vision Languages Skills Athletics +27 Str +8 Dex -3 Con +6 Int -5 Wis +0 Cha -5 Motion Sense A carnivorous blob can sense nearby creatures through vibration and air or water movement. --- AC 20 Fort +25 Ref +14 Will +19 HP 300 Immunities acid, critical hits, mental, piercing, precision, slashing, sonic, unconscious, visual Split When a carniverous blob that has 10 or more HP is hit by an attack that would deal piercing or slashing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push). Reactive Strikes Reaction Trigger The carnivorous blob takes damage from any source; Effect The blob makes a pseudopod Strike against an adjacent target. If an adjacent creature dealt the triggering damage, that creature is the target of this Reactive Strike. --- Speed 20 feet, climb 20 feet, swim 20 feet Melee Single Action pseudopod +26 (reach 30 feet), Damage 2d12+12 bludgeoning plus 2d6 acid and Grab Carnivorous Blob Acid A carnivorous blob's acid damages only flesh—not bone, stone, wood, or other materials— but is nonetheless devastating. Whenever a creature takes damage from this acid, it must succeed at a DC 33 Fortitude save or become drained 1 (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4. Constrict Single Action 2d12 bludgeoning plus 2d6 acid, DC 33 Engulf Two Actions DC 33, 4d10 acid, Escape DC 33, Rupture 20 ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=755",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 0
+}

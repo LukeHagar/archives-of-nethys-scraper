@@ -1,0 +1,58 @@
+{
+ "ac": 10,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 26  Thievery  (Trained) to disconnect the wire to the counterweight, preventing it from falling, or DC 20  Crafting  ( Alchemical Crafting ) to create a counteragent to the sleeping gas",
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hardness": 10,
+ "hardness_raw": "10",
+ "hazard_type": "Trap",
+ "hp": 40,
+ "hp_raw": "40 (BT 2)",
+ "id": "hazard-164",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 5,
+ "markdown": "<title level=\"1\" right=\"Hazard 5\" pfs=\"\">[Subduing Gas Chamber](/Hazards.aspx?ID=164)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 62</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA mechanical sensor in the desk drawer releases a counterweight in the wall, which slams the door shut and opens the sleeping gas tank under the bed, allowing gas to fill the air-tight room with a hissing sound.\r\n\r\n---\r\n\r\n**Stealth**\r\n+10 (Expert)\r\n\r\n**Disable**\r\nDC 26 [Thievery](/Skills.aspx?ID=17) (Trained) to disconnect the wire to the counterweight, preventing it from falling, or DC 20 [Crafting](/Skills.aspx?ID=4) ([Alchemical Crafting](/Feats.aspx?ID=752)) to create a counteragent to the sleeping gas\n\n<column gap=\"tiny\">\r\n\r\n**AC** 10, **Fort** +15, **Ref** +9\r\n\r\n**Hardness**\r\n10\r\n\r\n**HP**\r\n40 (BT 2)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Slam Door** <actions string=\"Reaction\" /> **Trigger** A creature opens the desk drawer without holding the release button under the desk; **Effect** The wooden door to the room slams shut and locks, and the trap rolls initiative.\n\n---\r\n**Routine**\r\n(1 action) Each round on its initiative count, the trap pumps more sleeping gas into the room. Any breathing creature in the room is exposed to the toxin. If a creature acts before the trap on the first round, it has the option of holding its breath to postpone breathing in the poison—holding one's breath after the trap's first action has no effect, since the air in the creature's lungs is already tainted. The trap functions for 1 minute before all the gas is expended, after which it rapidly decays over the next minute. Opening the door to an adjacent room cuts the remaining time it takes for the gas to decay in half but exposes creatures in that room as well.<br /> **Sleeping Gas** ([inhaled](/Traits.aspx?ID=96), [poison](/Traits.aspx?ID=126)) **Saving Throw** DC 22 Fortitude; **Maximum Duration** 4 hours; **Stage 1** slowed 1 (1 round); **Stage 2** [unconscious](/Conditions.aspx?ID=38) with no Perception check to wake up (1 round); **Stage 3** unconscious with no Perception check to wake up (1 hour)\r\n\r\n---\r\n**Reset**\r\nThe gas must be manually reloaded.",
+ "name": "Subduing Gas Chamber",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2022-04-27",
+ "reset": "The gas must be manually reloaded.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 62</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA mechanical sensor in the desk drawer releases a counterweight in the wall, which slams the door shut and opens the sleeping gas tank under the bed, …\r\n</summary>",
+ "source": [
+  "Pathfinder #178: Punks in a Powderkeg"
+ ],
+ "source_raw": [
+  "Pathfinder #178: Punks in a Powderkeg pg. 62"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 62</row>",
+ "speed": {},
+ "stealth": "+10 (Expert)",
+ "summary": "A mechanical sensor in the desk drawer releases a counterweight in the wall, which slams the door shut and opens the sleeping gas tank under the bed, …",
+ "summary_markdown": "A mechanical sensor in the desk drawer releases a counterweight in the wall, which slams the door shut and opens the sleeping gas tank under the bed, …",
+ "text": " Subduing Gas Chamber Source Pathfinder #178: Punks in a Powderkeg pg. 62 Complexity Complex A mechanical sensor in the desk drawer releases a counterweight in the wall, which slams the door shut and opens the sleeping gas tank under the bed, allowing gas to fill the air-tight room with a hissing sound. --- Stealth +10 (Expert) Disable DC 26 Thievery (Trained) to disconnect the wire to the counterweight, preventing it from falling, or DC 20 Crafting (Alchemical Crafting) to create a counteragent to the sleeping gas AC 10, Fort +15, Ref +9 Hardness 10 HP 40 (BT 2) Immunities critical hits, object immunities, precision damage Slam Door Reaction Trigger A creature opens the desk drawer without holding the release button under the desk; Effect The wooden door to the room slams shut and locks, and the trap rolls initiative. --- Routine (1 action) Each round on its initiative count, the trap pumps more sleeping gas into the room. Any breathing creature in the room is exposed to the toxin. If a creature acts before the trap on the first round, it has the option of holding its breath to postpone breathing in the poison—holding one's breath after the trap's first action has no effect, since the air in the creature's lungs is already tainted. The trap functions for 1 minute before all the gas is expended, after which it rapidly decays over the next minute. Opening the door to an adjacent room cuts the remaining time it takes for the gas to decay in half but exposes creatures in that room as well. Sleeping Gas (inhaled, poison) Saving Throw DC 22 Fortitude; Maximum Duration 4 hours; Stage 1 slowed 1 (1 round); Stage 2 unconscious with no Perception check to wake up (1 round); Stage 3 unconscious with no Perception check to wake up (1 hour) --- Reset The gas must be manually reloaded.",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=164",
+ "weakness": {}
+}

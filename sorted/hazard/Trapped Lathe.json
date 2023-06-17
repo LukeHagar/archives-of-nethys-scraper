@@ -1,0 +1,57 @@
+{
+ "ac": 30,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Thievery  DC 31 (expert) on the lathe releases the tension on its springs without unleashing its blades and gears.",
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hardness": 18,
+ "hardness_raw": "18",
+ "hazard_type": "Trap",
+ "hp": 72,
+ "hp_raw": "72 (BT36)",
+ "id": "hazard-72",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 10,
+ "markdown": "<title level=\"1\" right=\"Hazard 10\" pfs=\"\">[Trapped Lathe](/Hazards.aspx?ID=72)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 7</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThe powered lathe's springs have been critically overwound so that when jostled or triggered, the lathe unwinds violently, hurling blades, gears, and sharp shards of metal around the room.\r\n\r\n---\r\n\r\n**Stealth**\r\n+19 (expert); DC 29 to notice the line of cord running from the lathe's trigger toward the door to area A2.\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 31 (expert) on the lathe releases the tension on its springs without unleashing its blades and gears.\n\n<column gap=\"tiny\">\r\n\r\n**AC** 30, **Fort** +22, **Ref** +14\r\n\r\n**Hardness**\r\n18\r\n\r\n**HP**\r\n72 (BT36)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Unleash Fragments** <actions string=\"Reaction\" /> **Trigger** The lathe is jostled or damaged, or its trigger is remotely pulled. **Effect** The trap makes a sharpened fragment Strike against a random target in area A1, then rolls for initiative.\n\n---\r\n**Routine**\r\n(4 actions) The lathe attempts four sharpened fragment attacks against creatures in the room, selecting a target randomly from all available targets in area A1. The trap does not take multiple attack penalties for any of its attacks. The trap loses 1 action each turn as its springs wind down, and becomes disabled when it has 0 actions.\n\n **Ranged** <actions string=\"Single Action\" /> sharpened fragment +26, Damage 2d8+12 slashing plus 1d8 [persistent bleed damage](/Conditions.aspx?ID=29) on a critical hit",
+ "name": "Trapped Lathe",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2019-09-18",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 7</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe powered lathe's springs have been critically overwound so that when jostled or triggered, the lathe unwinds violently, hurling blades, gears, and …\r\n</summary>",
+ "source": [
+  "Pathfinder #147: Tomorrow Must Burn"
+ ],
+ "source_raw": [
+  "Pathfinder #147: Tomorrow Must Burn pg. 7"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 7</row>",
+ "speed": {},
+ "stealth": "+19 (expert); DC 29 to notice the line of cord running from the lathe's trigger toward the door to area A2.",
+ "summary": "The powered lathe's springs have been critically overwound so that when jostled or triggered, the lathe unwinds violently, hurling blades, gears, and …",
+ "summary_markdown": "The powered lathe's springs have been critically overwound so that when jostled or triggered, the lathe unwinds violently, hurling blades, gears, and …",
+ "text": " Trapped Lathe Source Pathfinder #147: Tomorrow Must Burn pg. 7 Complexity Complex The powered lathe's springs have been critically overwound so that when jostled or triggered, the lathe unwinds violently, hurling blades, gears, and sharp shards of metal around the room. --- Stealth +19 (expert); DC 29 to notice the line of cord running from the lathe's trigger toward the door to area A2. Disable Thievery DC 31 (expert) on the lathe releases the tension on its springs without unleashing its blades and gears. AC 30, Fort +22, Ref +14 Hardness 18 HP 72 (BT36) Immunities critical hits, object immunities, precision damage Unleash Fragments Reaction Trigger The lathe is jostled or damaged, or its trigger is remotely pulled. Effect The trap makes a sharpened fragment Strike against a random target in area A1, then rolls for initiative. --- Routine (4 actions) The lathe attempts four sharpened fragment attacks against creatures in the room, selecting a target randomly from all available targets in area A1. The trap does not take multiple attack penalties for any of its attacks. The trap loses 1 action each turn as its springs wind down, and becomes disabled when it has 0 actions. Ranged Single Action sharpened fragment +26, Damage 2d8+12 slashing plus 1d8 persistent bleed damage on a critical hit",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=72",
+ "weakness": {}
+}

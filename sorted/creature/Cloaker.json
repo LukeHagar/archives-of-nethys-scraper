@@ -1,0 +1,96 @@
+{
+ "ac": 22,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Shadow Shift",
+  "Envelop",
+  "Infrasonic Moan"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 80,
+ "hp_raw": "80",
+ "id": "creature-82",
+ "image": [
+  "/Images/Monsters/Cloaker.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Aklo",
+  "Undercommon"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Cloaker](/Monsters.aspx?ID=82)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWeird and paranoid creatures that dwell in the Darklands, cloakers resemble hideous, flying manta rays. Crafty and careful hunters, their motivations, their patterns of attack, and even their societies and history are often an inscrutable jumble of contradicting reports, confused rumors, and terrifying accounts.\n\n Like many of the stranger creatures of Golarion, cloakers were originally created by the alghollthus, who bred them to spy on their Azlanti thralls. Upon the fall of the Azlanti empire, the alghollthus cast out their cloaker creations, who, in turn, fled to the lower reaches of the Darklands. Amid the vaults and twisted corridors of their new home, their attitudes—particularly regarding their apprehension toward their former masters—changed dramatically. Suspicion became paranoia, egotism, sadism, and much worse. Now, most cloakers lead solitary lives, stalking the Darklands for easy prey and delving deeper into internal horrors. Their paranoia is so great that they interact only rarely even with their own kind, encountering another cloaker only briefly to mate before flitting back to isolation.\n\n But there are exceptions. Every so often, a charismatic cloaker priest can call together a dark cabal of these creatures and other Darklands denizens to worship unspeakable ancient gods. These rare cloakers whip their acolytes and followers into a frenzy of dark rituals and heinous acts. While these cults are depraved and destructive, they rarely survive longer than their founder.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Cloaker.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Cloaker](/Monsters.aspx?ID=82)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 65</row>\n\n**Perception** +12; darkvision\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Deception](/Skills.aspx?ID=5) +14, [Religion](/Skills.aspx?ID=13) +12, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Shadow Shift** Cloakers are concealed in dim light even to creatures with low-light vision and darkvision.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 80\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14,\r\n**Damage** 1d10+7 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +14 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+7 slashing\n\n**Envelop** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15), [Incapacitation](/Traits.aspx?ID=93)) The cloaker makes an attack roll with a +14 bonus against an adjacent creature’s Reflex DC. If it succeeds, it envelops the target, who is restrained. Attacks that hit an enveloping cloaker deal half their damage to the cloaker and half to the trapped victim. The cloaker can’t Fly, and when it moves using its land Speed it moves the enveloped creature with it. The cloaker can make only jaws Strikes against the restrained creature but can make tail Strikes against other creatures.<br />A creature that voluntarily puts on the cloaker becomes engulfed automatically. A cloaker can engulf only Large or smaller creatures, and no more than one creature at a time.\r\n\r\n**Infrasonic Moan** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106)) The cloaker lets out an infrasonic moan that has one of the effects below. A creature that succeeds at a DC 22 Will save is unaffected. Any creature that attempts this save becomes temporarily immune for 1 hour. Because the moan is infrasonic, most humanoids don’t detect the source of their plight if they aren’t already aware of the cloaker.<br />\n<ul><li>**Fear** (fear, incapacitation) Each creature within a 30-foot emanation becomes frightened 1 (or, on a critical failure, frightened 2 and fleeing until the end of its next turn).</li><li>**Nausea** Each creature within a 30-foot emanation falls prone and become sickened 2.</li><li>**Stupor** The cloaker targets a single creature within 30 feet. The creature becomes clumsy 1 and stupefied 1 for 1 minute.</li></ul>\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Cloaker Allies</title>\r\n\r\nOn the rare occasions that cloakers associate with other creatures, they tend to ally with those [ulat‑kinis](/Monsters.aspx?ID=3) who are no longer the thralls of the alghollthus and, rarely, with [deros](/Monsters.aspx?ID=107), though they consider the latter irrational and untrustworthy. Cloakers never willingly associate with alghollthus.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Cloaker Locations</title>\r\n\r\nCloakers isolate themselves within the deeper parts of the Darklands and are concentrated in Sekamina and Orv. They tend to avoid Nar‑Voth due to its proximity to the surface.\r\n</aside>",
+ "name": "Cloaker",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 65</row>\n\n<row gap=\"medium\">\r\n**HP** 80\r\n\r\n**AC** 22\r\n\r\n**Fort** +13\r\n\r\n**Ref** +12\r\n\r\n**Will** +12\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWeird and paranoid creatures that dwell in the Darklands, cloakers resemble hideous, flying manta rays. Crafty and careful hunters, their …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Deception +14",
+  "Religion +12",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Deception](/Skills.aspx?ID=5) +14, [Religion](/Skills.aspx?ID=13) +12, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 65"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 65</row>",
+ "speed": {
+  "fly": 30,
+  "land": 10,
+  "max": 30
+ },
+ "speed_markdown": "10 feet, fly 30 feet",
+ "speed_raw": "10 feet, fly 30 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Weird and paranoid creatures that dwell in the Darklands, cloakers resemble hideous, flying manta rays. Crafty and careful hunters, their …",
+ "summary_markdown": "Weird and paranoid creatures that dwell in the Darklands, cloakers resemble hideous, flying manta rays. Crafty and careful hunters, their …",
+ "text": " Cloaker Weird and paranoid creatures that dwell in the Darklands, cloakers resemble hideous, flying manta rays. Crafty and careful hunters, their motivations, their patterns of attack, and even their societies and history are often an inscrutable jumble of contradicting reports, confused rumors, and terrifying accounts. Like many of the stranger creatures of Golarion, cloakers were originally created by the alghollthus, who bred them to spy on their Azlanti thralls. Upon the fall of the Azlanti empire, the alghollthus cast out their cloaker creations, who, in turn, fled to the lower reaches of the Darklands. Amid the vaults and twisted corridors of their new home, their attitudes—particularly regarding their apprehension toward their former masters—changed dramatically. Suspicion became paranoia, egotism, sadism, and much worse. Now, most cloakers lead solitary lives, stalking the Darklands for easy prey and delving deeper into internal horrors. Their paranoia is so great that they interact only rarely even with their own kind, encountering another cloaker only briefly to mate before flitting back to isolation. But there are exceptions. Every so often, a charismatic cloaker priest can call together a dark cabal of these creatures and other Darklands denizens to worship unspeakable ancient gods. These rare cloakers whip their acolytes and followers into a frenzy of dark rituals and heinous acts. While these cults are depraved and destructive, they rarely survive longer than their founder. Recall Knowledge - Aberration (Occultism): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Cloaker Source Bestiary pg. 65 Perception +12; darkvision Languages Aklo, Undercommon Skills Deception +14, Religion +12, Stealth +14 Str +5 Dex +3 Con +4 Int +2 Wis +3 Cha +1 Shadow Shift Cloakers are concealed in dim light even to creatures with low-light vision and darkvision. --- AC 22 Fort +13 Ref +12 Will +12 HP 80 --- Speed 10 feet, fly 30 feet Melee Single Action jaws +14, Damage 1d10+7 piercing Melee Single Action tail +14 (Agile, reach 10 feet), Damage 2d6+7 slashing Envelop Single Action (Attack, Incapacitation) The cloaker makes an attack roll with a +14 bonus against an adjacent creature’s Reflex DC. If it succeeds, it envelops the target, who is restrained. Attacks that hit an enveloping cloaker deal half their damage to the cloaker and half to the trapped victim. The cloaker can’t Fly, and when it moves using its land Speed it moves the enveloped creature with it. The cloaker can make only jaws Strikes against the restrained creature but can make tail Strikes against other creatures. A creature that voluntarily puts on the cloaker becomes engulfed automatically. A cloaker can engulf only Large or smaller creatures, and no more than one creature at a time. Infrasonic Moan Two Actions (Auditory, Emotion, Mental) The cloaker lets out an infrasonic moan that has one of the effects below. A creature that succeeds at a DC 22 Will save is unaffected. Any creature that attempts this save becomes temporarily immune for 1 hour. Because the moan is infrasonic, most humanoids don’t detect the source of their plight if they aren’t already aware of the cloaker. Fear (fear, incapacitation) Each creature within a 30-foot emanation becomes frightened 1 (or, on a critical failure, frightened 2 and fleeing until the end of its next turn). Nausea Each creature within a 30-foot emanation falls prone and become sickened 2. Stupor The cloaker targets a single creature within 30 feet. The creature becomes clumsy 1 and stupefied 1 for 1 minute. Cloaker Allies On the rare occasions that cloakers associate with other creatures, they tend to ally with those ulat‑kinis who are no longer the thralls of the alghollthus and, rarely, with deros, though they consider the latter irrational and untrustworthy. Cloakers never willingly associate with alghollthus. Cloaker Locations Cloakers isolate themselves within the deeper parts of the Darklands and are concentrated in Sekamina and Orv. They tend to avoid Nar‑Voth due to its proximity to the surface. ",
+ "trait": [
+  "Aberration",
+  "CN",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=82",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 3
+}

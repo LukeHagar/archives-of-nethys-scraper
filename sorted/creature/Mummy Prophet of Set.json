@@ -1,0 +1,143 @@
+{
+ "ac": 33,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 5,
+ "creature_ability": [
+  "Sand Vision",
+  "Great Despair",
+  "Channel Rot",
+  "Breath of Sand",
+  "Sand Form",
+  "Sand Rot",
+  "Sandstorm"
+ ],
+ "creature_family": "Mummy",
+ "creature_family_markdown": "[Mummy](/MonsterFamilies.aspx?ID=74)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 250,
+ "hp_raw": "250 ( negative healing )",
+ "id": "creature-1887",
+ "image": [
+  "/Images/Monsters/Mummy_ProphetOfSet.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 6,
+ "language": [
+  "Necril",
+  "plus any two languages they knew while alive"
+ ],
+ "language_markdown": "[Necril](/Languages.aspx?ID=20); plus any two languages they knew while alive",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mummy Prophet of Set](/Monsters.aspx?ID=1887)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIn ancient Osirion, worshipers completely devoted to the evil god [Set](/Deities.aspx?ID=242) often underwent a mummification process to serve as his prophets after their death.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mummy_ProphetOfSet.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Mummy Prophet of Set](/Monsters.aspx?ID=1887)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mummy\" url=\"/Traits.aspx?ID=228\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 132</row>\n\n**Perception** +23; [darkvision](/MonsterAbilities.aspx?ID=12), sand vision\r\n\r\n**Languages**\r\n[Necril](/Languages.aspx?ID=20); plus any two languages they knew while alive\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +23, [Deception](/Skills.aspx?ID=5) +25, [Intimidation](/Skills.aspx?ID=7) +27, [Occultism](/Skills.aspx?ID=11) +25, [Religion](/Skills.aspx?ID=13) +27, [Society](/Skills.aspx?ID=14) +23, [Stealth](/Skills.aspx?ID=15) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** +6\r\n\r\n**Wis** +8\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Sand Vision** The prophet ignores the [concealed](/Conditions.aspx?ID=4) condition from particles of sand and dust in the air.\r\n\r\n**Items**\r\n[religious symbol](/Equipment.aspx?ID=41) of [Set](/Deities.aspx?ID=242), _+1 [striking](/Equipment.aspx?ID=280) [spear](/Weapons.aspx?ID=10)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +25 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 250\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 15\r\n\r\n**Great Despair** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [fear](/Traits.aspx?ID=68), [incapacitation](/Traits.aspx?ID=93), [mental](/Traits.aspx?ID=106)) 30 feet. Living creatures are [frightened 1](/Conditions.aspx?ID=19) while in an mummy prophet's great despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave it. When a creature first enters the area, it must succeed at a DC 31 Will save (after taking the penalty from being frightened) or be [paralyzed](/Conditions.aspx?ID=28) for 1d4 rounds. The creature is then temporarily immune for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_spear_ +25 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d6+11 piercing plus sand rot\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +24 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d4+11 bludgeoning plus sand rot\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspear +24 ([Magical](/Traits.aspx?ID=103), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 3d6+11 piercing plus sand rot\r\n\r\n**Divine Prepared Spells** DC 33, attack +25\r\n- **Cantrips (7th)**\r\n[Chill Touch](/Spells.aspx?ID=35), [Detect Magic](/Spells.aspx?ID=66), [Divine Lance](/Spells.aspx?ID=84), [Guidance](/Spells.aspx?ID=142), [Shield](/Spells.aspx?ID=280)\r\n- **1st**\r\n[Fear](/Spells.aspx?ID=110), [Penumbral Shroud](/Spells.aspx?ID=582), [Ray of Enfeeblement](/Spells.aspx?ID=244)\r\n- **2nd**\r\n[Death Knell](/Spells.aspx?ID=63) (×2), [See Invisibility](/Spells.aspx?ID=271)\r\n- **3rd**\r\n[Blindness](/Spells.aspx?ID=26), [Cup of Dust](/Spells.aspx?ID=572), [Chilling Darkness](/Spells.aspx?ID=36)\r\n- **4th**\r\n[Air Walk](/Spells.aspx?ID=6), [Freedom of Movement](/Spells.aspx?ID=128), [Resist Energy](/Spells.aspx?ID=256)\r\n- **5th**\r\n[Crisis of Faith](/Spells.aspx?ID=55), [Shadow Blast](/Spells.aspx?ID=273), [Wall of Flesh](/Spells.aspx?ID=727)\r\n- **6th**\r\n[Disintegrate](/Spells.aspx?ID=76) (×2), [Divine Wrath](/Spells.aspx?ID=86)\r\n- **7th**\r\n[Eclipse Burst](/Spells.aspx?ID=96) (×2), [Harm](/Spells.aspx?ID=146) (×7)\r\n\r\n**Channel Rot**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) The mummy prophet of Set can deliver devastating rot through melee weapons they wield.\r\n\r\n**Breath of Sand** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Earth](/Traits.aspx?ID=55), [Evocation](/Traits.aspx?ID=65), [Negative](/Traits.aspx?ID=118)) **Requirements** The prophet's Sandstorm is active; **Effect** The prophet inhales its Sandstorm, suppressing the effect until the end of the prophet's next turn. It then exhales a 120-foot cone of negatively charged sand that deals 7d6 negative and 7d6 slashing damage (DC 33 [basic](/Rules.aspx?ID=329) Reflex save).\r\n\r\n**Sand Form** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Earth](/Traits.aspx?ID=55), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) **Frequency** once per day; **Effect** The prophet loses their coherent from and becomes an animated pile of sand. While in this form, the prophet gains resistance 10 to physical damage and is immune to precision damage. They can't cast spells, activate items, or use actions that have the [attack](/Traits.aspx?ID=15) or [manipulate](/Traits.aspx?ID=104) trait. They gain a fly Speed of 40 feet and can slip through tiny cracks. This lasts for 5 minutes, and the prophet can Dismiss the effect.\r\n\r\n**Sand Rot**  ([Curse](/Traits.aspx?ID=38), [Disease](/Traits.aspx?ID=46), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) This affliction can't be reduced below stage 1, nor can damage from it be healed, until successfully treated with [_remove curse_](/Spells.aspx?ID=250) or a similar effect; the affliction can then be removed as normal for a disease. A creature killed by sand rot turns to sand and can't be resurrected except by a 7th-level [_resurrect_](/Rituals.aspx?ID=20) ritual or similar magic; **Saving Throw** DC 31 Fortitude; **Stage 1** carrier with no ill effect (1 minute); **Stage 2** 12d6 negative damage, [clumsy 1](/Conditions.aspx?ID=3), and [stupefied 2](/Conditions.aspx?ID=37) (1 day)\r\n\r\n**Sandstorm** <actions string=\"Three Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Divine](/Traits.aspx?ID=48), [Earth](/Traits.aspx?ID=55)) **Frequency** once per day; **Effect** The mummy creates a temporary sandstorm in a 30-foot emanation that lasts for 1 minute. Creatures within the emanation take a –4 circumstance penalty to Perception checks and must succeed at a DC 33 Fortitude save or be forced to hold their breath or start [suffocating](/Rules.aspx?ID=468). A creature within the sandstorm at the end of its turn takes 2d6 negative and 1d6 slashing damage.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Sand Mummification</title>\r\n\r\nTo keep from eating or drinking during mummification, prophets of Set grafted metal helmets to their bodies shaped like the heads of sha, sleek beasts that were a symbol of [Set's](/Deities.aspx?ID=242) religion. Through slits in their masks, the prophets consumed alchemically treated sands, which absorbed moisture, caused organ failure, and ruptured the stomach to cause death.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-74\" />",
+ "name": "Mummy Prophet of Set",
+ "npc": false,
+ "perception": 23,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 21,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mummy\" url=\"/Traits.aspx?ID=228\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 132</row>\r\n\r\n**Creature Family** [Mummy](/MonsterFamilies.aspx?ID=74)\r\n\r\n<row gap=\"medium\">\r\n**HP** 250 ( negative healing )\r\n\r\n**AC** 33\r\n\r\n**Fort** +22\r\n\r\n**Ref** +21\r\n\r\n**Will** +25\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn ancient Osirion, worshipers completely devoted to the evil god  Set  often underwent a mummification process to serve as his prophets after their …\r\n</summary>",
+ "sense": " darkvision , sand vision",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), sand vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Arcana +23",
+  "Deception +25",
+  "Intimidation +27",
+  "Occultism +25",
+  "Religion +27",
+  "Society +23",
+  "Stealth +23"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +23, [Deception](/Skills.aspx?ID=5) +25, [Intimidation](/Skills.aspx?ID=7) +27, [Occultism](/Skills.aspx?ID=11) +25, [Religion](/Skills.aspx?ID=13) +27, [Society](/Skills.aspx?ID=14) +23, [Stealth](/Skills.aspx?ID=15) +23",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 132"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 132</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell": [
+  "Eclipse Burst",
+  "Harm",
+  "Disintegrate",
+  "Divine Wrath",
+  "Crisis of Faith",
+  "Shadow Blast",
+  "Wall of Flesh",
+  "Air Walk",
+  "Freedom of Movement",
+  "Resist Energy",
+  "Blindness",
+  "Cup of Dust",
+  "Chilling Darkness",
+  "Death Knell",
+  "See Invisibility",
+  "Fear",
+  "Penumbral Shroud",
+  "Ray of Enfeeblement",
+  "Chill Touch",
+  "Detect Magic",
+  "Divine Lance",
+  "Guidance",
+  "Shield"
+ ],
+ "spell_markdown": "[Air Walk](/Spells.aspx?ID=6), [Blindness](/Spells.aspx?ID=26), [Chill Touch](/Spells.aspx?ID=35), [Chilling Darkness](/Spells.aspx?ID=36), [Crisis of Faith](/Spells.aspx?ID=55), [Cup of Dust](/Spells.aspx?ID=572), [Death Knell](/Spells.aspx?ID=63), [Detect Magic](/Spells.aspx?ID=66), [Disintegrate](/Spells.aspx?ID=76), [Divine Lance](/Spells.aspx?ID=84), [Divine Wrath](/Spells.aspx?ID=86), [Eclipse Burst](/Spells.aspx?ID=96), [Fear](/Spells.aspx?ID=110), [Freedom of Movement](/Spells.aspx?ID=128), [Guidance](/Spells.aspx?ID=142), [Harm](/Spells.aspx?ID=146), [Penumbral Shroud](/Spells.aspx?ID=582), [Ray of Enfeeblement](/Spells.aspx?ID=244), [Resist Energy](/Spells.aspx?ID=256), [See Invisibility](/Spells.aspx?ID=271), [Shadow Blast](/Spells.aspx?ID=273), [Shield](/Spells.aspx?ID=280), [Wall of Flesh](/Spells.aspx?ID=727)",
+ "stealth": "23",
+ "strength": 5,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "In ancient Osirion, worshipers completely devoted to the evil god  Set  often underwent a mummification process to serve as his prophets after their …",
+ "summary_markdown": "In ancient Osirion, worshipers completely devoted to the evil god  Set  often underwent a mummification process to serve as his prophets after their …",
+ "text": " Mummy Prophet of Set In ancient Osirion, worshipers completely devoted to the evil god Set often underwent a mummification process to serve as his prophets after their death. Recall Knowledge - Undead (Religion): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Mummy Prophet of Set Source Book of the Dead pg. 132 Perception +23; darkvision, sand vision Languages Necril; plus any two languages they knew while alive Skills Arcana +23, Deception +25, Intimidation +27, Occultism +25, Religion +27, Society +23, Stealth +23 Str +5 Dex +4 Con +5 Int +6 Wis +8 Cha +6 Sand Vision The prophet ignores the concealed condition from particles of sand and dust in the air. Items religious symbol of Set, +1 striking spear --- AC 33 Fort +22 Ref +21 Will +25 +1 status to all saves vs. magic HP 250 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses fire 15 Great Despair (aura, divine, emotion, enchantment, fear, incapacitation, mental) 30 feet. Living creatures are frightened 1 while in an mummy prophet's great despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave it. When a creature first enters the area, it must succeed at a DC 31 Will save (after taking the penalty from being frightened) or be paralyzed for 1d4 rounds. The creature is then temporarily immune for 24 hours. --- Speed 20 feet Melee Single Action spear +25 (Magical), Damage 3d6+11 piercing plus sand rot Melee Single Action fist +24 (Agile), Damage 3d4+11 bludgeoning plus sand rot Ranged Single Action spear +24 (Magical, thrown 20 feet), Damage 3d6+11 piercing plus sand rot Divine Prepared Spells DC 33, attack +25 - Cantrips (7th) Chill Touch, Detect Magic, Divine Lance, Guidance, Shield - 1st Fear, Penumbral Shroud, Ray of Enfeeblement - 2nd Death Knell (×2), See Invisibility - 3rd Blindness, Cup of Dust, Chilling Darkness - 4th Air Walk, Freedom of Movement, Resist Energy - 5th Crisis of Faith, Shadow Blast, Wall of Flesh - 6th Disintegrate (×2), Divine Wrath - 7th Eclipse Burst (×2), Harm (×7) Channel Rot (Divine, Necromancy) The mummy prophet of Set can deliver devastating rot through melee weapons they wield. Breath of Sand Two Actions (Concentrate, Divine, Earth, Evocation, Negative) Requirements The prophet's Sandstorm is active; Effect The prophet inhales its Sandstorm, suppressing the effect until the end of the prophet's next turn. It then exhales a 120-foot cone of negatively charged sand that deals 7d6 negative and 7d6 slashing damage (DC 33 basic Reflex save). Sand Form Two Actions (Concentrate, Divine, Earth, Polymorph, Transmutation) Frequency once per day; Effect The prophet loses their coherent from and becomes an animated pile of sand. While in this form, the prophet gains resistance 10 to physical damage and is immune to precision damage. They can't cast spells, activate items, or use actions that have the attack or manipulate trait. They gain a fly Speed of 40 feet and can slip through tiny cracks. This lasts for 5 minutes, and the prophet can Dismiss the effect. Sand Rot (Curse, Disease, Divine, Necromancy) This affliction can't be reduced below stage 1, nor can damage from it be healed, until successfully treated with remove curse or a similar effect; the affliction can then be removed as normal for a disease. A creature killed by sand rot turns to sand and can't be resurrected except by a 7th-level resurrect ritual or similar magic; Saving Throw DC 31 Fortitude; Stage 1 carrier with no ill effect (1 minute); Stage 2 12d6 negative damage, clumsy 1, and stupefied 2 (1 day) Sandstorm Three Actions (Conjuration, Divine, Earth) Frequency once per day; Effect The mummy creates a temporary sandstorm in a 30-foot emanation that lasts for 1 minute. Creatures within the emanation take a –4 circumstance penalty to Perception checks and must succeed at a DC 33 Fortitude save or be forced to hold their breath or start suffocating. A creature within the sandstorm at the end of its turn takes 2d6 negative and 1d6 slashing damage. Sand Mummification To keep from eating or drinking during mummification, prophets of Set grafted metal helmets to their bodies shaped like the heads of sha, sleek beasts that were a symbol of Set's religion. Through slits in their masks, the prophets consumed alchemically treated sands, which absorbed moisture, caused organ failure, and ruptured the stomach to cause death. ",
+ "trait": [
+  "Mummy",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Mummy](/Traits.aspx?ID=228), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mummy",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1887",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 15
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 15",
+ "weakness_raw": " fire  15",
+ "will_save": 25,
+ "wisdom": 8
+}

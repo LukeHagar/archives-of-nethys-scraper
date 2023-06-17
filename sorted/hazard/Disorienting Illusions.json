@@ -1,0 +1,47 @@
+{
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 17  Crafting  (trained) to calculate the room's dimensions despite the illusions, or   dispel magic   (1st level; counteract DC 17) to  counteract  the illusions",
+ "exclude_from_search": false,
+ "hazard_type": "Trap",
+ "id": "hazard-181",
+ "level": 1,
+ "markdown": "<title level=\"1\" right=\"Hazard 1\" pfs=\"\">[Disorienting Illusions](/Hazards.aspx?ID=181)</title>\r\n\r\n<traits>\r\n<trait label=\"Illusion\" url=\"/Traits.aspx?ID=92\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n<trait label=\"Visual\" url=\"/Traits.aspx?ID=163\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 122</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nIllusions cloaking this chamber cause it to appear distorted and constantly shifting, with the room and all its contents appearing tilted, irregular, and in motion.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 20\r\n\r\n**Disable**\r\nDC 17 [Crafting](/Skills.aspx?ID=4) (trained) to calculate the room's dimensions despite the illusions, or [_dispel magic_](/Spells.aspx?ID=78) (1st level; counteract DC 17) to [counteract](/Rules.aspx?ID=371) the illusions\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Disorient** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [illusion](/Traits.aspx?ID=92), [mental](/Traits.aspx?ID=106), [visual](/Traits.aspx?ID=163)) **Trigger** A creature enters the room; **Effect** Illusions cause the appearance of the room and the objects inside it to constantly warp, shift, bend, and distort for 1 minute. Each creature in the room while it's distorting must attempt a DC 17 Perception check.\r\n\r\n**Critical Success** The creature disbelieves the illusions and is unaffected.<br />\r\n**Success** The creature disbelieves the illusions but still sees them. It treats the room as difficult terrain.<br />\r\n**Failure** The creature is fooled by the illusions. It treats the room as difficult terrain and becomes [sickened 1](/Conditions.aspx?ID=34). As long as it remains in the room, it can't reduce its sickened value below 1.<br />\r\n**Critical Failure** As failure, but each time the creature  attempts a move action, it must succeed at a DC 5 flat check or they lose the action, and on a critical failure, it also falls [prone](/Conditions.aspx?ID=31).\n\n---\r\n**Reset**\r\n1 minute",
+ "name": "Disorienting Illusions",
+ "rarity": "common",
+ "release_date": "2022-07-27",
+ "reset": "1 minute",
+ "resistance": {},
+ "school": "illusion",
+ "search_markdown": "<traits>\r\n<trait label=\"Illusion\" url=\"/Traits.aspx?ID=92\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n<trait label=\"Visual\" url=\"/Traits.aspx?ID=163\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 122</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIllusions cloaking this chamber cause it to appear distorted and constantly shifting, with the room and all its contents appearing tilted, irregular, …\r\n</summary>",
+ "source": [
+  "Dark Archive"
+ ],
+ "source_raw": [
+  "Dark Archive pg. 122"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Dark Archive](/Sources.aspx?ID=129) pg. 122</row>",
+ "speed": {},
+ "stealth": "DC 20",
+ "summary": "Illusions cloaking this chamber cause it to appear distorted and constantly shifting, with the room and all its contents appearing tilted, irregular, …",
+ "summary_markdown": "Illusions cloaking this chamber cause it to appear distorted and constantly shifting, with the room and all its contents appearing tilted, irregular, …",
+ "text": " Disorienting Illusions Source Dark Archive pg. 122 Complexity Simple Illusions cloaking this chamber cause it to appear distorted and constantly shifting, with the room and all its contents appearing tilted, irregular, and in motion. --- Stealth DC 20 Disable DC 17 Crafting (trained) to calculate the room's dimensions despite the illusions, or dispel magic (1st level; counteract DC 17) to counteract the illusions Disorient Reaction (arcane, illusion, mental, visual) Trigger A creature enters the room; Effect Illusions cause the appearance of the room and the objects inside it to constantly warp, shift, bend, and distort for 1 minute. Each creature in the room while it's distorting must attempt a DC 17 Perception check. Critical Success The creature disbelieves the illusions and is unaffected. Success The creature disbelieves the illusions but still sees them. It treats the room as difficult terrain. Failure The creature is fooled by the illusions. It treats the room as difficult terrain and becomes sickened 1. As long as it remains in the room, it can't reduce its sickened value below 1. Critical Failure As failure, but each time the creature attempts a move action, it must succeed at a DC 5 flat check or they lose the action, and on a critical failure, it also falls prone. --- Reset 1 minute",
+ "trait": [
+  "Illusion",
+  "Magical",
+  "Trap",
+  "Visual"
+ ],
+ "trait_markdown": "[Illusion](/Traits.aspx?ID=92), [Magical](/Traits.aspx?ID=103), [Trap](/Traits.aspx?ID=158), [Visual](/Traits.aspx?ID=163)",
+ "trait_raw": [
+  "Illusion",
+  "Magical",
+  "Trap",
+  "Visual"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=181",
+ "weakness": {}
+}

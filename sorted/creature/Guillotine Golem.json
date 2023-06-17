@@ -1,0 +1,115 @@
+{
+ "ac": 42,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 6,
+ "creature_ability": [
+  "Golem Antimagic",
+  "Vulnerable to Neutralize Poison",
+  "Vulnerable to Rust",
+  "Breath Weapon",
+  "Decapitation",
+  "Guillotine Golem Poison",
+  "Inexorable March"
+ ],
+ "creature_family": "Golem",
+ "creature_family_markdown": "[Golem](/MonsterFamilies.aspx?ID=57)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hp": 270,
+ "hp_raw": "270",
+ "id": "creature-1650",
+ "immunity": [
+  "bleed",
+  "death effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "fire",
+  "healing",
+  "magic (see below)",
+  "mental",
+  "necromancy",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious",
+  "fatigued"
+ ],
+ "immunity_markdown": "bleed, death effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), fire, healing, magic (see below), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), nonlethal attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38), [fatigued](/Conditions.aspx?ID=15)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Guillotine Golem](/Monsters.aspx?ID=1650)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Guillotine Golem](/Monsters.aspx?ID=1650)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Night of the Gray Death](/Sources.aspx?ID=99) pg. 32</row>\n\n**Perception** +28; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +38\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +0\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 42 \r\n\r\n**Fort** +33 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +29 \n\n</row>\r\n\r\n**HP** 270\n\n**Immunities**\r\nbleed, death effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), fire, healing, magic (see below), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), nonlethal attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38), [fatigued](/Conditions.aspx?ID=15)\r\n\r\n**Resistances**\r\nphysical 20 (except adamantine)\n\n**Golem Antimagic** harmed by acid (9d10, 3d8 from areas and persistent damage) healed by electricity (area 3d8 HP); slowed by fire<br />**Vulnerable to Neutralize Poison** Casting [_neutralize poison_](/Spells.aspx?ID=207) on the golem deactivates its Breath Weapon for 1 minute.<br />**Vulnerable to Rust** Magical rusting effects, like a [rust monster's](/Monsters.aspx?ID=354) antennae, affect the guillotine golem normally.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nblade +36 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+15 slashing plus decapitation\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120), [Poison](/Traits.aspx?ID=126)) The guillotine golem emits poisonous gas in a 10-foot radius centered on the corner of one of the golem's squares. The gas persists for 1 round. Any creature in the area (or that later enters the area) is exposed to the golem's poison. The golem can't use its Breath Weapon again for 1d4 rounds.\r\n\r\n**Decapitation**   If the guillotine golem critically hits a creature with its blade Strike, the creature must succeed at a DC 40 Fortitude save or be decapitated, dying instantly unless it can survive without a head.\r\n\r\n**Guillotine Golem Poison**  ([Poison](/Traits.aspx?ID=126)) Any drained value from this poison is reduced by 1 every hour. **Saving Throw** DC 40 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 3d6 poison and [drained](/Conditions.aspx?ID=10) 1 (1 round); **Stage 2** 5d6 poison and drained 2 (1 round); **Stage 3** 10d6 poison and drained 3 (1 round).\r\n\r\n**Inexorable March** <actions string=\"Single Action\" />  The guillotine golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 44 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it is damaged as if hit by the golem's blade Strike.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-57\" />",
+ "name": "Guillotine Golem",
+ "npc": false,
+ "perception": 28,
+ "rarity": "rare",
+ "reflex_save": 28,
+ "release_date": "2021-10-13",
+ "resistance": {
+  "bludgeoning": 20,
+  "physical": 20,
+  "piercing": 20,
+  "slashing": 20
+ },
+ "resistance_markdown": "physical 20 (except adamantine)",
+ "resistance_raw": "physical 20 (except adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Night of the Gray Death](/Sources.aspx?ID=99) pg. 32</row>\r\n\r\n**Creature Family** [Golem](/MonsterFamilies.aspx?ID=57)\r\n\r\n<row gap=\"medium\">\r\n**HP** 270\r\n\r\n**AC** 42\r\n\r\n**Fort** +33\r\n\r\n**Ref** +28\r\n\r\n**Will** +29\r\n\r\n**Perception** +28\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +38"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +38",
+ "source": [
+  "Night of the Gray Death"
+ ],
+ "source_raw": [
+  "Night of the Gray Death pg. 32"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Night of the Gray Death",
+ "source_markdown": "<row gap=\"tiny\">[Night of the Gray Death](/Sources.aspx?ID=99) pg. 32</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "spoilers": "Night of the Gray Death",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Guillotine Golem Guillotine Golem Source Night of the Gray Death pg. 32 Perception +28; darkvision Languages Skills Athletics +38 Str +9 Dex +0 Con +6 Int -5 Wis +0 Cha -5 --- AC 42 Fort +33 Ref +28 Will +29 HP 270 Immunities bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious, fatigued Resistances physical 20 (except adamantine) Golem Antimagic harmed by acid (9d10, 3d8 from areas and persistent damage) healed by electricity (area 3d8 HP); slowed by fire Vulnerable to Neutralize Poison Casting neutralize poison on the golem deactivates its Breath Weapon for 1 minute. Vulnerable to Rust Magical rusting effects, like a rust monster's antennae, affect the guillotine golem normally. --- Speed 20 feet Melee Single Action blade +36 (Magical, reach 10 feet), Damage 3d12+15 slashing plus decapitation Breath Weapon Two Actions (Necromancy, Occult, Poison) The guillotine golem emits poisonous gas in a 10-foot radius centered on the corner of one of the golem's squares. The gas persists for 1 round. Any creature in the area (or that later enters the area) is exposed to the golem's poison. The golem can't use its Breath Weapon again for 1d4 rounds. Decapitation If the guillotine golem critically hits a creature with its blade Strike, the creature must succeed at a DC 40 Fortitude save or be decapitated, dying instantly unless it can survive without a head. Guillotine Golem Poison (Poison) Any drained value from this poison is reduced by 1 every hour. Saving Throw DC 40 Fortitude; Maximum Duration 4 rounds; Stage 1 3d6 poison and drained 1 (1 round); Stage 2 5d6 poison and drained 2 (1 round); Stage 3 10d6 poison and drained 3 (1 round). Inexorable March Single Action The guillotine golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 44 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise, it is damaged as if hit by the golem's blade Strike. ",
+ "trait": [
+  "Rare",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1650",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 29,
+ "wisdom": 0
+}

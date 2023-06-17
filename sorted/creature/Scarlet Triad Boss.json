@@ -1,0 +1,94 @@
+{
+ "ac": 39,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 5,
+ "creature_ability": [
+  "Return Fire",
+  "Darting Shot",
+  "Sneak Attack"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 315,
+ "hp_raw": "315",
+ "id": "creature-1582",
+ "intelligence": 7,
+ "language": [
+  "Common",
+  "Gnoll",
+  "Kelish",
+  "Osiriani"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Gnoll](/Languages.aspx?ID=17), [Kelish](/Languages.aspx?ID=38), [Osiriani](/Languages.aspx?ID=40)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"\">[Scarlet Triad Boss](/NPCs.aspx?ID=1582)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Scarlet Triad Boss](/NPCs.aspx?ID=1582)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 57</row>\n\n**Perception** +30\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Gnoll](/Languages.aspx?ID=17), [Kelish](/Languages.aspx?ID=38), [Osiriani](/Languages.aspx?ID=40)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +32, [Deception](/Skills.aspx?ID=5) +29, [Diplomacy](/Skills.aspx?ID=6) +27, [Intimidation](/Skills.aspx?ID=7) +31, [Society](/Skills.aspx?ID=14) +28, [Stealth](/Skills.aspx?ID=15) +30, [Thievery](/Skills.aspx?ID=17) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +9\r\n\r\n**Con** +5\r\n\r\n**Int** +7\r\n\r\n**Wis** +5\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+2 [greater striking](/Equipment.aspx?ID=280) [composite shortbow](/Weapons.aspx?ID=75)_ (40 arrows), _+2 [striking](/Equipment.aspx?ID=280) [shortsword](/Weapons.aspx?ID=43)_, _+2 [resilient](/Equipment.aspx?ID=279) [studded leather armor](/Armor.aspx?ID=5)_, [infiltrator thieves' tools](/Equipment.aspx?ID=58), arrow with [weeping midnight poison](/Equipment.aspx?ID=559)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +33 \r\n\r\n**Will** +29 \n\n</row>\r\n\r\n**HP** 315\n\n**Return Fire** <actions string=\"Reaction\" /> **Trigger** The Scarlet Triad boss is the target of a physical ranged attack; **Effect** They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses and the boss has their shortbow in hand, the boss Strikes the attacker with their shortbow.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_shortsword_ +34 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 2d6+12 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_composite shortbow_ +34 ([deadly 2d10](/Traits.aspx?ID=174), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 3d6+9 piercing\n\n**Darting Shot** <actions string=\"Two Actions\" />  The Scarlet Triad boss [Feints](/Actions.aspx?ID=48) a target, Strides up to their Speed, and makes a Strike with their shortbow in any order. They can Feint any target within 30 feet when using this ability.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   4d6\r\n\r\n</column>",
+ "name": "Scarlet Triad Boss",
+ "npc": true,
+ "perception": 30,
+ "rarity": "common",
+ "reflex_save": 33,
+ "release_date": "2019-11-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 57</row>\n\n<row gap=\"medium\">\r\n**HP** 315\r\n\r\n**AC** 39\r\n\r\n**Fort** +27\r\n\r\n**Ref** +33\r\n\r\n**Will** +29\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +32",
+  "Deception +29",
+  "Diplomacy +27",
+  "Intimidation +31",
+  "Society +28",
+  "Stealth +30",
+  "Thievery +33"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +32, [Deception](/Skills.aspx?ID=5) +29, [Diplomacy](/Skills.aspx?ID=6) +27, [Intimidation](/Skills.aspx?ID=7) +31, [Society](/Skills.aspx?ID=14) +28, [Stealth](/Skills.aspx?ID=15) +30, [Thievery](/Skills.aspx?ID=17) +33",
+ "source": [
+  "Pathfinder #149: Against the Scarlet Triad"
+ ],
+ "source_raw": [
+  "Pathfinder #149: Against the Scarlet Triad pg. 57"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 57</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "30",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Scarlet Triad Boss Recall Knowledge - Humanoid (Society): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Scarlet Triad Boss Source Pathfinder #149: Against the Scarlet Triad pg. 57 Perception +30 Languages Common, Gnoll, Kelish, Osiriani Skills Acrobatics +32, Deception +29, Diplomacy +27, Intimidation +31, Society +28, Stealth +30, Thievery +33 Str +6 Dex +9 Con +5 Int +7 Wis +5 Cha +4 Items +2 greater striking composite shortbow (40 arrows), +2 striking shortsword , +2 resilient studded leather armor , infiltrator thieves' tools, arrow with weeping midnight poison --- AC 39 Fort +27 Ref +33 Will +29 HP 315 Return Fire Reaction Trigger The Scarlet Triad boss is the target of a physical ranged attack; Effect They gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses and the boss has their shortbow in hand, the boss Strikes the attacker with their shortbow. --- Speed 30 feet Melee Single Action shortsword +34 (Agile, Finesse, versatile S), Damage 2d6+12 piercing Ranged Single Action composite shortbow +34 (deadly 2d10, range increment 60 feet, reload 0), Damage 3d6+9 piercing Darting Shot Two Actions The Scarlet Triad boss Feints a target, Strides up to their Speed, and makes a Strike with their shortbow in any order. They can Feint any target within 30 feet when using this ability. Sneak Attack 4d6 ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=1582",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 29,
+ "wisdom": 5
+}

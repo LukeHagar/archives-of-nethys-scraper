@@ -1,0 +1,102 @@
+{
+ "ac": 17,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 3,
+ "creature_ability": [
+  "Magical Broth",
+  "Motion Sense",
+  "Malodorous Smoke",
+  "Slippery Grease"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 28,
+ "hp_raw": "28 ( negative healing )",
+ "id": "creature-1324",
+ "image": [
+  "/Images/Monsters/SquirmingSwill.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Squirming Swill](/Monsters.aspx?ID=1324)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGrotesque pieces of cast-off animal carcasses slowly stew into an overcooked mass at the bottom of a witch or hag's cauldron. The animals' magical organs— the eyes of the newt, the tongue of the frog—have already been removed, leaving only these sad remains. Nevertheless, animated by long exposure to magic, they sometimes peel free from the sides of the cauldron and wriggle out to freedom. The refuse moves in one giant mass, its skin blackened and crispy, leaving a trail of dripping grease and gravy. Its body is perpetually steaming hot, as though fresh from the pot, fat popping and sizzling.\n\n Squirming swills wander kitchens, sewers, swamps, midden pits, and grimy city canals. With little intelligence and no agenda, they come after any creature that remotely resembles the one who stewed them—usually, anything humanoid will do. Most swills try immediately to kill the creature, but some approach longingly, as though reuniting with a lost parent. They also seem to show sympathy or fellowship to other small animals. Unfortunately, their grotesque scent or the heat of their touch tends to scare away the living. Handily, the squirming swill is just as happy to befriend a small animal's corpse, unconcerned about its level of decay.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SquirmingSwill.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Squirming Swill](/Monsters.aspx?ID=1324)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 256</row>\n\n**Perception** +6; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** -1\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -4\r\n</row>\r\n\r\n**Magical Broth** ([magical](/Traits.aspx?ID=103), [necromancy](/Traits.aspx?ID=117)) The squirming swill retains some residue from the magical broth it was stewed in. A creature can salvage the portion of a destroyed squirming swill that contains the greatest amount of this liquid by squeezing its remains. This liquid can be used as an [oil](/equipment/consumables/oils) or [potion](/equipment/consumables/potions) of the swill's level or lower, typically a [_minor healing potion_](/Traits.aspx?ID=130), [_nectar of purification_](/Equipment.aspx?ID=174), or [_oil of potency_](/Equipment.aspx?ID=179). This consumable follows the normal rules for Activating an oil or potion.<br />**Motion Sense** Squirming swill can sense nearby creatures through vibration and air or water movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +6 \r\n\r\n+2 status to all saves vs. curses\r\n</row>\r\n\r\n**HP** 28\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\r\n\r\n**Resistances**\r\nfire 2\n\n**Malodorous Smoke** ([aura](/Traits.aspx?ID=206), [conjuration](/Traits.aspx?ID=33), [curse](/Traits.aspx?ID=38), [magical](/Traits.aspx?ID=103), [olfactory](/Traits.aspx?ID=246)) 15 feet. The squirming swill reeks of food that is simultaneously burned and spoiled. A creature that enters or starts its turn in the emanation must succeed at a DC 17 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (sickened 2 on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute.<br /> When a creature succeeds at a Fortitude save to recover from this sickness, it regurgitates a chunk of food that immediately slithers away to join the swill, restoring 3 Hit Points to the swill.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\noffal +9 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d10–1 plus 1d6 fire and slippery grease\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nscalding oil +9 ([Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103), [range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6 fire\n\n**Slippery Grease**   The first time on its turn that the squirming swill hits a creature with its offal Strike, hot grease from its body splatters the ground in the target's space. The target must succeed at a DC 17 Reflex save or [Acrobatics](/Skills.aspx?ID=1) check, falling [prone](/Conditions.aspx?ID=31) on a failure.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">On the Menu</title>\r\n\r\nDespite being undead, a squirming swill remains edible—barely. It might appear in the form of a specific dish rather than the blob-like form presented here. A [hag](/MonsterFamilies.aspx?ID=59) who fancies herself a gourmet might serve her guest a steaming pie with the swill inside, a kebab of wriggling corpses, a stew with swimming ingredients, a casserole with a layer of burnt swill, or simply swill layered within a giant piece of crusty bread.\r\n</aside>",
+ "name": "Squirming Swill",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "fire": 2
+ },
+ "resistance_markdown": "fire 2",
+ "resistance_raw": "fire 2",
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 256</row>\n\n<row gap=\"medium\">\r\n**HP** 28 ( negative healing )\r\n\r\n**AC** 17\r\n\r\n**Fort** +11\r\n\r\n**Ref** +9\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGrotesque pieces of cast-off animal carcasses slowly stew into an overcooked mass at the bottom of a witch or hag's cauldron. The animals' magical …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 256"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 256</row>",
+ "speed": {
+  "land": 20,
+  "max": 20,
+  "swim": 15
+ },
+ "speed_markdown": "20 feet, swim 15 feet",
+ "speed_raw": "20 feet, swim 15 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": -1,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Grotesque pieces of cast-off animal carcasses slowly stew into an overcooked mass at the bottom of a witch or hag's cauldron. The animals' magical …",
+ "summary_markdown": "Grotesque pieces of cast-off animal carcasses slowly stew into an overcooked mass at the bottom of a witch or hag's cauldron. The animals' magical …",
+ "text": " Squirming Swill Grotesque pieces of cast-off animal carcasses slowly stew into an overcooked mass at the bottom of a witch or hag's cauldron. The animals' magical organs— the eyes of the newt, the tongue of the frog—have already been removed, leaving only these sad remains. Nevertheless, animated by long exposure to magic, they sometimes peel free from the sides of the cauldron and wriggle out to freedom. The refuse moves in one giant mass, its skin blackened and crispy, leaving a trail of dripping grease and gravy. Its body is perpetually steaming hot, as though fresh from the pot, fat popping and sizzling. Squirming swills wander kitchens, sewers, swamps, midden pits, and grimy city canals. With little intelligence and no agenda, they come after any creature that remotely resembles the one who stewed them—usually, anything humanoid will do. Most swills try immediately to kill the creature, but some approach longingly, as though reuniting with a lost parent. They also seem to show sympathy or fellowship to other small animals. Unfortunately, their grotesque scent or the heat of their touch tends to scare away the living. Handily, the squirming swill is just as happy to befriend a small animal's corpse, unconcerned about its level of decay. Recall Knowledge - Undead (Religion): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Squirming Swill Source Bestiary 3 pg. 256 Perception +6; motion sense 60 feet, no vision Languages Skills Acrobatics +7, Stealth +9 Str -1 Dex +3 Con +3 Int -5 Wis +0 Cha -4 Magical Broth (magical, necromancy) The squirming swill retains some residue from the magical broth it was stewed in. A creature can salvage the portion of a destroyed squirming swill that contains the greatest amount of this liquid by squeezing its remains. This liquid can be used as an oil or potion of the swill's level or lower, typically a minor healing potion , nectar of purification , or oil of potency . This consumable follows the normal rules for Activating an oil or potion. Motion Sense Squirming swill can sense nearby creatures through vibration and air or water movement. --- AC 17 Fort +11 Ref +9 Will +6 +2 status to all saves vs. curses HP 28 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious, visual Resistances fire 2 Malodorous Smoke (aura, conjuration, curse, magical, olfactory) 15 feet. The squirming swill reeks of food that is simultaneously burned and spoiled. A creature that enters or starts its turn in the emanation must succeed at a DC 17 Fortitude save or become sickened 1 (sickened 2 on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute. When a creature succeeds at a Fortitude save to recover from this sickness, it regurgitates a chunk of food that immediately slithers away to join the swill, restoring 3 Hit Points to the swill. --- Speed 20 feet, swim 15 feet Melee Single Action offal +9 (Finesse, Magical), Damage 1d10–1 plus 1d6 fire and slippery grease Ranged Single Action scalding oil +9 (Fire, Magical, range increment 30 feet), Damage 2d6 fire Slippery Grease The first time on its turn that the squirming swill hits a creature with its offal Strike, hot grease from its body splatters the ground in the target's space. The target must succeed at a DC 17 Reflex save or Acrobatics check, falling prone on a failure. On the Menu Despite being undead, a squirming swill remains edible—barely. It might appear in the form of a specific dish rather than the blob-like form presented here. A hag who fancies herself a gourmet might serve her guest a steaming pie with the swill inside, a kebab of wriggling corpses, a stew with swimming ingredients, a casserole with a layer of burnt swill, or simply swill layered within a giant piece of crusty bread. ",
+ "trait": [
+  "Undead",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1324",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 0
+}

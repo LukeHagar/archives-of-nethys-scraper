@@ -1,0 +1,89 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 4,
+ "creature_ability": [
+  "Blood Scent",
+  "Breach",
+  "Savage",
+  "Strafing Chomp"
+ ],
+ "creature_family": "Shark",
+ "creature_family_markdown": "[Shark](/MonsterFamilies.aspx?ID=90)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-365",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Great White Shark](/Monsters.aspx?ID=365)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn apex predator among the coastal surface waters where it hunts, the great white shark is one of the largest shark species. These silent killers glide gracefully through the ocean, always in search of their next meal.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Great White Shark](/Monsters.aspx?ID=365)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 291</row>\n\n**Perception** +11; blood scent, scent (imprecise) 100 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -4\r\n</row>\r\n\r\n**Blood Scent** The shark can smell blood in the water from up to 1 mile away.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 60\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14,\r\n**Damage** 1d12+8 piercing\n\n**Breach** <actions string=\"Two Actions\" />  The shark Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water’s surface). After the Strike, the shark splashes back down into the water.\r\n\r\n**Savage** <actions string=\"Single Action\" />  **Requirement** The shark hit with a jaws Strike on its most recent action this turn. **Effect** The creature the shark hit takes 1d12 slashing damage.\r\n\r\n**Strafing Chomp** <actions string=\"Single Action\" />  The shark Swims up to half its swim Speed, makes a jaws Strike, and then Swims up to half its Speed further. The Strike deals half damage.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-90\" />",
+ "name": "Great White Shark",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 291</row>\r\n\r\n**Creature Family** [Shark](/MonsterFamilies.aspx?ID=90)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 21\r\n\r\n**Fort** +12\r\n\r\n**Ref** +10\r\n\r\n**Will** +9\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn apex predator among the coastal surface waters where it hunts, the great white shark is one of the largest shark species. These silent killers …\r\n</summary>",
+ "sense": "blood scent, scent (imprecise) 100 feet",
+ "sense_markdown": "blood scent, scent (imprecise) 100 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +14",
+  "Stealth +12",
+  "Survival +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +9",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 291"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 291</row>",
+ "speed": {
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "swim 40 feet",
+ "speed_raw": "swim 40 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "An apex predator among the coastal surface waters where it hunts, the great white shark is one of the largest shark species. These silent killers …",
+ "summary_markdown": "An apex predator among the coastal surface waters where it hunts, the great white shark is one of the largest shark species. These silent killers …",
+ "text": " Great White Shark An apex predator among the coastal surface waters where it hunts, the great white shark is one of the largest shark species. These silent killers glide gracefully through the ocean, always in search of their next meal. Recall Knowledge - Animal (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Great White Shark Source Bestiary pg. 291 Perception +11; blood scent, scent (imprecise) 100 feet Languages Skills Athletics +14, Stealth +12, Survival +9 Str +6 Dex +2 Con +4 Int -4 Wis +1 Cha -4 Blood Scent The shark can smell blood in the water from up to 1 mile away. --- AC 21 Fort +12 Ref +10 Will +9 HP 60 --- Speed swim 40 feet Melee Single Action jaws +14, Damage 1d12+8 piercing Breach Two Actions The shark Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet high, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water’s surface). After the Strike, the shark splashes back down into the water. Savage Single Action Requirement The shark hit with a jaws Strike on its most recent action this turn. Effect The creature the shark hit takes 1d12 slashing damage. Strafing Chomp Single Action The shark Swims up to half its swim Speed, makes a jaws Strike, and then Swims up to half its Speed further. The Strike deals half damage. ",
+ "trait": [
+  "Animal",
+  "Aquatic",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Aquatic](/Traits.aspx?ID=168)",
+ "trait_raw": [
+  "Animal",
+  "Aquatic"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=365",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 1
+}

@@ -1,0 +1,100 @@
+{
+ "ac": 21,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 2,
+ "creature_ability": [
+  "Ferocity",
+  "Flash of Insight",
+  "Swipe"
+ ],
+ "creature_family": "Cyclops",
+ "creature_family_markdown": "[Cyclops](/MonsterFamilies.aspx?ID=25)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 80,
+ "hp_raw": "80",
+ "id": "creature-86",
+ "image": [
+  "/Images/Monsters/Cyclops_Cyclops.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Cyclops",
+  "Jotun"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Cyclops](/Languages.aspx?ID=30), [Jotun](/Languages.aspx?ID=8)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Cyclops](/Monsters.aspx?ID=86)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe kingdoms of the cyclopes date to an age before the rise of humanity, when dragons and giants and serpentfolk ruled the world. The cyclopes built enormous stone cities and prayed to ancient gods of brutality and wrath, but their power to foresee the future failed them, and their civilization collapsed. Today, most cyclopes have virtually no knowledge of the former glory of their kind, even though it is not uncommon for them to dwell among the ruins of their greatness. Cyclops cities include monuments and imposing murals which depict their peoples’ history, but few now among them can read or interpret these relics of the past.\n\n In addition to their single eye, cyclopes are also famous for their never-ending hunger, an appetite so all-consuming that some scholars theorize it may in fact be some kind of curse. The ever-present hunger of the cyclopes seems to have some connection to the death of their civilization—though whether this voracity was the cause or a side-effect of their people’s downfall is likely destined to remain a mystery.\n\n Although details of the cyclopes’ gods have largely been lost to the annals of time, what little is known about these deities suggests they were vindictive and petty enough to curse their own people if they felt neglected or badly served.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Cyclops_Cyclops.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Cyclops](/Monsters.aspx?ID=86)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 68</row>\n\n**Perception** +12; low-light vision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Cyclops](/Languages.aspx?ID=30), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14, [Fortune-Telling Lore](/Skills.aspx?ID=8) +13, [Intimidation](/Skills.aspx?ID=7) +10, [Survival](/Skills.aspx?ID=16) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** -1\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\n\n**Items**\r\n[Hide Armor](/Armor.aspx?ID=7), [Heavy Crossbow](/Weapons.aspx?ID=70) (10 bolts)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 80\n\n**[Ferocity](/MonsterAbilities.aspx?ID=16)** <actions string=\"Reaction\" /> <br />**Flash of Insight** <actions string=\"Free Action\" /> ([divination](/Traits.aspx?ID=47), [occult](/Traits.aspx?ID=120), [fortune](/Traits.aspx?ID=76)) **Frequency** once per day; **Trigger** The cyclops is about to roll a d20. **Effect** The cyclops peers into an occluded spectrum of possible futures. It gets a success (but not a critical success) on the roll instead of rolling.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ngreataxe +14 ([reach 10 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 1d12+9 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nheavy crossbow +8 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 2](/Traits.aspx?ID=254)),\r\n**Damage** 1d10+4 piercing\n\n**Swipe** <actions string=\"Two Actions\" /> ([Flourish](/Traits.aspx?ID=73)) The cyclops makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within its melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the cyclops’s multiple attack penalty.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-25\" />",
+ "name": "Cyclops",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 68</row>\r\n\r\n**Creature Family** [Cyclops](/MonsterFamilies.aspx?ID=25)\r\n\r\n<row gap=\"medium\">\r\n**HP** 80\r\n\r\n**AC** 21\r\n\r\n**Fort** +13\r\n\r\n**Ref** +8\r\n\r\n**Will** +12\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe kingdoms of the cyclopes date to an age before the rise of humanity, when dragons and giants and serpentfolk ruled the world. The cyclopes built …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +14",
+  "Fortune-Telling Lore +13",
+  "Intimidation +10",
+  "Survival +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14, [Fortune-Telling Lore](/Skills.aspx?ID=8) +13, [Intimidation](/Skills.aspx?ID=7) +10, [Survival](/Skills.aspx?ID=16) +12",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 68"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 68</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The kingdoms of the cyclopes date to an age before the rise of humanity, when dragons and giants and serpentfolk ruled the world. The cyclopes built …",
+ "summary_markdown": "The kingdoms of the cyclopes date to an age before the rise of humanity, when dragons and giants and serpentfolk ruled the world. The cyclopes built …",
+ "text": " Cyclops The kingdoms of the cyclopes date to an age before the rise of humanity, when dragons and giants and serpentfolk ruled the world. The cyclopes built enormous stone cities and prayed to ancient gods of brutality and wrath, but their power to foresee the future failed them, and their civilization collapsed. Today, most cyclopes have virtually no knowledge of the former glory of their kind, even though it is not uncommon for them to dwell among the ruins of their greatness. Cyclops cities include monuments and imposing murals which depict their peoples’ history, but few now among them can read or interpret these relics of the past. In addition to their single eye, cyclopes are also famous for their never-ending hunger, an appetite so all-consuming that some scholars theorize it may in fact be some kind of curse. The ever-present hunger of the cyclopes seems to have some connection to the death of their civilization—though whether this voracity was the cause or a side-effect of their people’s downfall is likely destined to remain a mystery. Although details of the cyclopes’ gods have largely been lost to the annals of time, what little is known about these deities suggests they were vindictive and petty enough to curse their own people if they felt neglected or badly served. Recall Knowledge - Humanoid (Society): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Cyclops Source Bestiary pg. 68 Perception +12; low-light vision Languages Common, Cyclops, Jotun Skills Athletics +14, Fortune-Telling Lore +13, Intimidation +10, Survival +12 Str +5 Dex -1 Con +2 Int +0 Wis +3 Cha -1 Items Hide Armor, Heavy Crossbow (10 bolts) --- AC 21 Fort +13 Ref +8 Will +12 HP 80 Ferocity Reaction Flash of Insight Free Action (divination, occult, fortune) Frequency once per day; Trigger The cyclops is about to roll a d20. Effect The cyclops peers into an occluded spectrum of possible futures. It gets a success (but not a critical success) on the roll instead of rolling. --- Speed 30 feet Melee Single Action greataxe +14 (reach 10 feet, Sweep), Damage 1d12+9 slashing Ranged Single Action heavy crossbow +8 (range increment 120 feet, reload 2), Damage 1d10+4 piercing Swipe Two Actions (Flourish) The cyclops makes a melee Strike and compares the attack roll result to the AC of up to two foes, each of whom must be within its melee reach and adjacent to each other. Roll damage only once and apply it to each creature hit. A Swipe counts as two attacks for the cyclops’s multiple attack penalty. ",
+ "trait": [
+  "Giant",
+  "Humanoid",
+  "Uncommon",
+  "LE",
+  "Large"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Giant",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=86",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 3
+}

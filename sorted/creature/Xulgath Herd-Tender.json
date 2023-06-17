@@ -1,0 +1,96 @@
+{
+ "ac": 27,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 2,
+ "creature_ability": [
+  "Mounted Defense",
+  "Prerequisite",
+  "Powerful Stench",
+  "Feral Directive",
+  "Mounted Superiority"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 135,
+ "hp_raw": "135",
+ "id": "creature-2112",
+ "intelligence": -1,
+ "language": [
+  "Draconic",
+  "Undercommon"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Xulgath Herd-Tender](/Monsters.aspx?ID=2112)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Xulgath Herd-Tender](/Monsters.aspx?ID=2112)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 10</row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +18, [Dinosaur Lore](/Skills.aspx?ID=8) +11, [Intimidation](/Skills.aspx?ID=7) +16, [Nature](/Skills.aspx?ID=10) +17, [Stealth](/Skills.aspx?ID=15) +16, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[moderate alchemist's fire](/Equipment.aspx?ID=75) (4), _+1 [striking](/Equipment.aspx?ID=280) [composite shortbow](/Weapons.aspx?ID=75)_ (20 arrows), [Hide Armor](/Armor.aspx?ID=7), [Whip](/Weapons.aspx?ID=48)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 135\n\n**Mounted Defense** <actions string=\"Reaction\" /> **Prerequisite** The herd-tender is mounted; **Trigger** The herd-tender is targeted with a melee or ranged attack by an attacker they can see; Effect The herd-tender gains a +2 circumstance bonus to AC against the triggering attack.<br />**Powerful Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature that enters the area must attempt a DC 26 Fortitude save. On a failure, the creature is [sickened 2](/Conditions.aspx?ID=34), and on a critical failure, the creature is also [slowed 1](/Conditions.aspx?ID=35) for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all [xulgaths'](/MonsterFamilies.aspx?ID=102) stenches for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwhip +19 ([Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179), [Nonlethal](/Traits.aspx?ID=188), [reach 10 feet](/Traits.aspx?ID=192), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d4+10 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +19,\r\n**Damage** 2d8+10 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +19 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+10 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_composite shortbow_ +20 ([deadly 2d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [Propulsive](/Traits.aspx?ID=191), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 2d6+10 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nmoderate alchemist's fire +20 ([range increment 20 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 2d8 plus 2 [persistent fire damage](/Conditions.aspx?ID=29) and 2 fire [splash](/Traits.aspx?ID=150) damage\n\n**Feral Directive** <actions string=\"Two Actions\" />  The xulgath attempts to [Command an Animal](/Actions.aspx?ID=58) on their mount, but instead of demanding a specific action such as Stride or Strike, the xulgath gives a general directive, such as to return to camp or to attack a small group the mount can see. The mount and the xulgath each retain 3 actions on their turns, but the mount doesn't change its general tactics until the xulgath uses Feral Directive or Command an Animal again.\r\n\r\n**Mounted Superiority**   A mounted xulgath's Strikes deal an additional 1d8 damage to creatures that aren't mounted.\r\n\r\n</column>",
+ "name": "Xulgath Herd-Tender",
+ "npc": false,
+ "perception": 17,
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2020-04-29",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 10</row>\n\n<row gap=\"medium\">\r\n**HP** 135\r\n\r\n**AC** 27\r\n\r\n**Fort** +18\r\n\r\n**Ref** +16\r\n\r\n**Will** +14\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Athletics +18",
+  "Dinosaur Lore +11",
+  "Intimidation +16",
+  "Nature +17",
+  "Stealth +16",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +18, [Dinosaur Lore](/Skills.aspx?ID=8) +11, [Intimidation](/Skills.aspx?ID=7) +16, [Nature](/Skills.aspx?ID=10) +17, [Stealth](/Skills.aspx?ID=15) +16, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "Pathfinder #154: Siege of the Dinosaurs"
+ ],
+ "source_raw": [
+  "Pathfinder #154: Siege of the Dinosaurs pg. 10"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 10</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "16",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Xulgath Herd-Tender Recall Knowledge - Humanoid (Society): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Xulgath Herd-Tender Source Pathfinder #154: Siege of the Dinosaurs pg. 10 Perception +17; darkvision Languages Draconic, Undercommon Skills Acrobatics +16, Athletics +18, Dinosaur Lore +11, Intimidation +16, Nature +17, Stealth +16, Survival +17 Str +4 Dex +4 Con +2 Int -1 Wis +3 Cha +2 Items moderate alchemist's fire (4), +1 striking composite shortbow (20 arrows), Hide Armor, Whip --- AC 27 Fort +18 Ref +16 Will +14 HP 135 Mounted Defense Reaction Prerequisite The herd-tender is mounted; Trigger The herd-tender is targeted with a melee or ranged attack by an attacker they can see; Effect The herd-tender gains a +2 circumstance bonus to AC against the triggering attack. Powerful Stench (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 26 Fortitude save. On a failure, the creature is sickened 2, and on a critical failure, the creature is also slowed 1 for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute. --- Speed 25 feet Melee Single Action whip +19 (Disarm, Finesse, Nonlethal, reach 10 feet, Trip), Damage 1d4+10 slashing Melee Single Action jaws +19, Damage 2d8+10 piercing Melee Single Action claw +19 (Agile), Damage 2d6+10 slashing Ranged Single Action composite shortbow +20 (deadly 2d10, Magical, Propulsive, range increment 60 feet, reload 0), Damage 2d6+10 piercing Ranged Single Action moderate alchemist's fire +20 (range increment 20 feet, Splash), Damage 2d8 plus 2 persistent fire damage and 2 fire splash damage Feral Directive Two Actions The xulgath attempts to Command an Animal on their mount, but instead of demanding a specific action such as Stride or Strike, the xulgath gives a general directive, such as to return to camp or to attack a small group the mount can see. The mount and the xulgath each retain 3 actions on their turns, but the mount doesn't change its general tactics until the xulgath uses Feral Directive or Command an Animal again. Mounted Superiority A mounted xulgath's Strikes deal an additional 1d8 damage to creatures that aren't mounted. ",
+ "trait": [
+  "Humanoid",
+  "Xulgath",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Xulgath](/Traits.aspx?ID=244)",
+ "trait_raw": [
+  "Humanoid",
+  "Xulgath"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2112",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 3
+}

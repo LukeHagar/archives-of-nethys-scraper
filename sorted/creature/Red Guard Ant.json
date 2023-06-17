@@ -1,0 +1,100 @@
+{
+ "ac": 37,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Formic Acid Spray",
+  "Haul Away",
+  "Pack Attack",
+  "Red Ant Venom",
+  "Swarming Flank"
+ ],
+ "creature_family": "Gigantic Ant",
+ "creature_family_markdown": "[Gigantic Ant](/MonsterFamilies.aspx?ID=304)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 275,
+ "hp_raw": "275",
+ "id": "creature-1836",
+ "image": [
+  "/Images/Monsters/GiganticAnt_RedGuardAnt.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Red Guard Ant](/Monsters.aspx?ID=1836)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe rank-and-file members of the ant colony are not much taller than a shrunken hero but are much more massive, at the relative size of an ox. They are somewhat intelligent but very focused, engaging in unquestioning toil if ordered by higher-ranking ants. Red guard ants nearly always attack in groups but might be encountered alone if, for example, ordered to perform solitary guard duty. They typically spray acid before marching into melee, but only when doing so doesn't pose a risk to their allies and won't jeopardize any other objective they've been ordered to achieve.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 39\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 37\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 34\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/GiganticAnt_RedGuardAnt.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Red Guard Ant](/Monsters.aspx?ID=1836)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 72</row>\n\n**Perception** +27; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +31, [Intimidation](/Skills.aspx?ID=7) +27, [Survival](/Skills.aspx?ID=16) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -2\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 37 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 275\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> Stinger only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandibles +30,\r\n**Damage** 3d10+14 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +30 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d6+14 piercing plus red ant venom\n\n**Formic Acid Spray** <actions string=\"Two Actions\" /> ([Acid](/Traits.aspx?ID=3), [Primal](/Traits.aspx?ID=134)) The red guard ant sprays a 15-foot cone of acid from its abdomen that deals 10d10 acid damage (DC 34 [basic](/Rules.aspx?ID=329) Reflex save). It can't use Formic Acid Spray again for 1d4 rounds.\r\n\r\n**Haul Away** <actions string=\"Single Action\" />  **Requirements** The red guard ant has a Huge or smaller creature [grabbed](/Conditions.aspx?ID=20); **Effect** The ant Strides up to its full Speed, carrying the grabbed creature with it. It's [encumbered](/Conditions.aspx?ID=12) if the grabbed creature is Large or larger.\r\n\r\n**Pack Attack**   A red guard ant deals an additional 2d6 precision damage to any creature within reach of at least two of the ant's allies.\r\n\r\n**Red Ant Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 36 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 3d6 poison and [enfeebled 1](/Conditions.aspx?ID=13) (1 round); **Stage 2** 4d6 poison and enfeebled 2 (1 round); **Stage 3** 6d6 poison and enfeebled 3 (1 round)\r\n\r\n**Swarming Flank**   If at least three red guard ants have a creature within their reach, they flank the creature, even if they can't draw a line to each other that passes through opposite sides of the creature's space.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-304\" />",
+ "name": "Red Guard Ant",
+ "npc": false,
+ "perception": 27,
+ "rarity": "rare",
+ "reflex_save": 23,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 72</row>\r\n\r\n**Creature Family** [Gigantic Ant](/MonsterFamilies.aspx?ID=304)\r\n\r\n<row gap=\"medium\">\r\n**HP** 275\r\n\r\n**AC** 37\r\n\r\n**Fort** +29\r\n\r\n**Ref** +23\r\n\r\n**Will** +26\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe rank-and-file members of the ant colony are not much taller than a shrunken hero but are much more massive, at the relative size of an ox. They …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +31",
+  "Intimidation +27",
+  "Survival +27"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +31, [Intimidation](/Skills.aspx?ID=7) +27, [Survival](/Skills.aspx?ID=16) +27",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 72"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 72</row>",
+ "speed": {
+  "climb": 20,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 20 feet",
+ "speed_raw": "40 feet, climb 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The rank-and-file members of the ant colony are not much taller than a shrunken hero but are much more massive, at the relative size of an ox. They …",
+ "summary_markdown": "The rank-and-file members of the ant colony are not much taller than a shrunken hero but are much more massive, at the relative size of an ox. They …",
+ "text": " Red Guard Ant The rank-and-file members of the ant colony are not much taller than a shrunken hero but are much more massive, at the relative size of an ox. They are somewhat intelligent but very focused, engaging in unquestioning toil if ordered by higher-ranking ants. Red guard ants nearly always attack in groups but might be encountered alone if, for example, ordered to perform solitary guard duty. They typically spray acid before marching into melee, but only when doing so doesn't pose a risk to their allies and won't jeopardize any other objective they've been ordered to achieve. Recall Knowledge - Beast (Arcana, Nature): DC 39 Unspecific Lore : DC 37 Specific Lore : DC 34 Red Guard Ant Source Pathfinder #174: Shadows of the Ancients pg. 72 Perception +27; darkvision, scent (imprecise) 60 feet Languages Common Skills Athletics +31, Intimidation +27, Survival +27 Str +8 Dex +4 Con +6 Int -2 Wis +6 Cha +4 --- AC 37 Fort +29 Ref +23 Will +26 HP 275 Attack of Opportunity Reaction Stinger only. --- Speed 40 feet, climb 20 feet Melee Single Action mandibles +30, Damage 3d10+14 slashing plus Grab Melee Single Action stinger +30 (Agile), Damage 3d6+14 piercing plus red ant venom Formic Acid Spray Two Actions (Acid, Primal) The red guard ant sprays a 15-foot cone of acid from its abdomen that deals 10d10 acid damage (DC 34 basic Reflex save). It can't use Formic Acid Spray again for 1d4 rounds. Haul Away Single Action Requirements The red guard ant has a Huge or smaller creature grabbed; Effect The ant Strides up to its full Speed, carrying the grabbed creature with it. It's encumbered if the grabbed creature is Large or larger. Pack Attack A red guard ant deals an additional 2d6 precision damage to any creature within reach of at least two of the ant's allies. Red Ant Venom (Poison) Saving Throw DC 36 Fortitude; Maximum Duration 4 rounds; Stage 1 3d6 poison and enfeebled 1 (1 round); Stage 2 4d6 poison and enfeebled 2 (1 round); Stage 3 6d6 poison and enfeebled 3 (1 round) Swarming Flank If at least three red guard ants have a creature within their reach, they flank the creature, even if they can't draw a line to each other that passes through opposite sides of the creature's space. ",
+ "trait": [
+  "Beast",
+  "Rare",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Beast",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1836",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 26,
+ "wisdom": 6
+}

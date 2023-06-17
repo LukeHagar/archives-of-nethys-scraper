@@ -1,0 +1,148 @@
+{
+ "ac": 26,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 3,
+ "creature_ability": [
+  "Forest Guardian",
+  "Woodland Dependent",
+  "Lignify",
+  "Possess Tree"
+ ],
+ "creature_family": "Verdorite",
+ "creature_family_markdown": "[Verdorite](/MonsterFamilies.aspx?ID=312)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 100,
+ "hp_raw": "100 ( negative healing )",
+ "id": "creature-1913",
+ "image": [
+  "/Images/Monsters/Verdorite_Waldgeist.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 3,
+ "language": [
+  "Arboreal",
+  "Common",
+  "Sylvan",
+  "<%SPELLS%294%%><i>speak with plants</i><%END>"
+ ],
+ "language_markdown": "[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Waldgeist](/Monsters.aspx?ID=1913)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWaldgeists act as avatars of nature that seek vengeance for environmental abuse, such as pollution and deforestation. These undead spirits of destroyed trees form at the site of their destruction or in a nearby woodland, if the original location was entirely razed. They become guardians of the forest, possessing power over the plants within its boundaries. Waldgeists show no mercy to anyone caught damaging their bonded woodland, attacking loggers, [fey](/Traits.aspx?ID=69), travelers, and invasive species with equal prejudice.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 26\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Verdorite_Waldgeist.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Waldgeist](/Monsters.aspx?ID=1913)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 164</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Nature](/Skills.aspx?ID=10) +18, [Stealth](/Skills.aspx?ID=15) +18, [Woodland Lore](/Skills.aspx?ID=8) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +6\r\n\r\n**Con** +3\r\n\r\n**Int** +3\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 100\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nall damage 5 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\n\n**Forest Guardian** A waldgeist is compelled to investigate the sound of wood or trees being damaged, such as by being burned or chopped down. A waldgeist that hears such a sound must succeed at a DC 26 Will save or spend all their actions moving toward the sound until they identify the cause. This can't be used to compel a waldgeist to leave their bonded woodland. A waldgeist that succeeds at their saving throw is temporarily immune for 10 minutes.<br />**Woodland Dependent** A waldgeist is mystically bonded to a single forest, jungle, orchard, grove, or other similar large, wooded area and must remain within it. If the waldgeist moves outside their bonded woodland, they're immediately destroyed.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlignifying hand +18 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+7 negative plus lignify\r\n\r\n**Primal Innate Spells** DC 24, attack +16\r\n- **Cantrips (4th)**\r\n[Tanglefoot](/Spells.aspx?ID=330)\r\n- **2nd**\r\n[Entangle](/Spells.aspx?ID=103) (at will)\r\n- **3rd**\r\n[Wall of Thorns](/Spells.aspx?ID=366)\r\n- **5th**\r\n[Tree Stride](/Spells.aspx?ID=343)\r\n- **Constant (4th)**\r\n[Speak with Plants](/Spells.aspx?ID=294)\r\n\r\n**Lignify**  ([Incapacitation](/Traits.aspx?ID=93), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The touch of a waldgeist transforms flesh into wood. A living creature damaged by the waldgeist's lignifying hand Strike must succeed at a DC 24 Fortitude save or become [slowed 1](/Conditions.aspx?ID=35) (or slowed 2 on a critical failure). Further failed saves against lignify increases the slowed condition. Once a creature's actions are reduced to 0 by lignify, that creature becomes [petrified](/Conditions.aspx?ID=30), except they're transformed into wood instead of stone.\r\n\r\n**Possess Tree** <actions string=\"Two Actions\" /> ([Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) **Frequency** once per 10 minutes; **Effect** The waldgeist touches a tree to merge with it, possessing it for up to 1 minute. They can end this possession early as a free action at the start of their turn. While the waldgeist possesses a tree, they lose the [incorporeal](/Traits.aspx?ID=222) trait, fly Speed, all resistances, their non-constant spells, and their lignifying hand Strike. Additionally, their size increases to Huge, they gain resistance 5 to bludgeoning and piercing damage, weakness 10 to fire, Speed 20 feet, and the following branch Strike.<br /> **Melee** <actions string=\"Single Action\" /> branch ([reach 15 feet](/Traits.aspx?ID=192)) +20, **Damage** 2d12+9 bludgeoning.<br /> While a waldgeist possesses a tree, any damage that would be dealt to the waldgeist is instead dealt to the tree. The tree has 60 Hit Points. When the tree is reduced to 0 Hit Points, the waldgeist is immediately ejected, and the tree is destroyed.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-312\" />",
+ "name": "Waldgeist",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 16,
+ "release_date": "2022-04-27",
+ "resistance": {
+  "acid": 5,
+  "all": 5,
+  "area": 5,
+  "bleed": 5,
+  "bludgeoning": 5,
+  "chaotic": 5,
+  "cold": 5,
+  "cold_iron": 5,
+  "electricity": 5,
+  "evil": 5,
+  "fire": 5,
+  "good": 5,
+  "lawful": 5,
+  "mental": 5,
+  "negative": 5,
+  "orichalcum": 5,
+  "physical": 5,
+  "piercing": 5,
+  "poison": 5,
+  "precision": 5,
+  "silver": 5,
+  "slashing": 5,
+  "sonic": 5,
+  "splash": 5
+ },
+ "resistance_markdown": "all damage 5 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all damage 5 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 164</row>\r\n\r\n**Creature Family** [Verdorite](/MonsterFamilies.aspx?ID=312)\r\n\r\n<row gap=\"medium\">\r\n**HP** 100 ( negative healing )\r\n\r\n**AC** 26\r\n\r\n**Fort** +13\r\n\r\n**Ref** +16\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWaldgeists act as avatars of nature that seek vengeance for environmental abuse, such as pollution and deforestation. These undead spirits of …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Intimidation +16",
+  "Nature +18",
+  "Stealth +18",
+  "Woodland Lore +21"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Nature](/Skills.aspx?ID=10) +18, [Stealth](/Skills.aspx?ID=15) +18, [Woodland Lore](/Skills.aspx?ID=8) +21",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 164"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 164</row>",
+ "speed": {
+  "fly": 30,
+  "max": 30
+ },
+ "speed_markdown": "fly 30 feet",
+ "speed_raw": "fly 30 feet",
+ "spell": [
+  "Tree Stride",
+  "Wall of Thorns",
+  "Entangle",
+  "Tanglefoot",
+  "Speak with Plants"
+ ],
+ "spell_markdown": "[Entangle](/Spells.aspx?ID=103), [Speak with Plants](/Spells.aspx?ID=294), [Tanglefoot](/Spells.aspx?ID=330), [Tree Stride](/Spells.aspx?ID=343), [Wall of Thorns](/Spells.aspx?ID=366)",
+ "stealth": "18",
+ "strength": -5,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Waldgeists act as avatars of nature that seek vengeance for environmental abuse, such as pollution and deforestation. These undead spirits of …",
+ "summary_markdown": "Waldgeists act as avatars of nature that seek vengeance for environmental abuse, such as pollution and deforestation. These undead spirits of …",
+ "text": " Waldgeist Waldgeists act as avatars of nature that seek vengeance for environmental abuse, such as pollution and deforestation. These undead spirits of destroyed trees form at the site of their destruction or in a nearby woodland, if the original location was entirely razed. They become guardians of the forest, possessing power over the plants within its boundaries. Waldgeists show no mercy to anyone caught damaging their bonded woodland, attacking loggers, fey, travelers, and invasive species with equal prejudice. Recall Knowledge - Spirit (Occultism): DC 26 Recall Knowledge - Undead (Religion): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Waldgeist Source Book of the Dead pg. 164 Perception +18; darkvision Languages Arboreal, Common, Sylvan; speak with plants Skills Acrobatics +16, Intimidation +16, Nature +18, Stealth +18, Woodland Lore +21 Str -5 Dex +6 Con +3 Int +3 Wis +6 Cha +4 --- AC 26 Fort +13 Ref +16 Will +18 HP 100 (negative healing) Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all damage 5 (except force, ghost touch , or positive; double resistance vs. non-magical) Forest Guardian A waldgeist is compelled to investigate the sound of wood or trees being damaged, such as by being burned or chopped down. A waldgeist that hears such a sound must succeed at a DC 26 Will save or spend all their actions moving toward the sound until they identify the cause. This can't be used to compel a waldgeist to leave their bonded woodland. A waldgeist that succeeds at their saving throw is temporarily immune for 10 minutes. Woodland Dependent A waldgeist is mystically bonded to a single forest, jungle, orchard, grove, or other similar large, wooded area and must remain within it. If the waldgeist moves outside their bonded woodland, they're immediately destroyed. --- Speed fly 30 feet Melee Single Action lignifying hand +18 (Finesse, Magical), Damage 2d8+7 negative plus lignify Primal Innate Spells DC 24, attack +16 - Cantrips (4th) Tanglefoot - 2nd Entangle (at will) - 3rd Wall of Thorns - 5th Tree Stride - Constant (4th) Speak with Plants Lignify (Incapacitation, Primal, Transmutation) The touch of a waldgeist transforms flesh into wood. A living creature damaged by the waldgeist's lignifying hand Strike must succeed at a DC 24 Fortitude save or become slowed 1 (or slowed 2 on a critical failure). Further failed saves against lignify increases the slowed condition. Once a creature's actions are reduced to 0 by lignify, that creature becomes petrified, except they're transformed into wood instead of stone. Possess Tree Two Actions (Primal, Transmutation) Frequency once per 10 minutes; Effect The waldgeist touches a tree to merge with it, possessing it for up to 1 minute. They can end this possession early as a free action at the start of their turn. While the waldgeist possesses a tree, they lose the incorporeal trait, fly Speed, all resistances, their non-constant spells, and their lignifying hand Strike. Additionally, their size increases to Huge, they gain resistance 5 to bludgeoning and piercing damage, weakness 10 to fire, Speed 20 feet, and the following branch Strike. Melee Single Action branch (reach 15 feet) +20, Damage 2d12+9 bludgeoning. While a waldgeist possesses a tree, any damage that would be dealt to the waldgeist is instead dealt to the tree. The tree has 60 Hit Points. When the tree is reduced to 0 Hit Points, the waldgeist is immediately ejected, and the tree is destroyed. ",
+ "trait": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Small"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Spirit",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1913",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 6
+}

@@ -1,0 +1,134 @@
+{
+ "ac": 20,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 0,
+ "creature_ability": [
+  "Light Vulnerability",
+  "Shadow Spawn",
+  "Slink in Shadows",
+  "Steal Shadow"
+ ],
+ "creature_family": "Shadow",
+ "creature_family_markdown": "[Shadow](/MonsterFamilies.aspx?ID=89)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-362",
+ "image": [
+  "/Images/Monsters/Shadow_Shadow.png"
+ ],
+ "immunity": [
+  "death effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "death effects, disease, paralyzed, poison, precision, unconscious",
+ "intelligence": -2,
+ "language": [
+  "Necril"
+ ],
+ "language_markdown": "[Necril](/Languages.aspx?ID=20)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Shadow](/Monsters.aspx?ID=362)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, typically by keeping them at bay with a glowing weapon, may learn great secrets, for they are ideal spies.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Shadow_Shadow.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Shadow](/Monsters.aspx?ID=362)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 289</row>\n\n**Perception** +10; darkvision\r\n\r\n**Languages**\r\n[Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +4\r\n\r\n**Con** +0\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 40\n\n**Immunities**\r\ndeath effects, disease, paralyzed, poison, precision, unconscious\r\n\r\n**Resistances**\r\nall 5 (except force, _ghost touch_, or positive; double resistance against non-magical)\r\n\r\n**Weaknesses**\r\nlight vulnerability\r\n\r\n**Light Vulnerability** An object shedding magical light (such as from the _light_ spell) is treated as magical when used to attack the shadow.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshadow hand +15 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+3 negative\n\n**Shadow Spawn**   When a creature’s shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn’t have Steal Shadow and is perpetually and incurably [clumsy 2](/Conditions.aspx?ID=3). If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.\r\n\r\n**Slink in Shadows**   The shadow can Hide or end its Sneak in a creature’s or object’s shadow.\r\n\r\n**Steal Shadow** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Requirement** The shadow hit a living creature with a shadow hand Strike on its previous action. **Effect** The shadow pulls at the target’s shadow, making the creature [enfeebled 1](/Conditions.aspx?ID=13). This is cumulative with other [enfeebled](/Conditions.aspx?ID=13) conditions from shadows, to a maximum of [enfeebled 4](/Conditions.aspx?ID=13). If this increases a creature’s [enfeebled](/Conditions.aspx?ID=13) value to 3 or more, the target’s shadow is separated from its body (see shadow spawn). [Enfeebled](/Conditions.aspx?ID=13) from Steal Shadow decreases by 1 every hour.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-89\" />",
+ "name": "Shadow",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "acid": 5,
+  "all": 5,
+  "area": 5,
+  "bleed": 5,
+  "bludgeoning": 5,
+  "chaotic": 5,
+  "cold": 5,
+  "cold_iron": 5,
+  "electricity": 5,
+  "evil": 5,
+  "fire": 5,
+  "good": 5,
+  "lawful": 5,
+  "mental": 5,
+  "negative": 5,
+  "orichalcum": 5,
+  "physical": 5,
+  "piercing": 5,
+  "poison": 5,
+  "precision": 5,
+  "silver": 5,
+  "slashing": 5,
+  "sonic": 5,
+  "splash": 5
+ },
+ "resistance_markdown": "all 5 (except force, _ghost touch_, or positive; double resistance against non-magical)",
+ "resistance_raw": "all 5 (except force,  ghost touch , or positive; double resistance against non-magical)",
+ "search_markdown": "<traits>\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 289</row>\r\n\r\n**Creature Family** [Shadow](/MonsterFamilies.aspx?ID=89)\r\n\r\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 20\r\n\r\n**Fort** +8\r\n\r\n**Ref** +14\r\n\r\n**Will** +12\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 289"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 289</row>",
+ "speed": {
+  "fly": 30,
+  "max": 30
+ },
+ "speed_markdown": "fly 30 feet",
+ "speed_raw": "fly 30 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, …",
+ "summary_markdown": "The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, …",
+ "text": " Shadow The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, typically by keeping them at bay with a glowing weapon, may learn great secrets, for they are ideal spies. Recall Knowledge - Undead (Religion): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Shadow Source Bestiary pg. 289 Perception +10; darkvision Languages Necril Skills Acrobatics +10, Stealth +14 Str -5 Dex +4 Con +0 Int -2 Wis +2 Cha +3 --- AC 20 Fort +8 Ref +14 Will +12 HP 40 Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all 5 (except force, ghost touch , or positive; double resistance against non-magical) Weaknesses light vulnerability Light Vulnerability An object shedding magical light (such as from the light spell) is treated as magical when used to attack the shadow. --- Speed fly 30 feet Melee Single Action shadow hand +15 (Finesse, Magical), Damage 2d6+3 negative Shadow Spawn When a creature’s shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn’t have Steal Shadow and is perpetually and incurably clumsy 2. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished. Slink in Shadows The shadow can Hide or end its Sneak in a creature’s or object’s shadow. Steal Shadow Single Action (Divine, Necromancy) Requirement The shadow hit a living creature with a shadow hand Strike on its previous action. Effect The shadow pulls at the target’s shadow, making the creature enfeebled 1. This is cumulative with other enfeebled conditions from shadows, to a maximum of enfeebled 4. If this increases a creature’s enfeebled value to 3 or more, the target’s shadow is separated from its body (see shadow spawn). Enfeebled from Steal Shadow decreases by 1 every hour. ",
+ "trait": [
+  "Incorporeal",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=362",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "weakness_markdown": "light vulnerability",
+ "weakness_raw": "light vulnerability",
+ "will_save": 12,
+ "wisdom": 2
+}

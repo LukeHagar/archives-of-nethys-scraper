@@ -1,0 +1,111 @@
+{
+ "ac": 35,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 8,
+ "creature_ability": [
+  "Head Regrowth",
+  "Multiple Opportunities",
+  "Attack of Opportunity",
+  "Catch Rock",
+  "Cacophonous Roar",
+  "Fast Swallow",
+  "Ravenous Jaws",
+  "Rend",
+  "Swallow Whole",
+  "Throw Rock"
+ ],
+ "creature_family": "Troll",
+ "creature_family_markdown": "[Troll](/MonsterFamilies.aspx?ID=96)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 31,
+ "hp": 360,
+ "hp_raw": "360",
+ "id": "creature-834",
+ "image": [
+  "/Images/Monsters/Troll_JotundTroll.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Jotun"
+ ],
+ "language_markdown": "[Jotun](/Languages.aspx?ID=8)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Jotund Troll](/Monsters.aspx?ID=834)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nJotund trolls are gigantic, nine-headed horrors who prowl frigid moors, marshes, and wastelands, always alone and always enraged. While each of the jotund troll's nine heads possess their own brains and senses, they work much more in tandem than the dual-minded nature of the two-headed troll. Despite this, the heads often argue and bicker, particularly over which head gets to eat. The fact that all nine maws lead to the same shared stomach makes little difference in such culinary disagreements.\n\n Prevailing wisdom holds that the jotund troll represents a primordial, if not original, shape and design for the first trolls to plague the world, arising from a mythical realm in the Great Beyond known as Jotungard. This sprawling domain, said to be nestled in a remote reach of [Elysium](/Planes.aspx?ID=16), is the legendary home of the deities of giant-kind. Whether the jotund troll was created in Jotungard to plague the Material Plane as punishment or challenge, or if it's merely an evocative legend told by scholars, is unknown. In any case, the jotund trolls themselves likely care little.\r\n\r\n<column gap=\"tiny\">\n\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 37\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 34\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Troll_JotundTroll.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Jotund Troll](/Monsters.aspx?ID=834)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 267 <sup>2.0</sup></row>\n\n**Perception** +29; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +29, [Intimidation](/Skills.aspx?ID=7) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +8\r\n\r\n**Int** -1\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +31 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 360\r\n\r\n, regeneration 40 (deactivated by acid or fire)\n\n**Weaknesses**\r\nfire 10\r\n\r\n**Head Regrowth** A jotund troll ordinarily has nine heads, and they can use regeneration to regrow a head that is severed from an effect like a [_vorpal_](/Equipment.aspx?ID=308) weapon. After regaining Hit Points from regeneration, the jotund troll attempts a DC 8 flat check. On a success, one missing head is fully restored; on a critical success, two missing heads are fully restored. If a jotund troll loses their last remaining head, they die immediately.<br />**Multiple Opportunities** A jotund troll gains an extra reaction per round for each of their heads beyond the first, which they can use only to make Attacks of Opportunity with their jaws or to Fast Swallow. They can't use more than 1 reaction for the same triggering action, even if a creature leaves several squares within their reach, and the jotund troll must use a different head for each Attack of Opportunity they make. Whenever one of the jotund troll's heads is severed, the troll loses 1 of their extra reactions per round.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**[Catch Rock](/MonsterAbilities.aspx?ID=7)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +29 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+14 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +29 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+14 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +30 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d12+14 bludgeoning\n\n**Cacophonous Roar** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1d4 rounds. <br />**Critical Success** The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours. <br />**Success** The creature is [stupefied 1](/Conditions.aspx?ID=37) for 1 round. <br />**Failure** The creature is [confused](/Conditions.aspx?ID=5) for 1 round. <br />**Critical Failure** The creature is confused for 1d4 rounds.\r\n\r\n**Fast Swallow** <actions string=\"Reaction\" />  **Trigger** The jotund troll [Grabs](/MonsterAbilities.aspx?ID=18) a creature with their jaws; **Effect** The troll uses Swallow Whole.\r\n\r\n**Ravenous Jaws** <actions string=\"Two Actions\" />  The jotund troll makes a number of jaws Strikes up to their number of heads, each against a different target. These attacks count toward the troll's multiple attack penalty, but the penalty doesn't increase until after the jotund troll makes all of these attacks.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Medium, 3d12+8 bludgeoning, Rupture 36\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Ravenous Mutants</title>\r\n\r\nJotund trolls on the world of Golarion are found in two particular regions with greater frequency: the magicwarped reaches of the Mana Wastes, and the radiation-wracked badlands of Numeria. In both places, the presence of life-altering magic or science seems to have had the same effect in bolstering the presence of these lumbering monstrosities.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-96\" />",
+ "name": "Jotund Troll",
+ "npc": false,
+ "perception": 29,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 23,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 267 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Troll](/MonsterFamilies.aspx?ID=96)\r\n\r\n<row gap=\"medium\">\r\n**HP** 360\r\n\r\n**AC** 35\r\n\r\n**Fort** +31\r\n\r\n**Ref** +23\r\n\r\n**Will** +23\r\n\r\n**Perception** +29\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nJotund trolls are gigantic, nine-headed horrors who prowl frigid moors, marshes, and wastelands, always alone and always enraged. While each of the …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +29",
+  "Intimidation +27"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +29, [Intimidation](/Skills.aspx?ID=7) +27",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 267"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 267 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell_markdown": "",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Jotund trolls are gigantic, nine-headed horrors who prowl frigid moors, marshes, and wastelands, always alone and always enraged. While each of the …",
+ "summary_markdown": "Jotund trolls are gigantic, nine-headed horrors who prowl frigid moors, marshes, and wastelands, always alone and always enraged. While each of the …",
+ "text": " Jotund Troll Jotund trolls are gigantic, nine-headed horrors who prowl frigid moors, marshes, and wastelands, always alone and always enraged. While each of the jotund troll's nine heads possess their own brains and senses, they work much more in tandem than the dual-minded nature of the two-headed troll. Despite this, the heads often argue and bicker, particularly over which head gets to eat. The fact that all nine maws lead to the same shared stomach makes little difference in such culinary disagreements. Prevailing wisdom holds that the jotund troll represents a primordial, if not original, shape and design for the first trolls to plague the world, arising from a mythical realm in the Great Beyond known as Jotungard. This sprawling domain, said to be nestled in a remote reach of Elysium, is the legendary home of the deities of giant-kind. Whether the jotund troll was created in Jotungard to plague the Material Plane as punishment or challenge, or if it's merely an evocative legend told by scholars, is unknown. In any case, the jotund trolls themselves likely care little. Unspecific Lore : DC 37 Specific Lore : DC 34 Jotund Troll Source Bestiary 2 pg. 267 2.0 Perception +29; darkvision Languages Jotun Skills Athletics +29, Intimidation +27 Str +8 Dex +4 Con +8 Int -1 Wis +6 Cha +4 --- AC 35 all-around vision Fort +31 Ref +23 Will +23 HP 360 , regeneration 40 (deactivated by acid or fire) Weaknesses fire 10 Head Regrowth A jotund troll ordinarily has nine heads, and they can use regeneration to regrow a head that is severed from an effect like a vorpal weapon. After regaining Hit Points from regeneration, the jotund troll attempts a DC 8 flat check. On a success, one missing head is fully restored; on a critical success, two missing heads are fully restored. If a jotund troll loses their last remaining head, they die immediately. Multiple Opportunities A jotund troll gains an extra reaction per round for each of their heads beyond the first, which they can use only to make Attacks of Opportunity with their jaws or to Fast Swallow. They can't use more than 1 reaction for the same triggering action, even if a creature leaves several squares within their reach, and the jotund troll must use a different head for each Attack of Opportunity they make. Whenever one of the jotund troll's heads is severed, the troll loses 1 of their extra reactions per round. Attack of Opportunity Reaction Catch Rock Reaction --- Speed 30 feet, climb 20 feet Melee Single Action jaws +29 (reach 15 feet), Damage 3d12+14 piercing plus Grab Melee Single Action claw +29 (Agile, reach 15 feet), Damage 3d10+14 slashing Ranged Single Action rock +30 (Brutal, range increment 120 feet), Damage 2d12+14 bludgeoning Cacophonous Roar Two Actions (Auditory, Emotion, Enchantment, Incapacitation, Mental, Primal) The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1d4 rounds. Critical Success The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours. Success The creature is stupefied 1 for 1 round. Failure The creature is confused for 1 round. Critical Failure The creature is confused for 1d4 rounds. Fast Swallow Reaction Trigger The jotund troll Grabs a creature with their jaws; Effect The troll uses Swallow Whole. Ravenous Jaws Two Actions The jotund troll makes a number of jaws Strikes up to their number of heads, each against a different target. These attacks count toward the troll's multiple attack penalty, but the penalty doesn't increase until after the jotund troll makes all of these attacks. Rend Single Action claw Swallow Whole Single Action (Attack) Medium, 3d12+8 bludgeoning, Rupture 36 Throw Rock Single Action Ravenous Mutants Jotund trolls on the world of Golarion are found in two particular regions with greater frequency: the magicwarped reaches of the Mana Wastes, and the radiation-wracked badlands of Numeria. In both places, the presence of life-altering magic or science seems to have had the same effect in bolstering the presence of these lumbering monstrosities. ",
+ "trait": [
+  "Giant",
+  "Mutant",
+  "Rare",
+  "Troll",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Mutant](/Traits.aspx?ID=229), [Rare](/Traits.aspx?ID=137), [Troll](/Traits.aspx?ID=241)",
+ "trait_raw": [
+  "Giant",
+  "Mutant",
+  "Rare",
+  "Troll"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=834",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 23,
+ "wisdom": 6
+}

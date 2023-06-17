@@ -1,0 +1,57 @@
+{
+ "ac": 25,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 18  Thievery  (trained) to disarm the desk switch; DC 28 (expert) to disarm the trapdoor charge",
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hardness": 8,
+ "hardness_raw": "8 Trapdoor Hardness",
+ "hazard_type": "Trap",
+ "hp": 50,
+ "hp_raw": "50 (BT 25)",
+ "id": "hazard-173",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 7,
+ "markdown": "<title level=\"1\" right=\"Hazard 7\" pfs=\"\">[Explosive Steam Trap](/Hazards.aspx?ID=173)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 55</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA black-powder charge fastened to a trapdoor (marked with a “T” on the map) blows a hole in a steam tunnel, filling the room with superheated steam.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 20 (trained) to find the desk switch; DC 28 (expert) to find the trapdoor and charge\r\n\r\n**Disable**\r\nDC 18 [Thievery](/Skills.aspx?ID=17) (trained) to disarm the desk switch; DC 28 (expert) to disarm the trapdoor charge\n\n<column gap=\"tiny\">\r\n\r\n**AC** 25, **Fort** +18, **Ref** +15\r\n\r\n**Trapdoor Hardness**\r\n8\r\n\r\n**Trapdoor HP**\r\n50 (BT 25)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Explosive Charge** <actions string=\"Reaction\" /> **Trigger** The desk switch is pressed or the trapdoor is opened; **Effect** The charge on the door explodes. All creatures within 10 feet take 2d10+6 fire damage, 1d10+3 piercing damage, and 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) (DC 22 [basic](/Rules.aspx?ID=329) Reflex save). The room is filled with steam, making all creatures within the room [concealed](/Conditions.aspx?ID=4). The trap then rolls initiative.\n\n---\r\n**Routine**\r\n(1 action) The trapdoor emits a jet of superheated steam. Each creature in the room must attempt a DC 28 Fortitude save.\n\n**Critical Success** The creature is unaffected.<br />\n**Success** The creature takes 1d10+3 fire damage.<br />\n**Failure** The creature takes 2d10+6 fire damage and is [blinded](/Conditions.aspx?ID=1) for 1 round.<br />\n**Critical Failure** The creature takes 2d10+6 fire damage, is [fatigued](/Conditions.aspx?ID=15), and is blinded for 1 round.",
+ "name": "Explosive Steam Trap",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2022-05-25",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 55</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA black-powder charge fastened to a trapdoor (marked with a “T” on the map) blows a hole in a steam tunnel, filling the room with superheated steam.\r\n</summary>",
+ "source": [
+  "Pathfinder #179: Cradle of Quartz"
+ ],
+ "source_raw": [
+  "Pathfinder #179: Cradle of Quartz pg. 55"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 55</row>",
+ "speed": {},
+ "stealth": "DC 20 (trained) to find the desk switch; DC 28 (expert) to find the trapdoor and charge",
+ "summary": "A black-powder charge fastened to a trapdoor (marked with a “T” on the map) blows a hole in a steam tunnel, filling the room with superheated steam.",
+ "summary_markdown": "A black-powder charge fastened to a trapdoor (marked with a “T” on the map) blows a hole in a steam tunnel, filling the room with superheated steam.",
+ "text": " Explosive Steam Trap Source Pathfinder #179: Cradle of Quartz pg. 55 Complexity Complex A black-powder charge fastened to a trapdoor (marked with a “T” on the map) blows a hole in a steam tunnel, filling the room with superheated steam. --- Stealth DC 20 (trained) to find the desk switch; DC 28 (expert) to find the trapdoor and charge Disable DC 18 Thievery (trained) to disarm the desk switch; DC 28 (expert) to disarm the trapdoor charge AC 25, Fort +18, Ref +15 Trapdoor Hardness 8 Trapdoor HP 50 (BT 25) Immunities critical hits, object immunities, precision damage Explosive Charge Reaction Trigger The desk switch is pressed or the trapdoor is opened; Effect The charge on the door explodes. All creatures within 10 feet take 2d10+6 fire damage, 1d10+3 piercing damage, and 1d6 persistent bleed damage (DC 22 basic Reflex save). The room is filled with steam, making all creatures within the room concealed. The trap then rolls initiative. --- Routine (1 action) The trapdoor emits a jet of superheated steam. Each creature in the room must attempt a DC 28 Fortitude save. Critical Success The creature is unaffected. Success The creature takes 1d10+3 fire damage. Failure The creature takes 2d10+6 fire damage and is blinded for 1 round. Critical Failure The creature takes 2d10+6 fire damage, is fatigued, and is blinded for 1 round.",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=173",
+ "weakness": {}
+}

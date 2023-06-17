@@ -1,0 +1,98 @@
+{
+ "ac": 16,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 2,
+ "creature_ability": [
+  "Sense Companion",
+  "Stench",
+  "Feral Leap"
+ ],
+ "creature_family": "Risen Pet",
+ "creature_family_markdown": "[Risen Pet](/MonsterFamilies.aspx?ID=309)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 4,
+ "hp": 6,
+ "hp_raw": "6 ( negative healing )",
+ "id": "creature-1895",
+ "image": [
+  "/Images/Monsters/RisenPet_Rabbit.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [_sleep_](/Spells.aspx?ID=288)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": -1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Predatory Rabbit](/Monsters.aspx?ID=1895)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSkittish in life, predatory rabbits are fast and nimble predators in unassuming forms. They most enjoy hunting birds, squirrels, cats, and other rabbits.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 13\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 11\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 8\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/RisenPet_Rabbit.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature -1\">[Predatory Rabbit](/Monsters.aspx?ID=1895)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 142</row>\n\n**Perception** +5; [darkvision](/MonsterAbilities.aspx?ID=12), sense companion\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +6, [Athletics](/Skills.aspx?ID=3) +2, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Sense Companion** ([detection](/Traits.aspx?ID=43), [divination](/Traits.aspx?ID=47), [occult](/Traits.aspx?ID=120)) A predatory rabbit knows the direction of its past owner or family (as long as they're both on the same plane), but not the distance.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +4 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +3 \n\n</row>\r\n\r\n**HP** 6\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [_sleep_](/Spells.aspx?ID=288)\n\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 13 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (plus [slowed 1](/Conditions.aspx?ID=35) for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against [disease](/Traits.aspx?ID=46) and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +8 ([Finesse](/Traits.aspx?ID=179), [reach 0 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d4 piercing\n\n**Feral Leap** <actions string=\"Two Actions\" /> ([Move](/Traits.aspx?ID=114)) The predatory rabbit jumps with a maximum height and distance each equal to half its Speed. This movement doesn't trigger reactions. At any point, the predatory rabbit attempts a jaws Strike.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-309\" />",
+ "name": "Predatory Rabbit",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 142</row>\r\n\r\n**Creature Family** [Risen Pet](/MonsterFamilies.aspx?ID=309)\r\n\r\n<row gap=\"medium\">\r\n**HP** 6 ( negative healing )\r\n\r\n**AC** 16\r\n\r\n**Fort** +4\r\n\r\n**Ref** +8\r\n\r\n**Will** +3\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSkittish in life, predatory rabbits are fast and nimble predators in unassuming forms. They most enjoy hunting birds, squirrels, cats, and other …\r\n</summary>",
+ "sense": " darkvision , sense companion",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), sense companion",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +6",
+  "Athletics +2",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +6, [Athletics](/Skills.aspx?ID=3) +2, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 142"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 142</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Skittish in life, predatory rabbits are fast and nimble predators in unassuming forms. They most enjoy hunting birds, squirrels, cats, and other …",
+ "summary_markdown": "Skittish in life, predatory rabbits are fast and nimble predators in unassuming forms. They most enjoy hunting birds, squirrels, cats, and other …",
+ "text": " Predatory Rabbit Skittish in life, predatory rabbits are fast and nimble predators in unassuming forms. They most enjoy hunting birds, squirrels, cats, and other rabbits. Recall Knowledge - Undead (Religion): DC 13 Unspecific Lore : DC 11 Specific Lore : DC 8 Predatory Rabbit Source Book of the Dead pg. 142 Perception +5; darkvision, sense companion Languages Skills Acrobatics +6, Athletics +2, Stealth +6 Str +0 Dex +4 Con +2 Int -4 Wis +1 Cha -1 Sense Companion (detection, divination, occult) A predatory rabbit knows the direction of its past owner or family (as long as they're both on the same plane), but not the distance. --- AC 16 Fort +4 Ref +8 Will +3 HP 6 (negative healing) Immunities death effects, disease, paralyzed, poison, sleep Stench (aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 13 Fortitude save or become sickened 1 (plus slowed 1 for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute. --- Speed 40 feet Melee Single Action jaws +8 (Finesse, reach 0 feet), Damage 1d4 piercing Feral Leap Two Actions (Move) The predatory rabbit jumps with a maximum height and distance each equal to half its Speed. This movement doesn't trigger reactions. At any point, the predatory rabbit attempts a jaws Strike. ",
+ "trait": [
+  "Undead",
+  "CE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1895",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 3,
+ "wisdom": 1
+}

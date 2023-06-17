@@ -1,0 +1,86 @@
+{
+ "ac": 26,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 6,
+ "creature_ability": [
+  "Petrifying Glance",
+  "Petrifying Gaze"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 188,
+ "hp_raw": "188",
+ "id": "creature-2294",
+ "intelligence": -3,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Freshly Bloomed Basilisk](/Monsters.aspx?ID=2294)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Freshly Bloomed Basilisk](/Monsters.aspx?ID=2294)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 229</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +1\r\n\r\n**Con** +6\r\n\r\n**Int** -3\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 188\n\n**Petrifying Glance** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [aura](/MonsterAbilities.aspx?ID=5), [transmutation](/Traits.aspx?ID=157), [visual](/Traits.aspx?ID=163)) **Trigger** A creature within 30 feet that the basilisk can see starts its turn. **Effect** The target must attempt a DC 25 Fortitude save. If it fails, it's [slow](/Conditions.aspx?ID=35) 1 for 1 minute as its body slowly stiffens.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21,\r\n**Damage** 2d12+9 piercing\n\n**Petrifying Gaze** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Incapacitation](/Traits.aspx?ID=93), [Transmutation](/Traits.aspx?ID=157), [Visual](/Traits.aspx?ID=163)) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 27 Fortitude save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [slowed](/Conditions.aspx?ID=35) 1. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be [petrified](/Conditions.aspx?ID=30) permanently. A creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner.\r\n\r\n</column>",
+ "name": "Freshly Bloomed Basilisk",
+ "npc": false,
+ "perception": 18,
+ "rarity": "unique",
+ "reflex_save": 14,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 229</row>\n\n<row gap=\"medium\">\r\n**HP** 188\r\n\r\n**AC** 26\r\n\r\n**Fort** +21\r\n\r\n**Ref** +14\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +19",
+  "Stealth +18"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +18",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 229"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 229</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "18",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Freshly Bloomed Basilisk Recall Knowledge - Beast (Arcana, Nature): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Freshly Bloomed Basilisk Source Kingmaker Adventure Path pg. 229 Perception +18; darkvision Languages Skills Athletics +19, Stealth +18 Str +6 Dex +1 Con +6 Int -3 Wis +3 Cha +2 --- AC 26 Fort +21 Ref +14 Will +18 HP 188 Petrifying Glance Reaction (arcane, aura, transmutation, visual) Trigger A creature within 30 feet that the basilisk can see starts its turn. Effect The target must attempt a DC 25 Fortitude save. If it fails, it's slow 1 for 1 minute as its body slowly stiffens. --- Speed 20 feet Melee Single Action jaws +21, Damage 2d12+9 piercing Petrifying Gaze Two Actions (Arcane, Incapacitation, Transmutation, Visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 27 Fortitude save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes slowed 1. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be petrified permanently. A creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner. ",
+ "trait": [
+  "Beast",
+  "Unique",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Beast",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2294",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 3
+}

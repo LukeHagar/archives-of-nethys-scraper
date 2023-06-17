@@ -1,0 +1,111 @@
+{
+ "ac": 25,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Fade into the Light",
+  "Fearful Attack",
+  "Infernal Mindlink",
+  "Menacing Growl",
+  "Pounce"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 110,
+ "hp_raw": "110",
+ "id": "creature-695",
+ "image": [
+  "/Images/Monsters/Hellcat.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Infernal",
+  "can't speak any language, telepathy 100 feet"
+ ],
+ "language_markdown": "[Infernal](/Languages.aspx?ID=19); can't speak any language, telepathy 100 feet",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Hellcat](/Monsters.aspx?ID=695)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHellcats are devious predators native to the fiery pits of Hell. While the fiendish creatures appears as skeletal smilodons, their bones smoking with heat and dripping with boiling blood, they are not undead. They are living hellspawn with transparent flesh that reveals their burning skeletons. A typical hellcat is 9 feet long and weighs 1,000 pounds.\n\n Left to their own devices, hellcats spend their time hunting—that is, seeking and stalking prey just for the thrill of the chase. As fiendish creatures, they do not require mortal sustenance, but they do devour their prey for the sheer pleasure of inflicting pain. They are also far more intelligent than most assume, and they resent being treated as unintelligent animals; those who treat a hellcat as a one may find themself made into a trophy for its pack, as a hellcat goes to great lengths to coordinate elaborate revenge upon those who fail to show proper respect.\n\n Though they can't speak, hellcats know Infernal and can communicate by telepathy with any creature capable of speech. They rarely say much except to make whispered threats and to acknowledge the orders of their diabolic masters.\n\n Hellcats are quick to retreat if they are clearly outmatched or up against foes they're unable to reach, but they never forget prey that escapes them. They often track potential victims and recruit allies, including other hellcats, to make coordinated attacks or ambushes against their foes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 23\r\n\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Hellcat.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Hellcat](/Monsters.aspx?ID=695)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 141 <sup>2.0</sup></row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Infernal](/Languages.aspx?ID=19); can't speak any language, telepathy 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +14, [Stealth](/Skills.aspx?ID=15) +17, [Survival](/Skills.aspx?ID=16) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +12 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 110\n\n**Resistances**\r\nfire 10, physical 5 (except silver)\r\n\r\n**Weaknesses**\r\ngood 5\r\n\r\n**Fade into the Light** <actions string=\"Reaction\" /> ([divine](/Traits.aspx?ID=48), [illusion](/Traits.aspx?ID=92)) **Trigger** The hellcat begins its turn in bright light; **Effect** The hellcat becomes [invisible](/Conditions.aspx?ID=26) until its no longer in bright light. If the hellcat uses a hostile action, the invisibility ends after that hostile action is completed.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +18,\r\n**Damage** 2d12+7 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+7 slashing\n\n**Fearful Attack**   The hellcat deals an additional 1d6 precision damage to [frightened](/Conditions.aspx?ID=19) creatures.\r\n\r\n**Infernal Mindlink** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Divination](/Traits.aspx?ID=47)) The hellcat telepathically link its senses to all other hellcats within 100 feet for 10 minutes. It loses this contact with any hellcat that moves out of a 100-foot radius. While linked to at least one ally, the hellcat can't be flanked and gains a +2 status bonus to Will saving throws.\r\n\r\n**Menacing Growl** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The hellcat produces a low growl to disorient and frighten foes. The hellcat can cause this vocalization to originate from somewhere else within 30 feet. Non-[fiends](/Traits.aspx?ID=70) in a 15-foot burst must attempt a DC 25 Will save. The hellcat can't issue another Menacing Growl for 1d4 rounds. <br />**Critical Success** The creature is unaffected and is temporarily immune for 24 hours. <br />**Success** The creature is [frightened 1](/Conditions.aspx?ID=19). <br />**Failure** The creature is frightened 2. <br />**Critical Failure** The creature is frightened 4.\r\n\r\n**Pounce** <actions string=\"Single Action\" />  The hellcat Strides and makes a Strike at the end of that movement. If the hellcat began this action [hidden](/Conditions.aspx?ID=22), it remains hidden until after the ability's Strike.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Cats and Dogs</title>\r\n\r\nIf there's one thing more certain to infuriate a hellcat other than to treat it as a mere animal, that is to compare it in any way to a [hell hound](/Monsters.aspx?ID=259). Hellcats consider hell hounds little more than vermin infesting the hellscapes they call home, and enjoy torturing them more than any other creature.\r\n</aside>",
+ "name": "Hellcat",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 5,
+  "fire": 10,
+  "physical": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "fire 10, physical 5 (except silver)",
+ "resistance_raw": "fire 10, physical 5 (except silver)",
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 141 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 110\r\n\r\n**AC** 25\r\n\r\n**Fort** +15\r\n\r\n**Ref** +17\r\n\r\n**Will** +12\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHellcats are devious predators native to the fiery pits of Hell. While the fiendish creatures appears as skeletal smilodons, their bones smoking with …\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +17",
+  "Intimidation +14",
+  "Stealth +17",
+  "Survival +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +14, [Stealth](/Skills.aspx?ID=15) +17, [Survival](/Skills.aspx?ID=16) +14",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 141"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 141 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Hellcats are devious predators native to the fiery pits of Hell. While the fiendish creatures appears as skeletal smilodons, their bones smoking with …",
+ "summary_markdown": "Hellcats are devious predators native to the fiery pits of Hell. While the fiendish creatures appears as skeletal smilodons, their bones smoking with …",
+ "text": " Hellcat Hellcats are devious predators native to the fiery pits of Hell. While the fiendish creatures appears as skeletal smilodons, their bones smoking with heat and dripping with boiling blood, they are not undead. They are living hellspawn with transparent flesh that reveals their burning skeletons. A typical hellcat is 9 feet long and weighs 1,000 pounds. Left to their own devices, hellcats spend their time hunting—that is, seeking and stalking prey just for the thrill of the chase. As fiendish creatures, they do not require mortal sustenance, but they do devour their prey for the sheer pleasure of inflicting pain. They are also far more intelligent than most assume, and they resent being treated as unintelligent animals; those who treat a hellcat as a one may find themself made into a trophy for its pack, as a hellcat goes to great lengths to coordinate elaborate revenge upon those who fail to show proper respect. Though they can't speak, hellcats know Infernal and can communicate by telepathy with any creature capable of speech. They rarely say much except to make whispered threats and to acknowledge the orders of their diabolic masters. Hellcats are quick to retreat if they are clearly outmatched or up against foes they're unable to reach, but they never forget prey that escapes them. They often track potential victims and recruit allies, including other hellcats, to make coordinated attacks or ambushes against their foes. Recall Knowledge - Beast (Arcana, Nature): DC 23 Recall Knowledge - Fiend (Religion): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Hellcat Source Bestiary 2 pg. 141 2.0 Perception +16; darkvision, scent (imprecise) 30 feet Languages Infernal; can't speak any language, telepathy 100 feet Skills Acrobatics +17, Athletics +17, Intimidation +14, Stealth +17, Survival +14 Str +6 Dex +4 Con +4 Int +0 Wis +3 Cha +1 --- AC 25 Fort +15 Ref +17 Will +12 +1 status to all saves vs. magic HP 110 Resistances fire 10, physical 5 (except silver) Weaknesses good 5 Fade into the Light Reaction (divine, illusion) Trigger The hellcat begins its turn in bright light; Effect The hellcat becomes invisible until its no longer in bright light. If the hellcat uses a hostile action, the invisibility ends after that hostile action is completed. --- Speed 35 feet Melee Single Action jaws +18, Damage 2d12+7 piercing Melee Single Action claw +18 (Agile), Damage 2d8+7 slashing Fearful Attack The hellcat deals an additional 1d6 precision damage to frightened creatures. Infernal Mindlink Single Action (Concentrate, Divine, Divination) The hellcat telepathically link its senses to all other hellcats within 100 feet for 10 minutes. It loses this contact with any hellcat that moves out of a 100-foot radius. While linked to at least one ally, the hellcat can't be flanked and gains a +2 status bonus to Will saving throws. Menacing Growl Two Actions (Auditory, Emotion, Fear, Mental) The hellcat produces a low growl to disorient and frighten foes. The hellcat can cause this vocalization to originate from somewhere else within 30 feet. Non-fiends in a 15-foot burst must attempt a DC 25 Will save. The hellcat can't issue another Menacing Growl for 1d4 rounds. Critical Success The creature is unaffected and is temporarily immune for 24 hours. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure The creature is frightened 4. Pounce Single Action The hellcat Strides and makes a Strike at the end of that movement. If the hellcat began this action hidden, it remains hidden until after the ability's Strike. Cats and Dogs If there's one thing more certain to infuriate a hellcat other than to treat it as a mere animal, that is to compare it in any way to a hell hound. Hellcats consider hell hounds little more than vermin infesting the hellscapes they call home, and enjoy torturing them more than any other creature. ",
+ "trait": [
+  "Beast",
+  "Fiend",
+  "LE",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Beast",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=695",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "good": 5
+ },
+ "weakness_markdown": "good 5",
+ "weakness_raw": "good 5",
+ "will_save": 12,
+ "wisdom": 3
+}

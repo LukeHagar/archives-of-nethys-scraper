@@ -1,0 +1,100 @@
+{
+ "ac": 31,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Skittering Reposition",
+  "Carry Off Prey",
+  "Constrict",
+  "Skittering Assault"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 250,
+ "hp_raw": "250",
+ "id": "creature-237",
+ "image": [
+  "/Images/Monsters/Gogiteth.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Undercommon",
+  "(can’t speak)"
+ ],
+ "language_markdown": "[Undercommon](/Languages.aspx?ID=11); (can’t speak)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Gogiteth](/Monsters.aspx?ID=237)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA gogiteth is a slavering nightmare of teeth, eyes, and hairy spiderlike legs, and its appearance is invariably seared into the minds of any who witness it. Hives of these skittering monsters haunt the lowest reaches of the Darklands, competing with cave worms and other subterranean horrors for food and resources. A gogiteth is rarely seen alone, as these oversized vermin learned long ago that the best means of survival is sticking close to others of their own kind. Even the haughty drow know to seek cover when a gogiteth is spotted, for where there is one, a swarm is sure to follow.\n\n Gogiteths make a clacking sound as they move about. The joints in their many legs pop and crack with each movement, though they can suppress this sound voluntarily so that they can hunt without giving away their presence. The odd creatures can also make a high-pitched whistling sound that echoes throughout the caverns where they live. Some Darklands natives report that groups of gogiteths sometimes join together in eerie, discordant songs.\n\n Gogiteths’ alien anatomies have inspired no shortage of speculative origin stories. Some believe they are the result of a fleshwarping experiment gone horribly wrong. Others think they may be related in some way to the Dominion of the Black—possibly the distant cousins or some strange exile of that alien entity; according to this mythos, once they made their way to this planet, the gogiteths crawled into the depths of the earth, shying away from the blazing sun above.\n\n Gogiteths are a menace to every other denizen of the Darklands. Drow and duergars in gogiteth-infested regions of Sekamina or Orv frequently organize hunting parties to eradicate the terrors, even calling for temporary truces with unlikely allies in times when a gogiteth presence must be addressed. Since even an average gogiteth hive can host up to two dozen of the horrors, missions to eradicate them when they become established are dangerous quests indeed.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gogiteth.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Gogiteth](/Monsters.aspx?ID=237)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 183</row>\n\n**Perception** +21; darkvision\r\n\r\n**Languages**\r\n[Undercommon](/Languages.aspx?ID=11); (can’t speak)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +24, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 all-around vision\r\n\r\n**Fort** +25 \r\n\r\n**Ref** +22 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 250\n\n**Resistances**\r\npoison 10\n\n**Skittering Reposition** <actions string=\"Reaction\" /> ([move](/Traits.aspx?ID=114)) **Trigger** A creature that starts its move outside the gogiteth’s reach moves into its reach. **Effect** The gogiteth moves 10 feet. This does not trigger reactions.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet; climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +26,\r\n**Damage** 3d10+12 piercing plus Improved Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nleg +26 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+12 piercing\n\n**Carry Off Prey**   The gogiteth can move at its full Speed while it has a creature grabbed in its jaws, bringing the grabbed creature along.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  3d6+12 bludgeoning, DC 32\r\n\r\n**Skittering Assault** <actions string=\"Two Actions\" />  The gogiteth Strides three times. Once per Stride, it can attempt a leg Strike against a creature in its reach at any point during the Stride; it must make each attack against a different creature, but it doesn’t apply its multiple attack penalty until after making all its Strikes. If any of the Strikes result in a critical failure, Skittering Assault ends.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Great Gogiteths</title>\r\n\r\nAs deadly as gogiteths are, rumors persist of even more terrifying threats known as great gogiteths. Said to be nearly a hundred feet across and capable of spawning their own hordes of gogiteths in reaction to being attacked, great gogiteths are also reputed to be unusually intelligent. The rumors claim that great gogiteths are largely content to lurk in their deep, remote caverns and spend the ages dreaming of sadism and violence.\r\n</aside>",
+ "name": "Gogiteth",
+ "npc": false,
+ "perception": 21,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 22,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "poison": 10
+ },
+ "resistance_markdown": "poison 10",
+ "resistance_raw": "poison 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 183</row>\n\n<row gap=\"medium\">\r\n**HP** 250\r\n\r\n**AC** 31\r\n\r\n**Fort** +25\r\n\r\n**Ref** +22\r\n\r\n**Will** +20\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA gogiteth is a slavering nightmare of teeth, eyes, and hairy spiderlike legs, and its appearance is invariably seared into the minds of any who …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +24",
+  "Stealth +21",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +24, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 183"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 183</row>",
+ "speed": {
+  "climb": 30,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet; climb 30 feet",
+ "speed_raw": "40 feet; climb 30 feet",
+ "spell_markdown": "",
+ "stealth": "21",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A gogiteth is a slavering nightmare of teeth, eyes, and hairy spiderlike legs, and its appearance is invariably seared into the minds of any who …",
+ "summary_markdown": "A gogiteth is a slavering nightmare of teeth, eyes, and hairy spiderlike legs, and its appearance is invariably seared into the minds of any who …",
+ "text": " Gogiteth A gogiteth is a slavering nightmare of teeth, eyes, and hairy spiderlike legs, and its appearance is invariably seared into the minds of any who witness it. Hives of these skittering monsters haunt the lowest reaches of the Darklands, competing with cave worms and other subterranean horrors for food and resources. A gogiteth is rarely seen alone, as these oversized vermin learned long ago that the best means of survival is sticking close to others of their own kind. Even the haughty drow know to seek cover when a gogiteth is spotted, for where there is one, a swarm is sure to follow. Gogiteths make a clacking sound as they move about. The joints in their many legs pop and crack with each movement, though they can suppress this sound voluntarily so that they can hunt without giving away their presence. The odd creatures can also make a high-pitched whistling sound that echoes throughout the caverns where they live. Some Darklands natives report that groups of gogiteths sometimes join together in eerie, discordant songs. Gogiteths’ alien anatomies have inspired no shortage of speculative origin stories. Some believe they are the result of a fleshwarping experiment gone horribly wrong. Others think they may be related in some way to the Dominion of the Black—possibly the distant cousins or some strange exile of that alien entity; according to this mythos, once they made their way to this planet, the gogiteths crawled into the depths of the earth, shying away from the blazing sun above. Gogiteths are a menace to every other denizen of the Darklands. Drow and duergars in gogiteth-infested regions of Sekamina or Orv frequently organize hunting parties to eradicate the terrors, even calling for temporary truces with unlikely allies in times when a gogiteth presence must be addressed. Since even an average gogiteth hive can host up to two dozen of the horrors, missions to eradicate them when they become established are dangerous quests indeed. Recall Knowledge - Aberration (Occultism): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Gogiteth Source Bestiary pg. 183 Perception +21; darkvision Languages Undercommon; (can’t speak) Skills Acrobatics +19, Athletics +24, Stealth +21, Survival +17 Str +6 Dex +3 Con +4 Int -2 Wis +1 Cha +0 --- AC 31 all-around vision Fort +25 Ref +22 Will +20 HP 250 Resistances poison 10 Skittering Reposition Reaction (move) Trigger A creature that starts its move outside the gogiteth’s reach moves into its reach. Effect The gogiteth moves 10 feet. This does not trigger reactions. --- Speed 40 feet; climb 30 feet Melee Single Action jaws +26, Damage 3d10+12 piercing plus Improved Grab Melee Single Action leg +26 (Agile, reach 10 feet), Damage 3d6+12 piercing Carry Off Prey The gogiteth can move at its full Speed while it has a creature grabbed in its jaws, bringing the grabbed creature along. Constrict Single Action 3d6+12 bludgeoning, DC 32 Skittering Assault Two Actions The gogiteth Strides three times. Once per Stride, it can attempt a leg Strike against a creature in its reach at any point during the Stride; it must make each attack against a different creature, but it doesn’t apply its multiple attack penalty until after making all its Strikes. If any of the Strikes result in a critical failure, Skittering Assault ends. Great Gogiteths As deadly as gogiteths are, rumors persist of even more terrifying threats known as great gogiteths. Said to be nearly a hundred feet across and capable of spawning their own hordes of gogiteths in reaction to being attacked, great gogiteths are also reputed to be unusually intelligent. The rumors claim that great gogiteths are largely content to lurk in their deep, remote caverns and spend the ages dreaming of sadism and violence. ",
+ "trait": [
+  "Aberration",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=237",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 20,
+ "wisdom": 1
+}

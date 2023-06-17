@@ -1,0 +1,149 @@
+{
+ "ac": 30,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 3,
+ "creature_ability": [
+  "Bound",
+  "Shadowless",
+  "Change Shape",
+  "Possess Animal",
+  "Primal Corruption"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 175,
+ "hp_raw": "175 ( negative healing )",
+ "id": "creature-1842",
+ "image": [
+  "/Images/Monsters/Bhuta.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 5,
+ "language": [
+  "Common",
+  "Necril",
+  "<%SPELLS%293%%><i>speak with animals</i><%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20); [_speak with animals_](/Spells.aspx?ID=293)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Bhuta](/Monsters.aspx?ID=1842)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen sapient creatures die violently in a natural setting or a location infused with primal magic, they sometimes rise as a [ghostlike](/MonsterFamilies.aspx?ID=51) undead called a bhuta. Resembling a translucent version of their mortal form, only shadowless and with backward feet, a bhuta's lust for vengeance or unquenchable desire to complete an unfinished task poisons the natural world, turning animals into agents of the bhuta's corrupted will. However, a bhuta's connection to their mortal life is weak and vague, more a series of compulsions and triggers than the torturous recollections of a ghost. Thus, while a bhuta might start by hunting down and devouring those who slew their mortal form, they find no relief and soon turn to predation through their domain.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Bhuta.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Bhuta](/Monsters.aspx?ID=1842)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 76</row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20); [_speak with animals_](/Spells.aspx?ID=293)\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +20, [Deception](/Skills.aspx?ID=5) +22, [Nature](/Skills.aspx?ID=10) +24, [Survival](/Skills.aspx?ID=16) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +7\r\n\r\n**Con** +3\r\n\r\n**Int** +5\r\n\r\n**Wis** +5\r\n\r\n**Cha** +7\r\n</row>\r\n\r\n**Bound** Bhutas are bound to a natural area or feature where they died and must remain within 120 feet of that anchor. A bhuta can only leave if invited to travel with living companions, an invitation bhutas often seek to obtain via trickery. While traveling, the bhuta must remain within 120 feet of at least one of the living creatures who invited them. If all members of the group die, the bhuta must return to their bound area by midnight the same day or be destroyed.<br />**Shadowless** A bhuta casts no shadow.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +24 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 175\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nall damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\r\n\r\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"\" />\r\nfangs +24 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d12+13 piercing plus 1d8 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Melee**\r\n<actions string=\"\" />\r\nclaw +24 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d10+13 slashing\r\n\r\n**Primal Innate Spells** DC 30, attack +22\r\n- **Cantrips (6th)**\r\n[Daze](/Spells.aspx?ID=61), [Tanglefoot](/Spells.aspx?ID=330)\r\n- **3rd**\r\n[Animal Vision](/Spells.aspx?ID=12)\r\n- **4th**\r\n[Charm](/Spells.aspx?ID=34) (animals only)\r\n- **5th**\r\n[Command](/Spells.aspx?ID=45) (animals only), [Vampiric Touch](/Spells.aspx?ID=354)\r\n- **6th**\r\n[Summon Animal](/Spells.aspx?ID=316)\r\n- **9th**\r\n[Nature's Enmity](/Spells.aspx?ID=205) (only while within the area to which the bhuta is bound)\r\n- **Constant (2nd)**\r\n[Speak with Animals](/Spells.aspx?ID=293)\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Occult](/Traits.aspx?ID=120), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The bhuta takes the form of a Large, Medium, or Small [animal](/Traits.aspx?ID=9) common to their bound area. This doesn't change the bhuta's Speed or attack and damage modifiers with their Strikes but might change the damage type their Strikes deal. No matter what form the bhuta takes, their feet remain backward and they cast no shadow. A bhuta in animal form is still incorporeal, though that isn't obvious just by looking at it.\r\n\r\n**Possess Animal** <actions string=\"Two Actions\" />  The bhuta attempts to possess an adjacent animal. They cast 9th-level heightened [_possession_](/Spells.aspx?ID=225) with the following changes: since the bhuta has no physical body, they're unaffected by that restriction. On a critical failure, the duration extends to 1 full day. While possessed by a bhuta, the animal casts no shadow.\r\n\r\n**Primal Corruption**   A bhuta corrupts wildlife near their bound area, worming their way into animals' minds. [Animals](/Traits.aspx?ID=9) who live within the bound area take a –4 circumstance penalty to saves against the bhuta's Possess Animal ability, the bhuta's [_charm_](/Spells.aspx?ID=34) innate spell, and the bhuta's [_command_](/Spells.aspx?ID=45) innate spell.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Bunking with Bhutas</title>\r\n\r\nMost often, bhutas ingratiate themselves with living travelers through deception, using their influence over animals to appear trustworthy, then picking their prey off one by one in secret. However, a few stories exist of bhutas finding true friendship among the living and, through it, attaining a measure of peace that allows them to pass on.\r\n</aside>",
+ "name": "Bhuta",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 24,
+ "release_date": "2022-04-27",
+ "resistance": {
+  "acid": 10,
+  "all": 10,
+  "area": 10,
+  "bleed": 10,
+  "bludgeoning": 10,
+  "chaotic": 10,
+  "cold": 10,
+  "cold_iron": 10,
+  "electricity": 10,
+  "evil": 10,
+  "fire": 10,
+  "good": 10,
+  "lawful": 10,
+  "mental": 10,
+  "negative": 10,
+  "orichalcum": 10,
+  "physical": 10,
+  "piercing": 10,
+  "poison": 10,
+  "precision": 10,
+  "silver": 10,
+  "slashing": 10,
+  "sonic": 10,
+  "splash": 10
+ },
+ "resistance_markdown": "all damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all damage 10 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 76</row>\n\n<row gap=\"medium\">\r\n**HP** 175 ( negative healing )\r\n\r\n**AC** 30\r\n\r\n**Fort** +18\r\n\r\n**Ref** +24\r\n\r\n**Will** +22\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen sapient creatures die violently in a natural setting or a location infused with primal magic, they sometimes rise as a  ghostlike  undead called …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Arcana +20",
+  "Deception +22",
+  "Nature +24",
+  "Survival +22"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +20, [Deception](/Skills.aspx?ID=5) +22, [Nature](/Skills.aspx?ID=10) +24, [Survival](/Skills.aspx?ID=16) +22",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 76"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 76</row>",
+ "speed": {
+  "fly": 30,
+  "max": 30
+ },
+ "speed_markdown": "fly 30 feet",
+ "speed_raw": "fly 30 feet",
+ "spell": [
+  "Nature's Enmity",
+  "Summon Animal",
+  "Command",
+  "Vampiric Touch",
+  "Charm",
+  "Animal Vision",
+  "Daze",
+  "Tanglefoot",
+  "Speak with Animals"
+ ],
+ "spell_markdown": "[Animal Vision](/Spells.aspx?ID=12), [Charm](/Spells.aspx?ID=34), [Command](/Spells.aspx?ID=45), [Daze](/Spells.aspx?ID=61), [Nature's Enmity](/Spells.aspx?ID=205), [Speak with Animals](/Spells.aspx?ID=293), [Summon Animal](/Spells.aspx?ID=316), [Tanglefoot](/Spells.aspx?ID=330), [Vampiric Touch](/Spells.aspx?ID=354)",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "When sapient creatures die violently in a natural setting or a location infused with primal magic, they sometimes rise as a  ghostlike  undead called …",
+ "summary_markdown": "When sapient creatures die violently in a natural setting or a location infused with primal magic, they sometimes rise as a  ghostlike  undead called …",
+ "text": " Bhuta When sapient creatures die violently in a natural setting or a location infused with primal magic, they sometimes rise as a ghostlike undead called a bhuta. Resembling a translucent version of their mortal form, only shadowless and with backward feet, a bhuta's lust for vengeance or unquenchable desire to complete an unfinished task poisons the natural world, turning animals into agents of the bhuta's corrupted will. However, a bhuta's connection to their mortal life is weak and vague, more a series of compulsions and triggers than the torturous recollections of a ghost. Thus, while a bhuta might start by hunting down and devouring those who slew their mortal form, they find no relief and soon turn to predation through their domain. Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Bhuta Source Book of the Dead pg. 76 Perception +22; darkvision Languages Common, Necril; speak with animals Skills Arcana +20, Deception +22, Nature +24, Survival +22 Str -5 Dex +7 Con +3 Int +5 Wis +5 Cha +7 Bound Bhutas are bound to a natural area or feature where they died and must remain within 120 feet of that anchor. A bhuta can only leave if invited to travel with living companions, an invitation bhutas often seek to obtain via trickery. While traveling, the bhuta must remain within 120 feet of at least one of the living creatures who invited them. If all members of the group die, the bhuta must return to their bound area by midnight the same day or be destroyed. Shadowless A bhuta casts no shadow. --- AC 30 Fort +18 Ref +24 Will +22 HP 175 (negative healing) Immunities death effects, disease, poison, precision, unconscious Resistances all damage 10 (except force, ghost touch , or positive; double resistance vs. non-magical) Weaknesses cold iron 5 --- Speed fly 30 feet Melee fangs +24 (Finesse, Magical), Damage 2d12+13 piercing plus 1d8 persistent bleed Melee claw +24 (Agile, Finesse, Magical), Damage 2d10+13 slashing Primal Innate Spells DC 30, attack +22 - Cantrips (6th) Daze, Tanglefoot - 3rd Animal Vision - 4th Charm (animals only) - 5th Command (animals only), Vampiric Touch - 6th Summon Animal - 9th Nature's Enmity (only while within the area to which the bhuta is bound) - Constant (2nd) Speak with Animals Change Shape Single Action (Concentrate, Occult, Polymorph, Transmutation) The bhuta takes the form of a Large, Medium, or Small animal common to their bound area. This doesn't change the bhuta's Speed or attack and damage modifiers with their Strikes but might change the damage type their Strikes deal. No matter what form the bhuta takes, their feet remain backward and they cast no shadow. A bhuta in animal form is still incorporeal, though that isn't obvious just by looking at it. Possess Animal Two Actions The bhuta attempts to possess an adjacent animal. They cast 9th-level heightened possession with the following changes: since the bhuta has no physical body, they're unaffected by that restriction. On a critical failure, the duration extends to 1 full day. While possessed by a bhuta, the animal casts no shadow. Primal Corruption A bhuta corrupts wildlife near their bound area, worming their way into animals' minds. Animals who live within the bound area take a –4 circumstance penalty to saves against the bhuta's Possess Animal ability, the bhuta's charm innate spell, and the bhuta's command innate spell. Bunking with Bhutas Most often, bhutas ingratiate themselves with living travelers through deception, using their influence over animals to appear trustworthy, then picking their prey off one by one in secret. However, a few stories exist of bhutas finding true friendship among the living and, through it, attaining a measure of peace that allows them to pass on. ",
+ "trait": [
+  "Incorporeal",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1842",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold_iron": 5
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 5",
+ "weakness_raw": " cold iron  5",
+ "will_save": 22,
+ "wisdom": 5
+}

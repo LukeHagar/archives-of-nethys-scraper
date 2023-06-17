@@ -1,0 +1,53 @@
+{
+ "ac": 22,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 23  Thievery  (expert) to disrupt the tracks",
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hardness": 14,
+ "hardness_raw": "14",
+ "hazard_type": "Trap",
+ "hp": 54,
+ "hp_raw": "54 (BT 27)",
+ "id": "hazard-185",
+ "immunity": [
+  "object immunities"
+ ],
+ "immunity_markdown": "object immunities",
+ "level": 5,
+ "markdown": "<title level=\"1\" right=\"Hazard 5\" pfs=\"\">[Entrapping Chair](/Hazards.aspx?ID=185)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 123</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA chair on concealed tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 26 (0 to notice the chair)\r\n\r\n**Disable**\r\nDC 23 [Thievery](/Skills.aspx?ID=17) (expert) to disrupt the tracks\n\n<column gap=\"tiny\">\r\n\r\n**AC** 22, **Fort** +15, **Ref** +9\r\n\r\n**Hardness**\r\n14\r\n\r\n**HP**\r\n54 (BT 27)\r\n\r\n**Immunities**\r\nobject immunities\n\n</column>\r\n\r\n**Take a Seat!** <actions string=\"Reaction\" /> **Trigger** A creature steps on the track; **Effect** The chair rockets forward along the track and slams into the triggering creature, dealing 3d8+15 bludgeoning damage. A creature who succeeds at a DC 22 Reflex save takes no damage and moves out of the chair's path into a random adjacent square not containing the track. A creature who fails this saving throw is knocked into the chair's seat and immediately captured by the armrests, becoming [grabbed](/Conditions.aspx?ID=20) (restrained on a critical failure; [Escape](/Actions.aspx?ID=79) DC 26).\n\n---\r\n**Reset**\r\nThe trap resets automatically over 2 rounds if the chair is unoccupied.",
+ "name": "Entrapping Chair",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2022-07-27",
+ "reset": "The trap resets automatically over 2 rounds if the chair is unoccupied.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 123</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA chair on concealed tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests.\r\n</summary>",
+ "source": [
+  "Dark Archive"
+ ],
+ "source_raw": [
+  "Dark Archive pg. 123"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Dark Archive](/Sources.aspx?ID=129) pg. 123</row>",
+ "speed": {},
+ "stealth": "DC 26 (0 to notice the chair)",
+ "summary": "A chair on concealed tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests.",
+ "summary_markdown": "A chair on concealed tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests.",
+ "text": " Entrapping Chair Source Dark Archive pg. 123 Complexity Simple A chair on concealed tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests. --- Stealth DC 26 (0 to notice the chair) Disable DC 23 Thievery (expert) to disrupt the tracks AC 22, Fort +15, Ref +9 Hardness 14 HP 54 (BT 27) Immunities object immunities Take a Seat! Reaction Trigger A creature steps on the track; Effect The chair rockets forward along the track and slams into the triggering creature, dealing 3d8+15 bludgeoning damage. A creature who succeeds at a DC 22 Reflex save takes no damage and moves out of the chair's path into a random adjacent square not containing the track. A creature who fails this saving throw is knocked into the chair's seat and immediately captured by the armrests, becoming grabbed (restrained on a critical failure; Escape DC 26). --- Reset The trap resets automatically over 2 rounds if the chair is unoccupied.",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=185",
+ "weakness": {}
+}

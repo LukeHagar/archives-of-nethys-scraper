@@ -1,0 +1,53 @@
+{
+ "ac": 18,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 12  Thievery  to deactivate one pressure plate",
+ "exclude_from_search": false,
+ "fortitude_save": 2,
+ "hardness": 4,
+ "hardness_raw": "4",
+ "hazard_type": "Trap",
+ "hp": 12,
+ "hp_raw": "12 (BT 6)",
+ "id": "hazard-179",
+ "immunity": [
+  "object immunities"
+ ],
+ "immunity_markdown": "object immunities",
+ "level": -1,
+ "markdown": "<title level=\"1\" right=\"Hazard -1\" pfs=\"\">[Shuffling Hall](/Hazards.aspx?ID=179)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 122</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nFour pressure plates along this mirrored hall rotate vertically when stepped on, sending a creature on the pressure plate tipping into an adjacent featureless room while simultaneously replacing the pressure plate and walls in the hall. Each pressure plate dumps creatures into a different room.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 15\r\n\r\n**Disable**\r\nDC 12 [Thievery](/Skills.aspx?ID=17) to deactivate one pressure plate\n\n<column gap=\"tiny\">\r\n\r\n**AC** 18, **Fort** +2, **Ref** +5\r\n\r\n**Hardness**\r\n4\r\n\r\n**HP**\r\n12 (BT 6)\r\n\r\n**Immunities**\r\nobject immunities\n\n</column>\r\n\r\n**Flip** <actions string=\"Reaction\" /> **Trigger** A creature steps on a pressure plate; **Effect** The floor and adjoining wall rotate up and over on a central axle, tipping the triggering creature into an adjacent featureless room and simultaneously replacing the pressure plate and wall with another set on the same axle. The triggering creature is pushed into an adjoining room, takes 1d8 bludgeoning damage, and lands [prone](/Conditions.aspx?ID=31). A creature who succeeds at a DC 19 Reflex save takes no damage and rolls out of the way of the trap, returning to the space they were in before stepping on the pressure plate.\n\n---\r\n**Reset**\r\nautomatic",
+ "name": "Shuffling Hall",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2022-07-27",
+ "reset": "automatic",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 122</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFour pressure plates along this mirrored hall rotate vertically when stepped on, sending a creature on the pressure plate tipping into an adjacent …\r\n</summary>",
+ "source": [
+  "Dark Archive"
+ ],
+ "source_raw": [
+  "Dark Archive pg. 122"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Dark Archive](/Sources.aspx?ID=129) pg. 122</row>",
+ "speed": {},
+ "stealth": "DC 15",
+ "summary": "Four pressure plates along this mirrored hall rotate vertically when stepped on, sending a creature on the pressure plate tipping into an adjacent …",
+ "summary_markdown": "Four pressure plates along this mirrored hall rotate vertically when stepped on, sending a creature on the pressure plate tipping into an adjacent …",
+ "text": " Shuffling Hall Source Dark Archive pg. 122 Complexity Simple Four pressure plates along this mirrored hall rotate vertically when stepped on, sending a creature on the pressure plate tipping into an adjacent featureless room while simultaneously replacing the pressure plate and walls in the hall. Each pressure plate dumps creatures into a different room. --- Stealth DC 15 Disable DC 12 Thievery to deactivate one pressure plate AC 18, Fort +2, Ref +5 Hardness 4 HP 12 (BT 6) Immunities object immunities Flip Reaction Trigger A creature steps on a pressure plate; Effect The floor and adjoining wall rotate up and over on a central axle, tipping the triggering creature into an adjacent featureless room and simultaneously replacing the pressure plate and wall with another set on the same axle. The triggering creature is pushed into an adjoining room, takes 1d8 bludgeoning damage, and lands prone. A creature who succeeds at a DC 19 Reflex save takes no damage and rolls out of the way of the trap, returning to the space they were in before stepping on the pressure plate. --- Reset automatic",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=179",
+ "weakness": {}
+}

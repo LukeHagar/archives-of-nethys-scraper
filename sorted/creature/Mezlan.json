@@ -1,0 +1,110 @@
+{
+ "ac": 31,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 5,
+ "creature_ability": [
+  "Polyglot",
+  "Absorb Spell",
+  "Discorporate",
+  "Change Shape",
+  "Extend Limb",
+  "Viscous Trap"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 260,
+ "hp_raw": "260",
+ "id": "creature-1226",
+ "image": [
+  "/Images/Monsters/Mezlan.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "critical hits, precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 4,
+ "language": [
+  "Aklo",
+  "Azlanti",
+  "polyglot"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Azlanti](/Languages.aspx?ID=49); polyglot",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mezlan](/Monsters.aspx?ID=1226)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe bizarre shapeshifters known as mezlans were created ages ago as spies and infiltrators by a long-forgotten ritual infusing a magically constructed ooze with the soul of an exceptional sapient being. Having long since outlasted their creators, mezlans most often dwell alone amongst the ruins of the ancient civilizations they served as mortals.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mezlan.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Mezlan](/Monsters.aspx?ID=1226)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 167</row>\n\n**Perception** +25; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Azlanti](/Languages.aspx?ID=49); polyglot\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +28, [Deception](/Skills.aspx?ID=5) +27, [Occultism](/Skills.aspx?ID=11) +24, [Stealth](/Skills.aspx?ID=15) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +6\r\n\r\n**Con** +5\r\n\r\n**Int** +4\r\n\r\n**Wis** +5\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Polyglot** A mezlan can speak and understand any language they hear spoken after listening to the language for 1 minute. These languages fade from their mind after 24 hours.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +23 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 260\r\n\r\n, regeneration 15 (deactivated by acid)\r\n\r\n**Immunities**\r\ncritical hits, precision, [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\nacid 10\r\n\r\n**Absorb Spell** <actions string=\"Reaction\" /> **Trigger** The mezlan succeeds at a saving throw against a single-target spell; **Effect** The mezlan absorbs the spell, nullifying its effect and storing it for later. They can Cast the Spell using the original caster's spell attack modifier and DC. They can store only one spell at a time, but they can absorb a new spell to replace the spell they currently have stored. A willing caster can allow the mezlan to Absorb a Spell without requiring a save.<br />**Discorporate** When the mezlan is reduced to 0 Hit Points, their body dissolves into colorless slime and begins seeping into nearby cracks or porous surfaces. If this material is not immediately contained or destroyed, the mezlan will eventually re-form, though they may lie dormant for years or even decades before doing so.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npolymorphic appendage +30 ([Magical](/Traits.aspx?ID=103), [versatile P](/Traits.aspx?ID=200), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 3d12+14 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nooze globule +28 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** viscous trap\n\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The mezlan assumes the form of any Medium or Small creature, excluding those with the [elemental](/Traits.aspx?ID=57), [incorporeal](/Traits.aspx?ID=222), or [swarm](/Traits.aspx?ID=239) traits but including specific individuals whose appearance they've seen. This doesn't change the mezlan's Speed or their attack and damage bonus with their Strikes, but the damage type dealt by their Strikes might change based on their new form.\r\n\r\n**Extend Limb** <actions string=\"Single Action\" />  The mezlan extends one of their limbs, granting themself a [reach](/Traits.aspx?ID=192) of 20 feet with their polymorphic appendages until the end of their next turn.\r\n\r\n**Viscous Trap**   A creature hit by the mezlan's ooze globule takes a –15-foot circumstance penalty to all Speeds for 1 minute. On a critical hit, a target standing on a solid surface also becomes [immobilized](/Conditions.aspx?ID=24), while a target [Flying](/Actions.aspx?ID=94) via wings falls to the ground and becomes unable to Fly. A target can end all effects by [Escaping](/Actions.aspx?ID=79) (DC 32) or spending a total of 3 Interact actions to free itself.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Keepers of Secrets</title>\r\n\r\nDespite their strange nature, all mezlans retain the minds of the individuals they were before being transformed, making them potential repositories of knowledge long forgotten by any living creature. However, millennia of isolation have rendered most mezlans' personalities eccentric at best, with inscrutable motivations, so explorers brave enough to seek them out are advised to be wary\r\n</aside>",
+ "name": "Mezlan",
+ "npc": false,
+ "perception": 25,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 28,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 167</row>\n\n<row gap=\"medium\">\r\n**HP** 260\r\n\r\n**AC** 31\r\n\r\n**Fort** +25\r\n\r\n**Ref** +28\r\n\r\n**Will** +23\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe bizarre shapeshifters known as mezlans were created ages ago as spies and infiltrators by a long-forgotten ritual infusing a magically …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +28",
+  "Deception +27",
+  "Occultism +24",
+  "Stealth +28"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +28, [Deception](/Skills.aspx?ID=5) +27, [Occultism](/Skills.aspx?ID=11) +24, [Stealth](/Skills.aspx?ID=15) +28",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 167"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 167</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "28",
+ "strength": 8,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The bizarre shapeshifters known as mezlans were created ages ago as spies and infiltrators by a long-forgotten ritual infusing a magically …",
+ "summary_markdown": "The bizarre shapeshifters known as mezlans were created ages ago as spies and infiltrators by a long-forgotten ritual infusing a magically …",
+ "text": " Mezlan The bizarre shapeshifters known as mezlans were created ages ago as spies and infiltrators by a long-forgotten ritual infusing a magically constructed ooze with the soul of an exceptional sapient being. Having long since outlasted their creators, mezlans most often dwell alone amongst the ruins of the ancient civilizations they served as mortals. Recall Knowledge - Ooze (Occultism): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Mezlan Source Bestiary 3 pg. 167 Perception +25; darkvision Languages Aklo, Azlanti; polyglot Skills Athletics +28, Deception +27, Occultism +24, Stealth +28 Str +8 Dex +6 Con +5 Int +4 Wis +5 Cha +5 Polyglot A mezlan can speak and understand any language they hear spoken after listening to the language for 1 minute. These languages fade from their mind after 24 hours. --- AC 31 Fort +25 Ref +28 Will +23 +1 status to all saves vs. magic HP 260 , regeneration 15 (deactivated by acid) Immunities critical hits, precision, unconscious Weaknesses acid 10 Absorb Spell Reaction Trigger The mezlan succeeds at a saving throw against a single-target spell; Effect The mezlan absorbs the spell, nullifying its effect and storing it for later. They can Cast the Spell using the original caster's spell attack modifier and DC. They can store only one spell at a time, but they can absorb a new spell to replace the spell they currently have stored. A willing caster can allow the mezlan to Absorb a Spell without requiring a save. Discorporate When the mezlan is reduced to 0 Hit Points, their body dissolves into colorless slime and begins seeping into nearby cracks or porous surfaces. If this material is not immediately contained or destroyed, the mezlan will eventually re-form, though they may lie dormant for years or even decades before doing so. --- Speed 30 feet Melee Single Action polymorphic appendage +30 (Magical, versatile P, versatile S), Damage 3d12+14 bludgeoning Ranged Single Action ooze globule +28 (range increment 30 feet), Damage viscous trap Change Shape Single Action (Concentrate, Polymorph, Transmutation) The mezlan assumes the form of any Medium or Small creature, excluding those with the elemental, incorporeal, or swarm traits but including specific individuals whose appearance they've seen. This doesn't change the mezlan's Speed or their attack and damage bonus with their Strikes, but the damage type dealt by their Strikes might change based on their new form. Extend Limb Single Action The mezlan extends one of their limbs, granting themself a reach of 20 feet with their polymorphic appendages until the end of their next turn. Viscous Trap A creature hit by the mezlan's ooze globule takes a –15-foot circumstance penalty to all Speeds for 1 minute. On a critical hit, a target standing on a solid surface also becomes immobilized, while a target Flying via wings falls to the ground and becomes unable to Fly. A target can end all effects by Escaping (DC 32) or spending a total of 3 Interact actions to free itself. Keepers of Secrets Despite their strange nature, all mezlans retain the minds of the individuals they were before being transformed, making them potential repositories of knowledge long forgotten by any living creature. However, millennia of isolation have rendered most mezlans' personalities eccentric at best, with inscrutable motivations, so explorers brave enough to seek them out are advised to be wary ",
+ "trait": [
+  "Ooze",
+  "Rare",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Ooze](/Traits.aspx?ID=122), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Ooze",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1226",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "acid": 10
+ },
+ "weakness_markdown": "acid 10",
+ "weakness_raw": "acid 10",
+ "will_save": 23,
+ "wisdom": 5
+}

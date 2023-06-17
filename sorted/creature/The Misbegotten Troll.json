@@ -1,0 +1,103 @@
+{
+ "ac": 40,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 8,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Vigorous Shake",
+  "Forced Regeneration",
+  "Jangle the Chain",
+  "Primordial Roar",
+  "Rend",
+  "Unstoppable Charge",
+  "Vicious Ranseur"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 36,
+ "hp": 430,
+ "hp_raw": "430",
+ "id": "creature-2349",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Jotun",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Jotun](/Languages.aspx?ID=8), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[The Misbegotten Troll](/Monsters.aspx?ID=2349)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\n\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 46\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 43\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[The Misbegotten Troll](/Monsters.aspx?ID=2349)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 437</row>\n\n**Perception** +31; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Jotun](/Languages.aspx?ID=8), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +35, [Intimidation](/Skills.aspx?ID=7) +35\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +4\r\n\r\n**Con** +8\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +6\r\n</row>\n\n**Items**\r\nchain of lovelies, _[+2 greater striking](/Equipment.aspx?ID=380) [glaive](/Weapons.aspx?ID=20)_, _[+2 greater resilient](/Equipment.aspx?ID=147) [full plate](/Armor.aspx?ID=13)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 40 \r\n\r\n**Fort** +36 \r\n\r\n**Ref** +27 \r\n\r\n**Will** +27 \n\n</row>\r\n\r\n**HP** 430\r\n\r\n, regeneration 45 (deactivated by acid or fire)\n\n**Weaknesses**\r\nfire 20\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /><br />**Vigorous Shake** <actions string=\"Reaction\" /> **Trigger** The troll king takes persistent acid or fire damage. **Effect** The troll king shakes itself to remove persistent acid or fire effects. The troll king immediately attempts a DC 15 flat check to end the persistent damage that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_glaive_ +35 ([deadly d8](/Traits.aspx?ID=174), [Forceful](/Traits.aspx?ID=180), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+17 slashing plus 3d8 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +35 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+23 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +35 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+23 slashing\n\n**Forced Regeneration** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) **Requirements** The troll king's regeneration is not currently deactivated. **Effect** The troll king regains 25 HP.\r\n\r\n**Jangle the Chain** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Manipulate](/Traits.aspx?ID=104), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The Misbegotten Troll shakes his chain of caged sprites, causing the supernatural cages to amplify their despair. All creatures other than the Misbegotten Troll or his smilodon pets within 30 feet must attempt a DC 40 Will save. The Misbegotten Troll can't Jangle the Chain again for 1d4 rounds.<br /> **Critical Success** The creature is unaffected and is temporarily immune to Jangle the Chain for 24 hours.<br /> **Success** The creature is [sickened](/Conditions.aspx?ID=34) 1 by despair.<br /> **Failure** The creature is [stunned](/Conditions.aspx?ID=36) 1 by sadness, and then sickened 1 by despair once the stun effect ends.<br />**Critical Failure** The creature is stunned 3 by sadness, and then sickened 2 by despair once the stun effect ends.\r\n\r\n**Primordial Roar** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 40 Will save. The creature is then temporarily immune for 10 minutes.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature is [frightened](/Conditions.aspx?ID=19) 1.<br /> **Failure** The creature is frightened 2.<br />**Critical Failure** The creature is frightened 3.<br />This ability doesn't affect his pet black smilodons.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw\r\n\r\n**Unstoppable Charge** <actions string=\"Three Actions\" />  The troll king Strides twice in a straight line. It can make up to two claw Strikes during this movement and one jaws Strike at the end of its movement. It can't Strike the same creature more than once.\r\n\r\n**Vicious Ranseur**   When the Misbegotten Troll attacks with his glaive, it manifests dozens of hooks and spikes along its length and blade. He deals an additional 3d8 piercing damage to any creature he strikes but inflicts 1d8 piercing damage to himself with each glaive Strike.\r\n\r\n</column>",
+ "name": "The Misbegotten Troll",
+ "npc": false,
+ "perception": 31,
+ "rarity": "unique",
+ "reflex_save": 27,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 437</row>\n\n<row gap=\"medium\">\r\n**HP** 430\r\n\r\n**AC** 40\r\n\r\n**Fort** +36\r\n\r\n**Ref** +27\r\n\r\n**Will** +27\r\n\r\n**Perception** +31\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +35",
+  "Intimidation +35"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +35, [Intimidation](/Skills.aspx?ID=7) +35",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 437"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 437</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " The Misbegotten Troll Unspecific Lore : DC 46 Specific Lore : DC 43 The Misbegotten Troll Source Kingmaker Adventure Path pg. 437 Perception +31; darkvision Languages Aklo, Jotun, Sylvan Skills Athletics +35, Intimidation +35 Str +9 Dex +4 Con +8 Int +0 Wis +3 Cha +6 Items chain of lovelies, +2 greater striking glaive , +2 greater resilient full plate --- AC 40 Fort +36 Ref +27 Will +27 HP 430 , regeneration 45 (deactivated by acid or fire) Weaknesses fire 20 Attack of Opportunity Reaction Vigorous Shake Reaction Trigger The troll king takes persistent acid or fire damage. Effect The troll king shakes itself to remove persistent acid or fire effects. The troll king immediately attempts a DC 15 flat check to end the persistent damage that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction. --- Speed 30 feet Melee Single Action glaive +35 (deadly d8, Forceful, reach 15 feet), Damage 3d8+17 slashing plus 3d8 piercing Melee Single Action jaws +35 (reach 10 feet), Damage 2d12+23 piercing Melee Single Action claw +35 (Agile, reach 10 feet), Damage 2d8+23 slashing Forced Regeneration Single Action (Concentrate) Requirements The troll king's regeneration is not currently deactivated. Effect The troll king regains 25 HP. Jangle the Chain Single Action (Auditory, Emotion, Enchantment, Manipulate, Mental, Primal) The Misbegotten Troll shakes his chain of caged sprites, causing the supernatural cages to amplify their despair. All creatures other than the Misbegotten Troll or his smilodon pets within 30 feet must attempt a DC 40 Will save. The Misbegotten Troll can't Jangle the Chain again for 1d4 rounds. Critical Success The creature is unaffected and is temporarily immune to Jangle the Chain for 24 hours. Success The creature is sickened 1 by despair. Failure The creature is stunned 1 by sadness, and then sickened 1 by despair once the stun effect ends. Critical Failure The creature is stunned 3 by sadness, and then sickened 2 by despair once the stun effect ends. Primordial Roar Single Action (Auditory, Emotion, Fear, Mental) The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 40 Will save. The creature is then temporarily immune for 10 minutes. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure The creature is frightened 3. This ability doesn't affect his pet black smilodons. Rend Single Action claw Unstoppable Charge Three Actions The troll king Strides twice in a straight line. It can make up to two claw Strikes during this movement and one jaws Strike at the end of its movement. It can't Strike the same creature more than once. Vicious Ranseur When the Misbegotten Troll attacks with his glaive, it manifests dozens of hooks and spikes along its length and blade. He deals an additional 3d8 piercing damage to any creature he strikes but inflicts 1d8 piercing damage to himself with each glaive Strike. ",
+ "trait": [
+  "Giant",
+  "Troll",
+  "Unique",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Troll](/Traits.aspx?ID=241), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Giant",
+  "Troll",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2349",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {
+  "fire": 20
+ },
+ "weakness_markdown": "fire 20",
+ "weakness_raw": "fire 20",
+ "will_save": 27,
+ "wisdom": 3
+}

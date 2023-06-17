@@ -1,0 +1,105 @@
+{
+ "ac": 28,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Final Spite",
+  "Drain Life",
+  "Feign Death",
+  "Sneak Attack",
+  "Spawn Prowler Wight"
+ ],
+ "creature_family": "Wight",
+ "creature_family_markdown": "[Wight](/MonsterFamilies.aspx?ID=163)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 155,
+ "hp_raw": "155 ( negative healing )",
+ "id": "creature-1916",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Prowler Wight](/Monsters.aspx?ID=1916)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nOften found lurking in the dark, prowler wights wield subterfuge as their greatest weapon. They frequently feign death in old sewers, graveyards, and mausoleums, waiting for hapless victims to pass by before striking.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Prowler Wight](/Monsters.aspx?ID=1916)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Wight\" url=\"/Traits.aspx?ID=259\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 168</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Deception](/Skills.aspx?ID=5) +18, [Stealth](/Skills.aspx?ID=15) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [dagger](/Weapons.aspx?ID=3)_, [Leather Armor](/Armor.aspx?ID=4)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 155\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Final Spite** <actions string=\"Reaction\" /> **Trigger** The prowler wight is reduced to 0 Hit Points; **Effect** The prowler wight makes a Strike before being destroyed. They don't gain any temporary HP from drain life on this Strike.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_dagger_ +21 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 2d4+7 piercing plus drain life\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8+7 slashing plus drain life\n\n**Drain Life**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When the prowler wight damages a living creature using an [unarmed](/Traits.aspx?ID=199) attack or their bound weapon, they gain 9 temporary Hit Points, and the creature must succeed at a DC 25 Fortitude save or become [drained 1](/Conditions.aspx?ID=10). Further damage dealt by the prowler wight's unarmed and bound weapon attacks increases the value of the drained condition by 1 on a failed save, to a maximum of drained 4.\r\n\r\n**Feign Death** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) The prowler wight quenches the telltale red glow in their eye sockets, falls [prone](/Conditions.aspx?ID=31), and lies completely still. Until the next time they act, the prowler wight appears to be an ordinary corpse. They have an automatic result of 38 on [Deception](/Skills.aspx?ID=5) checks and DCs to pass as an ordinary corpse.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The prowler wight deals an additional 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Spawn Prowler Wight**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) A living [humanoid](/Traits.aspx?ID=91) killed by a prowler wight's weapon or claw Strike rises as a prowler wight spawn after 1d4 rounds. This spawn is under the command of the prowler wight that killed them. They don't have drain life or spawn prowler wight and are [clumsy 2](/Conditions.aspx?ID=3) for as long as they're a prowler wight spawn. If the creator of the prowler wight spawn dies, the prowler wight spawn becomes a fully autonomous prowler wight; they regain their free will, gain drain life and spawn prowler wight, and are no longer clumsy.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-163\" />",
+ "name": "Prowler Wight",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 20,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Wight\" url=\"/Traits.aspx?ID=259\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 168</row>\r\n\r\n**Creature Family** [Wight](/MonsterFamilies.aspx?ID=163)\r\n\r\n<row gap=\"medium\">\r\n**HP** 155 ( negative healing )\r\n\r\n**AC** 28\r\n\r\n**Fort** +17\r\n\r\n**Ref** +20\r\n\r\n**Will** +16\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOften found lurking in the dark, prowler wights wield subterfuge as their greatest weapon. They frequently feign death in old sewers, graveyards, and …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Deception +18",
+  "Stealth +20"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Deception](/Skills.aspx?ID=5) +18, [Stealth](/Skills.aspx?ID=15) +20",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 168"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 168</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "20",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Often found lurking in the dark, prowler wights wield subterfuge as their greatest weapon. They frequently feign death in old sewers, graveyards, and …",
+ "summary_markdown": "Often found lurking in the dark, prowler wights wield subterfuge as their greatest weapon. They frequently feign death in old sewers, graveyards, and …",
+ "text": " Prowler Wight Often found lurking in the dark, prowler wights wield subterfuge as their greatest weapon. They frequently feign death in old sewers, graveyards, and mausoleums, waiting for hapless victims to pass by before striking. Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Prowler Wight Source Book of the Dead pg. 168 Perception +18; darkvision Languages Common, Necril Skills Acrobatics +18, Deception +18, Stealth +20 Str +4 Dex +5 Con +2 Int +1 Wis +3 Cha +3 Items +1 striking dagger , Leather Armor --- AC 28 Fort +17 Ref +20 Will +16 HP 155 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Final Spite Reaction Trigger The prowler wight is reduced to 0 Hit Points; Effect The prowler wight makes a Strike before being destroyed. They don't gain any temporary HP from drain life on this Strike. --- Speed 25 feet Melee Single Action dagger +21 (Agile, Finesse, Magical, versatile S), Damage 2d4+7 piercing plus drain life Melee Single Action claw +20 (Agile, Finesse), Damage 1d8+7 slashing plus drain life Drain Life (Divine, Necromancy) When the prowler wight damages a living creature using an unarmed attack or their bound weapon, they gain 9 temporary Hit Points, and the creature must succeed at a DC 25 Fortitude save or become drained 1. Further damage dealt by the prowler wight's unarmed and bound weapon attacks increases the value of the drained condition by 1 on a failed save, to a maximum of drained 4. Feign Death Single Action (Concentrate) The prowler wight quenches the telltale red glow in their eye sockets, falls prone, and lies completely still. Until the next time they act, the prowler wight appears to be an ordinary corpse. They have an automatic result of 38 on Deception checks and DCs to pass as an ordinary corpse. Sneak Attack The prowler wight deals an additional 2d6 precision damage to flat-footed creatures. Spawn Prowler Wight (Divine, Necromancy) A living humanoid killed by a prowler wight's weapon or claw Strike rises as a prowler wight spawn after 1d4 rounds. This spawn is under the command of the prowler wight that killed them. They don't have drain life or spawn prowler wight and are clumsy 2 for as long as they're a prowler wight spawn. If the creator of the prowler wight spawn dies, the prowler wight spawn becomes a fully autonomous prowler wight; they regain their free will, gain drain life and spawn prowler wight, and are no longer clumsy. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "Wight",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160), [Wight](/Traits.aspx?ID=259)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead",
+  "Wight"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1916",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 3
+}

@@ -1,0 +1,106 @@
+{
+ "ac": 23,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Catch Rock",
+  "Explosive Headbutt",
+  "Shrapnel"
+ ],
+ "creature_family": "Giant",
+ "creature_family_markdown": "[Giant](/MonsterFamilies.aspx?ID=53)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 145,
+ "hp_raw": "145",
+ "id": "creature-1950",
+ "immunity": [
+  "ingested   poisons"
+ ],
+ "immunity_markdown": "[ingested](/Traits.aspx?ID=95) [poisons](/Traits.aspx?ID=126)",
+ "intelligence": -2,
+ "language": [
+  "Common",
+  "Jotun",
+  "Kelish"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8), [Kelish](/Languages.aspx?ID=38)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Giant, Smog](/Monsters.aspx?ID=1950)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCorrupting magical storms and the interference of unethical gearsmiths birthed the first of the so-called smog giants. These hot-tempered behemoths all originate from a clan of unfortunate [hill giants](/Monsters.aspx?ID=220) which became so attuned to their strange environment they developed unique mutations and incredibly violent dispositions. For all their physical abnormalities, it's still fair to say the violent confrontations common along the Western Ravage are the true cause of smog giants' monstrous nature.\n\n Smog giants can eat meat and bone, but they prefer diets of [black powder](/Equipment.aspx?ID=1190) and the raw materials that make up this alchemical concoction. Their bodies store repositories of the stuff infused with the unstable occult energies that lace their flesh, granting them the ability to “crack” these pockets of subdermal explosives when they attack, much like a tough cracking their knuckles during a fight. In this case however, the results are much more violent—especially when coupled with the large quantities of weaponized body piercings and adornments smog giants often wear.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Smog Giant](/Monsters.aspx?ID=1950)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 83</row>\n\n**Perception** +13; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8), [Kelish](/Languages.aspx?ID=38)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +15, [Survival](/Skills.aspx?ID=16) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 145\n\n**Immunities**\r\n[ingested](/Traits.aspx?ID=95) [poisons](/Traits.aspx?ID=126)\r\n\r\n**Resistances**\r\n[fire](/Traits.aspx?ID=72) 10, poison 10\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**[Catch Rock](/MonsterAbilities.aspx?ID=7)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nheadbutt +18,\r\n**Damage** 2d10+8 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +18 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+8 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nshrapnel +16 ([range 30 feet](/Traits.aspx?ID=248), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 2d4+8 bludgeoning\n\n**Explosive Headbutt** <actions string=\"Two Actions\" />  The smog giant cracks their neck, triggering pockets of black powder at the base of their skull to impart additional power to their attack. The giant then attempts a headbutt Strike. This counts as two attacks when calculating the giant's attack penalty. If this Strike hits, it deals 2d10+8 bludgeoning damage and the creature struck must attempt a DC 25 Fortitude save. <br />**Critical Success** The creature suffers no additional effect. <br />**Success** The creature takes an additional 1d10 bludgeoning damage. <br />**Failure** The creature takes an additional 2d10 bludgeoning damage and is knocked [prone](/Conditions.aspx?ID=31) if it's Large or smaller. <br />**Critical Failure** As failure, but without a size limit.\r\n\r\n**Shrapnel**   A smog giant has a dozen implanted knives, rocks, chunks of metal, spikes, and other adornments that they can fire from their body with great force to make ranged shrapnel Strikes. Once a smog giant has used all 12 shots, they must replace them one at a time using a 1-minute Interact activity.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Brow Beating</title>\r\n\r\nSmog giants are fond of smashing their craniums together to establish dominance, under the logic that whoever's the strongest is usually right, with the first giant knocked prone being declared the loser. This simple ritual is used to determine rank, settle disputes, impress a mate, or even as a greeting between friends. Smog giant arguments are explosive, loud, violent, short, and sometimes fatal.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-53\" />",
+ "name": "Smog Giant",
+ "npc": false,
+ "perception": 13,
+ "rarity": "rare",
+ "reflex_save": 15,
+ "release_date": "2022-05-25",
+ "resistance": {
+  "fire": 10,
+  "poison": 10
+ },
+ "resistance_markdown": "[fire](/Traits.aspx?ID=72) 10, poison 10",
+ "resistance_raw": " fire  10, poison 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 83</row>\r\n\r\n**Creature Family** [Giant](/MonsterFamilies.aspx?ID=53)\r\n\r\n<row gap=\"medium\">\r\n**HP** 145\r\n\r\n**AC** 23\r\n\r\n**Fort** +17\r\n\r\n**Ref** +15\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCorrupting magical storms and the interference of unethical gearsmiths birthed the first of the so-called smog giants. These hot-tempered behemoths …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +17",
+  "Intimidation +15",
+  "Survival +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +15, [Survival](/Skills.aspx?ID=16) +13",
+ "source": [
+  "Pathfinder #179: Cradle of Quartz"
+ ],
+ "source_raw": [
+  "Pathfinder #179: Cradle of Quartz pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 83</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "spoilers": "Outlaws of Alkenstar",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Corrupting magical storms and the interference of unethical gearsmiths birthed the first of the so-called smog giants. These hot-tempered behemoths …",
+ "summary_markdown": "Corrupting magical storms and the interference of unethical gearsmiths birthed the first of the so-called smog giants. These hot-tempered behemoths …",
+ "text": " Giant, Smog Corrupting magical storms and the interference of unethical gearsmiths birthed the first of the so-called smog giants. These hot-tempered behemoths all originate from a clan of unfortunate hill giants which became so attuned to their strange environment they developed unique mutations and incredibly violent dispositions. For all their physical abnormalities, it's still fair to say the violent confrontations common along the Western Ravage are the true cause of smog giants' monstrous nature. Smog giants can eat meat and bone, but they prefer diets of black powder and the raw materials that make up this alchemical concoction. Their bodies store repositories of the stuff infused with the unstable occult energies that lace their flesh, granting them the ability to “crack” these pockets of subdermal explosives when they attack, much like a tough cracking their knuckles during a fight. In this case however, the results are much more violent—especially when coupled with the large quantities of weaponized body piercings and adornments smog giants often wear. Recall Knowledge - Humanoid (Society): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Smog Giant Source Pathfinder #179: Cradle of Quartz pg. 83 Perception +13; low-light vision Languages Common, Jotun, Kelish Skills Athletics +17, Intimidation +15, Survival +13 Str +6 Dex +2 Con +4 Int -2 Wis +2 Cha +2 --- AC 23 Fort +17 Ref +15 Will +13 HP 145 Immunities ingested poisons Resistances fire 10, poison 10 Attack of Opportunity Reaction Catch Rock Reaction --- Speed 35 feet Melee Single Action headbutt +18, Damage 2d10+8 bludgeoning Melee Single Action fist +18 (Agile, reach 10 feet), Damage 2d8+8 bludgeoning Ranged Single Action shrapnel +16 (range 30 feet, versatile P), Damage 2d4+8 bludgeoning Explosive Headbutt Two Actions The smog giant cracks their neck, triggering pockets of black powder at the base of their skull to impart additional power to their attack. The giant then attempts a headbutt Strike. This counts as two attacks when calculating the giant's attack penalty. If this Strike hits, it deals 2d10+8 bludgeoning damage and the creature struck must attempt a DC 25 Fortitude save. Critical Success The creature suffers no additional effect. Success The creature takes an additional 1d10 bludgeoning damage. Failure The creature takes an additional 2d10 bludgeoning damage and is knocked prone if it's Large or smaller. Critical Failure As failure, but without a size limit. Shrapnel A smog giant has a dozen implanted knives, rocks, chunks of metal, spikes, and other adornments that they can fire from their body with great force to make ranged shrapnel Strikes. Once a smog giant has used all 12 shots, they must replace them one at a time using a 1-minute Interact activity. Brow Beating Smog giants are fond of smashing their craniums together to establish dominance, under the logic that whoever's the strongest is usually right, with the first giant knocked prone being declared the loser. This simple ritual is used to determine rank, settle disputes, impress a mate, or even as a greeting between friends. Smog giant arguments are explosive, loud, violent, short, and sometimes fatal. ",
+ "trait": [
+  "Giant",
+  "Humanoid",
+  "Rare",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Giant",
+  "Humanoid",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1950",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 2
+}

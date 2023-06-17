@@ -1,0 +1,116 @@
+{
+ "ac": 24,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 4,
+ "creature_ability": [
+  "Mercy Vulnerability",
+  "Reactive Slime",
+  "Grievous Strike",
+  "Sneak Attack"
+ ],
+ "creature_family": "Demon",
+ "creature_family_markdown": "[Demon](/MonsterFamilies.aspx?ID=28)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 130,
+ "hp_raw": "130",
+ "id": "creature-598",
+ "image": [
+  "/Images/Monsters/Demon_Babau.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Draconic",
+  "<%UMR%37%%>telepathy 100 feet<%END>"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Babau (Blood Demon)](/Monsters.aspx?ID=598)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe babau is an assassin, a murderer, and a sadist—certainly not unusual traits, yet their penchant for stealth and surprise sets them apart from their kin. Babaus form from mortal souls of lone killers—those who took pleasure in more personal murders, and particularly those with grisly patterns to their killings.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Demon_Babau.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Babau](/Monsters.aspx?ID=598)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 64 <sup>2.0</sup></row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12), [_see invisibility_](/Spells.aspx?ID=271)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +14, [Religion](/Skills.aspx?ID=13) +10, [Stealth](/Skills.aspx?ID=15) +16, [Thievery](/Skills.aspx?ID=17) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[_+1 longspear_](/Weapons.aspx?ID=6)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +11 \r\n\r\n+1 to all saves vs. magic\r\n</row>\r\n\r\n**HP** 130\n\n**Resistances**\r\nacid 10\r\n\r\n**Weaknesses**\r\ncold iron 5, good 5\r\n\r\n**Mercy Vulnerability** Babaus revel in gore, and when wounds are healed, they recoil in pain. When a creature heals from damage that the babau dealt on their last turn with Grievous Strike, sneak attack, or a critical hit, the demon takes 4d6 [mental](/Traits.aspx?ID=106) damage. The babau can take this mental damage only once per round.<br />**Reactive Slime** <actions string=\"Reaction\" /> **Trigger** A creature within the babau's reach successfully hits the babau with a Strike; **Effect** The babau excretes a gout of acidic, bloodlike slime against the attacker and its weapon. The attacker must attempt a DC 24 Reflex save. <br />**Critical Success** The attacker is unaffected. <br />**Success** The attacker takes 1d6 acid damage. <br />**Failure** The attacker takes 2d6 acid damage. <br />**Critical Failure** As failure, except the weapon used to Strike the babau becomes [broken](/Conditions.aspx?ID=2), unless the weapon is made of a material that is immune to acid.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongspear +17 ([Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+7 piercing plus 1d6 evil\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +16 ([Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d10+7 piercing plus 1d6 evil\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +16 ([Agile](/Traits.aspx?ID=170), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d4+7 slashing plus 1d6 evil\r\n\r\n**Divine Innate Spells** DC 24\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **5th**\r\n[Dimension Door](/Spells.aspx?ID=69)\r\n- **Constant (5th)**\r\n[See Invisibility](/Spells.aspx?ID=271)\r\n\r\n**Rituals** DC 24\r\n\r\n- **1st**\r\n[Abyssal Pact](/Rituals.aspx?ID=21)\r\n\r\n**Grievous Strike** <actions string=\"Two Actions\" />  The babau attacks with the intent of creating a particularly horrific and gory wound. The babau makes a melee Strike. This counts as two attacks when calculating the daemon's multiple attack penalty. If this Strike hits, the babau deals an additional 2d6 damage of the same damage type, and the creature struck is [frightened 2](/Conditions.aspx?ID=19).\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The babau's Strikes deal an extra 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Signs of Murder</title>\r\n\r\nBabaus revel in their art and often leave behind a grim token or marker as a signature. They may leave a distinctive mutilation upon the bodies of their victims, rather than harvesting keepsakes and trophies for a personal collection. Babaus want their legacy to grow among those they hunt and kill.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-28\" />",
+ "name": "Babau",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "acid": 10
+ },
+ "resistance_markdown": "acid 10",
+ "resistance_raw": "acid 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 64 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Demon](/MonsterFamilies.aspx?ID=28)\r\n\r\n<row gap=\"medium\">\r\n**HP** 130\r\n\r\n**AC** 24\r\n\r\n**Fort** +14\r\n\r\n**Ref** +16\r\n\r\n**Will** +11\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe babau is an assassin, a murderer, and a sadist—certainly not unusual traits, yet their penchant for stealth and surprise sets them apart from …\r\n</summary>",
+ "sense": " darkvision ,   see invisibility  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_see invisibility_](/Spells.aspx?ID=271)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +13",
+  "Intimidation +14",
+  "Religion +10",
+  "Stealth +16",
+  "Thievery +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +14, [Religion](/Skills.aspx?ID=13) +10, [Stealth](/Skills.aspx?ID=15) +16, [Thievery](/Skills.aspx?ID=17) +14",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 64"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 64 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Dimension Door",
+  "Darkness",
+  "See Invisibility"
+ ],
+ "spell_markdown": "[Darkness](/Spells.aspx?ID=59), [Dimension Door](/Spells.aspx?ID=69), [See Invisibility](/Spells.aspx?ID=271)",
+ "stealth": "16",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The babau is an assassin, a murderer, and a sadist—certainly not unusual traits, yet their penchant for stealth and surprise sets them apart from …",
+ "summary_markdown": "The babau is an assassin, a murderer, and a sadist—certainly not unusual traits, yet their penchant for stealth and surprise sets them apart from …",
+ "text": " Babau (Blood Demon) The babau is an assassin, a murderer, and a sadist—certainly not unusual traits, yet their penchant for stealth and surprise sets them apart from their kin. Babaus form from mortal souls of lone killers—those who took pleasure in more personal murders, and particularly those with grisly patterns to their killings. Recall Knowledge - Fiend (Religion): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Babau Source Bestiary 2 pg. 64 2.0 Perception +13; darkvision, see invisibility Languages Abyssal, Celestial, Draconic; telepathy 100 feet Skills Acrobatics +12, Athletics +13, Intimidation +14, Religion +10, Stealth +16, Thievery +14 Str +4 Dex +4 Con +4 Int +2 Wis +3 Cha +2 Items +1 longspear --- AC 24 Fort +14 Ref +16 Will +11 +1 to all saves vs. magic HP 130 Resistances acid 10 Weaknesses cold iron 5, good 5 Mercy Vulnerability Babaus revel in gore, and when wounds are healed, they recoil in pain. When a creature heals from damage that the babau dealt on their last turn with Grievous Strike, sneak attack, or a critical hit, the demon takes 4d6 mental damage. The babau can take this mental damage only once per round. Reactive Slime Reaction Trigger A creature within the babau's reach successfully hits the babau with a Strike; Effect The babau excretes a gout of acidic, bloodlike slime against the attacker and its weapon. The attacker must attempt a DC 24 Reflex save. Critical Success The attacker is unaffected. Success The attacker takes 1d6 acid damage. Failure The attacker takes 2d6 acid damage. Critical Failure As failure, except the weapon used to Strike the babau becomes broken, unless the weapon is made of a material that is immune to acid. --- Speed 25 feet Melee Single Action longspear +17 (Evil, Magical, reach 10 feet), Damage 1d8+7 piercing plus 1d6 evil Melee Single Action jaws +16 (Evil, Magical), Damage 1d10+7 piercing plus 1d6 evil Melee Single Action claw +16 (Agile, Evil, Magical), Damage 1d4+7 slashing plus 1d6 evil Divine Innate Spells DC 24 - 2nd Darkness - 4th Dimension Door (at will) - 5th Dimension Door - Constant (5th) See Invisibility Rituals DC 24 - 1st Abyssal Pact Grievous Strike Two Actions The babau attacks with the intent of creating a particularly horrific and gory wound. The babau makes a melee Strike. This counts as two attacks when calculating the daemon's multiple attack penalty. If this Strike hits, the babau deals an additional 2d6 damage of the same damage type, and the creature struck is frightened 2. Sneak Attack The babau's Strikes deal an extra 2d6 precision damage to flat-footed creatures. Signs of Murder Babaus revel in their art and often leave behind a grim token or marker as a signature. They may leave a distinctive mutilation upon the bodies of their victims, rather than harvesting keepsakes and trophies for a personal collection. Babaus want their legacy to grow among those they hunt and kill. ",
+ "trait": [
+  "Demon",
+  "Fiend",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Demon](/Traits.aspx?ID=42), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Demon",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=598",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 5,
+  "good": 5
+ },
+ "weakness_markdown": "cold iron 5, good 5",
+ "weakness_raw": "cold iron 5, good 5",
+ "will_save": 11,
+ "wisdom": 3
+}

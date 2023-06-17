@@ -1,0 +1,103 @@
+{
+ "ac": 32,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 7,
+ "creature_ability": [
+  "Lair Sense",
+  "Consecration Vulnerability",
+  "Weathering Aura",
+  "Crumble",
+  "Death Gasp",
+  "Demolition"
+ ],
+ "creature_family": "Mortic",
+ "creature_family_markdown": "[Mortic](/MonsterFamilies.aspx?ID=248)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 265,
+ "hp_raw": "265 ( negative healing )",
+ "id": "creature-1882",
+ "intelligence": 4,
+ "language": [
+  "Common",
+  "Dwarven",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Dwarven](/Languages.aspx?ID=3), [Necril](/Languages.aspx?ID=20)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Relictner](/Monsters.aspx?ID=1882)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRegardless of age, relictners look like ancient [dwarves](/Ancestries.aspx?ID=1) with deep wrinkles, sparse white hair, and decrepit forms. As their bodies degrade, so too do their surroundings, with even the finest architecture crumbling to ruins.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 35\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 33\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 30\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Relictner Eroder](/Monsters.aspx?ID=1882)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Dwarf\" url=\"/Traits.aspx?ID=54\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mortic\" url=\"/Traits.aspx?ID=357\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 127</row>\n\n**Perception** +23; [darkvision](/MonsterAbilities.aspx?ID=12), lair sense\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Dwarven](/Languages.aspx?ID=3), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Crafting](/Skills.aspx?ID=4) +22, [Intimidation](/Skills.aspx?ID=7) +19, [Survival](/Skills.aspx?ID=16) +23, [Thievery](/Skills.aspx?ID=17) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +7\r\n\r\n**Int** +4\r\n\r\n**Wis** +5\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Lair Sense** ([detection](/Traits.aspx?ID=43), [divination](/Traits.aspx?ID=47), [divine](/Traits.aspx?ID=48)) The relictner bonds with a single structure they consider their lair, such as a house, temple, or ruin. A relictner is aware of any creature that enters the lair, and the direction and approximate distance to the creature. If the lair is destroyed, the relictner can bond with a new lair by residing within a structure they own or claim for 1 week.\r\n\r\n**Items**\r\n[broken](/Conditions.aspx?ID=2) [chain mail](/Armor.aspx?ID=9), [broken](/Conditions.aspx?ID=2) [dwarven war axe](/Weapons.aspx?ID=62)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 265\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Consecration Vulnerability** A relictner in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [_sanctified ground_](/Spells.aspx?ID=265), is [slowed 1](/Conditions.aspx?ID=35).<br />**Weathering Aura** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [transmutation](/Traits.aspx?ID=157)) 60 feet. The relictner radiates an aura of degradation. All objects in the area have their Hardness reduced by 10, to a minimum of 0, for as long as they remain in the aura and for 1 round after leaving it. The relictner can't deactivate this aura.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\neroding touch +26 ([Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 3d12+10 acid\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ntargeted collapse +21 ([Trip](/Traits.aspx?ID=196), [versatile piercing](/Traits.aspx?ID=200)),\r\n**Damage** 3d10+3 bludgeoning\n\n**Crumble** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Transmutation](/Traits.aspx?ID=157)) The relictner erodes an object within 30 feet, dealing 3d10 bludgeoning damage to it, with a DC 31 [basic](/Rules.aspx?ID=329) Reflex save if the object is attended.\r\n\r\n**Death Gasp** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) The relictner draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The relictner gains the [undead](/Traits.aspx?ID=160) trait and becomes immune to bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), and [sleep](/Traits.aspx?ID=145). Any such effects the relictner is currently inflicted with are suspended but take effect again once they take a breath. Death Gasp lasts as long as the relictner [holds their breath](/Rules.aspx?ID=468) (up to 8 rounds).\r\n\r\n**Demolition** <actions string=\"Three Actions\" /> ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65)) The relictner bellows in fury, causing the surrounding structure to collapse. All creatures in a 30-foot emanation take 8d10 bludgeoning damage from falling debris (DC 31 [basic](/Rules.aspx?ID=329) Reflex save). A creature that fails its save is knocked [prone](/Conditions.aspx?ID=31). The area becomes difficult terrain. The relictner can't use Demolition again for 1d4 rounds.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-248\" />",
+ "name": "Relictner Eroder",
+ "npc": false,
+ "perception": 23,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 18,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Dwarf\" url=\"/Traits.aspx?ID=54\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mortic\" url=\"/Traits.aspx?ID=357\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 127</row>\r\n\r\n**Creature Family** [Mortic](/MonsterFamilies.aspx?ID=248)\r\n\r\n<row gap=\"medium\">\r\n**HP** 265 ( negative healing )\r\n\r\n**AC** 32\r\n\r\n**Fort** +25\r\n\r\n**Ref** +18\r\n\r\n**Will** +21\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRegardless of age, relictners look like ancient  dwarves  with deep wrinkles, sparse white hair, and decrepit forms. As their bodies degrade, so too …\r\n</summary>",
+ "sense": " darkvision , lair sense",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), lair sense",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Crafting +22",
+  "Intimidation +19",
+  "Survival +23",
+  "Thievery +20"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Crafting](/Skills.aspx?ID=4) +22, [Intimidation](/Skills.aspx?ID=7) +19, [Survival](/Skills.aspx?ID=16) +23, [Thievery](/Skills.aspx?ID=17) +20",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 127"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 127</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Regardless of age, relictners look like ancient  dwarves  with deep wrinkles, sparse white hair, and decrepit forms. As their bodies degrade, so too …",
+ "summary_markdown": "Regardless of age, relictners look like ancient  dwarves  with deep wrinkles, sparse white hair, and decrepit forms. As their bodies degrade, so too …",
+ "text": " Relictner Regardless of age, relictners look like ancient dwarves with deep wrinkles, sparse white hair, and decrepit forms. As their bodies degrade, so too do their surroundings, with even the finest architecture crumbling to ruins. Recall Knowledge - Humanoid (Society): DC 35 Unspecific Lore : DC 33 Specific Lore : DC 30 Relictner Eroder Source Book of the Dead pg. 127 Perception +23; darkvision, lair sense Languages Common, Dwarven, Necril Skills Athletics +25, Crafting +22, Intimidation +19, Survival +23, Thievery +20 Str +7 Dex +2 Con +7 Int +4 Wis +5 Cha +1 Lair Sense (detection, divination, divine) The relictner bonds with a single structure they consider their lair, such as a house, temple, or ruin. A relictner is aware of any creature that enters the lair, and the direction and approximate distance to the creature. If the lair is destroyed, the relictner can bond with a new lair by residing within a structure they own or claim for 1 week. Items broken chain mail, broken dwarven war axe --- AC 32 Fort +25 Ref +18 Will +21 HP 265 (negative healing) Consecration Vulnerability A relictner in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground , is slowed 1. Weathering Aura (aura, divine, transmutation) 60 feet. The relictner radiates an aura of degradation. All objects in the area have their Hardness reduced by 10, to a minimum of 0, for as long as they remain in the aura and for 1 round after leaving it. The relictner can't deactivate this aura. --- Speed 20 feet Melee Single Action eroding touch +26 (Unarmed), Damage 3d12+10 acid Ranged Single Action targeted collapse +21 (Trip, versatile piercing), Damage 3d10+3 bludgeoning Crumble Two Actions (Divine, Transmutation) The relictner erodes an object within 30 feet, dealing 3d10 bludgeoning damage to it, with a DC 31 basic Reflex save if the object is attended. Death Gasp Single Action (Divine, Necromancy) The relictner draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The relictner gains the undead trait and becomes immune to bleed, death effects, disease, paralyzed, poison, and sleep. Any such effects the relictner is currently inflicted with are suspended but take effect again once they take a breath. Death Gasp lasts as long as the relictner holds their breath (up to 8 rounds). Demolition Three Actions (Divine, Evocation) The relictner bellows in fury, causing the surrounding structure to collapse. All creatures in a 30-foot emanation take 8d10 bludgeoning damage from falling debris (DC 31 basic Reflex save). A creature that fails its save is knocked prone. The area becomes difficult terrain. The relictner can't use Demolition again for 1d4 rounds. ",
+ "trait": [
+  "Dwarf",
+  "Humanoid",
+  "Mortic",
+  "Rare",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Dwarf](/Traits.aspx?ID=54), [Humanoid](/Traits.aspx?ID=91), [Mortic](/Traits.aspx?ID=357), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Dwarf",
+  "Humanoid",
+  "Mortic",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1882",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 5
+}

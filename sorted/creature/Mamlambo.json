@@ -1,0 +1,95 @@
+{
+ "ac": 28,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Luminous Lure",
+  "Attack of Opportunity",
+  "Aquatic Ambush",
+  "Face Eater"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 155,
+ "hp_raw": "155",
+ "id": "creature-1439",
+ "image": [
+  "/Images/Monsters/Mamlambo.png"
+ ],
+ "intelligence": -3,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mamlambo](/Monsters.aspx?ID=1439)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMamlambos are river predators with hypnotic, bioluminescent skin. They appear similar to crocodiles, but the narrow head at the end of their long necks resembles a horse's skull, and their four legs are stubby and inefficient for land movement. Their skin's green glow is only barely visible in daylight or when underwater, though the glow is difficult to resist. As a result, they're frequently trailed by fish, birds, or other river creatures ensnared by the alluring radiance.\n\n Humanoids are mamlambos' favorite prey, particularly [humans](/Ancestries.aspx?ID=6), although they strangely prefer to only eat their victims' faces and brains. Mamlambos are dim-witted but sly, and sometimes hide their victims under submerged rocks or logs to make their discovery less likely. A mamlambo might be active in a region for days or even weeks before its presence is discovered.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mamlambo.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Mamlambo](/Monsters.aspx?ID=1439)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 303 <sup>2.0</sup></row>\n\n**Perception** +19; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +21, [Stealth](/Skills.aspx?ID=15) +19, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** -3\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Luminous Lure** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [incapacitation](/Traits.aspx?ID=93), [light](/Traits.aspx?ID=100), [mental](/Traits.aspx?ID=106), [primal](/Traits.aspx?ID=134)) 30 feet. The mamlambo emits dim light from its skin. A creature that enters or begins its turn in the aura must attempt a DC 23 Will save. [Humanoids](/Traits.aspx?ID=91) take a –2 penalty to this saving throw. Regardless of the save's result, the creature is temporarily immune for 10 minutes. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [slowed 1](/Conditions.aspx?ID=35) for 1 round. <br />**Failure** The creature is [fascinated](/Conditions.aspx?ID=14), and for as long as it is in the aura it must spend at least 1 of its actions on each of its turns to move closer to the mamlambo as expediently as possible, while avoiding obvious dangers. If the creature ends its movement or turn adjacent to the mamlambo, it is slowed 1 until it is out of the aura or until the mamlambo makes a Strike against it. The target can attempt a new Will save at the beginning of each of their subsequent turns, and on a success, the effect ends. <br />**Critical Failure** As failure, but the creature must spend each of its actions moving closer to the mamlambo, and if it ends its movement or turn adjacent to the mamlambo, it is [paralyzed](/Conditions.aspx?ID=28) until it is out of the aura or until the mamlambo makes a Strike against it.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 155\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> Tail only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+11 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +21 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+11 bludgeoning\n\n**[Aquatic Ambush](/MonsterAbilities.aspx?ID=2)** <actions string=\"Single Action\" />  \r\n\r\n**Face Eater** <actions string=\"Single Action\" />  **Requirements** The mamlambo has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33), or there is a dying, [immobilized](/Conditions.aspx?ID=24), or [unconscious](/Conditions.aspx?ID=38) creature within the mamlambo's reach; **Effect** The mamlambo deals 2d8+11 piercing damage to the creature (DC 28 [basic](/Rules.aspx?ID=329) Fortitude save). On a failure, the creature also takes an additional 2d6 [persistent bleed damage](/Conditions.aspx?ID=29), or 4d6 persistent bleed damage on a critical failure.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">An Unusual Phobia</title>\r\n\r\nMamlambos have an unusually strong aversion to river otters, despite being much larger and more dangerous. Since mamlambos rarely remain in an area inhabited by otters for long, river-dwelling people in the Mwangi Expanse often keep trained otters to aid in fishing and to ward off the potential presence of a mamlambo.\r\n</aside>",
+ "name": "Mamlambo",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 20,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 303 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 155\r\n\r\n**AC** 28\r\n\r\n**Fort** +19\r\n\r\n**Ref** +20\r\n\r\n**Will** +15\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMamlambos are river predators with hypnotic, bioluminescent skin. They appear similar to crocodiles, but the narrow head at the end of their long …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +21",
+  "Stealth +19",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +21, [Stealth](/Skills.aspx?ID=15) +19, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "The Mwangi Expanse"
+ ],
+ "source_raw": [
+  "The Mwangi Expanse pg. 303"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 303 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 10,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "10 feet, swim 40 feet",
+ "speed_raw": "10 feet, swim 40 feet",
+ "spell_markdown": "",
+ "stealth": "19",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Mamlambos are river predators with hypnotic, bioluminescent skin. They appear similar to crocodiles, but the narrow head at the end of their long …",
+ "summary_markdown": "Mamlambos are river predators with hypnotic, bioluminescent skin. They appear similar to crocodiles, but the narrow head at the end of their long …",
+ "text": " Mamlambo Mamlambos are river predators with hypnotic, bioluminescent skin. They appear similar to crocodiles, but the narrow head at the end of their long necks resembles a horse's skull, and their four legs are stubby and inefficient for land movement. Their skin's green glow is only barely visible in daylight or when underwater, though the glow is difficult to resist. As a result, they're frequently trailed by fish, birds, or other river creatures ensnared by the alluring radiance. Humanoids are mamlambos' favorite prey, particularly humans, although they strangely prefer to only eat their victims' faces and brains. Mamlambos are dim-witted but sly, and sometimes hide their victims under submerged rocks or logs to make their discovery less likely. A mamlambo might be active in a region for days or even weeks before its presence is discovered. Recall Knowledge - Beast (Arcana, Nature): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Mamlambo Source The Mwangi Expanse pg. 303 2.0 Perception +19; darkvision Languages Skills Athletics +21, Stealth +19, Survival +17 Str +7 Dex +4 Con +5 Int -3 Wis +4 Cha +0 Luminous Lure (aura, emotion, enchantment, incapacitation, light, mental, primal) 30 feet. The mamlambo emits dim light from its skin. A creature that enters or begins its turn in the aura must attempt a DC 23 Will save. Humanoids take a –2 penalty to this saving throw. Regardless of the save's result, the creature is temporarily immune for 10 minutes. Critical Success The creature is unaffected. Success The creature is slowed 1 for 1 round. Failure The creature is fascinated, and for as long as it is in the aura it must spend at least 1 of its actions on each of its turns to move closer to the mamlambo as expediently as possible, while avoiding obvious dangers. If the creature ends its movement or turn adjacent to the mamlambo, it is slowed 1 until it is out of the aura or until the mamlambo makes a Strike against it. The target can attempt a new Will save at the beginning of each of their subsequent turns, and on a success, the effect ends. Critical Failure As failure, but the creature must spend each of its actions moving closer to the mamlambo, and if it ends its movement or turn adjacent to the mamlambo, it is paralyzed until it is out of the aura or until the mamlambo makes a Strike against it. --- AC 28 Fort +19 Ref +20 Will +15 HP 155 Attack of Opportunity Reaction Tail only. --- Speed 10 feet, swim 40 feet Melee Single Action jaws +21 (reach 10 feet), Damage 2d8+11 piercing plus Improved Grab Melee Single Action tail +21 (Agile, reach 15 feet), Damage 2d6+11 bludgeoning Aquatic Ambush Single Action Face Eater Single Action Requirements The mamlambo has a creature grabbed or restrained, or there is a dying, immobilized, or unconscious creature within the mamlambo's reach; Effect The mamlambo deals 2d8+11 piercing damage to the creature (DC 28 basic Fortitude save). On a failure, the creature also takes an additional 2d6 persistent bleed damage, or 4d6 persistent bleed damage on a critical failure. An Unusual Phobia Mamlambos have an unusually strong aversion to river otters, despite being much larger and more dangerous. Since mamlambos rarely remain in an area inhabited by otters for long, river-dwelling people in the Mwangi Expanse often keep trained otters to aid in fishing and to ward off the potential presence of a mamlambo. ",
+ "trait": [
+  "Aquatic",
+  "Beast",
+  "Uncommon",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Aquatic](/Traits.aspx?ID=168), [Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aquatic",
+  "Beast",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1439",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 4
+}

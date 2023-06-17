@@ -1,0 +1,53 @@
+{
+ "ac": 33,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Thievery  DC 27 (expert) to take apart a telekinetic cloud, Thievery DC 32 (master) to disable each telekinetic decoration, or   dispel magic   (6th level; counteract DC 30) to counteract each telekinetic decoration",
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hardness": 22,
+ "hardness_raw": "22",
+ "hazard_type": "Trap",
+ "hp": 88,
+ "hp_raw": "88 (BT 44) per telekinetic cloud",
+ "id": "hazard-27",
+ "level": 12,
+ "markdown": "<title level=\"1\" right=\"Hazard 12\" pfs=\"\">[Telekinetic Swarm Trap](/Hazards.aspx?ID=27)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 528 <sup>4.0</sup></row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThree innocuous decorations instilled with telekinetic magic pull objects and pieces of the room itself into spinning clouds of debris that attack all creatures in the room.\r\n\r\n---\r\n\r\n**Stealth**\r\n+24 (expert)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 27 (expert) to take apart a telekinetic cloud, Thievery DC 32 (master) to disable each telekinetic decoration, or [_dispel magic_](/Spells.aspx?ID=78) (6th level; counteract DC 30) to counteract each telekinetic decoration\n\n<column gap=\"tiny\">\r\n\r\n**AC** 33, **Fort** +24, **Ref** +19\r\n\r\n**Hardness**\r\n22\r\n\r\n**HP**\r\n88 (BT 44) per telekinetic cloud\n\n</column>\r\n\r\n**Agitate** <actions string=\"Reaction\" /> (arcane, evocation); **Trigger** A creature stays in the room for at least 6 seconds. **Effect** Each telekinetic decoration constructs a cloud of objects in the room (three clouds total) and the trap rolls initiative. The creatures in the room when the trap is triggered become the trap’s targets, regardless of whether they leave the room or other creatures later enter the room. Each decoration targets a different creature if possible. A target creature that moves at least 1 mile from the trap ceases being a target, at which point the decoration designates a new target.\n\n---\r\n**Routine**\r\n(9 actions) Each decoration uses 3 of the trap’s actions each turn, and the trap loses 3 actions each turn for every decoration that is disabled. A decoration uses its first action to move its cloud of objects up to 200 feet, its second action to make the objects Strike, and its third action to add more objects to the cloud, increasing its damage by 1d12 (to a maximum of 4d12+10). If a decoration’s cloud is already at maximum damage, it does nothing with its third action.\n\n If a decoration’s cloud has been destroyed, the decoration instead spends its first action to create a new cloud of objects inside the room (using the starting damage value) and then its second and third actions to have the cloud move and attack.<br /> **Melee** <actions string=\"Single Action\" /> objects +24, **Damage** 2d12+10 bludgeoning\r\n\r\n---\r\n**Reset**\r\nThe trap deactivates and resets 10 minutes after it has no target creatures (because the creatures either moved too far away or died).",
+ "name": "Telekinetic Swarm Trap",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2019-08-01",
+ "reset": "The trap deactivates and resets 10 minutes after it has no target creatures (because the creatures either moved too far away or died).",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 528 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThree innocuous decorations instilled with telekinetic magic pull objects and pieces of the room itself into spinning clouds of debris that attack …\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 528"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 528 <sup>4.0</sup></row>",
+ "speed": {},
+ "stealth": "+24 (expert)",
+ "summary": "Three innocuous decorations instilled with telekinetic magic pull objects and pieces of the room itself into spinning clouds of debris that attack …",
+ "summary_markdown": "Three innocuous decorations instilled with telekinetic magic pull objects and pieces of the room itself into spinning clouds of debris that attack …",
+ "text": " Telekinetic Swarm Trap Source Core Rulebook pg. 528 4.0 Complexity Complex Three innocuous decorations instilled with telekinetic magic pull objects and pieces of the room itself into spinning clouds of debris that attack all creatures in the room. --- Stealth +24 (expert) Disable Thievery DC 27 (expert) to take apart a telekinetic cloud, Thievery DC 32 (master) to disable each telekinetic decoration, or dispel magic (6th level; counteract DC 30) to counteract each telekinetic decoration AC 33, Fort +24, Ref +19 Hardness 22 HP 88 (BT 44) per telekinetic cloud Agitate Reaction (arcane, evocation); Trigger A creature stays in the room for at least 6 seconds. Effect Each telekinetic decoration constructs a cloud of objects in the room (three clouds total) and the trap rolls initiative. The creatures in the room when the trap is triggered become the trap’s targets, regardless of whether they leave the room or other creatures later enter the room. Each decoration targets a different creature if possible. A target creature that moves at least 1 mile from the trap ceases being a target, at which point the decoration designates a new target. --- Routine (9 actions) Each decoration uses 3 of the trap’s actions each turn, and the trap loses 3 actions each turn for every decoration that is disabled. A decoration uses its first action to move its cloud of objects up to 200 feet, its second action to make the objects Strike, and its third action to add more objects to the cloud, increasing its damage by 1d12 (to a maximum of 4d12+10). If a decoration’s cloud is already at maximum damage, it does nothing with its third action. If a decoration’s cloud has been destroyed, the decoration instead spends its first action to create a new cloud of objects inside the room (using the starting damage value) and then its second and third actions to have the cloud move and attack. Melee Single Action objects +24, Damage 2d12+10 bludgeoning --- Reset The trap deactivates and resets 10 minutes after it has no target creatures (because the creatures either moved too far away or died).",
+ "trait": [
+  "Complex",
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Magical](/Traits.aspx?ID=103), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=27",
+ "weakness": {}
+}

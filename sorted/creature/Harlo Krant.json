@@ -1,0 +1,113 @@
+{
+ "ac": 20,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 3,
+ "creature_ability": [
+  "Command Zombie"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 80,
+ "hp_raw": "80 ( negative healing )",
+ "id": "creature-1931",
+ "image": [
+  "/Images/Monsters/HarloKrant.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Harlo Krant](/Monsters.aspx?ID=1931)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/HarloKrant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Harlo Krant](/Monsters.aspx?ID=1931)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 210</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10, [Mercantile Lore](/Skills.aspx?ID=8) +9, [Religion](/Skills.aspx?ID=13) +13, [Stealth](/Skills.aspx?ID=15) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +5\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[_bag of holding type I_](/Equipment.aspx?ID=249) (contains two doses of [arsenic](/Equipment.aspx?ID=104), 6 [_invisibility potion_](/Equipment.aspx?ID=287), and 136 gp), [Scythe](/Weapons.aspx?ID=39)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 80\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 5, slashing 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nscythe +12 ([deadly d10](/Traits.aspx?ID=174), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d10+8 slashing plus whispering scythe\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +12,\r\n**Damage** 1d8+8 bludgeoning\r\n\r\n**Divine Innate Spells** DC 21, attack +13\r\n- **Cantrips (2nd)**\r\n[Chill Touch](/Spells.aspx?ID=35), [Daze](/Spells.aspx?ID=61), [Divine Lance](/Spells.aspx?ID=84)\r\n- **1st**\r\n[Fear](/Spells.aspx?ID=110), [Harm](/Spells.aspx?ID=146) (×3), [Ray of Enfeeblement](/Spells.aspx?ID=244)\r\n- **2nd**\r\n[Silence](/Spells.aspx?ID=287), [Sudden Blight](/Spells.aspx?ID=720)\r\n\r\n**Command Zombie** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Incapacitation](/Traits.aspx?ID=93), [Necromancy](/Traits.aspx?ID=117)) Krant intones blasphemous words to gain control over a [zombie](/MonsterFamilies.aspx?ID=103) he can see within 100 feet. A zombie that is [mindless](/Traits.aspx?ID=108) and not under someone else's control falls under his control automatically; otherwise, the zombie or its controller can attempt a DC 22 Will save to avoid being [controlled](/Conditions.aspx?ID=6) (whichever has the higher modifier). The target zombie is temporarily immune for 24 hours if successful. The attempt fails if the zombie is the same level as Krant or higher. The zombie remains controlled by Krant until either is destroyed. Krant can control up to 8 zombies at a time. If Krant would control a number of zombies over this limit, he chooses which to release. Create Zombies (concentrate, divine, evil, necromancy); Krant can create lesser zombies with a 1-hour ritual. During this time, Krant chants and performs an unholy dance over the corpses he intends to animate. Unlike normal rituals, this doesn't require a skill check or Cost. At the end of this hour, Krant can create one 1st- or 2nd-level zombie, or two zombies of level 0 or lower. These are automatically under Krant's control and count toward the limit of Command Zombie. Any zombies created by Krant still count toward the XP budget of an encounter normally.<br /> Krant has created enough individual zombies to form [shambler troops](/Monsters.aspx?ID=1376), which are effectively 4th-level creatures. Rather than creating them directly, he needed to train weaker zombies to work as troops. Shamble Forth! <actions string=\"Single Action\" /> (concentrate, divine, necromancy); **Frequency** once per round; **Effect** Each [zombie](/MonsterFamilies.aspx?ID=103) controlled by Krant Strides 5 feet (or [Burrows](/Actions.aspx?ID=93), [Climbs](/Actions.aspx?ID=33), [Flies](/Actions.aspx?ID=94), or [Swims](/Actions.aspx?ID=39) 5 feet if it has the corresponding movement type). Whispering Scythe [reaction] (divine, necromancy); **Trigger** An undead controlled by Krant and within 20 feet of him is destroyed; **Requirements** Krant is holding his scythe; **Effect** Krant draws the creature's soul into his scythe. The next time he makes a scythe Strike, the soul is released and the Strike deals an extra 1d6 negative damage. The scythe can hold only one soul at a time.\r\n\r\n</column>",
+ "name": "Harlo Krant",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "unique",
+ "reflex_save": 10,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 210</row>\n\n<row gap=\"medium\">\r\n**HP** 80 ( negative healing )\r\n\r\n**AC** 20\r\n\r\n**Fort** +11\r\n\r\n**Ref** +10\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +10",
+  "Mercantile Lore +9",
+  "Religion +13",
+  "Stealth +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10, [Mercantile Lore](/Skills.aspx?ID=8) +9, [Religion](/Skills.aspx?ID=13) +13, [Stealth](/Skills.aspx?ID=15) +10",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 210"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 210</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Silence",
+  "Sudden Blight",
+  "Fear",
+  "Harm",
+  "Ray of Enfeeblement",
+  "Chill Touch",
+  "Daze",
+  "Divine Lance"
+ ],
+ "spell_markdown": "[Chill Touch](/Spells.aspx?ID=35), [Daze](/Spells.aspx?ID=61), [Divine Lance](/Spells.aspx?ID=84), [Fear](/Spells.aspx?ID=110), [Harm](/Spells.aspx?ID=146), [Ray of Enfeeblement](/Spells.aspx?ID=244), [Silence](/Spells.aspx?ID=287), [Sudden Blight](/Spells.aspx?ID=720)",
+ "stealth": "10",
+ "strength": 4,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Harlo Krant Recall Knowledge - Undead (Religion): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Harlo Krant Source Book of the Dead pg. 210 Perception +13; darkvision Languages Skills Athletics +10, Mercantile Lore +9, Religion +13, Stealth +10 Str +4 Dex +4 Con +3 Int +1 Wis +5 Cha +2 Items bag of holding type I (contains two doses of arsenic, 6 invisibility potion , and 136 gp), Scythe --- AC 20 Fort +11 Ref +10 Will +13 HP 80 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses positive 5, slashing 5 --- Speed 25 feet Melee Single Action scythe +12 (deadly d10, Trip), Damage 1d10+8 slashing plus whispering scythe Melee Single Action fist +12, Damage 1d8+8 bludgeoning Divine Innate Spells DC 21, attack +13 - Cantrips (2nd) Chill Touch, Daze, Divine Lance - 1st Fear, Harm (×3), Ray of Enfeeblement - 2nd Silence, Sudden Blight Command Zombie Single Action (Concentrate, Divine, Incapacitation, Necromancy) Krant intones blasphemous words to gain control over a zombie he can see within 100 feet. A zombie that is mindless and not under someone else's control falls under his control automatically; otherwise, the zombie or its controller can attempt a DC 22 Will save to avoid being controlled (whichever has the higher modifier). The target zombie is temporarily immune for 24 hours if successful. The attempt fails if the zombie is the same level as Krant or higher. The zombie remains controlled by Krant until either is destroyed. Krant can control up to 8 zombies at a time. If Krant would control a number of zombies over this limit, he chooses which to release. Create Zombies (concentrate, divine, evil, necromancy); Krant can create lesser zombies with a 1-hour ritual. During this time, Krant chants and performs an unholy dance over the corpses he intends to animate. Unlike normal rituals, this doesn't require a skill check or Cost. At the end of this hour, Krant can create one 1st- or 2nd-level zombie, or two zombies of level 0 or lower. These are automatically under Krant's control and count toward the limit of Command Zombie. Any zombies created by Krant still count toward the XP budget of an encounter normally. Krant has created enough individual zombies to form shambler troops, which are effectively 4th-level creatures. Rather than creating them directly, he needed to train weaker zombies to work as troops. Shamble Forth! Single Action (concentrate, divine, necromancy); Frequency once per round; Effect Each zombie controlled by Krant Strides 5 feet (or Burrows, Climbs, Flies, or Swims 5 feet if it has the corresponding movement type). Whispering Scythe [reaction] (divine, necromancy); Trigger An undead controlled by Krant and within 20 feet of him is destroyed; Requirements Krant is holding his scythe; Effect Krant draws the creature's soul into his scythe. The next time he makes a scythe Strike, the soul is released and the Strike deals an extra 1d6 negative damage. The scythe can hold only one soul at a time. ",
+ "trait": [
+  "Undead",
+  "Unique",
+  "Zombie",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Undead",
+  "Unique",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1931",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "positive": 5,
+  "slashing": 5
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 5, slashing 5",
+ "weakness_raw": " positive  5, slashing 5",
+ "will_save": 13,
+ "wisdom": 5
+}

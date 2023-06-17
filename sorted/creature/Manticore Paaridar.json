@@ -1,0 +1,103 @@
+{
+ "ac": 26,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 3,
+ "creature_ability": [
+  "Sharp Riposte",
+  "Flurry of Blows",
+  "Limited Flight",
+  "Monk Ki Spells"
+ ],
+ "creature_family": "Paaridar",
+ "creature_family_markdown": "[Paaridar](/MonsterFamilies.aspx?ID=254)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 110,
+ "hp_raw": "110",
+ "id": "creature-1259",
+ "image": [
+  "/Images/Monsters/Paaridar.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Manticore Paaridar](/Monsters.aspx?ID=1259)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMonks dissatisfied with the limits of their humanoid forms and yearning for a shortcut can steal the might from other creatures. These monks become paaridars, amalgamations that blend the features of their former ancestry with the form of another creature. The transformation challenges the limits of the paaridar's body and soul, demanding continual discipline to maintain control.\n\n The rituals to make this transformation were developed by Paaridus, namesake of this loose monastic order. The process requires a captive creature—a victim to draw powers from. Over days of intense rituals, the monk displaces their own chakras with those of the victim. This unnatural process transforms the ki, and thereby the body. The lower chakras are considered “safer” to replace. Most Paaridars stop at the root, sacral, and navel chakras. To go farther risks losing control of one's emotions and intellect entirely, a fate Paaridus himself succumbed to. Paaridars consider this his sacrifice and lesson, but other monks recognize that even one step on this path is profane. The creature victimized by the ritual remains—still alive, but only a husk, as the transformed chakras within leave it weak and removed from its nature.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Paaridar.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Manticore Paaridar](/Monsters.aspx?ID=1259)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Paaridar\" url=\"/Traits.aspx?ID=360\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 198</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +19, [Intimidation](/Skills.aspx?ID=7) +11, [Manticore Lore](/Skills.aspx?ID=8) +14, [Occultism](/Skills.aspx?ID=11) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +5\r\n\r\n**Cha** -2\r\n</row>\n\n**Items**\r\n_[+1 handwraps of mighty blows](/Domains.aspx?ID=20)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 110\n\n**Sharp Riposte**<actions string=\"Reaction\" /> **Trigger** An adjacent creature targets the paaridar with a melee attack; **Effect** The paaridar blocks the attack with their claws. The paaridar gains resistance 5 to physical damage from the attack, and if the attack hits, the attacker takes 1d8+4 slashing damage.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, fly 20 feet (limited flight)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +18 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+8 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+8 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspike +16 ([Propulsive](/Traits.aspx?ID=191), [range increment 40 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d10+5 piercing\n\n**Flurry of Blows** <actions string=\"Single Action\" />  **Frequency** once per round; **Effect** The paaridar makes two unarmed Strikes or two spike Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.\r\n\r\n**Limited Flight**   The manticore paaridar's wings are small and weak, insufficient to keep them in the air. If the paaridar [Flies](/Actions.aspx?ID=94) using their wings, they fall at the end of their turn if they haven't landed.\r\n\r\n**Monk Ki Spells**   The Paaridar's ki flow is unnaturally disrupted, causing them to take 1d6 negative damage each time they cast a ki spell. 3 Focus Points, DC 24; **4th** [ki rush](/Feats.aspx?ID=432), [ki strike](/Feats.aspx?ID=433), [wholeness of body](/Feats.aspx?ID=448)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-254\" />",
+ "name": "Manticore Paaridar",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 18,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Paaridar\" url=\"/Traits.aspx?ID=360\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 198</row>\r\n\r\n**Creature Family** [Paaridar](/MonsterFamilies.aspx?ID=254)\r\n\r\n<row gap=\"medium\">\r\n**HP** 110\r\n\r\n**AC** 26\r\n\r\n**Fort** +14\r\n\r\n**Ref** +18\r\n\r\n**Will** +16\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMonks dissatisfied with the limits of their humanoid forms and yearning for a shortcut can steal the might from other creatures. These monks become …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Athletics +19",
+  "Intimidation +11",
+  "Manticore Lore +14",
+  "Occultism +10"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +19, [Intimidation](/Skills.aspx?ID=7) +11, [Manticore Lore](/Skills.aspx?ID=8) +14, [Occultism](/Skills.aspx?ID=11) +10",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 198"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 198</row>",
+ "speed": {
+  "fly": 20,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, fly 20 feet (limited flight)",
+ "speed_raw": "40 feet, fly 20 feet (limited flight)",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Monks dissatisfied with the limits of their humanoid forms and yearning for a shortcut can steal the might from other creatures. These monks become …",
+ "summary_markdown": "Monks dissatisfied with the limits of their humanoid forms and yearning for a shortcut can steal the might from other creatures. These monks become …",
+ "text": " Manticore Paaridar Monks dissatisfied with the limits of their humanoid forms and yearning for a shortcut can steal the might from other creatures. These monks become paaridars, amalgamations that blend the features of their former ancestry with the form of another creature. The transformation challenges the limits of the paaridar's body and soul, demanding continual discipline to maintain control. The rituals to make this transformation were developed by Paaridus, namesake of this loose monastic order. The process requires a captive creature—a victim to draw powers from. Over days of intense rituals, the monk displaces their own chakras with those of the victim. This unnatural process transforms the ki, and thereby the body. The lower chakras are considered “safer” to replace. Most Paaridars stop at the root, sacral, and navel chakras. To go farther risks losing control of one's emotions and intellect entirely, a fate Paaridus himself succumbed to. Paaridars consider this his sacrifice and lesson, but other monks recognize that even one step on this path is profane. The creature victimized by the ritual remains—still alive, but only a husk, as the transformed chakras within leave it weak and removed from its nature. Recall Knowledge - Humanoid (Society): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Manticore Paaridar Source Bestiary 3 pg. 198 Perception +18; darkvision, scent (imprecise) 30 feet Languages Common Skills Acrobatics +16, Athletics +19, Intimidation +11, Manticore Lore +14, Occultism +10 Str +6 Dex +5 Con +3 Int -1 Wis +5 Cha -2 Items +1 handwraps of mighty blows --- AC 26 Fort +14 Ref +18 Will +16 HP 110 Sharp Riposte Reaction Trigger An adjacent creature targets the paaridar with a melee attack; Effect The paaridar blocks the attack with their claws. The paaridar gains resistance 5 to physical damage from the attack, and if the attack hits, the attacker takes 1d8+4 slashing damage. --- Speed 40 feet, fly 20 feet (limited flight) Melee Single Action jaws +18 (Magical), Damage 2d8+8 piercing Melee Single Action claw +18 (Agile, Magical), Damage 2d6+8 slashing Ranged Single Action spike +16 (Propulsive, range increment 40 feet), Damage 1d10+5 piercing Flurry of Blows Single Action Frequency once per round; Effect The paaridar makes two unarmed Strikes or two spike Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Limited Flight The manticore paaridar's wings are small and weak, insufficient to keep them in the air. If the paaridar Flies using their wings, they fall at the end of their turn if they haven't landed. Monk Ki Spells The Paaridar's ki flow is unnaturally disrupted, causing them to take 1d6 negative damage each time they cast a ki spell. 3 Focus Points, DC 24; 4th ki rush, ki strike, wholeness of body ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Paaridar",
+  "Uncommon",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Paaridar](/Traits.aspx?ID=360), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Paaridar",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1259",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 5
+}

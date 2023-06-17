@@ -1,0 +1,102 @@
+{
+ "ac": 32,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 5,
+ "creature_ability": [
+  "Cling",
+  "Swarming Bites"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 155,
+ "hp_raw": "155",
+ "id": "creature-2319",
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, swarm mind",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"\">[Vicious Army Ant Swarm](/Monsters.aspx?ID=2319)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 35\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 33\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 30\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Vicious Army Ant Swarm](/Monsters.aspx?ID=2319)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 326</row>\n\n**Perception** +23; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) \r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** -2\r\n\r\n**Dex** +7\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +5\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 155\n\n**Immunities**\r\nprecision, swarm mind\r\n\r\n**Resistances**\r\nbludgeoning  8, piercing 15, slashing 15\r\n\r\n**Weaknesses**\r\narea damage 15, splash damage 15\r\n\r\n**Cling**  <actions string=\"Reaction\" /> **Trigger** A creature leaves the swarm's space **Effect** The swarm takes 1d6 damage as ants cling to the creature and continue biting, dealing 7d6 persistent piercing damage. High winds or immersion in water reduces the DC of the flat check to end this persistent damage to 5. Any area damage dealt to the creature destroys these clinging ants.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\n\n**Swarming Bites** <actions string=\"Single Action\" />  Each enemy in the swarm's space takes 3d6 piercing damage (DC 21 basic Fortitude save). A creature that fails its save against Swarming Bites becomes [clumsy](/Conditions.aspx?ID=3) 1 for 1 round. If the creature attempts a concentrate or manipulate action while affected, it must succeed at a DC 5 flat check or the action is lost; roll the check after spending the action, but before any effects are applied.\r\n\r\n</column>",
+ "name": "Vicious Army Ant Swarm",
+ "npc": false,
+ "perception": 23,
+ "rarity": "rare",
+ "reflex_save": 23,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "bludgeoning": 8,
+  "piercing": 15,
+  "slashing": 15
+ },
+ "resistance_markdown": "bludgeoning  8, piercing 15, slashing 15",
+ "resistance_raw": "bludgeoning  8, piercing 15, slashing 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 326</row>\n\n<row gap=\"medium\">\r\n**HP** 155\r\n\r\n**AC** 32\r\n\r\n**Fort** +25\r\n\r\n**Ref** +23\r\n\r\n**Will** +19\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) ",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +16",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 326"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 326</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "strength": -2,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Vicious Army Ant Swarm Recall Knowledge - Animal (Nature): DC 35 Unspecific Lore : DC 33 Specific Lore : DC 30 Vicious Army Ant Swarm Source Kingmaker Adventure Path pg. 326 Perception +23; darkvision, scent (imprecise) Languages Skills Athletics +16 Str -2 Dex +7 Con +5 Int -5 Wis +5 Cha -4 --- AC 32 Fort +25 Ref +23 Will +19 HP 155 Immunities precision, swarm mind Resistances bludgeoning 8, piercing 15, slashing 15 Weaknesses area damage 15, splash damage 15 Cling Reaction Trigger A creature leaves the swarm's space Effect The swarm takes 1d6 damage as ants cling to the creature and continue biting, dealing 7d6 persistent piercing damage. High winds or immersion in water reduces the DC of the flat check to end this persistent damage to 5. Any area damage dealt to the creature destroys these clinging ants. --- Speed 30 feet, climb 30 feet Swarming Bites Single Action Each enemy in the swarm's space takes 3d6 piercing damage (DC 21 basic Fortitude save). A creature that fails its save against Swarming Bites becomes clumsy 1 for 1 round. If the creature attempts a concentrate or manipulate action while affected, it must succeed at a DC 5 flat check or the action is lost; roll the check after spending the action, but before any effects are applied. ",
+ "trait": [
+  "Animal",
+  "Rare",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Rare](/Traits.aspx?ID=137), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Rare",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2319",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 15,
+  "splash": 15
+ },
+ "weakness_markdown": "area damage 15, splash damage 15",
+ "weakness_raw": "area damage 15, splash damage 15",
+ "will_save": 19,
+ "wisdom": 5
+}

@@ -1,0 +1,107 @@
+{
+ "ac": 23,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 4,
+ "creature_ability": [
+  "Sense Murderer",
+  "Self-Loathing",
+  "Undying Vendetta",
+  "Baleful Shriek",
+  "Constrict"
+ ],
+ "creature_family": "Revenant",
+ "creature_family_markdown": "[Revenant](/MonsterFamilies.aspx?ID=308)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 115,
+ "hp_raw": "115 ( negative healing )",
+ "id": "creature-787",
+ "image": [
+  "/Images/Monsters/Revenant.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "any one spoken in life by their murderer (typically <%LANGUAGES%1%%>Common<%END>)"
+ ],
+ "language_markdown": "any one spoken in life by their murderer (typically [Common](/Languages.aspx?ID=1))",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Revenant](/Monsters.aspx?ID=787)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRevenants are obsessed, undead stalkers who arise from their own murders and are driven by only one thing: revenge against their killers. The common wisdom is that revenants arise only from individuals who have been utterly betrayed or abandoned to die a grueling death, but even then such victims might not rise from their graves. In other cases, revenants might even rise from what might legitimately be considered an accident if the revenant doesn't understand the full circumstances of their demise. In such cases, it doesn't matter that the “murderer” may not have intended to kill, for revenants understands no pity and can never forgive. Revenants have little memory of their lives other than anything they might need to recall in order to achieve their goal of vengeance.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Revenant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Revenant](/Monsters.aspx?ID=787)</title>\r\n\r\n<traits>\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 227 <sup>2.0</sup></row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12), sense murderer\r\n\r\n**Languages**\r\nany one spoken in life by their murderer (typically [Common](/Languages.aspx?ID=1))\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +15, [Intimidation](/Skills.aspx?ID=7) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Sense Murderer** ([divination](/Traits.aspx?ID=47), [occult](/Traits.aspx?ID=120), [scrying](/Traits.aspx?ID=141)) A revenant knows the direction of their murderer (as long as both are on the same plane), but not the distance.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 115\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\r\n\r\n**Resistances**\r\nphysical 5 (except slashing)\n\n**Self-Loathing** ([emotion](/Traits.aspx?ID=60), [mental](/Traits.aspx?ID=106), [visual](/Traits.aspx?ID=163)) If a revenant sees their own reflection or any object that was important to them in life, they must attempt a DC 25 Will save. <br />**Critical Success** The revenant is unaffected and can no longer be affected by that reflection or object in this way. <br />**Success** The revenant is distracted by self-loathing and becomes [slowed 1](/Conditions.aspx?ID=35) for 1 round. <br />**Failure** The revenant becomes [fascinated](/Conditions.aspx?ID=14) by the source that triggered their self-loathing and does everything they can to destroy it until the end of the revenant's next turn. <br />**Critical Failure** The revenant becomes [immobilized](/Conditions.aspx?ID=24) as long as the source of their self-loathing is apparent, until they're attacked, or until they see their murderer.<br />**Undying Vendetta** ([emotion](/Traits.aspx?ID=60), [necromancy](/Traits.aspx?ID=117), [occult](/Traits.aspx?ID=120)) If the revenant's murderer dies, the revenant is immediately destroyed. A revenant that can't sense their murderer must attempt a DC 11 flat check once every 24 hours to avoid becoming [immobilized](/Conditions.aspx?ID=24) and [prone](/Conditions.aspx?ID=31); they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the revenant's destruction until the murderer is finally destroyed. The revenant gains a +2 status bonus to checks and DCs against their murderer.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +17 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+5 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Baleful Shriek** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106)) The revenant wails horribly. Each creature within a 60-foot burst must attempt a DC 23 Will save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's incapacitation trait. The revenant can't use Baleful Shriek again for 1d4 rounds. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [frightened 2](/Conditions.aspx?ID=19). <br />**Failure** The creature is frightened 2 and [paralyzed](/Conditions.aspx?ID=28) for 1 round. <br />**Critical Failure** The creature is frightened 3 and paralyzed for 1d4 rounds.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d6+5 bludgeoning, DC 24\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Exceptions to Evil</title>\r\n\r\nWhile most undead are evil, revenants are not—these unusual stalkers rise not out of a sense of cruelty or hatred of the living, but spontaneously from the need for vengeance following a deep betrayal. One can avoid a revenant's wrath by simply getting out of its way—unless you happen to be its reason for unlife!\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-308\" />",
+ "name": "Revenant",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 5,
+  "physical": 5,
+  "piercing": 5
+ },
+ "resistance_markdown": "physical 5 (except slashing)",
+ "resistance_raw": "physical 5 (except slashing)",
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 227 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Revenant](/MonsterFamilies.aspx?ID=308)\r\n\r\n<row gap=\"medium\">\r\n**HP** 115 ( negative healing )\r\n\r\n**AC** 23\r\n\r\n**Fort** +14\r\n\r\n**Ref** +13\r\n\r\n**Will** +17\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRevenants are obsessed, undead stalkers who arise from their own murders and are driven by only one thing: revenge against their killers. The common …\r\n</summary>",
+ "sense": " darkvision , sense murderer",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), sense murderer",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +15",
+  "Intimidation +14"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +15, [Intimidation](/Skills.aspx?ID=7) +14",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 227"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 227 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Revenants are obsessed, undead stalkers who arise from their own murders and are driven by only one thing: revenge against their killers. The common …",
+ "summary_markdown": "Revenants are obsessed, undead stalkers who arise from their own murders and are driven by only one thing: revenge against their killers. The common …",
+ "text": " Revenant Revenants are obsessed, undead stalkers who arise from their own murders and are driven by only one thing: revenge against their killers. The common wisdom is that revenants arise only from individuals who have been utterly betrayed or abandoned to die a grueling death, but even then such victims might not rise from their graves. In other cases, revenants might even rise from what might legitimately be considered an accident if the revenant doesn't understand the full circumstances of their demise. In such cases, it doesn't matter that the “murderer” may not have intended to kill, for revenants understands no pity and can never forgive. Revenants have little memory of their lives other than anything they might need to recall in order to achieve their goal of vengeance. Recall Knowledge - Undead (Religion): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Revenant Source Bestiary 2 pg. 227 2.0 Perception +14; darkvision, sense murderer Languages any one spoken in life by their murderer (typically Common) Skills Athletics +15, Intimidation +14 Str +5 Dex +3 Con +4 Int +0 Wis +3 Cha +2 Sense Murderer (divination, occult, scrying) A revenant knows the direction of their murderer (as long as both are on the same plane), but not the distance. --- AC 23 Fort +14 Ref +13 Will +17 HP 115 (negative healing) Immunities death effects, disease, paralyzed, poison, sleep Resistances physical 5 (except slashing) Self-Loathing (emotion, mental, visual) If a revenant sees their own reflection or any object that was important to them in life, they must attempt a DC 25 Will save. Critical Success The revenant is unaffected and can no longer be affected by that reflection or object in this way. Success The revenant is distracted by self-loathing and becomes slowed 1 for 1 round. Failure The revenant becomes fascinated by the source that triggered their self-loathing and does everything they can to destroy it until the end of the revenant's next turn. Critical Failure The revenant becomes immobilized as long as the source of their self-loathing is apparent, until they're attacked, or until they see their murderer. Undying Vendetta (emotion, necromancy, occult) If the revenant's murderer dies, the revenant is immediately destroyed. A revenant that can't sense their murderer must attempt a DC 11 flat check once every 24 hours to avoid becoming immobilized and prone; they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the revenant's destruction until the murderer is finally destroyed. The revenant gains a +2 status bonus to checks and DCs against their murderer. --- Speed 25 feet Melee Single Action claw +17 (Agile), Damage 2d8+5 slashing plus Grab Baleful Shriek Two Actions (Auditory, Emotion, Fear, Incapacitation, Mental) The revenant wails horribly. Each creature within a 60-foot burst must attempt a DC 23 Will save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's incapacitation trait. The revenant can't use Baleful Shriek again for 1d4 rounds. Critical Success The creature is unaffected. Success The creature is frightened 2. Failure The creature is frightened 2 and paralyzed for 1 round. Critical Failure The creature is frightened 3 and paralyzed for 1d4 rounds. Constrict Single Action 2d6+5 bludgeoning, DC 24 Exceptions to Evil While most undead are evil, revenants are not—these unusual stalkers rise not out of a sense of cruelty or hatred of the living, but spontaneously from the need for vengeance following a deep betrayal. One can avoid a revenant's wrath by simply getting out of its way—unless you happen to be its reason for unlife! ",
+ "trait": [
+  "Undead",
+  "LN",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=787",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 3
+}

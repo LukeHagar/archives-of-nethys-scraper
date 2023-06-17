@@ -1,0 +1,132 @@
+{
+ "ac": 40,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 8,
+ "creature_ability": [
+  "Spell Circle",
+  "Dispel Vulnerability",
+  "Inhabit Vessel",
+  "Engulf",
+  "Internal Spell Strike"
+ ],
+ "creature_family": "Elemental, Water",
+ "creature_family_markdown": "[Elemental, Water](/MonsterFamilies.aspx?ID=45)",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 30,
+ "hp": 225,
+ "hp_raw": "225",
+ "id": "creature-1009",
+ "image": [
+  "/Images/Monsters/ElementalVessel_Water.png"
+ ],
+ "immunity": [
+  "bleed",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Aquan",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1)",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"\">[Elemental Vessel, Water](/Monsters.aspx?ID=1009)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSpellcasters create elemental vessels by harvesting raw elemental energy and then binding it within a specially enchanted magic circle to grant it life.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ElementalVessel_Water.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Elemental Vessel, Water](/Monsters.aspx?ID=1009)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #161: Belly of the Black Whale](/Sources.aspx?ID=51) pg. 82</row>\n\n**Perception** +28\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +32, [Stealth](/Skills.aspx?ID=15) +32\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +8\r\n\r\n**Con** +8\r\n\r\n**Int** +0\r\n\r\n**Wis** +0\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Spell Circle** ([mental](/Traits.aspx?ID=106)) By performing an hour-long ritual, an elemental vessel can form a spell circle with an arcane or primal spellcaster. After the spell circle is formed, other spellcasters can join the spell circle by performing the same hour-long ritual while assisted by at least one spellcaster already in the spell circle. Each member of the spell circle must contribute at least one spell to the elemental vessel. The spellcaster permanently loses access to a spell slot equal to the spell's level and the elemental vessel adds the contributed spell to its list of arcane innate spells (regardless of the spell's original type). An elemental vessel can be imbued with no more than three spells per spell level. If the elemental vessel is destroyed, all members of the spell circle regain the spell slots they contributed to the creature. The arcane innate spells shown below represent a typical spell list for an elemental vessel, but each elemental vessel is likely to have different spells depending on what its spell circle has contributed.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 40 \r\n\r\n**Fort** +30 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 225\n\n**Immunities**\r\nbleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\r\n\r\n**Resistances**\r\nfire 15\n\n**Dispel Vulnerability** Whenever a creature successfully counteracts one of its spells, the vessel permanently loses access to that spell and takes damage equal to 4 × the spell's level. The spell circle member who contributed that spell regains access to their contributed spell slot.<br />**Inhabit Vessel** ([mental](/Traits.aspx?ID=106)) Any member of the elemental vessel's spell circle can spend 3 actions to mentally inhabit the vessel for 1 round. While they inhabit the vessel, the inhabiter controls the vessel's actions, and the vessel uses the inhabiter's Intelligence, Wisdom, and Charisma modifiers for all checks. Only one creature can inhabit an elemental vessel at a time.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, swim 100 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwave +30 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+12 bludgeoning plus [Push](/MonsterAbilities.aspx?ID=25) 10 feet\r\n\r\n**Arcane Innate Spells** DC 38, attack +30\r\n- **1st**\r\n[Hydraulic Push](/Spells.aspx?ID=154), [Shocking Grasp](/Spells.aspx?ID=283), [Spider Sting](/Spells.aspx?ID=300)\r\n- **2nd**\r\n[Dispel Magic](/Spells.aspx?ID=78), [Obscuring Mist](/Spells.aspx?ID=210), [Touch of Idiocy](/Spells.aspx?ID=341)\r\n- **3rd**\r\n[Earthbind](/Spells.aspx?ID=94), [Paralyze](/Spells.aspx?ID=213), [Vampiric Touch](/Spells.aspx?ID=354)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69), [Wall of Fire](/Spells.aspx?ID=362)\r\n- **5th**\r\n[Mariner's Curse](/Spells.aspx?ID=184), [Wall of Ice](/Spells.aspx?ID=364)\r\n- **6th**\r\n[Fireball](/Spells.aspx?ID=119), [Purple Worm Sting](/Spells.aspx?ID=242)\r\n- **7th**\r\n[Prismatic Spray](/Spells.aspx?ID=233), [Volcanic Eruption](/Spells.aspx?ID=360)\r\n- **8th**\r\n[Polar Ray](/Spells.aspx?ID=224)\r\n\r\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Two Actions\" />  DC 35, no damage, [Escape](/Actions.aspx?ID=79) DC 35, Rupture 28\r\n\r\n**Internal Spell Strike** <actions string=\"Single Action\" />  The elemental vessel targets an engulfed creature with one of its spells. The spell must have a range of touch.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Versatile Creations</title>\r\n\r\nSome spellcasters favor elemental vessels because of their versatility. Their power and intelligence make them excellent guardians when not inhabited. But they can also be imbued with useful spells and inhabited from any distance, allowing spellcasters to influence events far from their location.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-45\" />",
+ "name": "Elemental Vessel, Water",
+ "npc": false,
+ "perception": 28,
+ "rarity": "uncommon",
+ "reflex_save": 28,
+ "release_date": "2020-11-15",
+ "resistance": {
+  "fire": 15
+ },
+ "resistance_markdown": "fire 15",
+ "resistance_raw": "fire 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #161: Belly of the Black Whale](/Sources.aspx?ID=51) pg. 82</row>\r\n\r\n**Creature Family** [Elemental, Water](/MonsterFamilies.aspx?ID=45)\r\n\r\n<row gap=\"medium\">\r\n**HP** 225\r\n\r\n**AC** 40\r\n\r\n**Fort** +30\r\n\r\n**Ref** +28\r\n\r\n**Will** +22\r\n\r\n**Perception** +28\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSpellcasters create elemental vessels by harvesting raw elemental energy and then binding it within a specially enchanted magic circle to grant it …\r\n</summary>",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +32",
+  "Stealth +32"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +32, [Stealth](/Skills.aspx?ID=15) +32",
+ "source": [
+  "Pathfinder #161: Belly of the Black Whale"
+ ],
+ "source_raw": [
+  "Pathfinder #161: Belly of the Black Whale pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #161: Belly of the Black Whale](/Sources.aspx?ID=51) pg. 82</row>",
+ "speed": {
+  "land": 35,
+  "max": 100,
+  "swim": 100
+ },
+ "speed_markdown": "35 feet, swim 100 feet",
+ "speed_raw": "35 feet, swim 100 feet",
+ "spell": [
+  "Polar Ray",
+  "Prismatic Spray",
+  "Volcanic Eruption",
+  "Fireball",
+  "Purple Worm Sting",
+  "Mariner's Curse",
+  "Wall of Ice",
+  "Dimension Door",
+  "Wall of Fire",
+  "Earthbind",
+  "Paralyze",
+  "Vampiric Touch",
+  "Dispel Magic",
+  "Obscuring Mist",
+  "Touch of Idiocy",
+  "Hydraulic Push",
+  "Shocking Grasp",
+  "Spider Sting"
+ ],
+ "spell_markdown": "[Dimension Door](/Spells.aspx?ID=69), [Dispel Magic](/Spells.aspx?ID=78), [Earthbind](/Spells.aspx?ID=94), [Fireball](/Spells.aspx?ID=119), [Hydraulic Push](/Spells.aspx?ID=154), [Mariner's Curse](/Spells.aspx?ID=184), [Obscuring Mist](/Spells.aspx?ID=210), [Paralyze](/Spells.aspx?ID=213), [Polar Ray](/Spells.aspx?ID=224), [Prismatic Spray](/Spells.aspx?ID=233), [Purple Worm Sting](/Spells.aspx?ID=242), [Shocking Grasp](/Spells.aspx?ID=283), [Spider Sting](/Spells.aspx?ID=300), [Touch of Idiocy](/Spells.aspx?ID=341), [Vampiric Touch](/Spells.aspx?ID=354), [Volcanic Eruption](/Spells.aspx?ID=360), [Wall of Fire](/Spells.aspx?ID=362), [Wall of Ice](/Spells.aspx?ID=364)",
+ "spoilers": "Agents of Edgewatch",
+ "stealth": "32",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Spellcasters create elemental vessels by harvesting raw elemental energy and then binding it within a specially enchanted magic circle to grant it …",
+ "summary_markdown": "Spellcasters create elemental vessels by harvesting raw elemental energy and then binding it within a specially enchanted magic circle to grant it …",
+ "text": " Elemental Vessel, Water Spellcasters create elemental vessels by harvesting raw elemental energy and then binding it within a specially enchanted magic circle to grant it life. Recall Knowledge - Elemental (Arcana, Nature): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Elemental Vessel, Water Source Pathfinder #161: Belly of the Black Whale pg. 82 Perception +28 Languages Aklo, Aquan, Common Skills Athletics +32, Stealth +32 Str +8 Dex +8 Con +8 Int +0 Wis +0 Cha +0 Spell Circle (mental) By performing an hour-long ritual, an elemental vessel can form a spell circle with an arcane or primal spellcaster. After the spell circle is formed, other spellcasters can join the spell circle by performing the same hour-long ritual while assisted by at least one spellcaster already in the spell circle. Each member of the spell circle must contribute at least one spell to the elemental vessel. The spellcaster permanently loses access to a spell slot equal to the spell's level and the elemental vessel adds the contributed spell to its list of arcane innate spells (regardless of the spell's original type). An elemental vessel can be imbued with no more than three spells per spell level. If the elemental vessel is destroyed, all members of the spell circle regain the spell slots they contributed to the creature. The arcane innate spells shown below represent a typical spell list for an elemental vessel, but each elemental vessel is likely to have different spells depending on what its spell circle has contributed. --- AC 40 Fort +30 Ref +28 Will +22 HP 225 Immunities bleed, paralyzed, poison, sleep Resistances fire 15 Dispel Vulnerability Whenever a creature successfully counteracts one of its spells, the vessel permanently loses access to that spell and takes damage equal to 4 × the spell's level. The spell circle member who contributed that spell regains access to their contributed spell slot. Inhabit Vessel (mental) Any member of the elemental vessel's spell circle can spend 3 actions to mentally inhabit the vessel for 1 round. While they inhabit the vessel, the inhabiter controls the vessel's actions, and the vessel uses the inhabiter's Intelligence, Wisdom, and Charisma modifiers for all checks. Only one creature can inhabit an elemental vessel at a time. --- Speed 35 feet, swim 100 feet Melee Single Action wave +30 (reach 10 feet), Damage 3d12+12 bludgeoning plus Push 10 feet Arcane Innate Spells DC 38, attack +30 - 1st Hydraulic Push, Shocking Grasp, Spider Sting - 2nd Dispel Magic, Obscuring Mist, Touch of Idiocy - 3rd Earthbind, Paralyze, Vampiric Touch - 4th Dimension Door, Wall of Fire - 5th Mariner's Curse, Wall of Ice - 6th Fireball, Purple Worm Sting - 7th Prismatic Spray, Volcanic Eruption - 8th Polar Ray Engulf Two Actions DC 35, no damage, Escape DC 35, Rupture 28 Internal Spell Strike Single Action The elemental vessel targets an engulfed creature with one of its spells. The spell must have a range of touch. Versatile Creations Some spellcasters favor elemental vessels because of their versatility. Their power and intelligence make them excellent guardians when not inhabited. But they can also be imbued with useful spells and inhabited from any distance, allowing spellcasters to influence events far from their location. ",
+ "trait": [
+  "Aquatic",
+  "Elemental",
+  "Uncommon",
+  "Water",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Aquatic](/Traits.aspx?ID=168), [Elemental](/Traits.aspx?ID=57), [Uncommon](/Traits.aspx?ID=159), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Aquatic",
+  "Elemental",
+  "Uncommon",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1009",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 22,
+ "wisdom": 0
+}

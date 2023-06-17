@@ -1,0 +1,107 @@
+{
+ "ac": 29,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Shell Block",
+  "Breath Weapon",
+  "Capsize",
+  "Draconic Frenzy"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 140,
+ "hp_raw": "140",
+ "id": "creature-157",
+ "image": [
+  "/Images/Monsters/DragonTurtle.png"
+ ],
+ "immunity": [
+  "fire",
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "fire, paralyzed, sleep",
+ "intelligence": 1,
+ "language": [
+  "Aquan",
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Dragon Turtle](/Monsters.aspx?ID=157)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen sailors warn others of the terrible threats of the open sea, they seldom forget to mention dragon turtles—immense aquatic dragons with rocky shells similar to those of tortoises and flippers powerful enough to overturn hardy vessels. These fearsome creatures enjoy being considered as dangerous as storms or natural disasters by seafaring folk. Dragon turtles delight in amassing treasure, although most prefer to receive tribute from passing sailors and often store their hoards in the shipwrecks of vessels once crewed by those unwilling to surrender their valuables. Dragon turtles are solitary creatures and hunt in regions encompassing a hundred square miles or more. Although they normally eat large fish, they are omnivorous and also eat seaweed or even foolhardy dragon hunters. Experienced sailors keep a keen eye out for dragon turtles, preparing to flee should one approach or offer it treasure in exchange for safe passage.\n\n Most dragon turtles are at least 20 feet wide and 50 feet long, although some can grow substantially larger. These massive, ancient dragon turtles are somnolent, and resemble rocky islands from a distance; their prodigious hoards can be a source of truly ancient sea lore. Legends persist of truly immense dragon turtles who spend centuries drifting on the surface of the ocean, far from established shipping lanes or charted waters, with shells that serve as islands capable of supporting entire ecosystems and even, some claim, small settlements whose inhabitants know nothing of land that doesn’t drift across the sea.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/DragonTurtle.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Dragon Turtle](/Monsters.aspx?ID=157)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 128</row>\n\n**Perception** +18; darkvision\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +21, [Diplomacy](/Skills.aspx?ID=6) +16, [Intimidation](/Skills.aspx?ID=7) +18, [Stealth](/Skills.aspx?ID=15) +13, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +0\r\n\r\n**Con** +4\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 140\n\n**Immunities**\r\nfire, paralyzed, sleep\n\n**Shell Block** <actions string=\"Reaction\" /> **Trigger** A creature adjacent to the dragon turtle targets it with a melee attack. **Effect** The dragon turtle rolls its shell toward the triggering creature, gaining a +2 circumstance bonus to its AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+9 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +21 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+9 slashing\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Air](/Traits.aspx?ID=5), [Fire](/Traits.aspx?ID=72), [Primal](/Traits.aspx?ID=134)) The dragon turtle breathes a massive blast of steam that deals 10d6 fire damage to creatures within a 50-foot cone (DC 27 [basic](/Rules.aspx?ID=329) Reflex save). This steam blast affects creatures within the water, as well as outside. The dragon turtle can't use its Breath Weapon again for 1d4 rounds or until it takes a critical hit (whichever comes first).\r\n\r\n**Capsize** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15), [Move](/Traits.aspx?ID=114)) The dragon turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The dragon turtle must succeed at an [Athletics](/Skills.aspx?ID=3) check with a DC of 30 or the pilot's [Sailing Lore](/Skills.aspx?ID=8) DC, whichever is higher. \r\n\r\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The dragon turtle makes two Claw Strikes and one Jaws Strike in any order.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Dragon Turtle Locations</title>\r\n\r\nAlthough most dragon turtles hunt in the open ocean, some live along coastlines or even within large inland lakes.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Dragon Turtle Treasue</title>\r\n\r\nDragon turtles keep their treasure in shipwrecks at the bottom of the ocean. Their hoards usually contain coins, jewelry, and magic items that can survive lengthy submersion.\r\n</aside>",
+ "name": "Dragon Turtle",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 128</row>\n\n<row gap=\"medium\">\r\n**HP** 140\r\n\r\n**AC** 29\r\n\r\n**Fort** +19\r\n\r\n**Ref** +15\r\n\r\n**Will** +16\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen sailors warn others of the terrible threats of the open sea, they seldom forget to mention dragon turtles—immense aquatic dragons with rocky …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +21",
+  "Diplomacy +16",
+  "Intimidation +18",
+  "Stealth +13",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +21, [Diplomacy](/Skills.aspx?ID=6) +16, [Intimidation](/Skills.aspx?ID=7) +18, [Stealth](/Skills.aspx?ID=15) +13, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 128"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 128</row>",
+ "speed": {
+  "land": 20,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "20 feet, swim 30 feet",
+ "speed_raw": "20 feet, swim 30 feet",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "When sailors warn others of the terrible threats of the open sea, they seldom forget to mention dragon turtles—immense aquatic dragons with rocky …",
+ "summary_markdown": "When sailors warn others of the terrible threats of the open sea, they seldom forget to mention dragon turtles—immense aquatic dragons with rocky …",
+ "text": " Dragon Turtle When sailors warn others of the terrible threats of the open sea, they seldom forget to mention dragon turtles—immense aquatic dragons with rocky shells similar to those of tortoises and flippers powerful enough to overturn hardy vessels. These fearsome creatures enjoy being considered as dangerous as storms or natural disasters by seafaring folk. Dragon turtles delight in amassing treasure, although most prefer to receive tribute from passing sailors and often store their hoards in the shipwrecks of vessels once crewed by those unwilling to surrender their valuables. Dragon turtles are solitary creatures and hunt in regions encompassing a hundred square miles or more. Although they normally eat large fish, they are omnivorous and also eat seaweed or even foolhardy dragon hunters. Experienced sailors keep a keen eye out for dragon turtles, preparing to flee should one approach or offer it treasure in exchange for safe passage. Most dragon turtles are at least 20 feet wide and 50 feet long, although some can grow substantially larger. These massive, ancient dragon turtles are somnolent, and resemble rocky islands from a distance; their prodigious hoards can be a source of truly ancient sea lore. Legends persist of truly immense dragon turtles who spend centuries drifting on the surface of the ocean, far from established shipping lanes or charted waters, with shells that serve as islands capable of supporting entire ecosystems and even, some claim, small settlements whose inhabitants know nothing of land that doesn’t drift across the sea. Recall Knowledge - Dragon (Arcana): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Dragon Turtle Source Bestiary pg. 128 Perception +18; darkvision Languages Aquan, Common, Draconic Skills Athletics +21, Diplomacy +16, Intimidation +18, Stealth +13, Survival +17 Str +6 Dex +0 Con +4 Int +1 Wis +3 Cha +1 --- AC 29 Fort +19 Ref +15 Will +16 HP 140 Immunities fire, paralyzed, sleep Shell Block Reaction Trigger A creature adjacent to the dragon turtle targets it with a melee attack. Effect The dragon turtle rolls its shell toward the triggering creature, gaining a +2 circumstance bonus to its AC against the triggering attack. --- Speed 20 feet, swim 30 feet Melee Single Action jaws +21 (reach 10 feet), Damage 2d12+9 piercing Melee Single Action claw +21 (Agile), Damage 2d8+9 slashing Breath Weapon Two Actions (Air, Fire, Primal) The dragon turtle breathes a massive blast of steam that deals 10d6 fire damage to creatures within a 50-foot cone (DC 27 basic Reflex save). This steam blast affects creatures within the water, as well as outside. The dragon turtle can't use its Breath Weapon again for 1d4 rounds or until it takes a critical hit (whichever comes first). Capsize Single Action (Attack, Move) The dragon turtle tries to capsize an adjacent aquatic vessel of its size or smaller. The dragon turtle must succeed at an Athletics check with a DC of 30 or the pilot's Sailing Lore DC, whichever is higher. Draconic Frenzy Two Actions The dragon turtle makes two Claw Strikes and one Jaws Strike in any order. Dragon Turtle Locations Although most dragon turtles hunt in the open ocean, some live along coastlines or even within large inland lakes. Dragon Turtle Treasue Dragon turtles keep their treasure in shipwrecks at the bottom of the ocean. Their hoards usually contain coins, jewelry, and magic items that can survive lengthy submersion. ",
+ "trait": [
+  "Amphibious",
+  "Dragon",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Dragon](/Traits.aspx?ID=50)",
+ "trait_raw": [
+  "Amphibious",
+  "Dragon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=157",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 3
+}

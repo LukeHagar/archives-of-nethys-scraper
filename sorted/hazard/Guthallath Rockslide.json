@@ -1,0 +1,56 @@
+{
+ "ac": 42,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 48  Crafting  (legendary) to buttress the collapsing rocks in three different locations. Using large and durable materials (or applicable spells) to support the rocks reduces the check to DC 45 Crafting (master).",
+ "exclude_from_search": false,
+ "fortitude_save": 35,
+ "hardness": 20,
+ "hardness_raw": "20 (10 in theguthallath's erosion aura)",
+ "hazard_type": "Environmental",
+ "hp": 150,
+ "hp_raw": "150",
+ "id": "hazard-240",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 19,
+ "markdown": "<title level=\"1\" right=\"Hazard 19\" pfs=\"\">[Guthallath Rockslide](/Hazards.aspx?ID=240)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 27</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThe rock walls nearby begin to crumble and collapse.\r\n\r\n---\r\n\r\n**Stealth**\r\n+30 (master) to notice the odd aging of the stones, seemingly far older and more weathered than the surrounding rocks\r\n\r\n**Disable**\r\nDC 48 [Crafting](/Skills.aspx?ID=4) (legendary) to buttress the collapsing rocks in three different locations. Using large and durable materials (or applicable spells) to support the rocks reduces the check to DC 45 Crafting (master).\n\n<column gap=\"tiny\">\r\n\r\n**AC** 42, **Fort** +35, **Ref** +29\r\n\r\n**Hardness**\r\n20\r\n\r\n**HP**\r\n150\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Rumbling Rocks** <actions string=\"Reaction\" /> **Trigger** The [guthallath](/Monsters.aspx?ID=253) rolls initiative; **Effect** The rocks of the area begin to crumble. The hazard rolls for initiative.\n\n---\r\n**Routine**\r\n(2 actions) On the hazard's first action, any areas of crumbling rocks from a previous round collapse, making a falling rocks Strike against each creature in the area. On its second action, the hazard crumbles rocks in a 20- foot radius around the previous collapse. A character can [Seek](/Actions.aspx?ID=84) (DC 40) to determine where the rocks will fall on the following round, but on a critical failure, they incorrectly identify where the rocks will fall.\n\n **Ranged** <actions string=\"Single Action\" /> falling rocks +36, **Damage** 4d10+20 bludgeoning **Early Collapse** <actions string=\"Free Action\" /> **Trigger** The hazard takes 30 or more damage; **Effect** Move the hazard's initiative to immediately follow the creature that damaged the hazard.\r\n\r\n---\r\n**Reset**\r\nThe guthallath can reset the hazard with a few days of work stacking the fallen rocks.",
+ "name": "Guthallath Rockslide",
+ "rarity": "common",
+ "reflex_save": 29,
+ "release_date": "2020-06-24",
+ "reset": "The guthallath can reset the hazard with a few days of work stacking the fallen rocks.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 27</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe rock walls nearby begin to crumble and collapse.\r\n</summary>",
+ "source": [
+  "Pathfinder #156: The Apocalypse Prophet"
+ ],
+ "source_raw": [
+  "Pathfinder #156: The Apocalypse Prophet pg. 27"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 27</row>",
+ "speed": {},
+ "stealth": "+30 (master) to notice the odd aging of the stones, seemingly far older and more weathered than the surrounding rocks",
+ "summary": "The rock walls nearby begin to crumble and collapse.",
+ "summary_markdown": "The rock walls nearby begin to crumble and collapse.",
+ "text": " Guthallath Rockslide Source Pathfinder #156: The Apocalypse Prophet pg. 27 Complexity Complex The rock walls nearby begin to crumble and collapse. --- Stealth +30 (master) to notice the odd aging of the stones, seemingly far older and more weathered than the surrounding rocks Disable DC 48 Crafting (legendary) to buttress the collapsing rocks in three different locations. Using large and durable materials (or applicable spells) to support the rocks reduces the check to DC 45 Crafting (master). AC 42, Fort +35, Ref +29 Hardness 20 HP 150 Immunities critical hits, object immunities, precision damage Rumbling Rocks Reaction Trigger The guthallath rolls initiative; Effect The rocks of the area begin to crumble. The hazard rolls for initiative. --- Routine (2 actions) On the hazard's first action, any areas of crumbling rocks from a previous round collapse, making a falling rocks Strike against each creature in the area. On its second action, the hazard crumbles rocks in a 20- foot radius around the previous collapse. A character can Seek (DC 40) to determine where the rocks will fall on the following round, but on a critical failure, they incorrectly identify where the rocks will fall. Ranged Single Action falling rocks +36, Damage 4d10+20 bludgeoning Early Collapse Free Action Trigger The hazard takes 30 or more damage; Effect Move the hazard's initiative to immediately follow the creature that damaged the hazard. --- Reset The guthallath can reset the hazard with a few days of work stacking the fallen rocks.",
+ "trait": [
+  "Complex",
+  "Environmental"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Environmental](/Traits.aspx?ID=62)",
+ "trait_raw": [
+  "Complex",
+  "Environmental"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=240",
+ "weakness": {}
+}

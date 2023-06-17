@@ -1,0 +1,90 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 3,
+ "creature_ability": [
+  "Pull Filament",
+  "Sticky Filament"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-580",
+ "image": [
+  "/Images/Monsters/CaveFisher.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Cave Fisher](/Monsters.aspx?ID=580)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCave fishers lurk in dark corners near the ceilings of caves and underground structures, lying in wait for prey to approach. When it does, the cave fisher excretes thin, tough, and very sticky filaments at its prey with lightning speed to capture it.\n\nA cave fisher eats just about any live prey smaller than itself, though anything smaller than a rat isn't much of a meal for it. When a cave fisher captures such a creature, it often leaves the hapless animal entangled, using it as bait to attract larger creatures. Because the adhesive on its filament doesn't last long, the fisher frequently needs to eat one filament and excrete a new one. The filaments are translucent and can be hard to see when they're still and in darkness.\n\nCave fishers hatch with the ability to excrete filaments, but they molt many times before reaching their adult size of about 7 feet long and 400 pounds. They often leave shed shells in conspicuous locations as decoys.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CaveFisher.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Cave Fisher](/Monsters.aspx?ID=580)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 49 <sup>2.0</sup></row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 30\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, climb 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +10,\r\n**Damage** 1d10+6 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nfilament +11 ([range 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** sticky filament\n\n**Pull Filament** <actions string=\"Single Action\" />  The cave fisher pulls a creature [grabbed](/Conditions.aspx?ID=20) by its filament toward itself, even suspending the target vertically if necessary. The cave fisher attempts an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. On a success, the cave fisher pulls the creature 15 feet closer to it (30 feet closer on a critical success).\r\n\r\n**Sticky Filament**   Any creature hit by the cave fisher's sticky filament is [grabbed](/Conditions.aspx?ID=20). The cave fisher can move while it has a creature grabbed with its filament, but it automatically releases the creature if the cave fisher moves beyond the filament's 60-foot length. The cave fisher can use only one filament at a time, and it can sever the filament and release any creature grabbed by it as a free action. The filament can be severed by a Strike that deals at least 10 slashing damage to it. This doesn't deal any damage to the cave fisher itself. The filament has AC 17, and its [Escape](/Actions.aspx?ID=79) DC is 19.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Fisher Filaments</title>\r\n\r\nA cave fisher can rapidly produce a cord from a gland at the back of its throat. This filament resembles a semi-transparent [silk rope](/Equipment.aspx?ID=44) and is coated with an adhesive that traps prey that comes in contact with it. When reeling in its prey, the cave fisher consumes the filament as well, slurping it up like a noodle.\n\n A severed filament can be harvested for use as rope. The adhesive dries after about 10 minutes. A harvested filament gland can't produce new filaments, but it can be used as 25 gp worth of raw materials for creating potent adhesives, such as sovereign glue.\r\n</aside>",
+ "name": "Cave Fisher",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 49 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +9\r\n\r\n**Will** +7\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCave fishers lurk in dark corners near the ceilings of caves and underground structures, lying in wait for prey to approach. When it does, the cave …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +10",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 49"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 49 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 15,
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet, climb 15 feet",
+ "speed_raw": "15 feet, climb 15 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "Cave fishers lurk in dark corners near the ceilings of caves and underground structures, lying in wait for prey to approach. When it does, the cave …",
+ "summary_markdown": "Cave fishers lurk in dark corners near the ceilings of caves and underground structures, lying in wait for prey to approach. When it does, the cave …",
+ "text": " Cave Fisher Cave fishers lurk in dark corners near the ceilings of caves and underground structures, lying in wait for prey to approach. When it does, the cave fisher excretes thin, tough, and very sticky filaments at its prey with lightning speed to capture it. A cave fisher eats just about any live prey smaller than itself, though anything smaller than a rat isn't much of a meal for it. When a cave fisher captures such a creature, it often leaves the hapless animal entangled, using it as bait to attract larger creatures. Because the adhesive on its filament doesn't last long, the fisher frequently needs to eat one filament and excrete a new one. The filaments are translucent and can be hard to see when they're still and in darkness. Cave fishers hatch with the ability to excrete filaments, but they molt many times before reaching their adult size of about 7 feet long and 400 pounds. They often leave shed shells in conspicuous locations as decoys. Recall Knowledge - Animal (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Cave Fisher Source Bestiary 2 pg. 49 2.0 Perception +7; darkvision Languages Skills Athletics +10, Stealth +9 Str +4 Dex +3 Con +3 Int -5 Wis +1 Cha -3 --- AC 18 Fort +9 Ref +9 Will +7 HP 30 --- Speed 15 feet, climb 15 feet Melee Single Action claw +10, Damage 1d10+6 slashing Ranged Single Action filament +11 (range 60 feet), Damage sticky filament Pull Filament Single Action The cave fisher pulls a creature grabbed by its filament toward itself, even suspending the target vertically if necessary. The cave fisher attempts an Athletics check against the creature's Fortitude DC. On a success, the cave fisher pulls the creature 15 feet closer to it (30 feet closer on a critical success). Sticky Filament Any creature hit by the cave fisher's sticky filament is grabbed. The cave fisher can move while it has a creature grabbed with its filament, but it automatically releases the creature if the cave fisher moves beyond the filament's 60-foot length. The cave fisher can use only one filament at a time, and it can sever the filament and release any creature grabbed by it as a free action. The filament can be severed by a Strike that deals at least 10 slashing damage to it. This doesn't deal any damage to the cave fisher itself. The filament has AC 17, and its Escape DC is 19. Fisher Filaments A cave fisher can rapidly produce a cord from a gland at the back of its throat. This filament resembles a semi-transparent silk rope and is coated with an adhesive that traps prey that comes in contact with it. When reeling in its prey, the cave fisher consumes the filament as well, slurping it up like a noodle. A severed filament can be harvested for use as rope. The adhesive dries after about 10 minutes. A harvested filament gland can't produce new filaments, but it can be used as 25 gp worth of raw materials for creating potent adhesives, such as sovereign glue. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=580",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 1
+}

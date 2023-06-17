@@ -1,0 +1,96 @@
+{
+ "ac": 43,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 9,
+ "creature_ability": [
+  "Promise Guard Stance",
+  "Shield Warden",
+  "Attack of Opportunity",
+  "Shield Block",
+  "Shield Shove",
+  "Sudden Charge"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 32,
+ "hp": 330,
+ "hp_raw": "330",
+ "id": "creature-1590",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"\">[Promise Guard](/NPCs.aspx?ID=1590)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Promise Guard](/NPCs.aspx?ID=1590)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 29</row>\n\n**Perception** +29\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +33, [Diplomacy](/Skills.aspx?ID=6) +30, [Hermea Lore](/Skills.aspx?ID=8) +33, [Intimidation](/Skills.aspx?ID=7) +33, [Society](/Skills.aspx?ID=14) +30, [Survival](/Skills.aspx?ID=16) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +2\r\n\r\n**Con** +9\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n_+2 [greater striking](/Equipment.aspx?ID=280) [longsword](/Weapons.aspx?ID=31)_, _+2 [greater resilient](/Equipment.aspx?ID=279) [full plate](/Armor.aspx?ID=13)_, [_greater sturdy shield_](/Equipment.aspx?ID=327) (Hardness 15, HP 120, BT 60), _+2 [striking](/Equipment.aspx?ID=280) [composite shortbow](/Weapons.aspx?ID=75)_ (20 arrows), _[potion of flying](/Equipment.aspx?ID=189)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 43 (45 with shield raised)\r\n\r\n**Fort** +32 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +29 \n\n</row>\r\n\r\n**HP** 330\n\n**Promise Guard Stance** A Promise guard always has their shield raised as if they had used the [Raise a Shield](/Actions.aspx?ID=98) action, as long as they meet that action's requirements.<br />**Shield Warden** A Promise guard can use their [Shield Block](/MonsterAbilities.aspx?ID=32) reaction to prevent damage to an adjacent ally.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> A Promise guard can use Attack of Opportunity when a creature within their reach uses a [concentrate](/Traits.aspx?ID=32) action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit.<br />**[Shield Block](/MonsterAbilities.aspx?ID=32)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_longsword_ +38 ([Magical](/Traits.aspx?ID=103), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 7d8+8 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_composite shortbow_ +36 ([deadly 3d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [Propulsive](/Traits.aspx?ID=191), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 4d8+8 piercing\n\n**Shield Shove** <actions string=\"Two Actions\" />  The Promise guard makes a Strike with their longsword, then attempts to push the target back. If the Strike hits, the target is [flat-footed](/Conditions.aspx?ID=16) until the start of the guard's next turn, and the guard can automatically [Shove](/Actions.aspx?ID=38) the target, with the same benefits as the Shove action (including the critical success effect if the Strike was a critical hit). If the guard moves to follow the target, this movement doesn't trigger reactions. In addition, if the target has to stop moving because it would hit an object, it takes damage equal to the guard's Strength modifier.\r\n\r\n**Sudden Charge** <actions string=\"Two Actions\" />  The Promise guard Strides up to double their Speed. If the guard ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy.\r\n\r\n</column>",
+ "name": "Promise Guard",
+ "npc": true,
+ "perception": 29,
+ "rarity": "rare",
+ "reflex_save": 26,
+ "release_date": "2019-12-12",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 29</row>\n\n<row gap=\"medium\">\r\n**HP** 330\r\n\r\n**AC** 43\r\n\r\n**Fort** +32\r\n\r\n**Ref** +26\r\n\r\n**Will** +29\r\n\r\n**Perception** +29\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +33",
+  "Diplomacy +30",
+  "Hermea Lore +33",
+  "Intimidation +33",
+  "Society +30",
+  "Survival +28"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +33, [Diplomacy](/Skills.aspx?ID=6) +30, [Hermea Lore](/Skills.aspx?ID=8) +33, [Intimidation](/Skills.aspx?ID=7) +33, [Society](/Skills.aspx?ID=14) +30, [Survival](/Skills.aspx?ID=16) +28",
+ "source": [
+  "Pathfinder #150: Broken Promises"
+ ],
+ "source_raw": [
+  "Pathfinder #150: Broken Promises pg. 29"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 29</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Promise Guard Recall Knowledge - Humanoid (Society): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Promise Guard Source Pathfinder #150: Broken Promises pg. 29 Perception +29 Languages Common, Draconic Skills Athletics +33, Diplomacy +30, Hermea Lore +33, Intimidation +33, Society +30, Survival +28 Str +8 Dex +2 Con +9 Int +2 Wis +3 Cha +2 Items +2 greater striking longsword , +2 greater resilient full plate , greater sturdy shield (Hardness 15, HP 120, BT 60), +2 striking composite shortbow (20 arrows), potion of flying --- AC 43 (45 with shield raised) Fort +32 Ref +26 Will +29 HP 330 Promise Guard Stance A Promise guard always has their shield raised as if they had used the Raise a Shield action, as long as they meet that action's requirements. Shield Warden A Promise guard can use their Shield Block reaction to prevent damage to an adjacent ally. Attack of Opportunity Reaction A Promise guard can use Attack of Opportunity when a creature within their reach uses a concentrate action, in addition to its normal trigger. They can disrupt triggering concentrate actions, and they disrupt actions on any hit, not just a critical hit. Shield Block Reaction --- Speed 30 feet Melee Single Action longsword +38 (Magical, versatile P), Damage 7d8+8 slashing Ranged Single Action composite shortbow +36 (deadly 3d10, Magical, Propulsive, range increment 60 feet, reload 0), Damage 4d8+8 piercing Shield Shove Two Actions The Promise guard makes a Strike with their longsword, then attempts to push the target back. If the Strike hits, the target is flat-footed until the start of the guard's next turn, and the guard can automatically Shove the target, with the same benefits as the Shove action (including the critical success effect if the Strike was a critical hit). If the guard moves to follow the target, this movement doesn't trigger reactions. In addition, if the target has to stop moving because it would hit an object, it takes damage equal to the guard's Strength modifier. Sudden Charge Two Actions The Promise guard Strides up to double their Speed. If the guard ends their movement within melee reach of at least one enemy, they can make a melee Strike against that enemy. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Rare",
+  "LN",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=1590",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 29,
+ "wisdom": 3
+}

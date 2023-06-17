@@ -1,0 +1,137 @@
+{
+ "ac": 36,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 0,
+ "creature_ability": [
+  "Site Bound",
+  "Light Vulnerability",
+  "Rejuvenation",
+  "Shadow Spawn",
+  "Slink in Shadows",
+  "Steal Shadow"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 190,
+ "hp_raw": "190 (rejuvenation)",
+ "id": "creature-1462",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Necril",
+  "Tien"
+ ],
+ "language_markdown": "[Necril](/Languages.aspx?ID=20), [Tien](/Languages.aspx?ID=43)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Watchtower Shadow](/Monsters.aspx?ID=1462)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 44\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 42\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 39\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Watchtower Shadow](/Monsters.aspx?ID=1462)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 36</row>\n\n**Perception** +25; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Necril](/Languages.aspx?ID=20), [Tien](/Languages.aspx?ID=43)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +28, [Stealth](/Skills.aspx?ID=15) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +7\r\n\r\n**Con** +0\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Site Bound** The shadow is tied to its watchtower.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 190\r\n(rejuvenation)\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nall 15 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance against non-[magical](/Traits.aspx?ID=103))\r\n\r\n**Weaknesses**\r\nlight vulnerability\r\n\r\n**Light Vulnerability** An object shedding magical light (such as from the [_light_](/Spells.aspx?ID=171) spell) is treated as [magical](/Traits.aspx?ID=103) when used to attack the shadow.<br />**Rejuvenation** ([necromancy](/Traits.aspx?ID=117), [occult](/Traits.aspx?ID=120)) When the watchtower shadow is destroyed, it re-forms, fully healed, at the watchtower after 12 hours. Destroying the shadow and lighting its watchtower's brazier permanently destroys it.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshadow hand +30 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 4d10+10 negative\r\n\r\n**Divine Innate Spells** DC 36\r\n- **5th**\r\n[Darkness](/Spells.aspx?ID=59) (at will)\r\n\r\n**Shadow Spawn**   When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably [clumsy 2](/Conditions.aspx?ID=3). If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished.\r\n\r\n**Slink in Shadows**   The shadow can [Hide](/Actions.aspx?ID=62) or end its [Sneak](/Actions.aspx?ID=63) in a creature's or object's shadow.\r\n\r\n**Steal Shadow** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Requirement** The shadow hit a living creature with a shadow hand Strike on its previous action. **Effect** The shadow pulls at the target's shadow, making the creature [enfeebled 1](/Conditions.aspx?ID=13). This is cumulative with other enfeebled conditions from shadows, to a maximum of enfeebled 4. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body (see shadow spawn). Enfeebled from Steal Shadow decreases by 1 every hour.\r\n\r\n</column>",
+ "name": "Watchtower Shadow",
+ "npc": false,
+ "perception": 25,
+ "rarity": "unique",
+ "reflex_save": 29,
+ "release_date": "2021-07-07",
+ "resistance": {
+  "acid": 15,
+  "all": 15,
+  "area": 15,
+  "bleed": 15,
+  "bludgeoning": 15,
+  "chaotic": 15,
+  "cold": 15,
+  "cold_iron": 15,
+  "electricity": 15,
+  "evil": 15,
+  "fire": 15,
+  "good": 15,
+  "lawful": 15,
+  "mental": 15,
+  "negative": 15,
+  "orichalcum": 15,
+  "physical": 15,
+  "piercing": 15,
+  "poison": 15,
+  "precision": 15,
+  "silver": 15,
+  "slashing": 15,
+  "sonic": 15,
+  "splash": 15
+ },
+ "resistance_markdown": "all 15 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance against non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all 15 (except  force ,   ghost touch  , or  positive ; double resistance against non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 36</row>\n\n<row gap=\"medium\">\r\n**HP** 190 (rejuvenation)\r\n\r\n**AC** 36\r\n\r\n**Fort** +21\r\n\r\n**Ref** +29\r\n\r\n**Will** +26\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +28",
+  "Stealth +33"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +28, [Stealth](/Skills.aspx?ID=15) +33",
+ "source": [
+  "Pathfinder #166: Despair on Danger Island"
+ ],
+ "source_raw": [
+  "Pathfinder #166: Despair on Danger Island pg. 36"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 36</row>",
+ "speed": {
+  "fly": 30,
+  "max": 30
+ },
+ "speed_markdown": "fly 30 feet",
+ "speed_raw": "fly 30 feet",
+ "spell": [
+  "Darkness"
+ ],
+ "spell_markdown": "[Darkness](/Spells.aspx?ID=59)",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "33",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Watchtower Shadow Recall Knowledge - Undead (Religion): DC 44 Unspecific Lore : DC 42 Specific Lore : DC 39 Watchtower Shadow Source Pathfinder #166: Despair on Danger Island pg. 36 Perception +25; darkvision Languages Necril, Tien Skills Acrobatics +28, Stealth +33 Str -5 Dex +7 Con +0 Int +0 Wis +4 Cha +6 Site Bound The shadow is tied to its watchtower. --- AC 36 Fort +21 Ref +29 Will +26 HP 190 (rejuvenation) Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all 15 (except force, ghost touch , or positive; double resistance against non-magical) Weaknesses light vulnerability Light Vulnerability An object shedding magical light (such as from the light spell) is treated as magical when used to attack the shadow. Rejuvenation (necromancy, occult) When the watchtower shadow is destroyed, it re-forms, fully healed, at the watchtower after 12 hours. Destroying the shadow and lighting its watchtower's brazier permanently destroys it. --- Speed fly 30 feet Melee Single Action shadow hand +30 (Finesse, Magical), Damage 4d10+10 negative Divine Innate Spells DC 36 - 5th Darkness (at will) Shadow Spawn When a creature's shadow is pulled free by Steal Shadow, it becomes a shadow spawn under the command of the shadow that created it. This shadow spawn doesn't have Steal Shadow and is perpetually and incurably clumsy 2. If the creature the shadow spawn was pulled from dies, the shadow spawn becomes a full-fledged, autonomous shadow. If the creature recovers from its enfeeblement, its shadow returns to it and the shadow spawn is extinguished. Slink in Shadows The shadow can Hide or end its Sneak in a creature's or object's shadow. Steal Shadow Single Action (Divine, Necromancy) Requirement The shadow hit a living creature with a shadow hand Strike on its previous action. Effect The shadow pulls at the target's shadow, making the creature enfeebled 1. This is cumulative with other enfeebled conditions from shadows, to a maximum of enfeebled 4. If this increases a creature's enfeebled value to 3 or more, the target's shadow is separated from its body (see shadow spawn). Enfeebled from Steal Shadow decreases by 1 every hour. ",
+ "trait": [
+  "Incorporeal",
+  "Undead",
+  "Unique",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Incorporeal",
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1462",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "weakness_markdown": "light vulnerability",
+ "weakness_raw": "light vulnerability",
+ "will_save": 26,
+ "wisdom": 4
+}

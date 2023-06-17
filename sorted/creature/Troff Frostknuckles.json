@@ -1,0 +1,100 @@
+{
+ "ac": 36,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Icicle Stance",
+  "Avalanche Pummel",
+  "Chattering Blow",
+  "Flurry of Blows"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 26,
+ "hp": 250,
+ "hp_raw": "250",
+ "id": "creature-1509",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Goblin",
+  "Skald"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Skald](/Languages.aspx?ID=42)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Troff Frostknuckles](/NPCs.aspx?ID=1509)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 42\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 40\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 37\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Troff Frostknuckles](/NPCs.aspx?ID=1509)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 43</row>\n\n**Perception** +23; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Skald](/Languages.aspx?ID=42)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +27, [Stealth](/Skills.aspx?ID=15) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n_[bracers of armor II](/Equipment.aspx?ID=416)_, _+2 [striking](/Equipment.aspx?ID=280) [frost](/Equipment.aspx?ID=296) [handwraps of mighty blows](/Equipment.aspx?ID=441)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +26 \r\n\r\n**Ref** +27 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 250\n\n**Resistances**\r\n[cold](/Traits.aspx?ID=27) 10\n\n**Icicle Stance** <actions string=\"Reaction\" /> ([stance](/Traits.aspx?ID=152)) **Trigger** Troff rolls initiative or his turn starts; **Effect** Troff readies himself to strike suddenly, like a falling icicle. While in this stance, Troff can make icicle gouge Strikes. While Troff is above a creature and in icicle stance, that creature is [flat-footed](/Conditions.aspx?ID=16) to him.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_fist_ +28 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 2d6+13 bludgeoning plus 1d6 cold\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_icicle gouge_ +28 ([Agile](/Traits.aspx?ID=170), [Backstabber](/Traits.aspx?ID=172), [Finesse](/Traits.aspx?ID=179), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 2d8+13 piercing plus 1d6 cold and Trip\n\n**Avalanche Pummel** <actions string=\"Single Action\" />  Troff makes an icicle gouge Strike against a [flat-footed](/Conditions.aspx?ID=16) creature. On a hit, the creature is [dazzled](/Conditions.aspx?ID=7). On a critical hit, the creature is [blinded](/Conditions.aspx?ID=1). Either way, the effect lasts until the start of Troff's next turn. If his Strike fails (but isn't a critical failure), Troff still deals 13 piercing damage to the creature.\r\n\r\n**Chattering Blow** <actions string=\"Single Action\" /> ([Cold](/Traits.aspx?ID=27), [Press](/Traits.aspx?ID=133)) **Requirements** Troff is within reach of a creature that has taken cold damage since the end of Troff's last turn; **Effect** Troff jabs a pressure point on the creature made vulnerable by cold. The creature must attempt a DC 31 Fortitude save as its skin freezes and its limbs turn sluggish and clammy. **Critical Success** The creature is unaffected. **Success** The creature takes 2d4 [persistent cold damage](/Conditions.aspx?ID=29) and a –5-foot status penalty to its Speeds until the persistent cold damage ends. Dealing fire damage to the creature is an especially effective way to help end the persistent cold damage (allowing a new flat check to end it at DC 10). **Failure** As success, but the damage is 4d4 and the penalty is –15-foot. **Critical Failure** As success, but the damage is 6d4 and the creature is [immobilized](/Conditions.aspx?ID=24) instead of taking a Speed penalty.\r\n\r\n**Flurry of Blows** <actions string=\"Single Action\" /> ([Flourish](/Traits.aspx?ID=73)) Troff makes two Strikes with his fist. If both hit the same creature, combine their damage to overcome resistances and weaknesses.\r\n\r\n</column>",
+ "name": "Troff Frostknuckles",
+ "npc": true,
+ "perception": 23,
+ "rarity": "unique",
+ "reflex_save": 27,
+ "release_date": "2021-07-07",
+ "resistance": {
+  "cold": 10
+ },
+ "resistance_markdown": "[cold](/Traits.aspx?ID=27) 10",
+ "resistance_raw": " cold  10",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 43</row>\n\n<row gap=\"medium\">\r\n**HP** 250\r\n\r\n**AC** 36\r\n\r\n**Fort** +26\r\n\r\n**Ref** +27\r\n\r\n**Will** +25\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +27",
+  "Athletics +27",
+  "Stealth +27"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +27, [Stealth](/Skills.aspx?ID=15) +27",
+ "source": [
+  "Pathfinder #167: Ready? Fight!"
+ ],
+ "source_raw": [
+  "Pathfinder #167: Ready? Fight! pg. 43"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 43</row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "27",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Troff Frostknuckles Recall Knowledge - Humanoid (Society): DC 42 Unspecific Lore : DC 40 Specific Lore : DC 37 Troff Frostknuckles Source Pathfinder #167: Ready? Fight! pg. 43 Perception +23; darkvision Languages Common, Goblin, Skald Skills Acrobatics +27, Athletics +27, Stealth +27 Str +5 Dex +5 Con +4 Int +1 Wis +3 Cha +0 Items bracers of armor II , +2 striking frost handwraps of mighty blows --- AC 36 Fort +26 Ref +27 Will +25 HP 250 Resistances cold 10 Icicle Stance Reaction (stance) Trigger Troff rolls initiative or his turn starts; Effect Troff readies himself to strike suddenly, like a falling icicle. While in this stance, Troff can make icicle gouge Strikes. While Troff is above a creature and in icicle stance, that creature is flat-footed to him. --- Speed 30 feet, climb 20 feet Melee Single Action fist +28 (Agile, Finesse, Unarmed), Damage 2d6+13 bludgeoning plus 1d6 cold Melee Single Action icicle gouge +28 (Agile, Backstabber, Finesse, Unarmed), Damage 2d8+13 piercing plus 1d6 cold and Trip Avalanche Pummel Single Action Troff makes an icicle gouge Strike against a flat-footed creature. On a hit, the creature is dazzled. On a critical hit, the creature is blinded. Either way, the effect lasts until the start of Troff's next turn. If his Strike fails (but isn't a critical failure), Troff still deals 13 piercing damage to the creature. Chattering Blow Single Action (Cold, Press) Requirements Troff is within reach of a creature that has taken cold damage since the end of Troff's last turn; Effect Troff jabs a pressure point on the creature made vulnerable by cold. The creature must attempt a DC 31 Fortitude save as its skin freezes and its limbs turn sluggish and clammy. Critical Success The creature is unaffected. Success The creature takes 2d4 persistent cold damage and a –5-foot status penalty to its Speeds until the persistent cold damage ends. Dealing fire damage to the creature is an especially effective way to help end the persistent cold damage (allowing a new flat check to end it at DC 10). Failure As success, but the damage is 4d4 and the penalty is –15-foot. Critical Failure As success, but the damage is 6d4 and the creature is immobilized instead of taking a Speed penalty. Flurry of Blows Single Action (Flourish) Troff makes two Strikes with his fist. If both hit the same creature, combine their damage to overcome resistances and weaknesses. ",
+ "trait": [
+  "Goblin",
+  "Humanoid",
+  "Unique",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Goblin](/Traits.aspx?ID=81), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Goblin",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=1509",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 3
+}

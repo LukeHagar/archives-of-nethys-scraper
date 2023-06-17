@@ -1,0 +1,109 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Molten Body",
+  "Reactive Thrash",
+  "Critical Ignition"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-2185",
+ "immunity": [
+  "bleed",
+  "fire",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, [fire](/Traits.aspx?ID=72), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -2,
+ "language": [
+  "Ignan",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Ignan](/Languages.aspx?ID=18); (can't speak any language)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Thoqqua](/Monsters.aspx?ID=2185)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, even solid rock. Thoqquas are native to the vast ash deserts and lava fields of the [Plane of Fire](/Planes.aspx?ID=6). There, they consume ore and minerals, which their furnace-like bodies then smelt into armor plates that grant the creatures their armored forms. These creatures' foremost body segment tapers into a straight, hornlike beak that glows with a blistering heat. Steam and smoke constantly hiss from their joints, and from a distance, thoqquas can be mistaken for strange metallic constructs. Adult thoqquas are 5 feet long and weigh 200 pounds.\n\n Thoqquas are dangerous to approach—they attack without thinking when startled or frustrated. If they don't immediately chase away intruders within their territory, then they might gradually come to view that area as property and even guard it. [Mephit](/MonsterFamilies.aspx?ID=44) seem to understand this curious thoqqua thought process, occasionally brokering deals with the magma worms. The mephits claim that the mountain-sized ancestors of modern thoqquas were servants of the elemental lords and dug the first volcanoes in the young worlds of the [Material Plane](/Planes.aspx?ID=1). These “progenitor worms” then retired to the worlds' cores, where their heat warms the planets even today. Thoqquas on the Material Plane do congregate around volcanoes—though whether this tendency is to protect a mineral-rich food site or sacred place, or simply out of comfort, depends on the thoqqua in question.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Thoqqua](/Monsters.aspx?ID=2185)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 123</row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Ignan](/Languages.aspx?ID=18); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Stealth](/Skills.aspx?ID=15) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +1\r\n\r\n**Con** +2\r\n\r\n**Int** -2\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 45\n\n**Immunities**\r\nbleed, [fire](/Traits.aspx?ID=72), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\n[cold](/Traits.aspx?ID=27) 5\r\n\r\n**Molten Body** ([evocation](/Traits.aspx?ID=65), [fire](/Traits.aspx?ID=72), [primal](/Traits.aspx?ID=134)) A thoqqua's body is hot enough to melt stone. A creature who grabs a thoqqua, is [grabbed](/Conditions.aspx?ID=20) by a thoqqua, or critically fails a melee Strike with an [unarmed](/Traits.aspx?ID=199) attack or [agile](/Traits.aspx?ID=170) weapon takes 1d4 fire damage (DC 15 [basic](/Rules.aspx?ID=329) Reflex save).<br />**Reactive Thrash** <actions string=\"Reaction\" /> **Trigger** A creature within the thoqqua's reach hits the thoqqua with a melee Strike; **Effect** The thoqqua instinctively thrashes into the attack, pressing its molten hot scales forward. The attacker must attempt a DC 15 Reflex save. <br />**Critical Success** The attacker is unaffected. <br />**Success** The attacker takes 1d4 fire damage. <br />**Failure** The attacker takes 2d4 fire damage. <br />**Critical Failure** As failure, but the weapon used to Strike the thoqqua becomes [broken](/Conditions.aspx?ID=2) unless the weapon is made of metal, has more than 10 Hardness, or is resistant to or immune to fire.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, burrow 15 feet\r\n\r\n**Melee**\r\n<actions string=\"\" />\r\nbeak +9,\r\n**Damage** 1d8+3 piercing plus 1d6 fire and critical ignition\n\n**Critical Ignition**   On a critical hit with a body Strike, a thoqqua inflicts an additional 1d6 [persistent fire damage](/Conditions.aspx?ID=29).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Starving Thoqquas</title>\r\n\r\nA thoqqua feeds on a combination of raw stone, ore, and heat. When denied these nourishments, a thoqqua won't perish from starvation, but it does grow less armored as it's forced to absorb and weaken its armored body plates. A starved thoqqua's Armor Class is reduced by 2, but it gains a +1 circumstance bonus on all attack rolls.\r\n</aside>",
+ "name": "Thoqqua",
+ "npc": false,
+ "perception": 7,
+ "rarity": "uncommon",
+ "reflex_save": 7,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 123</row>\n\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 17\r\n\r\n**Fort** +8\r\n\r\n**Ref** +7\r\n\r\n**Will** +5\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, …\r\n</summary>",
+ "sense": " darkvision ,  tremorsense  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 60 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Stealth +5"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Stealth](/Skills.aspx?ID=15) +5",
+ "source": [
+  "Crown of the Kobold King"
+ ],
+ "source_raw": [
+  "Crown of the Kobold King pg. 123"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Crown of the Kobold King",
+ "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 123</row>",
+ "speed": {
+  "burrow": 15,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, burrow 15 feet",
+ "speed_raw": "25 feet, burrow 15 feet",
+ "spell_markdown": "",
+ "spoilers": "Crown of the Kobold King",
+ "stealth": "5",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Thoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, …",
+ "summary_markdown": "Thoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, …",
+ "text": " Thoqqua Thoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, even solid rock. Thoqquas are native to the vast ash deserts and lava fields of the Plane of Fire. There, they consume ore and minerals, which their furnace-like bodies then smelt into armor plates that grant the creatures their armored forms. These creatures' foremost body segment tapers into a straight, hornlike beak that glows with a blistering heat. Steam and smoke constantly hiss from their joints, and from a distance, thoqquas can be mistaken for strange metallic constructs. Adult thoqquas are 5 feet long and weigh 200 pounds. Thoqquas are dangerous to approach—they attack without thinking when startled or frustrated. If they don't immediately chase away intruders within their territory, then they might gradually come to view that area as property and even guard it. Mephit seem to understand this curious thoqqua thought process, occasionally brokering deals with the magma worms. The mephits claim that the mountain-sized ancestors of modern thoqquas were servants of the elemental lords and dug the first volcanoes in the young worlds of the Material Plane. These “progenitor worms” then retired to the worlds' cores, where their heat warms the planets even today. Thoqquas on the Material Plane do congregate around volcanoes—though whether this tendency is to protect a mineral-rich food site or sacred place, or simply out of comfort, depends on the thoqqua in question. Recall Knowledge - Elemental (Arcana, Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Thoqqua Source Crown of the Kobold King pg. 123 Perception +7; darkvision, tremorsense (imprecise) 60 feet Languages Ignan; (can't speak any language) Skills Acrobatics +7, Stealth +5 Str +3 Dex +1 Con +2 Int -2 Wis +1 Cha +0 --- AC 17 Fort +8 Ref +7 Will +5 HP 45 Immunities bleed, fire, paralyzed, poison, sleep Weaknesses cold 5 Molten Body (evocation, fire, primal) A thoqqua's body is hot enough to melt stone. A creature who grabs a thoqqua, is grabbed by a thoqqua, or critically fails a melee Strike with an unarmed attack or agile weapon takes 1d4 fire damage (DC 15 basic Reflex save). Reactive Thrash Reaction Trigger A creature within the thoqqua's reach hits the thoqqua with a melee Strike; Effect The thoqqua instinctively thrashes into the attack, pressing its molten hot scales forward. The attacker must attempt a DC 15 Reflex save. Critical Success The attacker is unaffected. Success The attacker takes 1d4 fire damage. Failure The attacker takes 2d4 fire damage. Critical Failure As failure, but the weapon used to Strike the thoqqua becomes broken unless the weapon is made of metal, has more than 10 Hardness, or is resistant to or immune to fire. --- Speed 25 feet, burrow 15 feet Melee beak +9, Damage 1d8+3 piercing plus 1d6 fire and critical ignition Critical Ignition On a critical hit with a body Strike, a thoqqua inflicts an additional 1d6 persistent fire damage. Starving Thoqquas A thoqqua feeds on a combination of raw stone, ore, and heat. When denied these nourishments, a thoqqua won't perish from starvation, but it does grow less armored as it's forced to absorb and weaken its armored body plates. A starved thoqqua's Armor Class is reduced by 2, but it gains a +1 circumstance bonus on all attack rolls. ",
+ "trait": [
+  "Earth",
+  "Elemental",
+  "Fire",
+  "Uncommon",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Elemental](/Traits.aspx?ID=57), [Fire](/Traits.aspx?ID=72), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Earth",
+  "Elemental",
+  "Fire",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2185",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold": 5
+ },
+ "weakness_markdown": "[cold](/Traits.aspx?ID=27) 5",
+ "weakness_raw": " cold  5",
+ "will_save": 5,
+ "wisdom": 1
+}

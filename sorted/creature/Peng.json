@@ -1,0 +1,114 @@
+{
+ "ac": 32,
+ "alignment": "NG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 5,
+ "creature_ability": [
+  "Heaven's View",
+  "Calm Weather Aura",
+  "Windslice",
+  "Cloud Cover",
+  "Flap Wings"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 200,
+ "hp_raw": "200",
+ "id": "creature-1406",
+ "image": [
+  "/Images/Monsters/Peng.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Auran",
+  "Common"
+ ],
+ "language_markdown": "[Auran](/Languages.aspx?ID=15), [Common](/Languages.aspx?ID=1)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"\">[Peng](/Monsters.aspx?ID=1406)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nPengs are massive avian beasts who fly effortlessly among the highest clouds. Their bright plumage makes it difficult to see their shape against an azure sky, but with patience, an onlooker might notice movement too swift to be a natural cloud.\n\n Beautiful and graceful, pengs arise from the unlikeliest of origins: the cruel [kun](/Monsters.aspx?ID=1403), a hateful fish monster whose predilection for the crushing depths of the sea matches the peng's own love of the bright, open sky. After a kun sacrifices their power for a noble heart by bathing in the sun's rays, they transform into this majestic bird, which eschews violence unless they must fight to stay free. Pengs do not seek danger or thrills; they want only to make their long voyages and fly without disruption.\n\n A peng's calm and steady nature is so strong that its mere presence can quell storms and still winds. Mariners and pilots believe spotting a peng is a sign of good luck. When the sky is clear and blue and the weather gentle for an extended period, people attribute such fine conditions to the presence of an unseen peng.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 35\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 33\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 30\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Peng.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Peng](/Monsters.aspx?ID=1406)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 82</row>\n\n**Perception** +25\r\n\r\n**Languages**\r\n[Auran](/Languages.aspx?ID=15), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +23, [Athletics](/Skills.aspx?ID=3) +22, [Nature](/Skills.aspx?ID=10) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +6\r\n\r\n**Con** +5\r\n\r\n**Int** +3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +7\r\n</row>\r\n\r\n**Heaven's View** Clouds don't impair a peng's vision.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +24 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 200\n\n**Resistances**\r\ncold 10\r\n\r\n**Weaknesses**\r\nevil 10\r\n\r\n**Calm Weather Aura** ([air](/Traits.aspx?ID=5), [aura](/Traits.aspx?ID=206), [evocation](/Traits.aspx?ID=65), [primal](/Traits.aspx?ID=134)) 1 mile. The ambient weather around a peng is always lightly cloudy with a pleasant breeze, and the temperature is pleasantly warm for the season. A creature that attempts to alter the weather within this aura (such as with a [_control weather_](/Rituals.aspx?ID=9) ritual or localized effect like [_gust of wind_](/Spells.aspx?ID=143)) must succeed at a DC 33 Will save; otherwise the effect is disrupted. The peng can activate or deactivate this aura as a single action (this action has the [concentrate](/Traits.aspx?ID=32) trait).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 70 feet; windslice\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +22 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+10 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +22 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d6+10 slashing\r\n\r\n**Primal Innate Spells** DC 31\r\n- **5th**\r\n[Cone of Cold](/Spells.aspx?ID=47), [Gust of Wind](/Spells.aspx?ID=143) (at will), [Wall of Wind](/Spells.aspx?ID=367) (at will)\r\n\r\n**Windslice**   Pengs can move in any wind with easy grace. A peng ignores difficult terrain caused by wind and doesn't need to [Maneuver in Flight](/Actions.aspx?ID=30) in high winds.\r\n\r\n**Cloud Cover** <actions string=\"Single Action\" /> ([Air](/Traits.aspx?ID=5), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The peng exhales a thick cloud and envelops themself in the mist. The peng gains cover until the end of their next turn.\r\n\r\n**Flap Wings** <actions string=\"Two Actions\" />  The peng beats its wings to create a mighty burst of frosty air and push away foes. Each creature within 10 feet of the peng takes 3d6 bludgeoning and 3d6 cold damage (DC 32 [basic](/Rules.aspx?ID=329) Reflex save). Creatures that fail their save are [pushed](/Rules.aspx?ID=451) away 10 feet; creatures that critically fail are pushed away 20 feet and knocked [prone](/Conditions.aspx?ID=31). The peng can't Flap Wings again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Clear Direction</title>\r\n\r\nMost pengs on Golarion are seen in the skies of southern Tian Xia. Pengs hardly ever roost or even stop to rest, and they are almost always seen headed in a southerly trajectory. According to pengs themselves, they have no destination: they are headed south, and even they don't know why. Some whimsical pengs claim that they are in pursuit of a dream they once had in a life they lived long before this one.\r\n</aside>",
+ "name": "Peng",
+ "npc": false,
+ "perception": 25,
+ "rarity": "rare",
+ "reflex_save": 24,
+ "release_date": "2021-07-07",
+ "resistance": {
+  "cold": 10
+ },
+ "resistance_markdown": "cold 10",
+ "resistance_raw": "cold 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 82</row>\n\n<row gap=\"medium\">\r\n**HP** 200\r\n\r\n**AC** 32\r\n\r\n**Fort** +23\r\n\r\n**Ref** +24\r\n\r\n**Will** +23\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPengs are massive avian beasts who fly effortlessly among the highest clouds. Their bright plumage makes it difficult to see their shape against an …\r\n</summary>",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +23",
+  "Athletics +22",
+  "Nature +25"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +23, [Athletics](/Skills.aspx?ID=3) +22, [Nature](/Skills.aspx?ID=10) +25",
+ "source": [
+  "Pathfinder #167: Ready? Fight!"
+ ],
+ "source_raw": [
+  "Pathfinder #167: Ready? Fight! pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 82</row>",
+ "speed": {
+  "fly": 70,
+  "land": 10,
+  "max": 70
+ },
+ "speed_markdown": "10 feet, fly 70 feet; windslice",
+ "speed_raw": "10 feet, fly 70 feet; windslice",
+ "spell": [
+  "Cone of Cold",
+  "Gust of Wind",
+  "Wall of Wind"
+ ],
+ "spell_markdown": "[Cone of Cold](/Spells.aspx?ID=47), [Gust of Wind](/Spells.aspx?ID=143), [Wall of Wind](/Spells.aspx?ID=367)",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Pengs are massive avian beasts who fly effortlessly among the highest clouds. Their bright plumage makes it difficult to see their shape against an …",
+ "summary_markdown": "Pengs are massive avian beasts who fly effortlessly among the highest clouds. Their bright plumage makes it difficult to see their shape against an …",
+ "text": " Peng Pengs are massive avian beasts who fly effortlessly among the highest clouds. Their bright plumage makes it difficult to see their shape against an azure sky, but with patience, an onlooker might notice movement too swift to be a natural cloud. Beautiful and graceful, pengs arise from the unlikeliest of origins: the cruel kun, a hateful fish monster whose predilection for the crushing depths of the sea matches the peng's own love of the bright, open sky. After a kun sacrifices their power for a noble heart by bathing in the sun's rays, they transform into this majestic bird, which eschews violence unless they must fight to stay free. Pengs do not seek danger or thrills; they want only to make their long voyages and fly without disruption. A peng's calm and steady nature is so strong that its mere presence can quell storms and still winds. Mariners and pilots believe spotting a peng is a sign of good luck. When the sky is clear and blue and the weather gentle for an extended period, people attribute such fine conditions to the presence of an unseen peng. Recall Knowledge - Beast (Arcana, Nature): DC 35 Unspecific Lore : DC 33 Specific Lore : DC 30 Peng Source Pathfinder #167: Ready? Fight! pg. 82 Perception +25 Languages Auran, Common Skills Acrobatics +23, Athletics +22, Nature +25 Str +4 Dex +6 Con +5 Int +3 Wis +5 Cha +7 Heaven's View Clouds don't impair a peng's vision. --- AC 32 Fort +23 Ref +24 Will +23 HP 200 Resistances cold 10 Weaknesses evil 10 Calm Weather Aura (air, aura, evocation, primal) 1 mile. The ambient weather around a peng is always lightly cloudy with a pleasant breeze, and the temperature is pleasantly warm for the season. A creature that attempts to alter the weather within this aura (such as with a control weather ritual or localized effect like gust of wind ) must succeed at a DC 33 Will save; otherwise the effect is disrupted. The peng can activate or deactivate this aura as a single action (this action has the concentrate trait). --- Speed 10 feet, fly 70 feet; windslice Melee Single Action beak +22 (reach 10 feet), Damage 3d8+10 piercing Melee Single Action talon +22 (Agile), Damage 3d6+10 slashing Primal Innate Spells DC 31 - 5th Cone of Cold, Gust of Wind (at will), Wall of Wind (at will) Windslice Pengs can move in any wind with easy grace. A peng ignores difficult terrain caused by wind and doesn't need to Maneuver in Flight in high winds. Cloud Cover Single Action (Air, Evocation, Primal) The peng exhales a thick cloud and envelops themself in the mist. The peng gains cover until the end of their next turn. Flap Wings Two Actions The peng beats its wings to create a mighty burst of frosty air and push away foes. Each creature within 10 feet of the peng takes 3d6 bludgeoning and 3d6 cold damage (DC 32 basic Reflex save). Creatures that fail their save are pushed away 10 feet; creatures that critically fail are pushed away 20 feet and knocked prone. The peng can't Flap Wings again for 1d4 rounds. Clear Direction Most pengs on Golarion are seen in the skies of southern Tian Xia. Pengs hardly ever roost or even stop to rest, and they are almost always seen headed in a southerly trajectory. According to pengs themselves, they have no destination: they are headed south, and even they don't know why. Some whimsical pengs claim that they are in pursuit of a dream they once had in a life they lived long before this one. ",
+ "trait": [
+  "Air",
+  "Beast",
+  "Cold",
+  "Rare",
+  "NG",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Beast](/Traits.aspx?ID=20), [Cold](/Traits.aspx?ID=27), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Air",
+  "Beast",
+  "Cold",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1406",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {
+  "evil": 10
+ },
+ "weakness_markdown": "evil 10",
+ "weakness_raw": "evil 10",
+ "will_save": 23,
+ "wisdom": 5
+}

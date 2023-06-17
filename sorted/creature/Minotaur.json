@@ -1,0 +1,93 @@
+{
+ "ac": 20,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 3,
+ "creature_ability": [
+  "Natural Cunning",
+  "Axe Swipe",
+  "Hunted Fear",
+  "Powerful Charge"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 70,
+ "hp_raw": "70",
+ "id": "creature-301",
+ "image": [
+  "/Images/Monsters/Minotaur.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Jotun"
+ ],
+ "language_markdown": "[Jotun](/Languages.aspx?ID=8)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Minotaur](/Monsters.aspx?ID=301)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMinotaurs are master hunters that dwell in cunning labyrinths or tangles of underground caverns meant to disorient and demoralize prey. These monstrous tormentors delight in the hunt, in the terror caused by closing in on prey, and in the very moment when the hunted realizes that they have lost the game. Only then will the minotaur charge in for the kill, cutting foes down with powerful strikes or impaling them on its sharp horns.\n\n Minotaurs are known to dwell in mazes, but they can also be found hiding in old ruins and other forgotten corners of the world. In any case, they are solitary creatures, only rarely sharing territory with others of their kind or even more powerful beings that have cowed them into service. Everyone else is little more than prey to be hunted.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Minotaur.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Minotaur](/Monsters.aspx?ID=301)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 237</row>\n\n**Perception** +12; darkvision\r\n\r\n**Languages**\r\n[Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14, [Intimidation](/Skills.aspx?ID=7) +9, [Survival](/Skills.aspx?ID=16) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +0\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Natural Cunning** A minotaur automatically critically succeeds at Survival checks to avoid becoming lost or to find its way, including those from the [_maze_](/Spells.aspx?ID=187) spell.\r\n\r\n**Items**\r\n[Greataxe](/Weapons.aspx?ID=21)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 70\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ngreataxe +14 ([reach 10 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 1d12+8 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhorn +14,\r\n**Damage** 1d8+8 piercing\n\n**Axe Swipe** <actions string=\"Two Actions\" />  The minotaur swings its axe in a wide arc, making greataxe Strikes against any two foes who are adjacent to each other and within the minotaur's reach. The multiple attack penalty does not increase until after both attacks are resolved.\r\n\r\n**Hunted Fear** <actions string=\"Single Action\" />  The minotaur snorts and clomps as it hunts its prey, inspiring terror. The minotaur makes an Intimidation check to Demoralize all living creatures within 60 feet that can hear the minotaur but not see it. Roll once and apply the result to all creatures. If the targets are in a maze or similarly difficult-to-navigate structure, the minotaur gains a +4 circumstance bonus to this check. Creatures that become frightened as a result also take a -2 circumstance penalty to Survival checks to avoid getting lost for 1 minute. This use of Demoralize doesn't have the visual trait. Each target is temporarily immune for 1 minute.\r\n\r\n**Powerful Charge** <actions string=\"Two Actions\" />  The minotaur Strides twice, then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 2d8+10.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Variant Minotaurs</title>\r\n\r\nMost minotaurs are a simple blend of muscular humanoid and raging bull, but unusual variants and unique minotaurs may have different physical features and abilities. Great-horned minotaurs can impale foes if they critically succeed on a charge, but they do not have the Hunted Fear ability. Shaggy minotaurs are covered in thick hair form head to toe, allowing them to live in freezing environments with ease and giving them resistance to cold damage, but their hooves are broad and heavy, making it impossible for them to charge.\r\n</aside>",
+ "name": "Minotaur",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 237</row>\n\n<row gap=\"medium\">\r\n**HP** 70\r\n\r\n**AC** 20\r\n\r\n**Fort** +13\r\n\r\n**Ref** +8\r\n\r\n**Will** +10\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMinotaurs are master hunters that dwell in cunning labyrinths or tangles of underground caverns meant to disorient and demoralize prey. These …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +14",
+  "Intimidation +9",
+  "Survival +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14, [Intimidation](/Skills.aspx?ID=7) +9, [Survival](/Skills.aspx?ID=16) +12",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 237"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 237</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Minotaurs are master hunters that dwell in cunning labyrinths or tangles of underground caverns meant to disorient and demoralize prey. These …",
+ "summary_markdown": "Minotaurs are master hunters that dwell in cunning labyrinths or tangles of underground caverns meant to disorient and demoralize prey. These …",
+ "text": " Minotaur Minotaurs are master hunters that dwell in cunning labyrinths or tangles of underground caverns meant to disorient and demoralize prey. These monstrous tormentors delight in the hunt, in the terror caused by closing in on prey, and in the very moment when the hunted realizes that they have lost the game. Only then will the minotaur charge in for the kill, cutting foes down with powerful strikes or impaling them on its sharp horns. Minotaurs are known to dwell in mazes, but they can also be found hiding in old ruins and other forgotten corners of the world. In any case, they are solitary creatures, only rarely sharing territory with others of their kind or even more powerful beings that have cowed them into service. Everyone else is little more than prey to be hunted. Recall Knowledge - Humanoid (Society): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Minotaur Source Bestiary pg. 237 Perception +12; darkvision Languages Jotun Skills Athletics +14, Intimidation +9, Survival +12 Str +6 Dex +0 Con +3 Int -2 Wis +2 Cha -1 Natural Cunning A minotaur automatically critically succeeds at Survival checks to avoid becoming lost or to find its way, including those from the maze spell. Items Greataxe --- AC 20 Fort +13 Ref +8 Will +10 HP 70 --- Speed 25 feet Melee Single Action greataxe +14 (reach 10 feet, Sweep), Damage 1d12+8 slashing Melee Single Action horn +14, Damage 1d8+8 piercing Axe Swipe Two Actions The minotaur swings its axe in a wide arc, making greataxe Strikes against any two foes who are adjacent to each other and within the minotaur's reach. The multiple attack penalty does not increase until after both attacks are resolved. Hunted Fear Single Action The minotaur snorts and clomps as it hunts its prey, inspiring terror. The minotaur makes an Intimidation check to Demoralize all living creatures within 60 feet that can hear the minotaur but not see it. Roll once and apply the result to all creatures. If the targets are in a maze or similarly difficult-to-navigate structure, the minotaur gains a +4 circumstance bonus to this check. Creatures that become frightened as a result also take a -2 circumstance penalty to Survival checks to avoid getting lost for 1 minute. This use of Demoralize doesn't have the visual trait. Each target is temporarily immune for 1 minute. Powerful Charge Two Actions The minotaur Strides twice, then makes a horn Strike. If it moved at least 20 feet from its starting position, the Strike's damage is increased to 2d8+10. Variant Minotaurs Most minotaurs are a simple blend of muscular humanoid and raging bull, but unusual variants and unique minotaurs may have different physical features and abilities. Great-horned minotaurs can impale foes if they critically succeed on a charge, but they do not have the Hunted Fear ability. Shaggy minotaurs are covered in thick hair form head to toe, allowing them to live in freezing environments with ease and giving them resistance to cold damage, but their hooves are broad and heavy, making it impossible for them to charge. ",
+ "trait": [
+  "Humanoid",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=301",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

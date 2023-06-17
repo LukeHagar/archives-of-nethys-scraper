@@ -1,0 +1,109 @@
+{
+ "ac": 22,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 4,
+ "creature_ability": [
+  "Swallow Projectile",
+  "Swallow Whole",
+  "Frightening Bellow"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 80,
+ "hp_raw": "80",
+ "id": "creature-2459",
+ "image": [
+  "/Images/Monsters/Kvernknurr.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Jotun",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Kvernknurr](/Monsters.aspx?ID=2459)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nKvernknurrs are lanky [fey](/Traits.aspx?ID=69) giants that dwell in cold-water rivers and lakes. A kvernknurr's blue flesh allows it to camouflage itself in its preferred environ, where it haunts local millers and farmers by sabotaging water wheels and farm equipment.\n\n A kvernknurr's most distinguishing feature is its oversized mouth and the two rows of axe-like teeth therein. To eat, a kvernknurr need only unhinge its lower jaw, revealing in the process a yawning portal nearly the size of a human doorway—convenient, considering its favorite food is [humans](/Ancestries.aspx?ID=6) and their ilk.\n\n A lake- or riverbed is the perfect place for a kvernknurr to sleep off a big meal. It's also a perilous circumstance for swallowed prey lucky enough to escape the kvernknurr's belly. “Out of the belly, into the water,” goes one lakeside village saying.\n\n Kverknurrs despise humanoid-made disturbances to the waters in which they live, even seemingly harmless ones like waterwheels. In their anger, kvernknurrs use their oversized jaws to clamp down on such machinery. When townsfolk come to investigate their jammed mill, the kvernknurr then springs out from hiding to attack, roaring terribly before snatching a victim to eat whole. Folks brave enough to attack a kvernknurr soon learn to fight up close; the wily monster is quick enough to snatch arrows and spears in its jaws midair before swallowing the weapons down.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Kvernknurr.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Kvernknurr](/Monsters.aspx?ID=2459)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 87</row>\n\n**Perception** +12; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +13, [Stealth](/Skills.aspx?ID=15) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 80\n\n**Resistances**\r\n[cold](/Traits.aspx?ID=27) 5\r\n\r\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 5\r\n\r\n**Swallow Projectile** <actions string=\"Reaction\" /> **Trigger** A creature the kvernknurr can see targets it with a ranged Strike; **Requirements** The kvernknurr doesn't have a creature [grabbed](/Conditions.aspx?ID=20) in its jaws; **Effect** The kvernknurr attempts to swallow the projectile, gaining a +4 circumstance bonus to AC against the triggering attack. If the attack misses, the kvernknurr consumes the projectile harmlessly.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14,\r\n**Damage** 2d6+8 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +14 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d4+8 fist\n\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Medium, 1d6+5 bludgeoning, Rupture 15\r\n\r\n**Frightening Bellow** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) **Requirements** The kvernknurr doesn't have a creature [grabbed](/Conditions.aspx?ID=20) in its jaws; **Effect** The kvernknurr lets out a deep-throated shout to scare away its foes. Each non-kvernknurr creature within 60 feet must attempt a DC 20 Will save, and then they are temporarily immune to that kvenknurr's Frightening Bellow for 24 hours.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature is [frightened 1](/Conditions.aspx?ID=19).<br /> **Failure** The creature is frightened 2.<br /> **Critical Failure** The creature is frightened 2 and is [fleeing](/Conditions.aspx?ID=17) as long as it remains frightened.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Other Places, Other Names</title>\r\n\r\nMost kvernknurr legends come from cold, northern regions like the Lands of the Linnorm Kings or Brevoy. Some have been sighted in warmer waters, such as the River Kingdoms, Druma, and even the temperate lakes of Andoran and Cheliax.\n\n Monikers vary from place to place. Mill spirit, doorjaw, and wheel-biter are just some of the more flavorful nicknames people give them.\r\n</aside>",
+ "name": "Kvernknurr",
+ "npc": false,
+ "perception": 12,
+ "rarity": "uncommon",
+ "reflex_save": 12,
+ "release_date": "2023-02-22",
+ "resistance": {
+  "cold": 5
+ },
+ "resistance_markdown": "[cold](/Traits.aspx?ID=27) 5",
+ "resistance_raw": " cold  5",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 87</row>\n\n<row gap=\"medium\">\r\n**HP** 80\r\n\r\n**AC** 22\r\n\r\n**Fort** +15\r\n\r\n**Ref** +12\r\n\r\n**Will** +9\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nKvernknurrs are lanky  fey  giants that dwell in cold-water rivers and lakes. A kvernknurr's blue flesh allows it to camouflage itself in its …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Intimidation +13",
+  "Stealth +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +13, [Stealth](/Skills.aspx?ID=15) +10",
+ "source": [
+  "Pathfinder #188: They Watched the Stars"
+ ],
+ "source_raw": [
+  "Pathfinder #188: They Watched the Stars pg. 87"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 87</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Gatewalkers",
+ "stealth": "10",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Kvernknurrs are lanky  fey  giants that dwell in cold-water rivers and lakes. A kvernknurr's blue flesh allows it to camouflage itself in its …",
+ "summary_markdown": "Kvernknurrs are lanky  fey  giants that dwell in cold-water rivers and lakes. A kvernknurr's blue flesh allows it to camouflage itself in its …",
+ "text": " Kvernknurr Kvernknurrs are lanky fey giants that dwell in cold-water rivers and lakes. A kvernknurr's blue flesh allows it to camouflage itself in its preferred environ, where it haunts local millers and farmers by sabotaging water wheels and farm equipment. A kvernknurr's most distinguishing feature is its oversized mouth and the two rows of axe-like teeth therein. To eat, a kvernknurr need only unhinge its lower jaw, revealing in the process a yawning portal nearly the size of a human doorway—convenient, considering its favorite food is humans and their ilk. A lake- or riverbed is the perfect place for a kvernknurr to sleep off a big meal. It's also a perilous circumstance for swallowed prey lucky enough to escape the kvernknurr's belly. “Out of the belly, into the water,” goes one lakeside village saying. Kverknurrs despise humanoid-made disturbances to the waters in which they live, even seemingly harmless ones like waterwheels. In their anger, kvernknurrs use their oversized jaws to clamp down on such machinery. When townsfolk come to investigate their jammed mill, the kvernknurr then springs out from hiding to attack, roaring terribly before snatching a victim to eat whole. Folks brave enough to attack a kvernknurr soon learn to fight up close; the wily monster is quick enough to snatch arrows and spears in its jaws midair before swallowing the weapons down. Recall Knowledge - Fey (Nature): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Kvernknurr Source Pathfinder #188: They Watched the Stars pg. 87 Perception +12; low-light vision Languages Common, Jotun, Sylvan Skills Athletics +13, Intimidation +13, Stealth +10 Str +5 Dex +2 Con +4 Int -1 Wis +1 Cha -2 --- AC 22 Fort +15 Ref +12 Will +9 HP 80 Resistances cold 5 Weaknesses cold iron 5 Swallow Projectile Reaction Trigger A creature the kvernknurr can see targets it with a ranged Strike; Requirements The kvernknurr doesn't have a creature grabbed in its jaws; Effect The kvernknurr attempts to swallow the projectile, gaining a +4 circumstance bonus to AC against the triggering attack. If the attack misses, the kvernknurr consumes the projectile harmlessly. --- Speed 30 feet Melee Single Action jaws +14, Damage 2d6+8 piercing plus Grab Melee Single Action fist +14 (Agile, reach 10 feet), Damage 2d4+8 fist Swallow Whole Single Action (Attack) Medium, 1d6+5 bludgeoning, Rupture 15 Frightening Bellow Two Actions (Auditory, Emotion, Enchantment, Fear, Mental, Primal) Requirements The kvernknurr doesn't have a creature grabbed in its jaws; Effect The kvernknurr lets out a deep-throated shout to scare away its foes. Each non-kvernknurr creature within 60 feet must attempt a DC 20 Will save, and then they are temporarily immune to that kvenknurr's Frightening Bellow for 24 hours. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure The creature is frightened 2 and is fleeing as long as it remains frightened. Other Places, Other Names Most kvernknurr legends come from cold, northern regions like the Lands of the Linnorm Kings or Brevoy. Some have been sighted in warmer waters, such as the River Kingdoms, Druma, and even the temperate lakes of Andoran and Cheliax. Monikers vary from place to place. Mill spirit, doorjaw, and wheel-biter are just some of the more flavorful nicknames people give them. ",
+ "trait": [
+  "Amphibious",
+  "Fey",
+  "Uncommon",
+  "Water",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Amphibious",
+  "Fey",
+  "Uncommon",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2459",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 5
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 5",
+ "weakness_raw": " cold iron  5",
+ "will_save": 9,
+ "wisdom": 1
+}

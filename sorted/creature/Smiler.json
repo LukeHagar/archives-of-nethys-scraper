@@ -1,0 +1,97 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 2,
+ "creature_ability": [
+  "Stench",
+  "Consume Flesh",
+  "Ghast Fever",
+  "Paralysis",
+  "Swift Leap"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 45,
+ "hp_raw": "45 ( negative healing )",
+ "id": "creature-2005",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"\">[Smiler](/Monsters.aspx?ID=2005)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Smiler](/Monsters.aspx?ID=2005)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 38</row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +9, [Intimidation](/Skills.aspx?ID=7) +9, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Composite Shortbow](/Weapons.aspx?ID=75) (20 arrows)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 18 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (plus [slowed 1](/Conditions.aspx?ID=35) as long as it's sickened on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against [disease](/Traits.aspx?ID=46) and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 5 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +12 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+4 piercing plus ghast fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +12 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d4+4 slashing plus paralysis\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nshortbow +12 ([deadly 1d10](/Traits.aspx?ID=174), [Propulsive](/Traits.aspx?ID=191), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+4 piercing\n\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** Smiler is adjacent to the corpse of a creature that died within the last hour; **Effect** Smiler devours a chunk of the corpse and regains 3d6 Hit Points. He can regain Hit Points from any given corpse only once.\r\n\r\n**Ghast Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** **DC** 18 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 3d8 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 3d8 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [ghast](/Monsters.aspx?ID=219) the next midnight.\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living creature hit by Smiler's attack must succeed at a DC 18 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**Swift Leap** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) Smiler jumps up to half his Speed. This movement doesn't trigger reactions.\r\n\r\n</column>",
+ "name": "Smiler",
+ "npc": false,
+ "perception": 12,
+ "rarity": "unique",
+ "reflex_save": 12,
+ "release_date": "2020-01-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 38</row>\n\n<row gap=\"medium\">\r\n**HP** 45 ( negative healing )\r\n\r\n**AC** 19\r\n\r\n**Fort** +9\r\n\r\n**Ref** +12\r\n\r\n**Will** +8\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +9",
+  "Athletics +9",
+  "Intimidation +9",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +9, [Intimidation](/Skills.aspx?ID=7) +9, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Pathfinder #151: The Show Must Go On"
+ ],
+ "source_raw": [
+  "Pathfinder #151: The Show Must Go On pg. 38"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 38</row>",
+ "speed": {
+  "burrow": 5,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 5 feet",
+ "speed_raw": "30 feet, burrow 5 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "stealth": "9",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Smiler Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Smiler Source Pathfinder #151: The Show Must Go On pg. 38 Perception +12; darkvision Languages Common, Necril Skills Acrobatics +9, Athletics +9, Intimidation +9, Stealth +9 Str +3 Dex +4 Con +2 Int +1 Wis +2 Cha +4 Items Composite Shortbow (20 arrows) --- AC 19 Fort +9 Ref +12 Will +8 HP 45 (negative healing) Stench (aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 18 Fortitude save or become sickened 1 (plus slowed 1 as long as it's sickened on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute. --- Speed 30 feet, burrow 5 feet Melee Single Action jaws +12 (Finesse), Damage 2d6+4 piercing plus ghast fever and paralysis Melee Single Action claw +12 (Agile, Finesse), Damage 2d4+4 slashing plus paralysis Ranged Single Action shortbow +12 (deadly 1d10, Propulsive, range increment 60 feet, reload 0), Damage 1d6+4 piercing Consume Flesh Single Action (Manipulate) Requirements Smiler is adjacent to the corpse of a creature that died within the last hour; Effect Smiler devours a chunk of the corpse and regains 3d6 Hit Points. He can regain Hit Points from any given corpse only once. Ghast Fever (Disease) Saving Throw DC 18 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 3d8 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 3d8 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghast the next midnight. Paralysis (Incapacitation, Occult, Necromancy) Any living creature hit by Smiler's attack must succeed at a DC 18 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Swift Leap Single Action (Move) Smiler jumps up to half his Speed. This movement doesn't trigger reactions. ",
+ "trait": [
+  "Ghoul",
+  "Undead",
+  "Unique",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Ghoul",
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2005",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 2
+}

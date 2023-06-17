@@ -1,0 +1,101 @@
+{
+ "ac": 26,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Spurred by Death",
+  "Drink Blood",
+  "Paralysis"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 135,
+ "hp_raw": "135 ( negative healing )",
+ "id": "creature-1829",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Hallit"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Everburning Mammoths](/Monsters.aspx?ID=1829)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Everburning Mammoths](/Monsters.aspx?ID=1829)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 56</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 135\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Spurred by Death** <actions string=\"Reaction\" /> **Trigger** An ally within 30 feet reduces a creature to 0 HP; **Effect** The everburning mammoth uses Drink Blood on a creature that meets the ability's requirements.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +20 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+8 piercing plus paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+6 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Drink Blood** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Requirements** A [grabbed](/Conditions.aspx?ID=20), [paralyzed](/Conditions.aspx?ID=28), [restrained](/Conditions.aspx?ID=33), [unconscious](/Conditions.aspx?ID=38), or willing creature is within the everburning mammoth's reach; **Effect** The everburning mammoth tears into the creature with its jaws and gorges itself on the victim's blood. This requires an [Athletics](/Skills.aspx?ID=3) check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is [drained 1](/Conditions.aspx?ID=10), and the everburning mammoth regains 15 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the everburning mammoth but increases the victim's drain value by 1.\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) Any nonliving creature hit by the everburning mammoth's jaws Strike must succeed at a DC 23 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n</column>",
+ "name": "Everburning Mammoths",
+ "npc": false,
+ "perception": 16,
+ "rarity": "rare",
+ "reflex_save": 17,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 56</row>\n\n<row gap=\"medium\">\r\n**HP** 135 ( negative healing )\r\n\r\n**AC** 26\r\n\r\n**Fort** +16\r\n\r\n**Ref** +17\r\n\r\n**Will** +16\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +18",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Pathfinder #177: Burning Tundra"
+ ],
+ "source_raw": [
+  "Pathfinder #177: Burning Tundra pg. 56"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 56</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Quest for the Frozen Flame",
+ "stealth": "17",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Everburning Mammoths Recall Knowledge - Undead (Religion): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Everburning Mammoths Source Pathfinder #177: Burning Tundra pg. 56 Perception +16; darkvision Languages Common, Hallit Skills Acrobatics +17, Athletics +18, Stealth +17 Str +5 Dex +5 Con +4 Int +1 Wis +4 Cha +0 --- AC 26 Fort +16 Ref +17 Will +16 HP 135 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Spurred by Death Reaction Trigger An ally within 30 feet reduces a creature to 0 HP; Effect The everburning mammoth uses Drink Blood on a creature that meets the ability's requirements. --- Speed 30 feet Melee Single Action jaws +20 (Finesse), Damage 2d6+8 piercing plus paralysis Melee Single Action claw +20 (Agile, Finesse), Damage 2d6+6 slashing plus Grab Drink Blood Single Action (Divine, Necromancy) Requirements A grabbed, paralyzed, restrained, unconscious, or willing creature is within the everburning mammoth's reach; Effect The everburning mammoth tears into the creature with its jaws and gorges itself on the victim's blood. This requires an Athletics check against the victim's Fortitude DC if the victim is grabbed and is automatic for any of the other conditions. The victim is drained 1, and the everburning mammoth regains 15 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the everburning mammoth but increases the victim's drain value by 1. Paralysis (Incapacitation, Necromancy, Occult) Any nonliving creature hit by the everburning mammoth's jaws Strike must succeed at a DC 23 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Rare",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1829",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 4
+}

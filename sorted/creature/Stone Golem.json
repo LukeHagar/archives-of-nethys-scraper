@@ -1,0 +1,122 @@
+{
+ "ac": 30,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 4,
+ "creature_ability": [
+  "Golem Antimagic",
+  "Vulnerable to Stone to Flesh",
+  "Impose Paralysis",
+  "Inexorable March",
+  "Slowing Pulse"
+ ],
+ "creature_family": "Golem",
+ "creature_family_markdown": "[Golem](/MonsterFamilies.aspx?ID=57)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-241",
+ "image": [
+  "/Images/Monsters/Golem_StoneGolem.png"
+ ],
+ "immunity": [
+  "acid",
+  "bleed",
+  "death effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "magic (see below)",
+  "mental",
+  "necromancy",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "acid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Stone Golem](/Monsters.aspx?ID=241)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nStone golems are slow and steady constructs typically carved from marble or granite. They’re often made to serve as works of art when at rest, so some golem crafters employ master sculptors to ensure the constructs make beautiful statues. Older stone golems might be weathered, with scuffed or cracked surfaces or missing noses and digits, but this weathering is largely cosmetic and doesn’t adversely impact the golems’ functionality.\n\n Tales tell of particularly immense stone golems residing in certain ancient ruins. Survivors from time-lost civilizations bent on carrying out orders from long-gone masters, these immense stone golems are much more powerful than most stone golems. They are always level 15 or higher and never smaller than Huge in size—most are Gargantuan. Because their size is so great and the structures they dwell in so dilapidated, the awakening of such a stone golem can cause surrounding structures to collapse, ancient foundations to buckle, and ceilings to come crashing down on foes. In addition to the statistics here, these massive stone golems attack with wide, sweeping strikes capable of knocking down multiple targets at once.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Golem_StoneGolem.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Stone Golem](/Monsters.aspx?ID=241)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Golem\" url=\"/Traits.aspx?ID=220\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 187</row>\n\n**Perception** +17; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** -1\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 175\n\n**Immunities**\r\nacid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious\r\n\r\n**Resistances**\r\nphysical 10 (except adamantine)\n\n**Golem Antimagic** harmed by cold and water (5d10, 2d8 from areas and persistent damage); healed by acid (area 2d8 HP); slowed by earth<br /> **Vulnerable to Stone to Flesh** A [_stone to flesh_](/Spells.aspx?ID=311) spell negates the golem’s golem antimagic and its resistance to physical damage for 1 round. A [_flesh to stone_](/Spells.aspx?ID=123) spell reverses this effect immediately.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +24 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+13 bludgeoning\n\n**Impose Paralysis** <actions string=\"Reaction\" /> ([Incapacitation](/Traits.aspx?ID=93)) **Trigger** The stone golem hits a [slowed](/Conditions.aspx?ID=35) creature. **Effect** The creature must succeed at a DC 30 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28) for 1 round.\r\n\r\n**Inexorable March** <actions string=\"Single Action\" />  The stone golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 34 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise it is damaged as if hit by the golem’s fist.\r\n\r\n**Slowing Pulse** <actions string=\"Single Action\" /> ([Arcane](/Traits.aspx?ID=11), [Concentrate](/Traits.aspx?ID=32), [Transmutation](/Traits.aspx?ID=157)) Each creature in a 10-foot emanation must succeed at a DC 30 Fortitude save or be [slowed 1](/Conditions.aspx?ID=35) for 1 minute. The golem can’t use Slowing Pulse again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Stone Golems</title>\r\n\r\nDepending on the material from which it is made and the care that went into crafting it, a destroyed stone golem may be worth as much as an immaculately sculpted marble pillar or as little as a pile of rubble.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-57\" />",
+ "name": "Stone Golem",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 18,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10 (except adamantine)",
+ "resistance_raw": "physical 10 (except adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Golem\" url=\"/Traits.aspx?ID=220\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 187</row>\r\n\r\n**Creature Family** [Golem](/MonsterFamilies.aspx?ID=57)\r\n\r\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 30\r\n\r\n**Fort** +24\r\n\r\n**Ref** +18\r\n\r\n**Will** +19\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nStone golems are slow and steady constructs typically carved from marble or granite. They’re often made to serve as works of art when at rest, so …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +26"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +26",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 187"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 187</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Stone golems are slow and steady constructs typically carved from marble or granite. They’re often made to serve as works of art when at rest, so …",
+ "summary_markdown": "Stone golems are slow and steady constructs typically carved from marble or granite. They’re often made to serve as works of art when at rest, so …",
+ "text": " Stone Golem Stone golems are slow and steady constructs typically carved from marble or granite. They’re often made to serve as works of art when at rest, so some golem crafters employ master sculptors to ensure the constructs make beautiful statues. Older stone golems might be weathered, with scuffed or cracked surfaces or missing noses and digits, but this weathering is largely cosmetic and doesn’t adversely impact the golems’ functionality. Tales tell of particularly immense stone golems residing in certain ancient ruins. Survivors from time-lost civilizations bent on carrying out orders from long-gone masters, these immense stone golems are much more powerful than most stone golems. They are always level 15 or higher and never smaller than Huge in size—most are Gargantuan. Because their size is so great and the structures they dwell in so dilapidated, the awakening of such a stone golem can cause surrounding structures to collapse, ancient foundations to buckle, and ceilings to come crashing down on foes. In addition to the statistics here, these massive stone golems attack with wide, sweeping strikes capable of knocking down multiple targets at once. Recall Knowledge - Construct (Arcana, Crafting): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Stone Golem Source Bestiary pg. 187 Perception +17; darkvision Languages Skills Athletics +26 Str +7 Dex -1 Con +4 Int -5 Wis +0 Cha -5 --- AC 30 Fort +24 Ref +18 Will +19 HP 175 Immunities acid, bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances physical 10 (except adamantine) Golem Antimagic harmed by cold and water (5d10, 2d8 from areas and persistent damage); healed by acid (area 2d8 HP); slowed by earth Vulnerable to Stone to Flesh A stone to flesh spell negates the golem’s golem antimagic and its resistance to physical damage for 1 round. A flesh to stone spell reverses this effect immediately. --- Speed 20 feet Melee Single Action fist +24 (Magical, reach 10 feet), Damage 2d10+13 bludgeoning Impose Paralysis Reaction (Incapacitation) Trigger The stone golem hits a slowed creature. Effect The creature must succeed at a DC 30 Fortitude save or become paralyzed for 1 round. Inexorable March Single Action The stone golem Strides up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 34 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise it is damaged as if hit by the golem’s fist. Slowing Pulse Single Action (Arcane, Concentrate, Transmutation) Each creature in a 10-foot emanation must succeed at a DC 30 Fortitude save or be slowed 1 for 1 minute. The golem can’t use Slowing Pulse again for 1d4 rounds. Stone Golems Depending on the material from which it is made and the care that went into crafting it, a destroyed stone golem may be worth as much as an immaculately sculpted marble pillar or as little as a pile of rubble. ",
+ "trait": [
+  "Construct",
+  "Golem",
+  "Mindless",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Golem](/Traits.aspx?ID=220), [Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Construct",
+  "Golem",
+  "Mindless",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=241",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 0
+}

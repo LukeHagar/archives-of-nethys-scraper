@@ -1,0 +1,110 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 5,
+ "creature_ability": [
+  "Fire Healing",
+  "Swarming Slither",
+  "Suction Wizard",
+  "Weak Acid"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 65,
+ "hp_raw": "65",
+ "id": "creature-1368",
+ "image": [
+  "/Images/Monsters/WizardSponge.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "fire",
+  "mental",
+  "precision",
+  "visual"
+ ],
+ "immunity_markdown": "critical hits, fire, [mental](/Traits.aspx?ID=106), precision, [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Wizard Sponge](/Monsters.aspx?ID=1368)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis strange type of fungus colony takes its name from its initial purpose: the wizard who first developed it sought a means to keep her tower clean from residue both mundane and magical. Wizard sponge does just that, dutifully cleaning its vicinity by devouring dust, organic debris, and even the decaying bodies of fallen creatures. Its designer intentionally crafted the fungus to not merely resist but be healed by fire, intended as an additional safety feature, and most varieties have a convenient side effect of being edible once slain. Unfortunately, the fungus also developed an unexpected ability to magically mutate over time, which eventually led to its escape and independent propagation.\n\n Wizard sponge colonies of various sizes and shapes now thrive in dungeons, caverns, sewers, abandoned castles, crypts, and even the basements of some occupied dwellings. They often carry along bits of partially consumed material with them, such as clothing, limbs, and adventuring gear—sometimes even valuable treasures! An individual colony typically takes on distinctive properties based on what it's consumed in its environment; a variety living in a necromancer's crypt might acquire the undead's affinity for negative energy, for example. \n\n<title level=\"2\" right=\"\">Variant Sponges</title> Many types of wizard sponge exist, as an individual colony takes on distinctive properties based on what they've consumed in their environment. \n\n**Crypt**: The wizard sponge gains [negative healing](/MonsterAbilities.aspx?ID=42). \n\n**Fey Domain**: The wizard sponge gains weakness 5 to [cold iron](/Equipment.aspx?ID=375), increases its Speed and climb Speed to 30 feet, and develops a strangely capricious growth pattern despite being mindless, such as growing in the pockets of a creature's clothing before devouring it. \n\n**Fiendish Temple**: The sponge gains weakness 5 to good damage, and Swarming Slither deals an extra 1d6 evil damage. \n\n**Toxic Lair**: Swarming Slither deals 1d10 acid damage and 1d10 poison damage. If this variety is eaten, it deals 1d6 persistent [poison damage](/Conditions.aspx?ID=29). \n\n**Underwater**: The sponge grows as an aquatic fungus, gaining a swim speed of 20 feet.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fungus](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/WizardSponge.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Wizard Sponge](/Monsters.aspx?ID=1368)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 294</row>\n\n**Perception** +10; no vision, [tremorsense](/MonsterAbilities.aspx?ID=40) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 65\n\n**Immunities**\r\ncritical hits, fire, [mental](/Traits.aspx?ID=106), precision, [visual](/Traits.aspx?ID=163)\r\n\r\n**Resistances**\r\npiercing 5, slashing 5\r\n\r\n**Weaknesses**\r\narea damage 5, [splash](/Traits.aspx?ID=150) damage 5\r\n\r\n**Fire Healing** Anytime a wizard sponge would take fire damage, it instead regains 1d8 Hit Points (regardless of the amount of damage the fire effect would have caused).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet; suction\n\n**Swarming Slither** <actions string=\"Single Action\" />  The wizard sponge slithers over each creature in its space, dealing 2d10 acid damage (DC 20 [basic](/Rules.aspx?ID=329) Reflex save). A creature that critically fails is [sickened 1](/Conditions.aspx?ID=34).\r\n\r\n**Suction Wizard**   sponges can climb on ceilings and other inverted surfaces.\r\n\r\n**Weak Acid**   Wizard sponge acid damages only organic material—not metal, stone, or other inorganic substances.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">By Any Other Name</title>\r\n\r\nWizard sponges appear in a variety of places, and their names vary just as much as their appetites. Some refer to them as “wizard's broom,” while others reference their origins with the name “sloth's folly.” Those found in crypts have come to be known ironically as “caretakers,” and underwater denizens refer to the aquatic variety as “surface sponge.”\r\n</aside>",
+ "name": "Wizard Sponge",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "piercing 5, slashing 5",
+ "resistance_raw": "piercing 5, slashing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 294</row>\n\n<row gap=\"medium\">\r\n**HP** 65\r\n\r\n**AC** 20\r\n\r\n**Fort** +14\r\n\r\n**Ref** +13\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis strange type of fungus colony takes its name from its initial purpose: the wizard who first developed it sought a means to keep her tower clean …\r\n</summary>",
+ "sense": "no vision,  tremorsense  60 feet",
+ "sense_markdown": "no vision, [tremorsense](/MonsterAbilities.aspx?ID=40) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 294"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 294</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet; suction",
+ "speed_raw": "20 feet, climb 20 feet; suction",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "This strange type of fungus colony takes its name from its initial purpose: the wizard who first developed it sought a means to keep her tower clean …",
+ "summary_markdown": "This strange type of fungus colony takes its name from its initial purpose: the wizard who first developed it sought a means to keep her tower clean …",
+ "text": " Wizard Sponge This strange type of fungus colony takes its name from its initial purpose: the wizard who first developed it sought a means to keep her tower clean from residue both mundane and magical. Wizard sponge does just that, dutifully cleaning its vicinity by devouring dust, organic debris, and even the decaying bodies of fallen creatures. Its designer intentionally crafted the fungus to not merely resist but be healed by fire, intended as an additional safety feature, and most varieties have a convenient side effect of being edible once slain. Unfortunately, the fungus also developed an unexpected ability to magically mutate over time, which eventually led to its escape and independent propagation. Wizard sponge colonies of various sizes and shapes now thrive in dungeons, caverns, sewers, abandoned castles, crypts, and even the basements of some occupied dwellings. They often carry along bits of partially consumed material with them, such as clothing, limbs, and adventuring gear—sometimes even valuable treasures! An individual colony typically takes on distinctive properties based on what it's consumed in its environment; a variety living in a necromancer's crypt might acquire the undead's affinity for negative energy, for example. Variant Sponges Many types of wizard sponge exist, as an individual colony takes on distinctive properties based on what they've consumed in their environment. Crypt : The wizard sponge gains negative healing. Fey Domain : The wizard sponge gains weakness 5 to cold iron, increases its Speed and climb Speed to 30 feet, and develops a strangely capricious growth pattern despite being mindless, such as growing in the pockets of a creature's clothing before devouring it. Fiendish Temple : The sponge gains weakness 5 to good damage, and Swarming Slither deals an extra 1d6 evil damage. Toxic Lair : Swarming Slither deals 1d10 acid damage and 1d10 poison damage. If this variety is eaten, it deals 1d6 persistent poison damage. Underwater : The sponge grows as an aquatic fungus, gaining a swim speed of 20 feet. Recall Knowledge - Fungus (Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Wizard Sponge Source Bestiary 3 pg. 294 Perception +10; no vision, tremorsense 60 feet Languages Skills Athletics +12, Stealth +13 Str +3 Dex +4 Con +5 Int -5 Wis +1 Cha -3 --- AC 20 Fort +14 Ref +13 Will +8 HP 65 Immunities critical hits, fire, mental, precision, visual Resistances piercing 5, slashing 5 Weaknesses area damage 5, splash damage 5 Fire Healing Anytime a wizard sponge would take fire damage, it instead regains 1d8 Hit Points (regardless of the amount of damage the fire effect would have caused). --- Speed 20 feet, climb 20 feet; suction Swarming Slither Single Action The wizard sponge slithers over each creature in its space, dealing 2d10 acid damage (DC 20 basic Reflex save). A creature that critically fails is sickened 1. Suction Wizard sponges can climb on ceilings and other inverted surfaces. Weak Acid Wizard sponge acid damages only organic material—not metal, stone, or other inorganic substances. By Any Other Name Wizard sponges appear in a variety of places, and their names vary just as much as their appetites. Some refer to them as “wizard's broom,” while others reference their origins with the name “sloth's folly.” Those found in crypts have come to be known ironically as “caretakers,” and underwater denizens refer to the aquatic variety as “surface sponge.” ",
+ "trait": [
+  "Fungus",
+  "Mindless",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Fungus](/Traits.aspx?ID=77), [Mindless](/Traits.aspx?ID=108), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Fungus",
+  "Mindless",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1368",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 5
+ },
+ "weakness_markdown": "area damage 5, [splash](/Traits.aspx?ID=150) damage 5",
+ "weakness_raw": "area damage 5,  splash  damage 5",
+ "will_save": 8,
+ "wisdom": 1
+}

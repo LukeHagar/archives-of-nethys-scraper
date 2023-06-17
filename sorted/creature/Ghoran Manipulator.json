@@ -1,0 +1,120 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 3,
+ "creature_ability": [
+  "Appetizing Aroma",
+  "Delicious",
+  "Anguished Cry"
+ ],
+ "creature_family": "Ghoran",
+ "creature_family_markdown": "[Ghoran](/MonsterFamilies.aspx?ID=238)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-1164",
+ "image": [
+  "/Images/Monsters/Ghoran.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Ghoran Manipulator](/Monsters.aspx?ID=1164)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis ghoran manipulator relies on charm to survive.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 23\r\n\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ghoran.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Ghoran Manipulator](/Monsters.aspx?ID=1164)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoran\" url=\"/Traits.aspx?ID=352\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 106</row>\n\n**Perception** +9; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Deception](/Skills.aspx?ID=5) +11, [Diplomacy](/Skills.aspx?ID=6) +9, [Nature](/Skills.aspx?ID=10) +9, [Performance](/Skills.aspx?ID=12) +11, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Shortbow](/Weapons.aspx?ID=77) (20 arrows), [Spear](/Weapons.aspx?ID=10)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 45\n\n**Appetizing Aroma** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 10 feet. A creature entering or starting its turn in the aura must attempt a DC 17 Will save. Creatures that don't eat are immune to Appetizing Aroma. <br />**Success** The creature is unaffected and is temporarily immune for 1 hour. <br />**Failure** The creature is distracted by a desire to consume the ghoran. For 1 round it becomes [flat-footed](/Conditions.aspx?ID=16) and [fascinated](/Conditions.aspx?ID=14) by the ghoran manipulator.<br />**Delicious** Ghorans were originally created to be scrumptious food. A ghoran manipulator takes 5 additional damage from jaws Strikes, fangs Strikes, or other similar Strikes with a creature's mouth. When a ghoran manipulator is [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) by a creature's jaws, fangs, or mouth, the DC to [Escape](/Actions.aspx?ID=79) is increased by 2.<br />**Anguished Cry** <actions string=\"Reaction\" /> ([emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [mental](/Traits.aspx?ID=106)) **Trigger** A [humanoid](/Traits.aspx?ID=91) enemy damages the ghoran manipulator with a melee attack; **Effect** The ghoran manipulator rearranges its facial petals and wails, mimicking humanoid anguish to engender sympathy. The triggering creature must attempt a DC 20 Will save. <br />**Success** The target is unaffected and is temporarily immune for 1 hour. <br />**Failure** The target takes a –2 circumstance penalty on attack rolls against the ghoran manipulator until the start of its next turn. <br />**Critical Failure** As failure, and the target is [stupefied 2](/Conditions.aspx?ID=37) until the start of its next turn.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspear +7,\r\n**Damage** 1d6+2 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspear +8 ([thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+2 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nshortbow +8 ([deadly d10](/Traits.aspx?ID=174), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+2 piercing\r\n\r\n**Occult Spontaneous Spells** DC 20\r\n- **Cantrips (2nd)**\r\n[Daze](/Spells.aspx?ID=61), [Forbidding Ward](/Spells.aspx?ID=126), [Ghost Sound](/Spells.aspx?ID=132), [Light](/Spells.aspx?ID=171), [Mage Hand](/Spells.aspx?ID=177)\r\n- **1st**\r\n[Charm](/Spells.aspx?ID=34), [Sanctuary](/Spells.aspx?ID=266), [Sleep](/Spells.aspx?ID=288), [Soothe](/Spells.aspx?ID=291) (3 slots)\r\n- **2nd**\r\n[Illusory Disguise](/Spells.aspx?ID=159), [Phantom Pain](/Spells.aspx?ID=220) (2 slots)\r\n\r\n**Primal Innate Spells** DC 20\r\n- **1st**\r\n[Goodberry](/Spells.aspx?ID=473), [Purify Food and Drink](/Spells.aspx?ID=241)\r\n- **2nd**\r\n[Detect Poison](/Spells.aspx?ID=67)\n\n</column>\n\n<document level=\"2\" id=\"creature-family-238\" />",
+ "name": "Ghoran Manipulator",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 8,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Ghoran\" url=\"/Traits.aspx?ID=352\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 106</row>\r\n\r\n**Creature Family** [Ghoran](/MonsterFamilies.aspx?ID=238)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 18\r\n\r\n**Fort** +8\r\n\r\n**Ref** +8\r\n\r\n**Will** +11\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis ghoran manipulator relies on charm to survive.\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Deception +11",
+  "Diplomacy +9",
+  "Nature +9",
+  "Performance +11",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Deception](/Skills.aspx?ID=5) +11, [Diplomacy](/Skills.aspx?ID=6) +9, [Nature](/Skills.aspx?ID=10) +9, [Performance](/Skills.aspx?ID=12) +11, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 106"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 106</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Illusory Disguise",
+  "Phantom Pain",
+  "Charm",
+  "Sanctuary",
+  "Sleep",
+  "Soothe",
+  "Daze",
+  "Forbidding Ward",
+  "Ghost Sound",
+  "Light",
+  "Mage Hand",
+  "Detect Poison",
+  "Goodberry",
+  "Purify Food and Drink"
+ ],
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Daze](/Spells.aspx?ID=61), [Detect Poison](/Spells.aspx?ID=67), [Forbidding Ward](/Spells.aspx?ID=126), [Ghost Sound](/Spells.aspx?ID=132), [Goodberry](/Spells.aspx?ID=473), [Illusory Disguise](/Spells.aspx?ID=159), [Light](/Spells.aspx?ID=171), [Mage Hand](/Spells.aspx?ID=177), [Phantom Pain](/Spells.aspx?ID=220), [Purify Food and Drink](/Spells.aspx?ID=241), [Sanctuary](/Spells.aspx?ID=266), [Sleep](/Spells.aspx?ID=288), [Soothe](/Spells.aspx?ID=291)",
+ "stealth": "6",
+ "strength": 0,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "This ghoran manipulator relies on charm to survive.",
+ "summary_markdown": "This ghoran manipulator relies on charm to survive.",
+ "text": " Ghoran Manipulator This ghoran manipulator relies on charm to survive. Recall Knowledge - Humanoid (Society): DC 23 Recall Knowledge - Plant (Nature): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Ghoran Manipulator Source Bestiary 3 pg. 106 Perception +9; low-light vision Languages Common, Sylvan Skills Deception +11, Diplomacy +9, Nature +9, Performance +11, Stealth +6 Str +0 Dex +1 Con +3 Int +0 Wis +2 Cha +4 Items Shortbow (20 arrows), Spear --- AC 18 Fort +8 Ref +8 Will +11 HP 45 Appetizing Aroma (aura, olfactory) 10 feet. A creature entering or starting its turn in the aura must attempt a DC 17 Will save. Creatures that don't eat are immune to Appetizing Aroma. Success The creature is unaffected and is temporarily immune for 1 hour. Failure The creature is distracted by a desire to consume the ghoran. For 1 round it becomes flat-footed and fascinated by the ghoran manipulator. Delicious Ghorans were originally created to be scrumptious food. A ghoran manipulator takes 5 additional damage from jaws Strikes, fangs Strikes, or other similar Strikes with a creature's mouth. When a ghoran manipulator is grabbed or restrained by a creature's jaws, fangs, or mouth, the DC to Escape is increased by 2. Anguished Cry Reaction (emotion, enchantment, mental) Trigger A humanoid enemy damages the ghoran manipulator with a melee attack; Effect The ghoran manipulator rearranges its facial petals and wails, mimicking humanoid anguish to engender sympathy. The triggering creature must attempt a DC 20 Will save. Success The target is unaffected and is temporarily immune for 1 hour. Failure The target takes a –2 circumstance penalty on attack rolls against the ghoran manipulator until the start of its next turn. Critical Failure As failure, and the target is stupefied 2 until the start of its next turn. --- Speed 25 feet Melee Single Action spear +7, Damage 1d6+2 piercing Ranged Single Action spear +8 (thrown 20 feet), Damage 1d6+2 piercing Ranged Single Action shortbow +8 (deadly d10, range increment 60 feet, reload 0), Damage 1d6+2 piercing Occult Spontaneous Spells DC 20 - Cantrips (2nd) Daze, Forbidding Ward, Ghost Sound, Light, Mage Hand - 1st Charm, Sanctuary, Sleep, Soothe (3 slots) - 2nd Illusory Disguise, Phantom Pain (2 slots) Primal Innate Spells DC 20 - 1st Goodberry, Purify Food and Drink - 2nd Detect Poison\n",
+ "trait": [
+  "Ghoran",
+  "Humanoid",
+  "Plant",
+  "Rare",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoran](/Traits.aspx?ID=352), [Humanoid](/Traits.aspx?ID=91), [Plant](/Traits.aspx?ID=125), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Ghoran",
+  "Humanoid",
+  "Plant",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1164",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 2
+}

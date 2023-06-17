@@ -1,0 +1,58 @@
+{
+ "ac": 18,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 18  Survival  (trained) to safely remove the mold",
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hazard_type": "Environmental",
+ "hp": 30,
+ "hp_raw": "30 (BT 15)",
+ "id": "hazard-35",
+ "immunity": [
+  "critical hits",
+  "fire",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, fire, object immunities, precision damage",
+ "level": 2,
+ "markdown": "<title level=\"1\" right=\"Hazard 2\" pfs=\"\">[Brown Mold](/Hazards.aspx?ID=35)</title>\r\n\r\n<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 77</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThis unassuming fungus leeches heat out of the air.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 21 (trained)\r\n\r\n**Disable**\r\nDC 18 [Survival](/Skills.aspx?ID=16) (trained) to safely remove the mold\r\n\r\n**Emit Cold** ([aura](/Traits.aspx?ID=206), [cold](/Traits.aspx?ID=27)); 5 feet. Brown mold deals 2d6 cold damage to nearby creatures.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**AC** 18, **Fort** +11, **Ref** +5\n\n**HP**\r\n30 (BT 15)\r\n\r\n**Immunities**\r\ncritical hits, fire, object immunities, precision damage\r\n\r\n**Weaknesses**\r\ncold 10\n\n</column>\r\n\r\n**Leech Warmth** <actions string=\"Reaction\" /> **Trigger** Fire comes within 5 feet of the brown mold; **Effect** The brown mold expands into every square adjacent to its space. As it grows, it pulls more heat from its surroundings, dealing 2d6+6 cold damage (DC 18 basic Fortitude save) to creatures within 10 feet after it expands.\n\n---\r\n**Reset**\r\nAfter expanding, the brown mold can’t grow again for 1 day.",
+ "name": "Brown Mold",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2020-02-26",
+ "reset": "After expanding, the brown mold can’t grow again for 1 day.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 77</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis unassuming fungus leeches heat out of the air.\r\n</summary>",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 77"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 77</row>",
+ "speed": {},
+ "stealth": "DC 21 (trained)",
+ "summary": "This unassuming fungus leeches heat out of the air.",
+ "summary_markdown": "This unassuming fungus leeches heat out of the air.",
+ "text": " Brown Mold Source Gamemastery Guide pg. 77 Complexity Simple This unassuming fungus leeches heat out of the air. --- Stealth DC 21 (trained) Disable DC 18 Survival (trained) to safely remove the mold Emit Cold (aura, cold); 5 feet. Brown mold deals 2d6 cold damage to nearby creatures. AC 18, Fort +11, Ref +5 HP 30 (BT 15) Immunities critical hits, fire, object immunities, precision damage Weaknesses cold 10 Leech Warmth Reaction Trigger Fire comes within 5 feet of the brown mold; Effect The brown mold expands into every square adjacent to its space. As it grows, it pulls more heat from its surroundings, dealing 2d6+6 cold damage (DC 18 basic Fortitude save) to creatures within 10 feet after it expands. --- Reset After expanding, the brown mold can’t grow again for 1 day.",
+ "trait": [
+  "Environmental",
+  "Fungus"
+ ],
+ "trait_markdown": "[Environmental](/Traits.aspx?ID=62), [Fungus](/Traits.aspx?ID=77)",
+ "trait_raw": [
+  "Environmental",
+  "Fungus"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=35",
+ "weakness": {
+  "cold": 10
+ },
+ "weakness_markdown": "cold 10",
+ "weakness_raw": "cold 10"
+}

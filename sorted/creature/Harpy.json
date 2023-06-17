@@ -1,0 +1,92 @@
+{
+ "ac": 22,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 0,
+ "creature_ability": [
+  "Captivating Song"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 68,
+ "hp_raw": "68",
+ "id": "creature-258",
+ "image": [
+  "/Images/Monsters/Harpy.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Harpy](/Monsters.aspx?ID=258)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHarpies are filthy amalgamations of human and bird, resembling feral humans with wings, talons, and mouths full of sharp teeth. They use captivating songs to lure creatures in, then murder them while they stand transfixed. They enjoy causing confusion and fear in their prey before they strike, believing it creates a savory flavor in the flesh. Harpies can eat most creatures but strongly prefer sapient prey—humans and elves are their favorite. Although harpies will eat goblins if sufficiently hungry, they dislike their flavor and avoid eating them if possible. This doesn’t comfort goblins, of course, who have a particularly strong fear of harpies. Because their aeries often reek with the gore of their kills and careless spatters of guano, harpies carry a distinctly vile scent that canny travelers associate with danger. Harpies who roost close to civilization make better efforts to keep clean, though these efforts have mixed results.\n\n Harpies live in family groups or larger clans. They are lightweight despite their size, standing 5 feet tall and weighing only around 90 pounds. While most use relatively simple weapons, some harpies take pride in learning and mastering the use of more complex tools of war such as swords and slings. Those who master the use of the bow, in particular, are often regarded as heroes among their kind and terrors among their victims.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Harpy.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Harpy](/Monsters.aspx?ID=258)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 204</row>\n\n**Perception** +12; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Deception](/Skills.aspx?ID=5) +13, [Intimidation](/Skills.aspx?ID=7) +11, [Performance](/Skills.aspx?ID=12) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +4\r\n\r\n**Con** +0\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Club](/Weapons.aspx?ID=2)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 68\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclub +12,\r\n**Damage** 1d6+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +15 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+4 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nclub +15 ([thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+4 bludgeoning\n\n**Captivating Song** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 21 Will save to avoid becoming captivated by the harpy’s song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours.<br /> **Success** The creature is unaffected.<br /> **Failure** The creature is [fascinated](/Conditions.aspx?ID=14), and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn’t act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy’s turn.<br /> **Critical Failure** As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy’s turn.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Harpy Exiles</title>\r\n\r\nMost harpies are cruel and sadistic, but now and then a harpy manages to escape from its family and becomes exposed to the wider world. Eyes opened, these harpy exiles are almost always more mild-mannered, cleanly, and open to non-combat interactions.\r\n</aside>",
+ "name": "Harpy",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 204</row>\n\n<row gap=\"medium\">\r\n**HP** 68\r\n\r\n**AC** 22\r\n\r\n**Fort** +9\r\n\r\n**Ref** +15\r\n\r\n**Will** +12\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHarpies are filthy amalgamations of human and bird, resembling feral humans with wings, talons, and mouths full of sharp teeth. They use captivating …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Deception +13",
+  "Intimidation +11",
+  "Performance +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Deception](/Skills.aspx?ID=5) +13, [Intimidation](/Skills.aspx?ID=7) +11, [Performance](/Skills.aspx?ID=12) +14",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 204"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 204</row>",
+ "speed": {
+  "fly": 60,
+  "land": 20,
+  "max": 60
+ },
+ "speed_markdown": "20 feet, fly 60 feet",
+ "speed_raw": "20 feet, fly 60 feet",
+ "spell_markdown": "",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Harpies are filthy amalgamations of human and bird, resembling feral humans with wings, talons, and mouths full of sharp teeth. They use captivating …",
+ "summary_markdown": "Harpies are filthy amalgamations of human and bird, resembling feral humans with wings, talons, and mouths full of sharp teeth. They use captivating …",
+ "text": " Harpy Harpies are filthy amalgamations of human and bird, resembling feral humans with wings, talons, and mouths full of sharp teeth. They use captivating songs to lure creatures in, then murder them while they stand transfixed. They enjoy causing confusion and fear in their prey before they strike, believing it creates a savory flavor in the flesh. Harpies can eat most creatures but strongly prefer sapient prey—humans and elves are their favorite. Although harpies will eat goblins if sufficiently hungry, they dislike their flavor and avoid eating them if possible. This doesn’t comfort goblins, of course, who have a particularly strong fear of harpies. Because their aeries often reek with the gore of their kills and careless spatters of guano, harpies carry a distinctly vile scent that canny travelers associate with danger. Harpies who roost close to civilization make better efforts to keep clean, though these efforts have mixed results. Harpies live in family groups or larger clans. They are lightweight despite their size, standing 5 feet tall and weighing only around 90 pounds. While most use relatively simple weapons, some harpies take pride in learning and mastering the use of more complex tools of war such as swords and slings. Those who master the use of the bow, in particular, are often regarded as heroes among their kind and terrors among their victims. Recall Knowledge - Humanoid (Society): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Harpy Source Bestiary pg. 204 Perception +12; darkvision Languages Common Skills Acrobatics +13, Deception +13, Intimidation +11, Performance +14 Str +1 Dex +4 Con +0 Int -1 Wis +1 Cha +4 Items Club --- AC 22 Fort +9 Ref +15 Will +12 HP 68 --- Speed 20 feet, fly 60 feet Melee Single Action club +12, Damage 1d6+4 bludgeoning Melee Single Action talon +15 (Agile, Finesse), Damage 2d6+4 slashing Ranged Single Action club +15 (thrown 10 feet), Damage 1d6+4 bludgeoning Captivating Song Single Action (Auditory, Concentrate, Enchantment, Incapacitation, Mental, Primal) The harpy cries out an eerie, compelling melody. Each non-harpy creature within a 300-foot aura must attempt a DC 21 Will save to avoid becoming captivated by the harpy’s song. The effect lasts for 1 round, but if the harpy uses this ability again on subsequent rounds, it extends the duration by 1 round for all affected creatures. Once a creature succeeds at any save against Captivating Song, that creature is temporarily immune to Captivating Songs for 24 hours. Success The creature is unaffected. Failure The creature is fascinated, and it must spend each of its actions to move closer to the harpy as expediently as possible, while avoiding obvious dangers. If a captivated creature is adjacent to the harpy, it stays still and doesn’t act. If attacked by the harpy, the creature is freed from captivation at the end of the harpy’s turn. Critical Failure As failure, but if attacked by the harpy, the creature can attempt a new save at the start of its next turn, rather than being freed at the end of the harpy’s turn. Harpy Exiles Most harpies are cruel and sadistic, but now and then a harpy manages to escape from its family and becomes exposed to the wider world. Eyes opened, these harpy exiles are almost always more mild-mannered, cleanly, and open to non-combat interactions. ",
+ "trait": [
+  "Humanoid",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=258",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 1
+}

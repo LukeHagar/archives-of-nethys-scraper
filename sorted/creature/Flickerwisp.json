@@ -1,0 +1,107 @@
+{
+ "ac": 20,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 0,
+ "creature_ability": [
+  "Glow",
+  "Innocuous",
+  "Magic Immunity",
+  "Consume Confusion",
+  "Flicker"
+ ],
+ "creature_family": "Wisp",
+ "creature_family_markdown": "[Wisp](/MonsterFamilies.aspx?ID=210)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 18,
+ "hp_raw": "18",
+ "id": "creature-1036",
+ "image": [
+  "/Images/Monsters/Wisp_Flickerwisp.png"
+ ],
+ "immunity": [
+  "magic"
+ ],
+ "immunity_markdown": "magic",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Flickerwisp](/Monsters.aspx?ID=1036)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe dancing, twisting flickerwisp is a less powerful but no less malevolent type of [will-o'-wisp](/Monsters.aspx?ID=414). Like their more dangerous kin, flickerwisps prefer to haunt lonely swamps or stretches of lonely rivers or creeks, particularly near the shorelines where they can pass themselves off as nothing more than a small gathering of fireflies. A flickerwisp's body is a 3-foot-long length of hair-like fibers that flashes and pulses with ribbons and points of eerie yellow light as the creature flits through the air.\n\n While a flickerwisp can taste fear, and finds the flavor delectable, it does not feed on this emotion. Instead, flickerwisps subsist on confusion and doubt. The sense of unease a traveler exudes when they become lost in the woods is flickerwisps' favorite repast. They can sip from this sense of disorientation without betraying their presence or harming their prey. Eventually, the flickerwisps grow too hungry and are compelled to flit closer, confuse their prey, and glut on the raw emotions. Flickerwisps do their best to swoop away before death occurs, and the most skilled of these tormentors can keep a chosen meal alive for days, sipping from confusion in small doses.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Wisp_Flickerwisp.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Flickerwisp](/Monsters.aspx?ID=1036)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #163: Ruins of Gauntlight](/Sources.aspx?ID=71) pg. 83</row>\n\n**Perception** +9; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Deception](/Skills.aspx?ID=5) +7, [Intimidation](/Skills.aspx?ID=7) +5, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +4\r\n\r\n**Con** +0\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 18\n\n**Immunities**\r\nmagic\n\n**Glow** ([aura](/Traits.aspx?ID=206), [light](/Traits.aspx?ID=100)) 5 feet. A flickerwisp is itself naturally invisible, but glows with pale yellow light, casting bright light in the aura and making it visible. <br />**Innocuous** A flickerwisp's appearance registers strangely in the minds of creatures who are [confused](/Conditions.aspx?ID=5). A creature with the confused condition never targets a flickerwisp with attacks unless the creature has been damaged by the flickerwisp's shock ability within the last 24 hours.<br />**Magic Immunity** A flickerwisp is immune to all spells except [_faerie fire_](/Spells.aspx?ID=107), [_gust of wind_](/Spells.aspx?ID=143), [_magic missile_](/Spells.aspx?ID=180), and [_maze_](/Spells.aspx?ID=187).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshock +11 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d8+2 electricity\n\n**Consume Confusion** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) **Frequency** once per round; **Requirement** A creature within 15 feet of the flickerwisp is [confused](/Conditions.aspx?ID=5); **Effect** The flickerwisp feeds on the creature's confusion, even as its flashing body and disjointed gyrations cause existing confusion effects to persist. It regains 1d4 Hit Points, and if the creature's confused condition has a limited duration, it lasts 1 additional round.\r\n\r\n**Flicker** <actions string=\"Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) The flickerwisp churns and flits in the air around an adjacent creature's head, and its length flashes and sparkles in a bewildering array of distracting pulsations. The creature must succeed at a DC 18 Will save or become [confused](/Conditions.aspx?ID=5) for 1 round (2 rounds on a critical failure). On a critical success, the creature is temporarily immune to Flicker for 24 hours.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Empty Caresses</title>\r\n\r\nJust as the cult of Nhimbaloth regards [will-o'-wisp](/Monsters.aspx?ID=414)s as their goddess's eyes, their teachings hold that flickerwisps are the gentle caress of her touch. To them, the confusion imposed by a flickerwisp is akin to opening the mind to the goddess's presence, and many cultists of the faith keep flickerwisps around to use in much the same way other faiths use incense or intoxicants to achieve deeper religious ecstasies.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-210\" />",
+ "name": "Flickerwisp",
+ "npc": false,
+ "perception": 9,
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2021-01-15",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #163: Ruins of Gauntlight](/Sources.aspx?ID=71) pg. 83</row>\r\n\r\n**Creature Family** [Wisp](/MonsterFamilies.aspx?ID=210)\r\n\r\n<row gap=\"medium\">\r\n**HP** 18\r\n\r\n**AC** 20\r\n\r\n**Fort** +6\r\n\r\n**Ref** +10\r\n\r\n**Will** +7\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe dancing, twisting flickerwisp is a less powerful but no less malevolent type of  will-o'-wisp . Like their more dangerous kin, flickerwisps …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Deception +7",
+  "Intimidation +5",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Deception](/Skills.aspx?ID=5) +7, [Intimidation](/Skills.aspx?ID=7) +5, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Pathfinder #163: Ruins of Gauntlight"
+ ],
+ "source_raw": [
+  "Pathfinder #163: Ruins of Gauntlight pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #163: Ruins of Gauntlight](/Sources.aspx?ID=71) pg. 83</row>",
+ "speed": {
+  "fly": 25,
+  "max": 25
+ },
+ "speed_markdown": "fly 25 feet",
+ "speed_raw": "fly 25 feet",
+ "spell_markdown": "",
+ "spoilers": "Abomination Vaults",
+ "stealth": "8",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The dancing, twisting flickerwisp is a less powerful but no less malevolent type of  will-o'-wisp . Like their more dangerous kin, flickerwisps …",
+ "summary_markdown": "The dancing, twisting flickerwisp is a less powerful but no less malevolent type of  will-o'-wisp . Like their more dangerous kin, flickerwisps …",
+ "text": " Flickerwisp The dancing, twisting flickerwisp is a less powerful but no less malevolent type of will-o'-wisp. Like their more dangerous kin, flickerwisps prefer to haunt lonely swamps or stretches of lonely rivers or creeks, particularly near the shorelines where they can pass themselves off as nothing more than a small gathering of fireflies. A flickerwisp's body is a 3-foot-long length of hair-like fibers that flashes and pulses with ribbons and points of eerie yellow light as the creature flits through the air. While a flickerwisp can taste fear, and finds the flavor delectable, it does not feed on this emotion. Instead, flickerwisps subsist on confusion and doubt. The sense of unease a traveler exudes when they become lost in the woods is flickerwisps' favorite repast. They can sip from this sense of disorientation without betraying their presence or harming their prey. Eventually, the flickerwisps grow too hungry and are compelled to flit closer, confuse their prey, and glut on the raw emotions. Flickerwisps do their best to swoop away before death occurs, and the most skilled of these tormentors can keep a chosen meal alive for days, sipping from confusion in small doses. Recall Knowledge - Aberration (Occultism): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Flickerwisp Source Pathfinder #163: Ruins of Gauntlight pg. 83 Perception +9; darkvision Languages Aklo, Common Skills Acrobatics +8, Deception +7, Intimidation +5, Stealth +8 Str -5 Dex +4 Con +0 Int +0 Wis +3 Cha +1 --- AC 20 Fort +6 Ref +10 Will +7 HP 18 Immunities magic Glow (aura, light) 5 feet. A flickerwisp is itself naturally invisible, but glows with pale yellow light, casting bright light in the aura and making it visible. Innocuous A flickerwisp's appearance registers strangely in the minds of creatures who are confused. A creature with the confused condition never targets a flickerwisp with attacks unless the creature has been damaged by the flickerwisp's shock ability within the last 24 hours. Magic Immunity A flickerwisp is immune to all spells except faerie fire , gust of wind , magic missile , and maze . --- Speed fly 25 feet Melee Single Action shock +11 (Magical), Damage 1d8+2 electricity Consume Confusion Single Action (Concentrate) Frequency once per round; Requirement A creature within 15 feet of the flickerwisp is confused; Effect The flickerwisp feeds on the creature's confusion, even as its flashing body and disjointed gyrations cause existing confusion effects to persist. It regains 1d4 Hit Points, and if the creature's confused condition has a limited duration, it lasts 1 additional round. Flicker Two Actions (Emotion, Enchantment, Mental, Visual) The flickerwisp churns and flits in the air around an adjacent creature's head, and its length flashes and sparkles in a bewildering array of distracting pulsations. The creature must succeed at a DC 18 Will save or become confused for 1 round (2 rounds on a critical failure). On a critical success, the creature is temporarily immune to Flicker for 24 hours. Empty Caresses Just as the cult of Nhimbaloth regards will-o'-wisps as their goddess's eyes, their teachings hold that flickerwisps are the gentle caress of her touch. To them, the confusion imposed by a flickerwisp is akin to opening the mind to the goddess's presence, and many cultists of the faith keep flickerwisps around to use in much the same way other faiths use incense or intoxicants to achieve deeper religious ecstasies. ",
+ "trait": [
+  "Aberration",
+  "Air",
+  "Uncommon",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Air](/Traits.aspx?ID=5), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Air",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1036",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 3
+}

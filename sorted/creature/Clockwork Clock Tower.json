@@ -1,0 +1,125 @@
+{
+ "ac": 48,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 7,
+ "creature_ability": [
+  "Wind-Up",
+  "Durable Exterior",
+  "Doleful Tolling",
+  "Overclock",
+  "Stutter Time",
+  "Trample"
+ ],
+ "creature_family": "Clockworks",
+ "creature_family_markdown": "[Clockworks](/MonsterFamilies.aspx?ID=223)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 36,
+ "hp": 325,
+ "hp_raw": "325",
+ "id": "creature-1795",
+ "image": [
+  "/Images/Monsters/ClockworkClockTower.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"\">[Clockwork Clock Tower](/Monsters.aspx?ID=1795)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nClockworks are machines built by engineers and augmented with magic. A clock tower reconfigured as an animated clockwork can rotate slices of time.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 45\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 43\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 40\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ClockworkClockTower.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Clockwork Clock Tower](/Monsters.aspx?ID=1795)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 81</row>\n\n**Perception** +34; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +38\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +6\r\n\r\n**Con** +7\r\n\r\n**Int** -5\r\n\r\n**Wis** +6\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Wind-Up** 1 week, DC 40\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 48 \r\n\r\n**Fort** +36 \r\n\r\n**Ref** +33 \r\n\r\n**Will** +31 \n\n</row>\r\n\r\n**HP** 325\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nphysical 20 (except [adamantine](/Equipment.aspx?ID=374) or orichalcum)\r\n\r\n**Weaknesses**\r\n[electricity](/Traits.aspx?ID=56) 20, [orichalcum](/Equipment.aspx?ID=378) 20\r\n\r\n**Durable Exterior** When a clockwork clock tower is reduced to fewer than 200 HP or is damaged by a critical hit, its exterior shatters to reveal internal mechanisms, reducing its AC to 44 until it recovers enough HP to reach 200 HP or more.<br />**Doleful Tolling** <actions string=\"Free Action\" /> ([arcane](/Traits.aspx?ID=11), [auditory](/Traits.aspx?ID=16), [incapacitation](/Traits.aspx?ID=93)) **Trigger** The clockwork clock tower rolls initiative; **Effect** The clock tower chimes, and all non-clockwork creatures within 300 feet who can hear it must succeed at a DC 42 Will save or be [slowed 1](/Conditions.aspx?ID=35) for 1 round (slowed 2 on a critical failure).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +36 ([reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+18 bludgeoning plus stutter time\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +36 ([Agile](/Traits.aspx?ID=170), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+18 bludgeoning\n\n**Overclock** <actions string=\"Single Action\" />  The clockwork clock tower loses 1 day from its winding time and becomes [quickened](/Conditions.aspx?ID=32) for 3 rounds. It can use this extra action to Step, Stride, or Strike. This quickened condition ends immediately if the clock tower is damaged by [orichalcum](/Equipment.aspx?ID=378).\r\n\r\n**Stutter Time**  ([Arcane](/Traits.aspx?ID=11), [Incapacitation](/Traits.aspx?ID=93), [Transmutation](/Traits.aspx?ID=157)) A creature struck by a clockwork clock tower's fist must make a DC 40 Will save as time flows unevenly around it.<br /> **Critical Success** The creature is [quickened](/Conditions.aspx?ID=32) for 1 round and can use this extra action to Step, Stride, or Strike.<br /> **Success** The creature is unaffected.<br /> **Failure** The creature is [stunned 3](/Conditions.aspx?ID=36).<br /> **Critical Failure** The creature is knocked out of time, which ceases to flow around the creature for 1 round. It is invulnerable to all damage, it can't be targeted or affected by anything, and no rounds elapse for any timed durations, conditions, afflictions, and other effects it has. The target can't act and remains fixed in place, defying gravity if applicable. After time begins to flow again for it, the creature is stunned 3.\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" /> ([Attack](/Traits.aspx?ID=15)) Huge or smaller, foot, DC 42\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Enemies Across Time</title>\r\n\r\nEngineers who develop clockwork clock towers often draw unwelcome attention from creatures who protect the flow of time and don't like mortal machines meddling with it. These inventors might be attacked by [hounds of Tindalos](/Monsters.aspx?ID=702) or even [ravagers of Tindalos](/Monsters.aspx?ID=1717).\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-223\" />",
+ "name": "Clockwork Clock Tower",
+ "npc": false,
+ "perception": 34,
+ "rarity": "rare",
+ "reflex_save": 33,
+ "release_date": "2022-03-30",
+ "resistance": {
+  "bludgeoning": 20,
+  "physical": 20,
+  "piercing": 20,
+  "slashing": 20
+ },
+ "resistance_markdown": "physical 20 (except [adamantine](/Equipment.aspx?ID=374) or orichalcum)",
+ "resistance_raw": "physical 20 (except  adamantine  or orichalcum)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 81</row>\r\n\r\n**Creature Family** [Clockworks](/MonsterFamilies.aspx?ID=223)\r\n\r\n<row gap=\"medium\">\r\n**HP** 325\r\n\r\n**AC** 48\r\n\r\n**Fort** +36\r\n\r\n**Ref** +33\r\n\r\n**Will** +31\r\n\r\n**Perception** +34\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nClockworks are machines built by engineers and augmented with magic. A clock tower reconfigured as an animated clockwork can rotate slices of time.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +38"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +38",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 81"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 81</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Clockworks are machines built by engineers and augmented with magic. A clock tower reconfigured as an animated clockwork can rotate slices of time.",
+ "summary_markdown": "Clockworks are machines built by engineers and augmented with magic. A clock tower reconfigured as an animated clockwork can rotate slices of time.",
+ "text": " Clockwork Clock Tower Clockworks are machines built by engineers and augmented with magic. A clock tower reconfigured as an animated clockwork can rotate slices of time. Recall Knowledge - Construct (Arcana, Crafting): DC 45 Unspecific Lore : DC 43 Specific Lore : DC 40 Clockwork Clock Tower Source Pathfinder #174: Shadows of the Ancients pg. 81 Perception +34; darkvision Languages Skills Athletics +38 Str +10 Dex +6 Con +7 Int -5 Wis +6 Cha -5 Wind-Up 1 week, DC 40 --- AC 48 Fort +36 Ref +33 Will +31 HP 325 Immunities death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances physical 20 (except adamantine or orichalcum) Weaknesses electricity 20, orichalcum 20 Durable Exterior When a clockwork clock tower is reduced to fewer than 200 HP or is damaged by a critical hit, its exterior shatters to reveal internal mechanisms, reducing its AC to 44 until it recovers enough HP to reach 200 HP or more. Doleful Tolling Free Action (arcane, auditory, incapacitation) Trigger The clockwork clock tower rolls initiative; Effect The clock tower chimes, and all non-clockwork creatures within 300 feet who can hear it must succeed at a DC 42 Will save or be slowed 1 for 1 round (slowed 2 on a critical failure). --- Speed 40 feet Melee Single Action fist +36 (reach 30 feet), Damage 4d12+18 bludgeoning plus stutter time Melee Single Action foot +36 (Agile, reach 20 feet), Damage 4d8+18 bludgeoning Overclock Single Action The clockwork clock tower loses 1 day from its winding time and becomes quickened for 3 rounds. It can use this extra action to Step, Stride, or Strike. This quickened condition ends immediately if the clock tower is damaged by orichalcum. Stutter Time (Arcane, Incapacitation, Transmutation) A creature struck by a clockwork clock tower's fist must make a DC 40 Will save as time flows unevenly around it. Critical Success The creature is quickened for 1 round and can use this extra action to Step, Stride, or Strike. Success The creature is unaffected. Failure The creature is stunned 3. Critical Failure The creature is knocked out of time, which ceases to flow around the creature for 1 round. It is invulnerable to all damage, it can't be targeted or affected by anything, and no rounds elapse for any timed durations, conditions, afflictions, and other effects it has. The target can't act and remains fixed in place, defying gravity if applicable. After time begins to flow again for it, the creature is stunned 3. Trample Three Actions (Attack) Huge or smaller, foot, DC 42 Enemies Across Time Engineers who develop clockwork clock towers often draw unwelcome attention from creatures who protect the flow of time and don't like mortal machines meddling with it. These inventors might be attacked by hounds of Tindalos or even ravagers of Tindalos. ",
+ "trait": [
+  "Clockwork",
+  "Construct",
+  "Mindless",
+  "Rare",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Clockwork](/Traits.aspx?ID=331), [Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Clockwork",
+  "Construct",
+  "Mindless",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1795",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "electricity": 20,
+  "orichalcum": 20
+ },
+ "weakness_markdown": "[electricity](/Traits.aspx?ID=56) 20, [orichalcum](/Equipment.aspx?ID=378) 20",
+ "weakness_raw": " electricity  20,  orichalcum  20",
+ "will_save": 31,
+ "wisdom": 6
+}

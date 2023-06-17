@@ -1,0 +1,113 @@
+{
+ "ac": 27,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 5,
+ "creature_ability": [
+  "Motion Sense",
+  "Pseudopod Burst",
+  "Rallying Call",
+  "Stretching Step",
+  "Subsume"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 320,
+ "hp_raw": "320",
+ "id": "creature-2490",
+ "immunity": [
+  "acid",
+  "critical hits",
+  "piercing",
+  "precision",
+  "slashing",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "[acid](/Traits.aspx?ID=3), critical hits, piercing, precision, slashing, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -3,
+ "language": [
+  "Aklo"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tyrroicese](/Monsters.aspx?ID=2490)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 37\r\n\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Tyrroicese](/Monsters.aspx?ID=2490)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 40</row>\n\n**Perception** +16; motion sense 60 feet, no vision\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Dark Tapestry Lore](/Skills.aspx?ID=8) +15, [Religion](/Skills.aspx?ID=13) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** -3\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Motion Sense** Tyrroicese can sense nearby motion through vibration and air movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 320\n\n**Immunities**\r\n[acid](/Traits.aspx?ID=3), critical hits, piercing, precision, slashing, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\r\n\r\n**Resistances**\r\nevil 10\r\n\r\n**Weaknesses**\r\ngood 10\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +23 ([Acid](/Traits.aspx?ID=3), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 2d10+13 bludgeoning plus 1d6 acid\n\n**Pseudopod Burst** <actions string=\"Two Actions\" />  Tyrroicese makes up to three pseudopod strikes, each against a different creature. Tyrroicese's multiple attack penalty doesn't increase until after all these attacks are made.\r\n\r\n**Rallying Call** <actions string=\"Single Action\" /> ([Occult](/Traits.aspx?ID=120)) When Tyrroicese subsumed Corporal Quordein, it gained a perverted form of the commander's ability to rally allies. The first time Tyrroicese uses this ability, it summons an [ochre jelly](/Monsters.aspx?ID=322), which leaks out of the ceiling of area D13 and drops to the floor to join the fight, siding with Tyrroicese. Thereafter, when Tyrroicese uses this ability, any oozes within 60 feet become [quickened](/Conditions.aspx?ID=32) for 1 round (the oozes can use their extra action only to Stride) and, if they're not allied with the agents, the oozes ally themselves with Tyrroicese.\r\n\r\n**Stretching Step** <actions string=\"Free Action\" /> ([Move](/Traits.aspx?ID=114)) **Frequency** once per round; **Effect** Tyrroicese forcefully extends a sticky pseudopod, plants it on a wall within 45 feet, and retracts the muscle. Tyrroicese springs over to a space adjacent to the wall, moving through the intervening squares as normal but ignoring any difficult or greater difficult terrain.\r\n\r\n**Subsume** <actions string=\"Single Action\" /> ([Incapacitation](/Traits.aspx?ID=93)) Tyrroicese lifts an adjacent [dying](/Conditions.aspx?ID=11) creature with its pseudopods and subsumes that creature into its own oozy flesh. The subsumed creature's dying value does not increase, though it can't decrease either. Tyrroicese regains 30 HP and also gains the ability to use one or two of the subsumed creature's special abilities or feats, subject to the GM's discretion. A creature adjacent to Tyrroicese can extract a subsumed creature by spending 2 actions to attempt a DC 29 [Athletics](/Skills.aspx?ID=3) check. On a success, the subsumed creature is pulled from Tyrroicese and falls into the nearest available space.\r\n\r\n</column>",
+ "name": "Tyrroicese",
+ "npc": false,
+ "perception": 16,
+ "rarity": "unique",
+ "reflex_save": 14,
+ "release_date": "2020-08-26",
+ "resistance": {
+  "evil": 10
+ },
+ "resistance_markdown": "evil 10",
+ "resistance_raw": "evil 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 40</row>\n\n<row gap=\"medium\">\r\n**HP** 320\r\n\r\n**AC** 27\r\n\r\n**Fort** +21\r\n\r\n**Ref** +14\r\n\r\n**Will** +19\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Dark Tapestry Lore +15",
+  "Religion +18"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Dark Tapestry Lore](/Skills.aspx?ID=8) +15, [Religion](/Skills.aspx?ID=13) +18",
+ "source": [
+  "Pathfinder #158: Sixty Feet Under"
+ ],
+ "source_raw": [
+  "Pathfinder #158: Sixty Feet Under pg. 40"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 40</row>",
+ "speed": {
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet",
+ "speed_raw": "15 feet",
+ "spell_markdown": "",
+ "spoilers": "Agents of Edgewatch",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "",
+ "summary_markdown": "",
+ "text": " Tyrroicese Recall Knowledge - Construct (Arcana, Crafting): DC 37 Recall Knowledge - Ooze (Occultism): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Tyrroicese Source Pathfinder #158: Sixty Feet Under pg. 40 Perception +16; motion sense 60 feet, no vision Languages Aklo Skills Athletics +23, Dark Tapestry Lore +15, Religion +18 Str +7 Dex +2 Con +5 Int -3 Wis +3 Cha +4 Motion Sense Tyrroicese can sense nearby motion through vibration and air movement. --- AC 27 Fort +21 Ref +14 Will +19 HP 320 Immunities acid, critical hits, piercing, precision, slashing, unconscious, visual Resistances evil 10 Weaknesses good 10 --- Speed 15 feet Melee Single Action pseudopod +23 (Acid, Magical, reach 15 feet, versatile P), Damage 2d10+13 bludgeoning plus 1d6 acid Pseudopod Burst Two Actions Tyrroicese makes up to three pseudopod strikes, each against a different creature. Tyrroicese's multiple attack penalty doesn't increase until after all these attacks are made. Rallying Call Single Action (Occult) When Tyrroicese subsumed Corporal Quordein, it gained a perverted form of the commander's ability to rally allies. The first time Tyrroicese uses this ability, it summons an ochre jelly, which leaks out of the ceiling of area D13 and drops to the floor to join the fight, siding with Tyrroicese. Thereafter, when Tyrroicese uses this ability, any oozes within 60 feet become quickened for 1 round (the oozes can use their extra action only to Stride) and, if they're not allied with the agents, the oozes ally themselves with Tyrroicese. Stretching Step Free Action (Move) Frequency once per round; Effect Tyrroicese forcefully extends a sticky pseudopod, plants it on a wall within 45 feet, and retracts the muscle. Tyrroicese springs over to a space adjacent to the wall, moving through the intervening squares as normal but ignoring any difficult or greater difficult terrain. Subsume Single Action (Incapacitation) Tyrroicese lifts an adjacent dying creature with its pseudopods and subsumes that creature into its own oozy flesh. The subsumed creature's dying value does not increase, though it can't decrease either. Tyrroicese regains 30 HP and also gains the ability to use one or two of the subsumed creature's special abilities or feats, subject to the GM's discretion. A creature adjacent to Tyrroicese can extract a subsumed creature by spending 2 actions to attempt a DC 29 Athletics check. On a success, the subsumed creature is pulled from Tyrroicese and falls into the nearest available space. ",
+ "trait": [
+  "Construct",
+  "Ooze",
+  "Unique",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Ooze](/Traits.aspx?ID=122), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Construct",
+  "Ooze",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2490",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "good": 10
+ },
+ "weakness_markdown": "good 10",
+ "weakness_raw": "good 10",
+ "will_save": 19,
+ "wisdom": 3
+}

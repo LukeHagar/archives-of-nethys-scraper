@@ -1,0 +1,107 @@
+{
+ "ac": 16,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 3,
+ "creature_ability": [
+  "Slow",
+  "Ground Slam",
+  "Horrifying Screech"
+ ],
+ "creature_family": "Zombie",
+ "creature_family_markdown": "[Zombie](/MonsterFamilies.aspx?ID=103)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 85,
+ "hp_raw": "85 ( negative healing )",
+ "id": "creature-1920",
+ "image": [
+  "/Images/Monsters/Zombie_ZombieOwlbear.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Zombie Owlbear](/Monsters.aspx?ID=1920)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nZombie owlbears combine an [owlbear's](/Monsters.aspx?ID=328) ferocity with mindless undead hatred. Once it draws near, it often stands up, unleashing a guttural, wet roar, before charging into combat without thought of self-preservation.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Zombie_ZombieOwlbear.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Zombie Owlbear](/Monsters.aspx?ID=1920)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 171</row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +0\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -3\r\n</row>\r\n\r\n**Slow** A zombie owlbear is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 85\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 10, slashing 10\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +12,\r\n**Damage** 1d10+7 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +12,\r\n**Damage** 1d12+7 piercing\n\n**Ground Slam** <actions string=\"Two Actions\" /> ([Attack](/Traits.aspx?ID=15)) **Requirements** The zombie owlbear has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) with its talons; **Effect** The zombie owlbear repeatedly slams the creature into the ground. This deals 1d10+7 bludgeoning damage (DC 20 [basic](/Rules.aspx?ID=329) Fortitude save). On a critical failure, the creature is [stunned 1](/Conditions.aspx?ID=36), and on a critical success the creature is no longer grabbed or restrained.\r\n\r\n**Horrifying Screech** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The zombie owlbear unleashes a broken, snarling screech that unnerves those who hear it. Each creature in a 60-foot emanation must attempt a DC 19 Will save. Regardless of the result, creatures are temporarily immune for 1 minute.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature is [frightened 1](/Conditions.aspx?ID=19).<br /> **Failure** The creature is frightened 2.<br /> **Critical Failure** The creature is [fleeing](/Conditions.aspx?ID=17) for 1 round and frightened 3.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-103\" />",
+ "name": "Zombie Owlbear",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 171</row>\r\n\r\n**Creature Family** [Zombie](/MonsterFamilies.aspx?ID=103)\r\n\r\n<row gap=\"medium\">\r\n**HP** 85 ( negative healing )\r\n\r\n**AC** 16\r\n\r\n**Fort** +8\r\n\r\n**Ref** +5\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nZombie owlbears combine an  owlbear's  ferocity with mindless undead hatred. Once it draws near, it often stands up, unleashing a guttural, wet roar, …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +5",
+  "Athletics +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +12",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 171"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 171</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Zombie owlbears combine an  owlbear's  ferocity with mindless undead hatred. Once it draws near, it often stands up, unleashing a guttural, wet roar, …",
+ "summary_markdown": "Zombie owlbears combine an  owlbear's  ferocity with mindless undead hatred. Once it draws near, it often stands up, unleashing a guttural, wet roar, …",
+ "text": " Zombie Owlbear Zombie owlbears combine an owlbear's ferocity with mindless undead hatred. Once it draws near, it often stands up, unleashing a guttural, wet roar, before charging into combat without thought of self-preservation. Recall Knowledge - Undead (Religion): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Zombie Owlbear Source Book of the Dead pg. 171 Perception +8; darkvision Languages Skills Acrobatics +5, Athletics +12 Str +4 Dex +0 Con +3 Int -5 Wis +1 Cha -3 Slow A zombie owlbear is permanently slowed 1 and can't use reactions. --- AC 16 Fort +8 Ref +5 Will +6 HP 85 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, unconscious Weaknesses positive 10, slashing 10 --- Speed 25 feet Melee Single Action talon +12, Damage 1d10+7 piercing plus Grab Melee Single Action beak +12, Damage 1d12+7 piercing Ground Slam Two Actions (Attack) Requirements The zombie owlbear has a creature grabbed or restrained with its talons; Effect The zombie owlbear repeatedly slams the creature into the ground. This deals 1d10+7 bludgeoning damage (DC 20 basic Fortitude save). On a critical failure, the creature is stunned 1, and on a critical success the creature is no longer grabbed or restrained. Horrifying Screech Single Action (Auditory, Emotion, Fear, Mental) The zombie owlbear unleashes a broken, snarling screech that unnerves those who hear it. Each creature in a 60-foot emanation must attempt a DC 19 Will save. Regardless of the result, creatures are temporarily immune for 1 minute. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure The creature is fleeing for 1 round and frightened 3. ",
+ "trait": [
+  "Mindless",
+  "Undead",
+  "Zombie",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Undead](/Traits.aspx?ID=160), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Mindless",
+  "Undead",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1920",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "positive": 10,
+  "slashing": 10
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 10, slashing 10",
+ "weakness_raw": " positive  10, slashing 10",
+ "will_save": 6,
+ "wisdom": 1
+}

@@ -1,0 +1,140 @@
+{
+ "ac": 22,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 0,
+ "creature_ability": [
+  "Site Bound",
+  "Natural Invisibility",
+  "Rejuvenation",
+  "Telekinetic Defense",
+  "Frighten",
+  "Telekinetic Storm"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 55,
+ "hp_raw": "55 (rejuvenation)",
+ "id": "creature-334",
+ "image": [
+  "/Images/Monsters/Poltergeist.png"
+ ],
+ "immunity": [
+  "death effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "death effects, disease, paralyzed, poison, precision, unconscious",
+ "intelligence": -1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Poltergeist](/Monsters.aspx?ID=334)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen a creature dies, and for whatever reason its spirit is unable or unwilling to leave the site of its death, that spirit may manifest as a poltergeist: a restless invisible spirit that is still able to manipulate physical objects. Many poltergeists perished in a way that resulted from or has led to extreme emotional trauma.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 20\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Poltergeist.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Poltergeist](/Monsters.aspx?ID=334)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 264</row>\n\n**Perception** +11; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Intimidation](/Skills.aspx?ID=7) +15, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +5\r\n\r\n**Con** +0\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Site Bound** A poltergeist is tied to a location and can’t travel more than 120 feet from the place where it was created or formed. Some poltergeists are instead bound to a specific room, building, or similar area\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 55\r\n(rejuvenation)\n\n**Immunities**\r\ndeath effects, disease, paralyzed, poison, precision, unconscious\r\n\r\n**Resistances**\r\nall damage 5 (except force, _ghost touch_, or positive; double resistance against non-magical)\n\n**Natural Invisibility** A poltergeist is naturally invisible. It becomes visible only when it uses Frighten.<br /> **Rejuvenation** ([necromancy](/Traits.aspx?ID=117), [occult](/Traits.aspx?ID=120)) When a poltergeist is destroyed, it re-forms, fully healed, where it was destroyed after 2d4 days. A poltergeist can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting.<br /> **Telekinetic Defense** <actions string=\"Reaction\" /> **Trigger** A creature approaches within 10 feet of the poltergeist. **Effect** The poltergeist makes a telekinetic object Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 20 feet\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ntelekinetic object +13 ([Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [Occult](/Traits.aspx?ID=120), [range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d12 bludgeoning, piercing, or slashing (depending on object)\r\n\r\n**Occult Innate Spells** DC 23, attack +13\r\n- **Cantrips (3rd)**\r\n[Mage Hand](/Spells.aspx?ID=177)\r\n- **3rd**\r\n[Telekinetic Maneuver](/Spells.aspx?ID=333) (at will)\r\n\r\n**Frighten** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106)) **Requirement** The poltergeist must be invisible. **Effect** The poltergeist becomes visible, appearing as a skeletal, ghostlike humanoid. Each creature within 30 feet must attempt a DC 21 Will save, becoming [frightened 2](/Conditions.aspx?ID=19) on a failure. On a critical failure, it’s also fleeing for as long as it’s [frightened](/Conditions.aspx?ID=19). On a success, the creature is temporarily immune for 1 minute. At the start of its next turn, the poltergeist becomes invisible again.\r\n\r\n**Telekinetic Storm** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32), [Evocation](/Traits.aspx?ID=65), [Occult](/Traits.aspx?ID=120)) The poltergeist telekinetically throws numerous small objects, such as dozens of pieces of silverware or books, either spreading them out among multiple foes or directing them at one target. \n<ul><li>When this effect is spread out among multiple foes, the poltergeist makes a telekinetic object Strike at a –2 penalty against each creature within 30 feet. These count as one attack for the poltergeist’s multiple attack penalty, and the penalty doesn’t increase until after all the attacks.</li><li>When this effect has only one target, the poltergeist makes a telekinetic object Strike against the target, and the damage increases to 3d12. It deals 1d12 damage on a failure, and no damage on a critical failure.</li></ul>\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Distrubed Rest</title>\r\n\r\nOne of the most common ways for a poltergeist to form is when its burial site is desecrated by the construction of a dwelling. This is usually an accident, but some evil creatures seek out such burial sites, intentionally creating poltergeists to serve as guardians.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Poltergeist Treasure</title>\r\n\r\nA poltergeist needs items to hurl as weapons, and over the centuries of use, only durable objects survive its rampages. Silver dinnerware, hatchets, and books might all be found in a poltergeist’s collection.\r\n</aside>",
+ "name": "Poltergeist",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "acid": 5,
+  "all": 5,
+  "area": 5,
+  "bleed": 5,
+  "bludgeoning": 5,
+  "chaotic": 5,
+  "cold": 5,
+  "cold_iron": 5,
+  "electricity": 5,
+  "evil": 5,
+  "fire": 5,
+  "good": 5,
+  "lawful": 5,
+  "mental": 5,
+  "negative": 5,
+  "orichalcum": 5,
+  "physical": 5,
+  "piercing": 5,
+  "poison": 5,
+  "precision": 5,
+  "silver": 5,
+  "slashing": 5,
+  "sonic": 5,
+  "splash": 5
+ },
+ "resistance_markdown": "all damage 5 (except force, _ghost touch_, or positive; double resistance against non-magical)",
+ "resistance_raw": "all damage 5 (except force,  ghost touch , or positive; double resistance against non-magical)",
+ "search_markdown": "<traits>\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 264</row>\n\n<row gap=\"medium\">\r\n**HP** 55 (rejuvenation)\r\n\r\n**AC** 22\r\n\r\n**Fort** +9\r\n\r\n**Ref** +14\r\n\r\n**Will** +13\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a creature dies, and for whatever reason its spirit is unable or unwilling to leave the site of its death, that spirit may manifest as a …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Intimidation +15",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Intimidation](/Skills.aspx?ID=7) +15, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 264"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 264</row>",
+ "speed": {
+  "fly": 20,
+  "max": 20
+ },
+ "speed_markdown": "fly 20 feet",
+ "speed_raw": "fly 20 feet",
+ "spell": [
+  "Telekinetic Maneuver",
+  "Mage Hand"
+ ],
+ "spell_markdown": "[Mage Hand](/Spells.aspx?ID=177), [Telekinetic Maneuver](/Spells.aspx?ID=333)",
+ "stealth": "14",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "When a creature dies, and for whatever reason its spirit is unable or unwilling to leave the site of its death, that spirit may manifest as a …",
+ "summary_markdown": "When a creature dies, and for whatever reason its spirit is unable or unwilling to leave the site of its death, that spirit may manifest as a …",
+ "text": " Poltergeist When a creature dies, and for whatever reason its spirit is unable or unwilling to leave the site of its death, that spirit may manifest as a poltergeist: a restless invisible spirit that is still able to manipulate physical objects. Many poltergeists perished in a way that resulted from or has led to extreme emotional trauma. Recall Knowledge - Spirit (Occultism): DC 20 Recall Knowledge - Undead (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Poltergeist Source Bestiary pg. 264 Perception +11; darkvision Languages Common Skills Acrobatics +14, Intimidation +15, Stealth +14 Str -5 Dex +5 Con +0 Int -1 Wis +2 Cha +4 Site Bound A poltergeist is tied to a location and can’t travel more than 120 feet from the place where it was created or formed. Some poltergeists are instead bound to a specific room, building, or similar area --- AC 22 Fort +9 Ref +14 Will +13 HP 55 (rejuvenation) Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all damage 5 (except force, ghost touch , or positive; double resistance against non-magical) Natural Invisibility A poltergeist is naturally invisible. It becomes visible only when it uses Frighten. Rejuvenation (necromancy, occult) When a poltergeist is destroyed, it re-forms, fully healed, where it was destroyed after 2d4 days. A poltergeist can be permanently destroyed only if someone determines the reason for its existence and sets right whatever prevents the spirit from resting. Telekinetic Defense Reaction Trigger A creature approaches within 10 feet of the poltergeist. Effect The poltergeist makes a telekinetic object Strike against the triggering creature. --- Speed fly 20 feet Ranged Single Action telekinetic object +13 (Evocation, Magical, Occult, range increment 60 feet), Damage 2d12 bludgeoning, piercing, or slashing (depending on object) Occult Innate Spells DC 23, attack +13 - Cantrips (3rd) Mage Hand - 3rd Telekinetic Maneuver (at will) Frighten Single Action (Concentrate, Emotion, Fear, Incapacitation, Mental) Requirement The poltergeist must be invisible. Effect The poltergeist becomes visible, appearing as a skeletal, ghostlike humanoid. Each creature within 30 feet must attempt a DC 21 Will save, becoming frightened 2 on a failure. On a critical failure, it’s also fleeing for as long as it’s frightened. On a success, the creature is temporarily immune for 1 minute. At the start of its next turn, the poltergeist becomes invisible again. Telekinetic Storm Two Actions (Concentrate, Evocation, Occult) The poltergeist telekinetically throws numerous small objects, such as dozens of pieces of silverware or books, either spreading them out among multiple foes or directing them at one target. When this effect is spread out among multiple foes, the poltergeist makes a telekinetic object Strike at a –2 penalty against each creature within 30 feet. These count as one attack for the poltergeist’s multiple attack penalty, and the penalty doesn’t increase until after all the attacks. When this effect has only one target, the poltergeist makes a telekinetic object Strike against the target, and the damage increases to 3d12. It deals 1d12 damage on a failure, and no damage on a critical failure. Distrubed Rest One of the most common ways for a poltergeist to form is when its burial site is desecrated by the construction of a dwelling. This is usually an accident, but some evil creatures seek out such burial sites, intentionally creating poltergeists to serve as guardians. Poltergeist Treasure A poltergeist needs items to hurl as weapons, and over the centuries of use, only durable objects survive its rampages. Silver dinnerware, hatchets, and books might all be found in a poltergeist’s collection. ",
+ "trait": [
+  "Incorporeal",
+  "Spirit",
+  "Undead",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Spirit",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=334",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 2
+}

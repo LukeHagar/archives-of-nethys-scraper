@@ -1,0 +1,90 @@
+{
+ "ac": 49,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 10,
+ "creature_ability": [
+  "Carapace Deflection",
+  "Constrict",
+  "Earthquake Stomp",
+  "Oviposit",
+  "Sunder Objects",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 38,
+ "hp": 400,
+ "hp_raw": "400",
+ "id": "creature-1811",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 21,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ironclad Annihilator Beetle](/Monsters.aspx?ID=1811)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 47\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 45\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 42\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 21\">[Ironclad Annihilator Beetle](/Monsters.aspx?ID=1811)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 49</row>\n\n**Perception** +36; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +36, [Athletics](/Skills.aspx?ID=3) +42\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +6\r\n\r\n**Con** +10\r\n\r\n**Int** -5\r\n\r\n**Wis** +5\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 49 \r\n\r\n**Fort** +38 \r\n\r\n**Ref** +32 \r\n\r\n**Will** +35 \n\n</row>\r\n\r\n**HP** 400\n\n**Carapace Deflection** <actions string=\"Reaction\" /> **Trigger** The ironclad annihilator beetle is targeted with an attack from an attacker it can see; **Effect** The ironclad annihilator pivots to place its tough carapace in the way of the attack, gaining a +2 circumstance bonus to its AC against the triggering attack. If the attack misses, the ironclad annihilator can Step after the attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandible +39 ([Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+20 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +37 ([Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+20 bludgeoning\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  4d6+20 bludgeoning, DC 44\r\n\r\n**Earthquake Stomp** <actions string=\"Single Action\" />  **Frequency** once per round; **Effect** The ironclad annihilator beetle stomps the ground. All creatures within a 30-foot emanation must succeed at a DC 44 Fortitude saving throw or fall [prone](/Conditions.aspx?ID=31) and become [stunned 1](/Conditions.aspx?ID=36) (stunned for 1 round on a critical failure).\r\n\r\n**Oviposit** <actions string=\"Two Actions\" />  **Requirements** The ironclad annihilator beetle has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The ironclad annihilator injects its ovipositor under the grabbed creature's skin. The creature takes 4d6+20 bludgeoning damage (DC 44 [basic](/Rules.aspx?ID=329) Fortitude save). On a failed save, the beetle implants an egg, and the target creature takes 4d6 [persistent bleed damage](/Conditions.aspx?ID=29) that is unusually tenacious. The DC to stop the bleeding using [Administer First Aid](/Actions.aspx?ID=54) is 40, and healing the creature to full Hit Points doesn't automatically stop the bleeding. If the target creature dies from this bleed damage, its body is destroyed and unrecoverable except with powerful magic such as [_miracle_](/Spells.aspx?ID=196) or [_wish_](/Spells.aspx?ID=377), and an immature ironclad annihilator beetle (with statistics as a [giant stag beetle](/Monsters.aspx?ID=50) bursts forth.\r\n\r\n**Sunder Objects**   When an ironclad annihilator damages an item or structure, it deals an additional 2d10 damage to that item or structure.\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Huge or smaller, foot, DC 44\r\n\r\n</column>",
+ "name": "Ironclad Annihilator Beetle",
+ "npc": false,
+ "perception": 36,
+ "rarity": "rare",
+ "reflex_save": 32,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 49</row>\n\n<row gap=\"medium\">\r\n**HP** 400\r\n\r\n**AC** 49\r\n\r\n**Fort** +38\r\n\r\n**Ref** +32\r\n\r\n**Will** +35\r\n\r\n**Perception** +36\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +36",
+  "Athletics +42"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +36, [Athletics](/Skills.aspx?ID=3) +42",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 49"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 49</row>",
+ "speed": {
+  "fly": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, fly 30 feet",
+ "speed_raw": "30 feet, fly 30 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Ironclad Annihilator Beetle Recall Knowledge - Beast (Arcana, Nature): DC 47 Unspecific Lore : DC 45 Specific Lore : DC 42 Ironclad Annihilator Beetle Source Pathfinder #174: Shadows of the Ancients pg. 49 Perception +36; darkvision Languages Skills Acrobatics +36, Athletics +42 Str +10 Dex +6 Con +10 Int -5 Wis +5 Cha -1 --- AC 49 Fort +38 Ref +32 Will +35 HP 400 Carapace Deflection Reaction Trigger The ironclad annihilator beetle is targeted with an attack from an attacker it can see; Effect The ironclad annihilator pivots to place its tough carapace in the way of the attack, gaining a +2 circumstance bonus to its AC against the triggering attack. If the attack misses, the ironclad annihilator can Step after the attack. --- Speed 30 feet, fly 30 feet Melee Single Action mandible +39 (Magical, reach 20 feet), Damage 4d12+20 piercing plus Improved Grab Melee Single Action foot +37 (Magical, reach 15 feet), Damage 4d8+20 bludgeoning Constrict Single Action 4d6+20 bludgeoning, DC 44 Earthquake Stomp Single Action Frequency once per round; Effect The ironclad annihilator beetle stomps the ground. All creatures within a 30-foot emanation must succeed at a DC 44 Fortitude saving throw or fall prone and become stunned 1 (stunned for 1 round on a critical failure). Oviposit Two Actions Requirements The ironclad annihilator beetle has a creature grabbed; Effect The ironclad annihilator injects its ovipositor under the grabbed creature's skin. The creature takes 4d6+20 bludgeoning damage (DC 44 basic Fortitude save). On a failed save, the beetle implants an egg, and the target creature takes 4d6 persistent bleed damage that is unusually tenacious. The DC to stop the bleeding using Administer First Aid is 40, and healing the creature to full Hit Points doesn't automatically stop the bleeding. If the target creature dies from this bleed damage, its body is destroyed and unrecoverable except with powerful magic such as miracle or wish , and an immature ironclad annihilator beetle (with statistics as a giant stag beetle bursts forth. Sunder Objects When an ironclad annihilator damages an item or structure, it deals an additional 2d10 damage to that item or structure. Trample Three Actions Huge or smaller, foot, DC 44 ",
+ "trait": [
+  "Beast",
+  "Rare",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Beast",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1811",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 35,
+ "wisdom": 5
+}

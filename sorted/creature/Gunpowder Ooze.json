@@ -1,0 +1,104 @@
+{
+ "ac": 29,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 6,
+ "creature_ability": [
+  "Motion Sense",
+  "Combust",
+  "Split",
+  "Gunpowder Residue"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 400,
+ "hp_raw": "400",
+ "id": "creature-2412",
+ "image": [
+  "/Images/Monsters/Ooze_GunpowderOoze.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "mental",
+  "piercing",
+  "precision",
+  "slashing",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "critical hits, [mental](/Traits.aspx?ID=106), piercing, precision, slashing, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ooze, Gunpowder](/Monsters.aspx?ID=2412)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGunpowder oozes are explosive gunpowder given life. By necessity, crafters of explosives and firearms are a careful lot, but even the best safety habits can be thwarted by greed, distraction, or carelessness. The release of toxic byproducts from gunsmithing would be an environmental problem anywhere, but when volatile runoff seeps into the Mana Wastes, it can interact with wild magic, causing a living, explosive nightmare.\n\n A gunpowder ooze is a pockmarked, charcoal gray mass that slithers across the blighted verge between Alkenstar and the Mana Wastes with the sound of sizzles and sudden pops. It pursues and consumes any sort of organic matter, firing bullet-like projectiles to bring down prey. The ooze instinctively avoids fire, so travelers forced to camp in known gunpowder ooze territory often light bonfires despite the danger of advertising their presence to the Mana Wastes' other residents. Suggestions that local populations of oozes be weaponized, periodically put forward by unwise Alkenstari and Mana Waste tacticians, are uniformly shot down by cooler heads; those who attempt to proceed anyway usually meet explosive ends.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ooze_GunpowderOoze.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Gunpowder Ooze](/Monsters.aspx?ID=2412)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 334</row>\n\n**Perception** +22; motion sense 120 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +3\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +2\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A gunpowder ooze can sense nearby creatures through vibration and air or water movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +24 \n\n</row>\r\n\r\n**HP** 400\n\n**Immunities**\r\ncritical hits, [mental](/Traits.aspx?ID=106), piercing, precision, slashing, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 20\r\n\r\n**Combust** Due to the volatile nature of its composition, the gunpowder ooze reacts explosively when exposed to open flame. Any time the gunpowder ooze takes fire damage from a source other than a gunpowder ooze's combust or gunpowder residue, it explodes, dealing 15d6 fire damage to creatures in a 15- foot emanation including itself (DC 34 [basic](/Rules.aspx?ID=329) Reflex save). When the gunpowder ooze combusts, it automatically splits as long as it has 10 or more HP.<br />**Split** When a gunpowder ooze that has 10 or more HP is hit by an attack that would deal slashing or piercing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +29 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+14 bludgeoning plus gunpowder residue\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nblast +26 ([Propulsive](/Traits.aspx?ID=191), [range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+10 bludgeoning plus 3d6 fire and gunpowder residue\n\n**Gunpowder Residue**  ([Fire](/Traits.aspx?ID=72)) A creature hit by the gunpowder ooze's pseudopod or blast is coated in explosive material unless it succeeds at a DC 34 Reflex save. If a creature makes an attack with a firearm, takes fire damage, or uses an action, activity, or item with the [fire](/Traits.aspx?ID=72) trait while coated with the residue, the residue explodes, dealing 7d6 damage to the creature and all adjacent creatures (DC 34 [basic](/Rules.aspx?ID=329) Reflex save). The residue remains active for 24 hours, until it's ignited, or until it's scrubbed off (an activity that takes at least 10 minutes and requires soap and water). A creature can only be coated with one layer of gunpowder residue at a time.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Volatile Ingredient</title>\r\n\r\nSandrolus Steg, one of Alkenstar's most infamous crafters of alchemical ammunition, once tried to cultivate a pod of gunpowder oozes as an unlimited source of incendiary material. Luckily, his research notes were lost in the explosion that destroyed his lab.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Gunpowder Ooze",
+ "npc": false,
+ "perception": 22,
+ "rarity": "common",
+ "reflex_save": 21,
+ "release_date": "2022-11-16",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 334</row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 400\r\n\r\n**AC** 29\r\n\r\n**Fort** +28\r\n\r\n**Ref** +21\r\n\r\n**Will** +24\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGunpowder oozes are explosive gunpowder given life. By necessity, crafters of explosives and firearms are a careful lot, but even the best safety …\r\n</summary>",
+ "sense": "motion sense 120 feet, no vision",
+ "sense_markdown": "motion sense 120 feet, no vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +28"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +28",
+ "source": [
+  "Impossible Lands"
+ ],
+ "source_raw": [
+  "Impossible Lands pg. 334"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[Impossible Lands](/Sources.aspx?ID=146) pg. 334</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet",
+ "speed_raw": "20 feet, climb 20 feet",
+ "spell_markdown": "",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Gunpowder oozes are explosive gunpowder given life. By necessity, crafters of explosives and firearms are a careful lot, but even the best safety …",
+ "summary_markdown": "Gunpowder oozes are explosive gunpowder given life. By necessity, crafters of explosives and firearms are a careful lot, but even the best safety …",
+ "text": " Ooze, Gunpowder Gunpowder oozes are explosive gunpowder given life. By necessity, crafters of explosives and firearms are a careful lot, but even the best safety habits can be thwarted by greed, distraction, or carelessness. The release of toxic byproducts from gunsmithing would be an environmental problem anywhere, but when volatile runoff seeps into the Mana Wastes, it can interact with wild magic, causing a living, explosive nightmare. A gunpowder ooze is a pockmarked, charcoal gray mass that slithers across the blighted verge between Alkenstar and the Mana Wastes with the sound of sizzles and sudden pops. It pursues and consumes any sort of organic matter, firing bullet-like projectiles to bring down prey. The ooze instinctively avoids fire, so travelers forced to camp in known gunpowder ooze territory often light bonfires despite the danger of advertising their presence to the Mana Wastes' other residents. Suggestions that local populations of oozes be weaponized, periodically put forward by unwise Alkenstari and Mana Waste tacticians, are uniformly shot down by cooler heads; those who attempt to proceed anyway usually meet explosive ends. Recall Knowledge - Ooze (Occultism): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Gunpowder Ooze Source Impossible Lands pg. 334 Perception +22; motion sense 120 feet, no vision Languages Skills Athletics +28 Str +8 Dex +3 Con +6 Int -5 Wis +2 Cha -5 Motion Sense A gunpowder ooze can sense nearby creatures through vibration and air or water movement. --- AC 29 Fort +28 Ref +21 Will +24 HP 400 Immunities critical hits, mental, piercing, precision, slashing, unconscious, visual Weaknesses fire 20 Combust Due to the volatile nature of its composition, the gunpowder ooze reacts explosively when exposed to open flame. Any time the gunpowder ooze takes fire damage from a source other than a gunpowder ooze's combust or gunpowder residue, it explodes, dealing 15d6 fire damage to creatures in a 15- foot emanation including itself (DC 34 basic Reflex save). When the gunpowder ooze combusts, it automatically splits as long as it has 10 or more HP. Split When a gunpowder ooze that has 10 or more HP is hit by an attack that would deal slashing or piercing damage, it splits into two identical oozes, each with half the original's HP. One ooze is in the same space as the original, and the other is in an adjacent, unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or heavy to push). --- Speed 20 feet, climb 20 feet Melee Single Action pseudopod +29 (reach 10 feet), Damage 3d12+14 bludgeoning plus gunpowder residue Ranged Single Action blast +26 (Propulsive, range increment 60 feet), Damage 3d8+10 bludgeoning plus 3d6 fire and gunpowder residue Gunpowder Residue (Fire) A creature hit by the gunpowder ooze's pseudopod or blast is coated in explosive material unless it succeeds at a DC 34 Reflex save. If a creature makes an attack with a firearm, takes fire damage, or uses an action, activity, or item with the fire trait while coated with the residue, the residue explodes, dealing 7d6 damage to the creature and all adjacent creatures (DC 34 basic Reflex save). The residue remains active for 24 hours, until it's ignited, or until it's scrubbed off (an activity that takes at least 10 minutes and requires soap and water). A creature can only be coated with one layer of gunpowder residue at a time. Volatile Ingredient Sandrolus Steg, one of Alkenstar's most infamous crafters of alchemical ammunition, once tried to cultivate a pod of gunpowder oozes as an unlimited source of incendiary material. Luckily, his research notes were lost in the explosion that destroyed his lab. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2412",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 20
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 20",
+ "weakness_raw": " fire  20",
+ "will_save": 24,
+ "wisdom": 2
+}

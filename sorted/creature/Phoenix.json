@@ -1,0 +1,123 @@
+{
+ "ac": 36,
+ "alignment": "NG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 5,
+ "creature_ability": [
+  "Self-Resurrection",
+  "Shroud of Flame",
+  "Flaming Strafe"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 300,
+ "hp_raw": "300 (self-resurrection)",
+ "id": "creature-330",
+ "image": [
+  "/Images/Monsters/Phoenix.png"
+ ],
+ "immunity": [
+  "fire"
+ ],
+ "immunity_markdown": "fire",
+ "intelligence": 7,
+ "language": [
+  "Auran",
+  "Celestial",
+  "Common",
+  "Ignan"
+ ],
+ "language_markdown": "[Auran](/Languages.aspx?ID=15), [Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1), [Ignan](/Languages.aspx?ID=18)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Phoenix](/Monsters.aspx?ID=330)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe phoenix is a primordial bird made of heat and flame that dwells in the most inhospitable regions of the desert. Though highly intelligent and brimming with compassion, the phoenix is best-known for its iconic ability to resurrect itself when slain, emerging reborn from the ashes of its own corpse. Phoenixes are often sought out for their knowledge or healing abilities, as they cannot abide the sight of suffering and deny their succor only to the most foul and irredeemable of creatures.\n\n Phoenixes enjoy the company of metallic dragons, and when the two dwell in close proximity, they can forge lifelong friendships, sharing their resources and words of wisdom while keeping each other updated on regional news.\n\n While most phoenixes are benevolent, they are not infallible. When a phoenix loses its way or falls under the influence of evil, it still retains its strong appetite for knowledge. Evil phoenixes are known to assault universities and libraries in their pursuit for power—not only to gain new information, but also to set fire to the texts and thus hoard that knowledge for themselves.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 39\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 37\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 34\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Phoenix.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Phoenix](/Monsters.aspx?ID=330)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 261</row>\n\n**Perception** +27; darkvision, [_detect magic_](/Spells.aspx?ID=66), [_see invisibility_](/Spells.aspx?ID=271)\r\n\r\n**Languages**\r\n[Auran](/Languages.aspx?ID=15), [Celestial](/Languages.aspx?ID=16), [Common](/Languages.aspx?ID=1), [Ignan](/Languages.aspx?ID=18)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +30, [Athletics](/Skills.aspx?ID=3) +27, [Diplomacy](/Skills.aspx?ID=6) +31, [Intimidation](/Skills.aspx?ID=7) +27, [Nature](/Skills.aspx?ID=10) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +7\r\n\r\n**Con** +5\r\n\r\n**Int** +7\r\n\r\n**Wis** +6\r\n\r\n**Cha** +6\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +31 \r\n\r\n**Will** +28 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 300\r\n(self-resurrection)\r\n, regeneration 20 (deactivated by [cold](/Traits.aspx?ID=27) or evil)\r\n\r\n**Immunities**\r\nfire\n\n**Weaknesses**\r\ncold 10, evil 10\r\n\r\n**Self-Resurrection** ([healing](/Traits.aspx?ID=89), [necromancy](/Traits.aspx?ID=117), [primal](/Traits.aspx?ID=134)) When a phoenix dies, it collapses into a pile of smoldering ashes before returning to life fully healed 1d4 rounds later, as if subject to a 7th-level [_resurrect_](/Rituals.aspx?ID=20) ritual. Self-resurrection happens only if there are some remains to resurrect; for instance, a phoenix killed by a [_disintegrate_](/Spells.aspx?ID=76) spell can’t use this ability. A phoenix whose remains rest within an area devoted to an evil deity by [_consecrate_](/Rituals.aspx?ID=8) can’t self-resurrect until its remains are no longer in that area. A phoenix can self-resurrect only once per year.<br /> **Shroud of Flame** ([aura](/Traits.aspx?ID=206), [evocation](/Traits.aspx?ID=65), [fire](/Traits.aspx?ID=72), [primal](/Traits.aspx?ID=134)) 20 feet. 4d6 fire, DC 37 basic Reflex save. While this aura is active, any adjacent creature that hits the phoenix with a melee attack or otherwise touches it takes 2d6 fire damage. The phoenix can activate or deactivate the aura with a single action, which has the concentrate trait.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 70 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +30 ([Finesse](/Traits.aspx?ID=179), [Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d12+9 piercing plus 3d8 fire and 2d10 persistent fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +30 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d6+6 piercing plus 3d8 fire and 2d10 persistent fire\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nflame jet +30 ([Fire](/Traits.aspx?ID=72), [range increment 40 feet](/Traits.aspx?ID=248)),\r\n**Damage** 6d6 fire plus 2d10 persistent fire\r\n\r\n**Primal Innate Spells** DC 39\r\n- **Cantrips (8th)**\r\n[Light](/Spells.aspx?ID=171)\r\n- **6th**\r\n[Restoration](/Spells.aspx?ID=258) (x3)\r\n- **7th**\r\n[Dispel Magic](/Spells.aspx?ID=78) (at will)\r\n- **8th**\r\n[Continual Flame](/Spells.aspx?ID=50) (at will), [Dispel Magic](/Spells.aspx?ID=78) (x3), [Flame Strike](/Spells.aspx?ID=120), [Heal](/Spells.aspx?ID=148) (x3), [Remove Curse](/Spells.aspx?ID=250), [Wall of Fire](/Spells.aspx?ID=362) (x3)\r\n- **Constant (6th)**\r\n[See Invisibility](/Spells.aspx?ID=271)\r\n- **Constant (8th)**\r\n[Detect Magic](/Spells.aspx?ID=66)\r\n\r\n**Flaming Strafe** <actions string=\"Single Action\" /> ([Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72), [Primal](/Traits.aspx?ID=134)) The phoenix blazes with superheated flame and Flies up to its Speed. It deals 6d6 fire damage to each creature within 20 feet of each square it moves through (DC 37 basic Reflex save).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Servants of Sarenrae</title>\r\n\r\nWhile phoenixes are not denizens of the Outer Planes, they have long been associated with the goddess Sarenrae. Indeed, many phoenixes view the Dawnflower as their patron and subscribe to her mission of redeeming those who have fallen to evil.\r\n</aside>",
+ "name": "Phoenix",
+ "npc": false,
+ "perception": 27,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 31,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 261</row>\n\n<row gap=\"medium\">\r\n**HP** 300 (self-resurrection)\r\n\r\n**AC** 36\r\n\r\n**Fort** +27\r\n\r\n**Ref** +31\r\n\r\n**Will** +28\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe phoenix is a primordial bird made of heat and flame that dwells in the most inhospitable regions of the desert. Though highly intelligent and …\r\n</summary>",
+ "sense": "darkvision,   detect magic  ,   see invisibility  ",
+ "sense_markdown": "darkvision, [_detect magic_](/Spells.aspx?ID=66), [_see invisibility_](/Spells.aspx?ID=271)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +30",
+  "Athletics +27",
+  "Diplomacy +31",
+  "Intimidation +27",
+  "Nature +25"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +30, [Athletics](/Skills.aspx?ID=3) +27, [Diplomacy](/Skills.aspx?ID=6) +31, [Intimidation](/Skills.aspx?ID=7) +27, [Nature](/Skills.aspx?ID=10) +25",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 261"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 261</row>",
+ "speed": {
+  "fly": 70,
+  "land": 25,
+  "max": 70
+ },
+ "speed_markdown": "25 feet, fly 70 feet",
+ "speed_raw": "25 feet, fly 70 feet",
+ "spell": [
+  "Continual Flame",
+  "Dispel Magic",
+  "Flame Strike",
+  "Heal",
+  "Remove Curse",
+  "Wall of Fire",
+  "Restoration",
+  "Light",
+  "Detect Magic",
+  "See Invisibility"
+ ],
+ "spell_markdown": "[Continual Flame](/Spells.aspx?ID=50), [Detect Magic](/Spells.aspx?ID=66), [Dispel Magic](/Spells.aspx?ID=78), [Flame Strike](/Spells.aspx?ID=120), [Heal](/Spells.aspx?ID=148), [Light](/Spells.aspx?ID=171), [Remove Curse](/Spells.aspx?ID=250), [Restoration](/Spells.aspx?ID=258), [See Invisibility](/Spells.aspx?ID=271), [Wall of Fire](/Spells.aspx?ID=362)",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The phoenix is a primordial bird made of heat and flame that dwells in the most inhospitable regions of the desert. Though highly intelligent and …",
+ "summary_markdown": "The phoenix is a primordial bird made of heat and flame that dwells in the most inhospitable regions of the desert. Though highly intelligent and …",
+ "text": " Phoenix The phoenix is a primordial bird made of heat and flame that dwells in the most inhospitable regions of the desert. Though highly intelligent and brimming with compassion, the phoenix is best-known for its iconic ability to resurrect itself when slain, emerging reborn from the ashes of its own corpse. Phoenixes are often sought out for their knowledge or healing abilities, as they cannot abide the sight of suffering and deny their succor only to the most foul and irredeemable of creatures. Phoenixes enjoy the company of metallic dragons, and when the two dwell in close proximity, they can forge lifelong friendships, sharing their resources and words of wisdom while keeping each other updated on regional news. While most phoenixes are benevolent, they are not infallible. When a phoenix loses its way or falls under the influence of evil, it still retains its strong appetite for knowledge. Evil phoenixes are known to assault universities and libraries in their pursuit for power—not only to gain new information, but also to set fire to the texts and thus hoard that knowledge for themselves. Recall Knowledge - Beast (Arcana, Nature): DC 39 Unspecific Lore : DC 37 Specific Lore : DC 34 Phoenix Source Bestiary pg. 261 Perception +27; darkvision, detect magic , see invisibility Languages Auran, Celestial, Common, Ignan Skills Acrobatics +30, Athletics +27, Diplomacy +31, Intimidation +27, Nature +25 Str +6 Dex +7 Con +5 Int +7 Wis +6 Cha +6 --- AC 36 Fort +27 Ref +31 Will +28 +1 status to all saves vs. magic HP 300 (self-resurrection) , regeneration 20 (deactivated by cold or evil) Immunities fire Weaknesses cold 10, evil 10 Self-Resurrection (healing, necromancy, primal) When a phoenix dies, it collapses into a pile of smoldering ashes before returning to life fully healed 1d4 rounds later, as if subject to a 7th-level resurrect ritual. Self-resurrection happens only if there are some remains to resurrect; for instance, a phoenix killed by a disintegrate spell can’t use this ability. A phoenix whose remains rest within an area devoted to an evil deity by consecrate can’t self-resurrect until its remains are no longer in that area. A phoenix can self-resurrect only once per year. Shroud of Flame (aura, evocation, fire, primal) 20 feet. 4d6 fire, DC 37 basic Reflex save. While this aura is active, any adjacent creature that hits the phoenix with a melee attack or otherwise touches it takes 2d6 fire damage. The phoenix can activate or deactivate the aura with a single action, which has the concentrate trait. --- Speed 25 feet, fly 70 feet Melee Single Action beak +30 (Finesse, Fire, Magical, reach 20 feet), Damage 1d12+9 piercing plus 3d8 fire and 2d10 persistent fire Melee Single Action talon +30 (Agile, Finesse, Fire, Magical, reach 20 feet), Damage 1d6+6 piercing plus 3d8 fire and 2d10 persistent fire Ranged Single Action flame jet +30 (Fire, range increment 40 feet), Damage 6d6 fire plus 2d10 persistent fire Primal Innate Spells DC 39 - Cantrips (8th) Light - 6th Restoration (x3) - 7th Dispel Magic (at will) - 8th Continual Flame (at will), Dispel Magic (x3), Flame Strike, Heal (x3), Remove Curse, Wall of Fire (x3) - Constant (6th) See Invisibility - Constant (8th) Detect Magic Flaming Strafe Single Action (Evocation, Fire, Primal) The phoenix blazes with superheated flame and Flies up to its Speed. It deals 6d6 fire damage to each creature within 20 feet of each square it moves through (DC 37 basic Reflex save). Servants of Sarenrae While phoenixes are not denizens of the Outer Planes, they have long been associated with the goddess Sarenrae. Indeed, many phoenixes view the Dawnflower as their patron and subscribe to her mission of redeeming those who have fallen to evil. ",
+ "trait": [
+  "Beast",
+  "Fire",
+  "Rare",
+  "NG",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Fire](/Traits.aspx?ID=72), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Beast",
+  "Fire",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=330",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold": 10,
+  "evil": 10
+ },
+ "weakness_markdown": "cold 10, evil 10",
+ "weakness_raw": "cold 10, evil 10",
+ "will_save": 28,
+ "wisdom": 6
+}

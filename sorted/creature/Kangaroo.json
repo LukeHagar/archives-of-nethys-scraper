@@ -1,0 +1,86 @@
+{
+ "ac": 15,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Powerful Leaper",
+  "Defensive Shove"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 18,
+ "hp_raw": "18",
+ "id": "creature-1205",
+ "image": [
+  "/Images/Monsters/Kangaroo.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Kangaroo](/Monsters.aspx?ID=1205)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nKangaroos are marsupials distinguished by long faces, large ears, powerful back legs and tails, and a distinctive hopping gait. These generally placid herbivores are shy of other creatures, preferring to live in open grasslands where their keen ears and eyes can spot danger approaching from a distance.\n\n Male kangaroos develop powerful front limbs and exhibit a dominance behavior commonly known as “boxing.” When two male kangaroos confront each other, they draw close; they then swat at their opponent with their front claws while also pulling their own heads back out of range. Kangaroos also occasionally rock back on their tails before delivering a blow with their heavily muscled hind legs. The claws on their back legs make these blows particularly deadly, and a kangaroo can disembowel an attacker with a single strike using this tactic.\n\n Like other marsupials, female kangaroos carry their young—called joeys—in a pouch on their bellies. They have only one such offspring at a time, although many females have several joeys in quick succession. These social animals largely gather for protection, but their social structures are similar to those found in herds of [camels](/Monsters.aspx?ID=1090), [horses](/MonsterFamilies.aspx?ID=62), or pigs.\n\n Kangaroos don't make particularly good mounts, but this hasn't stopped the occasional adventurous [gnome](/Ancestries.aspx?ID=3) or [halfling](/Ancestries.aspx?ID=5) from trying. Such an attempt usually results in a seasick and dizzy rider being dumped unceremoniously from the animal's back or pouch, but some [druids](/Classes.aspx?ID=6) have found them to be loyal companions.\n\n In places where kangaroos are common, the animals are sometimes hunted for meat and can even provide a primary food supply to migratory communities due to their quick reproduction and ability to flee predators. People in other regions consider kangaroos a delicacy and often import their meat as a show of status in wealthy households.\n\n Several types of kangaroos have evolved, each living in a slightly different environment. Gray kangaroos are smaller than other varieties and dwell in open woodlands, most commonly on the southern reaches of the continent of Garund. Giant kangaroos, found primarily on the dry steppes of northern Casmaron, grow to twice the size of standard kangaroos, and the thunderous noise of their passing can be heard and felt from miles away. The kangaroo family also has several smaller relatives, including wallabies and pademelons. Some kangaroos exist in captivity in other parts of the world, but attempts to introduce them into other regions have—so far—largely failed.\n\n A large kangaroo can reach over 6 feet in height and weighs up to 200 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Kangaroo.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Kangaroo](/Monsters.aspx?ID=1205)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 146</row>\n\n**Perception** +7; [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +4, [Athletics](/Skills.aspx?ID=3) +7, [Survival](/Skills.aspx?ID=16) +3\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Powerful Leaper** The kangaroo doesn't need to Stride while attempting a [Long Jump](/Actions.aspx?ID=37), nor does it automatically fail if it doesn't.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +3 \n\n</row>\r\n\r\n**HP** 18\n\n**Defensive Shove** <actions string=\"Reaction\" /> **Trigger** The kangaroo takes damage from an adjacent creature; **Effect** The kangaroo attempts to [Shove](/Actions.aspx?ID=38) the creature that damaged it.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +7,\r\n**Damage** 1d4+3 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +7,\r\n**Damage** 1d6+3 slashing plus [Push](/MonsterAbilities.aspx?ID=25)\n\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Few Foes</title>\r\n\r\nKangaroos have very few natural predators. They survive in relatively inhospitable regions where most predators are physically on the smaller side, and their great speed makes them difficult prey to catch. Humanoids hunt them more often than other animals, though a [drake](/MonsterFamilies.aspx?ID=36) or [giant eagle](/Monsters.aspx?ID=173) might still choose a kangaroo for its dinner in certain areas.\r\n</aside>",
+ "name": "Kangaroo",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 6,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 146</row>\n\n<row gap=\"medium\">\r\n**HP** 18\r\n\r\n**AC** 15\r\n\r\n**Fort** +7\r\n\r\n**Ref** +6\r\n\r\n**Will** +3\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nKangaroos are marsupials distinguished by long faces, large ears, powerful back legs and tails, and a distinctive hopping gait. These generally …\r\n</summary>",
+ "sense": " scent  (imprecise) 60 feet",
+ "sense_markdown": "[scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +4",
+  "Athletics +7",
+  "Survival +3"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +4, [Athletics](/Skills.aspx?ID=3) +7, [Survival](/Skills.aspx?ID=16) +3",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 146"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 146</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Kangaroos are marsupials distinguished by long faces, large ears, powerful back legs and tails, and a distinctive hopping gait. These generally …",
+ "summary_markdown": "Kangaroos are marsupials distinguished by long faces, large ears, powerful back legs and tails, and a distinctive hopping gait. These generally …",
+ "text": " Kangaroo Kangaroos are marsupials distinguished by long faces, large ears, powerful back legs and tails, and a distinctive hopping gait. These generally placid herbivores are shy of other creatures, preferring to live in open grasslands where their keen ears and eyes can spot danger approaching from a distance. Male kangaroos develop powerful front limbs and exhibit a dominance behavior commonly known as “boxing.” When two male kangaroos confront each other, they draw close; they then swat at their opponent with their front claws while also pulling their own heads back out of range. Kangaroos also occasionally rock back on their tails before delivering a blow with their heavily muscled hind legs. The claws on their back legs make these blows particularly deadly, and a kangaroo can disembowel an attacker with a single strike using this tactic. Like other marsupials, female kangaroos carry their young—called joeys—in a pouch on their bellies. They have only one such offspring at a time, although many females have several joeys in quick succession. These social animals largely gather for protection, but their social structures are similar to those found in herds of camels, horses, or pigs. Kangaroos don't make particularly good mounts, but this hasn't stopped the occasional adventurous gnome or halfling from trying. Such an attempt usually results in a seasick and dizzy rider being dumped unceremoniously from the animal's back or pouch, but some druids have found them to be loyal companions. In places where kangaroos are common, the animals are sometimes hunted for meat and can even provide a primary food supply to migratory communities due to their quick reproduction and ability to flee predators. People in other regions consider kangaroos a delicacy and often import their meat as a show of status in wealthy households. Several types of kangaroos have evolved, each living in a slightly different environment. Gray kangaroos are smaller than other varieties and dwell in open woodlands, most commonly on the southern reaches of the continent of Garund. Giant kangaroos, found primarily on the dry steppes of northern Casmaron, grow to twice the size of standard kangaroos, and the thunderous noise of their passing can be heard and felt from miles away. The kangaroo family also has several smaller relatives, including wallabies and pademelons. Some kangaroos exist in captivity in other parts of the world, but attempts to introduce them into other regions have—so far—largely failed. A large kangaroo can reach over 6 feet in height and weighs up to 200 pounds. Recall Knowledge - Animal (Nature): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Kangaroo Source Bestiary 3 pg. 146 Perception +7; scent (imprecise) 60 feet Languages Skills Acrobatics +4, Athletics +7, Survival +3 Str +3 Dex +2 Con +3 Int -4 Wis +1 Cha +1 Powerful Leaper The kangaroo doesn't need to Stride while attempting a Long Jump, nor does it automatically fail if it doesn't. --- AC 15 Fort +7 Ref +6 Will +3 HP 18 Defensive Shove Reaction Trigger The kangaroo takes damage from an adjacent creature; Effect The kangaroo attempts to Shove the creature that damaged it. --- Speed 35 feet Melee Single Action claw +7, Damage 1d4+3 slashing Melee Single Action foot +7, Damage 1d6+3 slashing plus Push Few Foes Kangaroos have very few natural predators. They survive in relatively inhospitable regions where most predators are physically on the smaller side, and their great speed makes them difficult prey to catch. Humanoids hunt them more often than other animals, though a drake or giant eagle might still choose a kangaroo for its dinner in certain areas. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1205",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 3,
+ "wisdom": 1
+}

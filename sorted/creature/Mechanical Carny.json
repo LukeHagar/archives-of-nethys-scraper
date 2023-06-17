@@ -1,0 +1,120 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 0,
+ "creature_ability": [
+  "Haywire"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 33,
+ "hp_raw": "33",
+ "id": "creature-505",
+ "image": [
+  "/Images/Monsters/MechanicalCarny.png"
+ ],
+ "immunity": [
+  "bleed",
+  "death effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious",
+ "intelligence": -5,
+ "language": [
+  "Common",
+  "(can speak pre-recorded phrases only)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can speak pre-recorded phrases only)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Mechanical Carny](/Monsters.aspx?ID=505)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMechanical carnies are constructs manufactured to serve as entertainers, cleaners, and guards at carnivals and circuses. The first of these constructs was created by a gnome inventor who yearned for a tireless companion who could make her laugh and smile. Her invention was so successful that it has spawned countless imitations and knockoffs throughout the Inner Sea, and mechanical carnies of some form or another are a staple throughout metropolitan lands in both Avistan and Garund. \n\n<title level=\"2\" right=\"\">Other Mechanical Carnies</title> The statistics here represent a relatively simple mechanical carny; the extravagance and range of a mechanical carny’s abilities are limited only by the skill and imagination of its creator. To represent other kinds of mechanical carnies, you can swap out the mechanical carny’s Berserk and Berserk Slam abilities with one of the following.\n\n **Bounce Back** <actions string=\"Reaction\" /> **Requirement** The mechanical carny takes damage from a melee attack; **Effect** The mechanical carny wobbles violently to and fro, making two headbutt Strikes: the first against the creature (if any) on the opposite side of itself from the creature that triggered this reaction and the second against the creature that triggered this reaction.\n\n **Spring-Loaded Jump** <actions string=\"Single Action\" /> ([move](/Traits.aspx?ID=114)) The mechanical carny leaps up to 25 feet into the air and lands within 25 feet (or a distance equal to the height of the carny’s jump, if fewer) of where it started, taking no falling damage.\n\n **Water Cannon** <actions string=\"Two Actions\" /> ([water](/Traits.aspx?ID=165)) The mechanical carny sprays a 15-foot cone of water, dealing 2d6+4 nonlethal bludgeoning to creatures in the area (DC 18 basic Reflex save) and extinguishing any non-magical fires.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/MechanicalCarny.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Mechanical Carny](/Monsters.aspx?ID=505)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 86</row>\n\n**Perception** +6; low-light vision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can speak pre-recorded phrases only)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +9, [Performance](/Skills.aspx?ID=12) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +1\r\n\r\n**Con** +0\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 33\n\n**Immunities**\r\nbleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious\r\n\r\n**Resistances**\r\nphysical 3 (except adamantine)\r\n\r\n**Weaknesses**\r\nelectricity 6\r\n\r\n**Haywire** A severely damaged mechanical carny has a chance of malfunctioning. If a mechanical carny has 15 or fewer Hit Points at the start of its turn, it must succeed at a DC 5 flat check or go haywire. A haywire mechanical carny wildly attacks the nearest living creature, or the nearest object if no creatures are nearby. It takes a –1 circumstance penalty to Strikes but deals an additional 1d6 bludgeoning damage plus [Knockdown](/MonsterAbilities.aspx?ID=20). This effect lasts 10 minutes or until the mechanical carny is destroyed.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspring-loaded fist +11 ([Nonlethal](/Traits.aspx?ID=188), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d4+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nheadbutt +11,\r\n**Damage** 2d4+4 bludgeoning\n\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Creating Mechanical Carnies</title>\r\n\r\nConstructing a mechanical carny is a difficult feat and requires the supervision of a specialized (and expensive) tinkerer. A thrifty ringmaster may employ a budget-level tinkerer and mechanical carny, though they get what they pay for; many a cheap troupe leader has found a malfunctioning mechanical carny wreaking havoc in their circus tent.\r\n</aside>",
+ "name": "Mechanical Carny",
+ "npc": false,
+ "perception": 6,
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2020-01-30",
+ "resistance": {
+  "bludgeoning": 3,
+  "physical": 3,
+  "piercing": 3,
+  "slashing": 3
+ },
+ "resistance_markdown": "physical 3 (except adamantine)",
+ "resistance_raw": "physical 3 (except adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 86</row>\n\n<row gap=\"medium\">\r\n**HP** 33\r\n\r\n**AC** 17\r\n\r\n**Fort** +8\r\n\r\n**Ref** +11\r\n\r\n**Will** +4\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMechanical carnies are constructs manufactured to serve as entertainers, cleaners, and guards at carnivals and circuses. The first of these …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +9",
+  "Performance +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +9, [Performance](/Skills.aspx?ID=12) +6",
+ "source": [
+  "Pathfinder #151: The Show Must Go On"
+ ],
+ "source_raw": [
+  "Pathfinder #151: The Show Must Go On pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 86</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Mechanical carnies are constructs manufactured to serve as entertainers, cleaners, and guards at carnivals and circuses. The first of these …",
+ "summary_markdown": "Mechanical carnies are constructs manufactured to serve as entertainers, cleaners, and guards at carnivals and circuses. The first of these …",
+ "text": " Mechanical Carny Mechanical carnies are constructs manufactured to serve as entertainers, cleaners, and guards at carnivals and circuses. The first of these constructs was created by a gnome inventor who yearned for a tireless companion who could make her laugh and smile. Her invention was so successful that it has spawned countless imitations and knockoffs throughout the Inner Sea, and mechanical carnies of some form or another are a staple throughout metropolitan lands in both Avistan and Garund. Other Mechanical Carnies The statistics here represent a relatively simple mechanical carny; the extravagance and range of a mechanical carny’s abilities are limited only by the skill and imagination of its creator. To represent other kinds of mechanical carnies, you can swap out the mechanical carny’s Berserk and Berserk Slam abilities with one of the following. Bounce Back Reaction Requirement The mechanical carny takes damage from a melee attack; Effect The mechanical carny wobbles violently to and fro, making two headbutt Strikes: the first against the creature (if any) on the opposite side of itself from the creature that triggered this reaction and the second against the creature that triggered this reaction. Spring-Loaded Jump Single Action (move) The mechanical carny leaps up to 25 feet into the air and lands within 25 feet (or a distance equal to the height of the carny’s jump, if fewer) of where it started, taking no falling damage. Water Cannon Two Actions (water) The mechanical carny sprays a 15-foot cone of water, dealing 2d6+4 nonlethal bludgeoning to creatures in the area (DC 18 basic Reflex save) and extinguishing any non-magical fires. Recall Knowledge - Construct (Arcana, Crafting): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Mechanical Carny Source Pathfinder #151: The Show Must Go On pg. 86 Perception +6; low-light vision Languages Common; (can speak pre-recorded phrases only) Skills Acrobatics +7, Athletics +9, Performance +6 Str +3 Dex +1 Con +0 Int -5 Wis +0 Cha +2 --- AC 17 Fort +8 Ref +11 Will +4 HP 33 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances physical 3 (except adamantine) Weaknesses electricity 6 Haywire A severely damaged mechanical carny has a chance of malfunctioning. If a mechanical carny has 15 or fewer Hit Points at the start of its turn, it must succeed at a DC 5 flat check or go haywire. A haywire mechanical carny wildly attacks the nearest living creature, or the nearest object if no creatures are nearby. It takes a –1 circumstance penalty to Strikes but deals an additional 1d6 bludgeoning damage plus Knockdown. This effect lasts 10 minutes or until the mechanical carny is destroyed. --- Speed 25 feet Melee Single Action spring-loaded fist +11 (Nonlethal, reach 10 feet), Damage 2d4+4 bludgeoning Melee Single Action headbutt +11, Damage 2d4+4 bludgeoning Creating Mechanical Carnies Constructing a mechanical carny is a difficult feat and requires the supervision of a specialized (and expensive) tinkerer. A thrifty ringmaster may employ a budget-level tinkerer and mechanical carny, though they get what they pay for; many a cheap troupe leader has found a malfunctioning mechanical carny wreaking havoc in their circus tent. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108)",
+ "trait_raw": [
+  "Construct",
+  "Mindless"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=505",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "electricity": 6
+ },
+ "weakness_markdown": "electricity 6",
+ "weakness_raw": "electricity 6",
+ "will_save": 4,
+ "wisdom": 0
+}

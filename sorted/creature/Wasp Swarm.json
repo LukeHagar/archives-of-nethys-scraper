@@ -1,0 +1,102 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 2,
+ "creature_ability": [
+  "Swarming Stings",
+  "Wasp Venom"
+ ],
+ "creature_family": "Wasp",
+ "creature_family_markdown": "[Wasp](/MonsterFamilies.aspx?ID=99)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-406",
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, swarm mind",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Wasp Swarm](/Monsters.aspx?ID=406)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWasp nests are made of chewed wood fibers foraged from the surrounding flora, which the wasps make into a material similar to paper. A single wasp nest can house thousands of individuals that emerge as a massive swarm. Most swarms attack only to protect their nest or if otherwise agitated, though druids and other primal enchanters can bend these venomous vermin to their will—to deadly effect.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Wasp Swarm](/Monsters.aspx?ID=406)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 324</row>\n\n**Perception** +10; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** -4\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +2\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\n\n**Immunities**\r\nprecision, swarm mind\r\n\r\n**Resistances**\r\nbludgeoning 7, piercing 7, slashing 3\r\n\r\n**Weaknesses**\r\narea damage 5, splash damage 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 40 feet\n\n**Swarming Stings** <actions string=\"Single Action\" />  Each enemy in the swarm’s space takes 2d8 piercing damage (DC 21 basic Reflex save) and is exposed to wasp venom. A successful save negates the poison exposure.\r\n\r\n**Wasp Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 21; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison (1 round); **Stage 2** 2d6 poison and clumsy 2 (2 rounds)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-99\" />",
+ "name": "Wasp Swarm",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 7,
+  "piercing": 7,
+  "slashing": 3
+ },
+ "resistance_markdown": "bludgeoning 7, piercing 7, slashing 3",
+ "resistance_raw": "bludgeoning 7, piercing 7, slashing 3",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 324</row>\r\n\r\n**Creature Family** [Wasp](/MonsterFamilies.aspx?ID=99)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 18\r\n\r\n**Fort** +10\r\n\r\n**Ref** +12\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWasp nests are made of chewed wood fibers foraged from the surrounding flora, which the wasps make into a material similar to paper. A single wasp …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 324"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 324</row>",
+ "speed": {
+  "fly": 40,
+  "land": 20,
+  "max": 40
+ },
+ "speed_markdown": "20 feet, fly 40 feet",
+ "speed_raw": "20 feet, fly 40 feet",
+ "spell_markdown": "",
+ "strength": -4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Wasp nests are made of chewed wood fibers foraged from the surrounding flora, which the wasps make into a material similar to paper. A single wasp …",
+ "summary_markdown": "Wasp nests are made of chewed wood fibers foraged from the surrounding flora, which the wasps make into a material similar to paper. A single wasp …",
+ "text": " Wasp Swarm Wasp nests are made of chewed wood fibers foraged from the surrounding flora, which the wasps make into a material similar to paper. A single wasp nest can house thousands of individuals that emerge as a massive swarm. Most swarms attack only to protect their nest or if otherwise agitated, though druids and other primal enchanters can bend these venomous vermin to their will—to deadly effect. Recall Knowledge - Animal (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Wasp Swarm Source Bestiary pg. 324 Perception +10; darkvision Languages Skills Acrobatics +12 Str -4 Dex +4 Con +2 Int -5 Wis +2 Cha -1 --- AC 18 Fort +10 Ref +12 Will +8 HP 45 Immunities precision, swarm mind Resistances bludgeoning 7, piercing 7, slashing 3 Weaknesses area damage 5, splash damage 5 --- Speed 20 feet, fly 40 feet Swarming Stings Single Action Each enemy in the swarm’s space takes 2d8 piercing damage (DC 21 basic Reflex save) and is exposed to wasp venom. A successful save negates the poison exposure. Wasp Venom (Poison) Saving Throw Fortitude DC 21; Maximum Duration 6 rounds; Stage 1 1d6 poison (1 round); Stage 2 2d6 poison and clumsy 2 (2 rounds) ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=406",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 5,
+  "splash": 5
+ },
+ "weakness_markdown": "area damage 5, splash damage 5",
+ "weakness_raw": "area damage 5, splash damage 5",
+ "will_save": 8,
+ "wisdom": 2
+}

@@ -1,0 +1,96 @@
+{
+ "ac": 26,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 0,
+ "creature_ability": [
+  "Wire Catch",
+  "Flay",
+  "Quick Stitch"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 130,
+ "hp_raw": "130",
+ "id": "creature-2493",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Daemonic"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Daemonic](/Languages.aspx?ID=31)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Skinsaw Seamer](/NPCs.aspx?ID=2493)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Skinsaw Seamer](/NPCs.aspx?ID=2493)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 51</row>\n\n**Perception** +18\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Daemonic](/Languages.aspx?ID=31)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +17, [Deception](/Skills.aspx?ID=5) +16, [Medicine](/Skills.aspx?ID=9) +17, [Norgorber Lore](/Skills.aspx?ID=8) +16, [Religion](/Skills.aspx?ID=13) +17, [Thievery](/Skills.aspx?ID=17) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\nassorted rags and textiles, [daggers](/Weapons.aspx?ID=3) (3), [Leather Armor](/Armor.aspx?ID=4), metal wire, silver [religious symbol](/Equipment.aspx?ID=41) of [Norgorber](/Deities.aspx?ID=13), [Skinsaw mask](/Equipment.aspx?ID=2354), _+1 [striking](/Equipment.aspx?ID=280) [shortsword](/Weapons.aspx?ID=43)_, [War Razor](/Weapons.aspx?ID=103)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 130\n\n**Wire Catch** <actions string=\"Reaction\" /> Every Skinsaw seamer keeps a sewing needle attached to a loop of thick silk, wrapped loosely around their hand not holding a weapon, which they can use in combat to snag or disarm attackers; **Trigger** A creature hits the seamer with a melee Strike; **Effect** The seamer attempts an [Athletics](/Skills.aspx?ID=3) check to either [Grapple](/Actions.aspx?ID=35) or [Disarm](/Actions.aspx?ID=41) the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwar razor +20 ([Agile](/Traits.aspx?ID=170), [Backstabber](/Traits.aspx?ID=172), [deadly d8](/Traits.aspx?ID=174), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d4+7 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_shortsword_ +18 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 2d6+7 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +20 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+7 piercing\n\n**Flay** <actions string=\"Single Action\" />  **Requirements** The Skinsaw seamer dealt damage with a melee weapon other than its war razor with their last action; **Effect** The seamer makes a war razor Strike against the same creature that they just damaged. On a hit, the seamer slices a strip of flesh from the target and deals 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) in addition to the war razor's usual damage.\r\n\r\n**Quick Stitch** <actions string=\"Two Actions\" />  **Requirements** The Skinsaw seamer is currently grappling a creature; **Effect** The seamer stitches a piece of cloth to the creature's arm, face, or leg, potentially hindering it. The creature must attempt a DC 26 Reflex saving throw; if the seamer has already successfully used their Flay ability against the creature within the past minute, the creature's save result is one degree of success worse.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature takes 1d4 piercing damage.<br /> **Failure** The creature is [clumsy 1](/Conditions.aspx?ID=3), [dazzled](/Conditions.aspx?ID=7), [enfeebled 1](/Conditions.aspx?ID=13), or [flat-footed](/Conditions.aspx?ID=16) (seamer's choice). This effect lasts until the creature spends a single action to tear out the stitching, which deals 1d6 piercing damage to it.<br /> **Critical Failure** The creature is clumsy 2, [blinded](/Conditions.aspx?ID=1), enfeebled 2, or flat-footed (seamer's choice). This effect lasts until the creature spends 2 actions to tear out the stitching, which deals 2d6 piercing damage to it.\r\n\r\n</column>",
+ "name": "Skinsaw Seamer",
+ "npc": true,
+ "perception": 18,
+ "rarity": "rare",
+ "reflex_save": 18,
+ "release_date": "2020-08-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 51</row>\n\n<row gap=\"medium\">\r\n**HP** 130\r\n\r\n**AC** 26\r\n\r\n**Fort** +16\r\n\r\n**Ref** +18\r\n\r\n**Will** +17\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Athletics +17",
+  "Deception +16",
+  "Medicine +17",
+  "Norgorber Lore +16",
+  "Religion +17",
+  "Thievery +16"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +17, [Deception](/Skills.aspx?ID=5) +16, [Medicine](/Skills.aspx?ID=9) +17, [Norgorber Lore](/Skills.aspx?ID=8) +16, [Religion](/Skills.aspx?ID=13) +17, [Thievery](/Skills.aspx?ID=17) +16",
+ "source": [
+  "Pathfinder #158: Sixty Feet Under"
+ ],
+ "source_raw": [
+  "Pathfinder #158: Sixty Feet Under pg. 51"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 51</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Agents of Edgewatch",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "",
+ "summary_markdown": "",
+ "text": " Skinsaw Seamer Recall Knowledge - Humanoid (Society): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Skinsaw Seamer Source Pathfinder #158: Sixty Feet Under pg. 51 Perception +18 Languages Common, Daemonic Skills Acrobatics +18, Athletics +17, Deception +16, Medicine +17, Norgorber Lore +16, Religion +17, Thievery +16 Str +3 Dex +4 Con +0 Int +2 Wis +3 Cha +2 Items assorted rags and textiles, daggers (3), Leather Armor, metal wire, silver religious symbol of Norgorber, Skinsaw mask, +1 striking shortsword , War Razor --- AC 26 Fort +16 Ref +18 Will +17 HP 130 Wire Catch Reaction Every Skinsaw seamer keeps a sewing needle attached to a loop of thick silk, wrapped loosely around their hand not holding a weapon, which they can use in combat to snag or disarm attackers; Trigger A creature hits the seamer with a melee Strike; Effect The seamer attempts an Athletics check to either Grapple or Disarm the triggering creature. --- Speed 25 feet Melee Single Action war razor +20 (Agile, Backstabber, deadly d8, Finesse), Damage 1d4+7 piercing Melee Single Action shortsword +18 (Agile, Finesse, Magical, versatile S), Damage 2d6+7 piercing Ranged Single Action dagger +20 (Agile, Finesse, thrown 10 feet, versatile S), Damage 1d4+7 piercing Flay Single Action Requirements The Skinsaw seamer dealt damage with a melee weapon other than its war razor with their last action; Effect The seamer makes a war razor Strike against the same creature that they just damaged. On a hit, the seamer slices a strip of flesh from the target and deals 1d6 persistent bleed damage in addition to the war razor's usual damage. Quick Stitch Two Actions Requirements The Skinsaw seamer is currently grappling a creature; Effect The seamer stitches a piece of cloth to the creature's arm, face, or leg, potentially hindering it. The creature must attempt a DC 26 Reflex saving throw; if the seamer has already successfully used their Flay ability against the creature within the past minute, the creature's save result is one degree of success worse. Critical Success The creature is unaffected. Success The creature takes 1d4 piercing damage. Failure The creature is clumsy 1, dazzled, enfeebled 1, or flat-footed (seamer's choice). This effect lasts until the creature spends a single action to tear out the stitching, which deals 1d6 piercing damage to it. Critical Failure The creature is clumsy 2, blinded, enfeebled 2, or flat-footed (seamer's choice). This effect lasts until the creature spends 2 actions to tear out the stitching, which deals 2d6 piercing damage to it. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Rare",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2493",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 3
+}

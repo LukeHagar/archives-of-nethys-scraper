@@ -1,0 +1,111 @@
+{
+ "ac": 23,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 4,
+ "creature_ability": [
+  "Slow",
+  "Flammable",
+  "Tar-Spattered Charge",
+  "Vomit Tar"
+ ],
+ "creature_family": "Zombie, Tar",
+ "creature_family_markdown": "[Zombie, Tar](/MonsterFamilies.aspx?ID=303)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 180,
+ "hp_raw": "180 ( negative healing )",
+ "id": "creature-1818",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tar Zombie Predator](/Monsters.aspx?ID=1818)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA big predator, like a smilodon or dire wolf, might lurk near a tar pit to pick off helpless creatures. When consumed and returned to unlife by a tar ooze, these tar zombie predators are just as canny and vicious.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Tar Zombie Predator](/Monsters.aspx?ID=1818)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 84</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +17, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +0\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +2\r\n\r\n**Cha** -3\r\n</row>\r\n\r\n**Slow** A tar zombie is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 180\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 10, [positive](/Traits.aspx?ID=128) 10, slashing 10\r\n\r\n**Flammable** A tar zombie requires a successful DC 20 flat check to recover from [persistent fire damage](/Conditions.aspx?ID=29). This DC isn't reduced for assisted recovery.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +18,\r\n**Damage** 2d10+10 bludgeoning plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\n\n**Tar-Spattered Charge** <actions string=\"Two Actions\" />  The tar zombie predator lurches at its foe. It Strides twice and makes a claw Strike, or strides once and makes two claw Strikes. Both Strikes count toward its multiple attack penalty as normal. It can't make a Tar-Spattered Charge again for 1d4 rounds.\r\n\r\n**Vomit Tar** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 6d6 bludgeoning damage (DC 25 [basic](/Rules.aspx?ID=329) Reflex save). Creatures that fail the save are [slowed 1](/Conditions.aspx?ID=35) and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-303\" />",
+ "name": "Tar Zombie Predator",
+ "npc": false,
+ "perception": 15,
+ "rarity": "uncommon",
+ "reflex_save": 11,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 84</row>\r\n\r\n**Creature Family** [Zombie, Tar](/MonsterFamilies.aspx?ID=303)\r\n\r\n<row gap=\"medium\">\r\n**HP** 180 ( negative healing )\r\n\r\n**AC** 23\r\n\r\n**Fort** +18\r\n\r\n**Ref** +11\r\n\r\n**Will** +15\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA big predator, like a smilodon or dire wolf, might lurk near a tar pit to pick off helpless creatures. When consumed and returned to unlife by a tar …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +17",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +17, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Pathfinder #177: Burning Tundra"
+ ],
+ "source_raw": [
+  "Pathfinder #177: Burning Tundra pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 84</row>",
+ "speed": {
+  "climb": 10,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 10 feet",
+ "speed_raw": "30 feet, climb 10 feet",
+ "spell_markdown": "",
+ "spoilers": "Quest for the Frozen Flame",
+ "stealth": "11",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A big predator, like a smilodon or dire wolf, might lurk near a tar pit to pick off helpless creatures. When consumed and returned to unlife by a tar …",
+ "summary_markdown": "A big predator, like a smilodon or dire wolf, might lurk near a tar pit to pick off helpless creatures. When consumed and returned to unlife by a tar …",
+ "text": " Tar Zombie Predator A big predator, like a smilodon or dire wolf, might lurk near a tar pit to pick off helpless creatures. When consumed and returned to unlife by a tar ooze, these tar zombie predators are just as canny and vicious. Recall Knowledge - Undead (Religion): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Tar Zombie Predator Source Pathfinder #177: Burning Tundra pg. 84 Perception +15; darkvision Languages Skills Athletics +17, Stealth +11 Str +6 Dex +0 Con +4 Int -5 Wis +2 Cha -3 Slow A tar zombie is permanently slowed 1 and can't use reactions. --- AC 23 Fort +18 Ref +11 Will +15 HP 180 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, unconscious Weaknesses fire 10, positive 10, slashing 10 Flammable A tar zombie requires a successful DC 20 flat check to recover from persistent fire damage. This DC isn't reduced for assisted recovery. --- Speed 30 feet, climb 10 feet Melee Single Action jaws +18, Damage 2d10+10 bludgeoning plus Improved Grab Tar-Spattered Charge Two Actions The tar zombie predator lurches at its foe. It Strides twice and makes a claw Strike, or strides once and makes two claw Strikes. Both Strikes count toward its multiple attack penalty as normal. It can't make a Tar-Spattered Charge again for 1d4 rounds. Vomit Tar Two Actions (Evocation, Primal) The tar zombie vomits a gout of sticky tar in a 15-foot cone that deals 6d6 bludgeoning damage (DC 25 basic Reflex save). Creatures that fail the save are slowed 1 and gain fire weakness 5. Both conditions end after 3 rounds or when the tar is scrubbed off (which requires 3 Interact actions). The tar zombie can't Vomit Tar again for 1d4 rounds. ",
+ "trait": [
+  "Mindless",
+  "Uncommon",
+  "Undead",
+  "Zombie",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Mindless",
+  "Uncommon",
+  "Undead",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1818",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 10,
+  "positive": 10,
+  "slashing": 10
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 10, [positive](/Traits.aspx?ID=128) 10, slashing 10",
+ "weakness_raw": " fire  10,  positive  10, slashing 10",
+ "will_save": 15,
+ "wisdom": 2
+}

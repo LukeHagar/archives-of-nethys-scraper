@@ -1,0 +1,56 @@
+{
+ "ac": 16,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "Thievery  DC 15 (trained) to loosen the gate's springs before it slams closed",
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hardness": 5,
+ "hardness_raw": "5",
+ "hazard_type": "Trap",
+ "hp": 20,
+ "hp_raw": "20 (BT 10)",
+ "id": "hazard-197",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 1,
+ "markdown": "<title level=\"1\" right=\"Hazard 1\" pfs=\"\">[Slamming Gate](/Hazards.aspx?ID=197)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 17</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThe heavy gate slams shut when opened more than halfway.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 17 (trained)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 15 (trained) to loosen the gate's springs before it slams closed\n\n<column gap=\"tiny\">\r\n\r\n**AC** 16, **Fort** +10, **Ref** +2\r\n\r\n**Hardness**\r\n5\r\n\r\n**HP**\r\n20 (BT 10)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Slam Shut** <actions string=\"Reaction\" /> **Trigger** The door is opened more than halfway; **Effect** The door slams shut and deals 3d8 bludgeoning damage to any creature in the way (DC 17 [basic](/Rules.aspx?ID=329) Reflex save). On a critical failure, the creature is also [restrained](/Conditions.aspx?ID=33) by the closed door until it [Escapes](/Actions.aspx?ID=79) (DC 17)\n\n---\r\n**Reset**\r\nThe trap can be reactivated (or deactivated, if it's active) by flipping a lever hidden in the nearby wall. A character [Searching](/Actions.aspx?ID=519) the area finds it with a successful DC 18 Perception check.",
+ "name": "Slamming Gate",
+ "rarity": "common",
+ "reflex_save": 2,
+ "release_date": "2022-07-27",
+ "reset": "The trap can be reactivated (or deactivated, if it's active) by flipping a lever hidden in the nearby wall. A character <%ACTIONS%519%%>Searching<%END> the area finds it with a successful DC 18 Perception check.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 17</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe heavy gate slams shut when opened more than halfway.\r\n</summary>",
+ "source": [
+  "Pathfinder #181: Zombie Feast"
+ ],
+ "source_raw": [
+  "Pathfinder #181: Zombie Feast pg. 17"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 17</row>",
+ "speed": {},
+ "stealth": "DC 17 (trained)",
+ "summary": "The heavy gate slams shut when opened more than halfway.",
+ "summary_markdown": "The heavy gate slams shut when opened more than halfway.",
+ "text": " Slamming Gate Source Pathfinder #181: Zombie Feast pg. 17 Complexity Simple The heavy gate slams shut when opened more than halfway. --- Stealth DC 17 (trained) Disable Thievery DC 15 (trained) to loosen the gate's springs before it slams closed AC 16, Fort +10, Ref +2 Hardness 5 HP 20 (BT 10) Immunities critical hits, object immunities, precision damage Slam Shut Reaction Trigger The door is opened more than halfway; Effect The door slams shut and deals 3d8 bludgeoning damage to any creature in the way (DC 17 basic Reflex save). On a critical failure, the creature is also restrained by the closed door until it Escapes (DC 17) --- Reset The trap can be reactivated (or deactivated, if it's active) by flipping a lever hidden in the nearby wall. A character Searching the area finds it with a successful DC 18 Perception check.",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=197",
+ "weakness": {}
+}

@@ -1,0 +1,58 @@
+{
+ "ac": 18,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Thievery  DC 18 (trained) to carefully remove a pollen pod or  Nature  DC 18 (trained) to prevent a pod from bursting.",
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hardness": 1,
+ "hardness_raw": "1",
+ "hazard_type": "Environmental",
+ "hp": 32,
+ "hp_raw": "32 (BT 16)",
+ "id": "hazard-216",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 3,
+ "markdown": "<title level=\"1\" right=\"Hazard 3\" pfs=\"\">[Dream Pollen](/Hazards.aspx?ID=216)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 12</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nFour magical plants inside the wagon release hallucinogenic pollen when disturbed.\r\n\r\n---\r\n\r\n**Stealth**\r\n+12 (trained)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 18 (trained) to carefully remove a pollen pod or [Nature](/Skills.aspx?ID=10) DC 18 (trained) to prevent a pod from bursting.\n\n<column gap=\"tiny\">\r\n\r\n**AC** 18, **Fort** +9, **Ref** +3\r\n\r\n**Hardness**\r\n1\r\n\r\n**HP**\r\n32 (BT 16)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Pollen Burst** <actions string=\"Reaction\" /> **Trigger** The wagon door is opened or the pods are disturbed; **Effect** A pod makes a pollen spray Strike against an adjacent creature or the creature that opened the door, the door falls off the wagon, and the trap rolls initiative.\n\n---\r\n**Routine**\r\n(4 actions) The trap loses 1 action each turn for each removed or disabled pollen pod. The trap doesn't take a multiple attack penalty.<br /> **Ranged** <actions string=\"Single Action\" /> pollen spray +12 ([range 20 feet](/Traits.aspx?ID=248)), **Damage** 1d8 poison and hallucinogenic pollen<br /> **Hallucinogenic Pollen** A creature hit by the trap's pollen spray must succeed at a DC 20 Will save or it is [confused](/Conditions.aspx?ID=5) for 1 round and takes a –2 status penalty to Perception checks and saves against [mental](/Traits.aspx?ID=106) effects for 1d4 hours. On a critical failure, the penalty is instead –4.\r\n\r\n---\r\n**Reset**\r\nThe trap resets after 1 hour, when the pods have regrown additional pollen. If all the pods are removed or disabled, the trap doesn't reset.",
+ "name": "Dream Pollen",
+ "rarity": "common",
+ "reflex_save": 3,
+ "release_date": "2020-01-30",
+ "reset": "The trap resets after 1 hour, when the pods have regrown additional pollen. If all the pods are removed or disabled, the trap doesn't reset.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 12</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFour magical plants inside the wagon release hallucinogenic pollen when disturbed.\r\n</summary>",
+ "source": [
+  "Pathfinder #151: The Show Must Go On"
+ ],
+ "source_raw": [
+  "Pathfinder #151: The Show Must Go On pg. 12"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 12</row>",
+ "speed": {},
+ "stealth": "+12 (trained)",
+ "summary": "Four magical plants inside the wagon release hallucinogenic pollen when disturbed.",
+ "summary_markdown": "Four magical plants inside the wagon release hallucinogenic pollen when disturbed.",
+ "text": " Dream Pollen Source Pathfinder #151: The Show Must Go On pg. 12 Complexity Complex Four magical plants inside the wagon release hallucinogenic pollen when disturbed. --- Stealth +12 (trained) Disable Thievery DC 18 (trained) to carefully remove a pollen pod or Nature DC 18 (trained) to prevent a pod from bursting. AC 18, Fort +9, Ref +3 Hardness 1 HP 32 (BT 16) Immunities critical hits, object immunities, precision damage Pollen Burst Reaction Trigger The wagon door is opened or the pods are disturbed; Effect A pod makes a pollen spray Strike against an adjacent creature or the creature that opened the door, the door falls off the wagon, and the trap rolls initiative. --- Routine (4 actions) The trap loses 1 action each turn for each removed or disabled pollen pod. The trap doesn't take a multiple attack penalty. Ranged Single Action pollen spray +12 (range 20 feet), Damage 1d8 poison and hallucinogenic pollen Hallucinogenic Pollen A creature hit by the trap's pollen spray must succeed at a DC 20 Will save or it is confused for 1 round and takes a –2 status penalty to Perception checks and saves against mental effects for 1d4 hours. On a critical failure, the penalty is instead –4. --- Reset The trap resets after 1 hour, when the pods have regrown additional pollen. If all the pods are removed or disabled, the trap doesn't reset.",
+ "trait": [
+  "Complex",
+  "Environmental",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Environmental](/Traits.aspx?ID=62), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Environmental",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=216",
+ "weakness": {}
+}

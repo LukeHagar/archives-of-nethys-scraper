@@ -1,0 +1,105 @@
+{
+ "ac": 18,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 0,
+ "creature_ability": [
+  "Anchored Soul",
+  "Bonded Vessel",
+  "Reconstitution",
+  "Spirit Receptacle",
+  "Inhabit Vessel",
+  "Spirit Body"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 28,
+ "hp_raw": "28",
+ "id": "creature-2046",
+ "immunity": [
+  "disease",
+  "paralyzed",
+  "petrified",
+  "poison"
+ ],
+ "immunity_markdown": "[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [petrified](/Conditions.aspx?ID=30), [poison](/Traits.aspx?ID=126)",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Infernal",
+  "<%UMR%37%%>telepathy<%END> 60 feet"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19); [telepathy](/MonsterAbilities.aspx?ID=37) 60 feet",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Granite Vulture](/Monsters.aspx?ID=2046)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Granite Vulture](/Monsters.aspx?ID=2046)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 46</row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19); [telepathy](/MonsterAbilities.aspx?ID=37) 60 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +6, [Religion](/Skills.aspx?ID=13) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +0\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Anchored Soul** A granite vulture is mystically bonded to a vulture-shaped stone vessel. It must remain within 60 feet of it.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +10 \r\n\r\n+1 status to all saves vs. good\r\n</row>\r\n\r\n**HP** 28\n\n**Immunities**\r\n[disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [petrified](/Conditions.aspx?ID=30), [poison](/Traits.aspx?ID=126)\n\n**Bonded Vessel** The condition of a granite vulture's primary vessel dictates the vulture's maximum Hit Point value. Undamaged, the vulture-shaped vessel is an object with 28 Hit Points (BT 14). While the vulture is in spirit form, damaging them doesn't hurt the vessel, but damaging the vessel deals an equal amount of damage to the vulture. While the vulture Inhabits their vessel, they're a single target, and damage reduces the Hit Points of both the vulture and the vessel. If the vessel is [broken](/Conditions.aspx?ID=2), the vulture can still fight normally while inhabiting the vessel and suffers no ill effect; if the vessel is destroyed, the vulture is instantly incorporated into its secondary vessel.<br />**Reconstitution** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) When the vulture reaches 0 Hit Points, their spirit dissipates. If their vessel remains intact, the vulture re-forms within it after 2d4 days, fully healed. If the vessel is broken, their receptacle reconstitutes the vessel in 2d4 days, and the vulture re-forms within it in another 2d4 days. In the meantime, the vulture's consciousness inhabits their spirit receptacle. If both their vessel and receptacle are destroyed, the vulture is instantly slain and can't reconstitute.<br />**Spirit Receptacle** If the granite vulture's bonded vessel is destroyed, their spirit inhabits an inanimate skull-shaped receptacle. In this state, they're [petrified](/Conditions.aspx?ID=30) and can take no actions other than to speak telepathically until they are Reconstituted. The spirit receptacle has 56 Hit Points (BT 14, Hardness 7).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+4 piercing plus 1 [persistent bleed damage](/Conditions.aspx?ID=29)\r\n\r\n**Divine Innate Spells** DC 17\r\n- **1st**\r\n[Detect Alignment](/Spells.aspx?ID=65) (at will; chaos or good only)\r\n\r\n**Inhabit Vessel** <actions string=\"Two Actions\" /> ([Manipulate](/Traits.aspx?ID=104)) The vulture touches and melds with their bonded vessel, bringing the statue to life. They can cease Inhabiting their Vessel by spending a single action, which has the [concentrate](/Traits.aspx?ID=32) trait. While Inhabiting the Vessel, they gain **Immunities** [healing](/Traits.aspx?ID=89), [nonlethal](/Traits.aspx?ID=188); **Resistances** physical 3 (except bludgeoning); and the following Strike.\r\n\r\n**Spirit Body**   When not Inhabiting their vessel or receptacle, the vulture is [incorporeal](/Traits.aspx?ID=222), is [slowed 1](/Conditions.aspx?ID=35), and gains resistance 3 to all damage (except [force](/Traits.aspx?ID=75) damage and damage from Strikes with the [_ghost touch_](/Equipment.aspx?ID=297) property rune; double resistance against non-[magical](/Traits.aspx?ID=103)).\r\n\r\n</column>",
+ "name": "Granite Vulture",
+ "npc": false,
+ "perception": 10,
+ "rarity": "rare",
+ "reflex_save": 8,
+ "release_date": "2022-07-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 46</row>\n\n<row gap=\"medium\">\r\n**HP** 28\r\n\r\n**AC** 18\r\n\r\n**Fort** +6\r\n\r\n**Ref** +8\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +6",
+  "Religion +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +6, [Religion](/Skills.aspx?ID=13) +8",
+ "source": [
+  "Pathfinder #181: Zombie Feast"
+ ],
+ "source_raw": [
+  "Pathfinder #181: Zombie Feast pg. 46"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 46</row>",
+ "speed": {
+  "fly": 25,
+  "land": 20,
+  "max": 25
+ },
+ "speed_markdown": "20 feet, fly 25 feet",
+ "speed_raw": "20 feet, fly 25 feet",
+ "spell": [
+  "Detect Alignment"
+ ],
+ "spell_markdown": "[Detect Alignment](/Spells.aspx?ID=65)",
+ "spoilers": "Blood Lords",
+ "strength": 2,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Granite Vulture Recall Knowledge - Fiend (Religion): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Granite Vulture Source Pathfinder #181: Zombie Feast pg. 46 Perception +10; darkvision, scent (imprecise) 30 feet Languages Common, Infernal; telepathy 60 feet Skills Acrobatics +8, Athletics +6, Religion +8 Str +2 Dex +4 Con +0 Int +1 Wis +4 Cha +0 Anchored Soul A granite vulture is mystically bonded to a vulture-shaped stone vessel. It must remain within 60 feet of it. --- AC 18 Fort +6 Ref +8 Will +10 +1 status to all saves vs. good HP 28 Immunities disease, paralyzed, petrified, poison Bonded Vessel The condition of a granite vulture's primary vessel dictates the vulture's maximum Hit Point value. Undamaged, the vulture-shaped vessel is an object with 28 Hit Points (BT 14). While the vulture is in spirit form, damaging them doesn't hurt the vessel, but damaging the vessel deals an equal amount of damage to the vulture. While the vulture Inhabits their vessel, they're a single target, and damage reduces the Hit Points of both the vulture and the vessel. If the vessel is broken, the vulture can still fight normally while inhabiting the vessel and suffers no ill effect; if the vessel is destroyed, the vulture is instantly incorporated into its secondary vessel. Reconstitution (divine, necromancy) When the vulture reaches 0 Hit Points, their spirit dissipates. If their vessel remains intact, the vulture re-forms within it after 2d4 days, fully healed. If the vessel is broken, their receptacle reconstitutes the vessel in 2d4 days, and the vulture re-forms within it in another 2d4 days. In the meantime, the vulture's consciousness inhabits their spirit receptacle. If both their vessel and receptacle are destroyed, the vulture is instantly slain and can't reconstitute. Spirit Receptacle If the granite vulture's bonded vessel is destroyed, their spirit inhabits an inanimate skull-shaped receptacle. In this state, they're petrified and can take no actions other than to speak telepathically until they are Reconstituted. The spirit receptacle has 56 Hit Points (BT 14, Hardness 7). --- Speed 20 feet, fly 25 feet Melee Single Action jaws (Agile, Finesse), Damage 1d6+4 piercing plus 1 persistent bleed damage Divine Innate Spells DC 17 - 1st Detect Alignment (at will; chaos or good only) Inhabit Vessel Two Actions (Manipulate) The vulture touches and melds with their bonded vessel, bringing the statue to life. They can cease Inhabiting their Vessel by spending a single action, which has the concentrate trait. While Inhabiting the Vessel, they gain Immunities healing, nonlethal; Resistances physical 3 (except bludgeoning); and the following Strike. Spirit Body When not Inhabiting their vessel or receptacle, the vulture is incorporeal, is slowed 1, and gains resistance 3 to all damage (except force damage and damage from Strikes with the ghost touch property rune; double resistance against non-magical). ",
+ "trait": [
+  "Fiend",
+  "Rare",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Fiend",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2046",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 4
+}

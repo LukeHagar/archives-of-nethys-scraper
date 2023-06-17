@@ -1,0 +1,107 @@
+{
+ "ac": 14,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Mist Vision",
+  "Resonance",
+  "Accord Essence",
+  "Drench",
+  "In Concert"
+ ],
+ "creature_family": "Elemental, Wisp",
+ "creature_family_markdown": "[Elemental, Wisp](/MonsterFamilies.aspx?ID=232)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 20,
+ "hp_raw": "20",
+ "id": "creature-1145",
+ "immunity": [
+  "bleed",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "Aquan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14)",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Water Wisp](/Monsters.aspx?ID=1145)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWater wisps are swimming spheres of foam and water, perpetually humming with a wash of soft sounds. They're gentle, nurturing, and quick to help anyone in need.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Water Wisp](/Monsters.aspx?ID=1145)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 91</row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12), mist vision\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +4, [Medicine](/Skills.aspx?ID=9) +6, [Plane of Water Lore](/Skills.aspx?ID=8) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Mist Vision** The water wisp ignores the [concealed](/Conditions.aspx?ID=4) condition from mist and fog.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 14 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +4 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 20\n\n**Immunities**\r\nbleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\r\n\r\n**Resistances**\r\nfire 2\n\n**Resonance** ([aura](/Traits.aspx?ID=206), [water](/Traits.aspx?ID=165)) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. A creature in the area gains a +1 status bonus to attack and damage rolls for effects with the [water](/Traits.aspx?ID=165) trait; a creature with the [elemental](/Traits.aspx?ID=57) and water traits gains this bonus to all attack and damage rolls.<br />**Accord Essence** <actions string=\"Reaction\" /> ([water](/Traits.aspx?ID=165)) **Trigger** An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack; **Effect** The wisp detonates itself in a small elemental explosion that gives temporary Hit Points equal to half the wisp's current Hit Points to allies within 30 feet that have benefited from the wisp's resonance in the last hour. These temporary Hit Points last 1 hour.<br /> A wisp that uses this reaction is permanently destroyed, and it can be restored only by a [_wish_](/Spells.aspx?ID=377) spell or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntendril +6 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d6 bludgeoning\n\n**Drench** <actions string=\"Single Action\" /> ([Abjuration](/Traits.aspx?ID=2), [Primal](/Traits.aspx?ID=134), [Water](/Traits.aspx?ID=165)) The wisp puts out all fires in a single 5-foot square. It extinguishes non-magical fire of that size or smaller automatically and attempts to [counteract](/Rules.aspx?ID=371) magical fires (counteract modifier +6).\r\n\r\n**In Concert**   When a water wisp rolls a critical failure on a check to [Aid](/Actions.aspx?ID=75), they get a failure instead, and when they roll a success, they get a critical success instead.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-232\" />",
+ "name": "Water Wisp",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 4,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "fire": 2
+ },
+ "resistance_markdown": "fire 2",
+ "resistance_raw": "fire 2",
+ "search_markdown": "<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 91</row>\r\n\r\n**Creature Family** [Elemental, Wisp](/MonsterFamilies.aspx?ID=232)\r\n\r\n<row gap=\"medium\">\r\n**HP** 20\r\n\r\n**AC** 14\r\n\r\n**Fort** +8\r\n\r\n**Ref** +4\r\n\r\n**Will** +4\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWater wisps are swimming spheres of foam and water, perpetually humming with a wash of soft sounds. They're gentle, nurturing, and quick to help …\r\n</summary>",
+ "sense": " darkvision , mist vision",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), mist vision",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Athletics +4",
+  "Medicine +6",
+  "Plane of Water Lore +4"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +4, [Medicine](/Skills.aspx?ID=9) +6, [Plane of Water Lore](/Skills.aspx?ID=8) +4",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 91"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 91</row>",
+ "speed": {
+  "land": 25,
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "25 feet, swim 25 feet",
+ "speed_raw": "25 feet, swim 25 feet",
+ "spell_markdown": "",
+ "strength": 2,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Water wisps are swimming spheres of foam and water, perpetually humming with a wash of soft sounds. They're gentle, nurturing, and quick to help …",
+ "summary_markdown": "Water wisps are swimming spheres of foam and water, perpetually humming with a wash of soft sounds. They're gentle, nurturing, and quick to help …",
+ "text": " Water Wisp Water wisps are swimming spheres of foam and water, perpetually humming with a wash of soft sounds. They're gentle, nurturing, and quick to help anyone in need. Recall Knowledge - Elemental (Arcana, Nature): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Water Wisp Source Bestiary 3 pg. 91 Perception +6; darkvision, mist vision Languages Aquan Skills Athletics +4, Medicine +6, Plane of Water Lore +4 Str +2 Dex +2 Con +3 Int +0 Wis +2 Cha +0 Mist Vision The water wisp ignores the concealed condition from mist and fog. --- AC 14 Fort +8 Ref +4 Will +4 HP 20 Immunities bleed, paralyzed, poison, sleep Resistances fire 2 Resonance (aura, water) 30 feet. All wisps vibrate at a frequency attuned to their element, resonating with and empowering all creatures and effects sharing that trait. A creature in the area gains a +1 status bonus to attack and damage rolls for effects with the water trait; a creature with the elemental and water traits gains this bonus to all attack and damage rolls. Accord Essence Reaction (water) Trigger An ally within 30 feet that benefited from the wisp's resonance in the last hour is targeted by an attack; Effect The wisp detonates itself in a small elemental explosion that gives temporary Hit Points equal to half the wisp's current Hit Points to allies within 30 feet that have benefited from the wisp's resonance in the last hour. These temporary Hit Points last 1 hour. A wisp that uses this reaction is permanently destroyed, and it can be restored only by a wish spell or similarly powerful effect. If an ability would prevent the wisp's destruction (for instance, if the wisp is summoned and would merely be dismissed), Accord Essence has no effect. --- Speed 25 feet, swim 25 feet Melee Single Action tendril +6 (reach 10 feet), Damage 1d6 bludgeoning Drench Single Action (Abjuration, Primal, Water) The wisp puts out all fires in a single 5-foot square. It extinguishes non-magical fire of that size or smaller automatically and attempts to counteract magical fires (counteract modifier +6). In Concert When a water wisp rolls a critical failure on a check to Aid, they get a failure instead, and when they roll a success, they get a critical success instead. ",
+ "trait": [
+  "Elemental",
+  "Water",
+  "N",
+  "Tiny"
+ ],
+ "trait_markdown": "[Elemental](/Traits.aspx?ID=57), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Elemental",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1145",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 4,
+ "wisdom": 2
+}

@@ -1,0 +1,103 @@
+{
+ "ac": 15,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Diseased Pustules",
+  "Feast",
+  "On All Fours"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 24,
+ "hp_raw": "24 ( negative healing )",
+ "id": "creature-1153",
+ "image": [
+  "/Images/Monsters/Festrog.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Festrog](/Monsters.aspx?ID=1153)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSpawned from corpses of those who died of illness or starvation and twisted by negative energy, festrogs display a visciousness that rivals other undead. They resemble decaying humanoids, but with elongated arms, teeth, and bone-like spikes protruding from their upper backs. Festrogs' tendency to run on all fours has led to them gaining the moniker dog-ghouls, causing the unwary to mistake them for mindless predators.\n\n Festrogs are in fact intelligent, stalking victims in packs and choosing hunting grounds that suit their abilities. They can often be found roaming farmlands, open forests, or wide plains, anywhere they can use their quadrupedal speed to overtake quarry. Belying their mindless appearance, festrogs use tactics similar to those of hunters with hounds: the leader of the pack often flushes prey from cover so that the victim can be brought down by the pack.\n\n Researchers of the necromantic processes that creates risen corpses have found that festrogs spawn more often from slow demises than sudden deaths. Festrogs typically animate from corpses afflicted with disease, while victims of violence are more likely to become more common undead, such as [zombies](/MonsterFamilies.aspx?ID=103). One documented way to create a festrog is to have scavengers feed on the dead flesh before animating it. This potentially explains why festrogs most often arise in remote areas stricken with famine and desperate predators.\n\n Though most festrogs arise from humans and other prevalent humanoids, other creatures that die in the same circumstances can rise as festrogs. Festrogs that were once larger humanoids such as [ogres](/MonsterFamilies.aspx?ID=78), [hill giants](/Monsters.aspx?ID=220), or [trolls](/MonsterFamilies.aspx?ID=96) behave similarly to other humanoid festrogs and are simply larger and more powerful. More peculiar are the beastkin festrogs formed of quadrupedal animals, which typically have feet or hooves instead of hands, travel on all fours at all times, and have only animal intelligence. In fact, some humanoid festrogs capture and starve beastkin in hopes of the creatures rising as grotesque festrog pets.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Festrog.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Festrog](/Monsters.aspx?ID=1153)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 98</row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +7, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 24\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Diseased Pustules** ([disease](/Traits.aspx?ID=46), [poison](/Traits.aspx?ID=126)) Whenever the festrog takes piercing or slashing damage, creatures adjacent to the festrog take 1d4 poison damage (DC 14 basic Reflex save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +9,\r\n**Damage** 1d6+4 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +9 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d4+4 slashing\n\n**Feast** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The festrog's last action was a jaws Strike that damaged a living creature; **Effect** The festrog tears into the creature's flesh and gulps it down voraciously, dealing 1d4 slashing damage to the creature and gaining temporary Hit Points equal to the damage dealt. These temporary HP last for 1 minute.\r\n\r\n**On All Fours** <actions string=\"Single Action\" />  **Requirements** The festrog has nothing in their hands; **Effect** The festrog Strides with a +10-foot circumstance bonus to their Speed.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Whispering Hounds</title>\r\n\r\nSince the fall of Lastwall and the creation of the Gravelands, festrogs have become more common. They prowl the edges of once-peaceful farmland and often precede a horde of further horrors. Rumors have begun to circulate that the necromancers of the Whispering Way use these creatures as advance scouts to find vulnerable towns and sow terror. As a result, attacks that once would have been dismissed as the predation of wolf packs now evoke a much greater degree of panic.\r\n</aside>",
+ "name": "Festrog",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 98</row>\n\n<row gap=\"medium\">\r\n**HP** 24 ( negative healing )\r\n\r\n**AC** 15\r\n\r\n**Fort** +7\r\n\r\n**Ref** +7\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSpawned from corpses of those who died of illness or starvation and twisted by negative energy, festrogs display a visciousness that rivals other …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +5",
+  "Athletics +7",
+  "Stealth +7",
+  "Survival +5"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +7, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +5",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 98"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 98</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "Spawned from corpses of those who died of illness or starvation and twisted by negative energy, festrogs display a visciousness that rivals other …",
+ "summary_markdown": "Spawned from corpses of those who died of illness or starvation and twisted by negative energy, festrogs display a visciousness that rivals other …",
+ "text": " Festrog Spawned from corpses of those who died of illness or starvation and twisted by negative energy, festrogs display a visciousness that rivals other undead. They resemble decaying humanoids, but with elongated arms, teeth, and bone-like spikes protruding from their upper backs. Festrogs' tendency to run on all fours has led to them gaining the moniker dog-ghouls, causing the unwary to mistake them for mindless predators. Festrogs are in fact intelligent, stalking victims in packs and choosing hunting grounds that suit their abilities. They can often be found roaming farmlands, open forests, or wide plains, anywhere they can use their quadrupedal speed to overtake quarry. Belying their mindless appearance, festrogs use tactics similar to those of hunters with hounds: the leader of the pack often flushes prey from cover so that the victim can be brought down by the pack. Researchers of the necromantic processes that creates risen corpses have found that festrogs spawn more often from slow demises than sudden deaths. Festrogs typically animate from corpses afflicted with disease, while victims of violence are more likely to become more common undead, such as zombies. One documented way to create a festrog is to have scavengers feed on the dead flesh before animating it. This potentially explains why festrogs most often arise in remote areas stricken with famine and desperate predators. Though most festrogs arise from humans and other prevalent humanoids, other creatures that die in the same circumstances can rise as festrogs. Festrogs that were once larger humanoids such as ogres, hill giants, or trolls behave similarly to other humanoid festrogs and are simply larger and more powerful. More peculiar are the beastkin festrogs formed of quadrupedal animals, which typically have feet or hooves instead of hands, travel on all fours at all times, and have only animal intelligence. In fact, some humanoid festrogs capture and starve beastkin in hopes of the creatures rising as grotesque festrog pets. Recall Knowledge - Undead (Religion): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Festrog Source Bestiary 3 pg. 98 Perception +6; darkvision Languages Common Skills Acrobatics +5, Athletics +7, Stealth +7, Survival +5 Str +4 Dex +2 Con +2 Int +0 Wis +1 Cha +1 --- AC 15 Fort +7 Ref +7 Will +6 HP 24 (negative healing) Immunities death effects, disease, paralyzed, poison, sleep Diseased Pustules (disease, poison) Whenever the festrog takes piercing or slashing damage, creatures adjacent to the festrog take 1d4 poison damage (DC 14 basic Reflex save). --- Speed 30 feet Melee Single Action jaws +9, Damage 1d6+4 piercing Melee Single Action claw +9 (Agile), Damage 1d4+4 slashing Feast Single Action (Manipulate) Requirements The festrog's last action was a jaws Strike that damaged a living creature; Effect The festrog tears into the creature's flesh and gulps it down voraciously, dealing 1d4 slashing damage to the creature and gaining temporary Hit Points equal to the damage dealt. These temporary HP last for 1 minute. On All Fours Single Action Requirements The festrog has nothing in their hands; Effect The festrog Strides with a +10-foot circumstance bonus to their Speed. Whispering Hounds Since the fall of Lastwall and the creation of the Gravelands, festrogs have become more common. They prowl the edges of once-peaceful farmland and often precede a horde of further horrors. Rumors have begun to circulate that the necromancers of the Whispering Way use these creatures as advance scouts to find vulnerable towns and sow terror. As a result, attacks that once would have been dismissed as the predation of wolf packs now evoke a much greater degree of panic. ",
+ "trait": [
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1153",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 1
+}

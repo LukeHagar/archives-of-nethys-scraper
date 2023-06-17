@@ -1,0 +1,106 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Wolf Empathy",
+  "Attack of Opportunity",
+  "Change Shape",
+  "Curse of the Werewolf",
+  "Moon Frenzy",
+  "Pack Attack"
+ ],
+ "creature_family": "Werecreature",
+ "creature_family_markdown": "[Werecreature](/MonsterFamilies.aspx?ID=100)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 63,
+ "hp_raw": "63",
+ "id": "creature-411",
+ "image": [
+  "/Images/Monsters/Werecreature_Werewolf.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "wolf empathy"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); wolf empathy",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Werewolf](/Monsters.aspx?ID=411)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe curse of the werewolf—known as lycanthropy to many—instills in its carriers the hungry bloodlust and predatory instincts of the wolf. Werewolves tend to dwell on the fringes of society or in small settlements where, in their humanoid forms, they work as laborers, hunters, farmers, or trappers. At night, however, these same villagers transform into violent killers and sadistic stalkers who prey on their neighbors. Werewolves are the quintessential werecreature, and the first that comes to mind when most people speak of such beings.\n\n Although most werewolves hide their curse by adopting solitary lifestyles, some retain the pack mentality of true wolves. A small group of such werewolves typically forms a family-like pack, with the eldest or most powerful serving as the leader; new pack mates are hand-chosen and inculcated into the family as its influence grows.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Werecreature_Werewolf.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Werewolf](/Monsters.aspx?ID=411)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 330</row>\n\n**Perception** +9; low-light vision, scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); wolf empathy\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +9, [Survival](/Skills.aspx?ID=16) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +2\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Wolf Empathy** ([divination](/Traits.aspx?ID=47), [primal](/Traits.aspx?ID=134)) The werewolf can communicate with lupines.\r\n\r\n**Items**\r\n[Studded Leather Armor](/Armor.aspx?ID=5), [Composite Shortbow](/Weapons.aspx?ID=75) (20 arrows)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 63\n\n**Weaknesses**\r\nsilver 5\r\n\r\n**Attack of Opportunity** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbattle axe +11 ([Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 1d8+8 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +11 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+8 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +11,\r\n**Damage** 1d8+8 piercing plus curse of the werewolf\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncomposite shortbow +9 ([deadly 1d10](/Traits.aspx?ID=174), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+4 piercing\n\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) Human with fist +11 for 1d4+8 bludgeoning, or wolf with Speed 40 feet and jaws with Knockdown.\r\n\r\n**Curse of the Werewolf**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)) This curse affects only humanoids. **Saving Throw** DC 19 Fortitude save. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werewolf until dawn. The creature is under the GM’s control and goes on a rampage for half the night before falling unconscious until dawn.\r\n\r\n**Moon Frenzy**  ([Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) When a full moon appears in the night sky, the werewolf must enter hybrid form, can’t Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werewolf returns to humanoid form and is fatigued for 2d4 hours.\r\n\r\n**Pack Attack**   The werewolf’s Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf’s allies.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-100\" />",
+ "name": "Werewolf",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 330</row>\r\n\r\n**Creature Family** [Werecreature](/MonsterFamilies.aspx?ID=100)\r\n\r\n<row gap=\"medium\">\r\n**HP** 63\r\n\r\n**AC** 19\r\n\r\n**Fort** +11\r\n\r\n**Ref** +9\r\n\r\n**Will** +7\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe curse of the werewolf—known as lycanthropy to many—instills in its carriers the hungry bloodlust and predatory instincts of the wolf. Werewolves …\r\n</summary>",
+ "sense": "low-light vision, scent (imprecise) 30 feet",
+ "sense_markdown": "low-light vision, scent (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +9",
+  "Survival +10"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +9, [Survival](/Skills.aspx?ID=16) +10",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 330"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 330</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The curse of the werewolf—known as lycanthropy to many—instills in its carriers the hungry bloodlust and predatory instincts of the wolf. Werewolves …",
+ "summary_markdown": "The curse of the werewolf—known as lycanthropy to many—instills in its carriers the hungry bloodlust and predatory instincts of the wolf. Werewolves …",
+ "text": " Werewolf The curse of the werewolf—known as lycanthropy to many—instills in its carriers the hungry bloodlust and predatory instincts of the wolf. Werewolves tend to dwell on the fringes of society or in small settlements where, in their humanoid forms, they work as laborers, hunters, farmers, or trappers. At night, however, these same villagers transform into violent killers and sadistic stalkers who prey on their neighbors. Werewolves are the quintessential werecreature, and the first that comes to mind when most people speak of such beings. Although most werewolves hide their curse by adopting solitary lifestyles, some retain the pack mentality of true wolves. A small group of such werewolves typically forms a family-like pack, with the eldest or most powerful serving as the leader; new pack mates are hand-chosen and inculcated into the family as its influence grows. Recall Knowledge - Beast (Arcana, Nature): DC 18 Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Werewolf Source Bestiary pg. 330 Perception +9; low-light vision, scent (imprecise) 30 feet Languages Common; wolf empathy Skills Acrobatics +7, Athletics +9, Survival +10 Str +4 Dex +2 Con +2 Int -1 Wis +2 Cha +1 Wolf Empathy (divination, primal) The werewolf can communicate with lupines. Items Studded Leather Armor, Composite Shortbow (20 arrows) --- AC 19 Fort +11 Ref +9 Will +7 HP 63 Weaknesses silver 5 Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action battle axe +11 (Sweep), Damage 1d8+8 slashing Melee Single Action claw +11 (Agile), Damage 1d6+8 slashing Melee Single Action jaws +11, Damage 1d8+8 piercing plus curse of the werewolf Ranged Single Action composite shortbow +9 (deadly 1d10, range increment 60 feet, reload 0), Damage 1d6+4 piercing Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) Human with fist +11 for 1d4+8 bludgeoning, or wolf with Speed 40 feet and jaws with Knockdown. Curse of the Werewolf (Curse, Necromancy, Primal) This curse affects only humanoids. Saving Throw DC 19 Fortitude save. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a werewolf until dawn. The creature is under the GM’s control and goes on a rampage for half the night before falling unconscious until dawn. Moon Frenzy (Polymorph, Primal, Transmutation) When a full moon appears in the night sky, the werewolf must enter hybrid form, can’t Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werewolf returns to humanoid form and is fatigued for 2d4 hours. Pack Attack The werewolf’s Strikes deal 1d6 extra damage to creatures within reach of at least two of the werewolf’s allies. ",
+ "trait": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Werecreature",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Werecreature](/Traits.aspx?ID=243)",
+ "trait_raw": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Werecreature"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=411",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "silver": 5
+ },
+ "weakness_markdown": "silver 5",
+ "weakness_raw": "silver 5",
+ "will_save": 7,
+ "wisdom": 2
+}

@@ -1,0 +1,115 @@
+{
+ "ac": 31,
+ "alignment": "LG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 7,
+ "creature_ability": [
+  "Morphic Hands",
+  "Living Shield",
+  "Menacing Guardian",
+  "Retributive Strike",
+  "Archon's Door",
+  "Courageous Switch"
+ ],
+ "creature_family": "Archon",
+ "creature_family_markdown": "[Archon](/MonsterFamilies.aspx?ID=9)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 125,
+ "hp_raw": "125",
+ "id": "creature-33",
+ "image": [
+  "/Images/Monsters/Archon_ShieldArchon.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Celestial",
+  "Draconic",
+  "Infernal",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Shield Archon](/Monsters.aspx?ID=33)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nShield archons defend the fortresses of Heaven against fiendish incursions. They wield their spears and shields in massive formations capable of withstanding any onslaught. Beneath their armor, they are sheathed in skin of steel. Given their tremendous strength and imposing stature, shield archons are ideal guardians of the meek and are sometimes summoned to the Material Plane to ward off the attacks of great numbers of evildoers.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Celestial](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Archon_ShieldArchon.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Shield Archon](/Monsters.aspx?ID=33)</title>\r\n\r\n<traits>\r\n<trait label=\"LG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Archon\" url=\"/Traits.aspx?ID=13\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=23\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 29</row>\n\n**Perception** +19; darkvision\r\n\r\n**Languages**\r\n[Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Infernal](/Languages.aspx?ID=19); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +21, [Diplomacy](/Skills.aspx?ID=6) +19, [Intimidation](/Skills.aspx?ID=7) +19, [Religion](/Skills.aspx?ID=13) +19, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +1\r\n\r\n**Con** +7\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Morphic Hands** <actions string=\"Single Action\" /> (divine, transmutation) A shield archon's hands can change into a _+1 [holy](/Equipment.aspx?ID=298) [striking](/Equipment.aspx?ID=279)_ [spear](/Weapons.aspx?ID=10) and a _[lesser sturdy shield](/Equipment.aspx?ID=327)_ or back into hands. Transforming does not restore any HP to the items, and if either the weapon or shield is fully destroyed, the archon loses that hand until it receives a [_regenerate_](/Spells.aspx?ID=248) spell or similar magic. If a shield archon is slain, its weapon and shield can be taken, but they fade into nothingness after 24 hours.\r\n\r\n**Items**\r\n[_+1 full plate_](/Armor.aspx?ID=13)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 (33 with shield raised)\r\n\r\n**Fort** +23 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +19 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 125\n\n**Weaknesses**\r\nevil 10\r\n\r\n**Living Shield** A shield archon’s shield is the focal point of its courage and soul. It always has its shield raised without needing to Raise a Shield, and it can use Shield Block as a free action instead of a reaction (Hardness 10, HP 80). A shield archon can trigger its Shield Block free action when an ally within 10 feet is the target of an attack, reducing damage to that ally instead of itself but otherwise following the normal rules of Shield Block.<br/>**Menacing Guardian** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [enchantment](/Traits.aspx?ID=61)) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 27 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can’t use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours.<br/>**Retributive Strike** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_holy striking spear_ +22 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+10 piercing plus 1d6 good\r\n\r\n**Divine Innate Spells** DC 27\r\n- **Cantrips (5th)**\r\n[Message](/Spells.aspx?ID=190)\r\n- **1st**\r\n[True Strike](/Spells.aspx?ID=345) (x3)\r\n- **2nd**\r\n[Shield Other](/Spells.aspx?ID=281) (x3)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Archon's Door**   Once per day, if an archon sees another creature cast [_dimension door_](/Spells.aspx?ID=69), it can cast an innate [_dimension door_](/Spells.aspx?ID=69) (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon’s [_dimension door_](/Spells.aspx?ID=69). If the archon’s [_dimension door_](/Spells.aspx?ID=69) has enough distance, the archon appears the same distance and direction from the creature as before either used [_dimension door_](/Spells.aspx?ID=69).\r\n\r\n**Courageous Switch**   When a shield archon uses its [_dimension door_](/Spells.aspx?ID=69) innate spell, it can choose to move into the space of a willing ally it can see within range. If it does so, the ally switches places with the archon, appearing in the space the archon just vacated, as if it too had cast [_dimension door_](/Spells.aspx?ID=69).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-9\" />",
+ "name": "Shield Archon",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Archon\" url=\"/Traits.aspx?ID=13\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=23\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 29</row>\r\n\r\n**Creature Family** [Archon](/MonsterFamilies.aspx?ID=9)\r\n\r\n<row gap=\"medium\">\r\n**HP** 125\r\n\r\n**AC** 31\r\n\r\n**Fort** +23\r\n\r\n**Ref** +15\r\n\r\n**Will** +19\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShield archons defend the fortresses of Heaven against fiendish incursions. They wield their spears and shields in massive formations capable of …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +21",
+  "Diplomacy +19",
+  "Intimidation +19",
+  "Religion +19",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +21, [Diplomacy](/Skills.aspx?ID=6) +19, [Intimidation](/Skills.aspx?ID=7) +19, [Religion](/Skills.aspx?ID=13) +19, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 29"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 29</row>",
+ "speed": {
+  "fly": 60,
+  "land": 30,
+  "max": 60
+ },
+ "speed_markdown": "30 feet, fly 60 feet",
+ "speed_raw": "30 feet, fly 60 feet",
+ "spell": [
+  "Dimension Door",
+  "Shield Other",
+  "True Strike",
+  "Message",
+  "Tongues"
+ ],
+ "spell_markdown": "[Dimension Door](/Spells.aspx?ID=69), [Message](/Spells.aspx?ID=190), [Shield Other](/Spells.aspx?ID=281), [Tongues](/Spells.aspx?ID=340), [True Strike](/Spells.aspx?ID=345)",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Shield archons defend the fortresses of Heaven against fiendish incursions. They wield their spears and shields in massive formations capable of …",
+ "summary_markdown": "Shield archons defend the fortresses of Heaven against fiendish incursions. They wield their spears and shields in massive formations capable of …",
+ "text": " Shield Archon Shield archons defend the fortresses of Heaven against fiendish incursions. They wield their spears and shields in massive formations capable of withstanding any onslaught. Beneath their armor, they are sheathed in skin of steel. Given their tremendous strength and imposing stature, shield archons are ideal guardians of the meek and are sometimes summoned to the Material Plane to ward off the attacks of great numbers of evildoers. Recall Knowledge - Celestial (Religion): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Shield Archon Source Bestiary pg. 29 Perception +19; darkvision Languages Celestial, Draconic, Infernal; tongues Skills Athletics +21, Diplomacy +19, Intimidation +19, Religion +19, Survival +17 Str +5 Dex +1 Con +7 Int +2 Wis +3 Cha +3 Morphic Hands Single Action (divine, transmutation) A shield archon's hands can change into a +1 holy striking spear and a lesser sturdy shield or back into hands. Transforming does not restore any HP to the items, and if either the weapon or shield is fully destroyed, the archon loses that hand until it receives a regenerate spell or similar magic. If a shield archon is slain, its weapon and shield can be taken, but they fade into nothingness after 24 hours. Items +1 full plate --- AC 31 (33 with shield raised) Fort +23 Ref +15 Will +19 +1 status to all saves vs. magic HP 125 Weaknesses evil 10 Living Shield A shield archon’s shield is the focal point of its courage and soul. It always has its shield raised without needing to Raise a Shield, and it can use Shield Block as a free action instead of a reaction (Hardness 10, HP 80). A shield archon can trigger its Shield Block free action when an ally within 10 feet is the target of an attack, reducing damage to that ally instead of itself but otherwise following the normal rules of Shield Block. Menacing Guardian (aura, divine, enchantment) 30 feet. Enemies that start their turn in the area or enter it must attempt a DC 27 Will save. On a failure, they take a –1 status penalty to attack rolls, spell rolls, and damage rolls against any other target while in the aura for 24 hours or until they damage the archon, whichever comes first. On a critical failure, they can’t use hostile actions against any other target while in the area for 24 hours or until they damage the archon, whichever comes first. Regardless of the result, a creature is then temporarily immune to further menacing guardian auras for 24 hours. Retributive Strike Reaction --- Speed 30 feet, fly 60 feet Melee Single Action holy striking spear +22 (Magical, reach 10 feet), Damage 2d6+10 piercing plus 1d6 good Divine Innate Spells DC 27 - Cantrips (5th) Message - 1st True Strike (x3) - 2nd Shield Other (x3) - 4th Dimension Door (at will) - Constant (5th) Tongues Archon's Door Once per day, if an archon sees another creature cast dimension door , it can cast an innate dimension door (heightened to 5th level) within 1 round to attempt to follow that creature to the maximum distance of the archon’s dimension door . If the archon’s dimension door has enough distance, the archon appears the same distance and direction from the creature as before either used dimension door . Courageous Switch When a shield archon uses its dimension door innate spell, it can choose to move into the space of a willing ally it can see within range. If it does so, the ally switches places with the archon, appearing in the space the archon just vacated, as if it too had cast dimension door . ",
+ "trait": [
+  "Archon",
+  "Celestial",
+  "LG",
+  "Large"
+ ],
+ "trait_markdown": "[Archon](/Traits.aspx?ID=13), [Celestial](/Traits.aspx?ID=23)",
+ "trait_raw": [
+  "Archon",
+  "Celestial"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=33",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "evil": 10
+ },
+ "weakness_markdown": "evil 10",
+ "weakness_raw": "evil 10",
+ "will_save": 19,
+ "wisdom": 3
+}

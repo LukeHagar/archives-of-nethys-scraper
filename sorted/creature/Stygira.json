@@ -1,0 +1,128 @@
+{
+ "ac": 26,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 5,
+ "creature_ability": [
+  "Gemsight",
+  "Light Sickness",
+  "Gem Gaze",
+  "Stone Curse"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 80,
+ "hp_raw": "80",
+ "id": "creature-821",
+ "image": [
+  "/Images/Monsters/Stygira.png"
+ ],
+ "immunity": [
+  "paralyzed",
+  "petrified",
+  "visual"
+ ],
+ "immunity_markdown": "[paralyzed](/Conditions.aspx?ID=28), [petrified](/Conditions.aspx?ID=30), [visual](/Traits.aspx?ID=163)",
+ "intelligence": 4,
+ "language": [
+  "Aklo",
+  "Cyclops",
+  "Jotun",
+  "Terran"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Cyclops](/Languages.aspx?ID=30), [Jotun](/Languages.aspx?ID=8), [Terran](/Languages.aspx?ID=22)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Stygira](/Monsters.aspx?ID=821)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWithered hermits wrapped in tattered rags, these scarred, eyeless creatures command strange secrets of the earth and interpret the fateful energies of the subterranean depths. In some regions, stygiras are worshipped as seers or even gods, although they lack the ability to grant spells to clerics and are often not aware of their worshippers at all. In other areas, they have strange ties to the ancient empires of the [cyclopes](/MonsterFamilies.aspx?ID=25), often dwelling in the oversized ruins those creatures left behind long ago. To many stygiras, gemstones harvested from ancient cyclopean mosaics have even greater magical properties than other crystals.\n\n Although technically blind, stygiras do have vestigial eyes hidden beneath the stony, scarred flesh of their faces. Capable of sensing bright lights even through their scars, stygiras are sickened and distracted by these flashing glimpses, so they keep to their caves during the day and wander into the world above only after nightfall. Far from benevolent, they seek out unwary travelers or explorers to capture and reduce them down to the base chemicals and supernatural humors the stygiras require to infuse gemstones with the capacity to give them sight and magical power.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Stygira.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Stygira](/Monsters.aspx?ID=821)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 255 <sup>2.0</sup></row>\n\n**Perception** +17; gemsight\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Cyclops](/Languages.aspx?ID=30), [Jotun](/Languages.aspx?ID=8), [Terran](/Languages.aspx?ID=22)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +15, [Deception](/Skills.aspx?ID=5) +15, [Gem Lore](/Skills.aspx?ID=8) +17, [Nature](/Skills.aspx?ID=10) +17, [Occultism](/Skills.aspx?ID=11) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** +4\r\n\r\n**Wis** +6\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Gemsight** As long as the stygira holds a gemstone, they can see through the gem with [darkvision](/MonsterAbilities.aspx?ID=12) and the effects of [_true seeing_](/Spells.aspx?ID=344). The stygira is [blind](/Conditions.aspx?ID=1) when they are not holding a gem in a hand.\r\n\r\n**Items**\r\ngemstone\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +19 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 80\n\n**Immunities**\r\n[paralyzed](/Conditions.aspx?ID=28), [petrified](/Conditions.aspx?ID=30), [visual](/Traits.aspx?ID=163)\r\n\r\n**Resistances**\r\nphysical 10 (except adamantine)\r\n\r\n**Weaknesses**\r\ncold iron 5\r\n\r\n**Light Sickness** A stygira in an area of bright light is [sickened 1](/Conditions.aspx?ID=34).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +17 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+10 slashing plus stone curse\r\n\r\n**Occult Innate Spells** DC 25\r\n- **Cantrips (4th)**\r\n[Know Direction](/Spells.aspx?ID=169), [Read Aura](/Spells.aspx?ID=246)\r\n- **2nd**\r\n[Augury](/Spells.aspx?ID=15), [Undetectable Alignment](/Spells.aspx?ID=348)\r\n- **3rd**\r\n[Clairaudience](/Spells.aspx?ID=39), [Earthbind](/Spells.aspx?ID=94)\r\n- **4th**\r\n[Clairvoyance](/Spells.aspx?ID=40), [Read Omens](/Spells.aspx?ID=247), [Shape Stone](/Spells.aspx?ID=276)\r\n\r\n**Gem Gaze** <actions string=\"Single Action\" /> ([Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The stygira holds aloft a gem and gazes into the mind of a creature within 30 feet, infusing the creature's thoughts with visions of the creature's own dead body slowly petrifying. The creature must succeed at a DC 25 Will save or become [frightened 1](/Conditions.aspx?ID=19) (frightened 2 on a critical failure).\r\n\r\n**Stone Curse**  ([Curse](/Traits.aspx?ID=38), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) Wounds dealt by the stygira's claws leave the flesh bleached of color and turn the blood that runs from them dark gray. Each time a creature is damaged by the stygira's claw Strike, it must succeed at a DC 25 Fortitude save or become permanently [slowed 1](/Conditions.aspx?ID=35) (slowed 2 on a critical failure) as its flesh stiffens like stone. If a creature is reduced to 0 Hit Points from the stygira's claw Strike and fails the saving throw against stone curse, it is [petrified](/Conditions.aspx?ID=30). A creature that spends 8 hours in direct sunlight can attempt a new saving throw to remove the effects of stone curse, even if it has been petrified.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Stygira Gems</title>\r\n\r\nThe gem a stygira carries does not need to be particularly valuable, but some stygiras prefer to use more expensive gems as an affectation. More powerful stygiras have developed methods of using particularly expensive gems to enhance their gem gaze ability, allowing some to charm those they gaze upon, light them on fire, or even afflict them with crippling poison.\r\n</aside>",
+ "name": "Stygira",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 13,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10 (except adamantine)",
+ "resistance_raw": "physical 10 (except adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 255 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 80\r\n\r\n**AC** 26\r\n\r\n**Fort** +15\r\n\r\n**Ref** +13\r\n\r\n**Will** +19\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWithered hermits wrapped in tattered rags, these scarred, eyeless creatures command strange secrets of the earth and interpret the fateful energies …\r\n</summary>",
+ "sense": "gemsight",
+ "sense_markdown": "gemsight",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +15",
+  "Deception +15",
+  "Gem Lore +17",
+  "Nature +17",
+  "Occultism +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +15, [Deception](/Skills.aspx?ID=5) +15, [Gem Lore](/Skills.aspx?ID=8) +17, [Nature](/Skills.aspx?ID=10) +17, [Occultism](/Skills.aspx?ID=11) +17",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 255"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 255 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Clairvoyance",
+  "Read Omens",
+  "Shape Stone",
+  "Clairaudience",
+  "Earthbind",
+  "Augury",
+  "Undetectable Alignment",
+  "Know Direction",
+  "Read Aura"
+ ],
+ "spell_markdown": "[Augury](/Spells.aspx?ID=15), [Clairaudience](/Spells.aspx?ID=39), [Clairvoyance](/Spells.aspx?ID=40), [Earthbind](/Spells.aspx?ID=94), [Know Direction](/Spells.aspx?ID=169), [Read Aura](/Spells.aspx?ID=246), [Read Omens](/Spells.aspx?ID=247), [Shape Stone](/Spells.aspx?ID=276), [Undetectable Alignment](/Spells.aspx?ID=348)",
+ "strength": 4,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Withered hermits wrapped in tattered rags, these scarred, eyeless creatures command strange secrets of the earth and interpret the fateful energies …",
+ "summary_markdown": "Withered hermits wrapped in tattered rags, these scarred, eyeless creatures command strange secrets of the earth and interpret the fateful energies …",
+ "text": " Stygira Withered hermits wrapped in tattered rags, these scarred, eyeless creatures command strange secrets of the earth and interpret the fateful energies of the subterranean depths. In some regions, stygiras are worshipped as seers or even gods, although they lack the ability to grant spells to clerics and are often not aware of their worshippers at all. In other areas, they have strange ties to the ancient empires of the cyclopes, often dwelling in the oversized ruins those creatures left behind long ago. To many stygiras, gemstones harvested from ancient cyclopean mosaics have even greater magical properties than other crystals. Although technically blind, stygiras do have vestigial eyes hidden beneath the stony, scarred flesh of their faces. Capable of sensing bright lights even through their scars, stygiras are sickened and distracted by these flashing glimpses, so they keep to their caves during the day and wander into the world above only after nightfall. Far from benevolent, they seek out unwary travelers or explorers to capture and reduce them down to the base chemicals and supernatural humors the stygiras require to infuse gemstones with the capacity to give them sight and magical power. Recall Knowledge - Fey (Nature): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Stygira Source Bestiary 2 pg. 255 2.0 Perception +17; gemsight Languages Aklo, Cyclops, Jotun, Terran Skills Athletics +15, Deception +15, Gem Lore +17, Nature +17, Occultism +17 Str +4 Dex +4 Con +5 Int +4 Wis +6 Cha +2 Gemsight As long as the stygira holds a gemstone, they can see through the gem with darkvision and the effects of true seeing . The stygira is blind when they are not holding a gem in a hand. Items gemstone --- AC 26 Fort +15 Ref +13 Will +19 +1 status to all saves vs. magic HP 80 Immunities paralyzed, petrified, visual Resistances physical 10 (except adamantine) Weaknesses cold iron 5 Light Sickness A stygira in an area of bright light is sickened 1. --- Speed 25 feet Melee Single Action claw +17 (Agile), Damage 2d6+10 slashing plus stone curse Occult Innate Spells DC 25 - Cantrips (4th) Know Direction, Read Aura - 2nd Augury, Undetectable Alignment - 3rd Clairaudience, Earthbind - 4th Clairvoyance, Read Omens, Shape Stone Gem Gaze Single Action (Emotion, Fear, Mental, Primal) The stygira holds aloft a gem and gazes into the mind of a creature within 30 feet, infusing the creature's thoughts with visions of the creature's own dead body slowly petrifying. The creature must succeed at a DC 25 Will save or become frightened 1 (frightened 2 on a critical failure). Stone Curse (Curse, Primal, Transmutation) Wounds dealt by the stygira's claws leave the flesh bleached of color and turn the blood that runs from them dark gray. Each time a creature is damaged by the stygira's claw Strike, it must succeed at a DC 25 Fortitude save or become permanently slowed 1 (slowed 2 on a critical failure) as its flesh stiffens like stone. If a creature is reduced to 0 Hit Points from the stygira's claw Strike and fails the saving throw against stone curse, it is petrified. A creature that spends 8 hours in direct sunlight can attempt a new saving throw to remove the effects of stone curse, even if it has been petrified. Stygira Gems The gem a stygira carries does not need to be particularly valuable, but some stygiras prefer to use more expensive gems as an affectation. More powerful stygiras have developed methods of using particularly expensive gems to enhance their gem gaze ability, allowing some to charm those they gaze upon, light them on fire, or even afflict them with crippling poison. ",
+ "trait": [
+  "Earth",
+  "Fey",
+  "Uncommon",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Earth",
+  "Fey",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=821",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold_iron": 5
+ },
+ "weakness_markdown": "cold iron 5",
+ "weakness_raw": "cold iron 5",
+ "will_save": 19,
+ "wisdom": 6
+}

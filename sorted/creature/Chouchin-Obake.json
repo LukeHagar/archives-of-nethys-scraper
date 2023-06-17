@@ -1,0 +1,108 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Lifewick Candle",
+  "Shadowbind",
+  "Constrict"
+ ],
+ "creature_family": "Tsukumogami",
+ "creature_family_markdown": "[Tsukumogami](/MonsterFamilies.aspx?ID=272)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 75,
+ "hp_raw": "75",
+ "id": "creature-1351",
+ "immunity": [
+  "bleed",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 3,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Chouchin-Obake](/Monsters.aspx?ID=1351)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA chouchin-obake takes the shape of a paper lantern with a horizontal split near the bottom from which a long tongue protrudes. Upon closer inspection, two eyes appear above the split mouth. Chouchin-obake are anomalous in that they don't awaken in the same way other tsukumogami do. Paper lanterns are nearly impossible to maintain for long enough to spawn tsukumogami. Instead, a chouchin-obake is a kind of fire [kami](/MonsterFamilies.aspx?ID=243) that takes the form of a lantern's flame and inhabits a paper lantern when they manifest.\n\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Chouchin-Obake](/Monsters.aspx?ID=1351)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Kami\" url=\"/Traits.aspx?ID=354\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 277</row>\n\n**Perception** +15\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Deception](/Skills.aspx?ID=5) +10, [Stealth](/Skills.aspx?ID=15) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +4\r\n\r\n**Int** +3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 75\n\n**Immunities**\r\nbleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nphysical 5\n\n**Lifewick Candle** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117), [negative](/Traits.aspx?ID=118)) 15 feet. A ghostly blue flame within the chouchin-obake draws upon the life-force of the living to sustain themself. At the start of the chouchin-obake's turn, each creature in the aura takes 2d6 negative damage (DC 26 [basic](/Rules.aspx?ID=329) Fortitude save). The chouchinobake regains an amount of Hit Points equal to the amount of damage taken by the single creature that took the most damage.<br />**Shadowbind** <actions string=\"Reaction\" /> **Trigger** A creature attempts to leave the chouchinobake's Lifewick Candle aura during a [move](/Traits.aspx?ID=114) action; **Effect** The chouchin-obake attempts to bind the creature using their own shadow. The triggering creature must succeed at a DC 26 Reflex save or become [immobilized](/Conditions.aspx?ID=24) until its next turn.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntendril +16 ([Finesse](/Traits.aspx?ID=179), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8 negative plus 2d6 fire plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nflame +16 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d4 negative plus 2d6 fire\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d8 negative plus 1d6 fire, DC 26\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-272\" />",
+ "name": "Chouchin-Obake",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "bludgeoning": 5,
+  "physical": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "physical 5",
+ "resistance_raw": "physical 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Kami\" url=\"/Traits.aspx?ID=354\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 277</row>\r\n\r\n**Creature Family** [Tsukumogami](/MonsterFamilies.aspx?ID=272)\r\n\r\n<row gap=\"medium\">\r\n**HP** 75\r\n\r\n**AC** 24\r\n\r\n**Fort** +12\r\n\r\n**Ref** +16\r\n\r\n**Will** +15\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA chouchin-obake takes the shape of a paper lantern with a horizontal split near the bottom from which a long tongue protrudes. Upon closer …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Deception +10",
+  "Stealth +16"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Deception](/Skills.aspx?ID=5) +10, [Stealth](/Skills.aspx?ID=15) +16",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 277"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 277</row>",
+ "speed": {
+  "fly": 20,
+  "max": 20
+ },
+ "speed_markdown": "fly 20 feet",
+ "speed_raw": "fly 20 feet",
+ "spell_markdown": "",
+ "stealth": "16",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A chouchin-obake takes the shape of a paper lantern with a horizontal split near the bottom from which a long tongue protrudes. Upon closer …",
+ "summary_markdown": "A chouchin-obake takes the shape of a paper lantern with a horizontal split near the bottom from which a long tongue protrudes. Upon closer …",
+ "text": " Chouchin-Obake A chouchin-obake takes the shape of a paper lantern with a horizontal split near the bottom from which a long tongue protrudes. Upon closer inspection, two eyes appear above the split mouth. Chouchin-obake are anomalous in that they don't awaken in the same way other tsukumogami do. Paper lanterns are nearly impossible to maintain for long enough to spawn tsukumogami. Instead, a chouchin-obake is a kind of fire kami that takes the form of a lantern's flame and inhabits a paper lantern when they manifest. Chouchin-Obake Source Bestiary 3 pg. 277 Perception +15 Languages Common Skills Acrobatics +12, Deception +10, Stealth +16 Str +2 Dex +4 Con +4 Int +3 Wis +5 Cha +0 --- AC 24 Fort +12 Ref +16 Will +15 HP 75 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, paralyzed, poison, unconscious Resistances physical 5 Lifewick Candle (aura, divine, necromancy, negative) 15 feet. A ghostly blue flame within the chouchin-obake draws upon the life-force of the living to sustain themself. At the start of the chouchin-obake's turn, each creature in the aura takes 2d6 negative damage (DC 26 basic Fortitude save). The chouchinobake regains an amount of Hit Points equal to the amount of damage taken by the single creature that took the most damage. Shadowbind Reaction Trigger A creature attempts to leave the chouchinobake's Lifewick Candle aura during a move action; Effect The chouchin-obake attempts to bind the creature using their own shadow. The triggering creature must succeed at a DC 26 Reflex save or become immobilized until its next turn. --- Speed fly 20 feet Melee Single Action tendril +16 (Finesse, reach 15 feet), Damage 2d8 negative plus 2d6 fire plus Grab Ranged Single Action flame +16 (range increment 30 feet), Damage 2d4 negative plus 2d6 fire Constrict Single Action 2d8 negative plus 1d6 fire, DC 26 ",
+ "trait": [
+  "Kami",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Kami](/Traits.aspx?ID=354)",
+ "trait_raw": [
+  "Kami"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1351",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 5
+}

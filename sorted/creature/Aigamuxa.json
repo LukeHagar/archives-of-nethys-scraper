@@ -1,0 +1,97 @@
+{
+ "ac": 27,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 6,
+ "creature_ability": [
+  "Limited Vision",
+  "Weak Feet",
+  "Burrowed Ambush",
+  "Burrowing Concealment",
+  "Swallow Whole"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 140,
+ "hp_raw": "140",
+ "id": "creature-1425",
+ "image": [
+  "/Images/Monsters/Aigamuxa.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Mwangi"
+ ],
+ "language_markdown": "[Mwangi](/Languages.aspx?ID=39)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Aigamuxa](/Monsters.aspx?ID=1425)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAigamuxas are towering humanoids that stalk arid deserts in search of prey. Carnivorous and voracious, they hunt anything that moves but especially relish eating sentient creatures. Many Mwangi people incorrectly refer to aigamuxas as demons, while others more accurately describe them as having descended from giants. Aigamuxas resemble large humans with smooth hollows where their eyes should be, but their eyes are actually embedded in the soles of their feet. They sport long, sharp claws and teeth that they use to tear their prey apart once they catch them. A moving aigamuxa's odd gait resembles dancing more than a typical walk or run, but its speed is alarming, if difficult to correctly estimate at a distance.\n\n An aigamuxa's unique physiology makes catching prey difficult, and most aigamuxas are constantly hungry. When pursuing prey, an aigamuxa must occasionally stop to lift its feet in order to regain their bearings. Most stand on their hands while looking around, which allows them to immediately backflip back into a run. An aigamuxa's eyes are generally resistant to the sands of their native desert habitats, but irritants such as chilies or caltrops can seriously impair their hunting ability, and desert travelers often carry a bag of these in case they need to deal with an aigamuxa.\n\n Clever aigamuxas know that attacking wandering prey can be very dangerous, instead using their powerful hands to dig deep into sand dunes or dirt and wait to ambush passersby. Aigamuxas are particularly good at hiding in their home environments, and unfortunate travelers often don't notice the barely visible eyes of an aigamuxa until it's too late.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Aigamuxa.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Aigamuxa](/Monsters.aspx?ID=1425)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 292 <sup>2.0</sup></row>\n\n**Perception** +19; [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Mwangi](/Languages.aspx?ID=39)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +18, [Intimidation](/Skills.aspx?ID=7) +16, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Limited Vision** An aigamuxa's eyes are located on the bottom of their feet, making it difficult for them to see. An aigamuxa is typically blind. If they [Seek](/Actions.aspx?ID=84), they can see normally until the end of their turn.<br />**Weak Feet** If an aigamuxa takes damage from Striding or Stepping into hazardous terrain or a square with similar grounded hazards (such as [caltrops](/Equipment.aspx?ID=9)), they can't [Seek](/Actions.aspx?ID=84) until the end of their next turn.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 140\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+9 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +20,\r\n**Damage** 2d12+9 piercing\n\n**Burrowed Ambush** <actions string=\"Two Actions\" />  **Requirements** The aigamuxa is [Hiding](/Actions.aspx?ID=62) in dirt, sand, or another soft surface; **Effect** The aigamuxa makes a claw Strike against a creature within reach. On a hit, the aigamuxa automatically [Grabs](/MonsterAbilities.aspx?ID=18) the creature. Whether or not they hit, the aigamuxa then Strides. If they have a creature [grabbed](/Conditions.aspx?ID=20), the creature moves with the aigamuxa.\r\n\r\n**Burrowing Concealment** <actions string=\"Two Actions\" />  **Requirement** The aigamuxa is standing on dirt, sand, or another soft surface; **Effect** The aigamuxa quickly digs into the surface and [Hides](/Actions.aspx?ID=62). They leave their feet partially exposed, allowing them to see out from the surface. The aigamuxa can hold their breath for up to 10 minutes while hiding in this way.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Small, 2d12+4 bludgeoning, Rupture 22\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">The First Aigamuxas</title>\r\n\r\nStories say aigamuxas were once giants who entered into a wager with [Lamashtu](/Deities.aspx?ID=11), claiming they could stand on their hands longer than any other creature. Lamashtu produced a simple chimpanzee, pointed to its feet and called them hands. The giants could not hold their positions and fell. Lamashtu moved their eyes to their feet and told them, “If you wish to boast of your ability, let this be your blessing.”\r\n</aside>",
+ "name": "Aigamuxa",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 16,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 292 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 140\r\n\r\n**AC** 27\r\n\r\n**Fort** +19\r\n\r\n**Ref** +16\r\n\r\n**Will** +13\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAigamuxas are towering humanoids that stalk arid deserts in search of prey. Carnivorous and voracious, they hunt anything that moves but especially …\r\n</summary>",
+ "sense": " scent  (imprecise) 30 feet",
+ "sense_markdown": "[scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +18",
+  "Intimidation +16",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +18, [Intimidation](/Skills.aspx?ID=7) +16, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "The Mwangi Expanse"
+ ],
+ "source_raw": [
+  "The Mwangi Expanse pg. 292"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 292 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Aigamuxas are towering humanoids that stalk arid deserts in search of prey. Carnivorous and voracious, they hunt anything that moves but especially …",
+ "summary_markdown": "Aigamuxas are towering humanoids that stalk arid deserts in search of prey. Carnivorous and voracious, they hunt anything that moves but especially …",
+ "text": " Aigamuxa Aigamuxas are towering humanoids that stalk arid deserts in search of prey. Carnivorous and voracious, they hunt anything that moves but especially relish eating sentient creatures. Many Mwangi people incorrectly refer to aigamuxas as demons, while others more accurately describe them as having descended from giants. Aigamuxas resemble large humans with smooth hollows where their eyes should be, but their eyes are actually embedded in the soles of their feet. They sport long, sharp claws and teeth that they use to tear their prey apart once they catch them. A moving aigamuxa's odd gait resembles dancing more than a typical walk or run, but its speed is alarming, if difficult to correctly estimate at a distance. An aigamuxa's unique physiology makes catching prey difficult, and most aigamuxas are constantly hungry. When pursuing prey, an aigamuxa must occasionally stop to lift its feet in order to regain their bearings. Most stand on their hands while looking around, which allows them to immediately backflip back into a run. An aigamuxa's eyes are generally resistant to the sands of their native desert habitats, but irritants such as chilies or caltrops can seriously impair their hunting ability, and desert travelers often carry a bag of these in case they need to deal with an aigamuxa. Clever aigamuxas know that attacking wandering prey can be very dangerous, instead using their powerful hands to dig deep into sand dunes or dirt and wait to ambush passersby. Aigamuxas are particularly good at hiding in their home environments, and unfortunate travelers often don't notice the barely visible eyes of an aigamuxa until it's too late. Recall Knowledge - Humanoid (Society): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Aigamuxa Source The Mwangi Expanse pg. 292 2.0 Perception +19; scent (imprecise) 30 feet Languages Mwangi Skills Athletics +18, Intimidation +16, Stealth +14 Str +6 Dex +4 Con +6 Int -2 Wis +3 Cha +0 Limited Vision An aigamuxa's eyes are located on the bottom of their feet, making it difficult for them to see. An aigamuxa is typically blind. If they Seek, they can see normally until the end of their turn. Weak Feet If an aigamuxa takes damage from Striding or Stepping into hazardous terrain or a square with similar grounded hazards (such as caltrops), they can't Seek until the end of their next turn. --- AC 27 Fort +19 Ref +16 Will +13 HP 140 --- Speed 30 feet Melee Single Action claw +20 (Agile, reach 10 feet), Damage 2d8+9 slashing plus Grab Melee Single Action jaws +20, Damage 2d12+9 piercing Burrowed Ambush Two Actions Requirements The aigamuxa is Hiding in dirt, sand, or another soft surface; Effect The aigamuxa makes a claw Strike against a creature within reach. On a hit, the aigamuxa automatically Grabs the creature. Whether or not they hit, the aigamuxa then Strides. If they have a creature grabbed, the creature moves with the aigamuxa. Burrowing Concealment Two Actions Requirement The aigamuxa is standing on dirt, sand, or another soft surface; Effect The aigamuxa quickly digs into the surface and Hides. They leave their feet partially exposed, allowing them to see out from the surface. The aigamuxa can hold their breath for up to 10 minutes while hiding in this way. Swallow Whole Single Action (Attack) Small, 2d12+4 bludgeoning, Rupture 22 The First Aigamuxas Stories say aigamuxas were once giants who entered into a wager with Lamashtu, claiming they could stand on their hands longer than any other creature. Lamashtu produced a simple chimpanzee, pointed to its feet and called them hands. The giants could not hold their positions and fell. Lamashtu moved their eyes to their feet and told them, “If you wish to boast of your ability, let this be your blessing.” ",
+ "trait": [
+  "Giant",
+  "Humanoid",
+  "Uncommon",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Giant",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1425",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 3
+}

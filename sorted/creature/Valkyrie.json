@@ -1,0 +1,116 @@
+{
+ "ac": 33,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 5,
+ "creature_ability": [
+  "Claimer of the Slain",
+  "Ravenspeaker",
+  "Attack of Opportunity",
+  "Recall the Fallen",
+  "Storm of Battle"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 215,
+ "hp_raw": "215",
+ "id": "creature-1355",
+ "image": [
+  "/Images/Monsters/Valkyrie.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Jotun",
+  "ravenspeaker, <%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8); ravenspeaker, [_tongues_](/Spells.aspx?ID=340)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Valkyrie](/Monsters.aspx?ID=1355)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nChoosers of the slain and so-called angels of battle, the song of the valkyries plays wherever steel rings against steel. Valkyries are humanoid individuals of impressive physical stature who seek the most epic battles and legendary conflicts so that they can lay claim to the souls of the world's greatest warriors. The valkyries transform these souls into the implacable immortals known as [einherjar](/Monsters.aspx?ID=1141).\n\n Valkyries most often serve gods of battle and war, though a valkyrie might pledge their service to any deity they consider worthy. [Gorum](/Deities.aspx?ID=7) is particularly well known for having valkyrie and einherjar servants, though he isn't the only such deity. [Besmara](/Deities.aspx?ID=32) also has valkyrie servitors, and many stories of “ghost ships” actually reference accounts of encounters with ships manned by einherjar crews devoted to the Pirate Queen.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Monitor](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Valkyrie.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Valkyrie](/Monsters.aspx?ID=1355)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aesir\" url=\"/Traits.aspx?ID=348\" />\r\n<trait label=\"Monitor\" url=\"/Traits.aspx?ID=111\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 281</row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8); ravenspeaker, [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +25, [Diplomacy](/Skills.aspx?ID=6) +23, [Intimidation](/Skills.aspx?ID=7) +23, [Religion](/Skills.aspx?ID=13) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +5\r\n\r\n**Int** +3\r\n\r\n**Wis** +4\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Claimer of the Slain** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) Valkyries can detect the souls of those recently slain in combat. A valkyrie spends 10 minutes praying over the body of a creature who has been dead for no more than 12 hours; if that creature is worthy of becoming an [einherji](/Monsters.aspx?ID=1141) and of the appropriate alignment, the valkyrie transforms that creature into an einherji.<br />**Ravenspeaker** ([divination](/Traits.aspx?ID=47), [divine](/Traits.aspx?ID=48)) Valkyries use ravens as servants and spies. They can speak with ravens, and they can have up to three raven servitors who follow their commands. Valkyries can constantly observe whatever their commanded ravens sense.\r\n\r\n**Items**\r\n_+1 [resilient](/Equipment.aspx?ID=279) [breastplate](/Armor.aspx?ID=10)_, _+1 [striking](/Equipment.aspx?ID=280) [returning](/Equipment.aspx?ID=301) [spear](/Weapons.aspx?ID=10)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 215\n\n**Resistances**\r\nelectricity 15\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)**<actions string=\"Reaction\" /> <br />**Recall the Fallen**<actions string=\"Reaction\" /> ([divine](/Traits.aspx?ID=48), [healing](/Traits.aspx?ID=89), [necromancy](/Traits.aspx?ID=117)) **Frequency** once per day; **Trigger** An allied creature within 60 feet who isn't a [construct](/Traits.aspx?ID=35) or [undead](/Traits.aspx?ID=160) is reduced to 0 Hit Points and their [dying](/Conditions.aspx?ID=11) value is 2 or less; **Effect** The valkyrie restores 5d10 Hit Points to the target.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspear +28 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+15 piercing plus 1d12 electricity\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspear +26 ([Magical](/Traits.aspx?ID=103), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d6+15 piercing plus 1d12 electricity\r\n\r\n**Divine Innate Spells** DC 29\r\n- **3rd**\r\n[Augury](/Spells.aspx?ID=15), [Sanctified Ground](/Spells.aspx?ID=265), [Status](/Spells.aspx?ID=308), [Wanderer's Guide](/Spells.aspx?ID=368)\r\n- **6th**\r\n[Disrupting Weapons](/Spells.aspx?ID=80), [Heal](/Spells.aspx?ID=148), [Heroism](/Spells.aspx?ID=149)\r\n- **7th**\r\n[Plane Shift](/Spells.aspx?ID=222) (self and mount only)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Storm of Battle** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Electricity](/Traits.aspx?ID=56), [Evocation](/Traits.aspx?ID=65)) The valkyrie hurls her spear into the air, creating a massive storm in a 100-foot burst. Spears of lightning rain down upon enemies in the area, dealing 4d12 electricity damage (DC 32 [basic](/Rules.aspx?ID=329) Reflex save)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Boneyard Advocates</title>\r\n\r\nWhile praying to claim a slain warrior, a valkyrie fractures their own consciousness into two parts: mind and soul. They send their mind spinning along the River of Souls to collect and advocate on behalf of the slain warrior's soul. When the prayer ends, the valkyrie reunites their mind and body, and they join the warrior's body and soul into a single form as a new einherji.\r\n</aside>",
+ "name": "Valkyrie",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 20,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "electricity": 15
+ },
+ "resistance_markdown": "electricity 15",
+ "resistance_raw": "electricity 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Aesir\" url=\"/Traits.aspx?ID=348\" />\r\n<trait label=\"Monitor\" url=\"/Traits.aspx?ID=111\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 281</row>\n\n<row gap=\"medium\">\r\n**HP** 215\r\n\r\n**AC** 33\r\n\r\n**Fort** +24\r\n\r\n**Ref** +20\r\n\r\n**Will** +23\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nChoosers of the slain and so-called angels of battle, the song of the valkyries plays wherever steel rings against steel. Valkyries are humanoid …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +25",
+  "Athletics +25",
+  "Diplomacy +23",
+  "Intimidation +23",
+  "Religion +22"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +25, [Diplomacy](/Skills.aspx?ID=6) +23, [Intimidation](/Skills.aspx?ID=7) +23, [Religion](/Skills.aspx?ID=13) +22",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 281"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 281</row>",
+ "speed": {
+  "fly": 60,
+  "land": 25,
+  "max": 60
+ },
+ "speed_markdown": "25 feet, fly 60 feet",
+ "speed_raw": "25 feet, fly 60 feet",
+ "spell": [
+  "Plane Shift",
+  "Disrupting Weapons",
+  "Heal",
+  "Heroism",
+  "Augury",
+  "Sanctified Ground",
+  "Status",
+  "Wanderer's Guide",
+  "Tongues"
+ ],
+ "spell_markdown": "[Augury](/Spells.aspx?ID=15), [Disrupting Weapons](/Spells.aspx?ID=80), [Heal](/Spells.aspx?ID=148), [Heroism](/Spells.aspx?ID=149), [Plane Shift](/Spells.aspx?ID=222), [Sanctified Ground](/Spells.aspx?ID=265), [Status](/Spells.aspx?ID=308), [Tongues](/Spells.aspx?ID=340), [Wanderer's Guide](/Spells.aspx?ID=368)",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Choosers of the slain and so-called angels of battle, the song of the valkyries plays wherever steel rings against steel. Valkyries are humanoid …",
+ "summary_markdown": "Choosers of the slain and so-called angels of battle, the song of the valkyries plays wherever steel rings against steel. Valkyries are humanoid …",
+ "text": " Valkyrie Choosers of the slain and so-called angels of battle, the song of the valkyries plays wherever steel rings against steel. Valkyries are humanoid individuals of impressive physical stature who seek the most epic battles and legendary conflicts so that they can lay claim to the souls of the world's greatest warriors. The valkyries transform these souls into the implacable immortals known as einherjar. Valkyries most often serve gods of battle and war, though a valkyrie might pledge their service to any deity they consider worthy. Gorum is particularly well known for having valkyrie and einherjar servants, though he isn't the only such deity. Besmara also has valkyrie servitors, and many stories of “ghost ships” actually reference accounts of encounters with ships manned by einherjar crews devoted to the Pirate Queen. Recall Knowledge - Monitor (Religion): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Valkyrie Source Bestiary 3 pg. 281 Perception +22; darkvision Languages Common, Jotun; ravenspeaker, tongues Skills Acrobatics +25, Athletics +25, Diplomacy +23, Intimidation +23, Religion +22 Str +7 Dex +5 Con +5 Int +3 Wis +4 Cha +5 Claimer of the Slain (divine, necromancy) Valkyries can detect the souls of those recently slain in combat. A valkyrie spends 10 minutes praying over the body of a creature who has been dead for no more than 12 hours; if that creature is worthy of becoming an einherji and of the appropriate alignment, the valkyrie transforms that creature into an einherji. Ravenspeaker (divination, divine) Valkyries use ravens as servants and spies. They can speak with ravens, and they can have up to three raven servitors who follow their commands. Valkyries can constantly observe whatever their commanded ravens sense. Items +1 resilient breastplate , +1 striking returning spear --- AC 33 Fort +24 Ref +20 Will +23 HP 215 Resistances electricity 15 Attack of Opportunity Reaction Recall the Fallen Reaction (divine, healing, necromancy) Frequency once per day; Trigger An allied creature within 60 feet who isn't a construct or undead is reduced to 0 Hit Points and their dying value is 2 or less; Effect The valkyrie restores 5d10 Hit Points to the target. --- Speed 25 feet, fly 60 feet Melee Single Action spear +28 (Magical), Damage 2d6+15 piercing plus 1d12 electricity Ranged Single Action spear +26 (Magical, thrown 20 feet), Damage 2d6+15 piercing plus 1d12 electricity Divine Innate Spells DC 29 - 3rd Augury, Sanctified Ground, Status, Wanderer's Guide - 6th Disrupting Weapons, Heal, Heroism - 7th Plane Shift (self and mount only) - Constant (5th) Tongues Storm of Battle Two Actions (Divine, Electricity, Evocation) The valkyrie hurls her spear into the air, creating a massive storm in a 100-foot burst. Spears of lightning rain down upon enemies in the area, dealing 4d12 electricity damage (DC 32 basic Reflex save) Boneyard Advocates While praying to claim a slain warrior, a valkyrie fractures their own consciousness into two parts: mind and soul. They send their mind spinning along the River of Souls to collect and advocate on behalf of the slain warrior's soul. When the prayer ends, the valkyrie reunites their mind and body, and they join the warrior's body and soul into a single form as a new einherji. ",
+ "trait": [
+  "Aesir",
+  "Monitor",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Aesir](/Traits.aspx?ID=348), [Monitor](/Traits.aspx?ID=111)",
+ "trait_raw": [
+  "Aesir",
+  "Monitor"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1355",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": 4
+}

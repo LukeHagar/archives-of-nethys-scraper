@@ -1,0 +1,107 @@
+{
+ "ac": 31,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Catch Rock",
+  "Flaming Stroke",
+  "Throw Rock"
+ ],
+ "creature_family": "Giant",
+ "creature_family_markdown": "[Giant](/MonsterFamilies.aspx?ID=53)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-223",
+ "image": [
+  "/Images/Monsters/Giant_FireGiant.png"
+ ],
+ "immunity": [
+  "fire"
+ ],
+ "immunity_markdown": "fire",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Jotun"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Fire Giant](/Monsters.aspx?ID=223)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe most militaristic of all giants, fire giants focus obsessively on learning combat techniques, mastering the arts of forging weapons and armor, and finding new ways to dominate their enemies. As a result, their social and political structures are grounded firmly in martial hierarchies, with a strict emphasis on following the orders of one’s superior, no matter if you are accountable to a lowly soldier or report to a powerful officer. As soon as a fire giant can walk, they are fitted with their first suit of forged armor. This armor is constantly remolded and replaced as the fire giant matures, both to ensure they are comfortable with steel against their skin and also to teach the giant as early as possible that they bear the burden of fighting to protect their traditions and way of life. To a fire giant, death is the flame in which the future is forged.\n\n Fire giants are usually identified by their powerful stature, bright-orange hair that flickers and dances as if it were aflame, and heavy steel armor worn over garments of crimson, amber, or black. Most fire giants are covered in scars and refuse to conceal or obstruct them, as each jagged mark serves as a reminder of a valuable lesson they learned in battle. A typical fire giant stands 12 to 16 feet tall, weighs about 7,000 pounds, and lives to be 350 years old.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Giant_FireGiant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Fire Giant](/Monsters.aspx?ID=223)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 172</row>\n\n**Perception** +18; low-light vision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Crafting](/Skills.aspx?ID=4) +22, [Intimidation](/Skills.aspx?ID=7) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +0\r\n\r\n**Con** +5\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[sack with 5 rocks](/Equipment.aspx?ID=45), [_+1 half-plate_](/Armor.aspx?ID=12), _+1 [striking](/Equipment.aspx?ID=280) [greatsword](/Weapons.aspx?ID=24)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 175\n\n**Immunities**\r\nfire\n\n**Weaknesses**\r\ncold 10\r\n\r\n**Attack of Opportunity** <actions string=\"Reaction\" /><br /> **Catch Rock** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_greatsword_ +24 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 2d12+13 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +23 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+13 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +23 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d8+13 bludgeoning plus 1d6 fire\n\n**Flaming Stroke** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72), [Primal](/Traits.aspx?ID=134)) The fire giant imbues its blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a 15-foot line. It makes only one attack roll and compares the result to each creature’s AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant’s multiple attack penalty.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" /> ([Fire](/Traits.aspx?ID=72)) A rock thrown by a fire giant deals an additional 1d6 fire damage on a hit.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-53\" />",
+ "name": "Fire Giant",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 172</row>\r\n\r\n**Creature Family** [Giant](/MonsterFamilies.aspx?ID=53)\r\n\r\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 31\r\n\r\n**Fort** +23\r\n\r\n**Ref** +16\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe most militaristic of all giants, fire giants focus obsessively on learning combat techniques, mastering the arts of forging weapons and armor, …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Crafting +22",
+  "Intimidation +23"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Crafting](/Skills.aspx?ID=4) +22, [Intimidation](/Skills.aspx?ID=7) +23",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 172"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 172</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The most militaristic of all giants, fire giants focus obsessively on learning combat techniques, mastering the arts of forging weapons and armor, …",
+ "summary_markdown": "The most militaristic of all giants, fire giants focus obsessively on learning combat techniques, mastering the arts of forging weapons and armor, …",
+ "text": " Fire Giant The most militaristic of all giants, fire giants focus obsessively on learning combat techniques, mastering the arts of forging weapons and armor, and finding new ways to dominate their enemies. As a result, their social and political structures are grounded firmly in martial hierarchies, with a strict emphasis on following the orders of one’s superior, no matter if you are accountable to a lowly soldier or report to a powerful officer. As soon as a fire giant can walk, they are fitted with their first suit of forged armor. This armor is constantly remolded and replaced as the fire giant matures, both to ensure they are comfortable with steel against their skin and also to teach the giant as early as possible that they bear the burden of fighting to protect their traditions and way of life. To a fire giant, death is the flame in which the future is forged. Fire giants are usually identified by their powerful stature, bright-orange hair that flickers and dances as if it were aflame, and heavy steel armor worn over garments of crimson, amber, or black. Most fire giants are covered in scars and refuse to conceal or obstruct them, as each jagged mark serves as a reminder of a valuable lesson they learned in battle. A typical fire giant stands 12 to 16 feet tall, weighs about 7,000 pounds, and lives to be 350 years old. Recall Knowledge - Humanoid (Society): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Fire Giant Source Bestiary pg. 172 Perception +18; low-light vision Languages Common, Jotun Skills Athletics +25, Crafting +22, Intimidation +23 Str +7 Dex +0 Con +5 Int +2 Wis +2 Cha +0 Items sack with 5 rocks, +1 half-plate , +1 striking greatsword --- AC 31 Fort +23 Ref +16 Will +18 HP 175 Immunities fire Weaknesses cold 10 Attack of Opportunity Reaction Catch Rock Reaction --- Speed 25 feet Melee Single Action greatsword +24 (Magical, reach 10 feet, versatile P), Damage 2d12+13 slashing Melee Single Action fist +23 (Agile, reach 10 feet), Damage 2d8+13 bludgeoning Ranged Single Action rock +23 (Brutal, range increment 120 feet), Damage 2d8+13 bludgeoning plus 1d6 fire Flaming Stroke Two Actions (Evocation, Fire, Primal) The fire giant imbues its blade with flames and makes a greatsword Strike with a –2 circumstance penalty against each creature in a 15-foot line. It makes only one attack roll and compares the result to each creature’s AC. This Strike deals an additional 1d6 fire damage and counts as one attack for the fire giant’s multiple attack penalty. Throw Rock Single Action (Fire) A rock thrown by a fire giant deals an additional 1d6 fire damage on a hit. ",
+ "trait": [
+  "Fire",
+  "Giant",
+  "Humanoid",
+  "LE",
+  "Large"
+ ],
+ "trait_markdown": "[Fire](/Traits.aspx?ID=72), [Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Fire",
+  "Giant",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=223",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold": 10
+ },
+ "weakness_markdown": "cold 10",
+ "weakness_raw": "cold 10",
+ "will_save": 18,
+ "wisdom": 2
+}

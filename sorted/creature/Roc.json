@@ -1,0 +1,89 @@
+{
+ "ac": 27,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Wing Rebuff",
+  "Flying Strafe",
+  "Snack",
+  "Snatch"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 180,
+ "hp_raw": "180",
+ "id": "creature-352",
+ "image": [
+  "/Images/Monsters/Roc.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Roc](/Monsters.aspx?ID=352)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLegendarily massive raptors capable of carrying off elephants as prey, rocs are typically about 30 feet long from beak to tail and have a wingspan of 80 feet or more. While their beaks are hooked to rip flesh from bone, their hunting strategy involves grabbing their prey in their powerful talons and then dropping it from great heights before feeding. This method creates a massive amount of carrion, which guarantees that rocs are followed by flocks of opportunistic scavengers, such as ravens and buzzards, who find it easy to steal bits of the larger birds’ meals. Rocs, for the most part, don’t mind these creatures, which sometimes get gobbled up along with the rest of the roc’s food.\n\n Rocs usually nest among mountaintops and cliffs inaccessible to all but the bravest of terrestrial dwellers. They are long-range predators that hunt both land and sea in search for massive prey to sustain them and their young. Rocs are antisocial and lone hunters who compete with each other in fierce aerial battles to protect territory. But about once a decade, a mating couple pairs up to raise their chicks. Once the chicks are old enough to hunt on their own, the parents separate to once again engage in lone hunting.\n\n Particularly skilled druids or rangers might capture and train a roc to serve as a flying mount or hunting companion, though examples of such an incredible feat of domestication are few and far between. The easiest way to rear a roc is to do so from the moment it hatches, since the chick imprints on the first creature it sees. Acquiring a roc egg is by no means an easy feat, though, and is often a death sentence for the would-be egg-snatcher.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Roc.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Roc](/Monsters.aspx?ID=352)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 281</row>\n\n**Perception** +18; low-light vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 180\n\n**Wing Rebuff** <actions string=\"Reaction\" /> **Trigger** A creature moves from beyond the reach of the roc’s wing to within the reach of the roc’s wing. **Effect** The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +21 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+12 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +21 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+12 slashing plus Improved Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwing +21 ([Agile](/Traits.aspx?ID=170), [reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+10 bludgeoning plus Improved Push 10 feet\n\n**Flying Strafe** <actions string=\"Two Actions\" />  The roc Flies up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty.\r\n\r\n**Snack**   A roc gains a +2 circumstance bonus to hit with its beak Strike if the target is grabbed or restrained in its talon.\r\n\r\n**Snatch**   A roc can Fly at half Speed while it has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) in either or both of its talons, carrying that creature along with it.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Roc Resources</title>\r\n\r\nWhile most treasure a roc may possess is incidental—the remains of prey haphazardly scattered in or around the nest—roc feathers, especially white or gold ones, are highly prized in certain markets. Even more valuable are roc eggs, especially to some giants who enjoy their unique flavor.\r\n</aside>",
+ "name": "Roc",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 281</row>\n\n<row gap=\"medium\">\r\n**HP** 180\r\n\r\n**AC** 27\r\n\r\n**Fort** +20\r\n\r\n**Ref** +17\r\n\r\n**Will** +16\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLegendarily massive raptors capable of carrying off elephants as prey, rocs are typically about 30 feet long from beak to tail and have a wingspan of …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Athletics +21"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +21",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 281"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 281</row>",
+ "speed": {
+  "fly": 60,
+  "land": 20,
+  "max": 60
+ },
+ "speed_markdown": "20 feet, fly 60 feet",
+ "speed_raw": "20 feet, fly 60 feet",
+ "spell_markdown": "",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Legendarily massive raptors capable of carrying off elephants as prey, rocs are typically about 30 feet long from beak to tail and have a wingspan of …",
+ "summary_markdown": "Legendarily massive raptors capable of carrying off elephants as prey, rocs are typically about 30 feet long from beak to tail and have a wingspan of …",
+ "text": " Roc Legendarily massive raptors capable of carrying off elephants as prey, rocs are typically about 30 feet long from beak to tail and have a wingspan of 80 feet or more. While their beaks are hooked to rip flesh from bone, their hunting strategy involves grabbing their prey in their powerful talons and then dropping it from great heights before feeding. This method creates a massive amount of carrion, which guarantees that rocs are followed by flocks of opportunistic scavengers, such as ravens and buzzards, who find it easy to steal bits of the larger birds’ meals. Rocs, for the most part, don’t mind these creatures, which sometimes get gobbled up along with the rest of the roc’s food. Rocs usually nest among mountaintops and cliffs inaccessible to all but the bravest of terrestrial dwellers. They are long-range predators that hunt both land and sea in search for massive prey to sustain them and their young. Rocs are antisocial and lone hunters who compete with each other in fierce aerial battles to protect territory. But about once a decade, a mating couple pairs up to raise their chicks. Once the chicks are old enough to hunt on their own, the parents separate to once again engage in lone hunting. Particularly skilled druids or rangers might capture and train a roc to serve as a flying mount or hunting companion, though examples of such an incredible feat of domestication are few and far between. The easiest way to rear a roc is to do so from the moment it hatches, since the chick imprints on the first creature it sees. Acquiring a roc egg is by no means an easy feat, though, and is often a death sentence for the would-be egg-snatcher. Recall Knowledge - Animal (Nature): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Roc Source Bestiary pg. 281 Perception +18; low-light vision Languages Skills Acrobatics +15, Athletics +21 Str +8 Dex +2 Con +5 Int -4 Wis +1 Cha +0 --- AC 27 Fort +20 Ref +17 Will +16 HP 180 Wing Rebuff Reaction Trigger A creature moves from beyond the reach of the roc’s wing to within the reach of the roc’s wing. Effect The roc makes a wing Strike against the triggering creature. If the roc Pushes the creature, it disrupts the triggering move action. --- Speed 20 feet, fly 60 feet Melee Single Action beak +21 (reach 15 feet), Damage 2d10+12 piercing Melee Single Action talon +21 (Agile, reach 15 feet), Damage 2d8+12 slashing plus Improved Grab Melee Single Action wing +21 (Agile, reach 30 feet), Damage 2d6+10 bludgeoning plus Improved Push 10 feet Flying Strafe Two Actions The roc Flies up to its Speed and makes two talon Strikes at any point during that movement. Each Strike must target a different creature. Each attack takes the normal multiple attack penalty. Snack A roc gains a +2 circumstance bonus to hit with its beak Strike if the target is grabbed or restrained in its talon. Snatch A roc can Fly at half Speed while it has a creature grabbed or restrained in either or both of its talons, carrying that creature along with it. Roc Resources While most treasure a roc may possess is incidental—the remains of prey haphazardly scattered in or around the nest—roc feathers, especially white or gold ones, are highly prized in certain markets. Even more valuable are roc eggs, especially to some giants who enjoy their unique flavor. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=352",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 1
+}

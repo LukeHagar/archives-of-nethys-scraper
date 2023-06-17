@@ -1,0 +1,90 @@
+{
+ "ac": 18,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Brutal Beating",
+  "Snagging Strike",
+  "Sneak Attack"
+ ],
+ "creature_family": "Criminals",
+ "creature_family_markdown": "[Criminals](/MonsterFamilies.aspx?ID=182)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 32,
+ "hp_raw": "32",
+ "id": "creature-888",
+ "intelligence": -1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Ruffian](/NPCs.aspx?ID=888)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nUsing their strength to bully others into submission, ruffians often work as bodyguards and enforcers for powerful criminals like charlatans and fences.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Ruffian](/NPCs.aspx?ID=888)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 209</row>\n\n**Perception** +8\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +7, [Intimidation](/Skills.aspx?ID=7) +6, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Club](/Weapons.aspx?ID=2), [Sling](/Weapons.aspx?ID=72) (10 bullets), [Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 32\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclub +9,\r\n**Damage** 1d6+5 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nsling +8 ([Propulsive](/Traits.aspx?ID=191), [range increment 50 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+5 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nclub +8 ([thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+5 bludgeoning\n\n**Brutal Beating**   The ruffian's brutality shakes foes' confidence. When the ruffian deals damage on a critical hit, the target is [frightened 1](/Conditions.aspx?ID=19), and the ruffian can knock the target up to 10 feet away (this is [forced movement](/Rules.aspx?ID=451)).\r\n\r\n**Snagging Strike** <actions string=\"Single Action\" />  **Trigger** The ruffian has one hand free, and its target is within reach of that hand; **Effect** The ruffian makes a melee Strike while keeping one hand free. If this Strike hits, the target is [flat-footed](/Conditions.aspx?ID=16) until the start of the ruffian's next turn or until it leaves the ruffian's reach, whichever comes first.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The ruffian deals an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-182\" />",
+ "name": "Ruffian",
+ "npc": true,
+ "perception": 8,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 209</row>\r\n\r\n**Creature Family** [Criminals](/MonsterFamilies.aspx?ID=182)\r\n\r\n<row gap=\"medium\">\r\n**HP** 32\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +8\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUsing their strength to bully others into submission, ruffians often work as bodyguards and enforcers for powerful criminals like charlatans and …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +7",
+  "Intimidation +6",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +7, [Intimidation](/Skills.aspx?ID=7) +6, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 209"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 209</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Using their strength to bully others into submission, ruffians often work as bodyguards and enforcers for powerful criminals like charlatans and …",
+ "summary_markdown": "Using their strength to bully others into submission, ruffians often work as bodyguards and enforcers for powerful criminals like charlatans and …",
+ "text": " Ruffian Using their strength to bully others into submission, ruffians often work as bodyguards and enforcers for powerful criminals like charlatans and fences. Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Ruffian Source Gamemastery Guide pg. 209 Perception +8 Languages Common Skills Athletics +7, Intimidation +6, Stealth +6 Str +3 Dex +2 Con +3 Int -1 Wis +2 Cha +0 Items Club, Sling (10 bullets), Studded Leather Armor --- AC 18 Fort +9 Ref +8 Will +6 HP 32 Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action club +9, Damage 1d6+5 bludgeoning Ranged Single Action sling +8 (Propulsive, range increment 50 feet, reload 1), Damage 1d6+5 bludgeoning Ranged Single Action club +8 (thrown 10 feet), Damage 1d6+5 bludgeoning Brutal Beating The ruffian's brutality shakes foes' confidence. When the ruffian deals damage on a critical hit, the target is frightened 1, and the ruffian can knock the target up to 10 feet away (this is forced movement). Snagging Strike Single Action Trigger The ruffian has one hand free, and its target is within reach of that hand; Effect The ruffian makes a melee Strike while keeping one hand free. If this Strike hits, the target is flat-footed until the start of the ruffian's next turn or until it leaves the ruffian's reach, whichever comes first. Sneak Attack The ruffian deals an extra 1d6 precision damage to flat-footed creatures. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=888",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 2
+}

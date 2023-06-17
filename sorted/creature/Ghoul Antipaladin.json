@@ -1,0 +1,116 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Destructive Vengeance",
+  "Shield Block",
+  "Consume Flesh",
+  "Ghoul Fever",
+  "Paralysis",
+  "Swift Leap"
+ ],
+ "creature_family": "Ghoul",
+ "creature_family_markdown": "[Ghoul](/MonsterFamilies.aspx?ID=52)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 155,
+ "hp_raw": "155 ( negative healing )",
+ "id": "creature-2154",
+ "image": [
+  "/Images/Monsters/Ghoul_GhoulAntipaladin.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ghoul Antipaladin](/Monsters.aspx?ID=2154)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe church of [Kabriri](/Deities.aspx?ID=76) selects only the most devoted and deadly ghouls to protect their libraries of secret-filled tomes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ghoul_GhoulAntipaladin.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Ghoul Antipaladin](/Monsters.aspx?ID=2154)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 84</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +20, [Intimidation](/Skills.aspx?ID=7) +20, [Kabriri Lore](/Skills.aspx?ID=8) +18, [Religion](/Skills.aspx?ID=13) +18, [Survival](/Skills.aspx?ID=16) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Flail](/Weapons.aspx?ID=19), [Full Plate](/Armor.aspx?ID=13), [Heavy Crossbow](/Weapons.aspx?ID=70) (20 bolts), [Steel Shield](/Shields.aspx?ID=3) (Hardness 5, HP 20, BT 10)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 (31 with shield raised)\r\n\r\n**Fort** +21 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 155\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Destructive Vengeance** <actions string=\"Reaction\" /> **Trigger** The ghoul antipaladin takes damage from an enemy within 15 feet; **Effect** The ghoul antipaladin increases the amount of damage they take by 3d6, and they deal 3d6 damage to the triggering enemy, choosing evil or negative damage to deal to the enemy each time the antipaladin uses this reaction. In addition, the antipaladin deals 4 extra damage of the chosen type with their Strikes against the triggering creature until the end of the antipaladin's turn. An enemy damaged from the ghoul antipaladin's Destructive Vengeance also takes 4 [persistent evil damage](/Conditions.aspx?ID=29); this applies only to the damage the reaction itself deals to the triggering creature, not the damage the antipaladin deals with subsequent Strikes.<br />**[Shield Block](/MonsterAbilities.aspx?ID=32)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +19,\r\n**Damage** 2d8+11 piercing plus ghoul fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +19 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+9 slashing plus paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nflail +19 ([Disarm](/Traits.aspx?ID=175), [Sweep](/Traits.aspx?ID=194), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 2d10+13 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nheavy crossbow +19 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 2](/Traits.aspx?ID=254)),\r\n**Damage** 2d8+11 piercing\r\n\r\n**Champion Devotion Spells 1 Focus Point,** DC 25\r\n- **5th**\r\n[Touch of Corruption](/Spells.aspx?ID=819)\r\n\r\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ghoul antipaladin is adjacent to the corpse of a creature that died within the last hour; **Effect** The ghoul antipaladin devours a chunk of the corpse and regains 4d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Ghoul Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** Fortitude DC 27; **Stage 1** carrier with no effect (1 day); **Stage 2** 3d6 negative damage and regains half as many hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 3d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [ghoul](/MonsterFamilies.aspx?ID=52) the next midnight\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living, non-[elf](/Traits.aspx?ID=58) creature hit by a ghoul antipaladin's attack must succeed at a DC 25 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**Swift Leap** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The ghoul antipaladin jumps up to half its Speed. This movement doesn't trigger reactions.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-52\" />",
+ "name": "Ghoul Antipaladin",
+ "npc": false,
+ "perception": 15,
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 84</row>\r\n\r\n**Creature Family** [Ghoul](/MonsterFamilies.aspx?ID=52)\r\n\r\n<row gap=\"medium\">\r\n**HP** 155 ( negative healing )\r\n\r\n**AC** 29\r\n\r\n**Fort** +21\r\n\r\n**Ref** +15\r\n\r\n**Will** +18\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe church of  Kabriri  selects only the most devoted and deadly ghouls to protect their libraries of secret-filled tomes.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Athletics +20",
+  "Intimidation +20",
+  "Kabriri Lore +18",
+  "Religion +18",
+  "Survival +18"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +20, [Intimidation](/Skills.aspx?ID=7) +20, [Kabriri Lore](/Skills.aspx?ID=8) +18, [Religion](/Skills.aspx?ID=13) +18, [Survival](/Skills.aspx?ID=16) +18",
+ "source": [
+  "Pathfinder #184: The Ghouls Hunger"
+ ],
+ "source_raw": [
+  "Pathfinder #184: The Ghouls Hunger pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 84</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell": [
+  "Touch of Corruption"
+ ],
+ "spell_markdown": "[Touch of Corruption](/Spells.aspx?ID=819)",
+ "spoilers": "Blood Lords",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The church of  Kabriri  selects only the most devoted and deadly ghouls to protect their libraries of secret-filled tomes.",
+ "summary_markdown": "The church of  Kabriri  selects only the most devoted and deadly ghouls to protect their libraries of secret-filled tomes.",
+ "text": " Ghoul Antipaladin The church of Kabriri selects only the most devoted and deadly ghouls to protect their libraries of secret-filled tomes. Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Ghoul Antipaladin Source Pathfinder #184: The Ghouls Hunger pg. 84 Perception +15; darkvision Languages Common, Necril Skills Acrobatics +18, Athletics +20, Intimidation +20, Kabriri Lore +18, Religion +18, Survival +18 Str +6 Dex +4 Con +6 Int +1 Wis +4 Cha +4 Items Flail, Full Plate, Heavy Crossbow (20 bolts), Steel Shield (Hardness 5, HP 20, BT 10) --- AC 29 (31 with shield raised) Fort +21 Ref +15 Will +18 HP 155 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Destructive Vengeance Reaction Trigger The ghoul antipaladin takes damage from an enemy within 15 feet; Effect The ghoul antipaladin increases the amount of damage they take by 3d6, and they deal 3d6 damage to the triggering enemy, choosing evil or negative damage to deal to the enemy each time the antipaladin uses this reaction. In addition, the antipaladin deals 4 extra damage of the chosen type with their Strikes against the triggering creature until the end of the antipaladin's turn. An enemy damaged from the ghoul antipaladin's Destructive Vengeance also takes 4 persistent evil damage; this applies only to the damage the reaction itself deals to the triggering creature, not the damage the antipaladin deals with subsequent Strikes. Shield Block Reaction --- Speed 20 feet Melee Single Action jaws +19, Damage 2d8+11 piercing plus ghoul fever and paralysis Melee Single Action claw +19 (Agile), Damage 2d6+9 slashing plus paralysis Melee Single Action flail +19 (Disarm, Sweep, Trip), Damage 2d10+13 bludgeoning Ranged Single Action heavy crossbow +19 (range increment 120 feet, reload 2), Damage 2d8+11 piercing Champion Devotion Spells 1 Focus Point, DC 25 - 5th Touch of Corruption Consume Flesh Single Action (Manipulate) Requirements The ghoul antipaladin is adjacent to the corpse of a creature that died within the last hour; Effect The ghoul antipaladin devours a chunk of the corpse and regains 4d6 Hit Points. It can regain Hit Points from any given corpse only once. Ghoul Fever (Disease) Saving Throw Fortitude DC 27; Stage 1 carrier with no effect (1 day); Stage 2 3d6 negative damage and regains half as many hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 3d6 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghoul the next midnight Paralysis (Incapacitation, Occult, Necromancy) Any living, non-elf creature hit by a ghoul antipaladin's attack must succeed at a DC 25 Fortitude save or become paralyzed. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Swift Leap Single Action (Move) The ghoul antipaladin jumps up to half its Speed. This movement doesn't trigger reactions. ",
+ "trait": [
+  "Ghoul",
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Ghoul",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2154",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 4
+}

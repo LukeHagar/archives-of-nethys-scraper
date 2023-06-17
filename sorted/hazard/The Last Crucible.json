@@ -1,0 +1,59 @@
+{
+ "ac": 22,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Thievery  DC 28 (expert) to disable the main pressure plate at area H4a and deactivate the trap entirely (this causes the obsidian walls to retract up into the ceiling as well), Thievery DC 25 (trained) to disable one of the three lava spouts, or  Athletics  DC 28 (trained) to  Force Open  a fallen obsidian wall",
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hardness": 15,
+ "hardness_raw": "15 Obsidian Wall Hardness",
+ "hazard_type": "Trap",
+ "hp": 58,
+ "hp_raw": "58 (BT 29) to smash a 5-foot-square hole in the wall; <b>Spout Hardness</b> 13; <b>Spout HP</b> 20 (BT 10)",
+ "id": "hazard-258",
+ "immunity": [
+  "critical hits",
+  "fire",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, fire, object immunities, precision damage",
+ "level": 6,
+ "markdown": "<title level=\"1\" right=\"Hazard 6\" pfs=\"\">[The Last Crucible](/Hazards.aspx?ID=258)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 100</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nMagically hardened sheets of obsidian drop down over the room's exits while the machinery within taps into wells of magma to begin spewing lava—and monsters—into the maze.\r\n\r\n---\r\n\r\n**Stealth**\r\n+15 (expert)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 28 (expert) to disable the main pressure plate at area H4a and deactivate the trap entirely (this causes the obsidian walls to retract up into the ceiling as well), Thievery DC 25 (trained) to disable one of the three lava spouts, or [Athletics](/Skills.aspx?ID=3) DC 28 (trained) to [Force Open](/Actions.aspx?ID=34) a fallen obsidian wall\n\n<column gap=\"tiny\">\r\n\r\n**AC** 22, **Fort** +17, **Ref** +11\r\n\r\n**Obsidian Wall Hardness**\r\n15\r\n\r\n**Obsidian Wall HP**\r\n58 (BT 29) to smash a 5-foot-square hole in the wall; **Spout Hardness** 13; **Spout HP** 20 (BT 10)\r\n\r\n**Immunities**\r\ncritical hits, fire, object immunities, precision damage\n\n</column>\r\n\r\n**Drop the Wall** <actions string=\"Reaction\" /> **Trigger** Four or more Small or larger creatures walk onto the pressure plate at area H4a; **Effect** A magically hardened sheet of obsidian drops down like a portcullis in the western and northern entrances to this room that lead to areas H3 and H5, respectively. Any creatures standing in one of these squares takes 4d6+4 bludgeoning damage from the falling wall (DC 24 [basic](/Rules.aspx?ID=329) Reflex save) and then decides what side of the wall they want to be on. At the same moment, four [thoqquas](/Monsters.aspx?ID=2185) that have spent centuries in hibernation awaken and emerge from vents into area H4b. The trap then rolls initiative, as do the thoqquas.\n\n---\r\n**Routine**\r\n(3 actions) The trap loses 1 action per disabled spout each turn. On each action, a different spout located at one of the three areas marked H4c spews a gout of lava at the closest non-thoqqua target in its line of sight; these spouts use magical sensors that have [darkvision](/MonsterAbilities.aspx?ID=12) and a Perception DC of 25. Originally, agents of the abbot would come through here after the trap was triggered, deactivate it, and clean out the hardened blobs of lava and dead bodies that remained, but the amount of time it would take for this trap to clog tunnels with cooled lava makes tracking that slow accretion over the course of this adventure unnecessary.\n\n **Ranged** <actions string=\"Single Action\" /> lava gout +17 (fire), **Damage** 4d8 fire; no multiple attack penalty\r\n\r\n---\r\n**Reset**\r\nThe Last Crucible deactivates and resets 10 minutes after it has no target creatures (because the creatures either left area H4 or died). Any thoqquas that still live sense the magma river at area H6 and eventually make their way north to that area to swim away.",
+ "name": "The Last Crucible",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2022-10-26",
+ "reset": "The Last Crucible deactivates and resets 10 minutes after it has no target creatures (because the creatures either left area H4 or died). Any thoqquas that still live sense the magma river at area H6 and eventually make their way north to that area to swim away.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 100</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMagically hardened sheets of obsidian drop down over the room's exits while the machinery within taps into wells of magma to begin spewing lava—and …\r\n</summary>",
+ "source": [
+  "Crown of the Kobold King"
+ ],
+ "source_raw": [
+  "Crown of the Kobold King pg. 100"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Crown of the Kobold King",
+ "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 100</row>",
+ "speed": {},
+ "stealth": "+15 (expert)",
+ "summary": "Magically hardened sheets of obsidian drop down over the room's exits while the machinery within taps into wells of magma to begin spewing lava—and …",
+ "summary_markdown": "Magically hardened sheets of obsidian drop down over the room's exits while the machinery within taps into wells of magma to begin spewing lava—and …",
+ "text": " The Last Crucible Source Crown of the Kobold King pg. 100 Complexity Complex Magically hardened sheets of obsidian drop down over the room's exits while the machinery within taps into wells of magma to begin spewing lava—and monsters—into the maze. --- Stealth +15 (expert) Disable Thievery DC 28 (expert) to disable the main pressure plate at area H4a and deactivate the trap entirely (this causes the obsidian walls to retract up into the ceiling as well), Thievery DC 25 (trained) to disable one of the three lava spouts, or Athletics DC 28 (trained) to Force Open a fallen obsidian wall AC 22, Fort +17, Ref +11 Obsidian Wall Hardness 15 Obsidian Wall HP 58 (BT 29) to smash a 5-foot-square hole in the wall; Spout Hardness 13; Spout HP 20 (BT 10) Immunities critical hits, fire, object immunities, precision damage Drop the Wall Reaction Trigger Four or more Small or larger creatures walk onto the pressure plate at area H4a; Effect A magically hardened sheet of obsidian drops down like a portcullis in the western and northern entrances to this room that lead to areas H3 and H5, respectively. Any creatures standing in one of these squares takes 4d6+4 bludgeoning damage from the falling wall (DC 24 basic Reflex save) and then decides what side of the wall they want to be on. At the same moment, four thoqquas that have spent centuries in hibernation awaken and emerge from vents into area H4b. The trap then rolls initiative, as do the thoqquas. --- Routine (3 actions) The trap loses 1 action per disabled spout each turn. On each action, a different spout located at one of the three areas marked H4c spews a gout of lava at the closest non-thoqqua target in its line of sight; these spouts use magical sensors that have darkvision and a Perception DC of 25. Originally, agents of the abbot would come through here after the trap was triggered, deactivate it, and clean out the hardened blobs of lava and dead bodies that remained, but the amount of time it would take for this trap to clog tunnels with cooled lava makes tracking that slow accretion over the course of this adventure unnecessary. Ranged Single Action lava gout +17 (fire), Damage 4d8 fire; no multiple attack penalty --- Reset The Last Crucible deactivates and resets 10 minutes after it has no target creatures (because the creatures either left area H4 or died). Any thoqquas that still live sense the magma river at area H6 and eventually make their way north to that area to swim away.",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=258",
+ "weakness": {}
+}

@@ -1,0 +1,110 @@
+{
+ "ac": 22,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 6,
+ "creature_ability": [
+  "Slow",
+  "Constrict",
+  "Mandibles",
+  "Paralytic Venom",
+  "Tentacle Transfer"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 200,
+ "hp_raw": "200 ( negative healing )",
+ "id": "creature-2063",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Zombie Chuul](/Monsters.aspx?ID=2063)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Zombie Chuul](/Monsters.aspx?ID=2063)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 33</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +0\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Slow** The zombie chuul is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 200\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 15, slashing 15\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+12 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d12+7 bludgeoning, DC 25 (grabbed by claw only)\r\n\r\n**Mandibles** <actions string=\"Single Action\" />  **Requirements** A creature is grabbed and paralyzed by the zombie chuul's tentacles; Effect The creature takes 3d6 piercing damage.\r\n\r\n**Paralytic Venom**  ([Incapacitation](/Traits.aspx?ID=93), [Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 25 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** [paralyzed](/Conditions.aspx?ID=28) (1 round)\r\n\r\n**Tentacle Transfer** <actions string=\"Single Action\" />  **Requirements** The zombie chuul has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The zombie chuul transfers the grabbed creature from its claws to its tentacles, or vice versa. The creature is exposed to the zombie chuul's paralytic venom when transferred into the tentacles and at the start of each of the zombie chuul's turns if it remains grabbed by the tentacles.\r\n\r\n</column>",
+ "name": "Zombie Chuul",
+ "npc": false,
+ "perception": 11,
+ "rarity": "unique",
+ "reflex_save": 10,
+ "release_date": "2022-08-31",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 33</row>\n\n<row gap=\"medium\">\r\n**HP** 200 ( negative healing )\r\n\r\n**AC** 22\r\n\r\n**Fort** +18\r\n\r\n**Ref** +10\r\n\r\n**Will** +13\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  tremorsense  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +18",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Pathfinder #182: Graveclaw"
+ ],
+ "source_raw": [
+  "Pathfinder #182: Graveclaw pg. 33"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 33</row>",
+ "speed": {
+  "land": 30,
+  "max": 30,
+  "swim": 25
+ },
+ "speed_markdown": "30 feet, swim 25 feet",
+ "speed_raw": "30 feet, swim 25 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "11",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Zombie Chuul Recall Knowledge - Undead (Religion): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Zombie Chuul Source Pathfinder #182: Graveclaw pg. 33 Perception +11; darkvision, tremorsense (imprecise) 30 feet Languages Skills Athletics +18, Stealth +11 Str +7 Dex +0 Con +6 Int -5 Wis +0 Cha -1 Slow The zombie chuul is permanently slowed 1 and can't use reactions. --- AC 22 Fort +18 Ref +10 Will +13 HP 200 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, unconscious Weaknesses positive 15, slashing 15 --- Speed 30 feet, swim 25 feet Melee Single Action claw +18 (reach 10 feet), Damage 2d12+12 slashing plus Grab Constrict Single Action 1d12+7 bludgeoning, DC 25 (grabbed by claw only) Mandibles Single Action Requirements A creature is grabbed and paralyzed by the zombie chuul's tentacles; Effect The creature takes 3d6 piercing damage. Paralytic Venom (Incapacitation, Poison) Saving Throw DC 25 Fortitude; Maximum Duration 6 rounds; Stage 1 paralyzed (1 round) Tentacle Transfer Single Action Requirements The zombie chuul has a creature grabbed; Effect The zombie chuul transfers the grabbed creature from its claws to its tentacles, or vice versa. The creature is exposed to the zombie chuul's paralytic venom when transferred into the tentacles and at the start of each of the zombie chuul's turns if it remains grabbed by the tentacles. ",
+ "trait": [
+  "Amphibious",
+  "Mindless",
+  "Undead",
+  "Unique",
+  "Zombie",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Mindless](/Traits.aspx?ID=108), [Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Amphibious",
+  "Mindless",
+  "Undead",
+  "Unique",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2063",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "positive": 15,
+  "slashing": 15
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 15, slashing 15",
+ "weakness_raw": " positive  15, slashing 15",
+ "will_save": 13,
+ "wisdom": 0
+}

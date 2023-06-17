@@ -1,0 +1,148 @@
+{
+ "ac": 39,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 0,
+ "creature_ability": [
+  "Terrible Foresight",
+  "Time Shift"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 250,
+ "hp_raw": "250 ( negative healing )",
+ "id": "creature-1858",
+ "image": [
+  "/Images/Monsters/Fluxwraith.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 5,
+ "language": [
+  "Common",
+  "Necril",
+  "plus any four languages (typically ancient languages)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20); plus any four languages (typically ancient languages)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Fluxwraith](/Monsters.aspx?ID=1858)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTo cheat mortality, the rare spellcaster turns to potent temporal stasis magic, or even cryogenic technology. However, such methods are highly unreliable and often fracture the sleeper's soul across the time stream as their physical body perishes. Such an individual can rise as a fluxwraith, an incorporeal undead with a kaleidoscopic consciousness.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 41\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Fluxwraith.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Fluxwraith](/Monsters.aspx?ID=1858)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 93</row>\n\n**Perception** +35; [darkvision](/MonsterAbilities.aspx?ID=12) 60 feet, [lifesense](/MonsterAbilities.aspx?ID=21) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20); plus any four languages (typically ancient languages)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +34, [Arcana](/Skills.aspx?ID=2) +30, [Intimidation](/Skills.aspx?ID=7) +29, [Occultism](/Skills.aspx?ID=11) +30, [Stealth](/Skills.aspx?ID=15) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +9\r\n\r\n**Con** +0\r\n\r\n**Int** +5\r\n\r\n**Wis** +7\r\n\r\n**Cha** +6\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +34 \r\n\r\n**Will** +30 \n\n</row>\r\n\r\n**HP** 250\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nall damage 15 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntime-shifting touch +34 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d8+14 force plus time shift\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ntemporal fracturing ray +34 ([Magical](/Traits.aspx?ID=103), [range 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d6+14 mental plus terrible foresight\r\n\r\n**Occult Innate Spells** DC 39, attack +31\r\n- **Cantrips (9th)**\r\n[Daze](/Spells.aspx?ID=61)\r\n- **2nd**\r\n[Mirror Image](/Spells.aspx?ID=197)\r\n- **3rd**\r\n[Haste](/Spells.aspx?ID=147) (self only)\r\n- **7th**\r\n[Cast into Time](/Spells.aspx?ID=880), [Day's Weight](/Spells.aspx?ID=891), [Paralyze](/Spells.aspx?ID=213)\r\n- **8th**\r\n[Déjà Vu](/Spells.aspx?ID=684) (at will)\r\n- **10th**\r\n[Time Stop](/Spells.aspx?ID=339)\r\n\r\n**Terrible Foresight**  ([Divination](/Traits.aspx?ID=47), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120), [Prediction](/Traits.aspx?ID=132)) A creature struck by the fluxwraith's temporal fracturing ray receives a glimpse of a possible tragic event in its future. It must succeed at a DC 35 Will save or become [slowed 1](/Conditions.aspx?ID=35) and [stupefied 1](/Conditions.aspx?ID=37) (slowed 2 and stupefied 2 on a critical failure). If the creature is already affected by terrible foresight, it increases its stupefied value by 1 on a failed save, to a maximum of stupefied 4. Each time the creature gets a full night's rest, its condition values from terrible foresight decrease by 1.\r\n\r\n**Time Shift**  ([Occult](/Traits.aspx?ID=120), [Transmutation](/Traits.aspx?ID=157)) A creature struck by the fluxwraith's time-shifting touch must succeed at a DC 35 Will saving throw or be thrust forward in time, vanishing from its space. The target automatically reappears in the same location after 1d4 rounds but can attempt an additional Will save at the end of each of its turns to end the duration. If its original space is occupied when it returns, the creature appears in the nearest unoccupied space. Since the creature is shunted forward in time, it doesn't experience any of the intervening time. Likewise, any effects on the creature with a duration don't decrease their duration, resuming when the creature reappears. A creature that succeeds at any saving throw against time shift is temporarily immune for 1 hour.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_6_Geb.png\">Creating a Fluxwraith</title>\r\n\r\nA powerful necromancer can try to create a fluxwraith by subjecting someone to unstable temporal magic, usually by inflicting it on an unwilling victim. If the process succeeds, the created fluxwraith typically holds no loyalty to the necromancer and often turns its newfound powers on them first. A wise creator ensures they're nowhere nearby when the fluxwraith rises from death.\r\n</aside>",
+ "name": "Fluxwraith",
+ "npc": false,
+ "perception": 35,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 34,
+ "release_date": "2022-04-27",
+ "resistance": {
+  "acid": 15,
+  "all": 15,
+  "area": 15,
+  "bleed": 15,
+  "bludgeoning": 15,
+  "chaotic": 15,
+  "cold": 15,
+  "cold_iron": 15,
+  "electricity": 15,
+  "evil": 15,
+  "fire": 15,
+  "good": 15,
+  "lawful": 15,
+  "mental": 15,
+  "negative": 15,
+  "orichalcum": 15,
+  "physical": 15,
+  "piercing": 15,
+  "poison": 15,
+  "precision": 15,
+  "silver": 15,
+  "slashing": 15,
+  "sonic": 15,
+  "splash": 15
+ },
+ "resistance_markdown": "all damage 15 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all damage 15 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 93</row>\n\n<row gap=\"medium\">\r\n**HP** 250 ( negative healing )\r\n\r\n**AC** 39\r\n\r\n**Fort** +25\r\n\r\n**Ref** +34\r\n\r\n**Will** +30\r\n\r\n**Perception** +35\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo cheat mortality, the rare spellcaster turns to potent temporal stasis magic, or even cryogenic technology. However, such methods are highly …\r\n</summary>",
+ "sense": " darkvision  60 feet,  lifesense  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12) 60 feet, [lifesense](/MonsterAbilities.aspx?ID=21) (imprecise) 60 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +34",
+  "Arcana +30",
+  "Intimidation +29",
+  "Occultism +30",
+  "Stealth +28"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +34, [Arcana](/Skills.aspx?ID=2) +30, [Intimidation](/Skills.aspx?ID=7) +29, [Occultism](/Skills.aspx?ID=11) +30, [Stealth](/Skills.aspx?ID=15) +28",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 93"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 93</row>",
+ "speed": {
+  "fly": 40,
+  "max": 40
+ },
+ "speed_markdown": "fly 40 feet",
+ "speed_raw": "fly 40 feet",
+ "spell": [
+  "Time Stop",
+  "Déjà Vu",
+  "Cast into Time",
+  "Day's Weight",
+  "Paralyze",
+  "Haste",
+  "Mirror Image",
+  "Daze"
+ ],
+ "spell_markdown": "[Cast into Time](/Spells.aspx?ID=880), [Day's Weight](/Spells.aspx?ID=891), [Daze](/Spells.aspx?ID=61), [Déjà Vu](/Spells.aspx?ID=684), [Haste](/Spells.aspx?ID=147), [Mirror Image](/Spells.aspx?ID=197), [Paralyze](/Spells.aspx?ID=213), [Time Stop](/Spells.aspx?ID=339)",
+ "stealth": "28",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "To cheat mortality, the rare spellcaster turns to potent temporal stasis magic, or even cryogenic technology. However, such methods are highly …",
+ "summary_markdown": "To cheat mortality, the rare spellcaster turns to potent temporal stasis magic, or even cryogenic technology. However, such methods are highly …",
+ "text": " Fluxwraith To cheat mortality, the rare spellcaster turns to potent temporal stasis magic, or even cryogenic technology. However, such methods are highly unreliable and often fracture the sleeper's soul across the time stream as their physical body perishes. Such an individual can rise as a fluxwraith, an incorporeal undead with a kaleidoscopic consciousness. Recall Knowledge - Spirit (Occultism): DC 41 Recall Knowledge - Undead (Religion): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Fluxwraith Source Book of the Dead pg. 93 Perception +35; darkvision 60 feet, lifesense (imprecise) 60 feet Languages Common, Necril; plus any four languages (typically ancient languages) Skills Acrobatics +34, Arcana +30, Intimidation +29, Occultism +30, Stealth +28 Str -5 Dex +9 Con +0 Int +5 Wis +7 Cha +6 --- AC 39 Fort +25 Ref +34 Will +30 HP 250 (negative healing) Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all damage 15 (except force, ghost touch , or positive; double resistance vs. non-magical) --- Speed fly 40 feet Melee Single Action time-shifting touch +34 (Agile, Finesse, Magical), Damage 3d8+14 force plus time shift Ranged Single Action temporal fracturing ray +34 (Magical, range 30 feet), Damage 3d6+14 mental plus terrible foresight Occult Innate Spells DC 39, attack +31 - Cantrips (9th) Daze - 2nd Mirror Image - 3rd Haste (self only) - 7th Cast into Time, Day's Weight, Paralyze - 8th Déjà Vu (at will) - 10th Time Stop Terrible Foresight (Divination, Mental, Occult, Prediction) A creature struck by the fluxwraith's temporal fracturing ray receives a glimpse of a possible tragic event in its future. It must succeed at a DC 35 Will save or become slowed 1 and stupefied 1 (slowed 2 and stupefied 2 on a critical failure). If the creature is already affected by terrible foresight, it increases its stupefied value by 1 on a failed save, to a maximum of stupefied 4. Each time the creature gets a full night's rest, its condition values from terrible foresight decrease by 1. Time Shift (Occult, Transmutation) A creature struck by the fluxwraith's time-shifting touch must succeed at a DC 35 Will saving throw or be thrust forward in time, vanishing from its space. The target automatically reappears in the same location after 1d4 rounds but can attempt an additional Will save at the end of each of its turns to end the duration. If its original space is occupied when it returns, the creature appears in the nearest unoccupied space. Since the creature is shunted forward in time, it doesn't experience any of the intervening time. Likewise, any effects on the creature with a duration don't decrease their duration, resuming when the creature reappears. A creature that succeeds at any saving throw against time shift is temporarily immune for 1 hour. Creating a Fluxwraith A powerful necromancer can try to create a fluxwraith by subjecting someone to unstable temporal magic, usually by inflicting it on an unwilling victim. If the process succeeds, the created fluxwraith typically holds no loyalty to the necromancer and often turns its newfound powers on them first. A wise creator ensures they're nowhere nearby when the fluxwraith rises from death. ",
+ "trait": [
+  "Incorporeal",
+  "Rare",
+  "Spirit",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Rare](/Traits.aspx?ID=137), [Spirit](/Traits.aspx?ID=149), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Rare",
+  "Spirit",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1858",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 30,
+ "wisdom": 7
+}

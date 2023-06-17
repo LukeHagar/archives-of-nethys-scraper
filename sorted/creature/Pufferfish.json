@@ -1,0 +1,90 @@
+{
+ "ac": 12,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 2,
+ "creature_ability": [
+  "Toxic Body",
+  "Inflating Rush",
+  "Pufferfish Venom"
+ ],
+ "creature_family": "Fish",
+ "creature_family_markdown": "[Fish](/MonsterFamilies.aspx?ID=235)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 5,
+ "hp": 12,
+ "hp_raw": "12",
+ "id": "creature-1154",
+ "image": [
+  "/Images/Monsters/Fish_Pufferfish.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": -1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Pufferfish](/Monsters.aspx?ID=1154)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe pufferfish defends itself by filling its flexible body with air or water to extend a number of spikes that otherwise lie flat against its skin. While normally quite slow and deliberate, the pufferfish can contort its body to gain a sudden burst of speed that can catch predators off guard.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 13\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 11\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 8\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Fish_Pufferfish.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature -1\">[Pufferfish](/Monsters.aspx?ID=1154)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 99</row>\n\n**Perception** +4; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +2, [Athletics](/Skills.aspx?ID=3) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +0\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 12 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +3 \r\n\r\n**Will** +2 \n\n</row>\r\n\r\n**HP** 12\n\n**Toxic Body** Anyone who hits a pufferfish with a melee unarmed attack or a non-[reach](/Traits.aspx?ID=192) melee weapon must succeed at a DC 13 Reflex save or be pierced by a spine, taking 1 piercing damage and being exposed to pufferfish venom.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** swim 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +6,\r\n**Damage** 1d6+1 piercing plus pufferfish venom\n\n**Inflating Rush** <actions string=\"Two Actions\" />  The pufferfish Swims up to its Speed and then inflates. Each creature within 5 feet of its space at the end of its movement must succeed at a DC 13 Reflex save or take 1 piercing damage and be exposed to pufferfish venom.\r\n\r\n**Pufferfish Venom**  ([Incapacitation](/Traits.aspx?ID=93), [Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 16; **Maximum Duration** 24 hours; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d4 poison damage and [flat-footed](/Conditions.aspx?ID=16) (1 round); **Stage 3** 1d4 poison damage and [paralyzed](/Conditions.aspx?ID=28) (1 round); **Stage 4** 1d4 poison damage and paralyzed for 2d10 hours (1 round)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Peculiar Poison</title>\r\n\r\nFast-acting and deadly, the pufferfish's venom is commonly used in assassinations due to its relative abundance and ease of harvesting. However, if you survive the poison's effective duration of 24 hours, recovery is quick and leaves no lingering symptoms. For this reason, the demand for pufferfish venom remains high among those who seek it to fake death.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-235\" />",
+ "name": "Pufferfish",
+ "npc": false,
+ "perception": 4,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 3,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 99</row>\r\n\r\n**Creature Family** [Fish](/MonsterFamilies.aspx?ID=235)\r\n\r\n<row gap=\"medium\">\r\n**HP** 12\r\n\r\n**AC** 12\r\n\r\n**Fort** +5\r\n\r\n**Ref** +3\r\n\r\n**Will** +2\r\n\r\n**Perception** +4\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe pufferfish defends itself by filling its flexible body with air or water to extend a number of spikes that otherwise lie flat against its skin. …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +2",
+  "Athletics +4"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +2, [Athletics](/Skills.aspx?ID=3) +4",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 99"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 99</row>",
+ "speed": {
+  "max": 15,
+  "swim": 15
+ },
+ "speed_markdown": "swim 15 feet",
+ "speed_raw": "swim 15 feet",
+ "spell_markdown": "",
+ "strength": 2,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The pufferfish defends itself by filling its flexible body with air or water to extend a number of spikes that otherwise lie flat against its skin. …",
+ "summary_markdown": "The pufferfish defends itself by filling its flexible body with air or water to extend a number of spikes that otherwise lie flat against its skin. …",
+ "text": " Pufferfish The pufferfish defends itself by filling its flexible body with air or water to extend a number of spikes that otherwise lie flat against its skin. While normally quite slow and deliberate, the pufferfish can contort its body to gain a sudden burst of speed that can catch predators off guard. Recall Knowledge - Animal (Nature): DC 13 Unspecific Lore : DC 11 Specific Lore : DC 8 Pufferfish Source Bestiary 3 pg. 99 Perception +4; low-light vision Languages Skills Acrobatics +2, Athletics +4 Str +2 Dex +0 Con +2 Int -5 Wis +1 Cha -2 --- AC 12 Fort +5 Ref +3 Will +2 HP 12 Toxic Body Anyone who hits a pufferfish with a melee unarmed attack or a non-reach melee weapon must succeed at a DC 13 Reflex save or be pierced by a spine, taking 1 piercing damage and being exposed to pufferfish venom. --- Speed swim 15 feet Melee Single Action bite +6, Damage 1d6+1 piercing plus pufferfish venom Inflating Rush Two Actions The pufferfish Swims up to its Speed and then inflates. Each creature within 5 feet of its space at the end of its movement must succeed at a DC 13 Reflex save or take 1 piercing damage and be exposed to pufferfish venom. Pufferfish Venom (Incapacitation, Poison) Saving Throw Fortitude DC 16; Maximum Duration 24 hours; Stage 1 1d4 poison damage (1 round); Stage 2 1d4 poison damage and flat-footed (1 round); Stage 3 1d4 poison damage and paralyzed (1 round); Stage 4 1d4 poison damage and paralyzed for 2d10 hours (1 round) Peculiar Poison Fast-acting and deadly, the pufferfish's venom is commonly used in assassinations due to its relative abundance and ease of harvesting. However, if you survive the poison's effective duration of 24 hours, recovery is quick and leaves no lingering symptoms. For this reason, the demand for pufferfish venom remains high among those who seek it to fake death. ",
+ "trait": [
+  "Animal",
+  "Aquatic",
+  "N",
+  "Tiny"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Aquatic](/Traits.aspx?ID=168)",
+ "trait_raw": [
+  "Animal",
+  "Aquatic"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1154",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 2,
+ "wisdom": 1
+}

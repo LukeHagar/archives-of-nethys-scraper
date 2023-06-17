@@ -1,0 +1,86 @@
+{
+ "ac": 13,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Tandem Chop"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 20,
+ "hp_raw": "20",
+ "id": "creature-2229",
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"\">[Logger](/NPCs.aspx?ID=2229)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Logger](/NPCs.aspx?ID=2229)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 71</row>\n\n**Perception** +6\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +7, [Lumber Lore](/Skills.aspx?ID=8) +6, [Nature](/Skills.aspx?ID=10) +4, [Survival](/Skills.aspx?ID=16) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +1\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Battle Axe](/Weapons.aspx?ID=16), [Climbing Kit](/Equipment.aspx?ID=14), [Hatchet](/Weapons.aspx?ID=27), [Padded Armor](/Armor.aspx?ID=3)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 13 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 20\n\n**Tandem Chop** <actions string=\"Reaction\" /> **Trigger** A creature or object within their reach is hit with a Strike by an ally using a weapon in the [axe](/WeaponGroups.aspx?ID=1) group; **Requirements** The logger is holding a weapon in the axe group; **Effect** The logger attempts a Strike against the same creature or object. If it hits, combine the damage with the damage from the triggering Strike for the purpose of Hardness, resistances, and weaknesses. A creature or object can only be the target of a single Tandem Chop per turn, regardless of the number of loggers in reach.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbattle axe +7 ([Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 1d8+3 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhatchet +7 ([Agile](/Traits.aspx?ID=170), [Sweep](/Traits.aspx?ID=194), [thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+3 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhatchet +5 ([Agile](/Traits.aspx?ID=170), [Sweep](/Traits.aspx?ID=194), [thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+1 slashing\n\n</column>",
+ "name": "Logger",
+ "npc": true,
+ "perception": 6,
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 71</row>\n\n<row gap=\"medium\">\r\n**HP** 20\r\n\r\n**AC** 13\r\n\r\n**Fort** +8\r\n\r\n**Ref** +5\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +5",
+  "Athletics +7",
+  "Lumber Lore +6",
+  "Nature +4",
+  "Survival +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +5, [Athletics](/Skills.aspx?ID=3) +7, [Lumber Lore](/Skills.aspx?ID=8) +6, [Nature](/Skills.aspx?ID=10) +4, [Survival](/Skills.aspx?ID=16) +6",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 71"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 71</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Logger Recall Knowledge - Humanoid (Society): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Logger Source Kingmaker Adventure Path pg. 71 Perception +6 Languages Common Skills Acrobatics +5, Athletics +7, Lumber Lore +6, Nature +4, Survival +6 Str +3 Dex +1 Con +2 Int +0 Wis +2 Cha +0 Items Battle Axe, Climbing Kit, Hatchet, Padded Armor --- AC 13 Fort +8 Ref +5 Will +6 HP 20 Tandem Chop Reaction Trigger A creature or object within their reach is hit with a Strike by an ally using a weapon in the axe group; Requirements The logger is holding a weapon in the axe group; Effect The logger attempts a Strike against the same creature or object. If it hits, combine the damage with the damage from the triggering Strike for the purpose of Hardness, resistances, and weaknesses. A creature or object can only be the target of a single Tandem Chop per turn, regardless of the number of loggers in reach. --- Speed 25 feet Melee Single Action battle axe +7 (Sweep), Damage 1d8+3 slashing Melee Single Action hatchet +7 (Agile, Sweep, thrown 10 feet), Damage 1d6+3 slashing Ranged Single Action hatchet +5 (Agile, Sweep, thrown 10 feet), Damage 1d6+1 slashing\n",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2229",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 2
+}

@@ -1,0 +1,86 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 3,
+ "creature_ability": [
+  "Frightening Display"
+ ],
+ "creature_family": "Ape",
+ "creature_family_markdown": "[Ape](/MonsterFamilies.aspx?ID=6)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-25",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Gorilla](/Monsters.aspx?ID=25)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGorillas can be territorial creatures, particularly if provoked by hunters or the presence of more dangerous monsters. A gorilla uses its fangs and powerful arms to bite and pummel trespassers with wild abandon.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Gorilla](/Monsters.aspx?ID=25)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 23</row>\n\n**Perception** +8; low-light vision, scent (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +11, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 45\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +11 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +11 ([reach 5 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+4 piercing\n\n**Frightening Display** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 20 Will save. While a creature is [frightened](/Conditions.aspx?ID=19) by this ability, it is [flat-footed](/Conditions.aspx?ID=16) to the gorilla.<br />**Critical Success** No effect and temporarily immune for 1 minute.<br />**Success** The creature is unaffected.<br />**Failure** The creature is [frightened 1](/Conditions.aspx?ID=19).<br />**Critical Failure** The creature is [frightened 2](/Conditions.aspx?ID=19).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Gigantopithecus</title>\r\n\r\nThese fierce kin of orangutans are three times heavier than a gorilla. They are level 4, with statistics roughly akin to an elite gorilla.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-6\" />",
+ "name": "Gorilla",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 23</row>\r\n\r\n**Creature Family** [Ape](/MonsterFamilies.aspx?ID=6)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +12\r\n\r\n**Ref** +9\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGorillas can be territorial creatures, particularly if provoked by hunters or the presence of more dangerous monsters. A gorilla uses its fangs and …\r\n</summary>",
+ "sense": "low-light vision, scent (imprecise) 30 feet",
+ "sense_markdown": "low-light vision, scent (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +9",
+  "Athletics +11",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +11, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 23"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 23</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Gorillas can be territorial creatures, particularly if provoked by hunters or the presence of more dangerous monsters. A gorilla uses its fangs and …",
+ "summary_markdown": "Gorillas can be territorial creatures, particularly if provoked by hunters or the presence of more dangerous monsters. A gorilla uses its fangs and …",
+ "text": " Gorilla Gorillas can be territorial creatures, particularly if provoked by hunters or the presence of more dangerous monsters. A gorilla uses its fangs and powerful arms to bite and pummel trespassers with wild abandon. Recall Knowledge - Animal (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Gorilla Source Bestiary pg. 23 Perception +8; low-light vision, scent (imprecise) 30 feet Languages Skills Acrobatics +9, Athletics +11, Stealth +7 Str +4 Dex +2 Con +3 Int -4 Wis +1 Cha -2 --- AC 19 Fort +12 Ref +9 Will +6 HP 45 --- Speed 30 feet, climb 30 feet Melee Single Action fist +11 (Agile, reach 10 feet), Damage 2d6+4 bludgeoning Melee Single Action jaws +11 (reach 5 feet), Damage 1d8+4 piercing Frightening Display Two Actions (Auditory, Emotion, Fear, Mental) The gorilla beats its chest in a terrifying display. Creatures within 30 feet must attempt a DC 20 Will save. While a creature is frightened by this ability, it is flat-footed to the gorilla. Critical Success No effect and temporarily immune for 1 minute. Success The creature is unaffected. Failure The creature is frightened 1. Critical Failure The creature is frightened 2. Gigantopithecus These fierce kin of orangutans are three times heavier than a gorilla. They are level 4, with statistics roughly akin to an elite gorilla. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=25",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 1
+}

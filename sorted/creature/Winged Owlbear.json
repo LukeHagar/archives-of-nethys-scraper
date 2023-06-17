@@ -1,0 +1,89 @@
+{
+ "ac": 41,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Bloodcurdling Screech",
+  "Gnaw",
+  "Screeching Advance"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 32,
+ "hp": 380,
+ "hp_raw": "380",
+ "id": "creature-2355",
+ "intelligence": -2,
+ "language": [
+  "Sylvan",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Sylvan](/Languages.aspx?ID=10); (can't speak any language)",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Winged Owlbear](/Monsters.aspx?ID=2355)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Winged Owlbear](/Monsters.aspx?ID=2355)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 451</row>\n\n**Perception** +32; [low-light  vision](/Monsters.aspx?ID=1969), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Sylvan](/Languages.aspx?ID=10); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +31, [Athletics](/Skills.aspx?ID=3) +35, [Intimidation](/Skills.aspx?ID=7) +31\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +5\r\n\r\n**Con** +6\r\n\r\n**Int** -2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 41 \r\n\r\n**Fort** +32 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +30 \n\n</row>\r\n\r\n**HP** 380\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +35 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+17 piercing plus 1d12 bleed\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +35 ([Agile](/Traits.aspx?ID=170), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+17 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Bloodcurdling Screech** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an 80-foot emanation must attempt a DC 40 Will save. Regardless of the result, creatures are temporarily immune for 1 minute.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature is [frightened 1](/Conditions.aspx?ID=19).<br /> **Failure** The creature is [frightened 2](/Conditions.aspx?ID=19).<br /> **Critical Failure** The creature is fleeing for 1 round and [frightened 3](/Conditions.aspx?ID=19).\r\n\r\n**Gnaw** <actions string=\"Single Action\" />  **Requirements** The owlbear has a creature grabbed with its talons. **Effect** The owlbear attempts to disembowel the creature with a beak Strike. If the Strike hits, the target must attempt a DC 40 Will save.<br /> **Critical Success** The target is unaffected.<br /> **Success** The target is [sickened 1](/Conditions.aspx?ID=34).<br /> **Failure** The target is [sickened 1](/Conditions.aspx?ID=34) and [slowed 1](/Conditions.aspx?ID=35) as long as it remains [sickened](/Conditions.aspx?ID=34).\r\n\r\n**Screeching Advance** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The owlbear makes a Bloodcurdling Screech and Strides twice. All creatures within 80 feet of the owlbear at any point during this movement are subjected to the effects of Bloodcurdling Screech.\r\n\r\n</column>",
+ "name": "Winged Owlbear",
+ "npc": false,
+ "perception": 32,
+ "rarity": "common",
+ "reflex_save": 30,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 451</row>\n\n<row gap=\"medium\">\r\n**HP** 380\r\n\r\n**AC** 41\r\n\r\n**Fort** +32\r\n\r\n**Ref** +30\r\n\r\n**Will** +30\r\n\r\n**Perception** +32\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light  vision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[low-light  vision](/Monsters.aspx?ID=1969), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +31",
+  "Athletics +35",
+  "Intimidation +31"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +31, [Athletics](/Skills.aspx?ID=3) +35, [Intimidation](/Skills.aspx?ID=7) +31",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 451"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 451</row>",
+ "speed": {
+  "fly": 50,
+  "land": 30,
+  "max": 50
+ },
+ "speed_markdown": "30 feet, fly 50 feet",
+ "speed_raw": "30 feet, fly 50 feet",
+ "spell_markdown": "",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Winged Owlbear Recall Knowledge - Animal (Nature): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Winged Owlbear Source Kingmaker Adventure Path pg. 451 Perception +32; low-light vision, scent (imprecise) 30 feet Languages Sylvan; (can't speak any language) Skills Acrobatics +31, Athletics +35, Intimidation +31 Str +9 Dex +5 Con +6 Int -2 Wis +5 Cha +4 --- AC 41 Fort +32 Ref +30 Will +30 HP 380 --- Speed 30 feet, fly 50 feet Melee Single Action beak +35 (reach 10 feet), Damage 3d12+17 piercing plus 1d12 bleed Melee Single Action talon +35 (Agile, reach 20 feet), Damage 3d10+17 slashing plus Grab Bloodcurdling Screech Single Action (Auditory, Emotion, Fear, Mental) The owlbear unleashes a loud screech that terrifies its prey. Each creature in an 80-foot emanation must attempt a DC 40 Will save. Regardless of the result, creatures are temporarily immune for 1 minute. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure The creature is fleeing for 1 round and frightened 3. Gnaw Single Action Requirements The owlbear has a creature grabbed with its talons. Effect The owlbear attempts to disembowel the creature with a beak Strike. If the Strike hits, the target must attempt a DC 40 Will save. Critical Success The target is unaffected. Success The target is sickened 1. Failure The target is sickened 1 and slowed 1 as long as it remains sickened. Screeching Advance Two Actions (Auditory, Emotion, Fear, Mental) The owlbear makes a Bloodcurdling Screech and Strides twice. All creatures within 80 feet of the owlbear at any point during this movement are subjected to the effects of Bloodcurdling Screech. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2355",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 30,
+ "wisdom": 5
+}

@@ -1,0 +1,100 @@
+{
+ "ac": 31,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 0,
+ "creature_ability": [
+  "Cat's Luck",
+  "Hampering Strike",
+  "Subduing Attack"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 200,
+ "hp_raw": "200",
+ "id": "creature-1688",
+ "intelligence": 2,
+ "language": [
+  "Amurrun",
+  "Aquan",
+  "Common",
+  "Cyclops"
+ ],
+ "language_markdown": "[Amurrun](/Languages.aspx?ID=25), [Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Cyclops](/Languages.aspx?ID=30)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Yonsuu](/NPCs.aspx?ID=1688)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Yonsuu](/NPCs.aspx?ID=1688)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=211\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #171: Hurricane's Howl](/Sources.aspx?ID=101) pg. 44</row>\n\n**Perception** +21; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Amurrun](/Languages.aspx?ID=25), [Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Cyclops](/Languages.aspx?ID=30)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +22, [Athletics](/Skills.aspx?ID=3) +21, [Diplomacy](/Skills.aspx?ID=6) +19, [Intimidation](/Skills.aspx?ID=7) +21, [Society](/Skills.aspx?ID=14) +19, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3), [good manacles](/Equipment.aspx?ID=32) (3), [religious symbol](/Equipment.aspx?ID=41) of [Norgorber](/Deities.aspx?ID=13), _+1 [resilient](/Equipment.aspx?ID=279) [studded leather](/Armor.aspx?ID=5)_, _+2 [striking](/Equipment.aspx?ID=280) [trident](/Weapons.aspx?ID=45)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +24 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 200\n\n**Cat's Luck** <actions string=\"Reaction\" /> ([fortune](/Traits.aspx?ID=76)) **Frequency** once per day; **Trigger** Yonsuu fails or critically fails a Reflex saving throw; **Effect** Yonsuu rerolls the saving throw and takes the better result.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_trident_ +24 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+6 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +23 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+6 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +23 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+6 piercing\n\n**Hampering Strike**   A foe that takes damage from Yonsuu's melee Strike is [slowed 1](/Conditions.aspx?ID=35) for 1 round (slowed 3 if the Strike is a critical hit).\r\n\r\n**Subduing Attack**   Yonsuu deals an additional 3d6 precision damage to creatures that are [frightened](/Conditions.aspx?ID=19) or within reach of at least one of his allies. Yonsuu can choose to make an attack with this additional damage as a [nonlethal](/Traits.aspx?ID=188) attack.\r\n\r\n</column>",
+ "name": "Yonsuu",
+ "npc": true,
+ "perception": 21,
+ "rarity": "unique",
+ "reflex_save": 24,
+ "release_date": "2021-10-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Catfolk\" url=\"/Traits.aspx?ID=211\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #171: Hurricane's Howl](/Sources.aspx?ID=101) pg. 44</row>\n\n<row gap=\"medium\">\r\n**HP** 200\r\n\r\n**AC** 31\r\n\r\n**Fort** +19\r\n\r\n**Ref** +24\r\n\r\n**Will** +21\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +22",
+  "Athletics +21",
+  "Diplomacy +19",
+  "Intimidation +21",
+  "Society +19",
+  "Stealth +21",
+  "Survival +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +22, [Athletics](/Skills.aspx?ID=3) +21, [Diplomacy](/Skills.aspx?ID=6) +19, [Intimidation](/Skills.aspx?ID=7) +21, [Society](/Skills.aspx?ID=14) +19, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +19",
+ "source": [
+  "Pathfinder #171: Hurricane's Howl"
+ ],
+ "source_raw": [
+  "Pathfinder #171: Hurricane's Howl pg. 44"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #171: Hurricane's Howl](/Sources.aspx?ID=101) pg. 44</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "stealth": "21",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Yonsuu Recall Knowledge - Humanoid (Society): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Yonsuu Source Pathfinder #171: Hurricane's Howl pg. 44 Perception +21; low-light vision Languages Amurrun, Aquan, Common, Cyclops Skills Acrobatics +22, Athletics +21, Diplomacy +19, Intimidation +21, Society +19, Stealth +21, Survival +19 Str +4 Dex +5 Con +0 Int +2 Wis +2 Cha +4 Items Dagger, good manacles (3), religious symbol of Norgorber, +1 resilient studded leather , +2 striking trident --- AC 31 Fort +19 Ref +24 Will +21 HP 200 Cat's Luck Reaction (fortune) Frequency once per day; Trigger Yonsuu fails or critically fails a Reflex saving throw; Effect Yonsuu rerolls the saving throw and takes the better result. --- Speed 30 feet Melee Single Action trident +24 (Magical), Damage 2d8+6 piercing Melee Single Action dagger +23 (Agile, Finesse, versatile S), Damage 1d4+6 piercing Ranged Single Action dagger +23 (Agile, thrown 10 feet, versatile S), Damage 1d4+6 piercing Hampering Strike A foe that takes damage from Yonsuu's melee Strike is slowed 1 for 1 round (slowed 3 if the Strike is a critical hit). Subduing Attack Yonsuu deals an additional 3d6 precision damage to creatures that are frightened or within reach of at least one of his allies. Yonsuu can choose to make an attack with this additional damage as a nonlethal attack. ",
+ "trait": [
+  "Catfolk",
+  "Humanoid",
+  "Unique",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Catfolk](/Traits.aspx?ID=211), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Catfolk",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=1688",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 2
+}

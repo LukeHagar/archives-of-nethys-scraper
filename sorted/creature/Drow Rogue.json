@@ -1,0 +1,110 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Light Blindness",
+  "Nimble Dodge",
+  "Requirement",
+  "Quick Draw",
+  "Sneak Attack"
+ ],
+ "creature_family": "Drow",
+ "creature_family_markdown": "[Drow](/MonsterFamilies.aspx?ID=37)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 26,
+ "hp_raw": "26",
+ "id": "creature-166",
+ "immunity": [
+  "sleep"
+ ],
+ "immunity_markdown": "sleep",
+ "intelligence": 0,
+ "language": [
+  "Elven",
+  "Undercommon"
+ ],
+ "language_markdown": "[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Drow Rogue](/Monsters.aspx?ID=166)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLoners at heart, drow rogues trust no one—least of all fellow slayers. These drow rely on awareness and adaptation to survive the cutthroat nature of their society.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Drow Rogue](/Monsters.aspx?ID=166)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 137</row>\n\n**Perception** +6; darkvision\r\n\r\n**Languages**\r\n[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Deception](/Skills.aspx?ID=5) +7, [Society](/Skills.aspx?ID=14) +4, [Stealth](/Skills.aspx?ID=15) +10, [Thievery](/Skills.aspx?ID=17) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +0\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)**\r\n\r\n**Items**\r\n[Lethargy Poison](/Equipment.aspx?ID=120) (2 doses), [Studded Leather Armor](/Armor.aspx?ID=5), [Hand Crossbow](/Weapons.aspx?ID=69) (10 bolts)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +6 \r\n\r\n+1 status to all saves vs. magic, +2 status to all saves vs. mental\r\n</row>\r\n\r\n**HP** 26\n\n**Immunities**\r\nsleep\n\n**Nimble Dodge** <actions string=\"Reaction\" /> **Requirement** A drow rogue can’t use this reaction while encumbered. **Trigger** The drow rogue is hit or critically hit by an attack made by a creature the drow rogue can see. **Effect** The drow rogue gains a +2 circumstance bonus to their Armor Class against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+4 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhand crossbow +10 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6 piercing plus [_lethargy poison_](/Equipment.aspx?ID=120)\r\n\r\n**Divine Innate Spells** DC 16\r\n- **Cantrips (2nd)**\r\n[Dancing Lights](/Spells.aspx?ID=58)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59) (at will), [Faerie Fire](/Spells.aspx?ID=107) (at will)\r\n\r\n**Quick Draw** <actions string=\"Single Action\" />  The drow rogue draws a weapon using the Interact action, then Strikes with that weapon.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The drow rogue deals 1d6 extra precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-37\" />",
+ "name": "Drow Rogue",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 137</row>\r\n\r\n**Creature Family** [Drow](/MonsterFamilies.aspx?ID=37)\r\n\r\n<row gap=\"medium\">\r\n**HP** 26\r\n\r\n**AC** 19\r\n\r\n**Fort** +6\r\n\r\n**Ref** +10\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLoners at heart, drow rogues trust no one—least of all fellow slayers. These drow rely on awareness and adaptation to survive the cutthroat nature of …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Deception +7",
+  "Society +4",
+  "Stealth +10",
+  "Thievery +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Deception](/Skills.aspx?ID=5) +7, [Society](/Skills.aspx?ID=14) +4, [Stealth](/Skills.aspx?ID=15) +10, [Thievery](/Skills.aspx?ID=17) +8",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 137"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 137</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Darkness",
+  "Faerie Fire",
+  "Dancing Lights"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Darkness](/Spells.aspx?ID=59), [Faerie Fire](/Spells.aspx?ID=107)",
+ "stealth": "10",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Loners at heart, drow rogues trust no one—least of all fellow slayers. These drow rely on awareness and adaptation to survive the cutthroat nature of …",
+ "summary_markdown": "Loners at heart, drow rogues trust no one—least of all fellow slayers. These drow rely on awareness and adaptation to survive the cutthroat nature of …",
+ "text": " Drow Rogue Loners at heart, drow rogues trust no one—least of all fellow slayers. These drow rely on awareness and adaptation to survive the cutthroat nature of their society. Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Drow Rogue Source Bestiary pg. 137 Perception +6; darkvision Languages Elven, Undercommon Skills Acrobatics +8, Deception +7, Society +4, Stealth +10, Thievery +8 Str +2 Dex +4 Con +2 Int +0 Wis +0 Cha +1 Light Blindness Items Lethargy Poison (2 doses), Studded Leather Armor, Hand Crossbow (10 bolts) --- AC 19 Fort +6 Ref +10 Will +6 +1 status to all saves vs. magic, +2 status to all saves vs. mental HP 26 Immunities sleep Nimble Dodge Reaction Requirement A drow rogue can’t use this reaction while encumbered. Trigger The drow rogue is hit or critically hit by an attack made by a creature the drow rogue can see. Effect The drow rogue gains a +2 circumstance bonus to their Armor Class against the triggering attack. --- Speed 30 feet Melee Single Action shortsword +10 (Agile, Finesse, versatile S), Damage 1d6+4 piercing Melee Single Action hand crossbow +10 (range increment 60 feet, reload 1), Damage 1d6 piercing plus lethargy poison Divine Innate Spells DC 16 - Cantrips (2nd) Dancing Lights - 2nd Darkness (at will), Faerie Fire (at will) Quick Draw Single Action The drow rogue draws a weapon using the Interact action, then Strikes with that weapon. Sneak Attack The drow rogue deals 1d6 extra precision damage to flat-footed creatures. ",
+ "trait": [
+  "Drow",
+  "Elf",
+  "Humanoid",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Drow](/Traits.aspx?ID=51), [Elf](/Traits.aspx?ID=58), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Drow",
+  "Elf",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=166",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 0
+}

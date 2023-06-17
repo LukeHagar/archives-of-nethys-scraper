@@ -1,0 +1,96 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 3,
+ "creature_ability": [
+  "Obscuring Grab",
+  "Bone Drink",
+  "Burst of Speed",
+  "Terrifying Gaze"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-995",
+ "image": [
+  "/Images/Monsters/Tenome.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tenome](/Monsters.aspx?ID=995)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA tenome resembles an eyeless humanoid with rumpled, pale skin and a single eye embedded in each palm of its cadaverous hands. When they opens their disturbingly wide mouth, this sly, frightful predator's fangs hum and pulse with an eerie drone.\n\n Tenomes prefer to stalk urban environments; they often wear hooded cloaks or flowing robes to obscure their monstrous features, posing as beggars or corpses to blend in with society. When they attack, tenomes approach their victim with their palms outstretched, attempting to trap prey with their terrifying gaze. Once they seize their prey, tenomes vibrate their strange teeth rapidly as they feasts, emulsifying the bones into a digestible ooze that they slurps from a wound. Tenomes can be put at a disadvantage while hunting, as their vision is obscured when they have prey grabbed. Because of this, tenomes either wait for lone victims or hunts in packs. Members of these groups work together to secure meals for the entire pack and protect each other from being ambushed while feeding.\n\n There are rumors that if tenomes pluck the eyes from their victim and places one in each of the corpse's palms, the slain creature will rise as a new tenome the next nightfall. Even tenomes aren't sure of the truth of this rumor, as none remember their own origins, but they might mutilate the corpses of their victims this way in the hopes of creating a pack mate or to instill terror in those who discover the body.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Tenome.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Tenome](/Monsters.aspx?ID=995)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 85</row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +11, [Intimidation](/Skills.aspx?ID=7) +10, [Deception](/Skills.aspx?ID=5) +10, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +0\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 60\n\n**Obscuring Grab** While the tenome is Grabbing a creature, all other creatures are [concealed](/Conditions.aspx?ID=4) to the tenome.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14,\r\n**Damage** 2d8+4 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +14 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+4 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Bone Drink** <actions string=\"Two Actions\" /> ([Healing](/Traits.aspx?ID=89), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) **Requirement** The tenome has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33); **Effect** The tenome makes a jaws Strike against the grabbed or restrained creature. If the Strike hits, the creature must succeed at a DC 18 Fortitude save or become [drained 1](/Conditions.aspx?ID=10) (or the value of the creature's drained condition increases by 1 if it already has a drained value, to a maximum of drained 4). The tenome regains 1d8 Hit Points each time it uses Bone Drink.\r\n\r\n**Burst of Speed** <actions string=\"Single Action\" />  The tenome Strides twice, Steps twice, or Steps and Strides (in either order). It cannot use Burst of Speed again for 1d4 rounds.\r\n\r\n**Terrifying Gaze** <actions string=\"Single Action or Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120), [Visual](/Traits.aspx?ID=163)) A tenome can gaze at a creature within 30 feet by presenting one of its eyes. The target must succeed at a DC 21 Will save or become [frightened 1](/Conditions.aspx?ID=19). If the tenome uses 2 actions and presents both of its eyes, the target is also [paralyzed](/Conditions.aspx?ID=28) if it fails the save. A creature that successfully saves is temporarily immune for 24 hours.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Spawned from Violence</title>\r\n\r\nLegend says the first tenome was a grieving widower who sleepwalked. When he unknowingly intruded upon a neighbor's pasture one night while she was rustling cattle, the neighbor assumed the widower saw her crime and killed him, gouging out his eyes. The widower, returning as a monster with eyes in his hands, stalked and murdered his neighbor and her family.\r\n\r\n</aside>",
+ "name": "Tenome",
+ "npc": false,
+ "perception": 14,
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2020-08-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 85</row>\n\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 21\r\n\r\n**Fort** +13\r\n\r\n**Ref** +15\r\n\r\n**Will** +12\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA tenome resembles an eyeless humanoid with rumpled, pale skin and a single eye embedded in each palm of its cadaverous hands. When they opens their …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +11",
+  "Intimidation +10",
+  "Deception +10",
+  "Stealth +12",
+  "Survival +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +11, [Intimidation](/Skills.aspx?ID=7) +10, [Deception](/Skills.aspx?ID=5) +10, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +8",
+ "source": [
+  "Pathfinder #158: Sixty Feet Under"
+ ],
+ "source_raw": [
+  "Pathfinder #158: Sixty Feet Under pg. 85"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 85</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A tenome resembles an eyeless humanoid with rumpled, pale skin and a single eye embedded in each palm of its cadaverous hands. When they opens their …",
+ "summary_markdown": "A tenome resembles an eyeless humanoid with rumpled, pale skin and a single eye embedded in each palm of its cadaverous hands. When they opens their …",
+ "text": " Tenome A tenome resembles an eyeless humanoid with rumpled, pale skin and a single eye embedded in each palm of its cadaverous hands. When they opens their disturbingly wide mouth, this sly, frightful predator's fangs hum and pulse with an eerie drone. Tenomes prefer to stalk urban environments; they often wear hooded cloaks or flowing robes to obscure their monstrous features, posing as beggars or corpses to blend in with society. When they attack, tenomes approach their victim with their palms outstretched, attempting to trap prey with their terrifying gaze. Once they seize their prey, tenomes vibrate their strange teeth rapidly as they feasts, emulsifying the bones into a digestible ooze that they slurps from a wound. Tenomes can be put at a disadvantage while hunting, as their vision is obscured when they have prey grabbed. Because of this, tenomes either wait for lone victims or hunts in packs. Members of these groups work together to secure meals for the entire pack and protect each other from being ambushed while feeding. There are rumors that if tenomes pluck the eyes from their victim and places one in each of the corpse's palms, the slain creature will rise as a new tenome the next nightfall. Even tenomes aren't sure of the truth of this rumor, as none remember their own origins, but they might mutilate the corpses of their victims this way in the hopes of creating a pack mate or to instill terror in those who discover the body. Recall Knowledge - Humanoid (Society): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Tenome Source Pathfinder #158: Sixty Feet Under pg. 85 Perception +14; darkvision Languages Common Skills Acrobatics +12, Athletics +11, Intimidation +10, Deception +10, Stealth +12, Survival +8 Str +4 Dex +5 Con +3 Int +0 Wis +0 Cha +2 --- AC 21 Fort +13 Ref +15 Will +12 HP 60 Obscuring Grab While the tenome is Grabbing a creature, all other creatures are concealed to the tenome. --- Speed 25 feet Melee Single Action jaws +14, Damage 2d8+4 piercing Melee Single Action claw +14 (Agile), Damage 2d6+4 slashing plus Grab Bone Drink Two Actions (Healing, Necromancy, Occult) Requirement The tenome has a creature grabbed or restrained; Effect The tenome makes a jaws Strike against the grabbed or restrained creature. If the Strike hits, the creature must succeed at a DC 18 Fortitude save or become drained 1 (or the value of the creature's drained condition increases by 1 if it already has a drained value, to a maximum of drained 4). The tenome regains 1d8 Hit Points each time it uses Bone Drink. Burst of Speed Single Action The tenome Strides twice, Steps twice, or Steps and Strides (in either order). It cannot use Burst of Speed again for 1d4 rounds. Terrifying Gaze Single Action or Two Actions (Emotion, Enchantment, Fear, Incapacitation, Mental, Occult, Visual) A tenome can gaze at a creature within 30 feet by presenting one of its eyes. The target must succeed at a DC 21 Will save or become frightened 1. If the tenome uses 2 actions and presents both of its eyes, the target is also paralyzed if it fails the save. A creature that successfully saves is temporarily immune for 24 hours. Spawned from Violence Legend says the first tenome was a grieving widower who sleepwalked. When he unknowingly intruded upon a neighbor's pasture one night while she was rustling cattle, the neighbor assumed the widower saw her crime and killed him, gouging out his eyes. The widower, returning as a monster with eyes in his hands, stalked and murdered his neighbor and her family. ",
+ "trait": [
+  "Humanoid",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=995",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 0
+}

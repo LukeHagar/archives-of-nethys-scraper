@@ -1,0 +1,113 @@
+{
+ "ac": 26,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 6,
+ "creature_ability": [
+  "Stench",
+  "Earthen Blow",
+  "Earthen Torrent",
+  "Stone Throes"
+ ],
+ "creature_family": "Xulgath",
+ "creature_family_markdown": "[Xulgath](/MonsterFamilies.aspx?ID=102)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 135,
+ "hp_raw": "135",
+ "id": "creature-524",
+ "image": [
+  "/Images/Monsters/Xulgath_XulgathStoneliege.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Draconic",
+  "Undercommon"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Xulgath Stoneliege](/Monsters.aspx?ID=524)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nStonelieges are xulgaths magically infused with living earth—the very bones of the world. They are created through a process xulgaths call stone-binding, which can be performed with complex alchemy, powerful psychic magic, or Abyssal rituals. Their scales are like stone slabs, and their bones are as dense as bedrock, so they are among the hardiest and longest-lived xulgaths. To stonelieges, earth is as mutable as water, and their innate power to shape the soil and stone beneath their feet makes them integral members of xulgath society (as well as formidable combatants).\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Xulgath_XulgathStoneliege.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Xulgath Stoneliege](/Monsters.aspx?ID=524)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 84</row>\n\n**Perception** +14; darkvision, tremorsense (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +19, [Cave Lore](/Skills.aspx?ID=8) +15, [Geology Lore](/Skills.aspx?ID=8) +15, [Intimidation](/Skills.aspx?ID=7) +18, [Survival](/Skills.aspx?ID=16) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +6\r\n\r\n**Int** +1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 135\n\n**Resistances**\r\nphysical 8\n\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature that enters the area must attempt a DC 24 Fortitude save. On a failure, the creature is [sickened 1](/Conditions.aspx?ID=34), and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths’ stenches for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, burrow 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndigging bar +18 ([fatal d12](/Traits.aspx?ID=178), [Forceful](/Traits.aspx?ID=180), [versatile B](/Traits.aspx?ID=200)),\r\n**Damage** 2d10+9 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21,\r\n**Damage** 2d8+9 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +19 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+9 slashing plus Grab\r\n\r\n**Primal Innate Spells** DC 26\r\n- **4th**\r\n[Shape Stone](/Spells.aspx?ID=276) (x3)\r\n\r\n**Earthen Blow** <actions string=\"Single Action\" /> ([Earth](/Traits.aspx?ID=55), [Transmutation](/Traits.aspx?ID=157)) **Frequency** once per round; **Effect** The stoneliege commands nearby earth to attack a foe. The stoneliege makes a claw Strike against a creature that is within 60 feet of the stoneliege and 10 feet of an earthen surface, such as dirt, mud, stone, or sand. The Strike originates from the surface’s square and has a reach of 10 feet. On a critical hit, the target is also knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n**Earthen Torrent** <actions string=\"Two Actions\" /> ([Earth](/Traits.aspx?ID=55), [Transmutation](/Traits.aspx?ID=157)) **Frequency** once per minute; **Requirements** The stoneliege is standing on or next to at least 10 cubic feet of dirt, stone, or other earthen material; **Effect** The stoneliege creates a violent wave of roiling earth. Creatures in a 15-foot cone take 7d8 bludgeoning damage (DC 26 basic Reflex save; on a critical failure, creatures are also knocked [prone](/Conditions.aspx?ID=31)).\r\n\r\n**Stone Throes** <actions string=\"Single Action\" /> ([Earth](/Traits.aspx?ID=55), [Transmutation](/Traits.aspx?ID=157)) The stoneliege turns their own body into solid stone like a statue and immediately becomes [petrified](/Conditions.aspx?ID=30). Any creature grappled or restrained by the stoneliege becomes [immobilized](/Conditions.aspx?ID=24); to get free, the creature must damage the statue enough to break it or succeed at a DC 28 [Acrobatics](/Skills.aspx?ID=1) check to [Escape](/Actions.aspx?ID=79).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Role within the Clutch</title>\r\n\r\nA stoneliege’s power reinforces common xulgath values of dominance and control. This makes stone-binding a mark of prestige, given to the strongest or most clever members of a clutch. The former relish in the destructive potential of their newfound power, while the latter use their abilities to build structures or shape their clutch’s home cavern.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-102\" />",
+ "name": "Xulgath Stoneliege",
+ "npc": false,
+ "perception": 14,
+ "rarity": "uncommon",
+ "reflex_save": 12,
+ "release_date": "2020-03-26",
+ "resistance": {
+  "bludgeoning": 8,
+  "physical": 8,
+  "piercing": 8,
+  "slashing": 8
+ },
+ "resistance_markdown": "physical 8",
+ "resistance_raw": "physical 8",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 84</row>\r\n\r\n**Creature Family** [Xulgath](/MonsterFamilies.aspx?ID=102)\r\n\r\n<row gap=\"medium\">\r\n**HP** 135\r\n\r\n**AC** 26\r\n\r\n**Fort** +20\r\n\r\n**Ref** +12\r\n\r\n**Will** +14\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nStonelieges are xulgaths magically infused with living earth—the very bones of the world. They are created through a process xulgaths call …\r\n</summary>",
+ "sense": "darkvision, tremorsense (imprecise) 30 feet",
+ "sense_markdown": "darkvision, tremorsense (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +19",
+  "Cave Lore +15",
+  "Geology Lore +15",
+  "Intimidation +18",
+  "Survival +18"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +19, [Cave Lore](/Skills.aspx?ID=8) +15, [Geology Lore](/Skills.aspx?ID=8) +15, [Intimidation](/Skills.aspx?ID=7) +18, [Survival](/Skills.aspx?ID=16) +18",
+ "source": [
+  "Pathfinder #153: Life's Long Shadows"
+ ],
+ "source_raw": [
+  "Pathfinder #153: Life's Long Shadows pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 84</row>",
+ "speed": {
+  "burrow": 10,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, burrow 10 feet",
+ "speed_raw": "20 feet, burrow 10 feet",
+ "spell": [
+  "Shape Stone"
+ ],
+ "spell_markdown": "[Shape Stone](/Spells.aspx?ID=276)",
+ "spoilers": "Extinction Curse",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Stonelieges are xulgaths magically infused with living earth—the very bones of the world. They are created through a process xulgaths call …",
+ "summary_markdown": "Stonelieges are xulgaths magically infused with living earth—the very bones of the world. They are created through a process xulgaths call …",
+ "text": " Xulgath Stoneliege Stonelieges are xulgaths magically infused with living earth—the very bones of the world. They are created through a process xulgaths call stone-binding, which can be performed with complex alchemy, powerful psychic magic, or Abyssal rituals. Their scales are like stone slabs, and their bones are as dense as bedrock, so they are among the hardiest and longest-lived xulgaths. To stonelieges, earth is as mutable as water, and their innate power to shape the soil and stone beneath their feet makes them integral members of xulgath society (as well as formidable combatants). Recall Knowledge - Humanoid (Society): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Xulgath Stoneliege Source Pathfinder #153: Life's Long Shadows pg. 84 Perception +14; darkvision, tremorsense (imprecise) 30 feet Languages Draconic, Undercommon Skills Athletics +19, Cave Lore +15, Geology Lore +15, Intimidation +18, Survival +18 Str +5 Dex +2 Con +6 Int +1 Wis +2 Cha +2 --- AC 26 Fort +20 Ref +12 Will +14 HP 135 Resistances physical 8 Stench (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 24 Fortitude save. On a failure, the creature is sickened 1, and on a critical failure, the creature also takes a –5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths’ stenches for 1 minute. --- Speed 20 feet, burrow 10 feet Melee Single Action digging bar +18 (fatal d12, Forceful, versatile B), Damage 2d10+9 piercing Melee Single Action jaws +21, Damage 2d8+9 piercing Melee Single Action claw +19 (Agile), Damage 2d6+9 slashing plus Grab Primal Innate Spells DC 26 - 4th Shape Stone (x3) Earthen Blow Single Action (Earth, Transmutation) Frequency once per round; Effect The stoneliege commands nearby earth to attack a foe. The stoneliege makes a claw Strike against a creature that is within 60 feet of the stoneliege and 10 feet of an earthen surface, such as dirt, mud, stone, or sand. The Strike originates from the surface’s square and has a reach of 10 feet. On a critical hit, the target is also knocked prone. Earthen Torrent Two Actions (Earth, Transmutation) Frequency once per minute; Requirements The stoneliege is standing on or next to at least 10 cubic feet of dirt, stone, or other earthen material; Effect The stoneliege creates a violent wave of roiling earth. Creatures in a 15-foot cone take 7d8 bludgeoning damage (DC 26 basic Reflex save; on a critical failure, creatures are also knocked prone). Stone Throes Single Action (Earth, Transmutation) The stoneliege turns their own body into solid stone like a statue and immediately becomes petrified. Any creature grappled or restrained by the stoneliege becomes immobilized; to get free, the creature must damage the statue enough to break it or succeed at a DC 28 Acrobatics check to Escape. Role within the Clutch A stoneliege’s power reinforces common xulgath values of dominance and control. This makes stone-binding a mark of prestige, given to the strongest or most clever members of a clutch. The former relish in the destructive potential of their newfound power, while the latter use their abilities to build structures or shape their clutch’s home cavern. ",
+ "trait": [
+  "Humanoid",
+  "Uncommon",
+  "Xulgath",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159), [Xulgath](/Traits.aspx?ID=244)",
+ "trait_raw": [
+  "Humanoid",
+  "Uncommon",
+  "Xulgath"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=524",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 2
+}

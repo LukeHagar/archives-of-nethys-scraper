@@ -1,0 +1,101 @@
+{
+ "ac": 31,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Inspired Feast",
+  "Size Alteration",
+  "Thrashing Chomp"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 200,
+ "hp_raw": "200",
+ "id": "creature-1701",
+ "intelligence": 1,
+ "language": [
+  "Aklo",
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Gambulami](/Monsters.aspx?ID=1701)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Gambulami](/Monsters.aspx?ID=1701)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 37</row>\n\n**Perception** +21; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +24, [Crafting](/Skills.aspx?ID=4) +18, [Deception](/Skills.aspx?ID=5) +20, [Intimidation](/Skills.aspx?ID=7) +22, [Nature](/Skills.aspx?ID=10) +21, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[_deflecting branch_](/Equipment.aspx?ID=1448), [Leather Armor](/Armor.aspx?ID=4), [Spear](/Weapons.aspx?ID=10) (3)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 200\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_deflecting branch_ +24 ([Forceful](/Traits.aspx?ID=180), [Magical](/Traits.aspx?ID=103), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 3d10+13 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +22,\r\n**Damage** 2d8+13 piercing plus Grab\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspear +22 ([thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+13 piercing\r\n\r\n**Primal Innate Spells** DC 30\r\n- **1st**\r\n[Charm](/Spells.aspx?ID=34)\r\n\r\n**Inspired Feast**  ([Emotion](/Traits.aspx?ID=60), [Human](/Traits.aspx?ID=90)) If a biloko feasts on a [human](/Ancestries.aspx?ID=6) corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour.\r\n\r\n**Size Alteration** <actions string=\"Two Actions\" /> ([Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) Gambulami is affected by a 4th-level [_enlarge_](/Spells.aspx?ID=102) spell. This lasts for 1 minute, and Gambulami can Dismiss the Spell.\r\n\r\n**Thrashing Chomp** <actions string=\"Two Actions\" />  **Requirements** Gambulami is larger than Small in size and has a creature [grabbed](/Conditions.aspx?ID=20) with his jaws; **Effect** Gambulami whips the creature around, smashing it against other nearby creatures. He makes an [Athletics](/Skills.aspx?ID=3) check against the grabbed creature's Fortitude DC. Regardless of the result, the creature is released from Gambulami's jaws afterward, escaping into the space in which it was grabbed. <br />**Critical Success** Gambulami uses a mighty spin to smash the held creature against every creature within his reach. Every creature, including the grabbed creature, takes 1d10+7 bludgeoning damage. <br />**Success** As critical success, but creatures take 1d10 bludgeoning damage. <br />**Failure** The creature breaks free. <br />**Critical Failure** The creature breaks free and Gambulami's spin causes him to fall [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>",
+ "name": "Gambulami",
+ "npc": false,
+ "perception": 21,
+ "rarity": "unique",
+ "reflex_save": 20,
+ "release_date": "2021-10-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 37</row>\n\n<row gap=\"medium\">\r\n**HP** 200\r\n\r\n**AC** 31\r\n\r\n**Fort** +24\r\n\r\n**Ref** +20\r\n\r\n**Will** +21\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +24",
+  "Crafting +18",
+  "Deception +20",
+  "Intimidation +22",
+  "Nature +21",
+  "Stealth +22",
+  "Survival +21"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +24, [Crafting](/Skills.aspx?ID=4) +18, [Deception](/Skills.aspx?ID=5) +20, [Intimidation](/Skills.aspx?ID=7) +22, [Nature](/Skills.aspx?ID=10) +21, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +21",
+ "source": [
+  "Pathfinder #172: Secrets of the Temple City"
+ ],
+ "source_raw": [
+  "Pathfinder #172: Secrets of the Temple City pg. 37"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 37</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell": [
+  "Charm"
+ ],
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34)",
+ "spoilers": "Strength of Thousands",
+ "stealth": "22",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Gambulami Recall Knowledge - Fey (Nature): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Gambulami Source Pathfinder #172: Secrets of the Temple City pg. 37 Perception +21; low-light vision, scent (imprecise) 30 feet Languages Aklo, Common, Sylvan Skills Athletics +24, Crafting +18, Deception +20, Intimidation +22, Nature +21, Stealth +22, Survival +21 Str +7 Dex +5 Con +3 Int +1 Wis +4 Cha +3 Items deflecting branch , Leather Armor, Spear (3) --- AC 31 Fort +24 Ref +20 Will +21 HP 200 Attack of Opportunity Reaction --- Speed 20 feet Melee Single Action deflecting branch +24 (Forceful, Magical, Sweep), Damage 3d10+13 bludgeoning Melee Single Action jaws +22, Damage 2d8+13 piercing plus Grab Ranged Single Action spear +22 (thrown 20 feet), Damage 1d6+13 piercing Primal Innate Spells DC 30 - 1st Charm Inspired Feast (Emotion, Human) If a biloko feasts on a human corpse for 1 minute or more, they gain a +1 status bonus to attack rolls and a +2 status bonus to damage rolls for 1 hour. Size Alteration Two Actions (Polymorph, Primal, Transmutation) Gambulami is affected by a 4th-level enlarge spell. This lasts for 1 minute, and Gambulami can Dismiss the Spell. Thrashing Chomp Two Actions Requirements Gambulami is larger than Small in size and has a creature grabbed with his jaws; Effect Gambulami whips the creature around, smashing it against other nearby creatures. He makes an Athletics check against the grabbed creature's Fortitude DC. Regardless of the result, the creature is released from Gambulami's jaws afterward, escaping into the space in which it was grabbed. Critical Success Gambulami uses a mighty spin to smash the held creature against every creature within his reach. Every creature, including the grabbed creature, takes 1d10+7 bludgeoning damage. Success As critical success, but creatures take 1d10 bludgeoning damage. Failure The creature breaks free. Critical Failure The creature breaks free and Gambulami's spin causes him to fall prone. ",
+ "trait": [
+  "Fey",
+  "Unique",
+  "NE",
+  "Small"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Fey",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1701",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 4
+}

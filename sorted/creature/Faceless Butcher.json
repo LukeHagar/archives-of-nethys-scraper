@@ -1,0 +1,105 @@
+{
+ "ac": 31,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 6,
+ "creature_ability": [
+  "Suppressed Alignment",
+  "Frightful Presence",
+  "Attack of Opportunity",
+  "Change Shape",
+  "Remove Face",
+  "Sudden Slices"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-530",
+ "image": [
+  "/Images/Monsters/FacelessButcher.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "one regional language (can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); one regional language (can't speak any language)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Faceless Butcher](/Monsters.aspx?ID=530)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe deformed flesh on this humanoid horror’s head bears grim holes where their eyes, nose, mouth, and ears should be, and little else. Stories of faceless butchers always center on the monstrous murderer’s preferred weapon: a wicked and bloodstained meat cleaver, which the butcher uses to carve flesh from skull to add to their collection of stolen faces. Once they’ve taken a victim’s face, the faceless butcher can wear it, transform into an exact replica of the deceased, and begin stalking their next victim.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/FacelessButcher.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Faceless Butcher](/Monsters.aspx?ID=530)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 80</row>\n\n**Perception** +21; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); one regional language (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +22, [Athletics](/Skills.aspx?ID=3) +24, [Deception](/Skills.aspx?ID=5) +24, [Intimidation](/Skills.aspx?ID=7) +22, [Stealth](/Skills.aspx?ID=15) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +6\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Suppressed Alignment** When using their Change Shape ability, the faceless butcher loses their alignment aura and thus cannot be detected by spells such as [_detect alignment_](/Spells.aspx?ID=65).\r\n\r\n**Items**\r\nbag of faces, cleaver\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +22 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 175\n\n**Resistances**\r\nbludgeoning 8\n\n**Frightful Presence** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 10 feet, DC 26. This aura is suppressed if the faceless butcher is using Change Shape.<br />**Attack of Opportunity** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ncleaver +24 ([Forceful](/Traits.aspx?ID=180), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 2d12+7 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +24 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 2d10+7 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncleaver +22 ([thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d12+7 slashing\n\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Occult](/Traits.aspx?ID=120), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The faceless butcher can take on the exact form of any Small, Medium, or Large humanoid whose face they carry in their bag of faces, changing their shape and physical features to precisely match that of the victim whose face they wear. This doesn’t change the butcher’s Speed or attack or damage bonuses with their Strikes.\r\n\r\n**Remove Face** <actions string=\"Two Actions\" /> ([Attack](/Traits.aspx?ID=15)) **Requirements** The faceless butcher is within reach of a [dying](/Conditions.aspx?ID=11), [immobilized](/Conditions.aspx?ID=24), or [unconscious](/Conditions.aspx?ID=38) creature; **Effect** The faceless butcher attempts a cleaver Strike or an [Athletics](/Skills.aspx?ID=3) check against the creature’s Fortitude DC. On a success, the faceless butcher deals damage as if they had made a successful cleaver Strike against the creature and removes the creature’s face. On a critical success, the damage doubles and the creature takes 4d6 [persistent bleed damage](/Conditions.aspx?ID=29). Once its face is removed, the creature takes a permanent –4 status penalty to Charisma checks and Charisma-based skill checks. This penalty can be removed only if the victim recovers its face from the faceless butcher and has a [_restoration_](/Spells.aspx?ID=258) spell cast on it.\r\n\r\n**Sudden Slices** <actions string=\"Two Actions\" />  **Requirements** The faceless butcher is [undetected](/Conditions.aspx?ID=39) by their target; **Effect** The faceless butcher Strides once and makes two cleaver Strikes against the target. During the Stride, they gain a +10-foot circumstance bonus to their Speed.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Boondocks Killer</title>\r\n\r\nAmong small villages where locals whisper stories of the faceless butcher, one can never be sure if the local fisher or trapper who returns from an unexpectedly long trip upriver is who they have always been, or if something far more sinister has returned in their stead.\r\n</aside>",
+ "name": "Faceless Butcher",
+ "npc": false,
+ "perception": 21,
+ "rarity": "uncommon",
+ "reflex_save": 22,
+ "release_date": "2020-04-29",
+ "resistance": {
+  "bludgeoning": 8
+ },
+ "resistance_markdown": "bludgeoning 8",
+ "resistance_raw": "bludgeoning 8",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 80</row>\n\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 31\r\n\r\n**Fort** +23\r\n\r\n**Ref** +22\r\n\r\n**Will** +20\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe deformed flesh on this humanoid horror’s head bears grim holes where their eyes, nose, mouth, and ears should be, and little else. Stories of …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +22",
+  "Athletics +24",
+  "Deception +24",
+  "Intimidation +22",
+  "Stealth +24"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +22, [Athletics](/Skills.aspx?ID=3) +24, [Deception](/Skills.aspx?ID=5) +24, [Intimidation](/Skills.aspx?ID=7) +22, [Stealth](/Skills.aspx?ID=15) +24",
+ "source": [
+  "Pathfinder #154: Siege of the Dinosaurs"
+ ],
+ "source_raw": [
+  "Pathfinder #154: Siege of the Dinosaurs pg. 80"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 80</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "stealth": "24",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The deformed flesh on this humanoid horror’s head bears grim holes where their eyes, nose, mouth, and ears should be, and little else. Stories of …",
+ "summary_markdown": "The deformed flesh on this humanoid horror’s head bears grim holes where their eyes, nose, mouth, and ears should be, and little else. Stories of …",
+ "text": " Faceless Butcher The deformed flesh on this humanoid horror’s head bears grim holes where their eyes, nose, mouth, and ears should be, and little else. Stories of faceless butchers always center on the monstrous murderer’s preferred weapon: a wicked and bloodstained meat cleaver, which the butcher uses to carve flesh from skull to add to their collection of stolen faces. Once they’ve taken a victim’s face, the faceless butcher can wear it, transform into an exact replica of the deceased, and begin stalking their next victim. Recall Knowledge - Humanoid (Society): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Faceless Butcher Source Pathfinder #154: Siege of the Dinosaurs pg. 80 Perception +21; darkvision Languages Common; one regional language (can't speak any language) Skills Acrobatics +22, Athletics +24, Deception +24, Intimidation +22, Stealth +24 Str +7 Dex +5 Con +6 Int +1 Wis +3 Cha +5 Suppressed Alignment When using their Change Shape ability, the faceless butcher loses their alignment aura and thus cannot be detected by spells such as detect alignment . Items bag of faces, cleaver --- AC 31 Fort +23 Ref +22 Will +20 HP 175 Resistances bludgeoning 8 Frightful Presence (aura, emotion, fear, mental) 10 feet, DC 26. This aura is suppressed if the faceless butcher is using Change Shape. Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action cleaver +24 (Forceful, Sweep), Damage 2d12+7 slashing Melee Single Action fist +24 (Agile, Nonlethal), Damage 2d10+7 bludgeoning Ranged Single Action cleaver +22 (thrown 10 feet), Damage 2d12+7 slashing Change Shape Single Action (Concentrate, Occult, Polymorph, Transmutation) The faceless butcher can take on the exact form of any Small, Medium, or Large humanoid whose face they carry in their bag of faces, changing their shape and physical features to precisely match that of the victim whose face they wear. This doesn’t change the butcher’s Speed or attack or damage bonuses with their Strikes. Remove Face Two Actions (Attack) Requirements The faceless butcher is within reach of a dying, immobilized, or unconscious creature; Effect The faceless butcher attempts a cleaver Strike or an Athletics check against the creature’s Fortitude DC. On a success, the faceless butcher deals damage as if they had made a successful cleaver Strike against the creature and removes the creature’s face. On a critical success, the damage doubles and the creature takes 4d6 persistent bleed damage. Once its face is removed, the creature takes a permanent –4 status penalty to Charisma checks and Charisma-based skill checks. This penalty can be removed only if the victim recovers its face from the faceless butcher and has a restoration spell cast on it. Sudden Slices Two Actions Requirements The faceless butcher is undetected by their target; Effect The faceless butcher Strides once and makes two cleaver Strikes against the target. During the Stride, they gain a +10-foot circumstance bonus to their Speed. Boondocks Killer Among small villages where locals whisper stories of the faceless butcher, one can never be sure if the local fisher or trapper who returns from an unexpectedly long trip upriver is who they have always been, or if something far more sinister has returned in their stead. ",
+ "trait": [
+  "Humanoid",
+  "Uncommon",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=530",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 20,
+ "wisdom": 3
+}

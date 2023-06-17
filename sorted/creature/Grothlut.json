@@ -1,0 +1,94 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 4,
+ "creature_ability": [
+  "Disgusting Demise",
+  "Piteous Moan"
+ ],
+ "creature_family": "Fleshwarp",
+ "creature_family_markdown": "[Fleshwarp](/MonsterFamilies.aspx?ID=47)",
+ "dexterity": -2,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 50,
+ "hp_raw": "50",
+ "id": "creature-206",
+ "image": [
+  "/Images/Monsters/Fleshwarp_Grothlut.png"
+ ],
+ "immunity": [
+  "acid",
+  "mental"
+ ],
+ "immunity_markdown": "acid, mental",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Grothlut](/Monsters.aspx?ID=206)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSluglike abominations, grothluts are fleshwarps that were once humans. While their head and torsos are vaguely human, their arms are rubbery and move awkwardly at their sides. Wretched creatures, they moan piteously when other creatures are near, perhaps as the last remnants of their shattered human consciousness pleads to be free from their horrid warped form.\n\n Many fleshwarpers consider the grothlut to be a failure of a creation, as the transformation all but stamps out the human consciousness. Others disagree, arguing that warping the creature’s mind makes it all the more useful, since its stupidity makes it pliable and easy to herd. Drow typically use grothluts as guardians that slowly patrol the edges of their enclaves. Once in position, grothluts can be used as crude shock troops, unleashed to soften enemy forces before more-valuable warriors wade in and cut down the enemies who have been nauseated by the grothluts’ exploded organs and flesh.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Fleshwarp_Grothlut.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Grothlut](/Monsters.aspx?ID=206)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 158</row>\n\n**Perception** +5; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** -2\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 50\n\n**Immunities**\r\nacid, mental\n\n**Disgusting Demise** ([acid](/Traits.aspx?ID=3), [poison](/Traits.aspx?ID=126)) When the grothlut is reduced to 0 Hit Points, its digestive organs rupture, unleashing alchemical acid and poison upon all creatures in a 30-foot emanation. Each creature in the area must succeed at a DC 19 Fortitude save or take 2d6 acid damage and become sickened 1 (double damage and sickened 2 on a critical failure).<br /> **Piteous Moan** ([aura](/Traits.aspx?ID=206), [auditory](/Traits.aspx?ID=16), [emotion](/Traits.aspx?ID=60), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) 60 feet. Each non-grothlut creature that enters or starts its turn within the area must succeed at a DC 17 Will saving throw or become sickened 1 (sickened 2 on a critical failure). The creature then becomes temporarily immune for 1 minute. The grothlut can activate or deactivate the aura by using a single free action that has the concentrate trait. A grothlut usually does not begin moaning until it senses the presence of a non-grothlut creature, and it usually stops once it doesn’t sense any more such creatures.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +11 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d10+8 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndigestive spew +7 ([Acid](/Traits.aspx?ID=3), [range increment 15 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 2d6 acid damage plus 1d6 splash acid damage\n\n</column>\n\n<document level=\"2\" id=\"creature-family-47\" />",
+ "name": "Grothlut",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 158</row>\r\n\r\n**Creature Family** [Fleshwarp](/MonsterFamilies.aspx?ID=47)\r\n\r\n<row gap=\"medium\">\r\n**HP** 50\r\n\r\n**AC** 19\r\n\r\n**Fort** +11\r\n\r\n**Ref** +5\r\n\r\n**Will** +7\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSluglike abominations, grothluts are fleshwarps that were once humans. While their head and torsos are vaguely human, their arms are rubbery and move …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 158"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 158</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Sluglike abominations, grothluts are fleshwarps that were once humans. While their head and torsos are vaguely human, their arms are rubbery and move …",
+ "summary_markdown": "Sluglike abominations, grothluts are fleshwarps that were once humans. While their head and torsos are vaguely human, their arms are rubbery and move …",
+ "text": " Grothlut Sluglike abominations, grothluts are fleshwarps that were once humans. While their head and torsos are vaguely human, their arms are rubbery and move awkwardly at their sides. Wretched creatures, they moan piteously when other creatures are near, perhaps as the last remnants of their shattered human consciousness pleads to be free from their horrid warped form. Many fleshwarpers consider the grothlut to be a failure of a creation, as the transformation all but stamps out the human consciousness. Others disagree, arguing that warping the creature’s mind makes it all the more useful, since its stupidity makes it pliable and easy to herd. Drow typically use grothluts as guardians that slowly patrol the edges of their enclaves. Once in position, grothluts can be used as crude shock troops, unleashed to soften enemy forces before more-valuable warriors wade in and cut down the enemies who have been nauseated by the grothluts’ exploded organs and flesh. Recall Knowledge - Aberration (Occultism): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Grothlut Source Bestiary pg. 158 Perception +5; darkvision Languages Skills Athletics +11 Str +4 Dex -2 Con +4 Int -5 Wis +0 Cha -3 --- AC 19 Fort +11 Ref +5 Will +7 HP 50 Immunities acid, mental Disgusting Demise (acid, poison) When the grothlut is reduced to 0 Hit Points, its digestive organs rupture, unleashing alchemical acid and poison upon all creatures in a 30-foot emanation. Each creature in the area must succeed at a DC 19 Fortitude save or take 2d6 acid damage and become sickened 1 (double damage and sickened 2 on a critical failure). Piteous Moan (aura, auditory, emotion, mental, occult) 60 feet. Each non-grothlut creature that enters or starts its turn within the area must succeed at a DC 17 Will saving throw or become sickened 1 (sickened 2 on a critical failure). The creature then becomes temporarily immune for 1 minute. The grothlut can activate or deactivate the aura by using a single free action that has the concentrate trait. A grothlut usually does not begin moaning until it senses the presence of a non-grothlut creature, and it usually stops once it doesn’t sense any more such creatures. --- Speed 20 feet Melee Single Action claw +11 (Agile), Damage 1d10+8 slashing Ranged Single Action digestive spew +7 (Acid, range increment 15 feet, Splash), Damage 2d6 acid damage plus 1d6 splash acid damage\n",
+ "trait": [
+  "Aberration",
+  "Mindless",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Mindless](/Traits.aspx?ID=108)",
+ "trait_raw": [
+  "Aberration",
+  "Mindless"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=206",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 0
+}

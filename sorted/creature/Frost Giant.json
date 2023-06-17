@@ -1,0 +1,111 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Catch Rock",
+  "Chill Breath",
+  "Ice Stride",
+  "Throw Rock",
+  "Wide Swing"
+ ],
+ "creature_family": "Giant",
+ "creature_family_markdown": "[Giant](/MonsterFamilies.aspx?ID=53)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 150,
+ "hp_raw": "150",
+ "id": "creature-222",
+ "image": [
+  "/Images/Monsters/Giant_FrostGiant.png"
+ ],
+ "immunity": [
+  "cold"
+ ],
+ "immunity_markdown": "cold",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Jotun"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Frost Giant](/Monsters.aspx?ID=222)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFrost giants are remorseless marauders who pillage and plunder from those who dare to live near them in desolate, frigid lands. Their clans range from extremely territorial hunters who claim an expanse of tundra and defend it at all costs to nomadic hordes that roam icy slopes in search of settlements to conquer. Frost giant clans are ruled by those who exhibit the greatest ferocity and prowess in battle—massive brutes who proclaim themselves jarl and demand absolute obedience from their followers. If at any time a frost giant wishes to be a jarl, all they must do is issue a challenge to the current jarl and face off in mortal combat, after which the reigning champion continues leading the clan or the victorious challenger assumes control.\n\n Frost giants live in frostbitten realms, and their appearance is reflective of a people weathered and hardened by relentless snowstorms and freezing temperatures. They often wear metal armor adorned with the furs, skin, teeth, and tusks of slain beasts and heft weapons as long as dining tables. Their flesh ranges from pale blue to shale gray, and their hair is typically a dingy white or dirty yellow color.\n\n A typical frost giant stands about 15 feet tall and weighs approximately 2,800 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Giant_FrostGiant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Frost Giant](/Monsters.aspx?ID=222)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 171</row>\n\n**Perception** +17; low-light vision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Crafting](/Skills.aspx?ID=4) +18, [Intimidation](/Skills.aspx?ID=7) +18, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +0\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[sack with 5 rocks](/Equipment.aspx?ID=45), [Breastplate](/Armor.aspx?ID=10), _+1 [striking](/Equipment.aspx?ID=280) [greataxe](/Weapons.aspx?ID=21)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 150\n\n**Immunities**\r\ncold\n\n**Weaknesses**\r\nfire 10\r\n\r\n**Catch Rock** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet; ice stride\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_greataxe_ +21 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 2d12+12 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +21 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+12 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +21 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d10+9 bludgeoning\n\n**Chill Breath** <actions string=\"Single Action\" /> ([Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 4d6 cold damage. Each creature in the cone must attempt a DC 28 basic Reflex save. A creature that fails its save is also [immobilized](/Conditions.aspx?ID=24) and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 28). The giant can’t use Chill Breath again for 1d4 rounds.\r\n\r\n**Ice Stride**   A frost giant isn’t impeded by difficult terrain caused by snow or ice, nor does it need to attempt [Acrobatics](/Skills.aspx?ID=1) checks to keep from falling on slippery ice.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n**Wide Swing** <actions string=\"Single Action\" />  The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the frost giant’s multiple attack penalty.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-53\" />",
+ "name": "Frost Giant",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 171</row>\r\n\r\n**Creature Family** [Giant](/MonsterFamilies.aspx?ID=53)\r\n\r\n<row gap=\"medium\">\r\n**HP** 150\r\n\r\n**AC** 29\r\n\r\n**Fort** +23\r\n\r\n**Ref** +16\r\n\r\n**Will** +16\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFrost giants are remorseless marauders who pillage and plunder from those who dare to live near them in desolate, frigid lands. Their clans range …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Crafting +18",
+  "Intimidation +18",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Crafting](/Skills.aspx?ID=4) +18, [Intimidation](/Skills.aspx?ID=7) +18, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 171"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 171</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet; ice stride",
+ "speed_raw": "30 feet; ice stride",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Frost giants are remorseless marauders who pillage and plunder from those who dare to live near them in desolate, frigid lands. Their clans range …",
+ "summary_markdown": "Frost giants are remorseless marauders who pillage and plunder from those who dare to live near them in desolate, frigid lands. Their clans range …",
+ "text": " Frost Giant Frost giants are remorseless marauders who pillage and plunder from those who dare to live near them in desolate, frigid lands. Their clans range from extremely territorial hunters who claim an expanse of tundra and defend it at all costs to nomadic hordes that roam icy slopes in search of settlements to conquer. Frost giant clans are ruled by those who exhibit the greatest ferocity and prowess in battle—massive brutes who proclaim themselves jarl and demand absolute obedience from their followers. If at any time a frost giant wishes to be a jarl, all they must do is issue a challenge to the current jarl and face off in mortal combat, after which the reigning champion continues leading the clan or the victorious challenger assumes control. Frost giants live in frostbitten realms, and their appearance is reflective of a people weathered and hardened by relentless snowstorms and freezing temperatures. They often wear metal armor adorned with the furs, skin, teeth, and tusks of slain beasts and heft weapons as long as dining tables. Their flesh ranges from pale blue to shale gray, and their hair is typically a dingy white or dirty yellow color. A typical frost giant stands about 15 feet tall and weighs approximately 2,800 pounds. Recall Knowledge - Humanoid (Society): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Frost Giant Source Bestiary pg. 171 Perception +17; low-light vision Languages Common, Jotun Skills Athletics +23, Crafting +18, Intimidation +18, Stealth +17 Str +6 Dex +0 Con +5 Int +0 Wis +2 Cha +0 Items sack with 5 rocks, Breastplate, +1 striking greataxe --- AC 29 Fort +23 Ref +16 Will +16 HP 150 Immunities cold Weaknesses fire 10 Catch Rock Reaction --- Speed 30 feet; ice stride Melee Single Action greataxe +21 (Magical, reach 10 feet, Sweep), Damage 2d12+12 slashing Melee Single Action fist +21 (Agile, reach 10 feet), Damage 2d8+12 bludgeoning Ranged Single Action rock +21 (Brutal, range increment 120 feet), Damage 2d10+9 bludgeoning Chill Breath Single Action (Cold, Evocation, Primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 4d6 cold damage. Each creature in the cone must attempt a DC 28 basic Reflex save. A creature that fails its save is also immobilized and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 28). The giant can’t use Chill Breath again for 1d4 rounds. Ice Stride A frost giant isn’t impeded by difficult terrain caused by snow or ice, nor does it need to attempt Acrobatics checks to keep from falling on slippery ice. Throw Rock Single Action Wide Swing Single Action The frost giant makes a single greataxe Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for the frost giant’s multiple attack penalty. ",
+ "trait": [
+  "Cold",
+  "Giant",
+  "Humanoid",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Cold](/Traits.aspx?ID=27), [Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Cold",
+  "Giant",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=222",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 16,
+ "wisdom": 2
+}

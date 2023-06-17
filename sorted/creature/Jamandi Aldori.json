@@ -1,0 +1,106 @@
+{
+ "ac": 36,
+ "alignment": "CG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 2,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Aldori Parry",
+  "Aldori Riposte",
+  "Saving Slash",
+  "Unnerving Prowess"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 260,
+ "hp_raw": "260",
+ "id": "creature-2195",
+ "image": [
+  "/Images/Monsters/JamandiAldori.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Elven",
+  "Hallit"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Hallit](/Languages.aspx?ID=37)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Jamandi Aldori](/NPCs.aspx?ID=2195)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nJamandi Aldori's upbringing in Restov could have ensured her a safe and relaxed life as one of that city's nobles, but her restlessness and frustration with “meddling” from the north increasingly pushed her away from the aristocratic lifestyle. She quickly mastered the art of the Aldori sword, and over the years has become one of Restov's most well-known swordlords, in part due to her skill in dueling, but of late as a result of her increasingly obvious pushes to expand Restov's power in directions that minimize reliance upon the rest of Brevoy. Beyond organizing the push into the Stolen Lands and her desire to foster a new ally to the south, she hopes some day to found additional dueling schools beyond Brevoy's borders where the Aldori style can be taught—a pursuit that not all of her peers equally approve of.\n\n Characters who earn Jamandi's trust and support can unlock access to the [Aldori duelist](/Archetypes.aspx?ID=14) archetype at your option.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 42\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 40\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 37\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/JamandiAldori.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Jamandi Aldori](/NPCs.aspx?ID=2195)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 599</row>\n\n**Perception** +23; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Hallit](/Languages.aspx?ID=37)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +29, [Athletics](/Skills.aspx?ID=3) +27, [Restov Lore](/Skills.aspx?ID=8) +23, [Diplomacy](/Skills.aspx?ID=6) +24, [Intimidation](/Skills.aspx?ID=7) +26, [Society](/Skills.aspx?ID=14) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +5\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+1 [resilient](/Equipment.aspx?ID=279) [breastplate](/Armor.aspx?ID=10)_, [_daredevil boots_](/Equipment.aspx?ID=429), _+2 [striking](/Equipment.aspx?ID=280) [Aldori dueling sword](/Weapons.aspx?ID=88)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +27 \r\n\r\n**Will** +24 \n\n</row>\r\n\r\n**HP** 260\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_Aldori dueling sword_ +29 ([Finesse](/Traits.aspx?ID=179), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 2d8+9 slashing\n\n**Aldori Parry** <actions string=\"Single Action\" />  **Requirement** Jamandi wields only an Aldori dueling sword and her other hand is free; **Effect** Jamandi parries attacks against her with her sword, and gains a +2 circumstance bonus to her AC until the start of her next turn as long as she continues to meet the requirement.\r\n\r\n**Aldori Riposte** <actions string=\"Reaction\" />  **Requirements** Jamandi is benefiting from Aldori Parry; **Trigger** An opponent within Jamandi's reach critically fails a Strike against her; **Effect** Jamandi ripostes with her sword and makes a melee Strike or uses a [Disarm](/Actions.aspx?ID=41) action against the triggering opponent.\r\n\r\n**Saving Slash** <actions string=\"Reaction\" />  **Trigger** an opponent critically hits Jamandi with a melee attack; **Effect** Jamandi whirls her blade, trying to deflect enough momentum to avoid the worst of the attack. If she succeeds at a DC 16 flat check, the attack becomes a normal hit, instead of a critical hit.\r\n\r\n**Unnerving Prowess** <actions string=\"Free Action\" />  **Trigger** Jamandi critically succeeds at a Strike or [Disarm](/Actions.aspx?ID=41) with her sword; **Effect** Jamandi attempts to [Demoralize](/Actions.aspx?ID=53) the creature she struck or disarmed; this Demoralize attempt does not have the [auditory](/Traits.aspx?ID=16) trait, nor does she take a penalty to the check if the target doesn't understand her language.\r\n\r\n</column>",
+ "name": "Jamandi Aldori",
+ "npc": true,
+ "perception": 23,
+ "rarity": "unique",
+ "reflex_save": 27,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 599</row>\n\n<row gap=\"medium\">\r\n**HP** 260\r\n\r\n**AC** 36\r\n\r\n**Fort** +23\r\n\r\n**Ref** +27\r\n\r\n**Will** +24\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nJamandi Aldori's upbringing in Restov could have ensured her a safe and relaxed life as one of that city's nobles, but her restlessness and …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +29",
+  "Athletics +27",
+  "Restov Lore +23",
+  "Diplomacy +24",
+  "Intimidation +26",
+  "Society +23"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +29, [Athletics](/Skills.aspx?ID=3) +27, [Restov Lore](/Skills.aspx?ID=8) +23, [Diplomacy](/Skills.aspx?ID=6) +24, [Intimidation](/Skills.aspx?ID=7) +26, [Society](/Skills.aspx?ID=14) +23",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 599"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 599</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Jamandi Aldori's upbringing in Restov could have ensured her a safe and relaxed life as one of that city's nobles, but her restlessness and …",
+ "summary_markdown": "Jamandi Aldori's upbringing in Restov could have ensured her a safe and relaxed life as one of that city's nobles, but her restlessness and …",
+ "text": " Jamandi Aldori Jamandi Aldori's upbringing in Restov could have ensured her a safe and relaxed life as one of that city's nobles, but her restlessness and frustration with “meddling” from the north increasingly pushed her away from the aristocratic lifestyle. She quickly mastered the art of the Aldori sword, and over the years has become one of Restov's most well-known swordlords, in part due to her skill in dueling, but of late as a result of her increasingly obvious pushes to expand Restov's power in directions that minimize reliance upon the rest of Brevoy. Beyond organizing the push into the Stolen Lands and her desire to foster a new ally to the south, she hopes some day to found additional dueling schools beyond Brevoy's borders where the Aldori style can be taught—a pursuit that not all of her peers equally approve of. Characters who earn Jamandi's trust and support can unlock access to the Aldori duelist archetype at your option. Recall Knowledge - Humanoid (Society): DC 42 Unspecific Lore : DC 40 Specific Lore : DC 37 Jamandi Aldori Source Kingmaker Adventure Path pg. 599 Perception +23; low-light vision Languages Common, Elven, Hallit Skills Acrobatics +29, Athletics +27, Restov Lore +23, Diplomacy +24, Intimidation +26, Society +23 Str +3 Dex +5 Con +2 Int +1 Wis +3 Cha +4 Items +1 resilient breastplate , daredevil boots , +2 striking Aldori dueling sword --- AC 36 Fort +23 Ref +27 Will +24 HP 260 Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action Aldori dueling sword +29 (Finesse, versatile P), Damage 2d8+9 slashing Aldori Parry Single Action Requirement Jamandi wields only an Aldori dueling sword and her other hand is free; Effect Jamandi parries attacks against her with her sword, and gains a +2 circumstance bonus to her AC until the start of her next turn as long as she continues to meet the requirement. Aldori Riposte Reaction Requirements Jamandi is benefiting from Aldori Parry; Trigger An opponent within Jamandi's reach critically fails a Strike against her; Effect Jamandi ripostes with her sword and makes a melee Strike or uses a Disarm action against the triggering opponent. Saving Slash Reaction Trigger an opponent critically hits Jamandi with a melee attack; Effect Jamandi whirls her blade, trying to deflect enough momentum to avoid the worst of the attack. If she succeeds at a DC 16 flat check, the attack becomes a normal hit, instead of a critical hit. Unnerving Prowess Free Action Trigger Jamandi critically succeeds at a Strike or Disarm with her sword; Effect Jamandi attempts to Demoralize the creature she struck or disarmed; this Demoralize attempt does not have the auditory trait, nor does she take a penalty to the check if the target doesn't understand her language. ",
+ "trait": [
+  "Elf",
+  "Human",
+  "Humanoid",
+  "Unique",
+  "CG",
+  "Medium"
+ ],
+ "trait_markdown": "[Elf](/Traits.aspx?ID=58), [Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Elf",
+  "Human",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2195",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 24,
+ "wisdom": 3
+}

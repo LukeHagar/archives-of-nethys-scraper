@@ -1,0 +1,58 @@
+{
+ "ac": 20,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "Occultism  DC 38 (master) or  Religion  DC 38 (master) to calm the restless energies and suppress the haunt for 1 hour; a critical success deactivates the haunt permanently.",
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hardness": 20,
+ "hardness_raw": "20 Painting Hardness",
+ "hazard_type": "Haunt",
+ "hp": 30,
+ "hp_raw": "30 per square (6 squares must be destroyed to disable the haunt)",
+ "id": "hazard-81",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 17,
+ "markdown": "<title level=\"1\" right=\"Hazard 17\" pfs=\"\">[Endless Elven Aging](/Hazards.aspx?ID=81)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Haunt\" url=\"/Traits.aspx?ID=88\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 7</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA haunted mural fascinates characters and swiftly drains their vitality.\r\n\r\n---\r\n\r\n**Stealth**\r\n+33 (master)\r\n\r\n**Disable**\r\n[Occultism](/Skills.aspx?ID=11) DC 38 (master) or [Religion](/Skills.aspx?ID=13) DC 38 (master) to calm the restless energies and suppress the haunt for 1 hour; a critical success deactivates the haunt permanently.\n\n<column gap=\"tiny\">\r\n\r\n**AC** 20, **Fort** +13, **Ref** +5\r\n\r\n**Painting Hardness**\r\n20\r\n\r\n**Painting HP**\r\n30 per square (6 squares must be destroyed to disable the haunt)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Lifelike Scintillation** <actions string=\"Reaction\" /> ([divination](/Traits.aspx?ID=47), [occult](/Traits.aspx?ID=120)) **Trigger** A living creature examines the mural or enters the room; **Effect** The haunt activates and rolls initiative.\n\n---\r\n**Routine**\r\n(2 actions) The haunt lures creatures into area A2 using Captivate. Any actions it hasn't used to Captivate are used to drain a living creature in the room with Live a Thousand Lives.\n\n **Captivate** <actions string=\"Single Action\" /> ([charm](/Traits.aspx?ID=247), [enchantment](/Traits.aspx?ID=61), [incapacitation](/Traits.aspx?ID=93), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) The faintly moving images compel one creature within 30 feet of the room to move into the room. The creature attempts a DC 38 Will save.\n\n**Success** The target is unaffected.<br />\n**Failure** The target must spend all its actions on its next turn moving into the room, and is then [paralyzed](/Conditions.aspx?ID=28) until the end of its next turn.<br />\n**Critical Failure** As failure, and the target is also [stupefied 2](/Conditions.aspx?ID=37) for 1 minute.<br /> **Live a Thousand Lives** <actions string=\"Single Action\" /> ([mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) The haunt causes a living creature in the room to experience a full elven life, weathering every wound, misfortune, loss, and consequence of aging centuries in a matter of seconds. The target must attempt a DC 38 Fortitude save.\n\n**Critical Success** The target is unaffected.<br />\n**Success** The target becomes [fatigued](/Conditions.aspx?ID=15).<br />\n**Failure** The target becomes [drained 1](/Conditions.aspx?ID=10) (or its drained value increases by 1, to a maximum of drained 3), and it is paralyzed until the end of its next turn.<br />\n**Critical Failure** As failure, but the target also becomes [doomed 1](/Conditions.aspx?ID=9) (or its doomed value increases by 1).\r\n\r\n---\r\n**Reset**\r\nThe haunt continues its routine until there are no targets within 30 feet of the room. It then resets over the course of 1 minute and is able to activate again.",
+ "name": "Endless Elven Aging",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2019-11-13",
+ "reset": "The haunt continues its routine until there are no targets within 30 feet of the room. It then resets over the course of 1 minute and is able to activate again.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Haunt\" url=\"/Traits.aspx?ID=88\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 7</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA haunted mural fascinates characters and swiftly drains their vitality.\r\n</summary>",
+ "source": [
+  "Pathfinder #149: Against the Scarlet Triad"
+ ],
+ "source_raw": [
+  "Pathfinder #149: Against the Scarlet Triad pg. 7"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 7</row>",
+ "speed": {},
+ "stealth": "+33 (master)",
+ "summary": "A haunted mural fascinates characters and swiftly drains their vitality.",
+ "summary_markdown": "A haunted mural fascinates characters and swiftly drains their vitality.",
+ "text": " Endless Elven Aging Source Pathfinder #149: Against the Scarlet Triad pg. 7 Complexity Complex A haunted mural fascinates characters and swiftly drains their vitality. --- Stealth +33 (master) Disable Occultism DC 38 (master) or Religion DC 38 (master) to calm the restless energies and suppress the haunt for 1 hour; a critical success deactivates the haunt permanently. AC 20, Fort +13, Ref +5 Painting Hardness 20 Painting HP 30 per square (6 squares must be destroyed to disable the haunt) Immunities critical hits, object immunities, precision damage Lifelike Scintillation Reaction (divination, occult) Trigger A living creature examines the mural or enters the room; Effect The haunt activates and rolls initiative. --- Routine (2 actions) The haunt lures creatures into area A2 using Captivate. Any actions it hasn't used to Captivate are used to drain a living creature in the room with Live a Thousand Lives. Captivate Single Action (charm, enchantment, incapacitation, mental, occult) The faintly moving images compel one creature within 30 feet of the room to move into the room. The creature attempts a DC 38 Will save. Success The target is unaffected. Failure The target must spend all its actions on its next turn moving into the room, and is then paralyzed until the end of its next turn. Critical Failure As failure, and the target is also stupefied 2 for 1 minute. Live a Thousand Lives Single Action (mental, occult) The haunt causes a living creature in the room to experience a full elven life, weathering every wound, misfortune, loss, and consequence of aging centuries in a matter of seconds. The target must attempt a DC 38 Fortitude save. Critical Success The target is unaffected. Success The target becomes fatigued. Failure The target becomes drained 1 (or its drained value increases by 1, to a maximum of drained 3), and it is paralyzed until the end of its next turn. Critical Failure As failure, but the target also becomes doomed 1 (or its doomed value increases by 1). --- Reset The haunt continues its routine until there are no targets within 30 feet of the room. It then resets over the course of 1 minute and is able to activate again.",
+ "trait": [
+  "Complex",
+  "Haunt",
+  "Magical"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Haunt](/Traits.aspx?ID=88), [Magical](/Traits.aspx?ID=103)",
+ "trait_raw": [
+  "Complex",
+  "Haunt",
+  "Magical"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=81",
+ "weakness": {}
+}

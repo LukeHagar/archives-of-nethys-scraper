@@ -1,0 +1,101 @@
+{
+ "ac": 26,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Defensive Disarm",
+  "Defensive Slam",
+  "Focused Slam",
+  "Rend",
+  "Pummeling Charge"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 180,
+ "hp_raw": "180",
+ "id": "creature-1062",
+ "image": [
+  "/Images/Monsters/Angazhani.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Abyssal",
+  "Common",
+  "Mwangi"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Common](/Languages.aspx?ID=1), [Mwangi](/Languages.aspx?ID=39)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Angazhani](/Monsters.aspx?ID=1062)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAngazhanis lurk in the depths of the world's jungles, where these sapient, four-armed apes prey on any creatures they deem lesser than themselves. They're purportedly the divine minions of [Angazhan](/Deities.aspx?ID=72), demon lord of apes. While many angazhanis do worship this foul god, scarce evidence exists to support their claim to fiendish heritage. Jungle-dwelling people know well to steer clear of suspected angazhani territories; angazhanis of such areas don't slaughter outright, often capturing trespassers to serve as slaves or as living sacrifices in heinous rituals.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Angazhani.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Angazhani](/Monsters.aspx?ID=1062)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 17</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Common](/Languages.aspx?ID=1), [Mwangi](/Languages.aspx?ID=39)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +20, [Intimidation](/Skills.aspx?ID=7) +15, [Religion](/Skills.aspx?ID=13) +16, [Survival](/Skills.aspx?ID=16) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** -1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 180\n\n**Defensive Disarm** <actions string=\"Reaction\" /> **Trigger** A creature makes a melee weapon Strike against the angazhani and misses; **Requirements** The angazhani is benefiting from their Defensive Slam; **Effect** The angazhani attempts to [Disarm](/Actions.aspx?ID=41) the attacker of the triggering weapon.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +20 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+9 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +20,\r\n**Damage** 2d12+9 piercing\r\n\r\n**Divine Innate Spells** DC 24\r\n- **3rd**\r\n[Fear](/Spells.aspx?ID=110) (×2)\r\n- **6th**\r\n[Dominate](/Spells.aspx?ID=87)\r\n\r\n**Defensive Slam** <actions string=\"Two Actions\" />  The angazhani uses their arms to defend themself while attacking. The angazhani Strikes once and gains a +2 circumstance bonus to AC until the start of their next turn.\r\n\r\n**Focused Slam** <actions string=\"Two Actions\" />  The angazhani beats a single opponent with all four of their brawny arms, leaving their foe nowhere to dodge. The angazhani makes a fist Strike. On a successful attack, they deal fist damage to the target plus an additional 3d8 damage, and they meet the requirements to Rend the target this turn, even if they didn't hit on two consecutive Strikes. Even on a failed attack, the angazhani deals the damage from one fist Strike to the target, though they still miss completely on a critical failure. This ability counts as four attacks toward an angazhani's multiple attack penalty. After using this ability, the angazhani is [flat-footed](/Conditions.aspx?ID=16) until the beginning of their next turn.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  fist\r\n\r\n**Pummeling Charge** <actions string=\"Three Actions\" />  **Effect** The angazhani rushes up to a foe at extreme speed and slams down with their fists. The angazhani Strides or Climbs up to three times, then makes two fist Strikes against one enemy within reach.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Jungle Murderers</title>\r\n\r\nOn Golarion, angazhanis dwell almost exclusively in remote reaches of the vast Mwangi Jungle. Many of them served the hateful Gorilla King Ruthazek in Usaro, but after his downfall over a decade ago, these supplicants have fallen into infighting. The mysterious Mwangi warrior Shosenbe is attempting to reunite the angazhanis of Usaro, though not all of the fallen Gorilla King's former minions are eager to follow a human leader.\r\n\r\n</aside>",
+ "name": "Angazhani",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 17</row>\n\n<row gap=\"medium\">\r\n**HP** 180\r\n\r\n**AC** 26\r\n\r\n**Fort** +19\r\n\r\n**Ref** +16\r\n\r\n**Will** +14\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAngazhanis lurk in the depths of the world's jungles, where these sapient, four-armed apes prey on any creatures they deem lesser than themselves. …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +20",
+  "Intimidation +15",
+  "Religion +16",
+  "Survival +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +20, [Intimidation](/Skills.aspx?ID=7) +15, [Religion](/Skills.aspx?ID=13) +16, [Survival](/Skills.aspx?ID=16) +16",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 17"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 17</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell": [
+  "Dominate",
+  "Fear"
+ ],
+ "spell_markdown": "[Dominate](/Spells.aspx?ID=87), [Fear](/Spells.aspx?ID=110)",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Angazhanis lurk in the depths of the world's jungles, where these sapient, four-armed apes prey on any creatures they deem lesser than themselves. …",
+ "summary_markdown": "Angazhanis lurk in the depths of the world's jungles, where these sapient, four-armed apes prey on any creatures they deem lesser than themselves. …",
+ "text": " Angazhani Angazhanis lurk in the depths of the world's jungles, where these sapient, four-armed apes prey on any creatures they deem lesser than themselves. They're purportedly the divine minions of Angazhan, demon lord of apes. While many angazhanis do worship this foul god, scarce evidence exists to support their claim to fiendish heritage. Jungle-dwelling people know well to steer clear of suspected angazhani territories; angazhanis of such areas don't slaughter outright, often capturing trespassers to serve as slaves or as living sacrifices in heinous rituals. Recall Knowledge - Beast (Arcana, Nature): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Angazhani Source Bestiary 3 pg. 17 Perception +18; darkvision Languages Abyssal, Common, Mwangi Skills Athletics +20, Intimidation +15, Religion +16, Survival +16 Str +6 Dex +4 Con +5 Int -1 Wis +4 Cha +3 --- AC 26 Fort +19 Ref +16 Will +14 HP 180 Defensive Disarm Reaction Trigger A creature makes a melee weapon Strike against the angazhani and misses; Requirements The angazhani is benefiting from their Defensive Slam; Effect The angazhani attempts to Disarm the attacker of the triggering weapon. --- Speed 25 feet, climb 25 feet Melee Single Action fist +20 (reach 10 feet), Damage 2d8+9 bludgeoning Melee Single Action jaws +20, Damage 2d12+9 piercing Divine Innate Spells DC 24 - 3rd Fear (×2) - 6th Dominate Defensive Slam Two Actions The angazhani uses their arms to defend themself while attacking. The angazhani Strikes once and gains a +2 circumstance bonus to AC until the start of their next turn. Focused Slam Two Actions The angazhani beats a single opponent with all four of their brawny arms, leaving their foe nowhere to dodge. The angazhani makes a fist Strike. On a successful attack, they deal fist damage to the target plus an additional 3d8 damage, and they meet the requirements to Rend the target this turn, even if they didn't hit on two consecutive Strikes. Even on a failed attack, the angazhani deals the damage from one fist Strike to the target, though they still miss completely on a critical failure. This ability counts as four attacks toward an angazhani's multiple attack penalty. After using this ability, the angazhani is flat-footed until the beginning of their next turn. Rend Single Action fist Pummeling Charge Three Actions Effect The angazhani rushes up to a foe at extreme speed and slams down with their fists. The angazhani Strides or Climbs up to three times, then makes two fist Strikes against one enemy within reach. Jungle Murderers On Golarion, angazhanis dwell almost exclusively in remote reaches of the vast Mwangi Jungle. Many of them served the hateful Gorilla King Ruthazek in Usaro, but after his downfall over a decade ago, these supplicants have fallen into infighting. The mysterious Mwangi warrior Shosenbe is attempting to reunite the angazhanis of Usaro, though not all of the fallen Gorilla King's former minions are eager to follow a human leader. ",
+ "trait": [
+  "Beast",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1062",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 4
+}

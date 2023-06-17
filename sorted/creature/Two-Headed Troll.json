@@ -1,0 +1,100 @@
+{
+ "ac": 24,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 6,
+ "creature_ability": [
+  "Independent Brains",
+  "Head Regrowth",
+  "Attack of Opportunity",
+  "Reactive Chomp"
+ ],
+ "creature_family": "Troll",
+ "creature_family_markdown": "[Troll](/MonsterFamilies.aspx?ID=96)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 190,
+ "hp_raw": "190",
+ "id": "creature-833",
+ "image": [
+  "/Images/Monsters/Troll_TwoHeadedTroll.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Jotun"
+ ],
+ "language_markdown": "[Jotun](/Languages.aspx?ID=8)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Two-Headed Troll](/Monsters.aspx?ID=833)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTwo-headed trolls are savage, dual-minded monsters with an unquenchable thirst for bloodshed, and dread tales of their ravenous appetites are whispered of in homesteads throughout the lands of the Inner Sea. Indeed, it is a custom for parents to invoke the two-headed troll as a warning to misbehaving children. “Finish your chores,” a parent might say to a stubborn child, “or a two-headed troll will snatch you away at night and swallow you whole!” It's unclear why such a morbid tradition gained traction with parents, but it's an undeniable fact that two-headed trolls have an appetite for “nibbles”—creatures small enough to devour with one bite.\n\n Mature two-headed trolls stand 13 feet in height, weighing roughly 1,700 pounds. Unlike common trolls, two-headed trolls share the upright gait of their [ettin](/Monsters.aspx?ID=204) ancestry and do not walk hunched over.\r\n\r\n<column gap=\"tiny\">\n\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Troll_TwoHeadedTroll.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Two-Headed Troll](/Monsters.aspx?ID=833)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 266 <sup>2.0</sup></row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +18, [Intimidation](/Skills.aspx?ID=7) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +1\r\n\r\n**Con** +6\r\n\r\n**Int** -2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Independent Brains** Each of a two-headed troll's heads rolls their own initiative and has their own turn. Neither head can [Delay](/Actions.aspx?ID=77). At the start of a head's turn, that head gets 2 actions and 1 reaction. Each brain controls one of the troll's arms, but both can move the legs. Any ability that would sever a two-headed troll's head (such as the [_vorpal_](/Equipment.aspx?ID=308) weapon property) doesn't cause the two-headed troll to die if they still have their other head, but does cause them to lose the turns, actions, and reactions of the severed head. [Mental](/Traits.aspx?ID=106) effects that target a single creature affect only one of the troll's heads.\r\n\r\n**Items**\r\n[Club](/Weapons.aspx?ID=2)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 190\r\n\r\n, regeneration 25 (deactivated by acid or fire)\n\n**Weaknesses**\r\nfire 10\r\n\r\n**Head Regrowth** A two-headed troll's regeneration can regrow a severed head. After regaining Hit Points from regeneration, the two-headed troll attempts a DC 10 flat check. On a success, the missing head is fully restored. If a two-headed troll loses their last remaining head, they die immediately.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +18 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+8 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+8 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclub +18 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+8 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nclub +13 ([thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d6+8 bludgeoning\n\n**Reactive Chomp** <actions string=\"Reaction\" />  **Trigger** On one head's initiative, the troll hits the same enemy with two consecutive claw Strikes in the same round; **Effect** While the prey is distracted with unrelenting claw attacks, the head that's not taking its turn makes a jaws Strike against the enemy.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Mother of Trolls</title>\r\n\r\nTrolls and [ettins](/Monsters.aspx?ID=204) do not normally seek one another as mates, but this pairing is the source of the original two-headed trolls—such couplings were engineered and arranged by the cult of [Lamashtu](/Deities.aspx?ID=11) in ages past. Oblivious to their origin, two-headed trolls tend to give no deference to the Mother of Monsters.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-96\" />",
+ "name": "Two-Headed Troll",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 266 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Troll](/MonsterFamilies.aspx?ID=96)\r\n\r\n<row gap=\"medium\">\r\n**HP** 190\r\n\r\n**AC** 24\r\n\r\n**Fort** +20\r\n\r\n**Ref** +15\r\n\r\n**Will** +14\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTwo-headed trolls are savage, dual-minded monsters with an unquenchable thirst for bloodshed, and dread tales of their ravenous appetites are …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +18",
+  "Intimidation +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +18, [Intimidation](/Skills.aspx?ID=7) +17",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 266"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 266 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Two-headed trolls are savage, dual-minded monsters with an unquenchable thirst for bloodshed, and dread tales of their ravenous appetites are …",
+ "summary_markdown": "Two-headed trolls are savage, dual-minded monsters with an unquenchable thirst for bloodshed, and dread tales of their ravenous appetites are …",
+ "text": " Two-Headed Troll Two-headed trolls are savage, dual-minded monsters with an unquenchable thirst for bloodshed, and dread tales of their ravenous appetites are whispered of in homesteads throughout the lands of the Inner Sea. Indeed, it is a custom for parents to invoke the two-headed troll as a warning to misbehaving children. “Finish your chores,” a parent might say to a stubborn child, “or a two-headed troll will snatch you away at night and swallow you whole!” It's unclear why such a morbid tradition gained traction with parents, but it's an undeniable fact that two-headed trolls have an appetite for “nibbles”—creatures small enough to devour with one bite. Mature two-headed trolls stand 13 feet in height, weighing roughly 1,700 pounds. Unlike common trolls, two-headed trolls share the upright gait of their ettin ancestry and do not walk hunched over. Unspecific Lore : DC 24 Specific Lore : DC 21 Two-Headed Troll Source Bestiary 2 pg. 266 2.0 Perception +18; darkvision Languages Jotun Skills Athletics +18, Intimidation +17 Str +6 Dex +1 Con +6 Int -2 Wis +4 Cha +3 Independent Brains Each of a two-headed troll's heads rolls their own initiative and has their own turn. Neither head can Delay. At the start of a head's turn, that head gets 2 actions and 1 reaction. Each brain controls one of the troll's arms, but both can move the legs. Any ability that would sever a two-headed troll's head (such as the vorpal weapon property) doesn't cause the two-headed troll to die if they still have their other head, but does cause them to lose the turns, actions, and reactions of the severed head. Mental effects that target a single creature affect only one of the troll's heads. Items Club --- AC 24 Fort +20 Ref +15 Will +14 HP 190 , regeneration 25 (deactivated by acid or fire) Weaknesses fire 10 Head Regrowth A two-headed troll's regeneration can regrow a severed head. After regaining Hit Points from regeneration, the two-headed troll attempts a DC 10 flat check. On a success, the missing head is fully restored. If a two-headed troll loses their last remaining head, they die immediately. Attack of Opportunity Reaction --- Speed 30 feet Melee Single Action jaws +18 (reach 10 feet), Damage 2d12+8 piercing Melee Single Action claw +18 (Agile, reach 10 feet), Damage 2d8+8 slashing Melee Single Action club +18 (reach 10 feet), Damage 2d6+8 bludgeoning Ranged Single Action club +13 (thrown 10 feet), Damage 2d6+8 bludgeoning Reactive Chomp Reaction Trigger On one head's initiative, the troll hits the same enemy with two consecutive claw Strikes in the same round; Effect While the prey is distracted with unrelenting claw attacks, the head that's not taking its turn makes a jaws Strike against the enemy. Mother of Trolls Trolls and ettins do not normally seek one another as mates, but this pairing is the source of the original two-headed trolls—such couplings were engineered and arranged by the cult of Lamashtu in ages past. Oblivious to their origin, two-headed trolls tend to give no deference to the Mother of Monsters. ",
+ "trait": [
+  "Giant",
+  "Troll",
+  "Uncommon",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Troll](/Traits.aspx?ID=241), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Giant",
+  "Troll",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=833",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 14,
+ "wisdom": 4
+}

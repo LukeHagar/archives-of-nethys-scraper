@@ -1,0 +1,113 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 3,
+ "creature_ability": [
+  "No Breath",
+  "Clever Disguises",
+  "Eviscerate",
+  "Sneak Attack"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 120,
+ "hp_raw": "120",
+ "id": "creature-1227",
+ "image": [
+  "/Images/Monsters/Migo.png"
+ ],
+ "immunity": [
+  "cold"
+ ],
+ "immunity_markdown": "cold",
+ "intelligence": 5,
+ "language": [
+  "Aklo",
+  "Common",
+  "Mi-Go"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Mi-Go](/Languages.aspx?ID=67)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mi-Go](/Monsters.aspx?ID=1227)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMi-gos are both scientists and colonists, yet their extraterrestrial nature and malevolent motives color their investigations with cruelty. While their shape resembles that of an arthropod, mi-gos are in fact a highly evolved and intelligent fungus.\n\n In mi-go society, the pursuit of secular knowledge and religious epiphany have no distinction and inspire their pursuits in tandem. They view the [Outer Gods and Great Old Ones](/DeityCategories.aspx?ID=13) of the Elder Mythos less as gods to obey and more as muses or figures of inspiration. This results in their use of a strange blend of magic and technology to create bizarre, organic items that are grown and spliced together as much as crafted in the traditional sense.\n\n A mi-go can survive in the void of outer space and flies through the vacuum at incredible speeds—though these journeys can take months within a single solar system and years to travel beyond. When they come to new planets to mine resources rare on their home worlds, they use clever disguises that mix technology and magic to appear as creatures of that world. While there, they select the greatest minds of that world as trophies, extracting their brains and preserving them within an eldritch cylinder that grants an awful immortality to the mind kept within.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fungus](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Migo.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Mi-Go](/Monsters.aspx?ID=1227)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 168</row>\n\n**Perception** +14; [low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (precise) 30 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Mi-Go](/Languages.aspx?ID=67)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +12, [Arcana](/Skills.aspx?ID=2) +15, [Deception](/Skills.aspx?ID=5) +14, [Medicine](/Skills.aspx?ID=9) +17, [Occultism](/Skills.aspx?ID=11) +15, [Religion](/Skills.aspx?ID=13) +14, [Stealth](/Skills.aspx?ID=15) +13, [Thievery](/Skills.aspx?ID=17) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** +5\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 120\n\n**Immunities**\r\ncold\n\n**Weaknesses**\r\nslashing 5\r\n\r\n**No Breath** A mi-go doesn't breathe and is immune to effects that require breathing (such as an [inhaled](/Traits.aspx?ID=96) [poison](/Traits.aspx?ID=126)).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +15 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+4 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Clever Disguises**   A mi-go can use [Deception](/Skills.aspx?ID=5) to [impersonate](/Actions.aspx?ID=46) any Medium [humanoid](/Traits.aspx?ID=91) creature, although creating such a disguise takes 1 hour. It can't impersonate a specific individual with this ability.\r\n\r\n**Eviscerate** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) The mi-go performs a swift and painful surgery on a creature it has [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) or that is otherwise [immobilized](/Conditions.aspx?ID=24), attempting a [Medicine](/Skills.aspx?ID=9) check against the target's Fortitude DC. Regardless of the result, the target then becomes temporarily immune for 24 hours. **Critical Success** The target takes 6d6 slashing damage, is [slowed 1](/Conditions.aspx?ID=35) for 1 round, and becomes [clumsy 1](/Conditions.aspx?ID=3), [enfeebled 1](/Conditions.aspx?ID=13), or [stupefied 1](/Conditions.aspx?ID=37) (the mi-go chooses) for 24 hours. **Success** The target takes 4d6 slashing damage and is slowed 1 for 1 round by the pain. **Failure** The target takes 2d6 slashing damage. **Critical Failure** The target takes no damage.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   A mi-go deals an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Mi-Go Language</title>\r\n\r\nThe [mi-go language](/Languages.aspx?ID=67) consists of pulsations and flashes of a wide range of colors (some of which can't be seen by humans) generated on a mi-go's head. This language can be learned by other creatures, but they cannot use it to “speak” to others without the use of illusion magic capable of generating the complex series of colors. Even then, most creatures can convey only basic notions and concepts.\r\n</aside>",
+ "name": "Mi-Go",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 17,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 168</row>\n\n<row gap=\"medium\">\r\n**HP** 120\r\n\r\n**AC** 24\r\n\r\n**Fort** +13\r\n\r\n**Ref** +17\r\n\r\n**Will** +14\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMi-gos are both scientists and colonists, yet their extraterrestrial nature and malevolent motives color their investigations with cruelty. While …\r\n</summary>",
+ "sense": " low-light vision ,  tremorsense  (precise) 30 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (precise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Athletics +12",
+  "Arcana +15",
+  "Deception +14",
+  "Medicine +17",
+  "Occultism +15",
+  "Religion +14",
+  "Stealth +13",
+  "Thievery +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +12, [Arcana](/Skills.aspx?ID=2) +15, [Deception](/Skills.aspx?ID=5) +14, [Medicine](/Skills.aspx?ID=9) +17, [Occultism](/Skills.aspx?ID=11) +15, [Religion](/Skills.aspx?ID=13) +14, [Stealth](/Skills.aspx?ID=15) +13, [Thievery](/Skills.aspx?ID=17) +13",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 168"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 168</row>",
+ "speed": {
+  "fly": 40,
+  "land": 25,
+  "max": 40
+ },
+ "speed_markdown": "25 feet, fly 40 feet",
+ "speed_raw": "25 feet, fly 40 feet",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Mi-gos are both scientists and colonists, yet their extraterrestrial nature and malevolent motives color their investigations with cruelty. While …",
+ "summary_markdown": "Mi-gos are both scientists and colonists, yet their extraterrestrial nature and malevolent motives color their investigations with cruelty. While …",
+ "text": " Mi-Go Mi-gos are both scientists and colonists, yet their extraterrestrial nature and malevolent motives color their investigations with cruelty. While their shape resembles that of an arthropod, mi-gos are in fact a highly evolved and intelligent fungus. In mi-go society, the pursuit of secular knowledge and religious epiphany have no distinction and inspire their pursuits in tandem. They view the Outer Gods and Great Old Ones of the Elder Mythos less as gods to obey and more as muses or figures of inspiration. This results in their use of a strange blend of magic and technology to create bizarre, organic items that are grown and spliced together as much as crafted in the traditional sense. A mi-go can survive in the void of outer space and flies through the vacuum at incredible speeds—though these journeys can take months within a single solar system and years to travel beyond. When they come to new planets to mine resources rare on their home worlds, they use clever disguises that mix technology and magic to appear as creatures of that world. While there, they select the greatest minds of that world as trophies, extracting their brains and preserving them within an eldritch cylinder that grants an awful immortality to the mind kept within. Recall Knowledge - Fungus (Nature): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Mi-Go Source Bestiary 3 pg. 168 Perception +14; low-light vision, tremorsense (precise) 30 feet Languages Aklo, Common, Mi-Go Skills Acrobatics +13, Athletics +12, Arcana +15, Deception +14, Medicine +17, Occultism +15, Religion +14, Stealth +13, Thievery +13 Str +2 Dex +5 Con +3 Int +5 Wis +4 Cha +2 --- AC 24 Fort +13 Ref +17 Will +14 HP 120 Immunities cold Weaknesses slashing 5 No Breath A mi-go doesn't breathe and is immune to effects that require breathing (such as an inhaled poison). --- Speed 25 feet, fly 40 feet Melee Single Action claw +15 (Agile, Finesse), Damage 2d6+4 slashing plus Grab Clever Disguises A mi-go can use Deception to impersonate any Medium humanoid creature, although creating such a disguise takes 1 hour. It can't impersonate a specific individual with this ability. Eviscerate Single Action (Manipulate) The mi-go performs a swift and painful surgery on a creature it has grabbed or restrained or that is otherwise immobilized, attempting a Medicine check against the target's Fortitude DC. Regardless of the result, the target then becomes temporarily immune for 24 hours. Critical Success The target takes 6d6 slashing damage, is slowed 1 for 1 round, and becomes clumsy 1, enfeebled 1, or stupefied 1 (the mi-go chooses) for 24 hours. Success The target takes 4d6 slashing damage and is slowed 1 for 1 round by the pain. Failure The target takes 2d6 slashing damage. Critical Failure The target takes no damage. Sneak Attack A mi-go deals an extra 1d6 precision damage to flat-footed creatures. Mi-Go Language The mi-go language consists of pulsations and flashes of a wide range of colors (some of which can't be seen by humans) generated on a mi-go's head. This language can be learned by other creatures, but they cannot use it to “speak” to others without the use of illusion magic capable of generating the complex series of colors. Even then, most creatures can convey only basic notions and concepts. ",
+ "trait": [
+  "Fungus",
+  "Uncommon",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fungus](/Traits.aspx?ID=77), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fungus",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1227",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "slashing": 5
+ },
+ "weakness_markdown": "slashing 5",
+ "weakness_raw": "slashing 5",
+ "will_save": 14,
+ "wisdom": 4
+}

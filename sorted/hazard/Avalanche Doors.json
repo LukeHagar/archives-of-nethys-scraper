@@ -1,0 +1,58 @@
+{
+ "ac": 21,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 22  Thievery  (trained) to detach the trigger from the doors and lock them in place",
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hardness": 11,
+ "hardness_raw": "11",
+ "hazard_type": "Trap",
+ "hp": 50,
+ "hp_raw": "50 (BT 25)",
+ "id": "hazard-253",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 4,
+ "markdown": "<title level=\"1\" right=\"Hazard 4\" pfs=\"\">[Avalanche Doors](/Hazards.aspx?ID=253)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 80</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThe double door is a false door; when triggered, the door slams downward like a drawbridge to crush anyone standing before it.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 22 (expert)\r\n\r\n**Disable**\r\nDC 22 [Thievery](/Skills.aspx?ID=17) (trained) to detach the trigger from the doors and lock them in place\n\n<column gap=\"tiny\">\r\n\r\n**AC** 21, **Fort** +14, **Ref** +8\r\n\r\n**Hardness**\r\n11\r\n\r\n**HP**\r\n50 (BT 25)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Topple Forward** <actions string=\"Reaction\" /> **Trigger** Someone attempts to open the doors, or the doors take enough damage to become broken; **Effect** The heavy metal doors are spring-loaded to slam downward, dropping like a drawbridge to smash all creatures in a 10-foot-square before the doors. All creatures in this area must attempt a DC 21 Reflex save.\r\n\r\n**Critical Success** The creature lurches to the side and takes no damage—move the creature to a square of the creature's choice adjacent to the trap's area of effect.<br />\r\n**Success** The creature takes 3d8 bludgeoning damage and is [pushed](/Rules.aspx?ID=451) into an adjacent square just outside the trap's area.<br />\r\n**Failure** The creature takes 6d8 bludgeoning damage, is pushed into an adjacent square just outside the trap's area, and falls [prone](/Conditions.aspx?ID=31) in that square.<br />\r\n**Critical Failure** The creature takes 12d8 bludgeoning damage and is knocked prone. The heavy doors pin the creature to the ground, [Immobilizing](/Conditions.aspx?ID=24) it ([Escape](/Actions.aspx?ID=79) DC 22). A non-immobilized character can lift the doors by [Forcing them open](/Actions.aspx?ID=34) with a successful DC 22 [Athletics](/Skills.aspx?ID=3) check so that an immobilized character can crawl to safety.",
+ "name": "Avalanche Doors",
+ "rarity": "uncommon",
+ "reflex_save": 8,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 80</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe double door is a false door; when triggered, the door slams downward like a drawbridge to crush anyone standing before it.\r\n</summary>",
+ "source": [
+  "Crown of the Kobold King"
+ ],
+ "source_raw": [
+  "Crown of the Kobold King pg. 80"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Crown of the Kobold King",
+ "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 80</row>",
+ "speed": {},
+ "spoilers": "Crown of the Kobold King",
+ "stealth": "DC 22 (expert)",
+ "summary": "The double door is a false door; when triggered, the door slams downward like a drawbridge to crush anyone standing before it.",
+ "summary_markdown": "The double door is a false door; when triggered, the door slams downward like a drawbridge to crush anyone standing before it.",
+ "text": " Avalanche Doors Source Crown of the Kobold King pg. 80 Complexity Simple The double door is a false door; when triggered, the door slams downward like a drawbridge to crush anyone standing before it. --- Stealth DC 22 (expert) Disable DC 22 Thievery (trained) to detach the trigger from the doors and lock them in place AC 21, Fort +14, Ref +8 Hardness 11 HP 50 (BT 25) Immunities critical hits, object immunities, precision damage Topple Forward Reaction Trigger Someone attempts to open the doors, or the doors take enough damage to become broken; Effect The heavy metal doors are spring-loaded to slam downward, dropping like a drawbridge to smash all creatures in a 10-foot-square before the doors. All creatures in this area must attempt a DC 21 Reflex save. Critical Success The creature lurches to the side and takes no damage—move the creature to a square of the creature's choice adjacent to the trap's area of effect. Success The creature takes 3d8 bludgeoning damage and is pushed into an adjacent square just outside the trap's area. Failure The creature takes 6d8 bludgeoning damage, is pushed into an adjacent square just outside the trap's area, and falls prone in that square. Critical Failure The creature takes 12d8 bludgeoning damage and is knocked prone. The heavy doors pin the creature to the ground, Immobilizing it (Escape DC 22). A non-immobilized character can lift the doors by Forcing them open with a successful DC 22 Athletics check so that an immobilized character can crawl to safety.",
+ "trait": [
+  "Mechanical",
+  "Trap",
+  "Uncommon"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap",
+  "Uncommon"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=253",
+ "weakness": {}
+}

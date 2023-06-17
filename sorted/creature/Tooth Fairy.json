@@ -1,0 +1,102 @@
+{
+ "ac": 15,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 0,
+ "creature_ability": [
+  "Plaque Burst",
+  "Tooth Tug"
+ ],
+ "creature_family": "Tooth Fairy",
+ "creature_family_markdown": "[Tooth Fairy](/MonsterFamilies.aspx?ID=270)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 2,
+ "hp": 8,
+ "hp_raw": "8",
+ "id": "creature-1344",
+ "image": [
+  "/Images/Monsters/ToothFairy.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Sylvan"
+ ],
+ "language_markdown": "[Sylvan](/Languages.aspx?ID=10)",
+ "level": -1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tooth Fairy](/Monsters.aspx?ID=1344)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLone fairies usually need several minutes of elbow grease and a sleeping or restrained subject to extract a tooth.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 13\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 11\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 8\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ToothFairy.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature -1\">[Tooth Fairy](/Monsters.aspx?ID=1344)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 273</row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +5, [Stealth](/Skills.aspx?ID=15) +5, [Thievery](/Skills.aspx?ID=17) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** -2\r\n\r\n**Dex** +3\r\n\r\n**Con** +0\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\npliers\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +2 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 8\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 2\r\n\r\n**Plaque Burst** When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature with 5 feet must succeed at a DC 16 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (sickened 2 on a critical failure).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npliers +7 ([Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6 bludgeoning plus Tooth Tug\r\n\r\n**Primal Innate Spells** DC 13\r\n- **Cantrips (1st)**\r\n[Mage Hand](/Spells.aspx?ID=177)\r\n- **1st**\r\n[Sleep](/Spells.aspx?ID=288)\r\n\r\n**Tooth Tug** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The tooth fairy's last action was a successful pliers Strike against a creature with teeth; **Effect** The tooth fairy tugs on the creature's teeth, dealing 2 [persistent bleed damage](/Conditions.aspx?ID=29) to the creature.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-270\" />",
+ "name": "Tooth Fairy",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 273</row>\r\n\r\n**Creature Family** [Tooth Fairy](/MonsterFamilies.aspx?ID=270)\r\n\r\n<row gap=\"medium\">\r\n**HP** 8\r\n\r\n**AC** 15\r\n\r\n**Fort** +2\r\n\r\n**Ref** +7\r\n\r\n**Will** +4\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLone fairies usually need several minutes of elbow grease and a sleeping or restrained subject to extract a tooth.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +5",
+  "Stealth +5",
+  "Thievery +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +5, [Stealth](/Skills.aspx?ID=15) +5, [Thievery](/Skills.aspx?ID=17) +6",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 273"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 273</row>",
+ "speed": {
+  "fly": 25,
+  "land": 10,
+  "max": 25
+ },
+ "speed_markdown": "10 feet, fly 25 feet",
+ "speed_raw": "10 feet, fly 25 feet",
+ "spell": [
+  "Sleep",
+  "Mage Hand"
+ ],
+ "spell_markdown": "[Mage Hand](/Spells.aspx?ID=177), [Sleep](/Spells.aspx?ID=288)",
+ "stealth": "5",
+ "strength": -2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Lone fairies usually need several minutes of elbow grease and a sleeping or restrained subject to extract a tooth.",
+ "summary_markdown": "Lone fairies usually need several minutes of elbow grease and a sleeping or restrained subject to extract a tooth.",
+ "text": " Tooth Fairy Lone fairies usually need several minutes of elbow grease and a sleeping or restrained subject to extract a tooth. Recall Knowledge - Fey (Nature): DC 13 Unspecific Lore : DC 11 Specific Lore : DC 8 Tooth Fairy Source Bestiary 3 pg. 273 Perception +6; darkvision Languages Sylvan Skills Acrobatics +5, Stealth +5, Thievery +6 Str -2 Dex +3 Con +0 Int -1 Wis +2 Cha +1 Items pliers --- AC 15 Fort +2 Ref +7 Will +4 HP 8 Weaknesses cold iron 2 Plaque Burst When killed, a tooth fairy bursts into sticky, foul-smelling white dust. Each creature with 5 feet must succeed at a DC 16 Fortitude save or become sickened 1 (sickened 2 on a critical failure). --- Speed 10 feet, fly 25 feet Melee Single Action pliers +7 (Disarm, Finesse), Damage 1d6 bludgeoning plus Tooth Tug Primal Innate Spells DC 13 - Cantrips (1st) Mage Hand - 1st Sleep Tooth Tug Single Action (Manipulate) Requirements The tooth fairy's last action was a successful pliers Strike against a creature with teeth; Effect The tooth fairy tugs on the creature's teeth, dealing 2 persistent bleed damage to the creature. ",
+ "trait": [
+  "Fey",
+  "CE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69)",
+ "trait_raw": [
+  "Fey"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1344",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold_iron": 2
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 2",
+ "weakness_raw": " cold iron  2",
+ "will_save": 4,
+ "wisdom": 2
+}

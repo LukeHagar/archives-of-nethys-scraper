@@ -1,0 +1,108 @@
+{
+ "ac": 19,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 1,
+ "creature_ability": [
+  "Mob Mentality",
+  "Lingering Ichor    Trigger",
+  "Undead Virulence"
+ ],
+ "creature_family": "Virulak",
+ "creature_family_markdown": "[Virulak](/MonsterFamilies.aspx?ID=318)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 45,
+ "hp_raw": "45 ( negative healing )",
+ "id": "creature-2056",
+ "image": [
+  "/Images/Monsters/Virulak_Villager.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"\">[Virulak Villager](/Monsters.aspx?ID=2056)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA village of commoners raised to undeath by a mass poisoning might continue to go about the settled routines of life, posing an eerie scene for living creatures who enter their village. Virulak villagers prefer to attack with an advantage of numbers, but even a lone villager can pose a problem for unaware or inexperienced travelers.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Virulak_Villager.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Virulak Villager](/Monsters.aspx?ID=2056)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 97</row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +9, [Crafting](/Skills.aspx?ID=4) +7, [Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Mob Mentality** As long as the virulak villager and their allies aren't outnumbered by enemies, the virulak villager is immune to [fear](/Traits.aspx?ID=68).<br />**Lingering Ichor <actions string=\"Reaction\" /> **Trigger** The virulak takes piercing or slashing damage from a melee Strike** **Effect** The virulak squirts a jet of poisonous ichor from the wound. The creature making the triggering Strike takes 3 [persistent poison damage](/Conditions.aspx?ID=29) equal to the virulak's level.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +12 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d8+4 slashing plus [Grab](/MonsterAbilities.aspx?ID=18) and undead virulence\n\n**Undead Virulence**  ([Poison](/Traits.aspx?ID=126), [Virulent](/Traits.aspx?ID=162)) **Saving Throw** DC 19 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 1d10 poison damage (1 round); **Stage 2** 1d12 poison damage (1 round); **Stage 3** 2d10 poison damage (1 round)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">The Mob's Spoils</title>\r\n\r\nVirulak villagers tear apart those who fall prey to their ruse of an ordinary village at work and consume the remains. They don't generally have much use for their victim's valuables and often stash them somewhere, such as in a root cellar or hayloft. A stealthy and canny infiltrator might discover a pile of blood-soaked valuables and escape without alerting the villagers.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-318\" />",
+ "name": "Virulak Villager",
+ "npc": false,
+ "perception": 8,
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2022-08-31",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 97</row>\r\n\r\n**Creature Family** [Virulak](/MonsterFamilies.aspx?ID=318)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45 ( negative healing )\r\n\r\n**AC** 19\r\n\r\n**Fort** +10\r\n\r\n**Ref** +10\r\n\r\n**Will** +8\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA village of commoners raised to undeath by a mass poisoning might continue to go about the settled routines of life, posing an eerie scene for …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +9",
+  "Crafting +7",
+  "Intimidation +8",
+  "Stealth +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +9, [Crafting](/Skills.aspx?ID=4) +7, [Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +10",
+ "source": [
+  "Pathfinder #182: Graveclaw"
+ ],
+ "source_raw": [
+  "Pathfinder #182: Graveclaw pg. 97"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 97</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "10",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "A village of commoners raised to undeath by a mass poisoning might continue to go about the settled routines of life, posing an eerie scene for …",
+ "summary_markdown": "A village of commoners raised to undeath by a mass poisoning might continue to go about the settled routines of life, posing an eerie scene for …",
+ "text": " Virulak Villager A village of commoners raised to undeath by a mass poisoning might continue to go about the settled routines of life, posing an eerie scene for living creatures who enter their village. Virulak villagers prefer to attack with an advantage of numbers, but even a lone villager can pose a problem for unaware or inexperienced travelers. Recall Knowledge - Undead (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Virulak Villager Source Pathfinder #182: Graveclaw pg. 97 Perception +8; darkvision Languages Common, Necril Skills Athletics +9, Crafting +7, Intimidation +8, Stealth +10 Str +4 Dex +3 Con +1 Int +0 Wis +1 Cha +1 --- AC 19 Fort +10 Ref +10 Will +8 HP 45 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Mob Mentality As long as the virulak villager and their allies aren't outnumbered by enemies, the virulak villager is immune to fear. Lingering Ichor Reaction Trigger The virulak takes piercing or slashing damage from a melee Strike Effect The virulak squirts a jet of poisonous ichor from the wound. The creature making the triggering Strike takes 3 persistent poison damage equal to the virulak's level. --- Speed 25 feet Melee Single Action claw +12 (Agile), Damage 1d8+4 slashing plus Grab and undead virulence Undead Virulence (Poison, Virulent) Saving Throw DC 19 Fortitude; Maximum Duration 4 rounds; Stage 1 1d10 poison damage (1 round); Stage 2 1d12 poison damage (1 round); Stage 3 2d10 poison damage (1 round) The Mob's Spoils Virulak villagers tear apart those who fall prey to their ruse of an ordinary village at work and consume the remains. They don't generally have much use for their victim's valuables and often stash them somewhere, such as in a root cellar or hayloft. A stealthy and canny infiltrator might discover a pile of blood-soaked valuables and escape without alerting the villagers. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2056",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 1
+}

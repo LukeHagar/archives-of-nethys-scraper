@@ -1,0 +1,109 @@
+{
+ "ac": 25,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 1,
+ "creature_ability": [
+  "Culdewen's Curse",
+  "Hooked",
+  "Land the Fish",
+  "Reel In",
+  "Swear"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 105,
+ "hp_raw": "105",
+ "id": "creature-591",
+ "image": [
+  "/Images/Monsters/Culdewen.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Aquan",
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Culdewen](/Monsters.aspx?ID=591)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nPerpetually cursed to hunger and failure, a culdewen plies waterways in search of appealing fish to catch—the bigger the better. Of course, this diminutive, emaciated fey calls every living creature a “fish.” Only other fey are exempt, and they tend to consider culdewens lost causes. A culdewen can never find satisfaction. Each time they catch a fish, a magical curse forces them to hunt for an appealing spot to dine—an island, cove, or abandoned dock or shack where they can eat in peace. By the time they arrive, their catch will be gone. Every time. Forever.\n\nA foul mood hovers over a culdewen, causing them to swear colorfully, smack things with their oar, and shake their tiny fists at the sky. Conversation with a culdewen is fruitless, as they talk in circles, speaking only of fishing and the weather. Capturing a “fish” gives a culdewen a rare moment of happiness; the culdewen capers and ululates, pleased with their catch, and rushes off to their boat.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Culdewen.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Culdewen](/Monsters.aspx?ID=591)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 57 <sup>2.0</sup></row>\n\n**Perception** +15; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +16, [Deception](/Skills.aspx?ID=5) +16, [Intimidation](/Skills.aspx?ID=7) +14, [Nature](/Skills.aspx?ID=10) +12, [Sailing Lore](/Skills.aspx?ID=8) +14, [Stealth](/Skills.aspx?ID=15) +15, [Survival](/Skills.aspx?ID=16) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +1\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Culdewen's Curse** ([curse](/Traits.aspx?ID=38), [enchantment](/Traits.aspx?ID=61), [primal](/Traits.aspx?ID=134)) A culdewen that captures a creature is compelled to immediately retreat to a secluded place to eat, typically journeying by boat. The travel to the secluded place always takes at least 1 day. Their captive is cursed to vanish on the journey—typically being lost in the water or consumed by aquatic creatures—and can be recovered only by a [_wish_](/Spells.aspx?ID=377) spell or similarly powerful magic.\r\n\r\n**Items**\r\nfish hook, oar (functions as [mace](/Weapons.aspx?ID=7))\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +13 \r\n\r\n–2 status to all saves vs. curses\r\n</row>\r\n\r\n**HP** 105\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=272) 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfish hook +17 ([Trip](/Traits.aspx?ID=196)),\r\n**Damage** 2d10+7 piercing plus hooked\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\noar +17 ([Shove](/Traits.aspx?ID=193)),\r\n**Damage** 2d6+7 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nfish hook +18 ([thrown 30 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d10+7 piercing plus hooked\n\n**Hooked**   A creature struck by the culdewen's fish hook is skewered, taking 1d4 [persistent bleed damage](/Conditions.aspx?ID=29) as long as the hook remains stuck in it. The fish hook can be removed if a creature [Escapes](/Actions.aspx?ID=79) (DC 25), pulling it free. \r\n\r\n**Land the Fish** <actions string=\"Single Action\" />  **Requirements** A creature is hooked by the culdewen's fish hook and adjacent to the culdewen; **Effect** The culdewen hoists the creature over their shoulder, as though it weighs no more than a fish. Unless the creature is unable to act, the culdewen must attempt an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. On a success, the creature is [restrained](/Conditions.aspx?ID=33) by the culdewen. [Escaping](/Actions.aspx?ID=79) from the restrained condition (DC 25) also allows a creature to remove the hook. While hoisting a creature, the culdewen gains a +20-foot status bonus to their Speeds and is compelled to escape with it (see culdewen's curse above).\r\n\r\n**Reel In** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) The culdewen pulls the rope attached to their hook. If they have no creature hooked, the fish hook returns to the culdewen's hand. If a creature is hooked, the culdewen attempts an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC, pulling it up to 30 feet closer on a success (60 feet on a critical success).\r\n\r\n**Swear** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Curse](/Traits.aspx?ID=38), [Enchantment](/Traits.aspx?ID=61), [Primal](/Traits.aspx?ID=134)) The culdewen unleashes a string of invectives. Each creature that hears them must attempt a DC 25 Will save, with the effects of [_mariner's curse_](/Spells.aspx?ID=184) and is then temporarily immune for 24 hours. Even on a failed save, the curse ends automatically after 1 day.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">The Curse of Crawley Jack</title>\r\n\r\nThe damnable curse of the culdewen traces back to the [First World](/Planes.aspx?ID=10), when a bitter old culdewen named Crawley Jack poached a fish from the pool of a powerful fey noble. Short of temper and feeling vindictive, the noble doomed Crawley Jack's people to never consume another fish again. Yet their desire to eat fish never diminished. The curse's punishment is exacted in endless creative ways. A culdewen's catch might be rescued by [merfolk](/MonsterFamilies.aspx?ID=73), stolen by [skum](/Monsters.aspx?ID=3), eaten by nipping sharks, or carried away on a piece of driftwood when the culdewen's boat is destroyed in a storm or shipwreck.\r\n</aside>",
+ "name": "Culdewen",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 18,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 57 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 105\r\n\r\n**AC** 25\r\n\r\n**Fort** +14\r\n\r\n**Ref** +18\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPerpetually cursed to hunger and failure, a culdewen plies waterways in search of appealing fish to catch—the bigger the better. Of course, this …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +16",
+  "Deception +16",
+  "Intimidation +14",
+  "Nature +12",
+  "Sailing Lore +14",
+  "Stealth +15",
+  "Survival +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +16, [Deception](/Skills.aspx?ID=5) +16, [Intimidation](/Skills.aspx?ID=7) +14, [Nature](/Skills.aspx?ID=10) +12, [Sailing Lore](/Skills.aspx?ID=8) +14, [Stealth](/Skills.aspx?ID=15) +15, [Survival](/Skills.aspx?ID=16) +16",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 57"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 57 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 40,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "40 feet, swim 40 feet",
+ "speed_raw": "40 feet, swim 40 feet",
+ "spell_markdown": "",
+ "stealth": "15",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Perpetually cursed to hunger and failure, a culdewen plies waterways in search of appealing fish to catch—the bigger the better. Of course, this …",
+ "summary_markdown": "Perpetually cursed to hunger and failure, a culdewen plies waterways in search of appealing fish to catch—the bigger the better. Of course, this …",
+ "text": " Culdewen Perpetually cursed to hunger and failure, a culdewen plies waterways in search of appealing fish to catch—the bigger the better. Of course, this diminutive, emaciated fey calls every living creature a “fish.” Only other fey are exempt, and they tend to consider culdewens lost causes. A culdewen can never find satisfaction. Each time they catch a fish, a magical curse forces them to hunt for an appealing spot to dine—an island, cove, or abandoned dock or shack where they can eat in peace. By the time they arrive, their catch will be gone. Every time. Forever. A foul mood hovers over a culdewen, causing them to swear colorfully, smack things with their oar, and shake their tiny fists at the sky. Conversation with a culdewen is fruitless, as they talk in circles, speaking only of fishing and the weather. Capturing a “fish” gives a culdewen a rare moment of happiness; the culdewen capers and ululates, pleased with their catch, and rushes off to their boat. Recall Knowledge - Fey (Nature): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Culdewen Source Bestiary 2 pg. 57 2.0 Perception +15; low-light vision Languages Aquan, Common, Sylvan Skills Athletics +16, Deception +16, Intimidation +14, Nature +12, Sailing Lore +14, Stealth +15, Survival +16 Str +4 Dex +5 Con +1 Int -1 Wis +2 Cha +4 Culdewen's Curse (curse, enchantment, primal) A culdewen that captures a creature is compelled to immediately retreat to a secluded place to eat, typically journeying by boat. The travel to the secluded place always takes at least 1 day. Their captive is cursed to vanish on the journey—typically being lost in the water or consumed by aquatic creatures—and can be recovered only by a wish spell or similarly powerful magic. Items fish hook, oar (functions as mace) --- AC 25 Fort +14 Ref +18 Will +13 –2 status to all saves vs. curses HP 105 Weaknesses cold iron 5 --- Speed 40 feet, swim 40 feet Melee Single Action fish hook +17 (Trip), Damage 2d10+7 piercing plus hooked Melee Single Action oar +17 (Shove), Damage 2d6+7 bludgeoning Ranged Single Action fish hook +18 (thrown 30 feet), Damage 2d10+7 piercing plus hooked Hooked A creature struck by the culdewen's fish hook is skewered, taking 1d4 persistent bleed damage as long as the hook remains stuck in it. The fish hook can be removed if a creature Escapes (DC 25), pulling it free. Land the Fish Single Action Requirements A creature is hooked by the culdewen's fish hook and adjacent to the culdewen; Effect The culdewen hoists the creature over their shoulder, as though it weighs no more than a fish. Unless the creature is unable to act, the culdewen must attempt an Athletics check against the creature's Fortitude DC. On a success, the creature is restrained by the culdewen. Escaping from the restrained condition (DC 25) also allows a creature to remove the hook. While hoisting a creature, the culdewen gains a +20-foot status bonus to their Speeds and is compelled to escape with it (see culdewen's curse above). Reel In Single Action (Manipulate) The culdewen pulls the rope attached to their hook. If they have no creature hooked, the fish hook returns to the culdewen's hand. If a creature is hooked, the culdewen attempts an Athletics check against the creature's Fortitude DC, pulling it up to 30 feet closer on a success (60 feet on a critical success). Swear Single Action (Auditory, Curse, Enchantment, Primal) The culdewen unleashes a string of invectives. Each creature that hears them must attempt a DC 25 Will save, with the effects of mariner's curse and is then temporarily immune for 24 hours. Even on a failed save, the curse ends automatically after 1 day. The Curse of Crawley Jack The damnable curse of the culdewen traces back to the First World, when a bitter old culdewen named Crawley Jack poached a fish from the pool of a powerful fey noble. Short of temper and feeling vindictive, the noble doomed Crawley Jack's people to never consume another fish again. Yet their desire to eat fish never diminished. The curse's punishment is exacted in endless creative ways. A culdewen's catch might be rescued by merfolk, stolen by skum, eaten by nipping sharks, or carried away on a piece of driftwood when the culdewen's boat is destroyed in a storm or shipwreck. ",
+ "trait": [
+  "Amphibious",
+  "Fey",
+  "Uncommon",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Amphibious",
+  "Fey",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=591",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 5
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=272) 5",
+ "weakness_raw": " cold iron  5",
+ "will_save": 13,
+ "wisdom": 2
+}

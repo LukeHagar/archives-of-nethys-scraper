@@ -1,0 +1,99 @@
+{
+ "ac": 27,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Emotion Sense",
+  "Empathetic Response",
+  "Grabbing Trunk",
+  "Impale",
+  "Psychokinetic Trumpet",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-996",
+ "image": [
+  "/Images/Monsters/Teraphant.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Vudrani",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Vudrani](/Languages.aspx?ID=45); (can't speak any language)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Teraphant](/Monsters.aspx?ID=996)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThough teraphants may resemble an elephant from afar, teraphants lack the long incisors that mark other pachyderms. Instead, tusk-like horns grow from their forehead. Native to Vudra, teraphants are occasionally found in Jalmeray and Nex, brought as rare gifts for nobles.\n\n These placid herbivores' resonant psychic powers warn them against creatures approaching with ill intent. Faced with strong, sustained emotions, teraphants may find themselves responding in kind, which sometimes drive them into a fearsome rage against aggressive foes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Teraphant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Teraphant](/Monsters.aspx?ID=996)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 86</row>\n\n**Perception** +18; emotion sense 120 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Vudrani](/Languages.aspx?ID=45); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +20, [Intimidation](/Skills.aspx?ID=7) +18, [Survival](/Skills.aspx?ID=16) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +1\r\n\r\n**Con** +5\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Emotion Sense** ([emotion](/Traits.aspx?ID=60), [mental](/Traits.aspx?ID=106)) A teraphant can sense the emotions of creatures within 120 feet as an imprecise sense. Emotion sense is a precise sense against creatures under an [emotion](/Traits.aspx?ID=60) effect. A creature under the effects of [_calm emotions_](/Spells.aspx?ID=31) can't be noticed via emotion sense.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 175\n\n**Empathetic Response** <actions string=\"Reaction\" /> **Trigger** A creature within 60 feet of the teraphant is targeted by a spell or ability with the [emotion](/Traits.aspx?ID=60) trait; **Effect** The teraphant also benefits from the spell or effect, as though it were an additional target for 1 minute or until the triggering spell or ability ends.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 45 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhorn +20 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+9 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntrunk +20 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** grabbing trunk\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +20 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+9 bludgeoning\n\n**Grabbing Trunk**   A Medium or smaller creature hit by the teraphant's trunk is grabbed. If the teraphant moves, it can bring the grabbed creature along with it.\r\n\r\n**Impale** <actions string=\"Two Actions\" />  **Requirement** The teraphant has a creature grabbed; **Effect** The teraphant slams the creature onto one of its horns. The target must attempt a DC 27 Reflex save or suffer 3d6+9 piercing damage and 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) (6d6+18 piercing damage on a critical failure).\r\n\r\n**Psychokinetic Trumpet** <actions string=\"Two Actions\" />  The teraphant lets out a loud trumpet that deals 8d8 mental damage (DC 27 basic Will save) in a 30-foot cone. A creature that fails its save is also [pushed](/Rules.aspx?ID=451) 15 feet (30 feet on a critical failure). If a pushed creatures strikes a solid barrier, it takes 3d6 bludgeoning damage and stops. The teraphant can't use Psychokinetic Trumpet again for 1d4 rounds.\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Large or smaller, foot, DC 27\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Teraphant Hunters</title>\r\n\r\nFew things threaten teraphants other than the Vudrani hunters known as apathets. Apathets rely on emotion-deadening alchemical elixirs and spells to get close to their prey. Some apathets sell teraphant horns to those who believe their horns are the source of these creatures' psychic powers; others serve rajahs who wish to enslave a teraphant.\r\n\r\n</aside>",
+ "name": "Teraphant",
+ "npc": false,
+ "perception": 18,
+ "rarity": "uncommon",
+ "reflex_save": 14,
+ "release_date": "2020-08-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 86</row>\n\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 27\r\n\r\n**Fort** +20\r\n\r\n**Ref** +14\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThough teraphants may resemble an elephant from afar, teraphants lack the long incisors that mark other pachyderms. Instead, tusk-like horns grow …\r\n</summary>",
+ "sense": "emotion sense 120 feet,  low-light vision ",
+ "sense_markdown": "emotion sense 120 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +20",
+  "Intimidation +18",
+  "Survival +18"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +20, [Intimidation](/Skills.aspx?ID=7) +18, [Survival](/Skills.aspx?ID=16) +18",
+ "source": [
+  "Pathfinder #158: Sixty Feet Under"
+ ],
+ "source_raw": [
+  "Pathfinder #158: Sixty Feet Under pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 86</row>",
+ "speed": {
+  "land": 45,
+  "max": 45
+ },
+ "speed_markdown": "45 feet",
+ "speed_raw": "45 feet",
+ "spell_markdown": "",
+ "spoilers": "Agents of Edgewatch",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Though teraphants may resemble an elephant from afar, teraphants lack the long incisors that mark other pachyderms. Instead, tusk-like horns grow …",
+ "summary_markdown": "Though teraphants may resemble an elephant from afar, teraphants lack the long incisors that mark other pachyderms. Instead, tusk-like horns grow …",
+ "text": " Teraphant Though teraphants may resemble an elephant from afar, teraphants lack the long incisors that mark other pachyderms. Instead, tusk-like horns grow from their forehead. Native to Vudra, teraphants are occasionally found in Jalmeray and Nex, brought as rare gifts for nobles. These placid herbivores' resonant psychic powers warn them against creatures approaching with ill intent. Faced with strong, sustained emotions, teraphants may find themselves responding in kind, which sometimes drive them into a fearsome rage against aggressive foes. Recall Knowledge - Beast (Arcana, Nature): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Teraphant Source Pathfinder #158: Sixty Feet Under pg. 86 Perception +18; emotion sense 120 feet, low-light vision Languages Vudrani; (can't speak any language) Skills Athletics +20, Intimidation +18, Survival +18 Str +7 Dex +1 Con +5 Int -2 Wis +3 Cha +3 Emotion Sense (emotion, mental) A teraphant can sense the emotions of creatures within 120 feet as an imprecise sense. Emotion sense is a precise sense against creatures under an emotion effect. A creature under the effects of calm emotions can't be noticed via emotion sense. --- AC 27 Fort +20 Ref +14 Will +18 HP 175 Empathetic Response Reaction Trigger A creature within 60 feet of the teraphant is targeted by a spell or ability with the emotion trait; Effect The teraphant also benefits from the spell or effect, as though it were an additional target for 1 minute or until the triggering spell or ability ends. --- Speed 45 feet Melee Single Action horn +20 (reach 10 feet), Damage 3d6+9 piercing Melee Single Action trunk +20 (reach 15 feet), Damage grabbing trunk Melee Single Action foot +20 (reach 10 feet), Damage 3d10+9 bludgeoning Grabbing Trunk A Medium or smaller creature hit by the teraphant's trunk is grabbed. If the teraphant moves, it can bring the grabbed creature along with it. Impale Two Actions Requirement The teraphant has a creature grabbed; Effect The teraphant slams the creature onto one of its horns. The target must attempt a DC 27 Reflex save or suffer 3d6+9 piercing damage and 1d6 persistent bleed damage (6d6+18 piercing damage on a critical failure). Psychokinetic Trumpet Two Actions The teraphant lets out a loud trumpet that deals 8d8 mental damage (DC 27 basic Will save) in a 30-foot cone. A creature that fails its save is also pushed 15 feet (30 feet on a critical failure). If a pushed creatures strikes a solid barrier, it takes 3d6 bludgeoning damage and stops. The teraphant can't use Psychokinetic Trumpet again for 1d4 rounds. Trample Three Actions Large or smaller, foot, DC 27 Teraphant Hunters Few things threaten teraphants other than the Vudrani hunters known as apathets. Apathets rely on emotion-deadening alchemical elixirs and spells to get close to their prey. Some apathets sell teraphant horns to those who believe their horns are the source of these creatures' psychic powers; others serve rajahs who wish to enslave a teraphant. ",
+ "trait": [
+  "Beast",
+  "Uncommon",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=996",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 3
+}

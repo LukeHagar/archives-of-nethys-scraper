@@ -1,0 +1,92 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 4,
+ "creature_ability": [
+  "Carrion Fever",
+  "Projectile Vomit"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 50,
+ "hp_raw": "50",
+ "id": "creature-1362",
+ "image": [
+  "/Images/Monsters/VultureGiant.png"
+ ],
+ "immunity": [
+  "sickened"
+ ],
+ "immunity_markdown": "[sickened](/Conditions.aspx?ID=34)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Vulture](/Monsters.aspx?ID=1362)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRecognizable at a distance by their black feathers and bald necks, vultures drift along air currents looking for carrion to serve as their next meal. Often grouping in committees of four or five, these scavengers wheel above battles and plague-stricken towns, eager to feed. This feeding cycle plays an important role, especially in hot regions, as their particularly potent stomach acid neutralizes dangerous bacteria in their meals and thus removes it from the environment.\n\n A giant vulture has a wingspan of up to 25 feet across and weighs up to 600 pounds. Less common than their smaller cousins, they typically live in areas that support a number of megafauna species. While imposing and certainly dangerous when provoked, even giant vultures are not hostile by nature, preferring to feast on the kills of others. They are more likely to vomit their last meal as a distraction while they flee than to attack other creatures. However, during particularly lean times, starving groups of giant vultures might work in unison to make a meal of livestock.\n\n Giant vultures occasionally form parasitic relationships with larger creatures such as dragons or giants, picking at the remains of an unattended or forgotten meal. Crafters who use bones in their work have come to value this type of behavior. Flensing a creature properly is far slower than letting a committee of vultures strip the carcass and leave behind a clean skeleton. As food-motivated predators, younger vultures raised this way can be made to imprint upon owners, leading to a trend of keeping them as unusual pets.\n\n While not magical in nature, vulture talons are traditionally used as charms in healing and removing disease, stemming from an old belief that the raptors were immune to the filth in which they strode. While this belief isn't strictly true, vultures do have several unique adaptations to avoid common diseases that would take out predators or even other scavengers. Due to their size, giant vulture talons in particular are sometimes used to craft weapons in regions where other resources are scarce.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/VultureGiant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Giant Vulture](/Monsters.aspx?ID=1362)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 289</row>\n\n**Perception** +12; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 50\n\n**Immunities**\r\n[sickened](/Conditions.aspx?ID=34)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +10,\r\n**Damage** 1d10+5 piercing plus carrion fever\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +10 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d8+5 slashing\n\n**Carrion Fever**  ([Disease](/Traits.aspx?ID=46)) The [sickened](/Conditions.aspx?ID=34) condition from carrion fever can't be reduced while the affliction remains; **Saving Throw** DC 18 Fortitude; **Onset** 1 day; **Stage 1** sickened 1 and [fatigued](/Conditions.aspx?ID=15) (1 day); **Stage 2** sickened 1, slowed 1, and fatigued (1 day)\r\n\r\n**Projectile Vomit** <actions string=\"Single Action\" />  **Frequency** once per hour; **Effect** The giant vulture vomits up its last meal on a creature within 10 feet. The creature takes 3d6 acid damage with a DC 20 [basic](/Rules.aspx?ID=329) Fortitude save. On a failed save, the target is also [sickened 1](/Conditions.aspx?ID=34).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Divine Scavengers</title>\r\n\r\nDespite their reputation for being carriers of disease, vultures are revered in some cultures. In the hot climate of northern Garund, they provide a service by eating and carrying away corpses that spoil quickly in the harsh sun. Entities with vulture-like features appear in writings from ancient Osirion, standing watch over pharaohs in life and death. In less wholesome folklore, they can be seen as harbingers of death and decay, making them favored symbols among followers of [Lamashtu](/Deities.aspx?ID=11) and [Urgathoa](/Deities.aspx?ID=19).\r\n</aside>",
+ "name": "Giant Vulture",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 289</row>\n\n<row gap=\"medium\">\r\n**HP** 50\r\n\r\n**AC** 18\r\n\r\n**Fort** +13\r\n\r\n**Ref** +9\r\n\r\n**Will** +6\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRecognizable at a distance by their black feathers and bald necks, vultures drift along air currents looking for carrion to serve as their next meal. …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +10",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 289"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 289</row>",
+ "speed": {
+  "fly": 35,
+  "land": 10,
+  "max": 35
+ },
+ "speed_markdown": "10 feet, fly 35 feet",
+ "speed_raw": "10 feet, fly 35 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Recognizable at a distance by their black feathers and bald necks, vultures drift along air currents looking for carrion to serve as their next meal. …",
+ "summary_markdown": "Recognizable at a distance by their black feathers and bald necks, vultures drift along air currents looking for carrion to serve as their next meal. …",
+ "text": " Vulture Recognizable at a distance by their black feathers and bald necks, vultures drift along air currents looking for carrion to serve as their next meal. Often grouping in committees of four or five, these scavengers wheel above battles and plague-stricken towns, eager to feed. This feeding cycle plays an important role, especially in hot regions, as their particularly potent stomach acid neutralizes dangerous bacteria in their meals and thus removes it from the environment. A giant vulture has a wingspan of up to 25 feet across and weighs up to 600 pounds. Less common than their smaller cousins, they typically live in areas that support a number of megafauna species. While imposing and certainly dangerous when provoked, even giant vultures are not hostile by nature, preferring to feast on the kills of others. They are more likely to vomit their last meal as a distraction while they flee than to attack other creatures. However, during particularly lean times, starving groups of giant vultures might work in unison to make a meal of livestock. Giant vultures occasionally form parasitic relationships with larger creatures such as dragons or giants, picking at the remains of an unattended or forgotten meal. Crafters who use bones in their work have come to value this type of behavior. Flensing a creature properly is far slower than letting a committee of vultures strip the carcass and leave behind a clean skeleton. As food-motivated predators, younger vultures raised this way can be made to imprint upon owners, leading to a trend of keeping them as unusual pets. While not magical in nature, vulture talons are traditionally used as charms in healing and removing disease, stemming from an old belief that the raptors were immune to the filth in which they strode. While this belief isn't strictly true, vultures do have several unique adaptations to avoid common diseases that would take out predators or even other scavengers. Due to their size, giant vulture talons in particular are sometimes used to craft weapons in regions where other resources are scarce. Recall Knowledge - Animal (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Giant Vulture Source Bestiary 3 pg. 289 Perception +12; low-light vision Languages Skills Athletics +10, Stealth +9 Str +3 Dex +2 Con +4 Int -4 Wis +1 Cha -1 --- AC 18 Fort +13 Ref +9 Will +6 HP 50 Immunities sickened --- Speed 10 feet, fly 35 feet Melee Single Action beak +10, Damage 1d10+5 piercing plus carrion fever Melee Single Action talon +10 (Agile), Damage 1d8+5 slashing Carrion Fever (Disease) The sickened condition from carrion fever can't be reduced while the affliction remains; Saving Throw DC 18 Fortitude; Onset 1 day; Stage 1 sickened 1 and fatigued (1 day); Stage 2 sickened 1, slowed 1, and fatigued (1 day) Projectile Vomit Single Action Frequency once per hour; Effect The giant vulture vomits up its last meal on a creature within 10 feet. The creature takes 3d6 acid damage with a DC 20 basic Fortitude save. On a failed save, the target is also sickened 1. Divine Scavengers Despite their reputation for being carriers of disease, vultures are revered in some cultures. In the hot climate of northern Garund, they provide a service by eating and carrying away corpses that spoil quickly in the harsh sun. Entities with vulture-like features appear in writings from ancient Osirion, standing watch over pharaohs in life and death. In less wholesome folklore, they can be seen as harbingers of death and decay, making them favored symbols among followers of Lamashtu and Urgathoa. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1362",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 1
+}

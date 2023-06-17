@@ -1,0 +1,99 @@
+{
+ "ac": 17,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Terrifying Croak",
+  "Tongue Grab",
+  "Swamp Stride"
+ ],
+ "creature_family": "Boggard",
+ "creature_family_markdown": "[Boggard](/MonsterFamilies.aspx?ID=16)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 38,
+ "hp_raw": "38",
+ "id": "creature-55",
+ "image": [
+  "/Images/Monsters/Boggard_BoggardWarrior.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Boggard"
+ ],
+ "language_markdown": "[Boggard](/Languages.aspx?ID=27)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Boggard Warrior](/Monsters.aspx?ID=55)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBoggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who flee combat with a single-mindedness that seems almost supernatural.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Boggard_BoggardWarrior.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Boggard Warrior](/Monsters.aspx?ID=55)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Boggard\" url=\"/Traits.aspx?ID=209\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 44</row>\n\n**Perception** +8; darkvision\r\n\r\n**Languages**\r\n[Boggard](/Languages.aspx?ID=27)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +5, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +0\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Studded Leather Armor](/Armor.aspx?ID=5), [Javelin](/Weapons.aspx?ID=71) (3)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 38\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 25 feet; swamp stride\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclub +10,\r\n**Damage** 1d6+6 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntongue +10 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** Tongue Grab\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\njavelin +6 ([thrown 30 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nclub +6 ([thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+6 bludgeoning\n\n**Terrifying Croak** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The boggard warrior unleashes a terrifying croak. Any non-boggard within 30 feet becomes [_frightened 1_](/Conditions.aspx?ID=19) unless they succeed at a DC 18 Will save; those who critically succeed are temporarily immune for 1 minute.\r\n\r\n**Tongue Grab**   If the boggard warrior hits a creature with its tongue, that creature becomes [_grabbed_](/Conditions.aspx?ID=20) by the boggard. Unlike with a normal grab, the creature isn’t [_immobilized_](/Conditions.aspx?ID=24), but it can’t move beyond the reach of the boggard’s tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 3 slashing damage. Though this doesn’t deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week.\r\n\r\n**Swamp Stride**   A boggard warrior ignores difficult terrain caused by swamp terrain features.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-16\" />",
+ "name": "Boggard Warrior",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Boggard\" url=\"/Traits.aspx?ID=209\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 44</row>\r\n\r\n**Creature Family** [Boggard](/MonsterFamilies.aspx?ID=16)\r\n\r\n<row gap=\"medium\">\r\n**HP** 38\r\n\r\n**AC** 17\r\n\r\n**Fort** +10\r\n\r\n**Ref** +5\r\n\r\n**Will** +8\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBoggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Intimidation +5",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +5, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 44"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 44</row>",
+ "speed": {
+  "land": 20,
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "20 feet, swim 25 feet; swamp stride",
+ "speed_raw": "20 feet, swim 25 feet; swamp stride",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Boggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who …",
+ "summary_markdown": "Boggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who …",
+ "text": " Boggard Warrior Boggard warriors exalt in single combat, and prefer to fight alone so that none can contest their kills. They have been known to pursue enemies who flee combat with a single-mindedness that seems almost supernatural. Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Boggard Warrior Source Bestiary pg. 44 Perception +8; darkvision Languages Boggard Skills Athletics +8, Intimidation +5, Stealth +6 Str +4 Dex +0 Con +4 Int -1 Wis +2 Cha +1 Items Studded Leather Armor, Javelin (3) --- AC 17 Fort +10 Ref +5 Will +8 HP 38 --- Speed 20 feet, swim 25 feet; swamp stride Melee Single Action club +10, Damage 1d6+6 bludgeoning Melee Single Action tongue +10 (reach 10 feet), Damage Tongue Grab Ranged Single Action javelin +6 (thrown 30 feet), Damage 1d6+4 piercing Ranged Single Action club +6 (thrown 10 feet), Damage 1d6+6 bludgeoning Terrifying Croak Single Action (Auditory, Emotion, Fear, Mental) The boggard warrior unleashes a terrifying croak. Any non-boggard within 30 feet becomes frightened 1 unless they succeed at a DC 18 Will save; those who critically succeed are temporarily immune for 1 minute. Tongue Grab If the boggard warrior hits a creature with its tongue, that creature becomes grabbed by the boggard. Unlike with a normal grab, the creature isn’t immobilized , but it can’t move beyond the reach of the boggard’s tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 3 slashing damage. Though this doesn’t deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week. Swamp Stride A boggard warrior ignores difficult terrain caused by swamp terrain features. ",
+ "trait": [
+  "Amphibious",
+  "Boggard",
+  "Humanoid",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Boggard](/Traits.aspx?ID=209), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Amphibious",
+  "Boggard",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=55",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 2
+}

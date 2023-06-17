@@ -1,0 +1,108 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Dreadful Spite",
+  "Drain Life",
+  "Wight Spawn"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 235,
+ "hp_raw": "235 ( negative healing )",
+ "id": "creature-2116",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"\">[Wight Cultist](/Monsters.aspx?ID=2116)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 35\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 33\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 30\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Wight Cultist](/Monsters.aspx?ID=2116)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 34</row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +24, [Occultism](/Skills.aspx?ID=11) +17, [Stealth](/Skills.aspx?ID=15) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -1\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [ranseur](/Weapons.aspx?ID=35)_, platinum [religious symbol](/Equipment.aspx?ID=41) of Bokrug worth 150 gp\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 235\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Dreadful Spite** <actions string=\"Reaction\" /> **Trigger** The wight cultist is reduced to 0 Hit Points; **Effect** The wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike. A creature hit by this Strike is also [doomed 1](/Conditions.aspx?ID=9) for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_ranseur_ +26 ([Disarm](/Traits.aspx?ID=175), [Magical](/Traits.aspx?ID=103), [Reach](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+13 piercing plus drain life\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +25,\r\n**Damage** 3d6+13 bludgeoning plus drain life\r\n\r\n**Divine Innate Spells** DC 29\r\n- **Cantrips (6th)**\r\n[Daze](/Spells.aspx?ID=61), [Shield](/Spells.aspx?ID=280)\r\n- **3rd**\r\n[Paralyze](/Spells.aspx?ID=213) (at will)\r\n- **5th**\r\n[Confusion](/Spells.aspx?ID=48), [Downpour](/Spells.aspx?ID=417)\r\n- **6th**\r\n[Crushing Despair](/Spells.aspx?ID=57)\r\n\r\n**Drain Life**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When the wight damages a living creature with its claw or _ranseur_ Strike, the wight gains 12 temporary Hit Points and the creature must succeed at a DC 29 Fortitude save or become [drained 1](/Conditions.aspx?ID=10). Further damage dealt by the wight increases the amount of drain by 1 on a failed save, to a maximum of drained 4.\r\n\r\n**Wight Spawn**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) A living [humanoid](/Traits.aspx?ID=91) slain by a wight's claw or _ranseur_ Strike rises as a wight after 1d4 rounds. This wight spawn is under the command of the wight that killed it. It doesn't have drain life or wight spawn and becomes [clumsy 2](/Conditions.aspx?ID=3) for as long as it is a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains drain life and wight spawn, and is no longer clumsy\r\n\r\n</column>",
+ "name": "Wight Cultist",
+ "npc": false,
+ "perception": 22,
+ "rarity": "rare",
+ "reflex_save": 20,
+ "release_date": "2020-04-29",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 34</row>\n\n<row gap=\"medium\">\r\n**HP** 235 ( negative healing )\r\n\r\n**AC** 32\r\n\r\n**Fort** +24\r\n\r\n**Ref** +20\r\n\r\n**Will** +22\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Intimidation +24",
+  "Occultism +17",
+  "Stealth +22"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +24, [Occultism](/Skills.aspx?ID=11) +17, [Stealth](/Skills.aspx?ID=15) +22",
+ "source": [
+  "Pathfinder #154: Siege of the Dinosaurs"
+ ],
+ "source_raw": [
+  "Pathfinder #154: Siege of the Dinosaurs pg. 34"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 34</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Crushing Despair",
+  "Confusion",
+  "Downpour",
+  "Paralyze",
+  "Daze",
+  "Shield"
+ ],
+ "spell_markdown": "[Confusion](/Spells.aspx?ID=48), [Crushing Despair](/Spells.aspx?ID=57), [Daze](/Spells.aspx?ID=61), [Downpour](/Spells.aspx?ID=417), [Paralyze](/Spells.aspx?ID=213), [Shield](/Spells.aspx?ID=280)",
+ "spoilers": "Extinction Curse",
+ "stealth": "22",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Wight Cultist Recall Knowledge - Undead (Religion): DC 35 Unspecific Lore : DC 33 Specific Lore : DC 30 Wight Cultist Source Pathfinder #154: Siege of the Dinosaurs pg. 34 Perception +22; darkvision Languages Common Skills Athletics +25, Intimidation +24, Occultism +17, Stealth +22 Str +7 Dex +4 Con +6 Int -1 Wis +6 Cha +4 Items +1 striking ranseur , platinum religious symbol of Bokrug worth 150 gp --- AC 32 Fort +24 Ref +20 Will +22 HP 235 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Dreadful Spite Reaction Trigger The wight cultist is reduced to 0 Hit Points; Effect The wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike. A creature hit by this Strike is also doomed 1 for 1 minute. --- Speed 25 feet Melee Single Action ranseur +26 (Disarm, Magical, Reach), Damage 2d10+13 piercing plus drain life Melee Single Action claw +25, Damage 3d6+13 bludgeoning plus drain life Divine Innate Spells DC 29 - Cantrips (6th) Daze, Shield - 3rd Paralyze (at will) - 5th Confusion, Downpour - 6th Crushing Despair Drain Life (Divine, Necromancy) When the wight damages a living creature with its claw or ranseur Strike, the wight gains 12 temporary Hit Points and the creature must succeed at a DC 29 Fortitude save or become drained 1. Further damage dealt by the wight increases the amount of drain by 1 on a failed save, to a maximum of drained 4. Wight Spawn (Divine, Necromancy) A living humanoid slain by a wight's claw or ranseur Strike rises as a wight after 1d4 rounds. This wight spawn is under the command of the wight that killed it. It doesn't have drain life or wight spawn and becomes clumsy 2 for as long as it is a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains drain life and wight spawn, and is no longer clumsy ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Rare",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2116",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 22,
+ "wisdom": 6
+}

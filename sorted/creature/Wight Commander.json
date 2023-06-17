@@ -1,0 +1,114 @@
+{
+ "ac": 32,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Final Spite",
+  "Shield Block",
+  "Coordinated Strike",
+  "Drain Life",
+  "Spawn Wight Soldier",
+  "Tactical Direction"
+ ],
+ "creature_family": "Wight",
+ "creature_family_markdown": "[Wight](/MonsterFamilies.aspx?ID=163)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 220,
+ "hp_raw": "220 ( negative healing )",
+ "id": "creature-1917",
+ "image": [
+  "/Images/Monsters/Wight_WightCommander.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 5,
+ "language": [
+  "Common",
+  "Necril",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Wight Commander](/Monsters.aspx?ID=1917)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen the beloved leader of a military unit is raised as a wight, sometimes the spirits of their comrades return with them, creating a gestalt being of impeccable tactical acumen.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 35\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 33\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 30\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Wight_WightCommander.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Wight Commander](/Monsters.aspx?ID=1917)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Wight\" url=\"/Traits.aspx?ID=259\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 169</row>\n\n**Perception** +22; (+26 when rolling initiative) [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +24, [Intimidation](/Skills.aspx?ID=7) +25, [Warfare Lore](/Skills.aspx?ID=8) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +5\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[Full Plate](/Armor.aspx?ID=13), +1 [striking](/Equipment.aspx?ID=280) [longsword](/Weapons.aspx?ID=31), [standard-grade adamantine shield](/Equipment.aspx?ID=310) (Hardness 10, HP 40, BT 20)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 (34 with shield raised)\r\n\r\n**Fort** +24 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 220\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Final Spite** <actions string=\"Reaction\" /> ([auditory](/Traits.aspx?ID=16), [divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) **Trigger** The wight commander is reduced to 0 Hit Points; **Effect** The wight commander blows a battered war horn before being destroyed. The unnerving blast summons reinforcements, raising 1d4 corpses in a 200-foot emanation as [wights](/Monsters.aspx?ID=413).<br />**[Shield Block](/MonsterAbilities.aspx?ID=32)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_longsword_ +27 ([Magical](/Traits.aspx?ID=103), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 2d8+14 slashing plus drain life\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +26 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+14 slashing plus drain life\r\n\r\n**Divine Innate Spells** DC 29\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Coordinated Strike**   The wight commander flanks with an ally as long as the target is within both their reaches, even if commander and ally aren't on opposite sides.\r\n\r\n**Drain Life**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When the wight commander damages a living creature using an [unarmed](/Traits.aspx?ID=199) attack or their bound weapon, they gain 12 temporary Hit Points, and the creature must succeed at a DC 29 Fortitude save or become [drained 1](/Conditions.aspx?ID=10). Further damage dealt by the wight commander's unarmed and bound weapon attacks increases the value of the drained condition by 1 on a failed save, to a maximum of drained 4.\r\n\r\n**Spawn Wight Soldier**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) A living [humanoid](/Traits.aspx?ID=91) killed by a wight commander's weapon or claw Strike rises as a different wight spawn of the commander's level or lower (most often a [hunter wight spawn](/Monsters.aspx?ID=1915) or [prowler wight spawn](/Monsters.aspx?ID=1916)) after 1d4 rounds. This wight spawn is under the command of the wight commander that killed them. They don't have drain life or spawn wight and are [clumsy 2](/Conditions.aspx?ID=3) for as long as they're a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a fully autonomous wight; they regain their free will, gain drain life and spawn wight, and are no longer clumsy.\r\n\r\n**Tactical Direction** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16)) Each wight ally in a 30-foot emanation gains the [Attack of Opportunity](/MonsterAbilities.aspx?ID=3) reaction until the end of their next turn.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-163\" />",
+ "name": "Wight Commander",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 19,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Wight\" url=\"/Traits.aspx?ID=259\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 169</row>\r\n\r\n**Creature Family** [Wight](/MonsterFamilies.aspx?ID=163)\r\n\r\n<row gap=\"medium\">\r\n**HP** 220 ( negative healing )\r\n\r\n**AC** 32\r\n\r\n**Fort** +24\r\n\r\n**Ref** +19\r\n\r\n**Will** +21\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen the beloved leader of a military unit is raised as a wight, sometimes the spirits of their comrades return with them, creating a gestalt being …\r\n</summary>",
+ "sense": "(+26 when rolling initiative)  darkvision ",
+ "sense_markdown": "(+26 when rolling initiative) [darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +24",
+  "Intimidation +25",
+  "Warfare Lore +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +24, [Intimidation](/Skills.aspx?ID=7) +25, [Warfare Lore](/Skills.aspx?ID=8) +25",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 169"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 169</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Tongues"
+ ],
+ "spell_markdown": "[Tongues](/Spells.aspx?ID=340)",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "When the beloved leader of a military unit is raised as a wight, sometimes the spirits of their comrades return with them, creating a gestalt being …",
+ "summary_markdown": "When the beloved leader of a military unit is raised as a wight, sometimes the spirits of their comrades return with them, creating a gestalt being …",
+ "text": " Wight Commander When the beloved leader of a military unit is raised as a wight, sometimes the spirits of their comrades return with them, creating a gestalt being of impeccable tactical acumen. Recall Knowledge - Undead (Religion): DC 35 Unspecific Lore : DC 33 Specific Lore : DC 30 Wight Commander Source Book of the Dead pg. 169 Perception +22; (+26 when rolling initiative) darkvision Languages Common, Necril; tongues Skills Athletics +24, Intimidation +25, Warfare Lore +25 Str +6 Dex +3 Con +4 Int +5 Wis +3 Cha +3 Items Full Plate, +1 striking longsword, standard-grade adamantine shield (Hardness 10, HP 40, BT 20) --- AC 32 (34 with shield raised) Fort +24 Ref +19 Will +21 HP 220 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Attack of Opportunity Reaction Final Spite Reaction (auditory, divine, necromancy) Trigger The wight commander is reduced to 0 Hit Points; Effect The wight commander blows a battered war horn before being destroyed. The unnerving blast summons reinforcements, raising 1d4 corpses in a 200-foot emanation as wights. Shield Block Reaction --- Speed 25 feet Melee Single Action longsword +27 (Magical, versatile P), Damage 2d8+14 slashing plus drain life Melee Single Action claw +26 (Agile), Damage 2d8+14 slashing plus drain life Divine Innate Spells DC 29 - Constant (5th) Tongues Coordinated Strike The wight commander flanks with an ally as long as the target is within both their reaches, even if commander and ally aren't on opposite sides. Drain Life (Divine, Necromancy) When the wight commander damages a living creature using an unarmed attack or their bound weapon, they gain 12 temporary Hit Points, and the creature must succeed at a DC 29 Fortitude save or become drained 1. Further damage dealt by the wight commander's unarmed and bound weapon attacks increases the value of the drained condition by 1 on a failed save, to a maximum of drained 4. Spawn Wight Soldier (Divine, Necromancy) A living humanoid killed by a wight commander's weapon or claw Strike rises as a different wight spawn of the commander's level or lower (most often a hunter wight spawn or prowler wight spawn) after 1d4 rounds. This wight spawn is under the command of the wight commander that killed them. They don't have drain life or spawn wight and are clumsy 2 for as long as they're a wight spawn. If the creator of the wight spawn dies, the wight spawn becomes a fully autonomous wight; they regain their free will, gain drain life and spawn wight, and are no longer clumsy. Tactical Direction Two Actions (Auditory) Each wight ally in a 30-foot emanation gains the Attack of Opportunity reaction until the end of their next turn. ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "Wight",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160), [Wight](/Traits.aspx?ID=259)",
+ "trait_raw": [
+  "Rare",
+  "Undead",
+  "Wight"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1917",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 3
+}

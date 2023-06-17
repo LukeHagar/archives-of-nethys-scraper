@@ -1,0 +1,56 @@
+{
+ "ac": 25,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 28  Thievery  to disable the pressure plate",
+ "exclude_from_search": false,
+ "fortitude_save": 0,
+ "hardness": 6,
+ "hardness_raw": "6 Pressure Plate Hardness",
+ "hazard_type": "Trap",
+ "hp": 24,
+ "hp_raw": "24 (BT 12); <b>Iron Maiden</b> Hardness 12; <b>Iron Maiden</b> HP 46 (BT 23)",
+ "id": "hazard-380",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 8,
+ "markdown": "<title level=\"1\" right=\"Hazard 8\" pfs=\"\">[Iron Maiden Trap](/Hazards.aspx?ID=380)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 52</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA pressure plate hidden on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 30 (expert)\r\n\r\n**Disable**\r\nDC 28 [Thievery](/Skills.aspx?ID=17) to disable the pressure plate\n\n<column gap=\"tiny\">\r\n\r\n**AC** 25, **Fort** +0, **Ref** +0\r\n\r\n**Pressure Plate Hardness**\r\n6\r\n\r\n**Pressure Plate HP**\r\n24 (BT 12); **Iron Maiden** Hardness 12; **Iron Maiden** HP 46 (BT 23)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Slam Shut** <actions string=\"Reaction\" /> **Trigger** A creature steps onto the trap's pressure plate (indicated on the map); **Effect** The front of the iron maiden slams shut with incredible force and locks itself. The triggering creature takes 4d10+10 piercing damage and 2d6 [persistent bleed damage](/Conditions.aspx?ID=29) (DC 26 [basic](/Rules.aspx?ID=329) Reflex save; if the creature critically succeeds, they avoid the trap completely). The triggering creature is also [immobilized](/Conditions.aspx?ID=24). The victim can end their immobilization only once a creature outside the iron maiden unlocks the device (requiring two successful DC 28 Thievery checks to [Disable a Device](/Actions.aspx?ID=69)) or breaks the iron maiden, after which the trapped creature must succeed at a DC 25 check to [Escape](/Actions.aspx?ID=79) the trap's spike-lined interior.\n\n---\r\n**Reset**\r\nThe pressure plate must be reset manually.",
+ "name": "Iron Maiden Trap",
+ "rarity": "common",
+ "reflex_save": 0,
+ "release_date": "2020-08-26",
+ "reset": "The pressure plate must be reset manually.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 52</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA pressure plate hidden on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside.\r\n</summary>",
+ "source": [
+  "Pathfinder #158: Sixty Feet Under"
+ ],
+ "source_raw": [
+  "Pathfinder #158: Sixty Feet Under pg. 52"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 52</row>",
+ "speed": {},
+ "stealth": "DC 30 (expert)",
+ "summary": "A pressure plate hidden on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside.",
+ "summary_markdown": "A pressure plate hidden on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside.",
+ "text": " Iron Maiden Trap Source Pathfinder #158: Sixty Feet Under pg. 52 Complexity Simple A pressure plate hidden on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside. --- Stealth DC 30 (expert) Disable DC 28 Thievery to disable the pressure plate AC 25, Fort +0, Ref +0 Pressure Plate Hardness 6 Pressure Plate HP 24 (BT 12); Iron Maiden Hardness 12; Iron Maiden HP 46 (BT 23) Immunities critical hits, object immunities, precision damage Slam Shut Reaction Trigger A creature steps onto the trap's pressure plate (indicated on the map); Effect The front of the iron maiden slams shut with incredible force and locks itself. The triggering creature takes 4d10+10 piercing damage and 2d6 persistent bleed damage (DC 26 basic Reflex save; if the creature critically succeeds, they avoid the trap completely). The triggering creature is also immobilized. The victim can end their immobilization only once a creature outside the iron maiden unlocks the device (requiring two successful DC 28 Thievery checks to Disable a Device) or breaks the iron maiden, after which the trapped creature must succeed at a DC 25 check to Escape the trap's spike-lined interior. --- Reset The pressure plate must be reset manually.",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=380",
+ "weakness": {}
+}

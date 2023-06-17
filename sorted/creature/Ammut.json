@@ -1,0 +1,121 @@
+{
+ "ac": 41,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 9,
+ "creature_ability": [
+  "Breath Weapon",
+  "Devour Soul",
+  "Fast Swallow",
+  "Swallow Whole",
+  "Wasting Wound"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 35,
+ "hp": 350,
+ "hp_raw": "350",
+ "id": "creature-872",
+ "image": [
+  "/Images/Monsters/Ammut.png"
+ ],
+ "immunity": [
+  "evil"
+ ],
+ "immunity_markdown": "evil",
+ "intelligence": 3,
+ "language": [
+  "Celestial",
+  "Infernal",
+  "<%UMR%37%%>telepathy 100 feet<%END>"
+ ],
+ "language_markdown": "[Celestial](/Languages.aspx?ID=16), [Infernal](/Languages.aspx?ID=19); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ammut](/Monsters.aspx?ID=872)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese chimeric, desert-dwelling fiends have massive bodies that are part hippopotamus, part large cat, and part crocodile. Though they devour souls for sustenance, ammuts are infamously picky eaters; most will only eat experienced adventurers or, for a special treat, particularly evil creatures, passing over common folk or those whose mettle has never been tested. \n\nOnly a few ammuts are known to exist, and most dwell in Osirion. However, recent expeditions into Orv's Vault of the Black Desert have uncovered the existence of ammuts in this region, as well.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 43\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 41\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 38\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ammut.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Ammut](/Monsters.aspx?ID=872)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 77</row>\n\n**Perception** +33; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Celestial](/Languages.aspx?ID=16), [Infernal](/Languages.aspx?ID=19); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +34, [Intimidation](/Skills.aspx?ID=7) +33, [Occultism](/Skills.aspx?ID=11) +29, [Religion](/Skills.aspx?ID=13) +32, [Stealth](/Skills.aspx?ID=15) +35\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +7\r\n\r\n**Con** +9\r\n\r\n**Int** +3\r\n\r\n**Wis** +6\r\n\r\n**Cha** +7\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 41 \r\n\r\n**Fort** +35 \r\n\r\n**Ref** +27 \r\n\r\n**Will** +28 \n\n</row>\r\n\r\n**HP** 350\n\n**Immunities**\r\nevil\r\n\r\n**Resistances**\r\nfire 20, poison 20\r\n\r\n**Weaknesses**\r\ngood 20\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet, burrow 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +32 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+16 slashing plus wasting wound\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +30 ([deadly d10](/Traits.aspx?ID=174)),\r\n**Damage** 4d8+12 plus [stunned 1](/Conditions.aspx?ID=36) (DC 38 Fortitude negates)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +32 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+16 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Divine Innate Spells** DC 37\r\n- **6th**\r\n[Dominate](/Spells.aspx?ID=87)\r\n- **Constant (6th)**\r\n[Detect Alignment](/Spells.aspx?ID=65) (evil only), [True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Curse](/Traits.aspx?ID=38), [Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) The ammut exhales a blast of flame that deals 18d6 fire damage to all creatures in a 30- foot cone (DC 37 basic Reflex save). The ammut can't use their Breath Weapon again for 1d4 rounds.\r\n\r\n**Devour Soul**  ([Curse](/Traits.aspx?ID=38), [Death](/Traits.aspx?ID=40), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) A creature whose HP drops to 0 while swallowed by an ammut has its soul consumed, as well as its body. The creature dies instantly and cannot be brought back to life except by [_miracle_](/Spells.aspx?ID=196), [_wish_](/Spells.aspx?ID=377), or similar magic.\r\n\r\n**Fast Swallow** <actions string=\"Reaction\" />  **Trigger** The ammut [Grabs](/MonsterAbilities.aspx?ID=18) a creature; **Effect** The ammut uses Swallow Whole.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" />  Large, 3d12+8 bludgeoning, Rupture 32\r\n\r\n**Wasting Wound**  ([Curse](/Traits.aspx?ID=38), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) A creature dealt damage by an ammut's claw Strike must succeed at a DC 37 Will save or become [enfeebled 1](/Conditions.aspx?ID=13) and [drained 1](/Conditions.aspx?ID=10) (or enfeebled 2 and drained 2 on a critical failed save). The conditions cannot be mitigated until the curse is removed, and the curse cannot be removed until all damage dealt by the claw Strike is healed. Each day, a creature afflicted with wasting wound must attempt another saving throw; on a failed save, the values of its enfeebled and drained conditions each increase by 1. If the victim dies while cursed, its soul is destroyed, as per the ammut's devour soul ability.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Ammut Diet</title>\r\n\r\nIn an article published in volume 36 of the _Pathfinder Chronicles_, Tarana Geshepalamori recounts surviving an ammut attack after the beast dismissed her as “a bland soul.” She subsequently interviewed the fiend, who shared that an ammut “tastes” souls in much the same way a chef tastes the elements of a dish; the most delectable souls are those that have faced (or, especially, inflicted) great suffering and evil.\r\n</aside>",
+ "name": "Ammut",
+ "npc": false,
+ "perception": 33,
+ "rarity": "rare",
+ "reflex_save": 27,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "fire": 20,
+  "poison": 20
+ },
+ "resistance_markdown": "fire 20, poison 20",
+ "resistance_raw": "fire 20, poison 20",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 77</row>\n\n<row gap=\"medium\">\r\n**HP** 350\r\n\r\n**AC** 41\r\n\r\n**Fort** +35\r\n\r\n**Ref** +27\r\n\r\n**Will** +28\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese chimeric, desert-dwelling fiends have massive bodies that are part hippopotamus, part large cat, and part crocodile. Though they devour souls …\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 30 feet ,   true seeing  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +34",
+  "Intimidation +33",
+  "Occultism +29",
+  "Religion +32",
+  "Stealth +35"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +34, [Intimidation](/Skills.aspx?ID=7) +33, [Occultism](/Skills.aspx?ID=11) +29, [Religion](/Skills.aspx?ID=13) +32, [Stealth](/Skills.aspx?ID=15) +35",
+ "source": [
+  "Pathfinder #155: Lord of the Black Sands"
+ ],
+ "source_raw": [
+  "Pathfinder #155: Lord of the Black Sands pg. 77"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 77</row>",
+ "speed": {
+  "burrow": 30,
+  "land": 50,
+  "max": 50
+ },
+ "speed_markdown": "50 feet, burrow 30 feet",
+ "speed_raw": "50 feet, burrow 30 feet",
+ "spell": [
+  "Dominate",
+  "Detect Alignment",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Detect Alignment](/Spells.aspx?ID=65), [Dominate](/Spells.aspx?ID=87), [True Seeing](/Spells.aspx?ID=344)",
+ "spoilers": "Extinction Curse",
+ "stealth": "35",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "These chimeric, desert-dwelling fiends have massive bodies that are part hippopotamus, part large cat, and part crocodile. Though they devour souls …",
+ "summary_markdown": "These chimeric, desert-dwelling fiends have massive bodies that are part hippopotamus, part large cat, and part crocodile. Though they devour souls …",
+ "text": " Ammut These chimeric, desert-dwelling fiends have massive bodies that are part hippopotamus, part large cat, and part crocodile. Though they devour souls for sustenance, ammuts are infamously picky eaters; most will only eat experienced adventurers or, for a special treat, particularly evil creatures, passing over common folk or those whose mettle has never been tested. Only a few ammuts are known to exist, and most dwell in Osirion. However, recent expeditions into Orv's Vault of the Black Desert have uncovered the existence of ammuts in this region, as well. Recall Knowledge - Fiend (Religion): DC 43 Unspecific Lore : DC 41 Specific Lore : DC 38 Ammut Source Pathfinder #155: Lord of the Black Sands pg. 77 Perception +33; darkvision, scent (imprecise) 30 feet, true seeing Languages Celestial, Infernal; telepathy 100 feet Skills Athletics +34, Intimidation +33, Occultism +29, Religion +32, Stealth +35 Str +8 Dex +7 Con +9 Int +3 Wis +6 Cha +7 --- AC 41 Fort +35 Ref +27 Will +28 HP 350 Immunities evil Resistances fire 20, poison 20 Weaknesses good 20 --- Speed 50 feet, burrow 30 feet Melee Single Action claw +32 (Agile, reach 10 feet), Damage 3d8+16 slashing plus wasting wound Melee Single Action foot +30 (deadly d10), Damage 4d8+12 plus stunned 1 (DC 38 Fortitude negates) Melee Single Action jaws +32 (reach 15 feet), Damage 3d12+16 piercing plus Improved Grab Divine Innate Spells DC 37 - 6th Dominate - Constant (6th) Detect Alignment (evil only), True Seeing Breath Weapon Two Actions (Curse, Divine, Evocation, Fire) The ammut exhales a blast of flame that deals 18d6 fire damage to all creatures in a 30- foot cone (DC 37 basic Reflex save). The ammut can't use their Breath Weapon again for 1d4 rounds. Devour Soul (Curse, Death, Divine, Necromancy) A creature whose HP drops to 0 while swallowed by an ammut has its soul consumed, as well as its body. The creature dies instantly and cannot be brought back to life except by miracle , wish , or similar magic. Fast Swallow Reaction Trigger The ammut Grabs a creature; Effect The ammut uses Swallow Whole. Swallow Whole Single Action Large, 3d12+8 bludgeoning, Rupture 32 Wasting Wound (Curse, Divine, Necromancy) A creature dealt damage by an ammut's claw Strike must succeed at a DC 37 Will save or become enfeebled 1 and drained 1 (or enfeebled 2 and drained 2 on a critical failed save). The conditions cannot be mitigated until the curse is removed, and the curse cannot be removed until all damage dealt by the claw Strike is healed. Each day, a creature afflicted with wasting wound must attempt another saving throw; on a failed save, the values of its enfeebled and drained conditions each increase by 1. If the victim dies while cursed, its soul is destroyed, as per the ammut's devour soul ability. Ammut Diet In an article published in volume 36 of the Pathfinder Chronicles , Tarana Geshepalamori recounts surviving an ammut attack after the beast dismissed her as “a bland soul.” She subsequently interviewed the fiend, who shared that an ammut “tastes” souls in much the same way a chef tastes the elements of a dish; the most delectable souls are those that have faced (or, especially, inflicted) great suffering and evil. ",
+ "trait": [
+  "Fiend",
+  "Rare",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Fiend",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=872",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "good": 20
+ },
+ "weakness_markdown": "good 20",
+ "weakness_raw": "good 20",
+ "will_save": 28,
+ "wisdom": 6
+}

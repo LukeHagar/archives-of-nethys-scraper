@@ -1,0 +1,114 @@
+{
+ "ac": 25,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Light Blindness",
+  "Deft Evasion",
+  "Hunter's Wound",
+  "Skirmish Strike"
+ ],
+ "creature_family": "Drow",
+ "creature_family_markdown": "[Drow](/MonsterFamilies.aspx?ID=37)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 115,
+ "hp_raw": "115",
+ "id": "creature-1386",
+ "image": [
+  "/Images/Monsters/Drow_DrowHunter.png"
+ ],
+ "immunity": [
+  "sleep"
+ ],
+ "immunity_markdown": "[sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "Elven",
+  "Undercommon"
+ ],
+ "language_markdown": "[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Drow Hunter](/Monsters.aspx?ID=1386)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nHunters seek out game to keep drow communities fed and functioning.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drow_DrowHunter.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Drow Hunter](/Monsters.aspx?ID=1386)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 82</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14, [Nature](/Skills.aspx?ID=10) +14, [Stealth](/Skills.aspx?ID=15) +15, [Survival](/Skills.aspx?ID=16) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)**\r\n\r\n**Items**\r\n[Chain Shirt](/Armor.aspx?ID=6), _+1 [composite longbow](/Weapons.aspx?ID=74)_ (20 arrows), [Longsword](/Weapons.aspx?ID=31)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +14 \r\n\r\n+1 status to all saves vs. magic, +2 status to all saves vs. [mental](/Traits.aspx?ID=106)\r\n</row>\r\n\r\n**HP** 115\n\n**Immunities**\r\n[sleep](/Traits.aspx?ID=145)\n\n**Deft Evasion** When the hunter rolls a success on a Reflex save, they get a critical success instead.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongsword +16 ([versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d8+7 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncomposite longbow +18 ([deadly d10](/Traits.aspx?ID=174), [Propulsive](/Traits.aspx?ID=191), [range increment 100 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 1d8+7 piercing\r\n\r\n**Divine Innate Spells** DC 23\r\n- **Cantrips (4th)**\r\n[Dancing Lights](/Spells.aspx?ID=58)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59) (at will), [Faerie Fire](/Spells.aspx?ID=107) (at will)\r\n\r\n**Hunter's Wound** <actions string=\"Single Action\" />  **Frequency** once per round; **Prerequisites** The hunter is wielding a ranged weapon with a reload of 0; **Effect** The hunter makes two ranged Strikes against their prey. If both hit and deal damage, the target takes an additional 1d8 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n\r\n**Skirmish Strike** <actions string=\"Single Action\" />  The hunter can [Step](/Actions.aspx?ID=87) and then [Strike](/Actions.aspx?ID=89), or Strike and then Step.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-37\" />",
+ "name": "Drow Hunter",
+ "npc": false,
+ "perception": 16,
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 82</row>\r\n\r\n**Creature Family** [Drow](/MonsterFamilies.aspx?ID=37)\r\n\r\n<row gap=\"medium\">\r\n**HP** 115\r\n\r\n**AC** 25\r\n\r\n**Fort** +15\r\n\r\n**Ref** +15\r\n\r\n**Will** +14\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHunters seek out game to keep drow communities fed and functioning.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +14",
+  "Nature +14",
+  "Stealth +15",
+  "Survival +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14, [Nature](/Skills.aspx?ID=10) +14, [Stealth](/Skills.aspx?ID=15) +15, [Survival](/Skills.aspx?ID=16) +16",
+ "source": [
+  "Pathfinder #165: Eyes of Empty Death"
+ ],
+ "source_raw": [
+  "Pathfinder #165: Eyes of Empty Death pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 82</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Darkness",
+  "Faerie Fire",
+  "Dancing Lights"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Darkness](/Spells.aspx?ID=59), [Faerie Fire](/Spells.aspx?ID=107)",
+ "spoilers": "Abomination Vaults",
+ "stealth": "15",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "Hunters seek out game to keep drow communities fed and functioning.",
+ "summary_markdown": "Hunters seek out game to keep drow communities fed and functioning.",
+ "text": " Drow Hunter Hunters seek out game to keep drow communities fed and functioning. Recall Knowledge - Humanoid (Society): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Drow Hunter Source Pathfinder #165: Eyes of Empty Death pg. 82 Perception +16; darkvision Languages Elven, Undercommon Skills Athletics +14, Nature +14, Stealth +15, Survival +16 Str +3 Dex +4 Con +2 Int +0 Wis +3 Cha +1 Light Blindness Items Chain Shirt, +1 composite longbow (20 arrows), Longsword --- AC 25 Fort +15 Ref +15 Will +14 +1 status to all saves vs. magic, +2 status to all saves vs. mental HP 115 Immunities sleep Deft Evasion When the hunter rolls a success on a Reflex save, they get a critical success instead. --- Speed 30 feet Melee Single Action longsword +16 (versatile P), Damage 1d8+7 slashing Ranged Single Action composite longbow +18 (deadly d10, Propulsive, range increment 100 feet, reload 0, volley 30 feet), Damage 1d8+7 piercing Divine Innate Spells DC 23 - Cantrips (4th) Dancing Lights - 2nd Darkness (at will), Faerie Fire (at will) Hunter's Wound Single Action Frequency once per round; Prerequisites The hunter is wielding a ranged weapon with a reload of 0; Effect The hunter makes two ranged Strikes against their prey. If both hit and deal damage, the target takes an additional 1d8 persistent bleed damage. Skirmish Strike Single Action The hunter can Step and then Strike, or Strike and then Step. ",
+ "trait": [
+  "Drow",
+  "Elf",
+  "Humanoid",
+  "Uncommon",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Drow](/Traits.aspx?ID=51), [Elf](/Traits.aspx?ID=58), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Drow",
+  "Elf",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1386",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 3
+}

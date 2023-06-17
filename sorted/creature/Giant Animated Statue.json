@@ -1,0 +1,110 @@
+{
+ "ac": 26,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 6,
+ "creature_ability": [
+  "Construct Armor",
+  "Brazier",
+  "Burn Alive"
+ ],
+ "creature_family": "Animated Object",
+ "creature_family_markdown": "[Animated Object](/MonsterFamilies.aspx?ID=4)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hardness": 10,
+ "hardness_raw": "10",
+ "hp": 100,
+ "hp_raw": "100",
+ "id": "creature-22",
+ "image": [
+  "/Images/Monsters/AnimatedObject_GiantAnimatedStatue.png"
+ ],
+ "immunity": [
+  "bleed",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Animated Statue](/Monsters.aspx?ID=22)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAs with any humanoid animated statues of Medium size, giant animated statues are used to guard locations of importance, but their increased size and power make them most useful in large vaults, spacious chambers, or outdoor locations. Animated objects of this strength and size are ideal for tasks and responsibilities usually performed by golems, and more powerful animated objects are thus all but unheard of.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/AnimatedObject_GiantAnimatedStatue.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Giant Animated Statue](/Monsters.aspx?ID=22)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 21</row>\n\n**Perception** +13; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** -1\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 (22 when broken); construct armor\r\n\r\n**Fort** +17 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 100\n\n**Immunities**\r\nbleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Construct Armor** Like normal objects, a giant animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a giant animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 22.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstone fist +19 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d12+6 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nflaming coal +12 ([Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103), [range increment 80 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+6 bludgeoning and 2d8 fire\n\n**Brazier**   The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 fire damage.\r\n\r\n**Burn Alive** <actions string=\"Single Action\" /> ([Fire](/Traits.aspx?ID=72)) The statue grinds a creature it has grabbed into the red-hot coals of its brazier. The target takes 3d8 fire damage and 1d8 persistent fire damage.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-4\" />",
+ "name": "Giant Animated Statue",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 21</row>\r\n\r\n**Creature Family** [Animated Object](/MonsterFamilies.aspx?ID=4)\r\n\r\n<row gap=\"medium\">\r\n**HP** 100\r\n\r\n**AC** 26\r\n\r\n**Fort** +17\r\n\r\n**Ref** +10\r\n\r\n**Will** +9\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs with any humanoid animated statues of Medium size, giant animated statues are used to guard locations of importance, but their increased size and …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +17",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 21"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 21</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "As with any humanoid animated statues of Medium size, giant animated statues are used to guard locations of importance, but their increased size and …",
+ "summary_markdown": "As with any humanoid animated statues of Medium size, giant animated statues are used to guard locations of importance, but their increased size and …",
+ "text": " Giant Animated Statue As with any humanoid animated statues of Medium size, giant animated statues are used to guard locations of importance, but their increased size and power make them most useful in large vaults, spacious chambers, or outdoor locations. Animated objects of this strength and size are ideal for tasks and responsibilities usually performed by golems, and more powerful animated objects are thus all but unheard of. Recall Knowledge - Construct (Arcana, Crafting): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Giant Animated Statue Source Bestiary pg. 21 Perception +13; darkvision Languages Skills Athletics +17 Str +6 Dex -1 Con +6 Int -5 Wis +0 Cha -5 --- AC 26 (22 when broken); construct armor Fort +17 Ref +10 Will +9 HP 100 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Construct Armor Like normal objects, a giant animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a giant animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 22. --- Speed 30 feet Melee Single Action stone fist +19 (Magical), Damage 2d12+6 bludgeoning plus Grab Ranged Single Action flaming coal +12 (Fire, Magical, range increment 80 feet), Damage 2d6+6 bludgeoning and 2d8 fire Brazier The statue carries a wide brazier full of hot coals. To make flaming coal Strikes or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 fire damage. Burn Alive Single Action (Fire) The statue grinds a creature it has grabbed into the red-hot coals of its brazier. The target takes 3d8 fire damage and 1d8 persistent fire damage. ",
+ "trait": [
+  "Construct",
+  "Earth",
+  "Mindless",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Earth](/Traits.aspx?ID=55), [Mindless](/Traits.aspx?ID=108)",
+ "trait_raw": [
+  "Construct",
+  "Earth",
+  "Mindless"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=22",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 0
+}

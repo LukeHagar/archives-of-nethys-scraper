@@ -1,0 +1,92 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 1,
+ "creature_ability": [
+  "Doctor's Hand",
+  "Medical Malpractice"
+ ],
+ "creature_family": "Healers",
+ "creature_family_markdown": "[Healers](/MonsterFamilies.aspx?ID=187)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-910",
+ "image": [
+  "/Images/NPCs/Healer_Surgeon.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Surgeon](/NPCs.aspx?ID=910)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe surgeon specializes in the physical alteration of the body to prevent the spread of disease, removing necrotic and decaying flesh to help the whole to survive. Few healers know the science of anatomy and physiology better than the surgeon. While their expertise is of grave importance in the medical world, the downside is that when one is in need of their talents, it is likely the complaint is serious. In medical matters, a surgeon is a 6th-level challenge.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/NPCs/Healer_Surgeon.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Surgeon](/NPCs.aspx?ID=910)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 221</row>\n\n**Perception** +14\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Crafting](/Skills.aspx?ID=4) +10, [Diplomacy](/Skills.aspx?ID=6) +8, [Medicine](/Skills.aspx?ID=9) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** +2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Doctor's Hand** When the surgeon rolls a critical failure on a check to [Treat Disease](/Actions.aspx?ID=55), [Treat Poison](/Actions.aspx?ID=56), or [Treat Wounds](/Actions.aspx?ID=57), they get a failure instead.\r\n\r\n**Items**\r\n[Healer's Tools](/Equipment.aspx?ID=25), scalpel\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 30\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nscalpel +11 ([Agile](/Traits.aspx?ID=170), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+1 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nscalpel +11 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+1 slashing\n\n**Medical Malpractice** <actions string=\"Single Action\" />  The surgeon attempts a [Medicine](/Skills.aspx?ID=9) check against the Fortitude DC of one living creature they can see within 60 feet. On a success, the surgeon's melee Strikes deal an extra 1d6 precision damage against that creature (2d6 on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first. Using this action again designates a new target and ends the effect for any previous target. A surgeon can target an individual creature no more than once per day with this ability.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-187\" />",
+ "name": "Surgeon",
+ "npc": true,
+ "perception": 14,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 221</row>\r\n\r\n**Creature Family** [Healers](/MonsterFamilies.aspx?ID=187)\r\n\r\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 17\r\n\r\n**Fort** +7\r\n\r\n**Ref** +7\r\n\r\n**Will** +10\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe surgeon specializes in the physical alteration of the body to prevent the spread of disease, removing necrotic and decaying flesh to help the …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Crafting +10",
+  "Diplomacy +8",
+  "Medicine +16"
+ ],
+ "skill_markdown": "[Crafting](/Skills.aspx?ID=4) +10, [Diplomacy](/Skills.aspx?ID=6) +8, [Medicine](/Skills.aspx?ID=9) +16",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 221"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 221</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 1,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The surgeon specializes in the physical alteration of the body to prevent the spread of disease, removing necrotic and decaying flesh to help the …",
+ "summary_markdown": "The surgeon specializes in the physical alteration of the body to prevent the spread of disease, removing necrotic and decaying flesh to help the …",
+ "text": " Surgeon The surgeon specializes in the physical alteration of the body to prevent the spread of disease, removing necrotic and decaying flesh to help the whole to survive. Few healers know the science of anatomy and physiology better than the surgeon. While their expertise is of grave importance in the medical world, the downside is that when one is in need of their talents, it is likely the complaint is serious. In medical matters, a surgeon is a 6th-level challenge. Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Surgeon Source Gamemastery Guide pg. 221 Perception +14 Languages Common Skills Crafting +10, Diplomacy +8, Medicine +16 Str +1 Dex +3 Con +1 Int +2 Wis +4 Cha +0 Doctor's Hand When the surgeon rolls a critical failure on a check to Treat Disease, Treat Poison, or Treat Wounds, they get a failure instead. Items Healer's Tools, scalpel --- AC 17 Fort +7 Ref +7 Will +10 HP 30 --- Speed 25 feet Melee Single Action scalpel +11 (Agile, versatile P), Damage 1d4+1 slashing Ranged Single Action scalpel +11 (Agile, thrown 10 feet, versatile P), Damage 1d4+1 slashing Medical Malpractice Single Action The surgeon attempts a Medicine check against the Fortitude DC of one living creature they can see within 60 feet. On a success, the surgeon's melee Strikes deal an extra 1d6 precision damage against that creature (2d6 on a critical success) until 1 minute passes or the surgeon critically hits that creature, whichever comes first. Using this action again designates a new target and ends the effect for any previous target. A surgeon can target an individual creature no more than once per day with this ability. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=910",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 4
+}

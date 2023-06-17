@@ -1,0 +1,105 @@
+{
+ "ac": 44,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 6,
+ "creature_ability": [
+  "Planar Acclimation",
+  "Confusing Gaze",
+  "Quick Recovery",
+  "Attack of Opportunity",
+  "Focus Gaze",
+  "Frumious Charge",
+  "Lash Out",
+  "Pain",
+  "Relentless Tracker"
+ ],
+ "creature_family": "Bandersnatch",
+ "creature_family_markdown": "[Bandersnatch](/MonsterFamilies.aspx?ID=324)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 35,
+ "hp": 395,
+ "hp_raw": "395 ( fast healing 15 )",
+ "id": "creature-2205",
+ "image": [
+  "/Images/Monsters/PrimalBandersnatch.png"
+ ],
+ "immunity": [
+  "confused"
+ ],
+ "immunity_markdown": "[confused](/Conditions.aspx?ID=5)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"\">[Primal Bandersnatch](/Monsters.aspx?ID=2205)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nPrimal bandersnatches are among the most powerful of their kind, due to their ties to the [First World](/Planes.aspx?ID=10).\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 39\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 37\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 34\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/PrimalBandersnatch.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Primal Bandersnatch](/Monsters.aspx?ID=2205)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Tane\" url=\"/Traits.aspx?ID=312\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 610</row>\n\n**Perception** +33; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (precise) 120 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +33, [Athletics](/Skills.aspx?ID=3) +37, [Intimidation](/Skills.aspx?ID=7) +36, [Stealth](/Skills.aspx?ID=15) +36, [Survival](/Skills.aspx?ID=16) +31\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +6\r\n\r\n**Con** +6\r\n\r\n**Int** -4\r\n\r\n**Wis** +6\r\n\r\n**Cha** +6\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 44 \r\n\r\n**Fort** +35 \r\n\r\n**Ref** +33 \r\n\r\n**Will** +31 \r\n\r\n+1 status to all saves vs. [magic](/Traits.aspx?ID=103)\r\n</row>\r\n\r\n**HP** 395\r\n([fast healing 15](/MonsterAbilities.aspx?ID=15))\n\n**Immunities**\r\n[confused](/Conditions.aspx?ID=5)\n\n**Planar Acclimation** The bandersnatch treats the plane it is on as its home plane.<br />**Confusing Gaze** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [mental](/Traits.aspx?ID=106), [primal](/Traits.aspx?ID=134)) 30 feet. When a creature ends its turn in the aura, it must succeed at a DC 38 Will save or become [confused](/Conditions.aspx?ID=5) for 1 round.<br />**Quick Recovery** The bandersnatch recovers with frightening speed. At the end of its turn, it reduces the value of one debilitating condition it suffers (with the exception of [dying](/Conditions.aspx?ID=11)) by 1. If it's [blinded](/Conditions.aspx?ID=1), [dazzled](/Conditions.aspx?ID=7), [deafened](/Conditions.aspx?ID=8), [fatigued](/Conditions.aspx?ID=15), [fleeing](/Conditions.aspx?ID=17), or [petrified](/Conditions.aspx?ID=30), it can instead succeed at a DC 16 flat check to end one of these conditions of its choice; it can't use quick recovery on other conditions that lack values.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> Tail only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +37 ([Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+18 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +37 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+18 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +37 ([deadly d12](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d4+18 piercing plus pain\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nquill +33 ([range increment 100 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d4+18 piercing plus pain\n\n**Focus Gaze** <actions string=\"Single Action\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The bandersnatch fixes its gaze at a creature it can see within 30 feet. The target must immediately attempt a Will save against the bandersnatch's confusing gaze. After attempting the save, the creature is temporarily immune to a bandersnatch's Confusing Gaze gaze until the start of the bandersnatch's next turn.\r\n\r\n**Frumious Charge** <actions string=\"Two Actions\" />  The bandersnatch Strides, ignoring difficult terrain, then makes two claw Strikes at the end of its movement.\r\n\r\n**Lash Out**   At the start of its turn, the bandersnatch gains an additional reaction that can be used only to attempt an Attack of Opportunity.\r\n\r\n**Pain**   A bandersnatch's quills create exceptionally painful wounds. The wounded creature must succeed at a DC 41 Fortitude save to resist becoming [drained 1](/Conditions.aspx?ID=10) (drained 2 on a critical failure) by this pain. Further bandersnatch Strikes that cause pain increase the amount of drain by 1 for each failed save to a maximum of drained 4.\r\n\r\n**Relentless Tracker**   The bandersnatch can [Track](/Actions.aspx?ID=66) while moving at its full speed.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Other Bandersnatches</title>\r\n\r\n**Warning - this sidebar contains spoilers for the Kingmaker adventure path.**\n\nThe bandersnatch presented here is a creature that retains its ties to the [First World](/Planes.aspx?ID=10), known to some scholars as primal bandersnatches. Bandersnatches who have dwelt on the [Material Plane](/Planes.aspx?ID=1) for longer periods can be less dangerous, although it's unheard of for a bandersnatch to weaken below 13th level. Just as surely, even more powerful bandersnatches lie in wait in the deepest reaches of the First World.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-324\" />",
+ "name": "Primal Bandersnatch",
+ "npc": false,
+ "perception": 33,
+ "rarity": "common",
+ "reflex_save": 33,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Tane\" url=\"/Traits.aspx?ID=312\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 610</row>\r\n\r\n**Creature Family** [Bandersnatch](/MonsterFamilies.aspx?ID=324)\r\n\r\n<row gap=\"medium\">\r\n**HP** 395 ( fast healing 15 )\r\n\r\n**AC** 44\r\n\r\n**Fort** +35\r\n\r\n**Ref** +33\r\n\r\n**Will** +31\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPrimal bandersnatches are among the most powerful of their kind, due to their ties to the  First World .\r\n</summary>",
+ "sense": " darkvision ,  scent  (precise) 120 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (precise) 120 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +33",
+  "Athletics +37",
+  "Intimidation +36",
+  "Stealth +36",
+  "Survival +31"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +33, [Athletics](/Skills.aspx?ID=3) +37, [Intimidation](/Skills.aspx?ID=7) +36, [Stealth](/Skills.aspx?ID=15) +36, [Survival](/Skills.aspx?ID=16) +31",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 610"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 610</row>",
+ "speed": {
+  "climb": 20,
+  "land": 50,
+  "max": 50
+ },
+ "speed_markdown": "50 feet, climb 20 feet",
+ "speed_raw": "50 feet, climb 20 feet",
+ "spell_markdown": "",
+ "stealth": "36",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Primal bandersnatches are among the most powerful of their kind, due to their ties to the  First World .",
+ "summary_markdown": "Primal bandersnatches are among the most powerful of their kind, due to their ties to the  First World .",
+ "text": " Primal Bandersnatch Primal bandersnatches are among the most powerful of their kind, due to their ties to the First World. Recall Knowledge - Beast (Arcana, Nature): DC 39 Unspecific Lore : DC 37 Specific Lore : DC 34 Primal Bandersnatch Source Kingmaker Adventure Path pg. 610 Perception +33; darkvision, scent (precise) 120 feet Languages Skills Acrobatics +33, Athletics +37, Intimidation +36, Stealth +36, Survival +31 Str +10 Dex +6 Con +6 Int -4 Wis +6 Cha +6 --- AC 44 Fort +35 Ref +33 Will +31 +1 status to all saves vs. magic HP 395 (fast healing 15) Immunities confused Planar Acclimation The bandersnatch treats the plane it is on as its home plane. Confusing Gaze (aura, emotion, enchantment, mental, primal) 30 feet. When a creature ends its turn in the aura, it must succeed at a DC 38 Will save or become confused for 1 round. Quick Recovery The bandersnatch recovers with frightening speed. At the end of its turn, it reduces the value of one debilitating condition it suffers (with the exception of dying) by 1. If it's blinded, dazzled, deafened, fatigued, fleeing, or petrified, it can instead succeed at a DC 16 flat check to end one of these conditions of its choice; it can't use quick recovery on other conditions that lack values. Attack of Opportunity Reaction Tail only. --- Speed 50 feet, climb 20 feet Melee Single Action jaws +37 (Magical, reach 15 feet), Damage 4d12+18 piercing Melee Single Action claw +37 (Agile, Magical, reach 15 feet), Damage 4d8+18 slashing Melee Single Action tail +37 (deadly d12, Magical, reach 20 feet), Damage 4d4+18 piercing plus pain Ranged Single Action quill +33 (range increment 100 feet), Damage 4d4+18 piercing plus pain Focus Gaze Single Action (Emotion, Enchantment, Mental, Primal) The bandersnatch fixes its gaze at a creature it can see within 30 feet. The target must immediately attempt a Will save against the bandersnatch's confusing gaze. After attempting the save, the creature is temporarily immune to a bandersnatch's Confusing Gaze gaze until the start of the bandersnatch's next turn. Frumious Charge Two Actions The bandersnatch Strides, ignoring difficult terrain, then makes two claw Strikes at the end of its movement. Lash Out At the start of its turn, the bandersnatch gains an additional reaction that can be used only to attempt an Attack of Opportunity. Pain A bandersnatch's quills create exceptionally painful wounds. The wounded creature must succeed at a DC 41 Fortitude save to resist becoming drained 1 (drained 2 on a critical failure) by this pain. Further bandersnatch Strikes that cause pain increase the amount of drain by 1 for each failed save to a maximum of drained 4. Relentless Tracker The bandersnatch can Track while moving at its full speed. Other Bandersnatches Warning - this sidebar contains spoilers for the Kingmaker adventure path. The bandersnatch presented here is a creature that retains its ties to the First World, known to some scholars as primal bandersnatches. Bandersnatches who have dwelt on the Material Plane for longer periods can be less dangerous, although it's unheard of for a bandersnatch to weaken below 13th level. Just as surely, even more powerful bandersnatches lie in wait in the deepest reaches of the First World. ",
+ "trait": [
+  "Beast",
+  "Tane",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Tane](/Traits.aspx?ID=312)",
+ "trait_raw": [
+  "Beast",
+  "Tane"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2205",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 31,
+ "wisdom": 6
+}

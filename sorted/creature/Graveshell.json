@@ -1,0 +1,98 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Corpse Disguise",
+  "Shell Block",
+  "Deep Breath",
+  "Shell Game"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 20,
+ "hp_raw": "20",
+ "id": "creature-436",
+ "image": [
+  "/Images/Monsters/Graveshell.png"
+ ],
+ "intelligence": -3,
+ "language": [
+  "Common",
+  "Undercommon"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"\">[Graveshell](/Monsters.aspx?ID=436)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe graveshell is a dangerous predator that draws scavengers and explorers into its grasp using a morbid lure: the corpse of a former victim impaled upon the spikes that protrude from its large, turtle-like shell. Aside from its shell, the monster resembles no known animal. Small but bright yellow eyes watch from the sagging flesh of its head, the most prominent feature of which is a curiously shaped, toothy maw twisted into a perpetual grin. Its stubby arms and legs are impractical for both walking and swimming, though the algae-caked claws tipping each limb are deadly weapons.\n\n Graveshells are intelligent—a fact that surprises many who encounter them—and surrender rather than fight to the death. These monsters have little to offer in exchange for their lives, though the waterlogged treasures on their collection of corpses may entice opportunists.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 17\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 15\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 12\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Graveshell.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Graveshell](/Monsters.aspx?ID=436)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 89</row>\n\n**Perception** +4; darkvision, wavesense (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6, [Stealth](/Skills.aspx?ID=15) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** -1\r\n\r\n**Con** +3\r\n\r\n**Int** -3\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Corpse Disguise** ([exploration](/Traits.aspx?ID=66)) The graveshell conceals its true nature over the course of a few minutes by impaling a corpse (typically humanoid) on its spiky shell before partially submerging itself in water. It has an automatic result of 22 on Deception checks and DCs to pass as a corpse floating in the water.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 (19 while withdrawn into its shell)\r\n\r\n**Fort** +8 \r\n\r\n**Ref** +2 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 20\n\n**Shell Block** <actions string=\"Reaction\" /> **Trigger** The graveshell takes damage from a physical attack while withdrawn into its shell (see Shell Game below). **Effect** The graveshell reduces the damage from the attack by an amount equal to its shell’s Hardness. A graveshell’s shell has a Hardness of 6, 10 Hit Points, and a Broken Threshold of 5. If its shell is broken, the graveshell can’t attack with shell spikes, nor can it use Shell Game. If the shell is destroyed, the graveshell’s AC is reduced to 16. As long as a graveshell is alive, its shell naturally repairs itself after a week.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +8,\r\n**Damage** 1d6+3 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +8 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d4+3 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshell spikes +8,\r\n**Damage** 1d4+3 piercing\n\n**Deep Breath**   The graveshell can hold its breath for 200 rounds (20 minutes).\r\n\r\n**Shell Game** <actions string=\"Single Action\" />  The graveshell withdraws into its shell, gaining a +2 circumstance bonus to AC and allowing it to use Shell Block. This lasts until the graveshell moves or attacks with any attack other than its shell spikes. The graveshell can’t take this action or get any benefit from it if its shell is broken.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Ambush Hunters</title>\r\n\r\nDue to its size and ungainliness, a graveshell must employ an unusual hunting strategy if it hopes to catch a meal. A young graveshell usually scavenges its first lure from among the animals slain by swifter and more ferocious members of its kind. The graveshell carefully positions its chosen corpse atop its shell to cover the spikes that keep it in place. Then, the creature sinks down into a pool of water, leaving only the corpse visible above the surface. When an ignorant passerby wades into the water to inspect the seemingly floating cadaver, the graveshell fully extends its spikes to impale its latest victim before using tooth and claw to rend its fresh catch.\r\n</aside>",
+ "name": "Graveshell",
+ "npc": false,
+ "perception": 4,
+ "rarity": "uncommon",
+ "reflex_save": 2,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 89</row>\n\n<row gap=\"medium\">\r\n**HP** 20\r\n\r\n**AC** 17\r\n\r\n**Fort** +8\r\n\r\n**Ref** +2\r\n\r\n**Will** +4\r\n\r\n**Perception** +4\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe graveshell is a dangerous predator that draws scavengers and explorers into its grasp using a morbid lure: the corpse of a former victim impaled …\r\n</summary>",
+ "sense": "darkvision, wavesense (imprecise) 30 feet",
+ "sense_markdown": "darkvision, wavesense (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +6",
+  "Stealth +4"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6, [Stealth](/Skills.aspx?ID=15) +4",
+ "source": [
+  "Pathfinder #145: Hellknight Hill"
+ ],
+ "source_raw": [
+  "Pathfinder #145: Hellknight Hill pg. 89"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 89</row>",
+ "speed": {
+  "land": 20,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "20 feet, swim 20 feet",
+ "speed_raw": "20 feet, swim 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "stealth": "4",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The graveshell is a dangerous predator that draws scavengers and explorers into its grasp using a morbid lure: the corpse of a former victim impaled …",
+ "summary_markdown": "The graveshell is a dangerous predator that draws scavengers and explorers into its grasp using a morbid lure: the corpse of a former victim impaled …",
+ "text": " Graveshell The graveshell is a dangerous predator that draws scavengers and explorers into its grasp using a morbid lure: the corpse of a former victim impaled upon the spikes that protrude from its large, turtle-like shell. Aside from its shell, the monster resembles no known animal. Small but bright yellow eyes watch from the sagging flesh of its head, the most prominent feature of which is a curiously shaped, toothy maw twisted into a perpetual grin. Its stubby arms and legs are impractical for both walking and swimming, though the algae-caked claws tipping each limb are deadly weapons. Graveshells are intelligent—a fact that surprises many who encounter them—and surrender rather than fight to the death. These monsters have little to offer in exchange for their lives, though the waterlogged treasures on their collection of corpses may entice opportunists. Recall Knowledge - Beast (Arcana, Nature): DC 17 Unspecific Lore : DC 15 Specific Lore : DC 12 Graveshell Source Pathfinder #145: Hellknight Hill pg. 89 Perception +4; darkvision, wavesense (imprecise) 30 feet Languages Common, Undercommon Skills Athletics +6, Stealth +4 Str +3 Dex -1 Con +3 Int -3 Wis +1 Cha +0 Corpse Disguise (exploration) The graveshell conceals its true nature over the course of a few minutes by impaling a corpse (typically humanoid) on its spiky shell before partially submerging itself in water. It has an automatic result of 22 on Deception checks and DCs to pass as a corpse floating in the water. --- AC 17 (19 while withdrawn into its shell) Fort +8 Ref +2 Will +4 HP 20 Shell Block Reaction Trigger The graveshell takes damage from a physical attack while withdrawn into its shell (see Shell Game below). Effect The graveshell reduces the damage from the attack by an amount equal to its shell’s Hardness. A graveshell’s shell has a Hardness of 6, 10 Hit Points, and a Broken Threshold of 5. If its shell is broken, the graveshell can’t attack with shell spikes, nor can it use Shell Game. If the shell is destroyed, the graveshell’s AC is reduced to 16. As long as a graveshell is alive, its shell naturally repairs itself after a week. --- Speed 20 feet, swim 20 feet Melee Single Action jaws +8, Damage 1d6+3 piercing Melee Single Action claw +8 (Agile), Damage 1d4+3 slashing Melee Single Action shell spikes +8, Damage 1d4+3 piercing Deep Breath The graveshell can hold its breath for 200 rounds (20 minutes). Shell Game Single Action The graveshell withdraws into its shell, gaining a +2 circumstance bonus to AC and allowing it to use Shell Block. This lasts until the graveshell moves or attacks with any attack other than its shell spikes. The graveshell can’t take this action or get any benefit from it if its shell is broken. Ambush Hunters Due to its size and ungainliness, a graveshell must employ an unusual hunting strategy if it hopes to catch a meal. A young graveshell usually scavenges its first lure from among the animals slain by swifter and more ferocious members of its kind. The graveshell carefully positions its chosen corpse atop its shell to cover the spikes that keep it in place. Then, the creature sinks down into a pool of water, leaving only the corpse visible above the surface. When an ignorant passerby wades into the water to inspect the seemingly floating cadaver, the graveshell fully extends its spikes to impale its latest victim before using tooth and claw to rend its fresh catch. ",
+ "trait": [
+  "Beast",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=436",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 4,
+ "wisdom": 1
+}

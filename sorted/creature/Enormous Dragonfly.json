@@ -1,0 +1,86 @@
+{
+ "ac": 27,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Clutch",
+  "Snatch",
+  "Swoop"
+ ],
+ "creature_family": "Dragonfly",
+ "creature_family_markdown": "[Dragonfly](/MonsterFamilies.aspx?ID=133)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 165,
+ "hp_raw": "165",
+ "id": "creature-2240",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Enormous Dragonfly](/Monsters.aspx?ID=2240)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Enormous Dragonfly](/Monsters.aspx?ID=2240)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 99</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12), [wavesense](/MonsterAbilities.aspx?ID=41) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 165\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandibles +20,\r\n**Damage** 2d12+9 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Clutch** <actions string=\"Single Action\" />  **Requirements** The enormous dragonfly has a Large or smaller creature [grabbed](/Conditions.aspx?ID=20) in its mandibles; **Effect** The dragonfly tries to transfer the grabbed creature to be clutched by its legs. The enormous dragonfly attempts an [Athletics](/Skills.aspx?ID=3) check against the creature's Reflex DC. On a success, it transfers the creature (which remains grabbed) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time.\r\n\r\n**Snatch**   The enormous dragonfly can [Fly](/Actions.aspx?ID=94) at half Speed while it has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) by Clutch, carrying that creature along with it.\r\n\r\n**Swoop** <actions string=\"Two Actions\" />  The dragonfly [Flies](/Actions.aspx?ID=94) up to its Speed and makes one mandible Strike at any point during that movement.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-133\" />",
+ "name": "Enormous Dragonfly",
+ "npc": false,
+ "perception": 16,
+ "rarity": "common",
+ "reflex_save": 21,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 99</row>\r\n\r\n**Creature Family** [Dragonfly](/MonsterFamilies.aspx?ID=133)\r\n\r\n<row gap=\"medium\">\r\n**HP** 165\r\n\r\n**AC** 27\r\n\r\n**Fort** +17\r\n\r\n**Ref** +21\r\n\r\n**Will** +14\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  wavesense  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [wavesense](/MonsterAbilities.aspx?ID=41) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +19",
+  "Stealth +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +19",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 99"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 99</row>",
+ "speed": {
+  "fly": 60,
+  "land": 20,
+  "max": 60
+ },
+ "speed_markdown": "20 feet, fly 60 feet",
+ "speed_raw": "20 feet, fly 60 feet",
+ "spell_markdown": "",
+ "stealth": "19",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Enormous Dragonfly Recall Knowledge - Animal (Nature): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Enormous Dragonfly Source Kingmaker Adventure Path pg. 99 Perception +16; darkvision, wavesense (imprecise) 30 feet Languages Skills Acrobatics +17, Athletics +19, Stealth +19 Str +6 Dex +4 Con +2 Int -5 Wis +3 Cha +0 --- AC 27 Fort +17 Ref +21 Will +14 HP 165 --- Speed 20 feet, fly 60 feet Melee Single Action mandibles +20, Damage 2d12+9 piercing plus Grab Clutch Single Action Requirements The enormous dragonfly has a Large or smaller creature grabbed in its mandibles; Effect The dragonfly tries to transfer the grabbed creature to be clutched by its legs. The enormous dragonfly attempts an Athletics check against the creature's Reflex DC. On a success, it transfers the creature (which remains grabbed) to its legs, freeing its mandibles to attack. The dragonfly can have only one creature clutched at a time. Snatch The enormous dragonfly can Fly at half Speed while it has a creature grabbed or restrained by Clutch, carrying that creature along with it. Swoop Two Actions The dragonfly Flies up to its Speed and makes one mandible Strike at any point during that movement. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2240",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 3
+}

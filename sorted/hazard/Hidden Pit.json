@@ -1,0 +1,55 @@
+{
+ "ac": 10,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "Thievery  DC 12 to remove the trapdoor",
+ "exclude_from_search": false,
+ "fortitude_save": 1,
+ "hardness": 3,
+ "hardness_raw": "3 Trapdoor Hardness",
+ "hazard_type": "Trap",
+ "hp": 12,
+ "hp_raw": "12 (BT 6)",
+ "id": "hazard-1",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 0,
+ "markdown": "<title level=\"1\" right=\"Hazard 0\" pfs=\"\">[Hidden Pit](/Hazards.aspx?ID=1)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 522 <sup>4.0</sup></row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA wooden trapdoor covers a pit that’s 10 feet square and 20 feet deep.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 18 (or 0 if the trapdoor is disabled or broken)\r\n\r\n**Disable**\r\n[Thievery](/Skills.aspx?ID=17) DC 12 to remove the trapdoor\n\n<column gap=\"tiny\">\r\n\r\n**AC** 10, **Fort** +1, **Ref** +1\r\n\r\n**Trapdoor Hardness**\r\n3\r\n\r\n**Trapdoor HP**\r\n12 (BT 6)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Pitfall** <actions string=\"Reaction\" /> **Trigger** A creature walks onto the trapdoor. **Effect** The triggering creature falls in and takes falling damage (typically 10 bludgeoning damage). That creature can use the Grab an Edge reaction to avoid falling.\n\n---\r\n**Reset**\r\nCreatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become hidden again.",
+ "name": "Hidden Pit",
+ "rarity": "common",
+ "reflex_save": 1,
+ "release_date": "2019-08-01",
+ "reset": "Creatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become hidden again.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 522 <sup>4.0</sup></row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA wooden trapdoor covers a pit that’s 10 feet square and 20 feet deep.\r\n</summary>",
+ "source": [
+  "Core Rulebook"
+ ],
+ "source_raw": [
+  "Core Rulebook pg. 522"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Core Rulebook](/Sources.aspx?ID=1) pg. 522 <sup>4.0</sup></row>",
+ "speed": {},
+ "stealth": "DC 18 (or 0 if the trapdoor is disabled or broken)",
+ "summary": "A wooden trapdoor covers a pit that’s 10 feet square and 20 feet deep.",
+ "summary_markdown": "A wooden trapdoor covers a pit that’s 10 feet square and 20 feet deep.",
+ "text": " Hidden Pit Source Core Rulebook pg. 522 4.0 Complexity Simple A wooden trapdoor covers a pit that’s 10 feet square and 20 feet deep. --- Stealth DC 18 (or 0 if the trapdoor is disabled or broken) Disable Thievery DC 12 to remove the trapdoor AC 10, Fort +1, Ref +1 Trapdoor Hardness 3 Trapdoor HP 12 (BT 6) Immunities critical hits, object immunities, precision damage Pitfall Reaction Trigger A creature walks onto the trapdoor. Effect The triggering creature falls in and takes falling damage (typically 10 bludgeoning damage). That creature can use the Grab an Edge reaction to avoid falling. --- Reset Creatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become hidden again.",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=1",
+ "weakness": {}
+}

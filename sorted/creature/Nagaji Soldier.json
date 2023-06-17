@@ -1,0 +1,98 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Slough Toxins"
+ ],
+ "creature_family": "Nagaji",
+ "creature_family_markdown": "[Nagaji](/MonsterFamilies.aspx?ID=251)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 28,
+ "hp_raw": "28",
+ "id": "creature-1243",
+ "image": [
+  "/Images/Monsters/Nagaji.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Nagaji Soldier](/Monsters.aspx?ID=1243)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nNagaji are brawny bipeds with humanoid figures and serpentine heads. Their bodies are covered in tightly layered scales that range in color from green to brown, and almost all nagaji have a colorful ridge along their head and back. Ophidian eyes lend nagaji an imperious visage, with irises that span every color of the rainbow\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Nagaji.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Nagaji Soldier](/Monsters.aspx?ID=1243)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Nagaji\" url=\"/Traits.aspx?ID=359\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 182</row>\n\n**Perception** +8; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +5, [Nature](/Skills.aspx?ID=10) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Leather Armor](/Armor.aspx?ID=4), [Longbow](/Weapons.aspx?ID=76) (with 20 arrows), [Ranseur](/Weapons.aspx?ID=35)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 28\n\n**Resistances**\r\npoison 2\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nranseur +10 ([Disarm](/Traits.aspx?ID=175), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d10+4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nlongbow +7 ([deadly d10](/Traits.aspx?ID=174), [range increment 100 feet](/Traits.aspx?ID=248), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 1d8 piercing\n\n**Slough Toxins** <actions string=\"Single Action\" />  **Frequency** once per round; **Requirements** The nagaji is afflicted with a [poison](/Traits.aspx?ID=126); **Effect** The nagaji accelerates their metabolism. They roll a saving throw against the affliction with a +2 circumstance bonus. If they must attempt an ongoing save against the same poison at the end of their turn, they also get a +2 circumstance bonus to that save.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-251\" />",
+ "name": "Nagaji Soldier",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "poison": 2
+ },
+ "resistance_markdown": "poison 2",
+ "resistance_raw": "poison 2",
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Nagaji\" url=\"/Traits.aspx?ID=359\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 182</row>\r\n\r\n**Creature Family** [Nagaji](/MonsterFamilies.aspx?ID=251)\r\n\r\n<row gap=\"medium\">\r\n**HP** 28\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +7\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNagaji are brawny bipeds with humanoid figures and serpentine heads. Their bodies are covered in tightly layered scales that range in color from …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Intimidation +5",
+  "Nature +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +5, [Nature](/Skills.aspx?ID=10) +6",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 182"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 182</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Nagaji are brawny bipeds with humanoid figures and serpentine heads. Their bodies are covered in tightly layered scales that range in color from …",
+ "summary_markdown": "Nagaji are brawny bipeds with humanoid figures and serpentine heads. Their bodies are covered in tightly layered scales that range in color from …",
+ "text": " Nagaji Soldier Nagaji are brawny bipeds with humanoid figures and serpentine heads. Their bodies are covered in tightly layered scales that range in color from green to brown, and almost all nagaji have a colorful ridge along their head and back. Ophidian eyes lend nagaji an imperious visage, with irises that span every color of the rainbow Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Nagaji Soldier Source Bestiary 3 pg. 182 Perception +8; low-light vision Languages Common, Draconic Skills Athletics +8, Intimidation +5, Nature +6 Str +4 Dex +1 Con +3 Int -1 Wis +2 Cha +1 Items Leather Armor, Longbow (with 20 arrows), Ranseur --- AC 18 Fort +9 Ref +7 Will +6 HP 28 Resistances poison 2 Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action ranseur +10 (Disarm, reach 10 feet), Damage 1d10+4 piercing Ranged Single Action longbow +7 (deadly d10, range increment 100 feet, volley 30 feet), Damage 1d8 piercing Slough Toxins Single Action Frequency once per round; Requirements The nagaji is afflicted with a poison; Effect The nagaji accelerates their metabolism. They roll a saving throw against the affliction with a +2 circumstance bonus. If they must attempt an ongoing save against the same poison at the end of their turn, they also get a +2 circumstance bonus to that save. ",
+ "trait": [
+  "Humanoid",
+  "Nagaji",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Nagaji](/Traits.aspx?ID=359)",
+ "trait_raw": [
+  "Humanoid",
+  "Nagaji"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1243",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 2
+}

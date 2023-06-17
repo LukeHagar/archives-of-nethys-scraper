@@ -1,0 +1,117 @@
+{
+ "ac": 40,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 8,
+ "creature_ability": [
+  "Curse of Stolen Breath",
+  "Attack of Opportunity",
+  "Breath Weapon",
+  "Fjord Linnorm Venom"
+ ],
+ "creature_family": "Linnorm",
+ "creature_family_markdown": "[Linnorm](/MonsterFamilies.aspx?ID=69)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 30,
+ "hp": 315,
+ "hp_raw": "315",
+ "id": "creature-721",
+ "image": [
+  "/Images/Monsters/Linnorm_FjordLinnorm.png"
+ ],
+ "immunity": [
+  "cold",
+  "curse",
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "cold, [curse](/Traits.aspx?ID=38), [paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -3,
+ "language": [
+  "Aklo",
+  "Draconic",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Draconic](/Languages.aspx?ID=2), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Fjord Linnorm](/Monsters.aspx?ID=721)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFjord linnorms make their homes in damp caves behind ice-cold waterfalls in the river-veined coastal reaches of the north. While they may appear graceful as they swim up the fjords for which they're named, they are as vile as any other of their species and take pleasures in capsizing river boats before gobbling up their terrified crews.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Linnorm_FjordLinnorm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Fjord Linnorm](/Monsters.aspx?ID=721)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 165 <sup>2.0</sup></row>\n\n**Perception** +28; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 60 feet](/MonsterAbilities.aspx?ID=33), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Draconic](/Languages.aspx?ID=2), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +33, [Stealth](/Skills.aspx?ID=15) +29\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +5\r\n\r\n**Con** +8\r\n\r\n**Int** -3\r\n\r\n**Wis** +6\r\n\r\n**Cha** +7\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 40 \r\n\r\n**Fort** +30 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +24 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 315\r\n\r\n, regeneration 10 (deactivated by cold iron)\r\n\r\n**Immunities**\r\ncold, [curse](/Traits.aspx?ID=38), [paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\ncold iron 15\r\n\r\n**Curse of Stolen Breath** ([curse](/Traits.aspx?ID=38), [primal](/Traits.aspx?ID=134), [water](/Traits.aspx?ID=165)) When a creature slays a fjord linnorm, it must succeed at a DC 41 Will save or become unable to ever breathe underwater (either via a natural ability or a spell such as [_water breathing_](/Spells.aspx?ID=370)). In addition, the victim can hold its breath only half as long as normal, and whenever it holds its breath it becomes [sickened 2](/Conditions.aspx?ID=34).<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> Tail only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, fly 75 feet, swim 50 feet; [_freedom of movement_](/Spells.aspx?ID=128)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +33 ([Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+17 piercing plus fjord linnorm venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +33 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+17 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +33 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 25 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+15 bludgeoning plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Primal Innate Spells** DC 37\r\n- **Constant (6th)**\r\n[True Seeing](/Spells.aspx?ID=344)\r\n- **Constant (7th)**\r\n[Freedom of Movement](/Spells.aspx?ID=128)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The fjord linnorm expels a 120-foot line of icy bile, dealing 17d6 cold damage to creatures within the area (DC 37 basic Reflex save). Any creature that fails its save is covered by the ice, which freezes and fuses with the creature's skin, giving it a –10-foot penalty to Speed. A creature can [Escape](/Actions.aspx?ID=79) or [Force Open](/Actions.aspx?ID=34) the ice (DC 34) to free itself; otherwise, the ice remains for 1 minute. The fjord linnorm can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Fjord Linnorm Venom**  ([Cold](/Traits.aspx?ID=27), [Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 37 Fortitude; **Maximum Duration** 10 rounds; **Stage 1** 4d6 cold damage and [clumsy 1](/Conditions.aspx?ID=3) (1 round); **Stage 2** 6d6 cold damage and clumsy 2 (1 round)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-69\" />",
+ "name": "Fjord Linnorm",
+ "npc": false,
+ "perception": 28,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 28,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 165 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Linnorm](/MonsterFamilies.aspx?ID=69)\r\n\r\n<row gap=\"medium\">\r\n**HP** 315\r\n\r\n**AC** 40\r\n\r\n**Fort** +30\r\n\r\n**Ref** +28\r\n\r\n**Will** +24\r\n\r\n**Perception** +28\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFjord linnorms make their homes in damp caves behind ice-cold waterfalls in the river-veined coastal reaches of the north. While they may appear …\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 60 feet ,   true seeing  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 60 feet](/MonsterAbilities.aspx?ID=33), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +27",
+  "Athletics +33",
+  "Stealth +29"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +33, [Stealth](/Skills.aspx?ID=15) +29",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 165"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 165 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 75,
+  "land": 35,
+  "max": 75,
+  "swim": 50
+ },
+ "speed_markdown": "35 feet, fly 75 feet, swim 50 feet; [_freedom of movement_](/Spells.aspx?ID=128)",
+ "speed_raw": "35 feet, fly 75 feet, swim 50 feet;   freedom of movement  ",
+ "spell": [
+  "Freedom of Movement",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Freedom of Movement](/Spells.aspx?ID=128), [True Seeing](/Spells.aspx?ID=344)",
+ "stealth": "29",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Fjord linnorms make their homes in damp caves behind ice-cold waterfalls in the river-veined coastal reaches of the north. While they may appear …",
+ "summary_markdown": "Fjord linnorms make their homes in damp caves behind ice-cold waterfalls in the river-veined coastal reaches of the north. While they may appear …",
+ "text": " Fjord Linnorm Fjord linnorms make their homes in damp caves behind ice-cold waterfalls in the river-veined coastal reaches of the north. While they may appear graceful as they swim up the fjords for which they're named, they are as vile as any other of their species and take pleasures in capsizing river boats before gobbling up their terrified crews. Recall Knowledge - Dragon (Arcana): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Fjord Linnorm Source Bestiary 2 pg. 165 2.0 Perception +28; darkvision, scent (imprecise) 60 feet, true seeing Languages Aklo, Draconic, Sylvan Skills Acrobatics +27, Athletics +33, Stealth +29 Str +9 Dex +5 Con +8 Int -3 Wis +6 Cha +7 --- AC 40 Fort +30 Ref +28 Will +24 +1 status to all saves vs. magic HP 315 , regeneration 10 (deactivated by cold iron) Immunities cold, curse, paralyzed, sleep Weaknesses cold iron 15 Curse of Stolen Breath (curse, primal, water) When a creature slays a fjord linnorm, it must succeed at a DC 41 Will save or become unable to ever breathe underwater (either via a natural ability or a spell such as water breathing ). In addition, the victim can hold its breath only half as long as normal, and whenever it holds its breath it becomes sickened 2. Attack of Opportunity Reaction Tail only. --- Speed 35 feet, fly 75 feet, swim 50 feet; freedom of movement Melee Single Action jaws +33 (Magical, reach 20 feet), Damage 3d12+17 piercing plus fjord linnorm venom Melee Single Action claw +33 (Agile, Magical, reach 20 feet), Damage 3d10+17 slashing Melee Single Action tail +33 (Agile, Magical, reach 25 feet), Damage 3d6+15 bludgeoning plus Improved Grab Primal Innate Spells DC 37 - Constant (6th) True Seeing - Constant (7th) Freedom of Movement Breath Weapon Two Actions (Cold, Evocation, Primal) The fjord linnorm expels a 120-foot line of icy bile, dealing 17d6 cold damage to creatures within the area (DC 37 basic Reflex save). Any creature that fails its save is covered by the ice, which freezes and fuses with the creature's skin, giving it a –10-foot penalty to Speed. A creature can Escape or Force Open the ice (DC 34) to free itself; otherwise, the ice remains for 1 minute. The fjord linnorm can't use Breath Weapon again for 1d4 rounds. Fjord Linnorm Venom (Cold, Poison) Saving Throw DC 37 Fortitude; Maximum Duration 10 rounds; Stage 1 4d6 cold damage and clumsy 1 (1 round); Stage 2 6d6 cold damage and clumsy 2 (1 round) ",
+ "trait": [
+  "Amphibious",
+  "Dragon",
+  "Uncommon",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Dragon](/Traits.aspx?ID=50), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Amphibious",
+  "Dragon",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=721",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 15
+ },
+ "weakness_markdown": "cold iron 15",
+ "weakness_raw": "cold iron 15",
+ "will_save": 24,
+ "wisdom": 6
+}

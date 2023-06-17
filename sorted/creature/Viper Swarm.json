@@ -1,0 +1,108 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 3,
+ "creature_ability": [
+  "Venom Spritz",
+  "Venomous Fangs",
+  "Viper Swarm Venom"
+ ],
+ "creature_family": "Snake",
+ "creature_family_markdown": "[Snake](/MonsterFamilies.aspx?ID=93)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 50,
+ "hp_raw": "50",
+ "id": "creature-1316",
+ "image": [
+  "/Images/Monsters/SnakeSwarm.png"
+ ],
+ "immunity": [
+  "precision",
+  "swarm  mind"
+ ],
+ "immunity_markdown": "precision, [swarm](/Traits.aspx?ID=239) mind",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Viper Swarm](/Monsters.aspx?ID=1316)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe frightening mass of shining scales, gleaming eyes, and fangs dripping with venom that comprise a viper swarm has brought an end to many an unlucky adventurer. Normally nocturnal, these notoriously aggressive snakes strike at anything that comes within reach, be it limb or weapon. Their venom is a potent toxin that leaves victims shaky and weak.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SnakeSwarm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Viper Swarm](/Monsters.aspx?ID=1316)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 249</row>\n\n**Perception** +12; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** -3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 50\n\n**Immunities**\r\nprecision, [swarm](/Traits.aspx?ID=239) mind\r\n\r\n**Resistances**\r\nbludgeoning 5, piercing 5, slashing 3\r\n\r\n**Weaknesses**\r\narea damage 5, [splash](/Traits.aspx?ID=150) damage 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet, swim 30 feet\n\n**Venom Spritz** <actions string=\"Two Actions\" />  The vipers spray venom from their fangs in a defensive display. Each creature in a 10-foot cone is exposed to viper swarm venom but gains a +2 circumstance bonus to its initial saving throw against the poison.\r\n\r\n**Venomous Fangs** <actions string=\"Single Action\" />  Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 [basic](/Rules.aspx?ID=329) Reflex save) plus viper swarm venom.\r\n\r\n**Viper Swarm Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage and [clumsy 1](/Conditions.aspx?ID=3) (1 round); **Stage 3** 2d4 poison damage, clumsy 2, and [enfeebled 1](/Conditions.aspx?ID=13) (1 round)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-93\" />",
+ "name": "Viper Swarm",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "bludgeoning": 5,
+  "piercing": 5,
+  "slashing": 3
+ },
+ "resistance_markdown": "bludgeoning 5, piercing 5, slashing 3",
+ "resistance_raw": "bludgeoning 5, piercing 5, slashing 3",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 249</row>\r\n\r\n**Creature Family** [Snake](/MonsterFamilies.aspx?ID=93)\r\n\r\n<row gap=\"medium\">\r\n**HP** 50\r\n\r\n**AC** 18\r\n\r\n**Fort** +11\r\n\r\n**Ref** +13\r\n\r\n**Will** +10\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe frightening mass of shining scales, gleaming eyes, and fangs dripping with venom that comprise a viper swarm has brought an end to many an …\r\n</summary>",
+ "sense": " low-light vision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 249"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 249</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet, swim 30 feet",
+ "speed_raw": "30 feet, climb 30 feet, swim 30 feet",
+ "spell_markdown": "",
+ "stealth": "11",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The frightening mass of shining scales, gleaming eyes, and fangs dripping with venom that comprise a viper swarm has brought an end to many an …",
+ "summary_markdown": "The frightening mass of shining scales, gleaming eyes, and fangs dripping with venom that comprise a viper swarm has brought an end to many an …",
+ "text": " Viper Swarm The frightening mass of shining scales, gleaming eyes, and fangs dripping with venom that comprise a viper swarm has brought an end to many an unlucky adventurer. Normally nocturnal, these notoriously aggressive snakes strike at anything that comes within reach, be it limb or weapon. Their venom is a potent toxin that leaves victims shaky and weak. Recall Knowledge - Animal (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Viper Swarm Source Bestiary 3 pg. 249 Perception +12; low-light vision, scent (imprecise) 60 feet Languages Skills Acrobatics +13, Stealth +11 Str +1 Dex +5 Con +3 Int -4 Wis +2 Cha -3 --- AC 18 Fort +11 Ref +13 Will +10 HP 50 Immunities precision, swarm mind Resistances bludgeoning 5, piercing 5, slashing 3 Weaknesses area damage 5, splash damage 5 --- Speed 30 feet, climb 30 feet, swim 30 feet Venom Spritz Two Actions The vipers spray venom from their fangs in a defensive display. Each creature in a 10-foot cone is exposed to viper swarm venom but gains a +2 circumstance bonus to its initial saving throw against the poison. Venomous Fangs Single Action Each enemy in the swarm's space takes 2d8 piercing damage (DC 21 basic Reflex save) plus viper swarm venom. Viper Swarm Venom (Poison) Saving Throw DC 21 Fortitude; Maximum Duration 6 rounds; Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage and clumsy 1 (1 round); Stage 3 2d4 poison damage, clumsy 2, and enfeebled 1 (1 round) ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1316",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 5
+ },
+ "weakness_markdown": "area damage 5, [splash](/Traits.aspx?ID=150) damage 5",
+ "weakness_raw": "area damage 5,  splash  damage 5",
+ "will_save": 10,
+ "wisdom": 2
+}

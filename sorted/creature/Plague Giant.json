@@ -1,0 +1,109 @@
+{
+ "ac": 35,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 7,
+ "creature_ability": [
+  "Catch Rock",
+  "Retaliatory Scratch",
+  "Atrophic Plague",
+  "Hurl Corpse",
+  "Pustulant Flail",
+  "Throw Rock"
+ ],
+ "creature_family": "Giant",
+ "creature_family_markdown": "[Giant](/MonsterFamilies.aspx?ID=53)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 285,
+ "hp_raw": "285",
+ "id": "creature-1169",
+ "image": [
+  "/Images/Monsters/Giant_PlagueGiant.png"
+ ],
+ "immunity": [
+  "disease"
+ ],
+ "immunity_markdown": "[disease](/Traits.aspx?ID=46)",
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Jotun"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Plague Giant](/Monsters.aspx?ID=1169)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nPlague giants are rasping behemoths, whose weeping sores, fetid breath, and filthy fingernails all bear a terrible wasting disease. Like sewer rats or flies that swarm a fresh battlefield, plague giants bear an inborn pathogen that does little harm to the giants themselves (their wretched physical appearances are purely superficial) but can wreak devastation on afflicted victims.\n\n Whatever their origin, the majority of plague giants are so accustomed to being viewed as monstrosities by other humanoids, giant and otherwise, that they become vehemently xenophobic. Some of their communities do permit other types of shunned humanoids—especially those with leprosy and other stigmatized diseases— to join their fold. Whether because they are expelled to the world's worst badlands or because they purposefully seek out such locales, plague giants often settle amid abandoned battlefields, sewer outlets, and other despoiled places. Their close ties to disease lead many to worship [Apollyon](/Deities.aspx?ID=134), the Horseman of Pestilence, or other deities associated with disease. Plague giants claim that their kind is as death itself, violently rejecting the theory often touted among non-giants that they are an offshoot of some other giant ancestry afflicted with a terrible divine curse. (Most other giants also reject this theory.)\n\n Plague giants measure 24 feet tall and weigh 15,000 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Giant_PlagueGiant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Plague Giant](/Monsters.aspx?ID=1169)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 111</row>\n\n**Perception** +25; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +30, [Intimidation](/Skills.aspx?ID=7) +24, [Religion](/Skills.aspx?ID=13) +25, [Stealth](/Skills.aspx?ID=15) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +6\r\n\r\n**Con** +7\r\n\r\n**Int** +3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [flail](/Weapons.aspx?ID=19)_, [sack with 5 rocks](/Equipment.aspx?ID=45)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +24 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 285\n\n**Immunities**\r\n[disease](/Traits.aspx?ID=46)\n\n**[Catch Rock](/MonsterAbilities.aspx?ID=7)** <actions string=\"Reaction\" /> <br />**Retaliatory Scratch** <actions string=\"Reaction\" /> **Trigger** A creature within 10 feet makes a melee Strike against the plague giant; **Effect** The plague giant makes a claw Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 45 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_flail_ +31 ([Disarm](/Traits.aspx?ID=175), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 2d6+14 bludgeoning plus 3d6 poison and atrophic plague\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +30 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+14 slashing plus atrophic plague\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +28 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+14 bludgeoning\r\n\r\n**Divine Innate Spells** DC 34\r\n- **6th**\r\n[Cloudkill](/Spells.aspx?ID=42), [Death Knell](/Spells.aspx?ID=63) (×3), [Take its Course](/Spells.aspx?ID=456)\r\n\r\n**Atrophic Plague**  ([Disease](/Traits.aspx?ID=46), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Saving Throw** DC 34 Fortitude; **Stage 1** [enfeebled 2](/Conditions.aspx?ID=13) and [fatigued](/Conditions.aspx?ID=15) (1 day); **Stage 2** enfeebled 3 and fatigued (1 day); **Stage 3** enfeebled 4 and fatigued (1 day); **Stage 4** dead\r\n\r\n**Hurl Corpse** <actions string=\"Single Action\" />  The plague giant picks up a dead or [dying](/Conditions.aspx?ID=11) creature within reach and flings it at a foe. The giant makes a rock Strike, using the body instead of a rock. If the body is a corpse, on a hit it explodes in a cloud of thick gray vapor, exposing all creatures in a 10-foot burst to atrophic plague. If the body is a dying creature, on a hit its dying value increases by 1 (or 2 on a critical hit).\r\n\r\n**Pustulant Flail**   A plague giant's flail is covered in pus, causing it to deal 3d6 additional poison damage.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Diseased Worshippers</title>\r\n\r\nMany plague giant societies are theocratic. In such communities, the most powerful plague giants are [clerics](/Classes.aspx?ID=5) or [champions](/Classes.aspx?ID=4) of the Horseman of Pestilence [Apollyon](/Deities.aspx?ID=134), [Urgathoa](/Deities.aspx?ID=19), or some other deity associated with plague.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-53\" />",
+ "name": "Plague Giant",
+ "npc": false,
+ "perception": 25,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 24,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 111</row>\r\n\r\n**Creature Family** [Giant](/MonsterFamilies.aspx?ID=53)\r\n\r\n<row gap=\"medium\">\r\n**HP** 285\r\n\r\n**AC** 35\r\n\r\n**Fort** +27\r\n\r\n**Ref** +24\r\n\r\n**Will** +23\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPlague giants are rasping behemoths, whose weeping sores, fetid breath, and filthy fingernails all bear a terrible wasting disease. Like sewer rats …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +30",
+  "Intimidation +24",
+  "Religion +25",
+  "Stealth +26"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +30, [Intimidation](/Skills.aspx?ID=7) +24, [Religion](/Skills.aspx?ID=13) +25, [Stealth](/Skills.aspx?ID=15) +26",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 111"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 111</row>",
+ "speed": {
+  "land": 45,
+  "max": 45
+ },
+ "speed_markdown": "45 feet",
+ "speed_raw": "45 feet",
+ "spell": [
+  "Cloudkill",
+  "Death Knell",
+  "Take its Course"
+ ],
+ "spell_markdown": "[Cloudkill](/Spells.aspx?ID=42), [Death Knell](/Spells.aspx?ID=63), [Take its Course](/Spells.aspx?ID=456)",
+ "stealth": "26",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Plague giants are rasping behemoths, whose weeping sores, fetid breath, and filthy fingernails all bear a terrible wasting disease. Like sewer rats …",
+ "summary_markdown": "Plague giants are rasping behemoths, whose weeping sores, fetid breath, and filthy fingernails all bear a terrible wasting disease. Like sewer rats …",
+ "text": " Plague Giant Plague giants are rasping behemoths, whose weeping sores, fetid breath, and filthy fingernails all bear a terrible wasting disease. Like sewer rats or flies that swarm a fresh battlefield, plague giants bear an inborn pathogen that does little harm to the giants themselves (their wretched physical appearances are purely superficial) but can wreak devastation on afflicted victims. Whatever their origin, the majority of plague giants are so accustomed to being viewed as monstrosities by other humanoids, giant and otherwise, that they become vehemently xenophobic. Some of their communities do permit other types of shunned humanoids—especially those with leprosy and other stigmatized diseases— to join their fold. Whether because they are expelled to the world's worst badlands or because they purposefully seek out such locales, plague giants often settle amid abandoned battlefields, sewer outlets, and other despoiled places. Their close ties to disease lead many to worship Apollyon, the Horseman of Pestilence, or other deities associated with disease. Plague giants claim that their kind is as death itself, violently rejecting the theory often touted among non-giants that they are an offshoot of some other giant ancestry afflicted with a terrible divine curse. (Most other giants also reject this theory.) Plague giants measure 24 feet tall and weigh 15,000 pounds. Recall Knowledge - Humanoid (Society): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Plague Giant Source Bestiary 3 pg. 111 Perception +25; low-light vision Languages Common, Jotun Skills Athletics +30, Intimidation +24, Religion +25, Stealth +26 Str +8 Dex +6 Con +7 Int +3 Wis +5 Cha +4 Items +1 striking flail , sack with 5 rocks --- AC 35 Fort +27 Ref +24 Will +23 HP 285 Immunities disease Catch Rock Reaction Retaliatory Scratch Reaction Trigger A creature within 10 feet makes a melee Strike against the plague giant; Effect The plague giant makes a claw Strike against the triggering creature. --- Speed 45 feet Melee Single Action flail +31 (Disarm, Magical, reach 15 feet, Sweep, Trip), Damage 2d6+14 bludgeoning plus 3d6 poison and atrophic plague Melee Single Action claw +30 (Agile, reach 10 feet), Damage 3d6+14 slashing plus atrophic plague Ranged Single Action rock +28 (Brutal, range increment 120 feet), Damage 3d8+14 bludgeoning Divine Innate Spells DC 34 - 6th Cloudkill, Death Knell (×3), Take its Course Atrophic Plague (Disease, Divine, Necromancy) Saving Throw DC 34 Fortitude; Stage 1 enfeebled 2 and fatigued (1 day); Stage 2 enfeebled 3 and fatigued (1 day); Stage 3 enfeebled 4 and fatigued (1 day); Stage 4 dead Hurl Corpse Single Action The plague giant picks up a dead or dying creature within reach and flings it at a foe. The giant makes a rock Strike, using the body instead of a rock. If the body is a corpse, on a hit it explodes in a cloud of thick gray vapor, exposing all creatures in a 10-foot burst to atrophic plague. If the body is a dying creature, on a hit its dying value increases by 1 (or 2 on a critical hit). Pustulant Flail A plague giant's flail is covered in pus, causing it to deal 3d6 additional poison damage. Throw Rock Single Action Diseased Worshippers Many plague giant societies are theocratic. In such communities, the most powerful plague giants are clerics or champions of the Horseman of Pestilence Apollyon, Urgathoa, or some other deity associated with plague. ",
+ "trait": [
+  "Giant",
+  "Humanoid",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Giant",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1169",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": 5
+}

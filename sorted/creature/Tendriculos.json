@@ -1,0 +1,109 @@
+{
+ "ac": 25,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Rampant Growth",
+  "Swallow Whole",
+  "Tendriculos Venom"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 120,
+ "hp_raw": "120",
+ "id": "creature-823",
+ "image": [
+  "/Images/Monsters/Tendriculos.png"
+ ],
+ "immunity": [
+  "acid"
+ ],
+ "immunity_markdown": "acid",
+ "intelligence": -2,
+ "language": [
+  "Sylvan",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Sylvan](/Languages.aspx?ID=10); (can't speak any language)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tendriculos](/Monsters.aspx?ID=823)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese strange amalgams of plant and fungus with animal tendencies form where the natural world is corrupted by foul magic or frayed planar boundaries. Tendriculoses are instinctive ambush predators who seek out lightly traveled forest paths and lie in wait in the undergrowth. A tendriculos swallows its prey as quickly as possible and lets its paralytic digestive juices finish the meal, while swiftly restoring itself with the nourishment provided by the trapped creature. When collected, neutralized, and refined, the digestive fluids of a tendriculos form a lacquer that retains some of the tendriculos's acid resistance.\n\n A tendriculos comes into being with a rudimentary understanding of the [Sylvan](/Languages.aspx?ID=10) language, but in some cases it might manifest knowing a different tongue, such as [Aklo](/Languages.aspx?ID=13), [Draconic](/Languages.aspx?ID=2), or even [Necril](/Languages.aspx?ID=20). Regardless, tendriculoses have little patience for chattering from potential meals, though some determined fey and primal spellcasters have been known to form alliances or even closer bonds with tendriculoses. Befriending a tendriculos requires great patience and plentiful food—and these the gifts of food must be alive when handed over.\n\n When it has finished feeding and is out of combat, a tendriculos slips into a quiescent state for a full day, one of the few times it is safe to approach. Upon rousing, it seeks the deep forest to regurgitate the less digestible portions of its meal. These remains may contain valuables that survived digestion and indicate that a tendriculos's hunting grounds lie nearby.\n\n Tendriculoses dwell in deep woods and jungles. Those too near populated areas soon draw unwanted attention with their ravenous appetites. Well-fed tendriculoses develop fruiting bodies that cast forth millions of spores. Spores that happen to alight on carrion grow into new tendriculoses.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fungus](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 23\r\n\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Tendriculos.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Tendriculos](/Monsters.aspx?ID=823)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 257 <sup>2.0</sup></row>\n\n**Perception** +15; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Sylvan](/Languages.aspx?ID=10); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +17, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 120\n\n**Immunities**\r\nacid\r\n\r\n**Resistances**\r\npiercing 5, slashing 5\r\n\r\n**Weaknesses**\r\nfire 5\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> Tentacle only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +18 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+11 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +18 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+11 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Rampant Growth** <actions string=\"Single Action\" />  **Requirements** A creature the tendriculos has Swallowed Whole has taken damage since the end of the tendriculos's last turn, and the tendriculos hasn't used any other actions this turn; **Effect** The tendriculos regains 3d8 HP and recovers from the [fatigued](/Conditions.aspx?ID=15) and [slowed](/Conditions.aspx?ID=35) conditions. It reduces any [enfeebled](/Conditions.aspx?ID=13) value it has by 2.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 2d10+7 acid plus tendriculos venom, Rupture 14\r\n\r\n**Tendriculos Venom**  ([Incapacitation](/Traits.aspx?ID=93), [Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** [clumsy 2](/Conditions.aspx?ID=3) (1 round); **Stage 2** clumsy 2 and [slowed 2](/Conditions.aspx?ID=35) (1 round); **Stage 3** [paralyzed](/Conditions.aspx?ID=28) (1 round)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Tendriculos Lacquer</title>\r\n\r\nObjects coated with tendriculos lacquer gain resistance 5 to acid. Making and applying tendriculos lacquer requires a 5th-level formula, the [Alchemical Crafting](/Feats.aspx?ID=752) skill feat, and the fluid from the stomach of a tendriculos. A successful DC 20 [Craft](/Actions.aspx?ID=43) check and 4 days of work are enough to protect 1 Bulk of items with no other cost in materials, but the fluid is used up even on a failed check.\r\n</aside>",
+ "name": "Tendriculos",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "piercing 5, slashing 5",
+ "resistance_raw": "piercing 5, slashing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 257 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 120\r\n\r\n**AC** 25\r\n\r\n**Fort** +17\r\n\r\n**Ref** +12\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese strange amalgams of plant and fungus with animal tendencies form where the natural world is corrupted by foul magic or frayed planar …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +17",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +17, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 257"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 257 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "These strange amalgams of plant and fungus with animal tendencies form where the natural world is corrupted by foul magic or frayed planar …",
+ "summary_markdown": "These strange amalgams of plant and fungus with animal tendencies form where the natural world is corrupted by foul magic or frayed planar …",
+ "text": " Tendriculos These strange amalgams of plant and fungus with animal tendencies form where the natural world is corrupted by foul magic or frayed planar boundaries. Tendriculoses are instinctive ambush predators who seek out lightly traveled forest paths and lie in wait in the undergrowth. A tendriculos swallows its prey as quickly as possible and lets its paralytic digestive juices finish the meal, while swiftly restoring itself with the nourishment provided by the trapped creature. When collected, neutralized, and refined, the digestive fluids of a tendriculos form a lacquer that retains some of the tendriculos's acid resistance. A tendriculos comes into being with a rudimentary understanding of the Sylvan language, but in some cases it might manifest knowing a different tongue, such as Aklo, Draconic, or even Necril. Regardless, tendriculoses have little patience for chattering from potential meals, though some determined fey and primal spellcasters have been known to form alliances or even closer bonds with tendriculoses. Befriending a tendriculos requires great patience and plentiful food—and these the gifts of food must be alive when handed over. When it has finished feeding and is out of combat, a tendriculos slips into a quiescent state for a full day, one of the few times it is safe to approach. Upon rousing, it seeks the deep forest to regurgitate the less digestible portions of its meal. These remains may contain valuables that survived digestion and indicate that a tendriculos's hunting grounds lie nearby. Tendriculoses dwell in deep woods and jungles. Those too near populated areas soon draw unwanted attention with their ravenous appetites. Well-fed tendriculoses develop fruiting bodies that cast forth millions of spores. Spores that happen to alight on carrion grow into new tendriculoses. Recall Knowledge - Fungus (Nature): DC 23 Recall Knowledge - Plant (Nature): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Tendriculos Source Bestiary 2 pg. 257 2.0 Perception +15; low-light vision Languages Sylvan; (can't speak any language) Skills Athletics +17, Stealth +14 Str +7 Dex +2 Con +5 Int -2 Wis +3 Cha +0 --- AC 25 Fort +17 Ref +12 Will +13 HP 120 Immunities acid Resistances piercing 5, slashing 5 Weaknesses fire 5 Attack of Opportunity Reaction Tentacle only. --- Speed 20 feet Melee Single Action bite +18 (reach 10 feet), Damage 2d10+11 piercing plus Grab Melee Single Action tentacle +18 (Agile, reach 15 feet), Damage 2d6+11 bludgeoning plus Grab Rampant Growth Single Action Requirements A creature the tendriculos has Swallowed Whole has taken damage since the end of the tendriculos's last turn, and the tendriculos hasn't used any other actions this turn; Effect The tendriculos regains 3d8 HP and recovers from the fatigued and slowed conditions. It reduces any enfeebled value it has by 2. Swallow Whole Single Action (Attack) Large, 2d10+7 acid plus tendriculos venom, Rupture 14 Tendriculos Venom (Incapacitation, Poison) Saving Throw DC 21 Fortitude; Maximum Duration 6 rounds; Stage 1 clumsy 2 (1 round); Stage 2 clumsy 2 and slowed 2 (1 round); Stage 3 paralyzed (1 round) Tendriculos Lacquer Objects coated with tendriculos lacquer gain resistance 5 to acid. Making and applying tendriculos lacquer requires a 5th-level formula, the Alchemical Crafting skill feat, and the fluid from the stomach of a tendriculos. A successful DC 20 Craft check and 4 days of work are enough to protect 1 Bulk of items with no other cost in materials, but the fluid is used up even on a failed check. ",
+ "trait": [
+  "Fungus",
+  "Plant",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Fungus](/Traits.aspx?ID=77), [Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Fungus",
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=823",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 13,
+ "wisdom": 3
+}

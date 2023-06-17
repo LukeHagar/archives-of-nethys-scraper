@@ -1,0 +1,107 @@
+{
+ "ac": 43,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 8,
+ "constitution": 8,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Catch Rock",
+  "Juggernaut",
+  "Chill Breath",
+  "Hatchet Onslaught",
+  "Ice Stride",
+  "Rage",
+  "Throw Rock",
+  "Wide Swing"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 35,
+ "hp": 360,
+ "hp_raw": "360 ( fast healing  20)",
+ "id": "creature-2352",
+ "immunity": [
+  "cold"
+ ],
+ "immunity_markdown": "cold",
+ "intelligence": 4,
+ "language_markdown": "",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"\">[Kargstaad](/Monsters.aspx?ID=2352)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 49\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 47\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 44\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Kargstaad](/Monsters.aspx?ID=2352)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 448</row>\n\n**Perception** +33; [low-light vision](/MonsterAbilities.aspx?ID=23)Languages Aklo, Common, Jotun, Sylvan\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +39, [Crafting](/Skills.aspx?ID=4) +33, [Intimidation](/Skills.aspx?ID=7) +37, [Stealth](/Skills.aspx?ID=15) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +6\r\n\r\n**Con** +8\r\n\r\n**Int** +4\r\n\r\n**Wis** +6\r\n\r\n**Cha** +8\r\n</row>\n\n**Items**\r\n_[+2 greater resilient](/Equipment.aspx?ID=147) [hide armor](/Armor.aspx?ID=7)_, _[+2 striking](/Equipment.aspx?ID=380) [hatchets](/Weapons.aspx?ID=27)_ (4), [sack with 5 rocks](/Equipment.aspx?ID=45)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 43 \r\n\r\n**Fort** +35 \r\n\r\n**Ref** +31 \r\n\r\n**Will** +33 \r\n\r\njuggernaut\r\n</row>\r\n\r\n**HP** 360\r\n([fast healing](/MonsterAbilities.aspx?ID=15) 20)\n\n**Immunities**\r\ncold\n\n**Weaknesses**\r\nfire 20\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /><br />**[Catch Rock](/MonsterAbilities.aspx?ID=7)** <actions string=\"Reaction\" /><br />**Juggernaut** When Kargstaad rolls a success on a Fortitude save, he gets a critical success instead.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet; ice stride\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_hatchet_ +37 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 3d6+18 slashing plus 2d6 cold\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +35 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d10+18 bludgeoning\n\n**Chill Breath** <actions string=\"Single Action\" /> ([Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 9d6 cold damage. Each creature in the cone must attempt a DC 31 basic Reflex save. A creature that fails its save is also [immobilized](/Conditions.aspx?ID=24) and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 31). The giant can't use Chill Breath again for 1d4 rounds.\r\n\r\n**Hatchet Onslaught** <actions string=\"Three Actions\" />  **Requirement** Each of Kargstaad's four hands wields a hatchet. **Effect** Kargstaad Strides up to half his speed, then makes four hatchet Strikes, applying his multiple attack penalty as normal.\r\n\r\n**Ice Stride**   A frost giant isn't impeded by difficult terrain caused by snow or ice, nor does it need to attempt Acrobatics checks to keep from falling on slippery ice\r\n\r\n**Rage** <actions string=\"Single Action\" />  **Requirements** Kargstaad isn't fatigued or raging. **Effect** Kargstaad gains 25 temporary hit points, deals an extra 12 points of damage with thrown rocks, and deals an extra 6 points of damage with hatchets. He takes a –1 penalty to AC and can't use actions with the concentrate trait (except Seek) unless they also have the rage trait.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n**Wide Swing** <actions string=\"Single Action\" />  Kargstaad makes a single hatchet Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for Kargstaad's multiple attack penalty.\r\n\r\n</column>",
+ "name": "Kargstaad",
+ "npc": false,
+ "perception": 33,
+ "rarity": "unique",
+ "reflex_save": 31,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 448</row>\n\n<row gap=\"medium\">\r\n**HP** 360 ( fast healing  20)\r\n\r\n**AC** 43\r\n\r\n**Fort** +35\r\n\r\n**Ref** +31\r\n\r\n**Will** +33\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision Languages Aklo, Common, Jotun, Sylvan",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)Languages Aklo, Common, Jotun, Sylvan",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +39",
+  "Crafting +33",
+  "Intimidation +37",
+  "Stealth +33"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +39, [Crafting](/Skills.aspx?ID=4) +33, [Intimidation](/Skills.aspx?ID=7) +37, [Stealth](/Skills.aspx?ID=15) +33",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 448"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 448</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet; ice stride",
+ "speed_raw": "30 feet; ice stride",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "33",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Kargstaad Recall Knowledge - Humanoid (Society): DC 49 Unspecific Lore : DC 47 Specific Lore : DC 44 Kargstaad Source Kingmaker Adventure Path pg. 448 Perception +33; low-light visionLanguages Aklo, Common, Jotun, Sylvan Languages Skills Athletics +39, Crafting +33, Intimidation +37, Stealth +33 Str +10 Dex +6 Con +8 Int +4 Wis +6 Cha +8 Items +2 greater resilient hide armor , +2 striking hatchets (4), sack with 5 rocks --- AC 43 Fort +35 Ref +31 Will +33 juggernaut HP 360 (fast healing 20) Immunities cold Weaknesses fire 20 Attack of Opportunity Reaction Catch Rock Reaction Juggernaut When Kargstaad rolls a success on a Fortitude save, he gets a critical success instead. --- Speed 30 feet; ice stride Melee Single Action hatchet +37 (Agile, Magical, Sweep), Damage 3d6+18 slashing plus 2d6 cold Ranged Single Action rock +35 (Brutal, range increment 120 feet), Damage 2d10+18 bludgeoning Chill Breath Single Action (Cold, Evocation, Primal) The frost giant breathes out a 15-foot cone of freezing moisture that quickly condenses into ice, dealing 9d6 cold damage. Each creature in the cone must attempt a DC 31 basic Reflex save. A creature that fails its save is also immobilized and takes 2d6 cold damage at the end of each of its turns until it gets free (Escape DC 31). The giant can't use Chill Breath again for 1d4 rounds. Hatchet Onslaught Three Actions Requirement Each of Kargstaad's four hands wields a hatchet. Effect Kargstaad Strides up to half his speed, then makes four hatchet Strikes, applying his multiple attack penalty as normal. Ice Stride A frost giant isn't impeded by difficult terrain caused by snow or ice, nor does it need to attempt Acrobatics checks to keep from falling on slippery ice Rage Single Action Requirements Kargstaad isn't fatigued or raging. Effect Kargstaad gains 25 temporary hit points, deals an extra 12 points of damage with thrown rocks, and deals an extra 6 points of damage with hatchets. He takes a –1 penalty to AC and can't use actions with the concentrate trait (except Seek) unless they also have the rage trait. Throw Rock Single Action Wide Swing Single Action Kargstaad makes a single hatchet Strike and compares the attack roll result to the ACs of up to two foes within its reach. This counts as two attacks for Kargstaad's multiple attack penalty. ",
+ "trait": [
+  "Cold",
+  "Giant",
+  "Humanoid",
+  "Unique",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Cold](/Traits.aspx?ID=27), [Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Cold",
+  "Giant",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2352",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 20
+ },
+ "weakness_markdown": "fire 20",
+ "weakness_raw": "fire 20",
+ "will_save": 33,
+ "wisdom": 6
+}

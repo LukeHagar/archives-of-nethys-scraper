@@ -1,0 +1,108 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 8,
+ "creature_ability": [
+  "Motion Sense",
+  "Sticky",
+  "Engulf",
+  "Viscous Sludge",
+  "Zombification"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": -3,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 255,
+ "hp_raw": "255",
+ "id": "creature-1815",
+ "image": [
+  "/Images/Monsters/Ooze_TarOoze.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "mental",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "critical hits, [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tar Ooze](/Monsters.aspx?ID=1815)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen creatures carrying magical items die in a tar pit, the magic mixes with the tar itself. Over centuries, this energy animates the tar into a relentless and horrifying ooze.\n\n Tar oozes begin their existence in tar pits, naturally occurring lakes of thick and sticky petroleum. Tar pits make effective traps for animals and humanoids alike, as they're often covered with thin layers of dirt or grass or reflect sunlight in a way that resembles a watering hole. Once a creature steps or falls into the sticky tar of the pit, escape is all but impossible. Slowly, the caught creature—and any other victims lured near by its plaintive cries—sinks into the tar, suffocates, and dies.\n\n Magic inherent in a captive creature or carried in powerful magic items carried by the dead remains inside the tar, where it gathers, mixes, and slowly energizes it until it begins to move and seek prey. A tar ooze seeps slowly over the land, catching anything it touches in a sticky embrace and devouring it.\n\n Living things consumed by the ooze slowly have their flesh digested, only for the bones and fur to be replaced with blobs of sticky tar. These unnatural zombies eventually crawl away, hungry for flesh. Without a master to give them instructions, these [tar zombies](/MonsterFamilies.aspx?ID=303) often follow the ooze that created them, swarming anyone bold or foolish enough to get in their way.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ooze_TarOoze.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Tar Ooze](/Monsters.aspx?ID=1815)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 82</row>\n\n**Perception** +18; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** -3\r\n\r\n**Con** +8\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A tar ooze can sense nearby motion through vibration and movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 255\n\n**Immunities**\r\ncritical hits, [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 10\r\n\r\n**Sticky** <actions string=\"Reaction\" /> **Trigger** The tar ooze is hit by a melee attack; **Effect** The ooze attempts to [Grapple](/Actions.aspx?ID=35) the creature that hit it. The ooze must still spend an action to extend the duration of the Grab on subsequent rounds, as normal.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, climb 10 feet; viscous sludge\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +23 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+14 bludgeoning plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\n\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Two Actions\" />  DC 29, 6d6 bludgeoning, [Escape](/Actions.aspx?ID=79) DC 29, Rupture 17\r\n\r\n**Viscous Sludge**   The tar ooze can have up to eight creatures grappled at the same time; doing so doesn't prevent it from making pseudopod Strikes. A tar ooze can climb on ceilings and other inverted surfaces, though such surfaces are difficult terrain.\r\n\r\n**Zombification**  ([Necromancy](/Traits.aspx?ID=117), [Ooze](/Traits.aspx?ID=122)) A creature slain while engulfed by a tar ooze undergoes a horrifying transformation and crawls from the ooze a week later as a [tar zombie](/MonsterFamilies.aspx?ID=303).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Tar Ooze Treasure</title>\r\n\r\nA tar ooze is animated by the mixed magical auras of creatures and items trapped within it. Unlike most oozes, a tar ooze isn't acidic; it is massive, however, and objects caught inside are subjected to great pressure and force as the tar ooze moves. Anything small and hard— such as coins, jewels, rings, and [_aeon stones_](/Equipment.aspx?ID=407)—are especially likely to remain relatively undamaged inside a tar ooze. Other metal objects, including most weapons and armor, are also likely to survive, though some might need repair.\r\n</aside>",
+ "name": "Tar Ooze",
+ "npc": false,
+ "perception": 18,
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 82</row>\n\n<row gap=\"medium\">\r\n**HP** 255\r\n\r\n**AC** 18\r\n\r\n**Fort** +22\r\n\r\n**Ref** +10\r\n\r\n**Will** +15\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen creatures carrying magical items die in a tar pit, the magic mixes with the tar itself. Over centuries, this energy animates the tar into a …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Pathfinder #177: Burning Tundra"
+ ],
+ "source_raw": [
+  "Pathfinder #177: Burning Tundra pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #177: Burning Tundra](/Sources.aspx?ID=116) pg. 82</row>",
+ "speed": {
+  "climb": 10,
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet, climb 10 feet; viscous sludge",
+ "speed_raw": "15 feet, climb 10 feet; viscous sludge",
+ "spell_markdown": "",
+ "spoilers": "Quest for the Frozen Flame",
+ "stealth": "13",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "When creatures carrying magical items die in a tar pit, the magic mixes with the tar itself. Over centuries, this energy animates the tar into a …",
+ "summary_markdown": "When creatures carrying magical items die in a tar pit, the magic mixes with the tar itself. Over centuries, this energy animates the tar into a …",
+ "text": " Tar Ooze When creatures carrying magical items die in a tar pit, the magic mixes with the tar itself. Over centuries, this energy animates the tar into a relentless and horrifying ooze. Tar oozes begin their existence in tar pits, naturally occurring lakes of thick and sticky petroleum. Tar pits make effective traps for animals and humanoids alike, as they're often covered with thin layers of dirt or grass or reflect sunlight in a way that resembles a watering hole. Once a creature steps or falls into the sticky tar of the pit, escape is all but impossible. Slowly, the caught creature—and any other victims lured near by its plaintive cries—sinks into the tar, suffocates, and dies. Magic inherent in a captive creature or carried in powerful magic items carried by the dead remains inside the tar, where it gathers, mixes, and slowly energizes it until it begins to move and seek prey. A tar ooze seeps slowly over the land, catching anything it touches in a sticky embrace and devouring it. Living things consumed by the ooze slowly have their flesh digested, only for the bones and fur to be replaced with blobs of sticky tar. These unnatural zombies eventually crawl away, hungry for flesh. Without a master to give them instructions, these tar zombies often follow the ooze that created them, swarming anyone bold or foolish enough to get in their way. Recall Knowledge - Ooze (Occultism): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Tar Ooze Source Pathfinder #177: Burning Tundra pg. 82 Perception +18; motion sense 60 feet, no vision Languages Skills Athletics +23, Stealth +13 Str +8 Dex -3 Con +8 Int -5 Wis +0 Cha -5 Motion Sense A tar ooze can sense nearby motion through vibration and movement. --- AC 18 Fort +22 Ref +10 Will +15 HP 255 Immunities critical hits, mental, precision, unconscious, visual Weaknesses fire 10 Sticky Reaction Trigger The tar ooze is hit by a melee attack; Effect The ooze attempts to Grapple the creature that hit it. The ooze must still spend an action to extend the duration of the Grab on subsequent rounds, as normal. --- Speed 15 feet, climb 10 feet; viscous sludge Melee Single Action pseudopod +23 (reach 10 feet), Damage 2d10+14 bludgeoning plus Improved Grab Engulf Two Actions DC 29, 6d6 bludgeoning, Escape DC 29, Rupture 17 Viscous Sludge The tar ooze can have up to eight creatures grappled at the same time; doing so doesn't prevent it from making pseudopod Strikes. A tar ooze can climb on ceilings and other inverted surfaces, though such surfaces are difficult terrain. Zombification (Necromancy, Ooze) A creature slain while engulfed by a tar ooze undergoes a horrifying transformation and crawls from the ooze a week later as a tar zombie. Tar Ooze Treasure A tar ooze is animated by the mixed magical auras of creatures and items trapped within it. Unlike most oozes, a tar ooze isn't acidic; it is massive, however, and objects caught inside are subjected to great pressure and force as the tar ooze moves. Anything small and hard— such as coins, jewels, rings, and aeon stones —are especially likely to remain relatively undamaged inside a tar ooze. Other metal objects, including most weapons and armor, are also likely to survive, though some might need repair. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "Uncommon",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1815",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 10",
+ "weakness_raw": " fire  10",
+ "will_save": 15,
+ "wisdom": 0
+}

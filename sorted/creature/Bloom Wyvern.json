@@ -1,0 +1,99 @@
+{
+ "ac": 27,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Savage",
+  "Powerful Dive",
+  "Punishing Momentum",
+  "Wyvern Poison"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 135,
+ "hp_raw": "135",
+ "id": "creature-2292",
+ "immunity": [
+  "paralyzed",
+  "unconscious"
+ ],
+ "immunity_markdown": "paralyzed, unconscious",
+ "intelligence": -2,
+ "language": [
+  "Draconic"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Bloom Wyvern](/Monsters.aspx?ID=2292)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 34\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 32\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 29\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Bloom Wyvern](/Monsters.aspx?ID=2292)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 224</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 135\n\n**Immunities**\r\nparalyzed, unconscious\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /><br />**Savage** <actions string=\"Reaction\" /> **Trigger** A creature grabbed by the wyvern critically fails a skill check to Escape. **Effect** The wyvern makes a stinger Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +20 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+9 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20,\r\n**Damage** 2d10+9 slashing plus Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +18 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+9 piercing plus wyvern venom\n\n**Powerful Dive** <actions string=\"Two Actions\" /> ([Move](/Traits.aspx?ID=114)) The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw Strike against that enemy. If the claw hits, as a free action the wyvern can either automatically [Grab](/MonsterAbilities.aspx?ID=18) the target or knock it [prone](/Conditions.aspx?ID=31).\r\n\r\n**Punishing Momentum** <actions string=\"Single Action\" />  **Requirements** The wyvern **grabbed** a creature this turn using Powerful Dive. **Effect** The wyvern can Fly at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can Strike the creature with its stinger with a +2 circumstance bonus.\r\n\r\n**Wyvern Poison**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 26; **Maximum Duration** 6 rounds; **Stage 1** 5d6 poison damage (1 round); **Stage 2** 6d6 poison damage (1 round); **Stage 3** 8d6 poison damage (1 round)\r\n\r\n</column>",
+ "name": "Bloom Wyvern",
+ "npc": false,
+ "perception": 16,
+ "rarity": "unique",
+ "reflex_save": 13,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 224</row>\n\n<row gap=\"medium\">\r\n**HP** 135\r\n\r\n**AC** 27\r\n\r\n**Fort** +18\r\n\r\n**Ref** +13\r\n\r\n**Will** +16\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +18",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 224"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 224</row>",
+ "speed": {
+  "fly": 60,
+  "land": 20,
+  "max": 60
+ },
+ "speed_markdown": "20 feet, fly 60 feet",
+ "speed_raw": "20 feet, fly 60 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "15",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Bloom Wyvern Recall Knowledge - Dragon (Arcana): DC 34 Unspecific Lore : DC 32 Specific Lore : DC 29 Bloom Wyvern Source Kingmaker Adventure Path pg. 224 Perception +16; darkvision, scent (imprecise) 30 feet Languages Draconic Skills Acrobatics +17, Athletics +18, Stealth +15 Str +6 Dex +3 Con +4 Int -2 Wis +4 Cha +0 --- AC 27 Fort +18 Ref +13 Will +16 HP 135 Immunities paralyzed, unconscious Attack of Opportunity Reaction Savage Reaction Trigger A creature grabbed by the wyvern critically fails a skill check to Escape. Effect The wyvern makes a stinger Strike against the triggering creature. --- Speed 20 feet, fly 60 feet Melee Single Action fangs +20 (reach 10 feet), Damage 2d12+9 piercing Melee Single Action claw +20, Damage 2d10+9 slashing plus Grab Melee Single Action stinger +18 (Agile, reach 10 feet), Damage 2d8+9 piercing plus wyvern venom Powerful Dive Two Actions (Move) The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw Strike against that enemy. If the claw hits, as a free action the wyvern can either automatically Grab the target or knock it prone. Punishing Momentum Single Action Requirements The wyvern grabbed a creature this turn using Powerful Dive. Effect The wyvern can Fly at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can Strike the creature with its stinger with a +2 circumstance bonus. Wyvern Poison (Poison) Saving Throw Fortitude DC 26; Maximum Duration 6 rounds; Stage 1 5d6 poison damage (1 round); Stage 2 6d6 poison damage (1 round); Stage 3 8d6 poison damage (1 round) ",
+ "trait": [
+  "Dragon",
+  "Unique",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Dragon",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2292",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 4
+}

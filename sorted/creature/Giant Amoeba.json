@@ -1,0 +1,109 @@
+{
+ "ac": 8,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 2,
+ "creature_ability": [
+  "Motion Sense",
+  "Constrict",
+  "Envelop",
+  "Weak Acid"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": -2,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-751",
+ "image": [
+  "/Images/Monsters/Ooze_GiantAmoeba.png"
+ ],
+ "immunity": [
+  "acid",
+  "critical hits",
+  "mental",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "acid, critical hits, [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Amoeba](/Monsters.aspx?ID=751)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese blobs of nearly transparent protoplasm are identical in form and behavior to the microscopic creatures from which they have evolved, except their outlandish size makes them all the more dangerous. Unlike slimes, puddings, and other deadly oozes, giant amoebas have an outer membrane that contains their internal structures, making them more susceptible to slashing weapons than their amorphous kin. However, this membrane is also extremely flexible and permeable, allowing them to surround prey and absorb it, suffocating and slowly digesting it in the amoeba's acidic fluids.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ooze_GiantAmoeba.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Giant Amoeba](/Monsters.aspx?ID=751)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 192 <sup>2.0</sup></row>\n\n**Perception** +4; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6, [Stealth](/Skills.aspx?ID=15) +3\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** -2\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A giant amoeba can sense nearby creatures through vibration and air or water movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 8 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +3 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 45\n\n**Immunities**\r\nacid, critical hits, [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Weaknesses**\r\nslashing 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, climb 10 feet, swim 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +8,\r\n**Damage** 1d6 acid plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d4 bludgeoning plus 1d4 acid, DC 17\r\n\r\n**Envelop** <actions string=\"Three Actions\" />  **Requirements** The giant amoeba begins its turn with a target its size or smaller [grabbed](/Conditions.aspx?ID=20); **Effect** The giant amoeba maintains the [Grab](/MonsterAbilities.aspx?ID=18) and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had [Engulfed](/MonsterAbilities.aspx?ID=14) the creature (DC 17, 1d6 acid, Escape DC 17, Rupture 3).\r\n\r\n**Weak Acid**   A giant amoeba's acid damages only organic material—not metal, stone, or other inorganic substances.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Giant Amoeba",
+ "npc": false,
+ "perception": 4,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 3,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 192 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 8\r\n\r\n**Fort** +7\r\n\r\n**Ref** +3\r\n\r\n**Will** +5\r\n\r\n**Perception** +4\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese blobs of nearly transparent protoplasm are identical in form and behavior to the microscopic creatures from which they have evolved, except …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +6",
+  "Stealth +3"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6, [Stealth](/Skills.aspx?ID=15) +3",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 192"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 192 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 10,
+  "land": 10,
+  "max": 10,
+  "swim": 10
+ },
+ "speed_markdown": "10 feet, climb 10 feet, swim 10 feet",
+ "speed_raw": "10 feet, climb 10 feet, swim 10 feet",
+ "spell_markdown": "",
+ "stealth": "3",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "These blobs of nearly transparent protoplasm are identical in form and behavior to the microscopic creatures from which they have evolved, except …",
+ "summary_markdown": "These blobs of nearly transparent protoplasm are identical in form and behavior to the microscopic creatures from which they have evolved, except …",
+ "text": " Giant Amoeba These blobs of nearly transparent protoplasm are identical in form and behavior to the microscopic creatures from which they have evolved, except their outlandish size makes them all the more dangerous. Unlike slimes, puddings, and other deadly oozes, giant amoebas have an outer membrane that contains their internal structures, making them more susceptible to slashing weapons than their amorphous kin. However, this membrane is also extremely flexible and permeable, allowing them to surround prey and absorb it, suffocating and slowly digesting it in the amoeba's acidic fluids. Recall Knowledge - Ooze (Occultism): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Giant Amoeba Source Bestiary 2 pg. 192 2.0 Perception +4; motion sense 60 feet, no vision Languages Skills Athletics +6, Stealth +3 Str +3 Dex -2 Con +2 Int -5 Wis +0 Cha -5 Motion Sense A giant amoeba can sense nearby creatures through vibration and air or water movement. --- AC 8 Fort +7 Ref +3 Will +5 HP 45 Immunities acid, critical hits, mental, precision, unconscious, visual Weaknesses slashing 5 --- Speed 10 feet, climb 10 feet, swim 10 feet Melee Single Action pseudopod +8, Damage 1d6 acid plus Grab Constrict Single Action 1d4 bludgeoning plus 1d4 acid, DC 17 Envelop Three Actions Requirements The giant amoeba begins its turn with a target its size or smaller grabbed; Effect The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1d6 acid, Escape DC 17, Rupture 3). Weak Acid A giant amoeba's acid damages only organic material—not metal, stone, or other inorganic substances. ",
+ "trait": [
+  "Amphibious",
+  "Mindless",
+  "Ooze",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Amphibious",
+  "Mindless",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=751",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "slashing": 5
+ },
+ "weakness_markdown": "slashing 5",
+ "weakness_raw": "slashing 5",
+ "will_save": 5,
+ "wisdom": 0
+}

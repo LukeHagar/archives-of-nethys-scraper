@@ -1,0 +1,118 @@
+{
+ "ac": 23,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 2,
+ "creature_ability": [
+  "Melt",
+  "Slowed by Cold",
+  "Encase",
+  "Molten Wax"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 145,
+ "hp_raw": "145",
+ "id": "creature-2184",
+ "immunity": [
+  "bleed",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tallow Guardian](/Monsters.aspx?ID=2184)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA tallow guardian typically appears as a vaguely humanoid-shaped mass of tallow or wax, its surface constantly melting, running down its body, and then hardening only to be reabsorbed into the central mass. The tallow guardian's face seems constantly on the verge of melting into a shapeless blob, yet the unsettling construct can still sense the world around it with ease.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Tallow Guardian](/Monsters.aspx?ID=2184)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 122</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +0\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 145\n\n**Immunities**\r\nbleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\n[fire](/Traits.aspx?ID=72) 5, physical 5 (except bludgeoning)\r\n\r\n**Weaknesses**\r\n[cold](/Traits.aspx?ID=27) 10\r\n\r\n**Melt** If a tallow guardian takes any fire damage, its body melts somewhat and becomes even more difficult to damage. Until the end of its next turn, its resistance to slashing and piercing damage increases to 10, and its resistance to bludgeoning damage increases to 5.<br />**Slowed by Cold** If a tallow guardian takes any cold damage, it loses the benefits granted by melt and becomes [slowed 1](/Conditions.aspx?ID=35).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +18 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+8 bludgeoning plus 1d6 [persistent fire](/Conditions.aspx?ID=29) and [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Encase** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) The tallow guardian attempts to pull a Medium or smaller creature it has [grabbed](/Conditions.aspx?ID=20) into its body. The tallow guardian attempts an [Athletics](/Skills.aspx?ID=3) check opposed by the grabbed creature's Reflex DC. If it succeeds, it encases the creature with its body. An encased creature is grabbed, is [slowed 1](/Conditions.aspx?ID=35), and must hold its breath or start [suffocating](/Rules.aspx?ID=468). It takes 2d6 fire damage from the tallow guardian's molten hot wax when it's first encased, and at the end of each of its turns while it's encased.<br /> A tallow guardian can only have one encased creature at a time; if a tallow guardian encases a new creature, a previously encased creature is forced out of its body into an adjacent square of the creature's choice.<br /> An encased creature can break free with a successful DC 22 check to [Escape](/Actions.aspx?ID=79). An encased creature can attack the tallow guardian, but only with [unarmed](/Traits.aspx?ID=199) attacks or with weapons of light Bulk or less. The tallow guardian is [flat-footed](/Conditions.aspx?ID=16) against the attack. If the tallow guardian takes 7 or more bludgeoning or slashing damage from an encased creature, the creature wrenches itself free. A creature that gets free by either method can immediately breathe and exits the tallow guardian's space, but it continues to take 1d6 [persistent fire damage](/Conditions.aspx?ID=29) from the molten wax that clings to its body.<br /> If a tallow guardian is destroyed, any creature it has encased is automatically released as the guardian's body collapses into a shapeless mound of tallow.\r\n\r\n**Molten Wax**   All [persistent fire damage](/Conditions.aspx?ID=29) caused by a tallow guardian comes from globs of molten hot tallow that cling to its foes. This tallow cools automatically after 4 rounds, or immediately if the creature takes any cold damage; once the tallow cools, the persistent fire damage ends.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">From Evil Intent</title>\r\n\r\nWhile a tallow guardian itself isn't intrinsically evil, the traditional methods of creating it involve rendering humanoid corpses to generate the tallow needed to construct its frame. The guardian is then animated by siphoning fragments of souls that linger in the area into a rudimentary but mindless animating force. Other methods of infusing tallow guardians with raw positive energy or voluntary donations could work, but the traditional method persists, giving these constructs an unsettling legacy.\r\n</aside>",
+ "name": "Tallow Guardian",
+ "npc": false,
+ "perception": 13,
+ "rarity": "rare",
+ "reflex_save": 11,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "fire": 5,
+  "physical": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "[fire](/Traits.aspx?ID=72) 5, physical 5 (except bludgeoning)",
+ "resistance_raw": " fire  5, physical 5 (except bludgeoning)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 122</row>\n\n<row gap=\"medium\">\r\n**HP** 145\r\n\r\n**AC** 23\r\n\r\n**Fort** +15\r\n\r\n**Ref** +11\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA tallow guardian typically appears as a vaguely humanoid-shaped mass of tallow or wax, its surface constantly melting, running down its body, and …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +17",
+ "source": [
+  "Crown of the Kobold King"
+ ],
+ "source_raw": [
+  "Crown of the Kobold King pg. 122"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Crown of the Kobold King",
+ "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 122</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "spoilers": "Crown of the Kobold King",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A tallow guardian typically appears as a vaguely humanoid-shaped mass of tallow or wax, its surface constantly melting, running down its body, and …",
+ "summary_markdown": "A tallow guardian typically appears as a vaguely humanoid-shaped mass of tallow or wax, its surface constantly melting, running down its body, and …",
+ "text": " Tallow Guardian A tallow guardian typically appears as a vaguely humanoid-shaped mass of tallow or wax, its surface constantly melting, running down its body, and then hardening only to be reabsorbed into the central mass. The tallow guardian's face seems constantly on the verge of melting into a shapeless blob, yet the unsettling construct can still sense the world around it with ease. Recall Knowledge - Construct (Arcana, Crafting): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Tallow Guardian Source Crown of the Kobold King pg. 122 Perception +13; darkvision Languages Skills Athletics +17 Str +5 Dex +0 Con +2 Int -5 Wis +0 Cha -5 --- AC 23 Fort +15 Ref +11 Will +13 HP 145 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances fire 5, physical 5 (except bludgeoning) Weaknesses cold 10 Melt If a tallow guardian takes any fire damage, its body melts somewhat and becomes even more difficult to damage. Until the end of its next turn, its resistance to slashing and piercing damage increases to 10, and its resistance to bludgeoning damage increases to 5. Slowed by Cold If a tallow guardian takes any cold damage, it loses the benefits granted by melt and becomes slowed 1. --- Speed 20 feet Melee Single Action fist +18 (Magical), Damage 2d8+8 bludgeoning plus 1d6 persistent fire and Grab Encase Single Action (Attack) The tallow guardian attempts to pull a Medium or smaller creature it has grabbed into its body. The tallow guardian attempts an Athletics check opposed by the grabbed creature's Reflex DC. If it succeeds, it encases the creature with its body. An encased creature is grabbed, is slowed 1, and must hold its breath or start suffocating. It takes 2d6 fire damage from the tallow guardian's molten hot wax when it's first encased, and at the end of each of its turns while it's encased. A tallow guardian can only have one encased creature at a time; if a tallow guardian encases a new creature, a previously encased creature is forced out of its body into an adjacent square of the creature's choice. An encased creature can break free with a successful DC 22 check to Escape. An encased creature can attack the tallow guardian, but only with unarmed attacks or with weapons of light Bulk or less. The tallow guardian is flat-footed against the attack. If the tallow guardian takes 7 or more bludgeoning or slashing damage from an encased creature, the creature wrenches itself free. A creature that gets free by either method can immediately breathe and exits the tallow guardian's space, but it continues to take 1d6 persistent fire damage from the molten wax that clings to its body. If a tallow guardian is destroyed, any creature it has encased is automatically released as the guardian's body collapses into a shapeless mound of tallow. Molten Wax All persistent fire damage caused by a tallow guardian comes from globs of molten hot tallow that cling to its foes. This tallow cools automatically after 4 rounds, or immediately if the creature takes any cold damage; once the tallow cools, the persistent fire damage ends. From Evil Intent While a tallow guardian itself isn't intrinsically evil, the traditional methods of creating it involve rendering humanoid corpses to generate the tallow needed to construct its frame. The guardian is then animated by siphoning fragments of souls that linger in the area into a rudimentary but mindless animating force. Other methods of infusing tallow guardians with raw positive energy or voluntary donations could work, but the traditional method persists, giving these constructs an unsettling legacy. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "Rare",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Construct",
+  "Mindless",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2184",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold": 10
+ },
+ "weakness_markdown": "[cold](/Traits.aspx?ID=27) 10",
+ "weakness_raw": " cold  10",
+ "will_save": 13,
+ "wisdom": 0
+}

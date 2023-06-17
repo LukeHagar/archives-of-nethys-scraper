@@ -1,0 +1,113 @@
+{
+ "ac": 27,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Defensive Burst",
+  "Bloom Curse",
+  "Spew Seed Pod"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 210,
+ "hp_raw": "210",
+ "id": "creature-2206",
+ "image": [
+  "/Images/Monsters/BloomOfLamashtu.png"
+ ],
+ "immunity": [
+  "acid",
+  "curses"
+ ],
+ "immunity_markdown": "[acid](/Traits.aspx?ID=3), [curses](/Traits.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Abyssal",
+  "(cannot speak any language)"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12); (cannot speak any language)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Bloom Of Lamashtu](/Monsters.aspx?ID=2206)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA thick, green stalk with spiraling rows of thorns stands at the center of this enormous flowering plant. Each flower has a growing seed pod at its center, surrounded by vibrant petals in a wide variety of colors. Crafted after consecutive seasons of experimentation, prayer, and ritual, the bloom of [Lamashtu](/Deities.aspx?ID=11) is the triumph of the cultist Darivan and his Cult of the Bloom. The fiendish plant aids their effort to infect the humanoid population of the Stolen Lands and replace them with monstrous predators. While the Bloom of Lamashtu is intelligent and is capable of understanding [Abyssal](/Languages.aspx?ID=12), it has very little interest in anything other than spreading its curse.\n\n Cultivated to spread misery and violence, the bloom is quietly malevolent, growing its seeds as rapidly as it can. It is 12 feet tall and weighs 600 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 37\r\n\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/BloomOfLamashtu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Bloom Of Lamashtu](/Monsters.aspx?ID=2206)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 611</row>\n\n**Perception** +21; [low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (precise) 30 feet\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12); (cannot speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +21, [Stealth](/Skills.aspx?ID=15) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +5\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 210\n\n**Immunities**\r\n[acid](/Traits.aspx?ID=3), [curses](/Traits.aspx?ID=38)\r\n\r\n**Resistances**\r\nbludgeoning 10, piercing 10\r\n\r\n**Weaknesses**\r\ngood 10, slashing 10\r\n\r\n**Defensive Burst** <actions string=\"Reaction\" /> **Trigger** The bloom takes slashing damage. **Effect** The bloom of Lamashtu sprays a gout of acid against an adjacent creature, inflicting 9d6 acid damage (DC 26 [basic](/Rules.aspx?ID=329) Reflex save). The bloom can't use Defensive Burst for 1d4 rounds.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nthorny vine +23 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+10 slashing plus 2d6 poison\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthorn +19 ([range 50 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6 piercing plus 1d6 poison\n\n**Bloom Curse**  ([Curse](/Traits.aspx?ID=38), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) A living creature is exposed to the bloom curse if it eats any portion of a bloom of Lamashtu, fails a save against the bloom's seed pod, or is critically hit by the bloom's thorny vine Strike. Unlike the bloom curse contracted from secondary sources (as detailed in Chapter 5), there is no onset time for this version of the curse, and the creature spawned by the victim's death may be much more powerful and is always chaotic evil.<br /> **Saving Throw** DC 29 Fortitude; **Stage 1** no ill effects (1 day); **Stage 2** [enfeebled 1](/Conditions.aspx?ID=13) (1 day); **Stage 3** enfeebled 1 and 2d6 poison damage (8 hours); **Stage 4** unconscious and 4d6 poison damage (10 minutes); **Stage 5** death; **Special** A creature that dies from the bloom curse explodes in a blast of [First World](/Planes.aspx?ID=10) foliage and releases a monster into the world. This creature is a chaotic evil low-intelligence [beast](/Traits.aspx?ID=20) or [dragon](/Traits.aspx?ID=50) (chosen by the GM ) of the same level as the dead creature.\r\n\r\n**Spew Seed Pod** <actions string=\"Two Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Poison](/Traits.aspx?ID=126), [Primal](/Traits.aspx?ID=134)) The bloom of Lamashtu's central stalk disgorges a pulsing seed pod from its flower, spitting it at a range of up to 60 feet and creating a 20-foot burst when the seed pod explodes into a spray of supernatural acidic poison. All creatures in this area must attempt a DC 29 Reflex save. The bloom of Lamashtu can't Spew Seed Pod for 1d4 rounds. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature takes 3d6 acid damage and 3d6 poison damage. <br />**Failure** The creature takes 5d6 acid damage and 5d6 poison damage and is exposed to the bloom curse. <br />**Critical Failure** As failure, but 10d6 acid damage and 10d6 poison damage, plus knocked [prone](/Conditions.aspx?ID=31) by the force of the blast.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Fiendish Genesis</title>\r\n\r\n**Warning - this sidebar contains spoilers for the Kingmaker adventure path.**\n\nDuring this campaign, there is but one bloom of Lamashtu, as the cult's attempts to cultivate more of them have so far been failures. At your option, more of these fiendish plants could well sprout from the bodies of their victims in time, or they might even already exist in some overgrown corner of the [Abyss](/Planes.aspx?ID=13). In this case, the bloom of Lamashtu becomes [Rare](/Traits.aspx?ID=137) rather than [Unique](/Traits.aspx?ID=161).\r\n</aside>",
+ "name": "Bloom Of Lamashtu",
+ "npc": false,
+ "perception": 21,
+ "rarity": "unique",
+ "reflex_save": 16,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "bludgeoning": 10,
+  "piercing": 10
+ },
+ "resistance_markdown": "bludgeoning 10, piercing 10",
+ "resistance_raw": "bludgeoning 10, piercing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 611</row>\n\n<row gap=\"medium\">\r\n**HP** 210\r\n\r\n**AC** 27\r\n\r\n**Fort** +21\r\n\r\n**Ref** +16\r\n\r\n**Will** +19\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA thick, green stalk with spiraling rows of thorns stands at the center of this enormous flowering plant. Each flower has a growing seed pod at its …\r\n</summary>",
+ "sense": " low-light vision ,  tremorsense  (precise) 30 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (precise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +21",
+  "Stealth +18"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +21, [Stealth](/Skills.aspx?ID=15) +18",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 611"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 611</row>",
+ "speed": {
+  "land": 5,
+  "max": 5
+ },
+ "speed_markdown": "5 feet",
+ "speed_raw": "5 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "18",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A thick, green stalk with spiraling rows of thorns stands at the center of this enormous flowering plant. Each flower has a growing seed pod at its …",
+ "summary_markdown": "A thick, green stalk with spiraling rows of thorns stands at the center of this enormous flowering plant. Each flower has a growing seed pod at its …",
+ "text": " Bloom Of Lamashtu A thick, green stalk with spiraling rows of thorns stands at the center of this enormous flowering plant. Each flower has a growing seed pod at its center, surrounded by vibrant petals in a wide variety of colors. Crafted after consecutive seasons of experimentation, prayer, and ritual, the bloom of Lamashtu is the triumph of the cultist Darivan and his Cult of the Bloom. The fiendish plant aids their effort to infect the humanoid population of the Stolen Lands and replace them with monstrous predators. While the Bloom of Lamashtu is intelligent and is capable of understanding Abyssal, it has very little interest in anything other than spreading its curse. Cultivated to spread misery and violence, the bloom is quietly malevolent, growing its seeds as rapidly as it can. It is 12 feet tall and weighs 600 pounds. Recall Knowledge - Fiend (Religion): DC 37 Recall Knowledge - Plant (Nature): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Bloom Of Lamashtu Source Kingmaker Adventure Path pg. 611 Perception +21; low-light vision, tremorsense (precise) 30 feet Languages Abyssal; (cannot speak any language) Skills Athletics +21, Stealth +18 Str +7 Dex +2 Con +5 Int +0 Wis +5 Cha +3 --- AC 27 Fort +21 Ref +16 Will +19 HP 210 Immunities acid, curses Resistances bludgeoning 10, piercing 10 Weaknesses good 10, slashing 10 Defensive Burst Reaction Trigger The bloom takes slashing damage. Effect The bloom of Lamashtu sprays a gout of acid against an adjacent creature, inflicting 9d6 acid damage (DC 26 basic Reflex save). The bloom can't use Defensive Burst for 1d4 rounds. --- Speed 5 feet Melee Single Action thorny vine +23 (reach 15 feet), Damage 2d8+10 slashing plus 2d6 poison Ranged Single Action thorn +19 (range 50 feet), Damage 2d6 piercing plus 1d6 poison Bloom Curse (Curse, Primal, Transmutation) A living creature is exposed to the bloom curse if it eats any portion of a bloom of Lamashtu, fails a save against the bloom's seed pod, or is critically hit by the bloom's thorny vine Strike. Unlike the bloom curse contracted from secondary sources (as detailed in Chapter 5), there is no onset time for this version of the curse, and the creature spawned by the victim's death may be much more powerful and is always chaotic evil. Saving Throw DC 29 Fortitude; Stage 1 no ill effects (1 day); Stage 2 enfeebled 1 (1 day); Stage 3 enfeebled 1 and 2d6 poison damage (8 hours); Stage 4 unconscious and 4d6 poison damage (10 minutes); Stage 5 death; Special A creature that dies from the bloom curse explodes in a blast of First World foliage and releases a monster into the world. This creature is a chaotic evil low-intelligence beast or dragon (chosen by the GM ) of the same level as the dead creature. Spew Seed Pod Two Actions (Conjuration, Poison, Primal) The bloom of Lamashtu's central stalk disgorges a pulsing seed pod from its flower, spitting it at a range of up to 60 feet and creating a 20-foot burst when the seed pod explodes into a spray of supernatural acidic poison. All creatures in this area must attempt a DC 29 Reflex save. The bloom of Lamashtu can't Spew Seed Pod for 1d4 rounds. Critical Success The creature is unaffected. Success The creature takes 3d6 acid damage and 3d6 poison damage. Failure The creature takes 5d6 acid damage and 5d6 poison damage and is exposed to the bloom curse. Critical Failure As failure, but 10d6 acid damage and 10d6 poison damage, plus knocked prone by the force of the blast. Fiendish Genesis Warning - this sidebar contains spoilers for the Kingmaker adventure path. During this campaign, there is but one bloom of Lamashtu, as the cult's attempts to cultivate more of them have so far been failures. At your option, more of these fiendish plants could well sprout from the bodies of their victims in time, or they might even already exist in some overgrown corner of the Abyss. In this case, the bloom of Lamashtu becomes Rare rather than Unique. ",
+ "trait": [
+  "Fiend",
+  "Plant",
+  "Unique",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Plant](/Traits.aspx?ID=125), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Fiend",
+  "Plant",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2206",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "good": 10,
+  "slashing": 10
+ },
+ "weakness_markdown": "good 10, slashing 10",
+ "weakness_raw": "good 10, slashing 10",
+ "will_save": 19,
+ "wisdom": 5
+}

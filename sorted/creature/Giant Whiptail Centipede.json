@@ -1,0 +1,88 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Undulate",
+  "Whiptail Centipede Venom"
+ ],
+ "creature_family": "Centipede",
+ "creature_family_markdown": "[Centipede](/MonsterFamilies.aspx?ID=22)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-581",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Whiptail Centipede](/Monsters.aspx?ID=581)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhiptail centipedes are sleek and swift tunnel predators.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Giant Whiptail Centipede](/Monsters.aspx?ID=581)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 50 <sup>2.0</sup></row>\n\n**Perception** +9; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +2\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 45\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> Tail only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandibles +11 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d10+6 piercing plus whiptail centipede venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +11 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d6+6 bludgeoning plus [Knockdown](/MonsterAbilities.aspx?ID=20)\n\n**Undulate** <actions string=\"Single Action\" />  The giant whiptail centipede Strides or Steps. During this movement, it can pass through spaces as narrow as 5 feet without [Squeezing](/Actions.aspx?ID=31).\r\n\r\n**Whiptail Centipede Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 19 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and [clumsy 1](/Conditions.aspx?ID=3) (1 round); **Stage 2** 2d10 poison damage and clumsy 1 (1 round); **Stage 3** 2d10 poison damage and clumsy 2 (1 round)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-22\" />",
+ "name": "Giant Whiptail Centipede",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 50 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Centipede](/MonsterFamilies.aspx?ID=22)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +11\r\n\r\n**Ref** +9\r\n\r\n**Will** +7\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhiptail centipedes are sleek and swift tunnel predators.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +10",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 50"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 50 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Whiptail centipedes are sleek and swift tunnel predators.",
+ "summary_markdown": "Whiptail centipedes are sleek and swift tunnel predators.",
+ "text": " Giant Whiptail Centipede Whiptail centipedes are sleek and swift tunnel predators. Recall Knowledge - Animal (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Giant Whiptail Centipede Source Bestiary 2 pg. 50 2.0 Perception +9; darkvision Languages Skills Acrobatics +8, Athletics +10, Stealth +8 Str +4 Dex +2 Con +4 Int -5 Wis +2 Cha -4 --- AC 19 Fort +11 Ref +9 Will +7 HP 45 Attack of Opportunity Reaction Tail only. --- Speed 30 feet, climb 30 feet Melee Single Action mandibles +11 (reach 10 feet), Damage 1d10+6 piercing plus whiptail centipede venom Melee Single Action tail +11 (Agile, reach 15 feet), Damage 1d6+6 bludgeoning plus Knockdown Undulate Single Action The giant whiptail centipede Strides or Steps. During this movement, it can pass through spaces as narrow as 5 feet without Squeezing. Whiptail Centipede Venom (Poison) Saving Throw DC 19 Fortitude; Maximum Duration 6 rounds; Stage 1 1d10 poison damage and clumsy 1 (1 round); Stage 2 2d10 poison damage and clumsy 1 (1 round); Stage 3 2d10 poison damage and clumsy 2 (1 round) ",
+ "trait": [
+  "Animal",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=581",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 2
+}

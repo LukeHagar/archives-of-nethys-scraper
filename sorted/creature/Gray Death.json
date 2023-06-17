@@ -1,0 +1,141 @@
+{
+ "ac": 44,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 10,
+ "constitution": 4,
+ "creature_ability": [
+  "Lifesense",
+  "Soul Bleed",
+  "Flailing Touch",
+  "Life Sap",
+  "Resentful Possession",
+  "Spectral Lurker"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 31,
+ "hp": 330,
+ "hp_raw": "330",
+ "id": "creature-1641",
+ "immunity": [
+  "disease",
+  "fear",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconcious"
+ ],
+ "immunity_markdown": "disease, fear, paralyzed, poison, precision, unconcious",
+ "intelligence": 6,
+ "language": [
+  "Common",
+  "telepathy 100 feet"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); telepathy 100 feet",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"\">[Gray Death](/Monsters.aspx?ID=1641)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGalt's _final blades_ are feared not only for the swift death they bring, but because it's widely rumored the magical guillotines hold on to the souls of the slain and prevent them from passing on to the afterlife. The truth is even worse: a _final blade_ contains only a limited amount of metaphysical space to hold souls, and once it's full, the souls coalesce into a fearsome, malevolent entity called a gray death. The more souls trapped by a _final blade_, the more powerful the gray death becomes. A gray death doesn't pose much of a threat while contained within the _final blade_, other than to give the guillotine an aura of palpable malevolence. When freed, however, the gray death becomes a nearly unstoppable menace.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 45\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 45\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 43\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 40\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Gray Death](/Monsters.aspx?ID=1641)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Night of the Gray Death](/Sources.aspx?ID=99) pg. 68</row>\n\n**Perception** +33; [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 1,000 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); telepathy 100 feet\r\n\r\n**Skills**\r\n[Intimidation](/Skills.aspx?ID=7) +40, [Occultism](/Skills.aspx?ID=11) +34, [Performance](/Skills.aspx?ID=12) +38, [Society](/Skills.aspx?ID=14) +34\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +7\r\n\r\n**Con** +4\r\n\r\n**Int** +6\r\n\r\n**Wis** +7\r\n\r\n**Cha** +10\r\n</row>\r\n\r\n**[Lifesense](/MonsterAbilities.aspx?ID=21)** ([divination](/Traits.aspx?ID=47), [occult](/Traits.aspx?ID=120)) A gray death senses the vital essence of living creatures within range.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 44 \r\n\r\n**Fort** +31 \r\n\r\n**Ref** +35 \r\n\r\n**Will** +33 \n\n</row>\r\n\r\n**HP** 330\n\n**Immunities**\r\ndisease, fear, paralyzed, poison, precision, unconcious\r\n\r\n**Resistances**\r\nall damage 15 (except force, _ghost touch_, or positive; double resistance vs. non-magical)\r\n\r\n**Weaknesses**\r\nmental 15\r\n\r\n**Soul Bleed** ([aura](/MonsterAbilities.aspx?ID=5), [necromancy](/Traits.aspx?ID=117), [occult](/Traits.aspx?ID=120)) 1,000 feet. Creatures that begin their turn in the area take 5d6 negative damage and must succeed at a DC 42 Fortitude save or become [doomed](/Conditions.aspx?ID=9) 1. If the creature is 13th level or lower, this doomed condition from soul bleed is cumulative, increasing by 1 with each failed save until the creature dies (typically at doomed 4).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_hand_ +38 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d10+16 negative plus life sap\n\n**Flailing Touch** <actions string=\"Two Actions\" />  The gray death makes up to four hand Strikes, each against a different target it can reach. It increases its reach to 100 feet with these Strikes. These Strikes count as one attack for the gray death's multiple attack penalty, and the penalty doesn't increase until after the attacks.\r\n\r\n**Life Sap**   A creature damaged by the gray death's hand Strike must succeed at a DC 42 Fortitude save or become [drained](/Conditions.aspx?ID=10) 1, and [paralyzed](/Conditions.aspx?ID=28) for 1 round on a critical failure.\r\n\r\n**Resentful Possession** <actions string=\"Single Action\" /> ([Curse](/Traits.aspx?ID=38), [Occult](/Traits.aspx?ID=120), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Possession](/Traits.aspx?ID=129)) **Frequency** once per round; **Effect** The gray death chooses a living creature within 30 feet. The target must succeed at a DC 42 Will save or a fragment of embittered soul-stuff lodges within the target's spirit and turns it against its allies. While the target has this fragment, it doesn't count as anyone's ally for the purposes of providing flanking, and a would-be ally casting a spell that normally works only on an ally on the creature must succeed at a DC 42 [counteract](/Rules.aspx?ID=371) check (level 20) or the spell has no effect. The fragment fades after 24 hours.\r\n\r\n**Spectral Lurker**   The gray death isn't [slowed](/Conditions.aspx?ID=35) 1 when it starts its turn inside an object.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Engineered Disaster</title>\r\n\r\nGalt's Gray Gardeners have been intentional in their executions, ensuring each [_final blade_](/Equipment.aspx?ID=1094) has claimed as many souls as possible. After 50 years, every [_final blade_](/Equipment.aspx?ID=1094) now harbors a gray death. The oldest and most well-known [_final blade_](/Equipment.aspx?ID=1094) harbor more powerful and malevolent versions of the creature.\r\n</aside>",
+ "name": "Gray Death",
+ "npc": false,
+ "perception": 33,
+ "rarity": "rare",
+ "reflex_save": 35,
+ "release_date": "2021-10-13",
+ "resistance": {
+  "acid": 15,
+  "all": 15,
+  "area": 15,
+  "bleed": 15,
+  "bludgeoning": 15,
+  "chaotic": 15,
+  "cold": 15,
+  "cold_iron": 15,
+  "electricity": 15,
+  "evil": 15,
+  "fire": 15,
+  "good": 15,
+  "lawful": 15,
+  "mental": 15,
+  "negative": 15,
+  "orichalcum": 15,
+  "physical": 15,
+  "piercing": 15,
+  "poison": 15,
+  "precision": 15,
+  "silver": 15,
+  "slashing": 15,
+  "sonic": 15,
+  "splash": 15
+ },
+ "resistance_markdown": "all damage 15 (except force, _ghost touch_, or positive; double resistance vs. non-magical)",
+ "resistance_raw": "all damage 15 (except force,  ghost touch , or positive; double resistance vs. non-magical)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Night of the Gray Death](/Sources.aspx?ID=99) pg. 68</row>\n\n<row gap=\"medium\">\r\n**HP** 330\r\n\r\n**AC** 44\r\n\r\n**Fort** +31\r\n\r\n**Ref** +35\r\n\r\n**Will** +33\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGalt's  final blades  are feared not only for the swift death they bring, but because it's widely rumored the magical guillotines hold on to the …\r\n</summary>",
+ "sense": " darkvision ,  lifesense  1,000 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 1,000 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Intimidation +40",
+  "Occultism +34",
+  "Performance +38",
+  "Society +34"
+ ],
+ "skill_markdown": "[Intimidation](/Skills.aspx?ID=7) +40, [Occultism](/Skills.aspx?ID=11) +34, [Performance](/Skills.aspx?ID=12) +38, [Society](/Skills.aspx?ID=14) +34",
+ "source": [
+  "Night of the Gray Death"
+ ],
+ "source_raw": [
+  "Night of the Gray Death pg. 68"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Night of the Gray Death",
+ "source_markdown": "<row gap=\"tiny\">[Night of the Gray Death](/Sources.aspx?ID=99) pg. 68</row>",
+ "speed": {
+  "fly": 60,
+  "max": 60
+ },
+ "speed_markdown": "fly 60 feet",
+ "speed_raw": "fly 60 feet",
+ "spell_markdown": "",
+ "spoilers": "Night of the Gray Death",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Galt's  final blades  are feared not only for the swift death they bring, but because it's widely rumored the magical guillotines hold on to the …",
+ "summary_markdown": "Galt's  final blades  are feared not only for the swift death they bring, but because it's widely rumored the magical guillotines hold on to the …",
+ "text": " Gray Death Galt's final blades are feared not only for the swift death they bring, but because it's widely rumored the magical guillotines hold on to the souls of the slain and prevent them from passing on to the afterlife. The truth is even worse: a final blade contains only a limited amount of metaphysical space to hold souls, and once it's full, the souls coalesce into a fearsome, malevolent entity called a gray death. The more souls trapped by a final blade , the more powerful the gray death becomes. A gray death doesn't pose much of a threat while contained within the final blade , other than to give the guillotine an aura of palpable malevolence. When freed, however, the gray death becomes a nearly unstoppable menace. Recall Knowledge - Spirit (Occultism): DC 45 Recall Knowledge - Undead (Religion): DC 45 Unspecific Lore : DC 43 Specific Lore : DC 40 Gray Death Source Night of the Gray Death pg. 68 Perception +33; darkvision, lifesense 1,000 feet Languages Common; telepathy 100 feet Skills Intimidation +40, Occultism +34, Performance +38, Society +34 Str -5 Dex +7 Con +4 Int +6 Wis +7 Cha +10 Lifesense (divination, occult) A gray death senses the vital essence of living creatures within range. --- AC 44 Fort +31 Ref +35 Will +33 HP 330 Immunities disease, fear, paralyzed, poison, precision, unconcious Resistances all damage 15 (except force, ghost touch , or positive; double resistance vs. non-magical) Weaknesses mental 15 Soul Bleed (aura, necromancy, occult) 1,000 feet. Creatures that begin their turn in the area take 5d6 negative damage and must succeed at a DC 42 Fortitude save or become doomed 1. If the creature is 13th level or lower, this doomed condition from soul bleed is cumulative, increasing by 1 with each failed save until the creature dies (typically at doomed 4). --- Speed fly 60 feet Melee Single Action hand +38 (Finesse, Magical, reach 15 feet), Damage 4d10+16 negative plus life sap Flailing Touch Two Actions The gray death makes up to four hand Strikes, each against a different target it can reach. It increases its reach to 100 feet with these Strikes. These Strikes count as one attack for the gray death's multiple attack penalty, and the penalty doesn't increase until after the attacks. Life Sap A creature damaged by the gray death's hand Strike must succeed at a DC 42 Fortitude save or become drained 1, and paralyzed for 1 round on a critical failure. Resentful Possession Single Action (Curse, Occult, Enchantment, Mental, Possession) Frequency once per round; Effect The gray death chooses a living creature within 30 feet. The target must succeed at a DC 42 Will save or a fragment of embittered soul-stuff lodges within the target's spirit and turns it against its allies. While the target has this fragment, it doesn't count as anyone's ally for the purposes of providing flanking, and a would-be ally casting a spell that normally works only on an ally on the creature must succeed at a DC 42 counteract check (level 20) or the spell has no effect. The fragment fades after 24 hours. Spectral Lurker The gray death isn't slowed 1 when it starts its turn inside an object. Engineered Disaster Galt's Gray Gardeners have been intentional in their executions, ensuring each final blade has claimed as many souls as possible. After 50 years, every final blade now harbors a gray death. The oldest and most well-known final blade harbor more powerful and malevolent versions of the creature. ",
+ "trait": [
+  "Incorporeal",
+  "Rare",
+  "Spirit",
+  "Undead",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Rare](/Traits.aspx?ID=137), [Spirit](/Traits.aspx?ID=149), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Rare",
+  "Spirit",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1641",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "mental": 15
+ },
+ "weakness_markdown": "mental 15",
+ "weakness_raw": "mental 15",
+ "will_save": 33,
+ "wisdom": 7
+}

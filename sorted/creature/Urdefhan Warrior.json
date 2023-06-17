@@ -1,0 +1,115 @@
+{
+ "ac": 18,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 2,
+ "creature_ability": [
+  "Necrotic Decay",
+  "Attack of Opportunity",
+  "Ravenous Attack",
+  "Wicked Bite"
+ ],
+ "creature_family": "Urdefhan",
+ "creature_family_markdown": "[Urdefhan](/MonsterFamilies.aspx?ID=158)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 55,
+ "hp_raw": "55 ( negative healing )",
+ "id": "creature-840",
+ "image": [
+  "/Images/Monsters/Urdefhan_UrdefhanWarrior.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "fear"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [fear](/Traits.aspx?ID=68)",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Daemonic",
+  "Undercommon"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Daemonic](/Languages.aspx?ID=31), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Urdefhan Warrior](/Monsters.aspx?ID=840)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFrom the moment they are born, urdefhans are prepared for war. Urdefhan warriors are among the least powerful urdefhans one might encounter outside of their eerie underground cities.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Urdefhan_UrdefhanWarrior.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Urdefhan Warrior](/Monsters.aspx?ID=840)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Urdefhan\" url=\"/Traits.aspx?ID=315\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 272 <sup>2.0</sup></row>\n\n**Perception** +9; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Daemonic](/Languages.aspx?ID=31), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10, [Intimidation](/Skills.aspx?ID=7) +9, [Religion](/Skills.aspx?ID=13) +7, [Survival](/Skills.aspx?ID=16) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +1\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[Composite Longbow](/Weapons.aspx?ID=74) (20 arrows), [Rhoka Sword](/Weapons.aspx?ID=120), [Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 55\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [fear](/Traits.aspx?ID=68)\n\n**Weaknesses**\r\npositive 5\r\n\r\n**Necrotic Decay** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117), [negative](/Traits.aspx?ID=118)) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 3d6 negative damage to creatures in this area as their flesh curdles and rots as well (DC 17 basic Fortitude save).<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nrhoka sword +12 ([deadly 1d8](/Traits.aspx?ID=174), [two-hand 1d10](/Traits.aspx?ID=198)),\r\n**Damage** 1d8+6 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +12,\r\n**Damage** 1d6+6 piercing plus Wicked Bite\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncomposite longbow +10 ([deadly 1d10](/Traits.aspx?ID=174), [Propulsive](/Traits.aspx?ID=191), [range increment 100 feet](/Traits.aspx?ID=248), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 1d8+4 piercing\r\n\r\n**Divine Innate Spells** DC 17, attack +9\r\n- **1st**\r\n[Feather Fall](/Spells.aspx?ID=111) (at will; self only), [Ray of Enfeeblement](/Spells.aspx?ID=244)\r\n- **2nd**\r\n[Death Knell](/Spells.aspx?ID=63)\r\n\r\n**Ravenous Attack** <actions string=\"Two Actions\" />  The urdefhan makes one rhoka sword Strike and one jaws Strike against a single creature. Its multiple attack penalty doesn't increase until after both attacks.\r\n\r\n**Wicked Bite** <actions string=\"Single Action\" />  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action; **Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 20 Fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both. \n<ul><li>**Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [drained 1](/Conditions.aspx?ID=10) and the urdefhan regains 5 HP (or, on a critical failure, it's drained 2 and the urdefhan regains 10 HP).</li><li>**Drain Vitality** ([necromancy](/Traits.aspx?ID=117)) The urdefhan draws out some of the creature's vital essence. The creature becomes [enfeebled 1](/Conditions.aspx?ID=13) for 1 hour on a failed save (or enfeebled 2 for 1 hour on a critical failure).</li></ul>\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-158\" />",
+ "name": "Urdefhan Warrior",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Urdefhan\" url=\"/Traits.aspx?ID=315\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 272 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Urdefhan](/MonsterFamilies.aspx?ID=158)\r\n\r\n<row gap=\"medium\">\r\n**HP** 55 ( negative healing )\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +8\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFrom the moment they are born, urdefhans are prepared for war. Urdefhan warriors are among the least powerful urdefhans one might encounter outside …\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +10",
+  "Intimidation +9",
+  "Religion +7",
+  "Survival +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10, [Intimidation](/Skills.aspx?ID=7) +9, [Religion](/Skills.aspx?ID=13) +7, [Survival](/Skills.aspx?ID=16) +7",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 272"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 272 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Death Knell",
+  "Feather Fall",
+  "Ray of Enfeeblement"
+ ],
+ "spell_markdown": "[Death Knell](/Spells.aspx?ID=63), [Feather Fall](/Spells.aspx?ID=111), [Ray of Enfeeblement](/Spells.aspx?ID=244)",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "summary": "From the moment they are born, urdefhans are prepared for war. Urdefhan warriors are among the least powerful urdefhans one might encounter outside …",
+ "summary_markdown": "From the moment they are born, urdefhans are prepared for war. Urdefhan warriors are among the least powerful urdefhans one might encounter outside …",
+ "text": " Urdefhan Warrior From the moment they are born, urdefhans are prepared for war. Urdefhan warriors are among the least powerful urdefhans one might encounter outside of their eerie underground cities. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Urdefhan Warrior Source Bestiary 2 pg. 272 2.0 Perception +9; greater darkvision Languages Aklo, Daemonic, Undercommon Skills Athletics +10, Intimidation +9, Religion +7, Survival +7 Str +3 Dex +1 Con +2 Int +0 Wis +2 Cha +2 Items Composite Longbow (20 arrows), Rhoka Sword, Studded Leather Armor --- AC 18 Fort +9 Ref +8 Will +9 HP 55 (negative healing) Immunities death effects, disease, fear Weaknesses positive 5 Necrotic Decay (divine, necromancy, negative) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 3d6 negative damage to creatures in this area as their flesh curdles and rots as well (DC 17 basic Fortitude save). Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action rhoka sword +12 (deadly 1d8, two-hand 1d10), Damage 1d8+6 slashing Melee Single Action jaws +12, Damage 1d6+6 piercing plus Wicked Bite Ranged Single Action composite longbow +10 (deadly 1d10, Propulsive, range increment 100 feet, volley 30 feet), Damage 1d8+4 piercing Divine Innate Spells DC 17, attack +9 - 1st Feather Fall (at will; self only), Ray of Enfeeblement - 2nd Death Knell Ravenous Attack Two Actions The urdefhan makes one rhoka sword Strike and one jaws Strike against a single creature. Its multiple attack penalty doesn't increase until after both attacks. Wicked Bite Single Action Requirements The urdefhan damaged a creature with a jaws Strike on its last action; Effect The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 20 Fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both. Drain Blood The urdefhan drinks some of the creature's blood. On a failed save, the creature is drained 1 and the urdefhan regains 5 HP (or, on a critical failure, it's drained 2 and the urdefhan regains 10 HP). Drain Vitality (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes enfeebled 1 for 1 hour on a failed save (or enfeebled 2 for 1 hour on a critical failure). ",
+ "trait": [
+  "Humanoid",
+  "Urdefhan",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Urdefhan](/Traits.aspx?ID=315)",
+ "trait_raw": [
+  "Humanoid",
+  "Urdefhan"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=840",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "positive": 5
+ },
+ "weakness_markdown": "positive 5",
+ "weakness_raw": "positive 5",
+ "will_save": 9,
+ "wisdom": 2
+}

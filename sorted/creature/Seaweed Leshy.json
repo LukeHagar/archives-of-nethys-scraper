@@ -1,0 +1,109 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Verdant Burst",
+  "Change Shape",
+  "Sea Spray"
+ ],
+ "creature_family": "Leshy",
+ "creature_family_markdown": "[Leshy](/MonsterFamilies.aspx?ID=67)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-1220",
+ "image": [
+  "/Images/Monsters/Leshy_SeaweedLeshy.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Aquan",
+  "Common",
+  "Druidic",
+  "Sylvan",
+  "<%SPELLS%294%%><i>speak with plants</i><%END> (seaweed only)"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Druidic](/Languages.aspx?ID=23), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294) (seaweed only)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Seaweed Leshy](/Monsters.aspx?ID=1220)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCalmer than most of their other botanical brethren, seaweed leshys are a tranquil, discerning breed of leshy. They seek to mimic the ocean in their attitudes, moving with the waves of life and accepting what comes and goes while acknowledging the good and the bad.\n\n Seaweed leshys make their homes in tidal pools surrounded by other sea creatures. They believe their freshwater counterparts to be sheltered and naive, living in their secluded ponds and babbling brooks, though this doesn't stop them from forming friendships with freshwater leshys.\n\n Seaweed leshys vary in size, shape, and physical makeup. While the majority of seaweed leshys reach about 2 feet in height, some remain as small bundles of strands that stand about 6 to 8 inches tall.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Leshy_SeaweedLeshy.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Seaweed Leshy](/Monsters.aspx?ID=1220)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Leshy\" url=\"/Traits.aspx?ID=225\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 161</row>\n\n**Perception** +10; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Druidic](/Languages.aspx?ID=23), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294) (seaweed only)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +9, [Nature](/Skills.aspx?ID=10) +10, [Ocean Lore](/Skills.aspx?ID=8) +9, [Stealth](/Skills.aspx?ID=15) +9, [Survival](/Skills.aspx?ID=16) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\n\n**Verdant Burst** When a seaweed leshy dies, a burst of primal energy explodes from its body, restoring 3d8 Hit Points to each [plant](/Traits.aspx?ID=125) creature in a 30-foot emanation. This area fills with seaweed, becoming difficult terrain. If the terrain is not a viable environment for the seaweed, they wither after 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nseaweed strand +11 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+4 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nwater jet +11 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d8+4 bludgeoning plus sea spray\r\n\r\n**Primal Innate Spells** DC 20\r\n- **4th**\r\n[Speak with Plants](/Spells.aspx?ID=294)\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The seaweed leshy transforms into a Small patch of seaweed. This ability otherwise uses the effects of [_tree shape_](/Spells.aspx?ID=342).\r\n\r\n**Sea Spray**   A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision. On a hit, the target must succeed at a DC 20 Fortitude save or be [dazzled](/Conditions.aspx?ID=7) for 1 minute or until it spends 3 Interact actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also [blinded](/Conditions.aspx?ID=1) for 1 round.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Undersea Treasure</title>\r\n\r\nSeaweed leshys are skilled treasure hunters. They often dive deep into the oceans to salvage any coin or other treasures they can find from shipwrecks. These leshys also sometimes bury caches of their loot once they rescue it from its former location.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-67\" />",
+ "name": "Seaweed Leshy",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Leshy\" url=\"/Traits.aspx?ID=225\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 161</row>\r\n\r\n**Creature Family** [Leshy](/MonsterFamilies.aspx?ID=67)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +8\r\n\r\n**Ref** +11\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCalmer than most of their other botanical brethren, seaweed leshys are a tranquil, discerning breed of leshy. They seek to mimic the ocean in their …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +9",
+  "Nature +10",
+  "Ocean Lore +9",
+  "Stealth +9",
+  "Survival +8"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +9, [Nature](/Skills.aspx?ID=10) +10, [Ocean Lore](/Skills.aspx?ID=8) +9, [Stealth](/Skills.aspx?ID=15) +9, [Survival](/Skills.aspx?ID=16) +8",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 161"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 161</row>",
+ "speed": {
+  "land": 20,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "20 feet, swim 20 feet",
+ "speed_raw": "20 feet, swim 20 feet",
+ "spell": [
+  "Speak with Plants"
+ ],
+ "spell_markdown": "[Speak with Plants](/Spells.aspx?ID=294)",
+ "stealth": "9",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Calmer than most of their other botanical brethren, seaweed leshys are a tranquil, discerning breed of leshy. They seek to mimic the ocean in their …",
+ "summary_markdown": "Calmer than most of their other botanical brethren, seaweed leshys are a tranquil, discerning breed of leshy. They seek to mimic the ocean in their …",
+ "text": " Seaweed Leshy Calmer than most of their other botanical brethren, seaweed leshys are a tranquil, discerning breed of leshy. They seek to mimic the ocean in their attitudes, moving with the waves of life and accepting what comes and goes while acknowledging the good and the bad. Seaweed leshys make their homes in tidal pools surrounded by other sea creatures. They believe their freshwater counterparts to be sheltered and naive, living in their secluded ponds and babbling brooks, though this doesn't stop them from forming friendships with freshwater leshys. Seaweed leshys vary in size, shape, and physical makeup. While the majority of seaweed leshys reach about 2 feet in height, some remain as small bundles of strands that stand about 6 to 8 inches tall. Recall Knowledge - Plant (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Seaweed Leshy Source Bestiary 3 pg. 161 Perception +10; low-light vision Languages Aquan, Common, Druidic, Sylvan; speak with plants (seaweed only) Skills Athletics +9, Nature +10, Ocean Lore +9, Stealth +9, Survival +8 Str +2 Dex +4 Con +3 Int +0 Wis +3 Cha +1 --- AC 19 Fort +8 Ref +11 Will +8 HP 45 Verdant Burst When a seaweed leshy dies, a burst of primal energy explodes from its body, restoring 3d8 Hit Points to each plant creature in a 30-foot emanation. This area fills with seaweed, becoming difficult terrain. If the terrain is not a viable environment for the seaweed, they wither after 24 hours. --- Speed 20 feet, swim 20 feet Melee Single Action seaweed strand +11 (Agile, Finesse, reach 10 feet), Damage 1d8+4 bludgeoning Ranged Single Action water jet +11 (range increment 30 feet), Damage 1d8+4 bludgeoning plus sea spray Primal Innate Spells DC 20 - 4th Speak with Plants Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) The seaweed leshy transforms into a Small patch of seaweed. This ability otherwise uses the effects of tree shape . Sea Spray A seaweed leshy's water jet has enough salt in it to temporarily impair their target's vision. On a hit, the target must succeed at a DC 20 Fortitude save or be dazzled for 1 minute or until it spends 3 Interact actions wiping the salt out of its eyes. On a critical hit, a target that fails its Fortitude save is also blinded for 1 round. Undersea Treasure Seaweed leshys are skilled treasure hunters. They often dive deep into the oceans to salvage any coin or other treasures they can find from shipwrecks. These leshys also sometimes bury caches of their loot once they rescue it from its former location. ",
+ "trait": [
+  "Amphibious",
+  "Leshy",
+  "Plant",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Leshy](/Traits.aspx?ID=225), [Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Amphibious",
+  "Leshy",
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1220",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 3
+}

@@ -1,0 +1,123 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 2,
+ "creature_ability": [
+  "Scrabble",
+  "Constrict",
+  "Skittering Rush"
+ ],
+ "creature_family": "Animated Bones",
+ "creature_family_markdown": "[Animated Bones](/MonsterFamilies.aspx?ID=317)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 20,
+ "hp_raw": "20",
+ "id": "creature-2030",
+ "image": [
+  "/Images/Monsters/ScrabblingRibcage.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), fatigued, [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"\">[Scrabbling Ribcage](/Monsters.aspx?ID=2030)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe ribs of a scrabbling ribcage are connected to either a sternum or vertebral column, but not both, allowing the ribs to function as legs.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 17\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 15\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 12\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ScrabblingRibcage.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Scrabbling Ribcage](/Monsters.aspx?ID=2030)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 83</row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +2\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 20\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), fatigued, [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\n[cold](/Traits.aspx?ID=27) 3, [electricity](/Traits.aspx?ID=56) 3, [fire](/Traits.aspx?ID=72) 3, piercing 3, slashing 3\r\n\r\n**Weaknesses**\r\nbludgeoning 3\r\n\r\n**Scrabble** <actions string=\"Reaction\" /> **Trigger** A creature moves away from the scrabbling ribcage, or a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) by the scrabbling ribcage [Escapes](/Actions.aspx?ID=79) from it; **Effect** The ribcage Strides or [Climbs](/Actions.aspx?ID=33). This movement doesn't trigger reactions.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njagged ribs +7,\r\n**Damage** 1d6+2 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8 bludgeoning, DC 17\r\n\r\n**Skittering Rush** <actions string=\"Two Actions\" />  The scrabbling ribcage Strides or [Climbs](/Actions.aspx?ID=33) twice, with its Speeds increased by 10 feet for this movement.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-317\" />",
+ "name": "Scrabbling Ribcage",
+ "npc": false,
+ "perception": 6,
+ "rarity": "uncommon",
+ "reflex_save": 5,
+ "release_date": "2022-07-27",
+ "resistance": {
+  "cold": 3,
+  "electricity": 3,
+  "fire": 3,
+  "piercing": 3,
+  "slashing": 3
+ },
+ "resistance_markdown": "[cold](/Traits.aspx?ID=27) 3, [electricity](/Traits.aspx?ID=56) 3, [fire](/Traits.aspx?ID=72) 3, piercing 3, slashing 3",
+ "resistance_raw": " cold  3,  electricity  3,  fire  3, piercing 3, slashing 3",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 83</row>\r\n\r\n**Creature Family** [Animated Bones](/MonsterFamilies.aspx?ID=317)\r\n\r\n<row gap=\"medium\">\r\n**HP** 20\r\n\r\n**AC** 16\r\n\r\n**Fort** +7\r\n\r\n**Ref** +5\r\n\r\n**Will** +5\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ribs of a scrabbling ribcage are connected to either a sternum or vertebral column, but not both, allowing the ribs to function as legs.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6",
+ "source": [
+  "Pathfinder #181: Zombie Feast"
+ ],
+ "source_raw": [
+  "Pathfinder #181: Zombie Feast pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 83</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet",
+ "speed_raw": "20 feet, climb 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "strength": 2,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The ribs of a scrabbling ribcage are connected to either a sternum or vertebral column, but not both, allowing the ribs to function as legs.",
+ "summary_markdown": "The ribs of a scrabbling ribcage are connected to either a sternum or vertebral column, but not both, allowing the ribs to function as legs.",
+ "text": " Scrabbling Ribcage The ribs of a scrabbling ribcage are connected to either a sternum or vertebral column, but not both, allowing the ribs to function as legs. Recall Knowledge - Construct (Arcana, Crafting): DC 17 Unspecific Lore : DC 15 Specific Lore : DC 12 Scrabbling Ribcage Source Pathfinder #181: Zombie Feast pg. 83 Perception +6; darkvision Languages Skills Athletics +6 Str +2 Dex +2 Con +2 Int -5 Wis +0 Cha -5 --- AC 16 Fort +7 Ref +5 Will +5 HP 20 Immunities death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances cold 3, electricity 3, fire 3, piercing 3, slashing 3 Weaknesses bludgeoning 3 Scrabble Reaction Trigger A creature moves away from the scrabbling ribcage, or a creature grabbed or restrained by the scrabbling ribcage Escapes from it; Effect The ribcage Strides or Climbs. This movement doesn't trigger reactions. --- Speed 20 feet, climb 20 feet Melee Single Action jagged ribs +7, Damage 1d6+2 piercing plus Grab Constrict Single Action 1d8 bludgeoning, DC 17 Skittering Rush Two Actions The scrabbling ribcage Strides or Climbs twice, with its Speeds increased by 10 feet for this movement. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "Uncommon",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Construct",
+  "Mindless",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2030",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {
+  "bludgeoning": 3
+ },
+ "weakness_markdown": "bludgeoning 3",
+ "weakness_raw": "bludgeoning 3",
+ "will_save": 5,
+ "wisdom": 0
+}

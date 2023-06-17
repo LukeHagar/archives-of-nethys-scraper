@@ -1,0 +1,112 @@
+{
+ "ac": 26,
+ "alignment": "NG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 6,
+ "creature_ability": [
+  "Axe Vulnerability",
+  "Awaken Tree",
+  "Sunder Objects",
+  "Throw Rock"
+ ],
+ "creature_family": "Arboreal",
+ "creature_family_markdown": "[Arboreal](/MonsterFamilies.aspx?ID=8)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 150,
+ "hp_raw": "150",
+ "id": "creature-29",
+ "image": [
+  "/Images/Monsters/Arboreal_ArborealRegent.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Arboreal",
+  "Common",
+  "Sylvan",
+  "<%SPELLS%294%%><i>speak with plants</i><%END>"
+ ],
+ "language_markdown": "[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Arboreal Regent](/Monsters.aspx?ID=29)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nArboreal regents—also called treants—are lumbering, solitary creatures responsible for guarding an entire forest. They take an especially long view of affairs and never act brashly or without much deliberation. They occasionally come together in small groups called groves to share news and pass their wisdom down to the arboreal wardens that have sprouted under their watch. In times of grave danger, all the groves in a region may gather for a great months-long meeting to plan and, eventually, act upon a threat.<br/><br />The typical arboreal regent is 30 feet tall, has a trunk 2 feet in diameter, and weighs 4,500 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Arboreal_ArborealRegent.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Arboreal Regent](/Monsters.aspx?ID=29)</title>\r\n\r\n<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 25</row>\n\n**Perception** +18; low-light vision\r\n\r\n**Languages**\r\n[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +19, [Diplomacy](/Skills.aspx?ID=6) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Nature](/Skills.aspx?ID=10) +18, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** -1\r\n\r\n**Con** +6\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 150\n\n**Resistances**\r\nbludgeoning 5, piercing 5\r\n\r\n**Weaknesses**\r\naxe vulnerability, fire 10\r\n\r\n**Axe Vulnerability** The arboreal regent takes 5 additional damage from axes.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbranch +19 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+7 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nroot +19 ([Trip](/Traits.aspx?ID=196)),\r\n**Damage** 2d8+7 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +19 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d10+7 bludgeoning\r\n\r\n**Primal Innate Spells** DC 26\r\n- **Constant (4th)**\r\n[Speak with Plants](/Spells.aspx?ID=294)\r\n\r\n**Awaken Tree** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32), [Primal](/Traits.aspx?ID=134)) The arboreal regent causes a tree within 180 feet to uproot itself and fight as a minion using the statistics for an [awakened tree](/Monsters.aspx?ID=28). The arboreal regent can control up to two awakened trees at a time, and it can issue commands to both trees as a single action, which has the [concentrate](/Traits.aspx?ID=32) and [auditory](/Traits.aspx?ID=16) traits.\r\n\r\n**Sunder Objects**   When an arboreal regent damages an item or structure, it deals an additional 2d10 damage to that item or structure.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-8\" />",
+ "name": "Arboreal Regent",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 5,
+  "piercing": 5
+ },
+ "resistance_markdown": "bludgeoning 5, piercing 5",
+ "resistance_raw": "bludgeoning 5, piercing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 25</row>\r\n\r\n**Creature Family** [Arboreal](/MonsterFamilies.aspx?ID=8)\r\n\r\n<row gap=\"medium\">\r\n**HP** 150\r\n\r\n**AC** 26\r\n\r\n**Fort** +20\r\n\r\n**Ref** +11\r\n\r\n**Will** +16\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nArboreal regents—also called treants—are lumbering, solitary creatures responsible for guarding an entire forest. They take an especially long view …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +19",
+  "Diplomacy +16",
+  "Intimidation +16",
+  "Nature +18",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +19, [Diplomacy](/Skills.aspx?ID=6) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Nature](/Skills.aspx?ID=10) +18, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 25"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 25</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Speak with Plants"
+ ],
+ "spell_markdown": "[Speak with Plants](/Spells.aspx?ID=294)",
+ "stealth": "11",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Arboreal regents—also called treants—are lumbering, solitary creatures responsible for guarding an entire forest. They take an especially long view …",
+ "summary_markdown": "Arboreal regents—also called treants—are lumbering, solitary creatures responsible for guarding an entire forest. They take an especially long view …",
+ "text": " Arboreal Regent Arboreal regents—also called treants—are lumbering, solitary creatures responsible for guarding an entire forest. They take an especially long view of affairs and never act brashly or without much deliberation. They occasionally come together in small groups called groves to share news and pass their wisdom down to the arboreal wardens that have sprouted under their watch. In times of grave danger, all the groves in a region may gather for a great months-long meeting to plan and, eventually, act upon a threat. The typical arboreal regent is 30 feet tall, has a trunk 2 feet in diameter, and weighs 4,500 pounds. Recall Knowledge - Plant (Nature): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Arboreal Regent Source Bestiary pg. 25 Perception +18; low-light vision Languages Arboreal, Common, Sylvan; speak with plants Skills Athletics +19, Diplomacy +16, Intimidation +16, Nature +18, Stealth +11 Str +7 Dex -1 Con +6 Int +1 Wis +4 Cha +2 --- AC 26 Fort +20 Ref +11 Will +16 HP 150 Resistances bludgeoning 5, piercing 5 Weaknesses axe vulnerability, fire 10 Axe Vulnerability The arboreal regent takes 5 additional damage from axes. --- Speed 25 feet Melee Single Action branch +19 (reach 15 feet), Damage 2d12+7 bludgeoning Melee Single Action root +19 (Trip), Damage 2d8+7 bludgeoning Ranged Single Action rock +19 (Brutal, range increment 120 feet), Damage 2d10+7 bludgeoning Primal Innate Spells DC 26 - Constant (4th) Speak with Plants Awaken Tree Two Actions (Concentrate, Primal) The arboreal regent causes a tree within 180 feet to uproot itself and fight as a minion using the statistics for an awakened tree. The arboreal regent can control up to two awakened trees at a time, and it can issue commands to both trees as a single action, which has the concentrate and auditory traits. Sunder Objects When an arboreal regent damages an item or structure, it deals an additional 2d10 damage to that item or structure. Throw Rock Single Action ",
+ "trait": [
+  "Plant",
+  "NG",
+  "Huge"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=29",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "axe vulnerability, fire 10",
+ "weakness_raw": "axe vulnerability, fire 10",
+ "will_save": 16,
+ "wisdom": 4
+}

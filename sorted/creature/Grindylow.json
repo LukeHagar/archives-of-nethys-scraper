@@ -1,0 +1,95 @@
+{
+ "ac": 15,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Clinging Suckers",
+  "Jet"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 14,
+ "hp_raw": "14",
+ "id": "creature-692",
+ "image": [
+  "/Images/Monsters/Grindylow.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Aquan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14)",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Grindylow](/Monsters.aspx?ID=692)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe top half of a grindylow looks vaguely like that of a goblin, but from the waist down, their bodies split into a tangle of suckered, wriggling tentacles. They dwell mostly in shallow waters both fresh and briny, including lakes, rivers, coastal regions, and near coral reefs. Grindylows generally organize into schools ranging from a few individuals to a few hundred. Smaller schools can sometimes be brought under the leadership of a powerful aquatic creature, though such alliances last only until the school faces a major setback, at which point the surviving grindylows scatter and form smaller schools of their own.\n\n Grindylows aren't territorial, but they are pragmatic; while they rarely build permanent structures, they will adopt a good hunting ground for generations until driven away by predators. They often lair in mobile shelters, such as a sargasso of seaweed or the hull of an abandoned ship. They are skilled scavengers and hunters that eat anything they can sink their teeth into.\n\n Grindylows respect the power of bigger sea predators but have a special hatred for squids (or anything they believe looks like a squid). Sailors plying grindylow-infested waters often paint the images of squids on the bottoms of their hulls in hopes of warding the little terrors off. While this can keep smaller schools at bay, it can also backfire, potentially inciting larger groups to gather for a coordinated attack; this becomes especially more likely if the ship's route becomes predictable. This hatred of squids does not extend to other tentacled creatures; grindylows consider octopuses to be the epitome of grace and power.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Grindylow.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Grindylow](/Monsters.aspx?ID=692)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 138 <sup>2.0</sup></row>\n\n**Perception** +5; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Spear](/Weapons.aspx?ID=10)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 14\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> A grindylow gains 1 extra reaction at the start of each of its turns that it can use only to make an Attack of Opportunity with a tentacle. It can't use more than one Attack of Opportunity triggered by the same choice.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +7 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+1 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +7 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d4+1 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspear +5,\r\n**Damage** 1d6+1 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspear +7 ([thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+1 piercing\n\n**Clinging Suckers**   When a grindylow [Grabs](/MonsterAbilities.aspx?ID=18) a creature larger than itself, it attaches to that creature. The [grabbed](/Conditions.aspx?ID=20) creature is not [immobilized](/Conditions.aspx?ID=24), but if it moves, the grindylow moves with it. If the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is flat-footed while it is attached to a creature.\r\n\r\n**Jet** <actions string=\"Two Actions\" /> ([Move](/Traits.aspx?ID=114)) The grindylow moves up to 60 feet in a straight line through the water without triggering reactions.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Giant Grindylows</title>\r\n\r\nWhile most grindylows are Small, a minute percentage of these creatures keep growing throughout their lives. Those that become Large or larger gain the [giant](/Traits.aspx?ID=79) trait and often become champions of their schools.\r\n</aside>",
+ "name": "Grindylow",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 138 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 14\r\n\r\n**AC** 15\r\n\r\n**Fort** +6\r\n\r\n**Ref** +7\r\n\r\n**Will** +5\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe top half of a grindylow looks vaguely like that of a goblin, but from the waist down, their bodies split into a tangle of suckered, wriggling …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +5",
+  "Stealth +7",
+  "Survival +5"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +5",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 138"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 138 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 10,
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "10 feet, swim 25 feet",
+ "speed_raw": "10 feet, swim 25 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The top half of a grindylow looks vaguely like that of a goblin, but from the waist down, their bodies split into a tangle of suckered, wriggling …",
+ "summary_markdown": "The top half of a grindylow looks vaguely like that of a goblin, but from the waist down, their bodies split into a tangle of suckered, wriggling …",
+ "text": " Grindylow The top half of a grindylow looks vaguely like that of a goblin, but from the waist down, their bodies split into a tangle of suckered, wriggling tentacles. They dwell mostly in shallow waters both fresh and briny, including lakes, rivers, coastal regions, and near coral reefs. Grindylows generally organize into schools ranging from a few individuals to a few hundred. Smaller schools can sometimes be brought under the leadership of a powerful aquatic creature, though such alliances last only until the school faces a major setback, at which point the surviving grindylows scatter and form smaller schools of their own. Grindylows aren't territorial, but they are pragmatic; while they rarely build permanent structures, they will adopt a good hunting ground for generations until driven away by predators. They often lair in mobile shelters, such as a sargasso of seaweed or the hull of an abandoned ship. They are skilled scavengers and hunters that eat anything they can sink their teeth into. Grindylows respect the power of bigger sea predators but have a special hatred for squids (or anything they believe looks like a squid). Sailors plying grindylow-infested waters often paint the images of squids on the bottoms of their hulls in hopes of warding the little terrors off. While this can keep smaller schools at bay, it can also backfire, potentially inciting larger groups to gather for a coordinated attack; this becomes especially more likely if the ship's route becomes predictable. This hatred of squids does not extend to other tentacled creatures; grindylows consider octopuses to be the epitome of grace and power. Recall Knowledge - Aberration (Occultism): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Grindylow Source Bestiary 2 pg. 138 2.0 Perception +5; darkvision Languages Aquan Skills Athletics +5, Stealth +7, Survival +5 Str +1 Dex +3 Con +2 Int -1 Wis +3 Cha +0 Items Spear --- AC 15 Fort +6 Ref +7 Will +5 HP 14 Attack of Opportunity Reaction A grindylow gains 1 extra reaction at the start of each of its turns that it can use only to make an Attack of Opportunity with a tentacle. It can't use more than one Attack of Opportunity triggered by the same choice. --- Speed 10 feet, swim 25 feet Melee Single Action bite +7 (Finesse), Damage 1d6+1 piercing Melee Single Action tentacle +7 (Agile, Finesse, Trip), Damage 1d4+1 bludgeoning plus Grab Melee Single Action spear +5, Damage 1d6+1 piercing Ranged Single Action spear +7 (thrown 20 feet), Damage 1d6+1 piercing Clinging Suckers When a grindylow Grabs a creature larger than itself, it attaches to that creature. The grabbed creature is not immobilized, but if it moves, the grindylow moves with it. If the creature is Medium or smaller, it takes a –5-foot status penalty to its Speeds while the grindylow is attached. The grindylow is flat-footed while it is attached to a creature. Jet Two Actions (Move) The grindylow moves up to 60 feet in a straight line through the water without triggering reactions. Giant Grindylows While most grindylows are Small, a minute percentage of these creatures keep growing throughout their lives. Those that become Large or larger gain the giant trait and often become champions of their schools. ",
+ "trait": [
+  "Aberration",
+  "Amphibious",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Amphibious](/Traits.aspx?ID=207)",
+ "trait_raw": [
+  "Aberration",
+  "Amphibious"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=692",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 5,
+ "wisdom": 3
+}

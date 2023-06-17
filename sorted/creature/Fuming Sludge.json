@@ -1,0 +1,106 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 5,
+ "creature_ability": [
+  "Chemical Sense",
+  "Smoldering Haze",
+  "Attack of Opportunity",
+  "Constrict",
+  "Cooling Glob"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": -3,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 160,
+ "hp_raw": "160",
+ "id": "creature-984",
+ "immunity": [
+  "critical hits",
+  "fire",
+  "mental",
+  "piercing",
+  "precision",
+  "slashing",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "critical hits, fire, mental, piercing, precision, slashing, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Fuming Sludge](/Monsters.aspx?ID=984)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe slurry from alchemical experiments is often as flammable as it is toxic. In especially volatile cases, a fuming sludge can form from ignited pools of unstable alchemical runoff. It resembles a charcoal-colored slurry studded with tiny embers, and it continually emits a thin haze of accelerant that amplifies the fires it starts.\n\n A fuming sludge must consume the base chemicals of living creatures to survive and can instinctively identify the complex molecules found in most animate creatures. The first meal of many a fuming sludge is its accidental creator, but it soon moves on to hunt in lush forests or densely populated settlements. A fuming sludge can extrude a powerful pseudopod to strike its victims, but it can also eject portions of its body with peristaltic contractions. These rapidly-cooling globs of goo slow down fleeing prey, but the cold, crusty residue can also alert canny explorers to their presence.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Fuming Sludge](/Monsters.aspx?ID=984)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Slithering](/Sources.aspx?ID=41) pg. 63</row>\n\n**Perception** +11; chemical sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** -3\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Chemical Sense** A fuming sludge detects nearby living and [undead](/Traits.aspx?ID=160) creatures by their complex chemical compositions, but it can't detect [elementals](/Traits.aspx?ID=106) or other creatures composed of a single element.<br />**Smoldering Haze** ([aura](/Traits.aspx?ID=206), [fire](/Traits.aspx?ID=72)) 15 feet. The fuming sludge constantly emits incendiary smoke that creates [concealment](/Conditions.aspx?ID=4) around it. The smoke doesn't impair the fuming sludge's chemical sense. A creature that enters the aura or begins its turn in the aura becomes [sickened 1](/Conditions.aspx?ID=34) (DC 25 Fortitude negates) and cannot recover from [persistent fire damage](/Conditions.aspx?ID=29) for 1 round. It is then temporarily immune to the sickening effect of the smoldering haze for 1 minute. A creature that is currently holding its breath, that doesn't need to breathe, or that's immune to [poison](/Traits.aspx?ID=126) is immune to the aura's sickened effect but not the concealment or inability to recover from persistent fire damage.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 160\n\n**Immunities**\r\ncritical hits, fire, mental, piercing, precision, slashing, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Weaknesses**\r\ncold 5\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +17,\r\n**Damage** 2d10+6 bludgeoning plus 1d8 [persistent fire](/Conditions.aspx?ID=29) and [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nejected glob +17 ([Brutal](/Traits.aspx?ID=249), [range increment 20 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d6+6 bludgeoning plus 1d8 [persistent fire](/Conditions.aspx?ID=29) and cooling glob\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+6 bludgeoning plus 1d8 persistent fire, DC 24\r\n\r\n**Cooling Glob**   A fuming sludge's ejected globs cling to targets. A creature hit by an ejected glob Strike is [encumbered](/Conditions.aspx?ID=12) for 1 round. If the attack was a critical hit, the creature is instead [restrained](/Conditions.aspx?ID=33) for 1 round ([Escape](/Actions.aspx?ID=79) DC 24).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">The Fires of Malice</title>\r\n\r\nSome fuming sludges are not created alchemically but arise spontaneously when the exceptionally spiteful die and are buried in swampy ground. Residual bits of ire from the spiteful soul remain within the decomposing corpse, eventually igniting into a fuming sludge. A fuming sludge that originates this way loses the [mindless](/Traits.aspx?ID=108) trait and immunity to mental damage, but its Strikes deal an additional 1d6 mental damage to creatures that injured it within the last minute.\r\n</aside>",
+ "name": "Fuming Sludge",
+ "npc": false,
+ "perception": 11,
+ "rarity": "uncommon",
+ "reflex_save": 8,
+ "release_date": "2020-07-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Slithering](/Sources.aspx?ID=41) pg. 63</row>\n\n<row gap=\"medium\">\r\n**HP** 160\r\n\r\n**AC** 16\r\n\r\n**Fort** +18\r\n\r\n**Ref** +8\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe slurry from alchemical experiments is often as flammable as it is toxic. In especially volatile cases, a fuming sludge can form from ignited …\r\n</summary>",
+ "sense": "chemical sense 60 feet, no vision",
+ "sense_markdown": "chemical sense 60 feet, no vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +19"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +19",
+ "source": [
+  "The Slithering"
+ ],
+ "source_raw": [
+  "The Slithering pg. 63"
+ ],
+ "source_category": "Adventures",
+ "source_group": "The Slithering",
+ "source_markdown": "<row gap=\"tiny\">[The Slithering](/Sources.aspx?ID=41) pg. 63</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet",
+ "speed_raw": "20 feet, climb 20 feet",
+ "spell_markdown": "",
+ "spoilers": "The Slithering",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The slurry from alchemical experiments is often as flammable as it is toxic. In especially volatile cases, a fuming sludge can form from ignited …",
+ "summary_markdown": "The slurry from alchemical experiments is often as flammable as it is toxic. In especially volatile cases, a fuming sludge can form from ignited …",
+ "text": " Fuming Sludge The slurry from alchemical experiments is often as flammable as it is toxic. In especially volatile cases, a fuming sludge can form from ignited pools of unstable alchemical runoff. It resembles a charcoal-colored slurry studded with tiny embers, and it continually emits a thin haze of accelerant that amplifies the fires it starts. A fuming sludge must consume the base chemicals of living creatures to survive and can instinctively identify the complex molecules found in most animate creatures. The first meal of many a fuming sludge is its accidental creator, but it soon moves on to hunt in lush forests or densely populated settlements. A fuming sludge can extrude a powerful pseudopod to strike its victims, but it can also eject portions of its body with peristaltic contractions. These rapidly-cooling globs of goo slow down fleeing prey, but the cold, crusty residue can also alert canny explorers to their presence. Recall Knowledge - Ooze (Occultism): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Fuming Sludge Source The Slithering pg. 63 Perception +11; chemical sense 60 feet, no vision Languages Skills Athletics +19 Str +6 Dex -3 Con +5 Int -5 Wis +0 Cha -5 Chemical Sense A fuming sludge detects nearby living and undead creatures by their complex chemical compositions, but it can't detect elementals or other creatures composed of a single element. Smoldering Haze (aura, fire) 15 feet. The fuming sludge constantly emits incendiary smoke that creates concealment around it. The smoke doesn't impair the fuming sludge's chemical sense. A creature that enters the aura or begins its turn in the aura becomes sickened 1 (DC 25 Fortitude negates) and cannot recover from persistent fire damage for 1 round. It is then temporarily immune to the sickening effect of the smoldering haze for 1 minute. A creature that is currently holding its breath, that doesn't need to breathe, or that's immune to poison is immune to the aura's sickened effect but not the concealment or inability to recover from persistent fire damage. --- AC 16 Fort +18 Ref +8 Will +11 HP 160 Immunities critical hits, fire, mental, piercing, precision, slashing, unconscious, visual Weaknesses cold 5 Attack of Opportunity Reaction --- Speed 20 feet, climb 20 feet Melee Single Action pseudopod +17, Damage 2d10+6 bludgeoning plus 1d8 persistent fire and Grab Ranged Single Action ejected glob +17 (Brutal, range increment 20 feet), Damage 3d6+6 bludgeoning plus 1d8 persistent fire and cooling glob Constrict Single Action 1d8+6 bludgeoning plus 1d8 persistent fire, DC 24 Cooling Glob A fuming sludge's ejected globs cling to targets. A creature hit by an ejected glob Strike is encumbered for 1 round. If the attack was a critical hit, the creature is instead restrained for 1 round (Escape DC 24). The Fires of Malice Some fuming sludges are not created alchemically but arise spontaneously when the exceptionally spiteful die and are buried in swampy ground. Residual bits of ire from the spiteful soul remain within the decomposing corpse, eventually igniting into a fuming sludge. A fuming sludge that originates this way loses the mindless trait and immunity to mental damage, but its Strikes deal an additional 1d6 mental damage to creatures that injured it within the last minute. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "Uncommon",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=984",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold": 5
+ },
+ "weakness_markdown": "cold 5",
+ "weakness_raw": "cold 5",
+ "will_save": 11,
+ "wisdom": 0
+}

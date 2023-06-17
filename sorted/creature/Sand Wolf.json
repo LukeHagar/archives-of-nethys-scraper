@@ -1,0 +1,109 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Water Vulnerability",
+  "Collapse Into Sand",
+  "Choking Sands",
+  "Susurrating Song"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 92,
+ "hp_raw": "92",
+ "id": "creature-2531",
+ "intelligence": -2,
+ "language": [
+  "Auran",
+  "Terran",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Auran](/Languages.aspx?ID=15), [Terran](/Languages.aspx?ID=22); (can't speak any language)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Sand Wolf](/Monsters.aspx?ID=2531)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA sand wolf is an elemental creature which dwells in the sandy deserts of elemental earth that drift to, or have been conjured on, the [Plane of Air](/Planes.aspx?ID=4). Occasionally, these creatures seep through planar rifts or are summoned by elementalists on the [Material Plane](/Planes.aspx?ID=1).\n\n Sand wolves are prized as guardians for their relative intelligence, keen perception, and ability to disguise themselves, easily blending with the shifting sands in desert terrain. Cunning and agile, they fiercely pursue any creatures they ambush, no matter how nimble their prey.\n\n Sand wolves also have a remarkable ability to sing beautiful, haunting songs, and their music is considered high entertainment among djinn who inhabit the Plane of Air. Many [djinni](/Monsters.aspx?ID=212) viziers and even certain Material Plane rulers seeking the attention of their peers keep at least one of these creatures in their employ to show off at special events and ceremonies. The wolves' wordless songs evoke both the strength of the earth and the power of wind to erode it.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Sand Wolf](/Monsters.aspx?ID=2531)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Enmity Cycle](/Sources.aspx?ID=200) pg. 62</row>\n\n**Perception** +14; [low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Auran](/Languages.aspx?ID=15), [Terran](/Languages.aspx?ID=22); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Performance](/Skills.aspx?ID=12) +13, [Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 92\n\n**Resistances**\r\n[acid](/Traits.aspx?ID=3) 5, [electricity](/Traits.aspx?ID=56) 5, piercing 5, slashing 5\n\n**Water Vulnerability** Sand wolves take 5 additional damage from attacks and effects with the [water](/Traits.aspx?ID=165) trait.<br />**Collapse Into Sand** <actions string=\"Reaction\" /> **Trigger** The sand wolf is hit by an attack; **Effect** The sand wolf's body falls apart into a cloud of sand. It takes no damage from the triggering attack, and its resistances increase to 8. The sand wolf must spend one action to reform its body before it can move or attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 20 feet, fly 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14,\r\n**Damage** 2d6+5 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nsand blast +12 ([range 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d10 slashing\n\n**Choking Sands** <actions string=\"Two Actions\" /> ([Air](/Traits.aspx?ID=5), [Earth](/Traits.aspx?ID=55), [Primal](/Traits.aspx?ID=134)) The sand wolf discorporates into a cloud of whirling sand. It can Stride, moving freely through occupied spaces. Any creatures within those spaces take 2d10 damage and must attempt a DC 19 Reflex save.<br /> **Critical Success** The target takes no damage.<br /> **Success** The target takes half damage.<br /> **Failure** The target takes full damage and is [sickened 1](/Conditions.aspx?ID=34).<br /> **Critical Failure** As failure, but the effect is increased to sickened 3.\r\n\r\n**Susurrating Song** <actions string=\"Single Action\" /> ([Air](/Traits.aspx?ID=5), [Earth](/Traits.aspx?ID=55), [Primal](/Traits.aspx?ID=134), [Sonic](/Traits.aspx?ID=147)) The sand wolf sings a short, enchanting song. Any creature other than a sand wolf within 30 feet must attempt a DC 19 Will save.<br /> **Critical Success** The target is unaffected and is temporarily immune to further susurrating song exposures for 24 hours.<br /> **Success** The target is stupefied 1.<br /> **Failure** The target is stupefied 2.<br /> **Critical Failure** As failure, and the target is [slowed 1](/Conditions.aspx?ID=35).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">The Eternal Hourglass</title>\r\n\r\nDeep within a cavern in the [Plane of Earth](/Planes.aspx?ID=5) is a massive, seemingly indestructible hourglass the size of a small city, its top filled with thousands of sand wolves. As each wolf reaches the opening to the bottom, they are turned to sand and do not reform, instead piling up in a huge mound. It is not clear who constructed or placed the hourglass, how the sand wolves got there, or what—if anything—the hourglass is timing. Some claim the wolves will break loose and rampage freely when the sand runs out, while others believe the glass is counting down to the end of time itself.\r\n</aside>",
+ "name": "Sand Wolf",
+ "npc": false,
+ "perception": 14,
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2023-05-24",
+ "resistance": {
+  "acid": 5,
+  "electricity": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "[acid](/Traits.aspx?ID=3) 5, [electricity](/Traits.aspx?ID=56) 5, piercing 5, slashing 5",
+ "resistance_raw": " acid  5,  electricity  5, piercing 5, slashing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Enmity Cycle](/Sources.aspx?ID=200) pg. 62</row>\n\n<row gap=\"medium\">\r\n**HP** 92\r\n\r\n**AC** 21\r\n\r\n**Fort** +12\r\n\r\n**Ref** +15\r\n\r\n**Will** +9\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA sand wolf is an elemental creature which dwells in the sandy deserts of elemental earth that drift to, or have been conjured on, the  Plane of Air …\r\n</summary>",
+ "sense": " low-light vision ,  tremorsense  (imprecise) 30 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Performance +13",
+  "Stealth +11",
+  "Survival +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Performance](/Skills.aspx?ID=12) +13, [Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +12",
+ "source": [
+  "The Enmity Cycle"
+ ],
+ "source_raw": [
+  "The Enmity Cycle pg. 62"
+ ],
+ "source_category": "Adventures",
+ "source_group": "The Enmity Cycle",
+ "source_markdown": "<row gap=\"tiny\">[The Enmity Cycle](/Sources.aspx?ID=200) pg. 62</row>",
+ "speed": {
+  "burrow": 20,
+  "fly": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 20 feet, fly 20 feet",
+ "speed_raw": "30 feet, burrow 20 feet, fly 20 feet",
+ "spell_markdown": "",
+ "spoilers": "The Enmity Cycle",
+ "stealth": "11",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A sand wolf is an elemental creature which dwells in the sandy deserts of elemental earth that drift to, or have been conjured on, the  Plane of Air …",
+ "summary_markdown": "A sand wolf is an elemental creature which dwells in the sandy deserts of elemental earth that drift to, or have been conjured on, the  Plane of Air …",
+ "text": " Sand Wolf A sand wolf is an elemental creature which dwells in the sandy deserts of elemental earth that drift to, or have been conjured on, the Plane of Air. Occasionally, these creatures seep through planar rifts or are summoned by elementalists on the Material Plane. Sand wolves are prized as guardians for their relative intelligence, keen perception, and ability to disguise themselves, easily blending with the shifting sands in desert terrain. Cunning and agile, they fiercely pursue any creatures they ambush, no matter how nimble their prey. Sand wolves also have a remarkable ability to sing beautiful, haunting songs, and their music is considered high entertainment among djinn who inhabit the Plane of Air. Many djinni viziers and even certain Material Plane rulers seeking the attention of their peers keep at least one of these creatures in their employ to show off at special events and ceremonies. The wolves' wordless songs evoke both the strength of the earth and the power of wind to erode it. Recall Knowledge - Beast (Arcana, Nature): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Sand Wolf Source The Enmity Cycle pg. 62 Perception +14; low-light vision, tremorsense (imprecise) 30 feet Languages Auran, Terran; (can't speak any language) Skills Athletics +12, Performance +13, Stealth +11, Survival +12 Str +5 Dex +4 Con +2 Int -2 Wis +2 Cha +3 --- AC 21 Fort +12 Ref +15 Will +9 HP 92 Resistances acid 5, electricity 5, piercing 5, slashing 5 Water Vulnerability Sand wolves take 5 additional damage from attacks and effects with the water trait. Collapse Into Sand Reaction Trigger The sand wolf is hit by an attack; Effect The sand wolf's body falls apart into a cloud of sand. It takes no damage from the triggering attack, and its resistances increase to 8. The sand wolf must spend one action to reform its body before it can move or attack. --- Speed 30 feet, burrow 20 feet, fly 20 feet Melee Single Action jaws +14, Damage 2d6+5 piercing plus Grab Ranged Single Action sand blast +12 (range 30 feet), Damage 2d10 slashing Choking Sands Two Actions (Air, Earth, Primal) The sand wolf discorporates into a cloud of whirling sand. It can Stride, moving freely through occupied spaces. Any creatures within those spaces take 2d10 damage and must attempt a DC 19 Reflex save. Critical Success The target takes no damage. Success The target takes half damage. Failure The target takes full damage and is sickened 1. Critical Failure As failure, but the effect is increased to sickened 3. Susurrating Song Single Action (Air, Earth, Primal, Sonic) The sand wolf sings a short, enchanting song. Any creature other than a sand wolf within 30 feet must attempt a DC 19 Will save. Critical Success The target is unaffected and is temporarily immune to further susurrating song exposures for 24 hours. Success The target is stupefied 1. Failure The target is stupefied 2. Critical Failure As failure, and the target is slowed 1. The Eternal Hourglass Deep within a cavern in the Plane of Earth is a massive, seemingly indestructible hourglass the size of a small city, its top filled with thousands of sand wolves. As each wolf reaches the opening to the bottom, they are turned to sand and do not reform, instead piling up in a huge mound. It is not clear who constructed or placed the hourglass, how the sand wolves got there, or what—if anything—the hourglass is timing. Some claim the wolves will break loose and rampage freely when the sand runs out, while others believe the glass is counting down to the end of time itself. ",
+ "trait": [
+  "Air",
+  "Beast",
+  "Earth",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Beast](/Traits.aspx?ID=20), [Earth](/Traits.aspx?ID=55), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Air",
+  "Beast",
+  "Earth",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2531",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 2
+}

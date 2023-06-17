@@ -1,0 +1,96 @@
+{
+ "ac": 25,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Forager",
+  "Forest Walker",
+  "Hunt Prey"
+ ],
+ "creature_family": "Foresters",
+ "creature_family_markdown": "[Foresters](/MonsterFamilies.aspx?ID=186)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 115,
+ "hp_raw": "115",
+ "id": "creature-907",
+ "image": [
+  "/Images/NPCs/Forester_Hunter.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Hunter](/NPCs.aspx?ID=907)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAs is reflected in the many depictions of an elk-headed [Erastil](/Deities.aspx?ID=6), god of the hunt, the hunter is very much a creature of the forest, known by the forest and familiar with every aspect of it. After all, the final determination of who is the hunter and who is prey often depends on who is able to make an ally of the terrain.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/NPCs/Forester_Hunter.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Hunter](/NPCs.aspx?ID=907)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 219</row>\n\n**Perception** +17\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Forest Lore](/Skills.aspx?ID=8) +13, [Medicine](/Skills.aspx?ID=9) +15, [Nature](/Skills.aspx?ID=10) +17, [Stealth](/Skills.aspx?ID=15) +17, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Forager** While using [Survival](/Skills.aspx?ID=16) to [Subsist](/Actions.aspx?ID=27), if the hunter rolls a failure or a critical failure, they get a success instead. If the hunter rolls a success, they can provide food for 16 additional creatures that eat about as much as a human, or 32 creatures on a critical success.<br />**Forest Walker** The hunter ignores the effects of difficult terrain from a forest environment. They can [Sneak](/Actions.aspx?ID=63) through underbrush without the need to attempt a [Stealth](/Skills.aspx?ID=15) check as long as the hunter moves no more than 5 feet at a time and is not within 10 feet of an enemy at any point during their movement.\r\n\r\n**Items**\r\n[_+1 composite longbow_](/Weapons.aspx?ID=74), [Dagger](/Weapons.aspx?ID=3), [Leather Armor](/Armor.aspx?ID=4), [Shortsword](/Weapons.aspx?ID=43)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 115\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +18 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+9 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +18 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+9 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_composite longbow_ +18 ([deadly 1d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [Propulsive](/Traits.aspx?ID=191), [range increment 100 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 1d8+8 piercing\n\n**Hunt Prey** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) The hunter designates a single creature they can see and hear, or one they're [Tracking](/Actions.aspx?ID=66), as their prey. The hunter  gains a +2 circumstance bonus to Perception checks to [Seek](/Actions.aspx?ID=84) the prey and to [Survival](/Skills.aspx?ID=16) checks to Track the prey. The first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. The hunter also ignores the penalty for making ranged attacks within their second range increment. These effects last until the hunter uses Hunt Prey again.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-186\" />",
+ "name": "Hunter",
+ "npc": true,
+ "perception": 17,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 219</row>\r\n\r\n**Creature Family** [Foresters](/MonsterFamilies.aspx?ID=186)\r\n\r\n<row gap=\"medium\">\r\n**HP** 115\r\n\r\n**AC** 25\r\n\r\n**Fort** +15\r\n\r\n**Ref** +17\r\n\r\n**Will** +15\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs is reflected in the many depictions of an elk-headed  Erastil , god of the hunt, the hunter is very much a creature of the forest, known by the …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Forest Lore +13",
+  "Medicine +15",
+  "Nature +17",
+  "Stealth +17",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Forest Lore](/Skills.aspx?ID=8) +13, [Medicine](/Skills.aspx?ID=9) +15, [Nature](/Skills.aspx?ID=10) +17, [Stealth](/Skills.aspx?ID=15) +17, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 219"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 219</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "As is reflected in the many depictions of an elk-headed  Erastil , god of the hunt, the hunter is very much a creature of the forest, known by the …",
+ "summary_markdown": "As is reflected in the many depictions of an elk-headed  Erastil , god of the hunt, the hunter is very much a creature of the forest, known by the …",
+ "text": " Hunter As is reflected in the many depictions of an elk-headed Erastil, god of the hunt, the hunter is very much a creature of the forest, known by the forest and familiar with every aspect of it. After all, the final determination of who is the hunter and who is prey often depends on who is able to make an ally of the terrain. Recall Knowledge - Humanoid (Society): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Hunter Source Gamemastery Guide pg. 219 Perception +17 Languages Common Skills Forest Lore +13, Medicine +15, Nature +17, Stealth +17, Survival +17 Str +4 Dex +4 Con +2 Int +1 Wis +4 Cha +0 Forager While using Survival to Subsist, if the hunter rolls a failure or a critical failure, they get a success instead. If the hunter rolls a success, they can provide food for 16 additional creatures that eat about as much as a human, or 32 creatures on a critical success. Forest Walker The hunter ignores the effects of difficult terrain from a forest environment. They can Sneak through underbrush without the need to attempt a Stealth check as long as the hunter moves no more than 5 feet at a time and is not within 10 feet of an enemy at any point during their movement. Items +1 composite longbow , Dagger, Leather Armor, Shortsword --- AC 25 Fort +15 Ref +17 Will +15 HP 115 --- Speed 25 feet Melee Single Action dagger +18 (Agile, Finesse, versatile S), Damage 1d4+9 piercing Melee Single Action shortsword +18 (Agile, Finesse, versatile S), Damage 1d6+9 piercing Ranged Single Action composite longbow +18 (deadly 1d10, Magical, Propulsive, range increment 100 feet, reload 0, volley 30 feet), Damage 1d8+8 piercing Hunt Prey Single Action (Concentrate) The hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to Seek the prey and to Survival checks to Track the prey. The first time the hunter hits the designated prey in a round, they deal an additional 1d8 precision damage. The hunter also ignores the penalty for making ranged attacks within their second range increment. These effects last until the hunter uses Hunt Prey again. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=907",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 4
+}

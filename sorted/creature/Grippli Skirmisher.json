@@ -1,0 +1,101 @@
+{
+ "ac": 22,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 3,
+ "creature_ability": [
+  "Springing Step",
+  "Hopping Dodge",
+  "Baneback Poison",
+  "Jungle Stride",
+  "Wily Attack"
+ ],
+ "creature_family": "Grippli",
+ "creature_family_markdown": "[Grippli](/MonsterFamilies.aspx?ID=110)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-1623",
+ "image": [
+  "/Images/Monsters/Grippli_Skirmisher.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Grippli"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Grippli](/Languages.aspx?ID=48)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Grippli Skirmisher](/Monsters.aspx?ID=1623)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSkirmishers are jittery baneback hunters or ambushers. Although they often fight in groups, they aren't loyal to each other and sometimes leave one member of the group behind to face punishment while the others flee.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Grippli_Skirmisher.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Grippli Skirmisher](/Monsters.aspx?ID=1623)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Grippli\" url=\"/Traits.aspx?ID=264\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 82</row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Grippli](/Languages.aspx?ID=48)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +11, [Thievery](/Skills.aspx?ID=17) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Springing Step** When the skirmisher uses the Step action they ignore difficult terrain and may move up to 10 feet instead of 5 feet.\r\n\r\n**Items**\r\n[Composite Shortbow](/Weapons.aspx?ID=75) (30 arrows), [Kukri](/Weapons.aspx?ID=56), [Leather Armor](/Armor.aspx?ID=4), [Thieves' Tools](/Equipment.aspx?ID=58)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 60\n\n**Hopping Dodge** <actions string=\"Reaction\" /> **Trigger** A creature misses the skirmisher with a melee Strike; **Effect** The skirmisher quickly takes advantage of the attacker's error and Steps.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 20 feet; jungle stride\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nkukri +14 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d6+4 slashing plus baneback poison\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncomposite shortbow +14 ([deadly d10](/Traits.aspx?ID=174), [Propulsive](/Traits.aspx?ID=191), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+3 piercing plus baneback poison\n\n**Baneback Poison**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 21; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage and [stupefied 1](/Conditions.aspx?ID=37) (1 round); **Stage 2** 2d4 poison damage and stupefied 2 (1 round); **Stage 3** 2d4 poison damage, stupefied 3, and [flat-footed](/Conditions.aspx?ID=16) (1 round)\r\n\r\n**Jungle Stride**   Gripplis ignore difficult terrain in forests and jungles.\r\n\r\n**Wily Attack**   The skirmisher deals an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures and creatures afflicted by a [poison](/Traits.aspx?ID=126).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-110\" />",
+ "name": "Grippli Skirmisher",
+ "npc": false,
+ "perception": 12,
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2021-09-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Grippli\" url=\"/Traits.aspx?ID=264\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 82</row>\r\n\r\n**Creature Family** [Grippli](/MonsterFamilies.aspx?ID=110)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 22\r\n\r\n**Fort** +11\r\n\r\n**Ref** +14\r\n\r\n**Will** +9\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSkirmishers are jittery baneback hunters or ambushers. Although they often fight in groups, they aren't loyal to each other and sometimes leave one …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +10",
+  "Stealth +12",
+  "Survival +11",
+  "Thievery +10"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +11, [Thievery](/Skills.aspx?ID=17) +10",
+ "source": [
+  "Pathfinder #170: Spoken on the Song Wind"
+ ],
+ "source_raw": [
+  "Pathfinder #170: Spoken on the Song Wind pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 82</row>",
+ "speed": {
+  "climb": 20,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 20 feet; jungle stride",
+ "speed_raw": "25 feet, climb 20 feet; jungle stride",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Skirmishers are jittery baneback hunters or ambushers. Although they often fight in groups, they aren't loyal to each other and sometimes leave one …",
+ "summary_markdown": "Skirmishers are jittery baneback hunters or ambushers. Although they often fight in groups, they aren't loyal to each other and sometimes leave one …",
+ "text": " Grippli Skirmisher Skirmishers are jittery baneback hunters or ambushers. Although they often fight in groups, they aren't loyal to each other and sometimes leave one member of the group behind to face punishment while the others flee. Recall Knowledge - Humanoid (Society): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Grippli Skirmisher Source Pathfinder #170: Spoken on the Song Wind pg. 82 Perception +12; darkvision Languages Common, Grippli Skills Acrobatics +12, Athletics +10, Stealth +12, Survival +11, Thievery +10 Str +2 Dex +4 Con +3 Int +0 Wis +3 Cha -1 Springing Step When the skirmisher uses the Step action they ignore difficult terrain and may move up to 10 feet instead of 5 feet. Items Composite Shortbow (30 arrows), Kukri, Leather Armor, Thieves' Tools --- AC 22 Fort +11 Ref +14 Will +9 HP 60 Hopping Dodge Reaction Trigger A creature misses the skirmisher with a melee Strike; Effect The skirmisher quickly takes advantage of the attacker's error and Steps. --- Speed 25 feet, climb 20 feet; jungle stride Melee Single Action kukri +14 (Agile, Finesse, Trip), Damage 1d6+4 slashing plus baneback poison Ranged Single Action composite shortbow +14 (deadly d10, Propulsive, range increment 60 feet, reload 0), Damage 1d6+3 piercing plus baneback poison Baneback Poison (Poison) Saving Throw Fortitude DC 21; Maximum Duration 6 rounds; Stage 1 1d4 poison damage and stupefied 1 (1 round); Stage 2 2d4 poison damage and stupefied 2 (1 round); Stage 3 2d4 poison damage, stupefied 3, and flat-footed (1 round) Jungle Stride Gripplis ignore difficult terrain in forests and jungles. Wily Attack The skirmisher deals an extra 1d6 precision damage to flat-footed creatures and creatures afflicted by a poison. ",
+ "trait": [
+  "Grippli",
+  "Humanoid",
+  "NE",
+  "Small"
+ ],
+ "trait_markdown": "[Grippli](/Traits.aspx?ID=264), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Grippli",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1623",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 3
+}

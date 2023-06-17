@@ -1,0 +1,94 @@
+{
+ "ac": 35,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Pinning Shot",
+  "Point-Blank Shot",
+  "Rain of Arrows"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 190,
+ "hp_raw": "190",
+ "id": "creature-1452",
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Tien"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Tien](/Languages.aspx?ID=43)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Archery Specialist](/NPCs.aspx?ID=1452)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nArchery specialists weaken their foes from a great distance. They typically begin combat by attempting to pin the most dangerous target, then follow up with a Rain of Arrows on a clumped group.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Archery Specialist](/NPCs.aspx?ID=1452)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 24</row>\n\n**Perception** +26\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Tien](/Languages.aspx?ID=43)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +26, [Athletics](/Skills.aspx?ID=3) +22, [Lore](/Skills.aspx?ID=8) +24, [Survival](/Skills.aspx?ID=16) +21, [Stealth](/Skills.aspx?ID=15) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** +3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n_+1 [greater striking](/Equipment.aspx?ID=280) [composite longbow](/Weapons.aspx?ID=74)_, _+1 [resilient](/Equipment.aspx?ID=279) [leather armor](/Armor.aspx?ID=4)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 190\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +24 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Nonlethal](/Traits.aspx?ID=188), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 1d4+7 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_composite longbow_ +27 ([deadly d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [Propulsive](/Traits.aspx?ID=191), [range increment 100 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 3d8+7 piercing\n\n**Pinning Shot** <actions string=\"Single Action\" />  The archery specialist makes a longbow Strike. If the attack hits, it deals no damage and instead imparts the [bow critical specialization effect](/WeaponGroups.aspx?ID=3). If the attack is a critical hit, the target must succeed at two separate Interact actions to pull the missile free.\r\n\r\n**Point-Blank Shot**   The archery specialist ignores the penalty to their attack rolls from the [volley](/Traits.aspx?ID=201) trait.\r\n\r\n**Rain of Arrows** <actions string=\"Two Actions\" /> ([Flourish](/Traits.aspx?ID=73)) The archery specialist fires several arrows at once, each aimed to land in a 10-foot burst within 60 feet. The archery specialist makes a longbow Strike and compares the attack roll result to the AC of all creatures in the burst. The specialist rolls damage only once and applies it to each creature hit. Rain of Arrows counts as three attacks for the archery specialist's multiple attack penalty.\r\n\r\n</column>",
+ "name": "Archery Specialist",
+ "npc": true,
+ "perception": 26,
+ "rarity": "uncommon",
+ "reflex_save": 26,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 24</row>\n\n<row gap=\"medium\">\r\n**HP** 190\r\n\r\n**AC** 35\r\n\r\n**Fort** +22\r\n\r\n**Ref** +26\r\n\r\n**Will** +19\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nArchery specialists weaken their foes from a great distance. They typically begin combat by attempting to pin the most dangerous target, then follow …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +26",
+  "Athletics +22",
+  "Lore +24",
+  "Survival +21",
+  "Stealth +24"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +26, [Athletics](/Skills.aspx?ID=3) +22, [Lore](/Skills.aspx?ID=8) +24, [Survival](/Skills.aspx?ID=16) +21, [Stealth](/Skills.aspx?ID=15) +24",
+ "source": [
+  "Pathfinder #166: Despair on Danger Island"
+ ],
+ "source_raw": [
+  "Pathfinder #166: Despair on Danger Island pg. 24"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 24</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "24",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Archery specialists weaken their foes from a great distance. They typically begin combat by attempting to pin the most dangerous target, then follow …",
+ "summary_markdown": "Archery specialists weaken their foes from a great distance. They typically begin combat by attempting to pin the most dangerous target, then follow …",
+ "text": " Archery Specialist Archery specialists weaken their foes from a great distance. They typically begin combat by attempting to pin the most dangerous target, then follow up with a Rain of Arrows on a clumped group. Recall Knowledge - Humanoid (Society): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Archery Specialist Source Pathfinder #166: Despair on Danger Island pg. 24 Perception +26 Languages Common, Tien Skills Acrobatics +26, Athletics +22, Lore +24, Survival +21, Stealth +24 Str +3 Dex +5 Con +4 Int +3 Wis +2 Cha +0 Items +1 greater striking composite longbow , +1 resilient leather armor --- AC 35 Fort +22 Ref +26 Will +19 HP 190 --- Speed 25 feet Melee Single Action fist +24 (Agile, Finesse, Nonlethal, Unarmed), Damage 1d4+7 bludgeoning Ranged Single Action composite longbow +27 (deadly d10, Magical, Propulsive, range increment 100 feet, reload 0, volley 30 feet), Damage 3d8+7 piercing Pinning Shot Single Action The archery specialist makes a longbow Strike. If the attack hits, it deals no damage and instead imparts the bow critical specialization effect. If the attack is a critical hit, the target must succeed at two separate Interact actions to pull the missile free. Point-Blank Shot The archery specialist ignores the penalty to their attack rolls from the volley trait. Rain of Arrows Two Actions (Flourish) The archery specialist fires several arrows at once, each aimed to land in a 10-foot burst within 60 feet. The archery specialist makes a longbow Strike and compares the attack roll result to the AC of all creatures in the burst. The specialist rolls damage only once and applies it to each creature hit. Rain of Arrows counts as three attacks for the archery specialist's multiple attack penalty. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Uncommon",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=1452",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 2
+}

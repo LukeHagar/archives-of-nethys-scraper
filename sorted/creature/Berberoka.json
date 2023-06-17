@@ -1,0 +1,108 @@
+{
+ "ac": 36,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Deep Breath",
+  "Attack of Opportunity",
+  "Fear of Crabs",
+  "Greater Constrict",
+  "Consume Lake",
+  "Spray Water"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 310,
+ "hp_raw": "310",
+ "id": "creature-1394",
+ "image": [
+  "/Images/Monsters/Berberoka.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Jotun"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Berberoka](/Monsters.aspx?ID=1394)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBerberokas are giant humanoids who live among forests and swamps, where they use their ability to swallow massive amounts of water to drain small ponds and lakes. Creatures who visit their favorite watering hole and find only an empty mud basin become prey for the berberoka, who hides in the brush and overwhelm their prey with a massive torrent of regurgitated water.\n\n A berberoka's mottled backside—which resembles a bundle of local plants, small trees, and large rocks—grants them natural camouflage that allows them to hide in plain sight. Berberokas tend to disguise themselves as rock formations in the center of a dried-up waterbed while they lie in wait for passersby. In the tropical regions where berberokas are most common, locals know to give empty ponds a wide berth, regardless of the enticing fish flopping about. Hungry travelers, on the other hand, might see such bounty as a blessing from the gods, only to be swept up in the berberoka's deadly deluge.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Berberoka.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Berberoka](/Monsters.aspx?ID=1394)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 82</row>\n\n**Perception** +26; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +31, [Deception](/Skills.aspx?ID=5) +27, [Intimidation](/Skills.aspx?ID=7) +25, [Nature](/Skills.aspx?ID=10) +26, [Stealth](/Skills.aspx?ID=15) +25, [Survival](/Skills.aspx?ID=16) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Deep Breath** A berberoka can hold their breath for 2 hours.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +24 \n\n</row>\r\n\r\n**HP** 310\n\n**Weaknesses**\r\nfear of crabs\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Fear of Crabs** ([emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) If a berberoka sees a [crab](/MonsterFamilies.aspx?ID=129) or crab-like creature, the berberoka must attempt a DC 33 Will save. They then becomes immune to the sight of that creature for 10 minutes.<br />**Critical Success** The berberoka is unaffected. <br />**Success** The berberoka becomes [frightened 2](/Conditions.aspx?ID=19). <br />**Failure** The berberoka gains the [fleeing](/Conditions.aspx?ID=17) condition for 1 round and is frightened 4.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, swim 30 feet; 15 feet while waterlogged\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +31 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+16 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Greater Constrict](/MonsterAbilities.aspx?ID=19)** <actions string=\"Single Action\" />  2d12+12 bludgeoning, DC 33\r\n\r\n**Consume Lake**  ([Manipulate](/Traits.aspx?ID=104)) The berberoka drinks a prolific amount from an adjacent water source. If the water source is equal to or greater in volume than themself, the berberoka consumes up to 1,500 gallons of water per minute and becomes waterlogged. They can release water at the same rate. While waterlogged, the berberoka can use Spray Water, their size grows to Gargantuan, and their Speed is reduced to 15 feet.\r\n\r\n**Spray Water** <actions string=\"Two Actions\" />  **Requirements** The berberoka is waterlogged; **Effect** The berberoka sprays a blast of water in a 60-foot line. All creatures in the line take 6d8 bludgeoning damage (DC 35 [basic](/Rules.aspx?ID=329) Reflex save). On a failed save, a creature is knocked [prone](/Conditions.aspx?ID=31) and [pushed](/Rules.aspx?ID=451) back 5 feet (10 feet on a critically failed save).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Kabourophobia</title>\r\n\r\n[Berberokas](/Monsters.aspx?ID=1394) share an unusually intense fear of crabs, so many folktales suggest fishers bring a crab with them should they suspect a berberoka nearby. If no crab is available, clicking one's tongue or snapping one's fingers might suffice.\r\n</aside>",
+ "name": "Berberoka",
+ "npc": false,
+ "perception": 26,
+ "rarity": "uncommon",
+ "reflex_save": 23,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 82</row>\n\n<row gap=\"medium\">\r\n**HP** 310\r\n\r\n**AC** 36\r\n\r\n**Fort** +29\r\n\r\n**Ref** +23\r\n\r\n**Will** +24\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBerberokas are giant humanoids who live among forests and swamps, where they use their ability to swallow massive amounts of water to drain small …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +31",
+  "Deception +27",
+  "Intimidation +25",
+  "Nature +26",
+  "Stealth +25",
+  "Survival +26"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +31, [Deception](/Skills.aspx?ID=5) +27, [Intimidation](/Skills.aspx?ID=7) +25, [Nature](/Skills.aspx?ID=10) +26, [Stealth](/Skills.aspx?ID=15) +25, [Survival](/Skills.aspx?ID=16) +26",
+ "source": [
+  "Pathfinder #166: Despair on Danger Island"
+ ],
+ "source_raw": [
+  "Pathfinder #166: Despair on Danger Island pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 82</row>",
+ "speed": {
+  "land": 15,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "30 feet, swim 30 feet; 15 feet while waterlogged",
+ "speed_raw": "30 feet, swim 30 feet; 15 feet while waterlogged",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "25",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Berberokas are giant humanoids who live among forests and swamps, where they use their ability to swallow massive amounts of water to drain small …",
+ "summary_markdown": "Berberokas are giant humanoids who live among forests and swamps, where they use their ability to swallow massive amounts of water to drain small …",
+ "text": " Berberoka Berberokas are giant humanoids who live among forests and swamps, where they use their ability to swallow massive amounts of water to drain small ponds and lakes. Creatures who visit their favorite watering hole and find only an empty mud basin become prey for the berberoka, who hides in the brush and overwhelm their prey with a massive torrent of regurgitated water. A berberoka's mottled backside—which resembles a bundle of local plants, small trees, and large rocks—grants them natural camouflage that allows them to hide in plain sight. Berberokas tend to disguise themselves as rock formations in the center of a dried-up waterbed while they lie in wait for passersby. In the tropical regions where berberokas are most common, locals know to give empty ponds a wide berth, regardless of the enticing fish flopping about. Hungry travelers, on the other hand, might see such bounty as a blessing from the gods, only to be swept up in the berberoka's deadly deluge. Recall Knowledge - Humanoid (Society): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Berberoka Source Pathfinder #166: Despair on Danger Island pg. 82 Perception +26; darkvision, scent (imprecise) 60 feet Languages Common, Jotun Skills Athletics +31, Deception +27, Intimidation +25, Nature +26, Stealth +25, Survival +26 Str +8 Dex +4 Con +6 Int -1 Wis +3 Cha +4 Deep Breath A berberoka can hold their breath for 2 hours. --- AC 36 Fort +29 Ref +23 Will +24 HP 310 Weaknesses fear of crabs Attack of Opportunity Reaction Fear of Crabs (emotion, fear, mental) If a berberoka sees a crab or crab-like creature, the berberoka must attempt a DC 33 Will save. They then becomes immune to the sight of that creature for 10 minutes. Critical Success The berberoka is unaffected. Success The berberoka becomes frightened 2. Failure The berberoka gains the fleeing condition for 1 round and is frightened 4. --- Speed 30 feet, swim 30 feet; 15 feet while waterlogged Melee Single Action fist +31 (reach 15 feet), Damage 3d12+16 bludgeoning plus Grab Greater Constrict Single Action 2d12+12 bludgeoning, DC 33 Consume Lake (Manipulate) The berberoka drinks a prolific amount from an adjacent water source. If the water source is equal to or greater in volume than themself, the berberoka consumes up to 1,500 gallons of water per minute and becomes waterlogged. They can release water at the same rate. While waterlogged, the berberoka can use Spray Water, their size grows to Gargantuan, and their Speed is reduced to 15 feet. Spray Water Two Actions Requirements The berberoka is waterlogged; Effect The berberoka sprays a blast of water in a 60-foot line. All creatures in the line take 6d8 bludgeoning damage (DC 35 basic Reflex save). On a failed save, a creature is knocked prone and pushed back 5 feet (10 feet on a critically failed save). Kabourophobia Berberokas share an unusually intense fear of crabs, so many folktales suggest fishers bring a crab with them should they suspect a berberoka nearby. If no crab is available, clicking one's tongue or snapping one's fingers might suffice. ",
+ "trait": [
+  "Giant",
+  "Humanoid",
+  "Uncommon",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Giant",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1394",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "weakness_markdown": "fear of crabs",
+ "weakness_raw": "fear of crabs",
+ "will_save": 24,
+ "wisdom": 3
+}

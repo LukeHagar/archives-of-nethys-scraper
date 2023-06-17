@@ -1,0 +1,108 @@
+{
+ "ac": 17,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 1,
+ "creature_ability": [
+  "Light Blindness",
+  "Shadow Blend",
+  "Shadow Evade",
+  "Draconic Frenzy",
+  "Shadow Breath",
+  "Speed Surge"
+ ],
+ "creature_family": "Drake",
+ "creature_family_markdown": "[Drake](/MonsterFamilies.aspx?ID=36)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 28,
+ "hp_raw": "28",
+ "id": "creature-640",
+ "image": [
+  "/Images/Monsters/Drake_ShadowDrake.png"
+ ],
+ "immunity": [
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "[paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -1,
+ "language": [
+  "Draconic"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Shadow Drake](/Monsters.aspx?ID=640)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nShadow drakes are typically among the smallest and least powerful of their species. Most stand as tall and long as house cats and have charcoal-colored scales and membranous wings just translucent enough to pass for shadows. Attracted to shiny materials, they employ deception, teamwork, and even rudimentary traps to create opportunities to make off with ill-gotten gains. Shadow drakes have a particular fascination and admiration for umbral dragons—a notable exception to the norm for drakes and dragons.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drake_ShadowDrake.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Shadow Drake](/Monsters.aspx?ID=640)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 100 <sup>2.0</sup></row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Stealth](/Skills.aspx?ID=15) +8, [Thievery](/Skills.aspx?ID=17) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** -1\r\n\r\n**Wis** +0\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)** <br />**Shadow Blend** The shadow drake's form shifts and blends reflexively with surrounding shadows. A shadow drake gains an additional reaction each round, but it can use this reaction only for Shadow Evade.<br />**Shadow Evade** <actions string=\"Reaction\" /> **Trigger** A creature attacks the shadow drake while it is in an area of dim light; **Effect** The shadow drake further obscures its position. The attacker must succeed at a DC 11 flat check in order to affect the shadow drake, as if the drake were [Hidden](/Conditions.aspx?ID=22) for the triggering attack.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 28\n\n**Immunities**\r\n[paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\nfire 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +11 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d10+3 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +11 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8+3 bludgeoning\n\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The shadow drake makes one bite Strike and two tail Strikes in any order.\r\n\r\n**Shadow Breath** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65), [Shadow](/Traits.aspx?ID=143)) A shadow drake spits a ball of black liquid that explodes into a cloud of frigid black shadow. This attack has a range of 40 feet and explodes in a 5-foot-radius burst. Creatures within the burst take 3d6 cold damage (DC 18 basic Reflex save). The explosion of shadow also snuffs out mundane light sources the size of a torch, lantern, or smaller, and attempts to counteract magical light with a +10 counteract modifier. The shadow drake can't use Shadow Breath again for 1d6 rounds.\r\n\r\n**Speed Surge** <actions string=\"Single Action\" />  **Frequency** three times per day; **Effect** The shadow drake Strides or [Flies](/Actions.aspx?ID=47) twice.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-36\" />",
+ "name": "Shadow Drake",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 100 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Drake](/MonsterFamilies.aspx?ID=36)\r\n\r\n<row gap=\"medium\">\r\n**HP** 28\r\n\r\n**AC** 17\r\n\r\n**Fort** +7\r\n\r\n**Ref** +10\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShadow drakes are typically among the smallest and least powerful of their species. Most stand as tall and long as house cats and have …\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Stealth +8",
+  "Thievery +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Stealth](/Skills.aspx?ID=15) +8, [Thievery](/Skills.aspx?ID=17) +8",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 100"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 100 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 60,
+  "land": 15,
+  "max": 60
+ },
+ "speed_markdown": "15 feet, fly 60 feet",
+ "speed_raw": "15 feet, fly 60 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Shadow drakes are typically among the smallest and least powerful of their species. Most stand as tall and long as house cats and have …",
+ "summary_markdown": "Shadow drakes are typically among the smallest and least powerful of their species. Most stand as tall and long as house cats and have …",
+ "text": " Shadow Drake Shadow drakes are typically among the smallest and least powerful of their species. Most stand as tall and long as house cats and have charcoal-colored scales and membranous wings just translucent enough to pass for shadows. Attracted to shiny materials, they employ deception, teamwork, and even rudimentary traps to create opportunities to make off with ill-gotten gains. Shadow drakes have a particular fascination and admiration for umbral dragons—a notable exception to the norm for drakes and dragons. Recall Knowledge - Dragon (Arcana): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Shadow Drake Source Bestiary 2 pg. 100 2.0 Perception +6; darkvision, scent (imprecise) 30 feet Languages Draconic Skills Acrobatics +8, Stealth +8, Thievery +8 Str +1 Dex +4 Con +1 Int -1 Wis +0 Cha +2 Light Blindness Shadow Blend The shadow drake's form shifts and blends reflexively with surrounding shadows. A shadow drake gains an additional reaction each round, but it can use this reaction only for Shadow Evade. Shadow Evade Reaction Trigger A creature attacks the shadow drake while it is in an area of dim light; Effect The shadow drake further obscures its position. The attacker must succeed at a DC 11 flat check in order to affect the shadow drake, as if the drake were Hidden for the triggering attack. --- AC 17 Fort +7 Ref +10 Will +6 HP 28 Immunities paralyzed, sleep Weaknesses fire 5 --- Speed 15 feet, fly 60 feet Melee Single Action jaws +11 (Finesse), Damage 1d10+3 piercing Melee Single Action tail +11 (Agile, Finesse), Damage 1d8+3 bludgeoning Draconic Frenzy Two Actions The shadow drake makes one bite Strike and two tail Strikes in any order. Shadow Breath Two Actions (Arcane, Cold, Evocation, Shadow) A shadow drake spits a ball of black liquid that explodes into a cloud of frigid black shadow. This attack has a range of 40 feet and explodes in a 5-foot-radius burst. Creatures within the burst take 3d6 cold damage (DC 18 basic Reflex save). The explosion of shadow also snuffs out mundane light sources the size of a torch, lantern, or smaller, and attempts to counteract magical light with a +10 counteract modifier. The shadow drake can't use Shadow Breath again for 1d6 rounds. Speed Surge Single Action Frequency three times per day; Effect The shadow drake Strides or Flies twice. ",
+ "trait": [
+  "Dragon",
+  "Shadow",
+  "CE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Shadow](/Traits.aspx?ID=143)",
+ "trait_raw": [
+  "Dragon",
+  "Shadow"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=640",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 6,
+ "wisdom": 0
+}

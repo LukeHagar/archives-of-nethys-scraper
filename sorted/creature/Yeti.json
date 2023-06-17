@@ -1,0 +1,106 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 4,
+ "creature_ability": [
+  "Snowblind",
+  "Nightmare Guardian",
+  "Vanish",
+  "Grisly Arrival",
+  "Rend"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 115,
+ "hp_raw": "115",
+ "id": "creature-421",
+ "image": [
+  "/Images/Monsters/Yeti.png"
+ ],
+ "immunity": [
+  "cold"
+ ],
+ "immunity_markdown": "cold",
+ "intelligence": -1,
+ "language": [
+  "Aklo"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Yeti](/Monsters.aspx?ID=421)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nNearly a myth, the yeti is rarely seen—and even when it is, it is often too late. Yetis dwell amid the highest, most remote peaks of the world, coming down from their snowy mountain holds to raid, steal livestock, and sometimes feed their insatiable urges for slaughter and destruction. Those folks who live at the foot of a yeti-ruled mountain warn of the “abominable snowmen”: monstrous, fur-covered humanoids who leave strange and bloody tracks in the snow.\n\n Normally yetis seek to protect the world rather than hunt its other civilized denizens. They do so by lairing near eldritch portals that form links between the Material Plane and other, much stranger dimensions of reality. From within these snow-covered arches and ancient stone doorways, aliens, living nightmares, fiends, and worse can emerge through dimensional networks into the world. Yetis who guard these portals sometimes succumb to these horrors and are corrupted, taking on the bloodthirsty urges and horrific behaviors of the very monsters they strive to protect the world against. Yetis who manifest such violent tendencies are driven out of their clan and forced to wander the mountaintops alone, thus giving rise to the myth of the legendary abominable snowman. Forced to fend for themselves, these exiled yetis often fully embrace the corrupting elements that caused their exile in the first place, growing more powerful and more deadly as a result. The most vile of these yetis turn to cannibalism, not out of need, but out of a sheer joy at the terror they inflict upon their kin. Invariably such cannibalistic yetis attract the attention of wendigos, which makes a bad situation all the worse.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Yeti.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Yeti](/Monsters.aspx?ID=421)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 338</row>\n\n**Perception** +15; darkvision, scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +4\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Snowblind** When Hiding, the yeti is concealed by any snowfall, even if it’s not thick enough to make other creatures concealed.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +13 \r\n\r\n+4 status to all saves vs. fear and dreams\r\n</row>\r\n\r\n**HP** 115\n\n**Immunities**\r\ncold\n\n**Weaknesses**\r\nfire 10\r\n\r\n**Nightmare Guardian** Yetis gain a +4 status bonus to saves against fear and against spells and abilities that affect dreams. A yeti that falls prey to a supernatural nightmare loses this ability and becomes permanently enraged, gaining a +1 status bonus to attack and damage rolls and a –1 status penalty to AC.<br /> **Vanish** <actions string=\"Reaction\" /> **Trigger** The yeti is hidden or undetected while not in combat, and a creature would observe it. **Effect** The yeti Strides or Climbs up to half its Speed to a location where it can Hide, then Hides. If its new Stealth check result meets or exceeds the triggering creature’s Perception DC, the yeti remains hidden.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +15,\r\n**Damage** 2d10+5 slashing\n\n**Grisly Arrival** <actions string=\"Free Action\" /> ([Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) **Trigger** The yeti hits a creature in the first round of combat and the yeti was [hidden](/Conditions.aspx?ID=22) from that creature at the start of combat. **Effect** Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will save. On a failure, the creature is [frightened 2](/Conditions.aspx?ID=19); on a critical failure, it’s [frightened 4](/Conditions.aspx?ID=19).\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Yeti Treasure</title>\r\n\r\nLone exiles of yeti clans have little use for treasure and leave the gear of their slain victims behind where it is quickly covered by snowfall. Clan-based yetis, on the other hand, create beautifully carved stonework, some of which they shape into protective talismans of rare beauty.\r\n</aside>",
+ "name": "Yeti",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 11,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 338</row>\n\n<row gap=\"medium\">\r\n**HP** 115\r\n\r\n**AC** 21\r\n\r\n**Fort** +15\r\n\r\n**Ref** +11\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNearly a myth, the yeti is rarely seen—and even when it is, it is often too late. Yetis dwell amid the highest, most remote peaks of the world, …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 30 feet",
+ "sense_markdown": "darkvision, scent (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +14",
+  "Stealth +12",
+  "Survival +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 338"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 338</row>",
+ "speed": {
+  "climb": 20,
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet, climb 20 feet",
+ "speed_raw": "35 feet, climb 20 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Nearly a myth, the yeti is rarely seen—and even when it is, it is often too late. Yetis dwell amid the highest, most remote peaks of the world, …",
+ "summary_markdown": "Nearly a myth, the yeti is rarely seen—and even when it is, it is often too late. Yetis dwell amid the highest, most remote peaks of the world, …",
+ "text": " Yeti Nearly a myth, the yeti is rarely seen—and even when it is, it is often too late. Yetis dwell amid the highest, most remote peaks of the world, coming down from their snowy mountain holds to raid, steal livestock, and sometimes feed their insatiable urges for slaughter and destruction. Those folks who live at the foot of a yeti-ruled mountain warn of the “abominable snowmen”: monstrous, fur-covered humanoids who leave strange and bloody tracks in the snow. Normally yetis seek to protect the world rather than hunt its other civilized denizens. They do so by lairing near eldritch portals that form links between the Material Plane and other, much stranger dimensions of reality. From within these snow-covered arches and ancient stone doorways, aliens, living nightmares, fiends, and worse can emerge through dimensional networks into the world. Yetis who guard these portals sometimes succumb to these horrors and are corrupted, taking on the bloodthirsty urges and horrific behaviors of the very monsters they strive to protect the world against. Yetis who manifest such violent tendencies are driven out of their clan and forced to wander the mountaintops alone, thus giving rise to the myth of the legendary abominable snowman. Forced to fend for themselves, these exiled yetis often fully embrace the corrupting elements that caused their exile in the first place, growing more powerful and more deadly as a result. The most vile of these yetis turn to cannibalism, not out of need, but out of a sheer joy at the terror they inflict upon their kin. Invariably such cannibalistic yetis attract the attention of wendigos, which makes a bad situation all the worse. Recall Knowledge - Humanoid (Society): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Yeti Source Bestiary pg. 338 Perception +15; darkvision, scent (imprecise) 30 feet Languages Aklo Skills Athletics +14, Stealth +12, Survival +11 Str +5 Dex +2 Con +4 Int -1 Wis +4 Cha -1 Snowblind When Hiding, the yeti is concealed by any snowfall, even if it’s not thick enough to make other creatures concealed. --- AC 21 Fort +15 Ref +11 Will +13 +4 status to all saves vs. fear and dreams HP 115 Immunities cold Weaknesses fire 10 Nightmare Guardian Yetis gain a +4 status bonus to saves against fear and against spells and abilities that affect dreams. A yeti that falls prey to a supernatural nightmare loses this ability and becomes permanently enraged, gaining a +1 status bonus to attack and damage rolls and a –1 status penalty to AC. Vanish Reaction Trigger The yeti is hidden or undetected while not in combat, and a creature would observe it. Effect The yeti Strides or Climbs up to half its Speed to a location where it can Hide, then Hides. If its new Stealth check result meets or exceeds the triggering creature’s Perception DC, the yeti remains hidden. --- Speed 35 feet, climb 20 feet Melee Single Action claw +15, Damage 2d10+5 slashing Grisly Arrival Free Action (Emotion, Fear, Mental) Trigger The yeti hits a creature in the first round of combat and the yeti was hidden from that creature at the start of combat. Effect Each enemy within 30 feet that witnesses the attack (including the target of the attack) must attempt a DC 23 Will save. On a failure, the creature is frightened 2; on a critical failure, it’s frightened 4. Rend Single Action claw Yeti Treasure Lone exiles of yeti clans have little use for treasure and leave the gear of their slain victims behind where it is quickly covered by snowfall. Clan-based yetis, on the other hand, create beautifully carved stonework, some of which they shape into protective talismans of rare beauty. ",
+ "trait": [
+  "Humanoid",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=421",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 13,
+ "wisdom": 4
+}

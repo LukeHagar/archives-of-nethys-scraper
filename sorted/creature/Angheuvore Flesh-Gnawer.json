@@ -1,0 +1,105 @@
+{
+ "ac": 18,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Consecration Vulnerability",
+  "Death Gasp",
+  "Invigorating Feast",
+  "Paralysis"
+ ],
+ "creature_family": "Mortic",
+ "creature_family_markdown": "[Mortic](/MonsterFamilies.aspx?ID=248)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 30,
+ "hp_raw": "30 ( negative healing )",
+ "id": "creature-1234",
+ "image": [
+  "/Images/Monsters/Mortic_Angheuvore.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Elven",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Necril](/Languages.aspx?ID=20)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Angheuvore](/Monsters.aspx?ID=1234)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAngheuvores, or mortic [elves](/Ancestries.aspx?ID=2), have an insatiable hunger for raw [humanoid](/Traits.aspx?ID=91) flesh— though they're reluctant to feed on other elves. Most stalk the streets of human nations, such as Druma, Razmiran, and the River Kingdoms. Impatient and impulsive, they're opportunistic hunters, preying on the wounded and isolated.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mortic_Angheuvore.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Angheuvore Flesh-Gnawer](/Monsters.aspx?ID=1234)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mortic\" url=\"/Traits.aspx?ID=357\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 174</row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12), carrion scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +7, [Intimidation](/Skills.aspx?ID=7) +5, [Medicine](/Skills.aspx?ID=9) +5, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +2\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Composite Shortbow](/Weapons.aspx?ID=75) (20 arrows), [Elven Curve Blade](/Weapons.aspx?ID=50)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 30\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Consecration Vulnerability** An angheuvore in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [_sanctified ground_](/Spells.aspx?ID=265), is [slowed 1](/Conditions.aspx?ID=35).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+5 piercing plus paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nelven curve blade +10 ([Finesse](/Traits.aspx?ID=179), [Forceful](/Traits.aspx?ID=180)),\r\n**Damage** 1d8+5 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncomposite shortbow +10 ([deadly d10](/Traits.aspx?ID=174), [Propulsive](/Traits.aspx?ID=191), [range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d6+3 piercing\n\n**Death Gasp** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) The angheuvore draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The angheuvore gains the [undead](/Traits.aspx?ID=160) trait and becomes immune to bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), and [sleep](/Traits.aspx?ID=145). Any such effects the angheuvore is currently suffering from are suspended, but take effect again once they take a breath.<br /> Death Gasp lasts as long as the angheuvore [holds their breath](/Rules.aspx?ID=468) (up to 8 rounds).\r\n\r\n**Invigorating Feast** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The angheuvore is adjacent to a [paralyzed](/Conditions.aspx?ID=28), [restrained](/Conditions.aspx?ID=33), or [unconscious](/Conditions.aspx?ID=38) creature, or a deceased creature that died in the last hour; **Effect** The angheuvore feasts upon the creature, dealing their jaws Strike damage ([basic](/Rules.aspx?ID=329) Fortitude save); a corpse automatically critically fails with no save. If the target takes damage, the angheuvore gains 5 temporary Hit Points and a +10-foot circumstance bonus to their Speeds for 1 minute.\r\n\r\n**Paralysis**  ([Divine](/Traits.aspx?ID=48), [Incapacitation](/Traits.aspx?ID=93), [Necromancy](/Traits.aspx?ID=117)) Any living creature hit by an angheuvore's jaws Strike must succeed at a DC 15 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save to end the condition at the end of each of its turns, and the DC cumulatively decreases by 1 on each save.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Scholarly Pursuits</title>\r\n\r\nAngheuvores retain the elven love of education, although the topics that interest them are decidedly macabre. Many study anatomy, haruspicy, medicine, pain, putrefaction, or trauma, preferring hands-on experiments and research whenever possible.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-248\" />",
+ "name": "Angheuvore Flesh-Gnawer",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 10,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mortic\" url=\"/Traits.aspx?ID=357\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 174</row>\r\n\r\n**Creature Family** [Mortic](/MonsterFamilies.aspx?ID=248)\r\n\r\n<row gap=\"medium\">\r\n**HP** 30 ( negative healing )\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +10\r\n\r\n**Will** +5\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAngheuvores, or mortic  elves , have an insatiable hunger for raw  humanoid  flesh— though they're reluctant to feed on other elves. Most stalk the …\r\n</summary>",
+ "sense": " darkvision , carrion scent (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), carrion scent (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +7",
+  "Intimidation +5",
+  "Medicine +5",
+  "Stealth +8",
+  "Survival +5"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +7, [Intimidation](/Skills.aspx?ID=7) +5, [Medicine](/Skills.aspx?ID=9) +5, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +5",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 174"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 174</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Angheuvores, or mortic  elves , have an insatiable hunger for raw  humanoid  flesh— though they're reluctant to feed on other elves. Most stalk the …",
+ "summary_markdown": "Angheuvores, or mortic  elves , have an insatiable hunger for raw  humanoid  flesh— though they're reluctant to feed on other elves. Most stalk the …",
+ "text": " Angheuvore Angheuvores, or mortic elves, have an insatiable hunger for raw humanoid flesh— though they're reluctant to feed on other elves. Most stalk the streets of human nations, such as Druma, Razmiran, and the River Kingdoms. Impatient and impulsive, they're opportunistic hunters, preying on the wounded and isolated. Recall Knowledge - Humanoid (Society): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Angheuvore Flesh-Gnawer Source Bestiary 3 pg. 174 Perception +7; darkvision, carrion scent (imprecise) 30 feet Languages Common, Elven, Necril Skills Acrobatics +8, Athletics +7, Intimidation +5, Medicine +5, Stealth +8, Survival +5 Str +3 Dex +4 Con +3 Int +2 Wis +1 Cha +1 Items Composite Shortbow (20 arrows), Elven Curve Blade --- AC 18 Fort +9 Ref +10 Will +5 HP 30 (negative healing) Consecration Vulnerability An angheuvore in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground , is slowed 1. --- Speed 30 feet Melee Single Action jaws +10 (Finesse), Damage 1d6+5 piercing plus paralysis Melee Single Action elven curve blade +10 (Finesse, Forceful), Damage 1d8+5 slashing Ranged Single Action composite shortbow +10 (deadly d10, Propulsive, range increment 60 feet), Damage 1d6+3 piercing Death Gasp Single Action (Divine, Necromancy) The angheuvore draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The angheuvore gains the undead trait and becomes immune to bleed, death effects, disease, paralyzed, poison, and sleep. Any such effects the angheuvore is currently suffering from are suspended, but take effect again once they take a breath. Death Gasp lasts as long as the angheuvore holds their breath (up to 8 rounds). Invigorating Feast Single Action (Manipulate) Requirements The angheuvore is adjacent to a paralyzed, restrained, or unconscious creature, or a deceased creature that died in the last hour; Effect The angheuvore feasts upon the creature, dealing their jaws Strike damage (basic Fortitude save); a corpse automatically critically fails with no save. If the target takes damage, the angheuvore gains 5 temporary Hit Points and a +10-foot circumstance bonus to their Speeds for 1 minute. Paralysis (Divine, Incapacitation, Necromancy) Any living creature hit by an angheuvore's jaws Strike must succeed at a DC 15 Fortitude save or become paralyzed. It can attempt a new save to end the condition at the end of each of its turns, and the DC cumulatively decreases by 1 on each save. Scholarly Pursuits Angheuvores retain the elven love of education, although the topics that interest them are decidedly macabre. Many study anatomy, haruspicy, medicine, pain, putrefaction, or trauma, preferring hands-on experiments and research whenever possible. ",
+ "trait": [
+  "Elf",
+  "Humanoid",
+  "Mortic",
+  "Rare",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Elf](/Traits.aspx?ID=58), [Humanoid](/Traits.aspx?ID=91), [Mortic](/Traits.aspx?ID=357), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Elf",
+  "Humanoid",
+  "Mortic",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1234",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 5,
+ "wisdom": 1
+}

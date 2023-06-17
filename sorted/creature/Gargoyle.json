@@ -1,0 +1,104 @@
+{
+ "ac": 21,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 3,
+ "creature_ability": [
+  "Clawed Feet",
+  "Statue"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-210",
+ "image": [
+  "/Images/Monsters/Gargoyle.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Common",
+  "Terran"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Terran](/Languages.aspx?ID=22)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Gargoyle](/Monsters.aspx?ID=210)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGargoyles are monstrous hunters made of elemental stone. They use their resemblance to decorative statues to hide in plain sight in cities during the day and descend upon unlucky pedestrians at night. Their most common form is that of a horned humanoid with bat-like wings, but individual gargoyles show a great deal of variation, with some appearing more or less humanoid and others resembling no known creature. A gargoyle’s features are not flxed; city-dwelling gargoyles who remain in the same locale long enough slowly morph, day by day, to match the style of the local architecture. These patient monsters can stay disguised for long stretches of time as they patiently await an opportunity to strike.\n\n Gargoyles tend to be lone hunters, though sometimes they band into fearsome tribes called “wings” for protection or sport. On rare occasions, wings become relatively stable communities, and gargoyles in wings may even ally with other creatures such as demons and intelligent aberrations, though these alliances exist on a razor’s edge. The majority of gargoyles are treacherous, vindictive, and petty—traits that preclude lasting partnerships. Many tend to be obsessive and compulsive. Some are collectors, focusing on anything from books to grim trophies, while others are ritualistic or overly passionate about niche intellectual subjects or certain artistic motifs. These tendencies often contribute to the dissolution of wings as individuals’ obsessions and compulsions clash. \n\n<title level=\"2\" right=\"\">Kapoacinth</title> Kapoacinths dwell not amid cliffs or rooftops, but beneath the sea, using their wings to swim. These water-dwelling gargoyles often dwell in shallow coastal regions and shamble forth from the sea to attack prey. Kapoacinths are less individualistic and tend to create more stable wings for longer periods of time. Kapoacinths have the same abilities as the gargoyle presented below, but with the following adjustments: they have the aquatic trait, they have a swim Speed of 40 feet instead of a fly Speed, and their Clawed Feat reaction triggers when they are Swimming instead of Flying.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gargoyle.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Gargoyle](/Monsters.aspx?ID=210)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 161</row>\n\n**Perception** +10; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Terran](/Languages.aspx?ID=22)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 40\n\n**Resistances**\r\nphysical 5 (except adamantine)\n\n**Clawed Feet** <actions string=\"Reaction\" /> ([attack](/Traits.aspx?ID=15)) ; **Trigger** The gargoyle is Flying, and a creature moves into an adjacent square below it. **Effect** The gargoyle makes a claw Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +13,\r\n**Damage** 2d8+3 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +13 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+3 slashing\n\n**Statue** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on [Deception](/Skills.aspx?ID=5) checks and DCs to pass as a statue.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Gargoyle Treasure</title>\r\n\r\nThe obsessive nature of gargoyles can result in a variety of treasure hoards and grim trophy collections, ranging from stockpiles of arcane tomes to alchemical potions and apparatuses to simple trinkets.\r\n</aside>",
+ "name": "Gargoyle",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 5,
+  "physical": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "physical 5 (except adamantine)",
+ "resistance_raw": "physical 5 (except adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 161</row>\n\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 21\r\n\r\n**Fort** +13\r\n\r\n**Ref** +10\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGargoyles are monstrous hunters made of elemental stone. They use their resemblance to decorative statues to hide in plain sight in cities during the …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Athletics +9",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 161"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 161</row>",
+ "speed": {
+  "fly": 40,
+  "land": 25,
+  "max": 40
+ },
+ "speed_markdown": "25 feet, fly 40 feet",
+ "speed_raw": "25 feet, fly 40 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Gargoyles are monstrous hunters made of elemental stone. They use their resemblance to decorative statues to hide in plain sight in cities during the …",
+ "summary_markdown": "Gargoyles are monstrous hunters made of elemental stone. They use their resemblance to decorative statues to hide in plain sight in cities during the …",
+ "text": " Gargoyle Gargoyles are monstrous hunters made of elemental stone. They use their resemblance to decorative statues to hide in plain sight in cities during the day and descend upon unlucky pedestrians at night. Their most common form is that of a horned humanoid with bat-like wings, but individual gargoyles show a great deal of variation, with some appearing more or less humanoid and others resembling no known creature. A gargoyle’s features are not flxed; city-dwelling gargoyles who remain in the same locale long enough slowly morph, day by day, to match the style of the local architecture. These patient monsters can stay disguised for long stretches of time as they patiently await an opportunity to strike. Gargoyles tend to be lone hunters, though sometimes they band into fearsome tribes called “wings” for protection or sport. On rare occasions, wings become relatively stable communities, and gargoyles in wings may even ally with other creatures such as demons and intelligent aberrations, though these alliances exist on a razor’s edge. The majority of gargoyles are treacherous, vindictive, and petty—traits that preclude lasting partnerships. Many tend to be obsessive and compulsive. Some are collectors, focusing on anything from books to grim trophies, while others are ritualistic or overly passionate about niche intellectual subjects or certain artistic motifs. These tendencies often contribute to the dissolution of wings as individuals’ obsessions and compulsions clash. Kapoacinth Kapoacinths dwell not amid cliffs or rooftops, but beneath the sea, using their wings to swim. These water-dwelling gargoyles often dwell in shallow coastal regions and shamble forth from the sea to attack prey. Kapoacinths are less individualistic and tend to create more stable wings for longer periods of time. Kapoacinths have the same abilities as the gargoyle presented below, but with the following adjustments: they have the aquatic trait, they have a swim Speed of 40 feet instead of a fly Speed, and their Clawed Feat reaction triggers when they are Swimming instead of Flying. Recall Knowledge - Beast (Arcana, Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Gargoyle Source Bestiary pg. 161 Perception +10; darkvision Languages Common, Terran Skills Acrobatics +10, Athletics +9, Stealth +12 Str +3 Dex +2 Con +3 Int -2 Wis +2 Cha -2 --- AC 21 Fort +13 Ref +10 Will +10 HP 40 Resistances physical 5 (except adamantine) Clawed Feet Reaction (attack) ; Trigger The gargoyle is Flying, and a creature moves into an adjacent square below it. Effect The gargoyle makes a claw Strike against the triggering creature. --- Speed 25 feet, fly 40 feet Melee Single Action jaws +13, Damage 2d8+3 piercing Melee Single Action claw +13 (Agile), Damage 2d6+3 slashing Statue Single Action (Concentrate) Until the next time it acts, the gargoyle appears to be a statue. It has an automatic result of 32 on Deception checks and DCs to pass as a statue. Gargoyle Treasure The obsessive nature of gargoyles can result in a variety of treasure hoards and grim trophy collections, ranging from stockpiles of arcane tomes to alchemical potions and apparatuses to simple trinkets. ",
+ "trait": [
+  "Beast",
+  "Earth",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Earth](/Traits.aspx?ID=55)",
+ "trait_raw": [
+  "Beast",
+  "Earth"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=210",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

@@ -1,0 +1,16 @@
+{
+  "name": "archives-of-nethys-scraper",
+  "version": "1.0.0",
+  "description": "A simple tool to gather datasets from archives of nethys",
+  "scripts": {
+    "scrape": "npx ts-node -T scraper.ts",
+    "upload": "npx ts-node -T uploader.ts"
+  },
+  "author": "Luke Hagar",
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.8.1",
+    "dotenv": "^16.1.4",
+    "sanitize-filename": "^1.6.3"
+  }
+}

@@ -1,0 +1,115 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 3,
+ "creature_ability": [
+  "Scarecrow's Leer",
+  "Baleful Glow",
+  "Clawing Fear",
+  "Mundane Appearance"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-793",
+ "image": [
+  "/Images/Monsters/Scarecrow.png"
+ ],
+ "immunity": [
+  "bleed",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), nonlethal attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Scarecrow](/Monsters.aspx?ID=793)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA ramshackle collection of materials in a human shape, the scarecrow construct is indistinguishable from a normal scarecrow until it slowly creaks to life. As it animates, its carved pumpkin or sackcloth face bursts into eldritch flame, sending fear creeping into the air around it. Each scarecrow is handcrafted and unique in its appearance, though most are 5 to 6 feet tall and constructed of a combination of wood, cloth, rope, straw, sawdust, discarded husks and cobs, and similar materials, all dressed in ragged pastoral garments. This rudimentary construction makes a scarecrow somewhat fragile, prone to snapping limbs in the crush of battle. Yet its structure is adaptable, allowing it to reshape another piece of itself into a clawed limb or grip a severed portion of itself to swat at its foes.\n\n When a scarecrow is created, it must be anointed with a drop of its creator's blood into each of its eyes. This blood soaks into the material and siphons a tiny sliver of the creator's soul away—not enough to harm the creator, but more than enough to imbue the scarecrow with an instinctive intellect that allows it to follow commands as eagerly as a well-trained (if ill-tempered) guard dog. When a scarecrow is destroyed, the blood leaks back out from its eyes, but the portion of the creator's soul never returns.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Scarecrow.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Scarecrow](/Monsters.aspx?ID=793)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 232 <sup>2.0</sup></row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 60\n\n**Immunities**\r\nbleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), nonlethal attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nphysical 5 (except slashing)\r\n\r\n**Weaknesses**\r\nfire 5\r\n\r\n**Scarecrow's Leer** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120), [visual](/Traits.aspx?ID=163)) 40 feet. The scarecrow's eyes flicker with an unnerving glow. A creature can't reduce its [frightened](/Conditions.aspx?ID=19) condition below 1 as long as it is in the aura's emanation. <br />When a creature enters or starts its turn in the aura, it must attempt a DC 18 Will save. Birds and other avian creatures take a –2 circumstance penalty to this save. <br />**Critical Success** The creature is unaffected and is then temporarily immune for 24 hours. <br />**Success** The creature is frightened 1. <br />**Failure** The creature is frightened 2 and is [fascinated](/Conditions.aspx?ID=14) by the scarecrow until the end of its next turn. <br />**Critical Failure** As failure, but frightened 3.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +13 ([versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 2d6+7 bludgeoning plus clawing fear\n\n**Baleful Glow** <actions string=\"Free Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [flat-footed](/Conditions.aspx?ID=16) against the scarecrow for 1 round. It can suppress the light by using this action again.\r\n\r\n**Clawing Fear**   The scarecrow's strikes deal an additional 1d6 mental damage to [frightened](/Conditions.aspx?ID=19) creatures.\r\n\r\n**Mundane Appearance** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on [Deception](/Skills.aspx?ID=5) checks and DCs to pass as an ordinary scarecrow.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Odds and Ends</title>\r\n\r\nScarecrows hold a certain liminal space that is inhabitable by spirit creatures. [Ghosts](/MonsterFamilies.aspx?ID=51) in particular can use their malevolent possession on a scarecrow as if it were a living creature, using them as vehicles to escape their site-bound nature and so further spread their murder and mayhem.\r\n</aside>",
+ "name": "Scarecrow",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 5,
+  "physical": 5,
+  "piercing": 5
+ },
+ "resistance_markdown": "physical 5 (except slashing)",
+ "resistance_raw": "physical 5 (except slashing)",
+ "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 232 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 19\r\n\r\n**Fort** +13\r\n\r\n**Ref** +8\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA ramshackle collection of materials in a human shape, the scarecrow construct is indistinguishable from a normal scarecrow until it slowly creaks to …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 232"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 232 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A ramshackle collection of materials in a human shape, the scarecrow construct is indistinguishable from a normal scarecrow until it slowly creaks to …",
+ "summary_markdown": "A ramshackle collection of materials in a human shape, the scarecrow construct is indistinguishable from a normal scarecrow until it slowly creaks to …",
+ "text": " Scarecrow A ramshackle collection of materials in a human shape, the scarecrow construct is indistinguishable from a normal scarecrow until it slowly creaks to life. As it animates, its carved pumpkin or sackcloth face bursts into eldritch flame, sending fear creeping into the air around it. Each scarecrow is handcrafted and unique in its appearance, though most are 5 to 6 feet tall and constructed of a combination of wood, cloth, rope, straw, sawdust, discarded husks and cobs, and similar materials, all dressed in ragged pastoral garments. This rudimentary construction makes a scarecrow somewhat fragile, prone to snapping limbs in the crush of battle. Yet its structure is adaptable, allowing it to reshape another piece of itself into a clawed limb or grip a severed portion of itself to swat at its foes. When a scarecrow is created, it must be anointed with a drop of its creator's blood into each of its eyes. This blood soaks into the material and siphons a tiny sliver of the creator's soul away—not enough to harm the creator, but more than enough to imbue the scarecrow with an instinctive intellect that allows it to follow commands as eagerly as a well-trained (if ill-tempered) guard dog. When a scarecrow is destroyed, the blood leaks back out from its eyes, but the portion of the creator's soul never returns. Recall Knowledge - Construct (Arcana, Crafting): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Scarecrow Source Bestiary 2 pg. 232 2.0 Perception +11; darkvision Languages Skills Athletics +12 Str +5 Dex +2 Con +3 Int -4 Wis +3 Cha -2 --- AC 19 Fort +13 Ref +8 Will +11 HP 60 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances physical 5 (except slashing) Weaknesses fire 5 Scarecrow's Leer (aura, emotion, fear, mental, occult, visual) 40 feet. The scarecrow's eyes flicker with an unnerving glow. A creature can't reduce its frightened condition below 1 as long as it is in the aura's emanation. When a creature enters or starts its turn in the aura, it must attempt a DC 18 Will save. Birds and other avian creatures take a –2 circumstance penalty to this save. Critical Success The creature is unaffected and is then temporarily immune for 24 hours. Success The creature is frightened 1. Failure The creature is frightened 2 and is fascinated by the scarecrow until the end of its next turn. Critical Failure As failure, but frightened 3. --- Speed 20 feet Melee Single Action claw +13 (versatile S), Damage 2d6+7 bludgeoning plus clawing fear Baleful Glow Free Action (Concentrate, Mental, Occult) The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes flat-footed against the scarecrow for 1 round. It can suppress the light by using this action again. Clawing Fear The scarecrow's strikes deal an additional 1d6 mental damage to frightened creatures. Mundane Appearance Single Action (Concentrate) Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on Deception checks and DCs to pass as an ordinary scarecrow. Odds and Ends Scarecrows hold a certain liminal space that is inhabitable by spirit creatures. Ghosts in particular can use their malevolent possession on a scarecrow as if it were a living creature, using them as vehicles to escape their site-bound nature and so further spread their murder and mayhem. ",
+ "trait": [
+  "Construct",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35)",
+ "trait_raw": [
+  "Construct"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=793",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 11,
+ "wisdom": 3
+}

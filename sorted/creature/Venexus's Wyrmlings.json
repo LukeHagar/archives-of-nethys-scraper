@@ -1,0 +1,111 @@
+{
+ "ac": 22,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Snow Vision",
+  "Frightful Presence",
+  "Freezing Blood",
+  "Breath Weapon",
+  "Draconic Frenzy",
+  "Draconic Momentum",
+  "Ice Climb"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 90,
+ "hp_raw": "90",
+ "id": "creature-1790",
+ "immunity": [
+  "cold",
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "[cold](/Traits.aspx?ID=27), [paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Draconic",
+  "Hallit"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Hallit](/Languages.aspx?ID=37)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Venexus's Wyrmlings](/Monsters.aspx?ID=1790)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Venexus's Wyrmlings](/Monsters.aspx?ID=1790)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 58</row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet, snow vision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Hallit](/Languages.aspx?ID=37)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +10, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Snow Vision** Snow doesn't impair a white dragon's vision; the wyrmling ignores [concealment](/Conditions.aspx?ID=4) from snowfall.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 90\n\n**Immunities**\r\n[cold](/Traits.aspx?ID=27), [paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 5\r\n\r\n**[Frightful Presence](/MonsterAbilities.aspx?ID=17)** (aura, emotion, fear, mental) 90 feet, DC 19<br />**Freezing Blood** <actions string=\"Reaction\" /> ([ &lt;%TRAITS%11%%&gt; arcane](/Traits.aspx?ID=11) &lt;%END>, [<TRAITS%27%%&gt; cold](/Traits.aspx?ID=27)) **Trigger** An adjacent creature deals piercing or slashing damage to the wyrmling **Effect** The wyrmling's blood splatters onto the triggering creature, dealing 1d4 cold damage. A creature that takes cold damage in this way is [slowed 1](/Conditions.aspx?ID=35) for 1 round.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 60 feet, ice climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +15 ([Cold](/Traits.aspx?ID=27), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+5 piercing plus 1d4 cold\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +15 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+5 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +13 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+5 bludgeoning\n\n**Breath Weapon** <actions string=\"Two Actions\" />  ([arcane](/Traits.aspx?ID=11), [cold](/Traits.aspx?ID=27), [evocation](/Traits.aspx?ID=65)) The wyrmling breathes a cloud of frost that deals 6d6 cold damage in a 30-foot cone (DC 22 [basic](/Rules.aspx?ID=329) Reflex save). They can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The wyrmling makes two claw Strikes and one tail Strike in any order.\r\n\r\n**Draconic Momentum**   When the wyrmling scores a critical hit with a Strike, they recharge their Breath Weapon.\r\n\r\n**Ice Climb**   A white dragon can climb on ice as though they had the listed climb Speed. They ignore difficult terrain and greater difficult terrain from ice and snow and don't risk falling when crossing ice.\r\n\r\n</column>",
+ "name": "Venexus's Wyrmlings",
+ "npc": false,
+ "perception": 12,
+ "rarity": "rare",
+ "reflex_save": 15,
+ "release_date": "2022-02-23",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 58</row>\n\n<row gap=\"medium\">\r\n**HP** 90\r\n\r\n**AC** 22\r\n\r\n**Fort** +12\r\n\r\n**Ref** +15\r\n\r\n**Will** +9\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 60 feet, snow vision",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet, snow vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +13",
+  "Intimidation +10",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +10, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Pathfinder #176: Lost Mammoth Valley"
+ ],
+ "source_raw": [
+  "Pathfinder #176: Lost Mammoth Valley pg. 58"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 58</row>",
+ "speed": {
+  "climb": 30,
+  "fly": 60,
+  "land": 30,
+  "max": 60
+ },
+ "speed_markdown": "30 feet, fly 60 feet, ice climb 30 feet",
+ "speed_raw": "30 feet, fly 60 feet, ice climb 30 feet",
+ "spell_markdown": "",
+ "spoilers": "Quest for the Frozen Flame",
+ "stealth": "12",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Venexus's Wyrmlings Recall Knowledge - Dragon (Arcana): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Venexus's Wyrmlings Source Pathfinder #176: Lost Mammoth Valley pg. 58 Perception +12; darkvision, scent (imprecise) 60 feet, snow vision Languages Common, Draconic, Hallit Skills Acrobatics +12, Athletics +13, Intimidation +10, Stealth +12 Str +5 Dex +4 Con +2 Int -1 Wis +1 Cha +0 Snow Vision Snow doesn't impair a white dragon's vision; the wyrmling ignores concealment from snowfall. --- AC 22 Fort +12 Ref +15 Will +9 HP 90 Immunities cold, paralyzed, sleep Weaknesses fire 5 Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 19 Freezing Blood Reaction ( &lt;%TRAITS%11%%&gt; arcane &lt;%END>, <TRAITS%27%%&gt; cold) Trigger An adjacent creature deals piercing or slashing damage to the wyrmling Effect The wyrmling's blood splatters onto the triggering creature, dealing 1d4 cold damage. A creature that takes cold damage in this way is slowed 1 for 1 round. --- Speed 30 feet, fly 60 feet, ice climb 30 feet Melee Single Action jaws +15 (Cold, Magical), Damage 2d8+5 piercing plus 1d4 cold Melee Single Action claw +15 (Agile, Magical), Damage 2d6+5 slashing Melee Single Action tail +13 (Magical, reach 10 feet), Damage 2d8+5 bludgeoning Breath Weapon Two Actions (arcane, cold, evocation) The wyrmling breathes a cloud of frost that deals 6d6 cold damage in a 30-foot cone (DC 22 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds. Draconic Frenzy Two Actions The wyrmling makes two claw Strikes and one tail Strike in any order. Draconic Momentum When the wyrmling scores a critical hit with a Strike, they recharge their Breath Weapon. Ice Climb A white dragon can climb on ice as though they had the listed climb Speed. They ignore difficult terrain and greater difficult terrain from ice and snow and don't risk falling when crossing ice. ",
+ "trait": [
+  "Cold",
+  "Dragon",
+  "Rare",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Cold](/Traits.aspx?ID=27), [Dragon](/Traits.aspx?ID=50), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Cold",
+  "Dragon",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1790",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 5",
+ "weakness_raw": " fire  5",
+ "will_save": 9,
+ "wisdom": 1
+}

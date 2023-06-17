@@ -1,0 +1,132 @@
+{
+ "ac": 40,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 9,
+ "creature_ability": [
+  "Magic Sense",
+  "Menace to Magic",
+  "Dispelling Roar",
+  "Dispelling Strike",
+  "Spell Feedback"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 32,
+ "hp": 315,
+ "hp_raw": "315",
+ "id": "creature-719",
+ "image": [
+  "/Images/Monsters/Leydroth.png"
+ ],
+ "intelligence": -3,
+ "language": [
+  "Aklo"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Leydroth](/Monsters.aspx?ID=719)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIn ancient times, a cabal of primalists imbued an amalgam of beasts with both supernatural might and a hatred of magic itself, hoping to achieve a potent weapon for use against arcane spellcasters. Effective beyond expectation, the first leydroths broke free and turned on their creators. Worse, the leydroths bred true, and these reclusive predators have long outlived their original creators.\n\n Leydroths look like distorted, apelike felines with many-branching horns growing from the backs of their heads. Their thickly muscled limbs end in glowing claws.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Leydroth.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Leydroth](/Monsters.aspx?ID=719)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 163 <sup>2.0</sup></row>\n\n**Perception** +30; [darkvision](/MonsterAbilities.aspx?ID=12), magic sense (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +32, [Athletics](/Skills.aspx?ID=3) +33, [Deception](/Skills.aspx?ID=5) +28, [Intimidation](/Skills.aspx?ID=7) +28, [Stealth](/Skills.aspx?ID=15) +32, [Survival](/Skills.aspx?ID=16) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +7\r\n\r\n**Con** +9\r\n\r\n**Int** -3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Magic Sense** ([primal](/Traits.aspx?ID=134)) The leydroth detects the source and school of each source of magic within 60 feet as an imprecise sense.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 40 or 36 vs. non-magical\r\n\r\n**Fort** +32 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +28 \r\n\r\n+2 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 315\n\n**Resistances**\r\nall 15 (except non-magical)\n\n**Menace to Magic** <actions string=\"Reaction\" /> ([abjuration](/Traits.aspx?ID=2), [primal](/Traits.aspx?ID=134)) **Trigger** A creature within 60 feet Casts a Spell; **Effect** The leydroth attempts an [Intimidation](/Skills.aspx?ID=7) check to counteract the triggering spell.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +33 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+16 piercing plus 1d10 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +33 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+16 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhorn sweep +33 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 3d12+16 bludgeoning\r\n\r\n**Primal Innate Spells** DC 38\r\n- **7th**\r\n[Dispel Magic](/Spells.aspx?ID=78) (at will)\r\n- **9th**\r\n[Disjunction](/Spells.aspx?ID=77) (×2)\r\n\r\n**Dispelling Roar** <actions string=\"Two Actions\" /> ([Abjuration](/Traits.aspx?ID=2), [Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The leydroth unleashes a bestial roar that reverberates within a 30-foot emanation. It rolls an [Intimidation](/Skills.aspx?ID=7) check and compares the result to the Will DC of each creature in the area, with the effects of [Demoralize](/Actions.aspx?ID=53). It also uses this result to attempt to counteract each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of [_dispel magic_](/Spells.aspx?ID=78). The leydroth can't use Dispelling Roar again for 1d4 rounds.\r\n\r\n**Dispelling Strike** <actions string=\"Free Action\" /> ([Abjuration](/Traits.aspx?ID=2), [Primal](/Traits.aspx?ID=134)) **Frequency** once per round; **Trigger** The leydroth hits a creature, object, or spell effect with a Strike; **Effect** The leydroth casts its innate [_dispel magic_](/Spells.aspx?ID=78), targeting one effect on the creature struck.\r\n\r\n**Spell Feedback**  ([Primal](/Traits.aspx?ID=134)) Any time a leydroth counteracts a spell or item, the spell's caster or the creature holding the item takes 8d6 mental damage (DC 38 basic Will save).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Leydroth Legacy</title>\r\n\r\nOn Golarion, the first leydroths were created by a secret society of Azlanti sorcerers who drew their powers from elemental bloodlines. These sorcerers clashed often against various wizardly guilds who held power throughout the various regions of Azlant, and intended for leydroths to serve as weapons of terror against their foes. Today, leydroths remain isolated on certain particularly dangerous islands among the remnants of the shattered continent of Azlant, but now and then foolish explorers seek to transport them back to the mainland.\r\n</aside>",
+ "name": "Leydroth",
+ "npc": false,
+ "perception": 30,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 30,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "acid": 15,
+  "all": 15,
+  "area": 15,
+  "bleed": 15,
+  "bludgeoning": 15,
+  "chaotic": 15,
+  "cold": 15,
+  "cold_iron": 15,
+  "electricity": 15,
+  "evil": 15,
+  "fire": 15,
+  "force": 15,
+  "good": 15,
+  "lawful": 15,
+  "mental": 15,
+  "negative": 15,
+  "orichalcum": 15,
+  "physical": 15,
+  "piercing": 15,
+  "poison": 15,
+  "positive": 15,
+  "precision": 15,
+  "silver": 15,
+  "slashing": 15,
+  "sonic": 15,
+  "splash": 15
+ },
+ "resistance_markdown": "all 15 (except non-magical)",
+ "resistance_raw": "all 15 (except non-magical)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 163 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 315\r\n\r\n**AC** 40\r\n\r\n**Fort** +32\r\n\r\n**Ref** +30\r\n\r\n**Will** +28\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn ancient times, a cabal of primalists imbued an amalgam of beasts with both supernatural might and a hatred of magic itself, hoping to achieve a …\r\n</summary>",
+ "sense": " darkvision , magic sense (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), magic sense (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +32",
+  "Athletics +33",
+  "Deception +28",
+  "Intimidation +28",
+  "Stealth +32",
+  "Survival +30"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +32, [Athletics](/Skills.aspx?ID=3) +33, [Deception](/Skills.aspx?ID=5) +28, [Intimidation](/Skills.aspx?ID=7) +28, [Stealth](/Skills.aspx?ID=15) +32, [Survival](/Skills.aspx?ID=16) +30",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 163"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 163 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 50,
+  "max": 50
+ },
+ "speed_markdown": "50 feet",
+ "speed_raw": "50 feet",
+ "spell": [
+  "Disjunction",
+  "Dispel Magic"
+ ],
+ "spell_markdown": "[Disjunction](/Spells.aspx?ID=77), [Dispel Magic](/Spells.aspx?ID=78)",
+ "stealth": "32",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "In ancient times, a cabal of primalists imbued an amalgam of beasts with both supernatural might and a hatred of magic itself, hoping to achieve a …",
+ "summary_markdown": "In ancient times, a cabal of primalists imbued an amalgam of beasts with both supernatural might and a hatred of magic itself, hoping to achieve a …",
+ "text": " Leydroth In ancient times, a cabal of primalists imbued an amalgam of beasts with both supernatural might and a hatred of magic itself, hoping to achieve a potent weapon for use against arcane spellcasters. Effective beyond expectation, the first leydroths broke free and turned on their creators. Worse, the leydroths bred true, and these reclusive predators have long outlived their original creators. Leydroths look like distorted, apelike felines with many-branching horns growing from the backs of their heads. Their thickly muscled limbs end in glowing claws. Recall Knowledge - Beast (Arcana, Nature): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Leydroth Source Bestiary 2 pg. 163 2.0 Perception +30; darkvision, magic sense (imprecise) 60 feet Languages Aklo Skills Acrobatics +32, Athletics +33, Deception +28, Intimidation +28, Stealth +32, Survival +30 Str +8 Dex +7 Con +9 Int -3 Wis +5 Cha +5 Magic Sense (primal) The leydroth detects the source and school of each source of magic within 60 feet as an imprecise sense. --- AC 40 or 36 vs. non-magical Fort +32 Ref +30 Will +28 +2 status to all saves vs. magic HP 315 Resistances all 15 (except non-magical) Menace to Magic Reaction (abjuration, primal) Trigger A creature within 60 feet Casts a Spell; Effect The leydroth attempts an Intimidation check to counteract the triggering spell. --- Speed 50 feet Melee Single Action jaws +33 (Magical, reach 10 feet), Damage 3d10+16 piercing plus 1d10 persistent bleed Melee Single Action claw +33 (Agile, Magical, reach 10 feet), Damage 3d10+16 slashing Melee Single Action horn sweep +33 (Magical, reach 10 feet, Sweep, versatile P), Damage 3d12+16 bludgeoning Primal Innate Spells DC 38 - 7th Dispel Magic (at will) - 9th Disjunction (×2) Dispelling Roar Two Actions (Abjuration, Auditory, Emotion, Fear, Mental, Primal) The leydroth unleashes a bestial roar that reverberates within a 30-foot emanation. It rolls an Intimidation check and compares the result to the Will DC of each creature in the area, with the effects of Demoralize. It also uses this result to attempt to counteract each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of dispel magic . The leydroth can't use Dispelling Roar again for 1d4 rounds. Dispelling Strike Free Action (Abjuration, Primal) Frequency once per round; Trigger The leydroth hits a creature, object, or spell effect with a Strike; Effect The leydroth casts its innate dispel magic , targeting one effect on the creature struck. Spell Feedback (Primal) Any time a leydroth counteracts a spell or item, the spell's caster or the creature holding the item takes 8d6 mental damage (DC 38 basic Will save). Leydroth Legacy On Golarion, the first leydroths were created by a secret society of Azlanti sorcerers who drew their powers from elemental bloodlines. These sorcerers clashed often against various wizardly guilds who held power throughout the various regions of Azlant, and intended for leydroths to serve as weapons of terror against their foes. Today, leydroths remain isolated on certain particularly dangerous islands among the remnants of the shattered continent of Azlant, but now and then foolish explorers seek to transport them back to the mainland. ",
+ "trait": [
+  "Beast",
+  "Uncommon",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=719",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 28,
+ "wisdom": 5
+}

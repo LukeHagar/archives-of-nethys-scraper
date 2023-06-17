@@ -1,0 +1,106 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 1,
+ "creature_ability": [
+  "Key Conditioning",
+  "Sunlight Vulnerability",
+  "Draining Peek",
+  "Death Grip",
+  "Zombie Spawn"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 50,
+ "hp_raw": "50 ( negative healing )",
+ "id": "creature-2045",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -3,
+ "language": [
+  "Abyssal",
+  "Common"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Common](/Languages.aspx?ID=1)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"\">[Opkherab](/Monsters.aspx?ID=2045)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Opkherab](/Monsters.aspx?ID=2045)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 44</row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 30 feet\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +1\r\n\r\n**Con** +1\r\n\r\n**Int** -3\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 50\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\ngood 5\r\n\r\n**Key Conditioning** Opkherab has a –1 circumstance penalty to attacks against anyone holding one of the bank's keys.<br />**Sunlight Vulnerability** If exposed to direct sunlight, Opkherab can't use actions with the death trait and becomes [slowed 1](/Conditions.aspx?ID=35). The slowed value increases by 1 each time Opkherab ends his turn in sunlight. If he loses all his actions this way, he is destroyed.<br />**Draining Peek** <actions string=\"Reaction\" /> ([death](/Traits.aspx?ID=40), [necromancy](/Traits.aspx?ID=117), [occult](/Traits.aspx?ID=120), [visual](/Traits.aspx?ID=163)) **Trigger** A living creature within 30 feet that Opkherab can perceive with his lifesense starts its turn; **Effect** The target must attempt a DC 17 Fortitude save. If it fails, Opkherab regains 3 Hit Points, and the target becomes [drained 1](/Conditions.aspx?ID=10). Opkherab can't use Draining Peek for 1d4 rounds.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +12 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+4 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Death Grip**  ([Death](/Traits.aspx?ID=40), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) When Opkherab [Grab](/MonsterAbilities.aspx?ID=18) a living creature, including a Grab to extend the effect on a [grappled](/Conditions.aspx?ID=20) creature, he gains 3 temporary Hit Points, and the creature must succeed at a DC 17 Fortitude save or become [drained 1](/Conditions.aspx?ID=10). This increases the value of the creature's drained condition by 1, to a maximum of drained 4.\r\n\r\n**Zombie Spawn**  ([Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) Any [humanoid](/Traits.aspx?ID=91) who dies while drained by Opkherab rises as an autonomous zombie 24 hours after their death. You might use this opportunity to allow the player to keep playing the same character, rebuilt with the [zombie archetype](/Archetypes.aspx?ID=182).\r\n\r\n</column>",
+ "name": "Opkherab",
+ "npc": false,
+ "perception": 10,
+ "rarity": "unique",
+ "reflex_save": 9,
+ "release_date": "2022-07-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 44</row>\n\n<row gap=\"medium\">\r\n**HP** 50 ( negative healing )\r\n\r\n**AC** 19\r\n\r\n**Fort** +6\r\n\r\n**Ref** +9\r\n\r\n**Will** +12\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  lifesense  30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Athletics +8",
+  "Intimidation +11",
+  "Stealth +10"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +10",
+ "source": [
+  "Pathfinder #181: Zombie Feast"
+ ],
+ "source_raw": [
+  "Pathfinder #181: Zombie Feast pg. 44"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 44</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "10",
+ "strength": 3,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Opkherab Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Opkherab Source Pathfinder #181: Zombie Feast pg. 44 Perception +10; darkvision, lifesense 30 feet Languages Abyssal, Common Skills Acrobatics +10, Athletics +8, Intimidation +11, Stealth +10 Str +3 Dex +1 Con +1 Int -3 Wis +3 Cha +2 --- AC 19 Fort +6 Ref +9 Will +12 HP 50 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses good 5 Key Conditioning Opkherab has a –1 circumstance penalty to attacks against anyone holding one of the bank's keys. Sunlight Vulnerability If exposed to direct sunlight, Opkherab can't use actions with the death trait and becomes slowed 1. The slowed value increases by 1 each time Opkherab ends his turn in sunlight. If he loses all his actions this way, he is destroyed. Draining Peek Reaction (death, necromancy, occult, visual) Trigger A living creature within 30 feet that Opkherab can perceive with his lifesense starts its turn; Effect The target must attempt a DC 17 Fortitude save. If it fails, Opkherab regains 3 Hit Points, and the target becomes drained 1. Opkherab can't use Draining Peek for 1d4 rounds. --- Speed 20 feet Melee Single Action fist +12 (Agile, Finesse), Damage 1d6+4 bludgeoning plus Grab Death Grip (Death, Necromancy, Occult) When Opkherab Grab a living creature, including a Grab to extend the effect on a grappled creature, he gains 3 temporary Hit Points, and the creature must succeed at a DC 17 Fortitude save or become drained 1. This increases the value of the creature's drained condition by 1, to a maximum of drained 4. Zombie Spawn (Necromancy, Occult) Any humanoid who dies while drained by Opkherab rises as an autonomous zombie 24 hours after their death. You might use this opportunity to allow the player to keep playing the same character, rebuilt with the zombie archetype. ",
+ "trait": [
+  "Undead",
+  "Unique",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2045",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "good": 5
+ },
+ "weakness_markdown": "good 5",
+ "weakness_raw": "good 5",
+ "will_save": 12,
+ "wisdom": 3
+}

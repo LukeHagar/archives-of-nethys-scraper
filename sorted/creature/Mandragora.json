@@ -1,0 +1,106 @@
+{
+ "ac": 21,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Blood Scent",
+  "Vulnerability to Supernatural Darkness",
+  "Blood Drain",
+  "Mandragora Venom",
+  "Piercing Shriek"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-727",
+ "image": [
+  "/Images/Monsters/Mandragora.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Abyssal",
+  "Common"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Common](/Languages.aspx?ID=1)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mandragora](/Monsters.aspx?ID=727)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA mandragora looks like a freshly pulled tuber that has grown into the malformed shape of a child with a grotesque face and hideously bloated body. These insidious little plants typically form when a mandrake root is watered with a [demon's](/MonsterFamilies.aspx?ID=28) blood. Upon absorbing the otherworldly properties of the demon's blood, the root animates and is forced to seek out blood to feast from, lest it die of thirst.\n\n Always famished and in search for sustenance, mandragoras live haunted, pained lives and perform vile and desperate acts to acquire the blood they crave. While they prefer magically infused blood such as that of unicorns, fey, or sorcerers, and they can also feed off of potions, alchemical bombs, and other magical elixirs, a mandragora can subsist on the blood of non-magical creatures. They find the flavor of mundane blood to be bland and bitter, and they do not blanch at voicing these complaints to the creatures from which they drink.\n\n While the typical mandragora is the size of a human child, some of these evil plants continue to grow and grow, reaching sizes more comparable to those of giants. Sometimes as they grow, they form additional limbs or rudimentary faces, eventually transforming into truly hideous mockeries of the human form.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mandragora.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Mandragora](/Monsters.aspx?ID=727)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 170 <sup>2.0</sup></row>\n\n**Perception** +11; blood scent, [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Blood Scent** A mandragora can smell creatures with blood as an imprecise sense at a range of 30 feet, and it can smell [demons](/MonsterFamilies.aspx?ID=28), [fey](/Traits.aspx?ID=69), and [sorcerers](/Classes.aspx?ID=11) with blood as a precise sense at a range of 30 feet.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 60\n\n**Resistances**\r\nbludgeoning 5, electricity 5\r\n\r\n**Weaknesses**\r\nfire 5\r\n\r\n**Vulnerability to Supernatural Darkness** Whenever a mandragora begins its turn in an area of magical darkness, it is [slowed 1](/Conditions.aspx?ID=35) on that turn.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 10 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d8+4 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nthorny vine +14 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d4+4 slashing plus mandragora venom\n\n**Blood Drain** <actions string=\"Single Action\" />  **Requirements** The mandragora has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The mandragora drains blood from the creature it has grabbed, dealing 2d6 damage. If the creature is a [demon](/MonsterFamilies.aspx?ID=28), [fey](/Traits.aspx?ID=69), or [sorcerer](/Classes.aspx?ID=11), the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is [drained 1](/Conditions.aspx?ID=10) until it receives healing of any kind or amount.\r\n\r\n**Mandragora Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [stupefied 1](/Conditions.aspx?ID=37) (1 round); **Stage 2** 1d6 poison damage, [confused](/Conditions.aspx?ID=5), and stupefied 1 (1 round); **Stage 3** 2d6 poison damage, confused, and stupefied 1 (1 round)\r\n\r\n**Piercing Shriek** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Evocation](/Traits.aspx?ID=65), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) **Frequency** once per day; **Effect** The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 25 Will save. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [sickened 1](/Conditions.aspx?ID=34). <br />**Failure** The creature is sickened 2. <br />**Critical Failure** The creature is sickened 2 and [slowed 1](/Conditions.aspx?ID=35). As long as the creature remains sickened, this slowed condition value can't be reduced below 1.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Mandragora Sucklings</title>\r\n\r\nSometimes a mandragora offers its services to a spellcaster in exchange for sustenance. Tales tell of sorcerers or other magical creatures who keep mandragora “familiars” whose loyalty is sustained by feeding the little beasts with their own blood. These tales generally have gruesome endings wherein the mandragora is overcome with bloodlust and, unable to control itself, devours its master.\r\n</aside>",
+ "name": "Mandragora",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 5,
+  "electricity": 5
+ },
+ "resistance_markdown": "bludgeoning 5, electricity 5",
+ "resistance_raw": "bludgeoning 5, electricity 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 170 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 21\r\n\r\n**Fort** +11\r\n\r\n**Ref** +13\r\n\r\n**Will** +8\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA mandragora looks like a freshly pulled tuber that has grown into the malformed shape of a child with a grotesque face and hideously bloated body. …\r\n</summary>",
+ "sense": "blood scent,  low-light vision ",
+ "sense_markdown": "blood scent, [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Athletics +10",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 170"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 170 <sup>2.0</sup></row>",
+ "speed": {
+  "burrow": 10,
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 10 feet, climb 30 feet",
+ "speed_raw": "30 feet, burrow 10 feet, climb 30 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A mandragora looks like a freshly pulled tuber that has grown into the malformed shape of a child with a grotesque face and hideously bloated body. …",
+ "summary_markdown": "A mandragora looks like a freshly pulled tuber that has grown into the malformed shape of a child with a grotesque face and hideously bloated body. …",
+ "text": " Mandragora A mandragora looks like a freshly pulled tuber that has grown into the malformed shape of a child with a grotesque face and hideously bloated body. These insidious little plants typically form when a mandrake root is watered with a demon's blood. Upon absorbing the otherworldly properties of the demon's blood, the root animates and is forced to seek out blood to feast from, lest it die of thirst. Always famished and in search for sustenance, mandragoras live haunted, pained lives and perform vile and desperate acts to acquire the blood they crave. While they prefer magically infused blood such as that of unicorns, fey, or sorcerers, and they can also feed off of potions, alchemical bombs, and other magical elixirs, a mandragora can subsist on the blood of non-magical creatures. They find the flavor of mundane blood to be bland and bitter, and they do not blanch at voicing these complaints to the creatures from which they drink. While the typical mandragora is the size of a human child, some of these evil plants continue to grow and grow, reaching sizes more comparable to those of giants. Sometimes as they grow, they form additional limbs or rudimentary faces, eventually transforming into truly hideous mockeries of the human form. Recall Knowledge - Plant (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Mandragora Source Bestiary 2 pg. 170 2.0 Perception +11; blood scent, low-light vision Languages Abyssal, Common Skills Acrobatics +10, Athletics +10, Stealth +12 Str +2 Dex +5 Con +3 Int -1 Wis +2 Cha +0 Blood Scent A mandragora can smell creatures with blood as an imprecise sense at a range of 30 feet, and it can smell demons, fey, and sorcerers with blood as a precise sense at a range of 30 feet. --- AC 21 Fort +11 Ref +13 Will +8 HP 60 Resistances bludgeoning 5, electricity 5 Weaknesses fire 5 Vulnerability to Supernatural Darkness Whenever a mandragora begins its turn in an area of magical darkness, it is slowed 1 on that turn. --- Speed 30 feet, burrow 10 feet, climb 30 feet Melee Single Action jaws +14 (Finesse), Damage 2d8+4 piercing plus Grab Melee Single Action thorny vine +14 (Agile, Finesse, reach 10 feet), Damage 2d4+4 slashing plus mandragora venom Blood Drain Single Action Requirements The mandragora has a creature grabbed; Effect The mandragora drains blood from the creature it has grabbed, dealing 2d6 damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a mandragora is drained 1 until it receives healing of any kind or amount. Mandragora Venom (Poison) Saving Throw DC 21 Fortitude; Maximum Duration 6 rounds; Stage 1 1d6 poison damage and stupefied 1 (1 round); Stage 2 1d6 poison damage, confused, and stupefied 1 (1 round); Stage 3 2d6 poison damage, confused, and stupefied 1 (1 round) Piercing Shriek Single Action (Auditory, Evocation, Mental, Primal) Frequency once per day; Effect The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 25 Will save. Critical Success The creature is unaffected. Success The creature is sickened 1. Failure The creature is sickened 2. Critical Failure The creature is sickened 2 and slowed 1. As long as the creature remains sickened, this slowed condition value can't be reduced below 1. Mandragora Sucklings Sometimes a mandragora offers its services to a spellcaster in exchange for sustenance. Tales tell of sorcerers or other magical creatures who keep mandragora “familiars” whose loyalty is sustained by feeding the little beasts with their own blood. These tales generally have gruesome endings wherein the mandragora is overcome with bloodlust and, unable to control itself, devours its master. ",
+ "trait": [
+  "Plant",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=727",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 8,
+ "wisdom": 2
+}

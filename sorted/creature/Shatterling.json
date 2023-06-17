@@ -1,0 +1,109 @@
+{
+ "ac": 36,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "Mirror Senses",
+  "Attack of Opportunity",
+  "Extra Reaction",
+  "Divert Strike",
+  "Blood-Fueled Titter",
+  "Mirror Jump",
+  "Vanish in Reflections",
+  "Wipe Away Cracks"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 305,
+ "hp_raw": "305",
+ "id": "creature-1006",
+ "image": [
+  "/Images/Monsters/Shatterling.png"
+ ],
+ "immunity": [
+  "bleed"
+ ],
+ "immunity_markdown": "bleed",
+ "intelligence": 0,
+ "language_markdown": "",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Shatterling](/Monsters.aspx?ID=1006)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nShatterlings have a fixation on mirrors that gives them a strange affinity for reflective surfaces. These creeping, wicked fey stand barely 3 feet high and look like hunched humanoids made of shifting panes of jagged mirror glass. Shatterlings usually inhabit areas with plenty of mirrors, like carnival fun houses, opulent manors, or playhouses. Capricious and malevolent, shatterlings quickly kill or scare away anyone else in such areas, as they desire to be the only ones to gaze into the mirrors they claim as their own.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 34\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 32\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 29\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Shatterling.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Shatterling](/Monsters.aspx?ID=1006)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 84</row>\n\n**Perception** +26; [low-light vision](/MonsterAbilities.aspx?ID=23), mirror senses\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +28, [Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +25, [Society](/Skills.aspx?ID=14) +20, [Stealth](/Skills.aspx?ID=15) +32, [Thievery](/Skills.aspx?ID=17) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +8\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Mirror Senses** A shatterling can see and hear through any unbroken mirror within 100 feet.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 305\n\n**Immunities**\r\nbleed\n\n**Weaknesses**\r\nbludgeoning 15\r\n\r\n**Attack of Opportunity** <actions string=\"Reaction\" /> <br />**Extra Reaction** A shatterling gains an additional reaction each turn, but can use this extra reaction only for Divert Strike.<br />**Divert Strike** <actions string=\"Reaction\" /> **Trigger** A shatterling takes non-bludgeoning damage and there's an unbroken mirror at least 1 foot wide within 100 feet of the shatterling; **Effect** The nearest mirror to the shatterling at least 1 foot wide breaks, and the damage to the shatterling is reduced to 0.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmirror hand +27 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d6+11 slashing plus 2d6 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nmirror dart +27 ([Magical](/Traits.aspx?ID=103), [range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d6+11 piercing\n\n**Blood-Fueled Titter**   If the shatterling attempts an [Intimidation](/Skills.aspx?ID=7) check to [Demoralize](/Actions.aspx?ID=53) a target within 30 feet of a creature with [persistent bleed damage](/Conditions.aspx?ID=29), the shatterling has +4 circumstance bonus to the Intimidation check. In addition, the shatterling takes no penalty to the check for not speaking a language the target can hear, and the target isn't temporarily immune to the shatterling's attempts to Demoralize it unless the shatterling critically fails its Intimidation check.\r\n\r\n**Mirror Jump** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) During this Stride, the shatterling can move into any unbroken mirror at least 1 foot wide and out of another unbroken mirror at least 1 foot wide within 100 feet of the first mirror, treating the mirrors as connected. The shatterling can move through any number of pairs of foot-wide mirrors during its mirror jump, requiring each pair to be within 100 feet of each other while doing so.\r\n\r\n**Vanish in Reflections**   The shatterling doesn't appear in reflective surfaces if it doesn't want to. When it's within 100 feet of an unbroken mirror at least 1 foot wide, a shatterling can [Hide](/Actions.aspx?ID=62) and [Sneak](/Actions.aspx?ID=63) even without cover or without being concealed.\r\n\r\n**Wipe Away Cracks** <actions string=\"Three Actions\" /> ([Manipulate](/Traits.aspx?ID=104)) The shatterling touches a broken mirror, instantly repairing it.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Drawn to Mirrors</title>\r\n\r\nA half-dimension exists just behind mirrors in the [Material Plane](/Planes.aspx?ID=1), although scholars disagree whether it's a plane of its own or simply a strange reflection of the [Shadow Plane](/Planes.aspx?ID=11) or [Ethereal Plane](/Planes.aspx?ID=9). In any event, shatterlings sometimes see this realm when they leap through mirrors but can never reach it, an inaccessibility that fuels their hatred. Many shatterlings spend their days leaping between mirrors, hoping to catch elusive glimpses of the mirrorworld they will never touch.\r\n</aside>",
+ "name": "Shatterling",
+ "npc": false,
+ "perception": 26,
+ "rarity": "uncommon",
+ "reflex_save": 30,
+ "release_date": "2020-10-14",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 84</row>\n\n<row gap=\"medium\">\r\n**HP** 305\r\n\r\n**AC** 36\r\n\r\n**Fort** +24\r\n\r\n**Ref** +30\r\n\r\n**Will** +26\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShatterlings have a fixation on mirrors that gives them a strange affinity for reflective surfaces. These creeping, wicked fey stand barely 3 feet …\r\n</summary>",
+ "sense": " low-light vision , mirror senses",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), mirror senses",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +28",
+  "Athletics +25",
+  "Intimidation +25",
+  "Society +20",
+  "Stealth +32",
+  "Thievery +30"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +28, [Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +25, [Society](/Skills.aspx?ID=14) +20, [Stealth](/Skills.aspx?ID=15) +32, [Thievery](/Skills.aspx?ID=17) +30",
+ "source": [
+  "Pathfinder #160: Assault on Hunting Lodge Seven"
+ ],
+ "source_raw": [
+  "Pathfinder #160: Assault on Hunting Lodge Seven pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 84</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "spoilers": "Agents of Edgewatch",
+ "stealth": "32",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Shatterlings have a fixation on mirrors that gives them a strange affinity for reflective surfaces. These creeping, wicked fey stand barely 3 feet …",
+ "summary_markdown": "Shatterlings have a fixation on mirrors that gives them a strange affinity for reflective surfaces. These creeping, wicked fey stand barely 3 feet …",
+ "text": " Shatterling Shatterlings have a fixation on mirrors that gives them a strange affinity for reflective surfaces. These creeping, wicked fey stand barely 3 feet high and look like hunched humanoids made of shifting panes of jagged mirror glass. Shatterlings usually inhabit areas with plenty of mirrors, like carnival fun houses, opulent manors, or playhouses. Capricious and malevolent, shatterlings quickly kill or scare away anyone else in such areas, as they desire to be the only ones to gaze into the mirrors they claim as their own. Recall Knowledge - Fey (Nature): DC 34 Unspecific Lore : DC 32 Specific Lore : DC 29 Shatterling Source Pathfinder #160: Assault on Hunting Lodge Seven pg. 84 Perception +26; low-light vision, mirror senses Languages Skills Acrobatics +28, Athletics +25, Intimidation +25, Society +20, Stealth +32, Thievery +30 Str +5 Dex +8 Con +4 Int +0 Wis +4 Cha +3 Mirror Senses A shatterling can see and hear through any unbroken mirror within 100 feet. --- AC 36 Fort +24 Ref +30 Will +26 HP 305 Immunities bleed Weaknesses bludgeoning 15 Attack of Opportunity Reaction Extra Reaction A shatterling gains an additional reaction each turn, but can use this extra reaction only for Divert Strike. Divert Strike Reaction Trigger A shatterling takes non-bludgeoning damage and there's an unbroken mirror at least 1 foot wide within 100 feet of the shatterling; Effect The nearest mirror to the shatterling at least 1 foot wide breaks, and the damage to the shatterling is reduced to 0. --- Speed 40 feet Melee Single Action mirror hand +27 (Agile, Finesse, Magical), Damage 3d6+11 slashing plus 2d6 persistent bleed Ranged Single Action mirror dart +27 (Magical, range increment 30 feet), Damage 3d6+11 piercing Blood-Fueled Titter If the shatterling attempts an Intimidation check to Demoralize a target within 30 feet of a creature with persistent bleed damage, the shatterling has +4 circumstance bonus to the Intimidation check. In addition, the shatterling takes no penalty to the check for not speaking a language the target can hear, and the target isn't temporarily immune to the shatterling's attempts to Demoralize it unless the shatterling critically fails its Intimidation check. Mirror Jump Single Action (Move) During this Stride, the shatterling can move into any unbroken mirror at least 1 foot wide and out of another unbroken mirror at least 1 foot wide within 100 feet of the first mirror, treating the mirrors as connected. The shatterling can move through any number of pairs of foot-wide mirrors during its mirror jump, requiring each pair to be within 100 feet of each other while doing so. Vanish in Reflections The shatterling doesn't appear in reflective surfaces if it doesn't want to. When it's within 100 feet of an unbroken mirror at least 1 foot wide, a shatterling can Hide and Sneak even without cover or without being concealed. Wipe Away Cracks Three Actions (Manipulate) The shatterling touches a broken mirror, instantly repairing it. Drawn to Mirrors A half-dimension exists just behind mirrors in the Material Plane, although scholars disagree whether it's a plane of its own or simply a strange reflection of the Shadow Plane or Ethereal Plane. In any event, shatterlings sometimes see this realm when they leap through mirrors but can never reach it, an inaccessibility that fuels their hatred. Many shatterlings spend their days leaping between mirrors, hoping to catch elusive glimpses of the mirrorworld they will never touch. ",
+ "trait": [
+  "Fey",
+  "Uncommon",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fey",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1006",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "bludgeoning": 15
+ },
+ "weakness_markdown": "bludgeoning 15",
+ "weakness_raw": "bludgeoning 15",
+ "will_save": 26,
+ "wisdom": 4
+}

@@ -1,0 +1,102 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Savage",
+  "Powerful Dive",
+  "Punishing Momentum",
+  "Wyvern Poison"
+ ],
+ "creature_family": "Drake",
+ "creature_family_markdown": "[Drake](/MonsterFamilies.aspx?ID=36)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 95,
+ "hp_raw": "95",
+ "id": "creature-162",
+ "image": [
+  "/Images/Monsters/Drake_Wyvern.png"
+ ],
+ "immunity": [
+  "paralyzed",
+  "unconscious"
+ ],
+ "immunity_markdown": "paralyzed, unconscious",
+ "intelligence": -2,
+ "language": [
+  "Draconic"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Wyvern](/Monsters.aspx?ID=162)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA wyvern is a venomous drake with a well-earned reputation for impatience and aggression. As much as 15 feet long and weighing up to 1,000 pounds, a wyvern’s resilient body allows it to crash talons-first into large prey without serious risk to itself. A wyvern uses its momentum to stun its target before injecting it with searing venom or carrying it over the side of a nearby cliff. Because a wyvern lacks the strength to haul its prey all the way to its nest intact, it is far more likely to lift and drop its victim over a gully or canyon and let gravity do its work before it descends to pick apart the carcass.\n\n Conversation is of little interest to a wyvern, as the creature typically speaks only to taunt its prey, issue territorial claims, or demand tribute. Even so, many wyverns enjoy grim humor and tales of violent acts, particularly if those acts were committed by the storyteller. A wyvern properly appeased with meat, entertainment, and treasure sometimes agrees to provide assistance ranging from giving directions to serving as a mount for a powerful humanoid. However, these arrangements rarely last more than a few weeks before the wyvern’s pride, malice, or insolence inspires it to flee or even betray its allies. Only the truly cruel can cow a wyvern into servitude for an extended period, as most wyverns are so self-interested that they go out of their way to avoid helping others.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drake_Wyvern.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Wyvern](/Monsters.aspx?ID=162)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 133</row>\n\n**Perception** +13; darkvision, scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 95\n\n**Immunities**\r\nparalyzed, unconscious\n\n**Attack of Opportunity** <actions string=\"Reaction\" /><br /> **Savage** <actions string=\"Reaction\" /> **Trigger** A creature grabbed by the wyvern critically fails a skill check to Escape. **Effect** The wyvern makes a stinger Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +17,\r\n**Damage** 2d12+5 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +17,\r\n**Damage** 2d8+5 slashing plus Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +15 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+5 piercing plus wyvern venom\n\n**Powerful Dive** <actions string=\"Two Actions\" /> ([Move](/Traits.aspx?ID=114)) The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw Strike against that enemy. If the claw hits, as a free action the wyvern can either automatically [Grab](/Conditions.aspx?ID=20) the target or knock it [prone](/Conditions.aspx?ID=31).\r\n\r\n**Punishing Momentum** <actions string=\"Single Action\" />  **Requirements** The wyvern [grabbed](/Conditions.aspx?ID=20) a creature this turn using Powerful Dive. **Effect** The wyvern can [Fly](/Actions.aspx?ID=94) at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can Strike the creature with its stinger with a +2 circumstance bonus.\r\n\r\n**Wyvern Poison**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 22; **Maximum Duration** 6 rounds; **Stage 1** 5d6 poison damage (1 round); **Stage 2** 6d6 poison damage (1 round); **Stage 3** 8d6 poison damage (1 round)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Are Wyverns Drakes?</title>\r\n\r\nAlthough commonly classified as drakes, wyverns exhibit significant differences from most other types of drakes. While scholars debate the precise relationship between them, none dispute that they exhibit collegial behavior and general deference to one another.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-36\" />",
+ "name": "Wyvern",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 133</row>\r\n\r\n**Creature Family** [Drake](/MonsterFamilies.aspx?ID=36)\r\n\r\n<row gap=\"medium\">\r\n**HP** 95\r\n\r\n**AC** 24\r\n\r\n**Fort** +16\r\n\r\n**Ref** +12\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA wyvern is a venomous drake with a well-earned reputation for impatience and aggression. As much as 15 feet long and weighing up to 1,000 pounds, a …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 30 feet",
+ "sense_markdown": "darkvision, scent (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +15",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 133"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 133</row>",
+ "speed": {
+  "fly": 60,
+  "land": 20,
+  "max": 60
+ },
+ "speed_markdown": "20 feet, fly 60 feet",
+ "speed_raw": "20 feet, fly 60 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A wyvern is a venomous drake with a well-earned reputation for impatience and aggression. As much as 15 feet long and weighing up to 1,000 pounds, a …",
+ "summary_markdown": "A wyvern is a venomous drake with a well-earned reputation for impatience and aggression. As much as 15 feet long and weighing up to 1,000 pounds, a …",
+ "text": " Wyvern A wyvern is a venomous drake with a well-earned reputation for impatience and aggression. As much as 15 feet long and weighing up to 1,000 pounds, a wyvern’s resilient body allows it to crash talons-first into large prey without serious risk to itself. A wyvern uses its momentum to stun its target before injecting it with searing venom or carrying it over the side of a nearby cliff. Because a wyvern lacks the strength to haul its prey all the way to its nest intact, it is far more likely to lift and drop its victim over a gully or canyon and let gravity do its work before it descends to pick apart the carcass. Conversation is of little interest to a wyvern, as the creature typically speaks only to taunt its prey, issue territorial claims, or demand tribute. Even so, many wyverns enjoy grim humor and tales of violent acts, particularly if those acts were committed by the storyteller. A wyvern properly appeased with meat, entertainment, and treasure sometimes agrees to provide assistance ranging from giving directions to serving as a mount for a powerful humanoid. However, these arrangements rarely last more than a few weeks before the wyvern’s pride, malice, or insolence inspires it to flee or even betray its allies. Only the truly cruel can cow a wyvern into servitude for an extended period, as most wyverns are so self-interested that they go out of their way to avoid helping others. Recall Knowledge - Dragon (Arcana): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Wyvern Source Bestiary pg. 133 Perception +13; darkvision, scent (imprecise) 30 feet Languages Draconic Skills Acrobatics +14, Athletics +15, Stealth +12 Str +5 Dex +2 Con +4 Int -2 Wis +3 Cha +0 --- AC 24 Fort +16 Ref +12 Will +13 HP 95 Immunities paralyzed, unconscious Attack of Opportunity Reaction Savage Reaction Trigger A creature grabbed by the wyvern critically fails a skill check to Escape. Effect The wyvern makes a stinger Strike against the triggering creature. --- Speed 20 feet, fly 60 feet Melee Single Action fangs +17, Damage 2d12+5 piercing Melee Single Action claw +17, Damage 2d8+5 slashing plus Grab Melee Single Action stinger +15 (Agile, reach 10 feet), Damage 2d6+5 piercing plus wyvern venom Powerful Dive Two Actions (Move) The wyvern Flies up to its fly Speed and must both move forward at least 20 feet and descend at least 10 feet. If it ends the movement within melee reach of at least one enemy its size or smaller, it can make a claw Strike against that enemy. If the claw hits, as a free action the wyvern can either automatically Grab the target or knock it prone. Punishing Momentum Single Action Requirements The wyvern grabbed a creature this turn using Powerful Dive. Effect The wyvern can Fly at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can Strike the creature with its stinger with a +2 circumstance bonus. Wyvern Poison (Poison) Saving Throw Fortitude DC 22; Maximum Duration 6 rounds; Stage 1 5d6 poison damage (1 round); Stage 2 6d6 poison damage (1 round); Stage 3 8d6 poison damage (1 round) Are Wyverns Drakes? Although commonly classified as drakes, wyverns exhibit significant differences from most other types of drakes. While scholars debate the precise relationship between them, none dispute that they exhibit collegial behavior and general deference to one another. ",
+ "trait": [
+  "Dragon",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50)",
+ "trait_raw": [
+  "Dragon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=162",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 3
+}

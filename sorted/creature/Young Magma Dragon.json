@@ -1,0 +1,125 @@
+{
+ "ac": 28,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "Frightful Presence",
+  "Wing Deflection",
+  "Breath Weapon",
+  "Draconic Frenzy",
+  "Draconic Momentum",
+  "Magma Swim"
+ ],
+ "creature_family": "Dragon, Magma",
+ "creature_family_markdown": "[Dragon, Magma](/MonsterFamilies.aspx?ID=178)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-631",
+ "image": [
+  "/Images/Monsters/DragonMagma.png"
+ ],
+ "immunity": [
+  "fire",
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "fire, [paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Draconic",
+  "Ignan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Ignan](/Languages.aspx?ID=18)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Young Magma Dragon](/Monsters.aspx?ID=631)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMagma dragons have a reputation among other dragons for being unpredictable and brash. Their temperament and tendency for violent outbursts ensure that the typical magma dragon lives a solitary life, with hatchlings often bickering or fighting to establish dominance among themselves before they leave the nest. A magma dragon always has a reason for their outbursts and can always justify their sudden turns in mood, yet they rarely feel the need to do so.\n\nMagma dragons build lairs within volcanically active mountains or deep underground amid vast lakes of bubbling magma. As with all true dragons, magma dragons keep hoards of treasure, but the nature of their searing lairs limits the type of valuables they collect to metals, gems, and items capable of resisting the heat of a volcano's core.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 28\r\n\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/DragonMagma.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Young Magma Dragon](/Monsters.aspx?ID=631)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 94 <sup>2.0</sup>, [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 80</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 60 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Ignan](/Languages.aspx?ID=18)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +19, [Deception](/Skills.aspx?ID=5) +14, [Intimidation](/Skills.aspx?ID=7) +18, [Nature](/Skills.aspx?ID=10) +15, [Stealth](/Skills.aspx?ID=15) +16, [Survival](/Skills.aspx?ID=16) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +1\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 175\n\n**Immunities**\r\nfire, [paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\ncold 10\r\n\r\n[**Frightful Presence**](/MonsterAbilities.aspx?ID=17) ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 90 feet, DC 24<br />**Wing Deflection** <actions string=\"Reaction\" /> **Trigger** The dragon is targeted with an attack; **Effect** The dragon raises a wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is Flying, they descend 10 feet after the attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 100 feet, swim 30 feet; magma swim\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21 ([Fire](/Traits.aspx?ID=72), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+10 piercing plus 2d6 fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +21 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d10+10 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +19 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+10 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhorns +19 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d10+10 piercing\r\n\r\n**Primal Innate Spells** DC 26, attack +18\r\n- **Cantrips (4th)**\r\n[Produce Flame](/Spells.aspx?ID=236)\r\n- **4th**\r\n[Burning Hands](/Spells.aspx?ID=30) (at will)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72), [Primal](/Traits.aspx?ID=134)) The dragon breathes a blast of magma that deals 5d6 fire damage and 3d12 bludgeoning damage in a 30-foot cone (DC 28 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The dragon makes two claw Strikes and one horn Strike in any order.\r\n\r\n**Draconic Momentum**   The dragon recharges their Breath Weapon whenever they score a critical hit with a Strike.\r\n\r\n**Magma Swim**   A magma dragon's swim Speed functions only when the dragon is [Swimming](/Actions.aspx?ID=39) through magma or molten lava.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Magma Dragon Spellcasters</title>\r\n\r\nTo make a magma dragon spellcaster, remove the dragon’s Draconic Frenzy and draconic momentum abilities and give it the following spells. You can swap out any number of these with other primal spells, provided you keep the same number of spells for each level. You might also want to increase the dragon’s Wisdom or Charisma modifier by 1 or 2 to reflect its mastery of magic. \n\n **Young Magma Dragon** <br /> **Primal Prepared Spells** DC 28, attack +20; **4th** [_stoneskin_](/Spells.aspx?ID=312), [_wall of fire_](/Spells.aspx?ID=362); **3rd** [_fireball_](/Spells.aspx?ID=119), [_haste_](/Spells.aspx?ID=147), [_wall of wind_](/Spells.aspx?ID=367); **2nd** [_glitterdust_](/Spells.aspx?ID=136), [_obscuring mist_](/Spells.aspx?ID=210), [_restore senses_](/Spells.aspx?ID=259); **1st** [_air bubble_](/Spells.aspx?ID=5), [_grease_](/Spells.aspx?ID=140), [_pass without trace_](/Spells.aspx?ID=215); **Cantrips (5th)** [_detect magic_](/Spells.aspx?ID=66), [_electric arc_](/Spells.aspx?ID=97), [_light_](/Spells.aspx?ID=171), [_produce flame_](/Spells.aspx?ID=236), [_read aura_](/Spells.aspx?ID=246) \n\n **Adult Magma Dragon** <br /> **Primal Prepared Spells** DC 33, attack +25; As young magma dragon, plus **6th** [_chain lightning_](/Spells.aspx?ID=33), [_true seeing_](/Spells.aspx?ID=344); **5th** [_cloudkill_](/Spells.aspx?ID=42), [_prying eye_](/Spells.aspx?ID=239); **4th** [_solid fog_](/Spells.aspx?ID=290); **Cantrips (7th)** \n\n **Ancient Magma Dragon** <br /> **Primal Prepared Spells** DC 42, attack +34; As adult magma dragon, plus **8th** [_earthquake_](/Spells.aspx?ID=95), [_horrid wilting_](/Spells.aspx?ID=152), [_wind walk_](/Spells.aspx?ID=376); **7th** [_energy aegis_](/Spells.aspx?ID=100), [_plane shift_](/Spells.aspx?ID=222), [_volcanic eruption_](/Spells.aspx?ID=360); **6th** [_flesh to stone_](/Spells.aspx?ID=123); **Cantrips (9th)**\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-178\" />",
+ "name": "Young Magma Dragon",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 16,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Bestiary 2](/Sources.aspx?ID=32) pg. 94 <sup>2.0</sup>, [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 80</row>\r\n\r\n**Creature Family** [Dragon, Magma](/MonsterFamilies.aspx?ID=178)\r\n\r\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 28\r\n\r\n**Fort** +19\r\n\r\n**Ref** +16\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMagma dragons have a reputation among other dragons for being unpredictable and brash. Their temperament and tendency for violent outbursts ensure …\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 60 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 60 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Athletics +19",
+  "Deception +14",
+  "Intimidation +18",
+  "Nature +15",
+  "Stealth +16",
+  "Survival +18"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +19, [Deception](/Skills.aspx?ID=5) +14, [Intimidation](/Skills.aspx?ID=7) +18, [Nature](/Skills.aspx?ID=10) +15, [Stealth](/Skills.aspx?ID=15) +16, [Survival](/Skills.aspx?ID=16) +18",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 94"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 94 <sup>2.0</sup>, [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 80</row>",
+ "speed": {
+  "fly": 100,
+  "land": 30,
+  "max": 100,
+  "swim": 30
+ },
+ "speed_markdown": "30 feet, fly 100 feet, swim 30 feet; magma swim",
+ "speed_raw": "30 feet, fly 100 feet, swim 30 feet; magma swim",
+ "spell": [
+  "Burning Hands",
+  "Produce Flame"
+ ],
+ "spell_markdown": "[Burning Hands](/Spells.aspx?ID=30), [Produce Flame](/Spells.aspx?ID=236)",
+ "stealth": "16",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Magma dragons have a reputation among other dragons for being unpredictable and brash. Their temperament and tendency for violent outbursts ensure …",
+ "summary_markdown": "Magma dragons have a reputation among other dragons for being unpredictable and brash. Their temperament and tendency for violent outbursts ensure …",
+ "text": " Young Magma Dragon Magma dragons have a reputation among other dragons for being unpredictable and brash. Their temperament and tendency for violent outbursts ensure that the typical magma dragon lives a solitary life, with hatchlings often bickering or fighting to establish dominance among themselves before they leave the nest. A magma dragon always has a reason for their outbursts and can always justify their sudden turns in mood, yet they rarely feel the need to do so. Magma dragons build lairs within volcanically active mountains or deep underground amid vast lakes of bubbling magma. As with all true dragons, magma dragons keep hoards of treasure, but the nature of their searing lairs limits the type of valuables they collect to metals, gems, and items capable of resisting the heat of a volcano's core. Recall Knowledge - Dragon (Arcana): DC 28 Recall Knowledge - Elemental (Arcana, Nature): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Young Magma Dragon Source Bestiary 2 pg. 94 2.0 , Pathfinder #148: Fires of the Haunted City pg. 80 Perception +18; darkvision, scent (imprecise) 60 feet Languages Common, Draconic, Ignan Skills Acrobatics +16, Athletics +19, Deception +14, Intimidation +18, Nature +15, Stealth +16, Survival +18 Str +6 Dex +1 Con +4 Int +0 Wis +3 Cha +3 --- AC 28 Fort +19 Ref +16 Will +18 HP 175 Immunities fire, paralyzed, sleep Weaknesses cold 10 Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 24 Wing Deflection Reaction Trigger The dragon is targeted with an attack; Effect The dragon raises a wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is Flying, they descend 10 feet after the attack. --- Speed 30 feet, fly 100 feet, swim 30 feet; magma swim Melee Single Action jaws +21 (Fire, reach 10 feet), Damage 2d10+10 piercing plus 2d6 fire Melee Single Action claw +21 (Agile), Damage 2d10+10 slashing Melee Single Action tail +19 (reach 15 feet), Damage 2d12+10 bludgeoning Melee Single Action horns +19 (reach 10 feet), Damage 1d10+10 piercing Primal Innate Spells DC 26, attack +18 - Cantrips (4th) Produce Flame - 4th Burning Hands (at will) Breath Weapon Two Actions (Evocation, Fire, Primal) The dragon breathes a blast of magma that deals 5d6 fire damage and 3d12 bludgeoning damage in a 30-foot cone (DC 28 basic Reflex save). They can't use Breath Weapon again for 1d4 rounds. Draconic Frenzy Two Actions The dragon makes two claw Strikes and one horn Strike in any order. Draconic Momentum The dragon recharges their Breath Weapon whenever they score a critical hit with a Strike. Magma Swim A magma dragon's swim Speed functions only when the dragon is Swimming through magma or molten lava. Magma Dragon Spellcasters To make a magma dragon spellcaster, remove the dragon’s Draconic Frenzy and draconic momentum abilities and give it the following spells. You can swap out any number of these with other primal spells, provided you keep the same number of spells for each level. You might also want to increase the dragon’s Wisdom or Charisma modifier by 1 or 2 to reflect its mastery of magic. Young Magma Dragon Primal Prepared Spells DC 28, attack +20; 4th stoneskin , wall of fire ; 3rd fireball , haste , wall of wind ; 2nd glitterdust , obscuring mist , restore senses ; 1st air bubble , grease , pass without trace ; Cantrips (5th) detect magic , electric arc , light , produce flame , read aura Adult Magma Dragon Primal Prepared Spells DC 33, attack +25; As young magma dragon, plus 6th chain lightning , true seeing ; 5th cloudkill , prying eye ; 4th solid fog ; Cantrips (7th) Ancient Magma Dragon Primal Prepared Spells DC 42, attack +34; As adult magma dragon, plus 8th earthquake , horrid wilting , wind walk ; 7th energy aegis , plane shift , volcanic eruption ; 6th flesh to stone ; Cantrips (9th) ",
+ "trait": [
+  "Dragon",
+  "Elemental",
+  "Fire",
+  "Uncommon",
+  "CN",
+  "Large"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Elemental](/Traits.aspx?ID=57), [Fire](/Traits.aspx?ID=72), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Dragon",
+  "Elemental",
+  "Fire",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=631",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold": 10
+ },
+ "weakness_markdown": "cold 10",
+ "weakness_raw": "cold 10",
+ "will_save": 18,
+ "wisdom": 3
+}

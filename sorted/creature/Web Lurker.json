@@ -1,0 +1,97 @@
+{
+ "ac": 19,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 3,
+ "creature_ability": [
+  "Spider Speak",
+  "Spring upon Prey",
+  "Requirement",
+  "Web Lurker Venom",
+  "Web Trap"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-407",
+ "image": [
+  "/Images/Monsters/WebLurker.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Aklo",
+  "spider speak"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); spider speak",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Web Lurker](/Monsters.aspx?ID=407)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWeb lurkers, known also as ettercaps, are ugly monsters that not only dwell within the lairs of spiders and swarms, but actively cultivate and shepherd such vermin.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/WebLurker.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Web Lurker](/Monsters.aspx?ID=407)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 325</row>\n\n**Perception** +10; darkvision, tremorsense (imprecise) 30 feet (creatures touching its web)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); spider speak\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +9, [Crafting](/Skills.aspx?ID=4) +8, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Spider Speak** The web lurker can speak with spiders, with the same effects and limitations as [_speak with animals_](/Spells.aspx?ID=293).\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\n\n**Spring upon Prey** <actions string=\"Reaction\" /> **Trigger** A creature touches the web lurker’s web while the web lurker is on it. **Requirement** Initiative has not yet been rolled. **Effect** The web lurker automatically notices the creature and Strides or Climbs before rolling initiative.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +11 ([Poison](/Traits.aspx?ID=126)),\r\n**Damage** 1d8+6 piercing plus web lurker venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +11 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d8+6 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nweb +11,\r\n**Damage** web trap\n\n**Web Lurker Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 19; **Maximum Duration** 10 rounds; **Stage 1** 1d6 poison and flat-footed (1 round); **Stage 2** 1d6 poison, flat-footed, and slowed 1 (1 round)\r\n\r\n**Web Trap**   A creature hit by the web lurker’s web attack is immobilized and stuck to the nearest surface until it succeeds at DC 20 Acrobatics check to Escape.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Web Lurker Lair</title>\r\n\r\nWhether alone or in a group, web lurkers hunt in forests, swamps, or scrubby hill lands, constructing structures from their webs high up in trees or within craggy, high canyons, and they surround their territory with traps and snares constructed of the same webbing and natural material.\r\n</aside>",
+ "name": "Web Lurker",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 325</row>\n\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +10\r\n\r\n**Ref** +11\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWeb lurkers, known also as ettercaps, are ugly monsters that not only dwell within the lairs of spiders and swarms, but actively cultivate and …\r\n</summary>",
+ "sense": "darkvision, tremorsense (imprecise) 30 feet (creatures touching its web)",
+ "sense_markdown": "darkvision, tremorsense (imprecise) 30 feet (creatures touching its web)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +9",
+  "Athletics +9",
+  "Crafting +8",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +9, [Crafting](/Skills.aspx?ID=4) +8, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 325"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 325</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell_markdown": "",
+ "stealth": "11",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Web lurkers, known also as ettercaps, are ugly monsters that not only dwell within the lairs of spiders and swarms, but actively cultivate and …",
+ "summary_markdown": "Web lurkers, known also as ettercaps, are ugly monsters that not only dwell within the lairs of spiders and swarms, but actively cultivate and …",
+ "text": " Web Lurker Web lurkers, known also as ettercaps, are ugly monsters that not only dwell within the lairs of spiders and swarms, but actively cultivate and shepherd such vermin. Recall Knowledge - Aberration (Occultism): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Web Lurker Source Bestiary pg. 325 Perception +10; darkvision, tremorsense (imprecise) 30 feet (creatures touching its web) Languages Aklo; spider speak Skills Acrobatics +9, Athletics +9, Crafting +8, Stealth +11 Str +4 Dex +4 Con +3 Int +1 Wis +3 Cha -1 Spider Speak The web lurker can speak with spiders, with the same effects and limitations as speak with animals . --- AC 19 Fort +10 Ref +11 Will +8 HP 45 Spring upon Prey Reaction Trigger A creature touches the web lurker’s web while the web lurker is on it. Requirement Initiative has not yet been rolled. Effect The web lurker automatically notices the creature and Strides or Climbs before rolling initiative. --- Speed 25 feet, climb 25 feet Melee Single Action fangs +11 (Poison), Damage 1d8+6 piercing plus web lurker venom Melee Single Action claw +11 (Agile), Damage 1d8+6 slashing Melee Single Action web +11, Damage web trap Web Lurker Venom (Poison) Saving Throw Fortitude DC 19; Maximum Duration 10 rounds; Stage 1 1d6 poison and flat-footed (1 round); Stage 2 1d6 poison, flat-footed, and slowed 1 (1 round) Web Trap A creature hit by the web lurker’s web attack is immobilized and stuck to the nearest surface until it succeeds at DC 20 Acrobatics check to Escape. Web Lurker Lair Whether alone or in a group, web lurkers hunt in forests, swamps, or scrubby hill lands, constructing structures from their webs high up in trees or within craggy, high canyons, and they surround their territory with traps and snares constructed of the same webbing and natural material. ",
+ "trait": [
+  "Aberration",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=407",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 3
+}

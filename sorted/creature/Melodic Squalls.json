@@ -1,0 +1,104 @@
+{
+ "ac": 39,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 8,
+ "constitution": 4,
+ "creature_ability": [
+  "Hostile Duet",
+  "Retune",
+  "Mesmerizing Melody",
+  "Subsonic Burst",
+  "Swiftness"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 280,
+ "hp_raw": "280",
+ "id": "creature-1511",
+ "immunity": [
+  "bleed",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 2,
+ "language": [
+  "Auran",
+  "Tengu",
+  "Tien"
+ ],
+ "language_markdown": "[Auran](/Languages.aspx?ID=15), [Tengu](/Languages.aspx?ID=47), [Tien](/Languages.aspx?ID=43)",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"\">[Melodic Squalls](/Monsters.aspx?ID=1511)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Melodic Squalls](/Monsters.aspx?ID=1511)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 57</row>\n\n**Perception** +30; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Auran](/Languages.aspx?ID=15), [Tengu](/Languages.aspx?ID=47), [Tien](/Languages.aspx?ID=43)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +32, [Performance](/Skills.aspx?ID=12) +32, [Stealth](/Skills.aspx?ID=15) +32\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +8\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +6\r\n\r\n**Cha** +8\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +32 \r\n\r\n**Will** +28 \n\n</row>\r\n\r\n**HP** 280\n\n**Immunities**\r\nbleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Hostile Duet** <actions string=\"Reaction\" /> **Trigger** A hostile creature within 30 feet creates an effect with the [auditory](/Traits.aspx?ID=16) trait that provides bonuses to itself or its allies; **Effect** The melodic squall recreates the auditory effect perfectly, gaining the bonuses for itself and its allies as long as the original effect persists.<br />**Retune** <actions string=\"Reaction\" /> **Trigger** The melodic squall is targeted by a spell with the [auditory](/Traits.aspx?ID=16) trait; **Effect** The melodic squall attempts to [counteract](/Rules.aspx?ID=371) the spell. If it succeeds, the spell effect is caught in a blast of wind that sweeps it back to its origin, affecting the caster. Targets of the triggering effect other than the melodic squall are still affected normally.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 100 feet; swiftness\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwind gust +32 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d10+14 bludgeoning plus [Push](/MonsterAbilities.aspx?ID=25) 10 feet\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nsolid refrain +32 ([range increment 70 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+14 sonic\n\n**Mesmerizing Melody** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The melodic squall sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 36 Will save to resist becoming [fascinated](/Conditions.aspx?ID=14) by the melodic squall. A creature that succeeds at its save is temporarily immune for 24 hours. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is fascinated for 1 round. <br />**Failure** The creature is fascinated for 1d4 rounds.\r\n\r\n**Subsonic Burst** <actions string=\"Single Action\" /> ([Emotion](/Traits.aspx?ID=60), [Evocation](/Traits.aspx?ID=65), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134), [Sonic](/Traits.aspx?ID=147)) The melodic squall focuses intense sound at an inaudible frequency in a 100-foot line. Each creature in the line must attempt a DC 34 Fortitude save. <br />**Success** The creature is unaffected. <br />**Failure** The creature is [frightened 1](/Conditions.aspx?ID=19). <br />**Critical Failure** The creature is frightened 2 and [confused](/Conditions.aspx?ID=5) until the beginning of the melodic squall's next turn.\r\n\r\n**Swiftness**   The melodic squall's movement doesn't trigger reactions.\r\n\r\n</column>",
+ "name": "Melodic Squalls",
+ "npc": false,
+ "perception": 30,
+ "rarity": "rare",
+ "reflex_save": 32,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 57</row>\n\n<row gap=\"medium\">\r\n**HP** 280\r\n\r\n**AC** 39\r\n\r\n**Fort** +24\r\n\r\n**Ref** +32\r\n\r\n**Will** +28\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +32",
+  "Performance +32",
+  "Stealth +32"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +32, [Performance](/Skills.aspx?ID=12) +32, [Stealth](/Skills.aspx?ID=15) +32",
+ "source": [
+  "Pathfinder #167: Ready? Fight!"
+ ],
+ "source_raw": [
+  "Pathfinder #167: Ready? Fight! pg. 57"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 57</row>",
+ "speed": {
+  "fly": 100,
+  "max": 100
+ },
+ "speed_markdown": "fly 100 feet; swiftness",
+ "speed_raw": "fly 100 feet; swiftness",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "32",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Melodic Squalls Recall Knowledge - Elemental (Arcana, Nature): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Melodic Squalls Source Pathfinder #167: Ready? Fight! pg. 57 Perception +30; darkvision Languages Auran, Tengu, Tien Skills Acrobatics +32, Performance +32, Stealth +32 Str +6 Dex +8 Con +4 Int +2 Wis +6 Cha +8 --- AC 39 Fort +24 Ref +32 Will +28 HP 280 Immunities bleed, paralyzed, poison, sleep Hostile Duet Reaction Trigger A hostile creature within 30 feet creates an effect with the auditory trait that provides bonuses to itself or its allies; Effect The melodic squall recreates the auditory effect perfectly, gaining the bonuses for itself and its allies as long as the original effect persists. Retune Reaction Trigger The melodic squall is targeted by a spell with the auditory trait; Effect The melodic squall attempts to counteract the spell. If it succeeds, the spell effect is caught in a blast of wind that sweeps it back to its origin, affecting the caster. Targets of the triggering effect other than the melodic squall are still affected normally. --- Speed fly 100 feet; swiftness Melee Single Action wind gust +32 (Agile, Finesse), Damage 3d10+14 bludgeoning plus Push 10 feet Ranged Single Action solid refrain +32 (range increment 70 feet), Damage 3d8+14 sonic Mesmerizing Melody Single Action (Auditory, Concentrate, Enchantment, Mental, Primal) The melodic squall sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 36 Will save to resist becoming fascinated by the melodic squall. A creature that succeeds at its save is temporarily immune for 24 hours. Critical Success The creature is unaffected. Success The creature is fascinated for 1 round. Failure The creature is fascinated for 1d4 rounds. Subsonic Burst Single Action (Emotion, Evocation, Fear, Mental, Primal, Sonic) The melodic squall focuses intense sound at an inaudible frequency in a 100-foot line. Each creature in the line must attempt a DC 34 Fortitude save. Success The creature is unaffected. Failure The creature is frightened 1. Critical Failure The creature is frightened 2 and confused until the beginning of the melodic squall's next turn. Swiftness The melodic squall's movement doesn't trigger reactions. ",
+ "trait": [
+  "Air",
+  "Elemental",
+  "Rare",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Elemental](/Traits.aspx?ID=57), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Air",
+  "Elemental",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1511",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 28,
+ "wisdom": 6
+}

@@ -1,0 +1,59 @@
+{
+ "ac": 31,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "Religion  DC 30 (expert) to utter prayers that quell the crystals' necromantic compulsion to drink blood",
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hardness": 20,
+ "hardness_raw": "20",
+ "hazard_type": "Environmental",
+ "hp": 80,
+ "hp_raw": "80 (BT 40)",
+ "id": "hazard-78",
+ "immunity": [
+  "critical hits (except bludgeoning or  sonic )",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits (except bludgeoning or [sonic](/Traits.aspx?ID=147)), object immunities, precision damage",
+ "level": 11,
+ "markdown": "<title level=\"1\" right=\"Hazard 11\" pfs=\"\">[Lifeleech Crystal Patch](/Hazards.aspx?ID=78)</title>\r\n\r\n<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 10</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nSharp, bloodthirsty crystals make walking through this chamber treacherous.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 30 (expert) or [_detect magic_](/Spells.aspx?ID=66) to note the presence of necromantic energies suffusing the crystals.\r\n\r\n**Disable**\r\n[Religion](/Skills.aspx?ID=13) DC 30 (expert) to utter prayers that quell the crystals' necromantic compulsion to drink blood\n\n<column gap=\"tiny\">\r\n\r\n**AC** 31, **Fort** +24, **Ref** +12\r\n\r\n**Hardness**\r\n20\r\n\r\n**HP**\r\n80 (BT 40)\r\n\r\n**Immunities**\r\ncritical hits (except bludgeoning or [sonic](/Traits.aspx?ID=147)), object immunities, precision damage\r\n\r\n**Weaknesses**\r\nsonic 10\n\n</column>\r\n\r\n**Slice Legs** <actions string=\"Reaction\" /> **Trigger** A creature with blood moves through a patch of lifeleech crystals. **Effect** The crystals twist and slash, animating and cutting into the creature as it walks, dealing 5d8 slashing damage. The creature must attempt a DC 28 Reflex saving throw.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes full damage and is [drained 1](/Conditions.aspx?ID=10).<br />\r\n**Failure** The creature takes double damage and is drained 2.<br />\r\n**Critical Failure** As failure, plus the creature's blood causes fresh growth. A new 10-foot-square patch of lifeleech crystals grows in an adjacent space to the current patch of crystals.",
+ "name": "Lifeleech Crystal Patch",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-10-16",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 10</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSharp, bloodthirsty crystals make walking through this chamber treacherous.\r\n</summary>",
+ "source": [
+  "Pathfinder #148: Fires of the Haunted City"
+ ],
+ "source_raw": [
+  "Pathfinder #148: Fires of the Haunted City pg. 10"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 10</row>",
+ "speed": {},
+ "stealth": "DC 30 (expert) or   detect magic   to note the presence of necromantic energies suffusing the crystals.",
+ "summary": "Sharp, bloodthirsty crystals make walking through this chamber treacherous.",
+ "summary_markdown": "Sharp, bloodthirsty crystals make walking through this chamber treacherous.",
+ "text": " Lifeleech Crystal Patch Source Pathfinder #148: Fires of the Haunted City pg. 10 Complexity Simple Sharp, bloodthirsty crystals make walking through this chamber treacherous. --- Stealth DC 30 (expert) or detect magic to note the presence of necromantic energies suffusing the crystals. Disable Religion DC 30 (expert) to utter prayers that quell the crystals' necromantic compulsion to drink blood AC 31, Fort +24, Ref +12 Hardness 20 HP 80 (BT 40) Immunities critical hits (except bludgeoning or sonic), object immunities, precision damage Weaknesses sonic 10 Slice Legs Reaction Trigger A creature with blood moves through a patch of lifeleech crystals. Effect The crystals twist and slash, animating and cutting into the creature as it walks, dealing 5d8 slashing damage. The creature must attempt a DC 28 Reflex saving throw. Critical Success The creature is unaffected. Success The creature takes full damage and is drained 1. Failure The creature takes double damage and is drained 2. Critical Failure As failure, plus the creature's blood causes fresh growth. A new 10-foot-square patch of lifeleech crystals grows in an adjacent space to the current patch of crystals.",
+ "trait": [
+  "Environmental",
+  "Magical"
+ ],
+ "trait_markdown": "[Environmental](/Traits.aspx?ID=62), [Magical](/Traits.aspx?ID=103)",
+ "trait_raw": [
+  "Environmental",
+  "Magical"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=78",
+ "weakness": {
+  "sonic": 10
+ },
+ "weakness_markdown": "sonic 10",
+ "weakness_raw": "sonic 10"
+}

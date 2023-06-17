@@ -1,0 +1,128 @@
+{
+ "ac": 39,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 6,
+ "creature_ability": [
+  "Painsight",
+  "Nowhere to Run",
+  "Constrict",
+  "Exhale Chains",
+  "Focus Gaze"
+ ],
+ "creature_family": "Velstrac",
+ "creature_family_markdown": "[Velstrac](/MonsterFamilies.aspx?ID=111)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 30,
+ "hp": 299,
+ "hp_raw": "299",
+ "id": "creature-2529",
+ "image": [
+  "/Images/Monsters/Velstrac_Ephialtes.png"
+ ],
+ "immunity": [
+  "cold",
+  "fear"
+ ],
+ "immunity_markdown": "[cold](/Traits.aspx?ID=27), [fear](/Traits.aspx?ID=68)",
+ "intelligence": 5,
+ "language": [
+  "Common",
+  "Infernal",
+  "Shadowtongue"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Shadowtongue](/Languages.aspx?ID=21)",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ephialtes](/Monsters.aspx?ID=2529)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nEphialtes velstracs are consummate and fearless hunters of the doomed and the damned.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Velstrac_Ephialtes.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Ephialtes](/Monsters.aspx?ID=2529)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Velstrac\" url=\"/Traits.aspx?ID=265\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 86</row>\n\n**Perception** +30; [greater darkvision](/MonsterAbilities.aspx?ID=12), painsight, [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Shadowtongue](/Languages.aspx?ID=21)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +31, [Deception](/Skills.aspx?ID=5) +30, [Intimidation](/Skills.aspx?ID=7) +32, [Medicine](/Skills.aspx?ID=9) +30, [Religion](/Skills.aspx?ID=13) +30, [Survival](/Skills.aspx?ID=16) +28, [Torture Lore](/Skills.aspx?ID=8) +29\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +5\r\n\r\n**Con** +6\r\n\r\n**Int** +5\r\n\r\n**Wis** +6\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Painsight** ([divination](/Traits.aspx?ID=47), [divine](/Traits.aspx?ID=48)) A velstrac automatically knows whether a creature it sees has any of the [doomed](/Conditions.aspx?ID=9), [dying](/Conditions.aspx?ID=11), and [wounded](/Conditions.aspx?ID=42) conditions, as well as the value of those conditions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +30 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +28 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 299\r\n\r\n, regeneration 20 (deactivated by good or [silver](/Equipment.aspx?ID=379))\r\n\r\n**Immunities**\r\n[cold](/Traits.aspx?ID=27), [fear](/Traits.aspx?ID=68)\n\n**Weaknesses**\r\ngood 15, silver 15\r\n\r\n**Nowhere to Run** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [enchantment](/Traits.aspx?ID=61), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106), [visual](/Traits.aspx?ID=163)) 30 feet. When a creature ends its turn in the aura, it feels a powerful sensation of hopelessness. The creature must succeed at a DC 34 Will save or become [slowed 1](/Conditions.aspx?ID=35) (slowed 2 on a critical failure) for 1 round.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +33 ([Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+13 piercing plus 2d6 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nchain +33 ([Disarm](/Traits.aspx?ID=175), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 3d6+13 piercing plus 2d6 [persistent bleed](/Conditions.aspx?ID=29) and [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Divine Innate Spells** DC 37\r\n- **6th**\r\n[Darkness](/Spells.aspx?ID=59), [Dimensional Anchor](/Spells.aspx?ID=70) (at will)\r\n- **7th**\r\n[Blur](/Spells.aspx?ID=28), [Plane Shift](/Spells.aspx?ID=222) (self only), [Silence](/Spells.aspx?ID=287) (x3)\r\n- **8th**\r\n[Chilling Darkness](/Spells.aspx?ID=36), [Discern Location](/Spells.aspx?ID=75), [Shadow Walk](/Spells.aspx?ID=275)\r\n- **Constant (8th)**\r\n[True Seeing](/Spells.aspx?ID=344)\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d4+13 slashing, DC 37\r\n\r\n**Exhale Chains** <actions string=\"Two Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Divine](/Traits.aspx?ID=48)) The ephialtes exhales a tangle of barbed chains. All creatures in a 50-foot cone must attempt a DC 37 Reflex save. The ephialtes can't Exhale Chains for 1d4 rounds.<br />**Critical Success** The creature is unaffected.<br /> **Success** It takes 8d6 piercing damage.<br /> **Failure** It takes 15d6 piercing damage, 2d6 [persistent bleed damage](/Conditions.aspx?ID=29), and is [flat-footed](/Conditions.aspx?ID=16) for 1 round.<br /> **Critical Failure** As failure, but 30d6 piercing damage, 2d6 persistent bleed damage, and is [restrained](/Conditions.aspx?ID=33) until they escape (DC 37).\r\n\r\n**Focus Gaze** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [enchantment fear](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) The ephialtes stares at a creature they can see within 30 feet. The creature must attempt a Will save against the nowhere to run aura. If it was already [slowed](/Conditions.aspx?ID=35), on a failed save its speed is reduced by 10 feet until the end of its next turn. After attempting this save, the targeted creature is then temporarily immune to Focus Gaze until the start of the ephialtes's next turn.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Ephialtes Prey</title>\r\n\r\nWhen they catch enough quarry, an ephialtes velstrac returns to the [Shadow Plane](/Planes.aspx?ID=11), bringing victims for other velstracs to use for training or raw material. Velstracs respect ephialtes for their “generosity” in guiding and providing for others of their kind, yet are always wary about making assumptions about the limits of this generosity.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-111\" />",
+ "name": "Ephialtes",
+ "npc": false,
+ "perception": 30,
+ "rarity": "uncommon",
+ "reflex_save": 25,
+ "release_date": "2023-05-24",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Velstrac\" url=\"/Traits.aspx?ID=265\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 86</row>\r\n\r\n**Creature Family** [Velstrac](/MonsterFamilies.aspx?ID=111)\r\n\r\n<row gap=\"medium\">\r\n**HP** 299\r\n\r\n**AC** 39\r\n\r\n**Fort** +30\r\n\r\n**Ref** +25\r\n\r\n**Will** +28\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEphialtes velstracs are consummate and fearless hunters of the doomed and the damned.\r\n</summary>",
+ "sense": " greater darkvision , painsight,   true seeing  ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12), painsight, [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +31",
+  "Deception +30",
+  "Intimidation +32",
+  "Medicine +30",
+  "Religion +30",
+  "Survival +28",
+  "Torture Lore +29"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +31, [Deception](/Skills.aspx?ID=5) +30, [Intimidation](/Skills.aspx?ID=7) +32, [Medicine](/Skills.aspx?ID=9) +30, [Religion](/Skills.aspx?ID=13) +30, [Survival](/Skills.aspx?ID=16) +28, [Torture Lore](/Skills.aspx?ID=8) +29",
+ "source": [
+  "Pathfinder #191: The Destiny War"
+ ],
+ "source_raw": [
+  "Pathfinder #191: The Destiny War pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Stolen Fate",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 86</row>",
+ "speed": {
+  "fly": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, fly 25 feet",
+ "speed_raw": "25 feet, fly 25 feet",
+ "spell": [
+  "Chilling Darkness",
+  "Discern Location",
+  "Shadow Walk",
+  "Blur",
+  "Plane Shift",
+  "Silence",
+  "Darkness",
+  "Dimensional Anchor",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Blur](/Spells.aspx?ID=28), [Chilling Darkness](/Spells.aspx?ID=36), [Darkness](/Spells.aspx?ID=59), [Dimensional Anchor](/Spells.aspx?ID=70), [Discern Location](/Spells.aspx?ID=75), [Plane Shift](/Spells.aspx?ID=222), [Shadow Walk](/Spells.aspx?ID=275), [Silence](/Spells.aspx?ID=287), [True Seeing](/Spells.aspx?ID=344)",
+ "spoilers": "Stolen Fate",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Ephialtes velstracs are consummate and fearless hunters of the doomed and the damned.",
+ "summary_markdown": "Ephialtes velstracs are consummate and fearless hunters of the doomed and the damned.",
+ "text": " Ephialtes Ephialtes velstracs are consummate and fearless hunters of the doomed and the damned. Recall Knowledge - Fiend (Religion): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Ephialtes Source Pathfinder #191: The Destiny War pg. 86 Perception +30; greater darkvision, painsight, true seeing Languages Common, Infernal, Shadowtongue Skills Athletics +31, Deception +30, Intimidation +32, Medicine +30, Religion +30, Survival +28, Torture Lore +29 Str +9 Dex +5 Con +6 Int +5 Wis +6 Cha +6 Painsight (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions. --- AC 39 Fort +30 Ref +25 Will +28 +1 status to all saves vs. magic HP 299 , regeneration 20 (deactivated by good or silver) Immunities cold, fear Weaknesses good 15, silver 15 Nowhere to Run (aura, divine, enchantment, fear, mental, visual) 30 feet. When a creature ends its turn in the aura, it feels a powerful sensation of hopelessness. The creature must succeed at a DC 34 Will save or become slowed 1 (slowed 2 on a critical failure) for 1 round. --- Speed 25 feet, fly 25 feet Melee Single Action jaws +33 (Evil, Magical, reach 15 feet), Damage 3d6+13 piercing plus 2d6 persistent bleed Melee Single Action chain +33 (Disarm, Evil, Magical, reach 15 feet, Trip), Damage 3d6+13 piercing plus 2d6 persistent bleed and Grab Divine Innate Spells DC 37 - 6th Darkness, Dimensional Anchor (at will) - 7th Blur, Plane Shift (self only), Silence (x3) - 8th Chilling Darkness, Discern Location, Shadow Walk - Constant (8th) True Seeing Constrict Single Action 2d4+13 slashing, DC 37 Exhale Chains Two Actions (Conjuration, Divine) The ephialtes exhales a tangle of barbed chains. All creatures in a 50-foot cone must attempt a DC 37 Reflex save. The ephialtes can't Exhale Chains for 1d4 rounds. Critical Success The creature is unaffected. Success It takes 8d6 piercing damage. Failure It takes 15d6 piercing damage, 2d6 persistent bleed damage, and is flat-footed for 1 round. Critical Failure As failure, but 30d6 piercing damage, 2d6 persistent bleed damage, and is restrained until they escape (DC 37). Focus Gaze Single Action (Concentrate, Divine, enchantment fear, Mental, Visual) The ephialtes stares at a creature they can see within 30 feet. The creature must attempt a Will save against the nowhere to run aura. If it was already slowed, on a failed save its speed is reduced by 10 feet until the end of its next turn. After attempting this save, the targeted creature is then temporarily immune to Focus Gaze until the start of the ephialtes's next turn. Ephialtes Prey When they catch enough quarry, an ephialtes velstrac returns to the Shadow Plane, bringing victims for other velstracs to use for training or raw material. Velstracs respect ephialtes for their “generosity” in guiding and providing for others of their kind, yet are always wary about making assumptions about the limits of this generosity. ",
+ "trait": [
+  "Fiend",
+  "Uncommon",
+  "Velstrac",
+  "LE",
+  "Huge"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Uncommon](/Traits.aspx?ID=159), [Velstrac](/Traits.aspx?ID=265)",
+ "trait_raw": [
+  "Fiend",
+  "Uncommon",
+  "Velstrac"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2529",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "good": 15,
+  "silver": 15
+ },
+ "weakness_markdown": "good 15, silver 15",
+ "weakness_raw": "good 15, silver 15",
+ "will_save": 28,
+ "wisdom": 6
+}

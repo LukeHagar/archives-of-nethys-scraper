@@ -1,0 +1,105 @@
+{
+ "ac": 34,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 3,
+ "creature_ability": [
+  "Death Stench",
+  "Attack of Opportunity",
+  "Drain Life",
+  "Hungry Spear",
+  "Terror Master",
+  "Wight Spawn"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 26,
+ "hp": 240,
+ "hp_raw": "240 ( negative healing )",
+ "id": "creature-2128",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Draconic",
+  "Necril",
+  "Undercommon"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Necril](/Languages.aspx?ID=20), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Raptor Guard](/Monsters.aspx?ID=2128)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Raptor Guard](/Monsters.aspx?ID=2128)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 32</row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Necril](/Languages.aspx?ID=20), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +24, [Athletics](/Skills.aspx?ID=3) +27, [Intimidation](/Skills.aspx?ID=7) +27, [Stealth](/Skills.aspx?ID=15) +24, [Survival](/Skills.aspx?ID=16) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+1 resilient bone armor_ (as [hide armor](/Armor.aspx?ID=7)), [_greater demon mask_](/Equipment.aspx?ID=430) in the form of a dinosaur-skull helm, _+1 [striking](/Equipment.aspx?ID=280) [spear](/Weapons.aspx?ID=10)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 34 \r\n\r\n**Fort** +26 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 240\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Death Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature that enters the area must attempt a DC 32 Fortitude save. On a failure, the creature is [sickened 2](/Conditions.aspx?ID=34) and [doomed 1](/Conditions.aspx?ID=9) for as long as it is sickened; on a critical failure, the creature is instead doomed 2 for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to any creature's death stench for 1 minute.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_spear_ +27 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+14 piercing plus drain life and terror master\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +26 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d6+14 slashing plus drain life and terror master\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +26,\r\n**Damage** 3d8+14 piercing plus drain life and terror master\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_spear_ +24 ([Magical](/Traits.aspx?ID=103), [range increment 20 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+14 piercing plus terror master and hungry spear\n\n**Drain Life**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When the Raptor Guard wight damages a living creature with a melee Strike, the wight gains 13 temporary Hit Points and the target creature must succeed at a DC 32 Fortitude save or become [drained 1](/Conditions.aspx?ID=10). Further damage dealt by the wight increases the drained condition by 1 on a failed save, to a maximum of drained 4.\r\n\r\n**Hungry Spear**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) The Raptor Guard wight's ranged spear Strikes apply drain life, but the wight doesn't gain any temporary Hit Points if the attack hits.\r\n\r\n**Terror Master**   As long as the Raptor Guard wears its dinosaur-skull helm, its Strikes deal an additional 1d10 negative damage, or an additional 2d10 damage to [frightened](/Conditions.aspx?ID=19) creatures.\r\n\r\n**Wight Spawn**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) A living [humanoid](/Traits.aspx?ID=91) slain by a Raptor Guard wight's melee Strike rises as a [wight](/Monsters.aspx?ID=413) after 1d4 rounds. This wight spawn is under the command of the Raptor Guard that killed it. It doesn't have the drain life or wight spawn abilities and is [clumsy 2](/Conditions.aspx?ID=3). If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains the drain life and wight spawn abilities, and is no longer clumsy.\r\n\r\n</column>",
+ "name": "Raptor Guard",
+ "npc": false,
+ "perception": 22,
+ "rarity": "rare",
+ "reflex_save": 23,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 32</row>\n\n<row gap=\"medium\">\r\n**HP** 240 ( negative healing )\r\n\r\n**AC** 34\r\n\r\n**Fort** +26\r\n\r\n**Ref** +23\r\n\r\n**Will** +21\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +24",
+  "Athletics +27",
+  "Intimidation +27",
+  "Stealth +24",
+  "Survival +22"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +24, [Athletics](/Skills.aspx?ID=3) +27, [Intimidation](/Skills.aspx?ID=7) +27, [Stealth](/Skills.aspx?ID=15) +24, [Survival](/Skills.aspx?ID=16) +22",
+ "source": [
+  "Pathfinder #155: Lord of the Black Sands"
+ ],
+ "source_raw": [
+  "Pathfinder #155: Lord of the Black Sands pg. 32"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 32</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "stealth": "24",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Raptor Guard Recall Knowledge - Undead (Religion): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Raptor Guard Source Pathfinder #155: Lord of the Black Sands pg. 32 Perception +22; darkvision Languages Draconic, Necril, Undercommon Skills Acrobatics +24, Athletics +27, Intimidation +27, Stealth +24, Survival +22 Str +8 Dex +5 Con +3 Int +0 Wis +3 Cha +4 Items +1 resilient bone armor (as hide armor), greater demon mask in the form of a dinosaur-skull helm, +1 striking spear --- AC 34 Fort +26 Ref +23 Will +21 HP 240 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Death Stench (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 32 Fortitude save. On a failure, the creature is sickened 2 and doomed 1 for as long as it is sickened; on a critical failure, the creature is instead doomed 2 for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to any creature's death stench for 1 minute. Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action spear +27 (Magical), Damage 2d6+14 piercing plus drain life and terror master Melee Single Action claw +26 (Agile), Damage 3d6+14 slashing plus drain life and terror master Melee Single Action jaws +26, Damage 3d8+14 piercing plus drain life and terror master Ranged Single Action spear +24 (Magical, range increment 20 feet), Damage 2d6+14 piercing plus terror master and hungry spear Drain Life (Divine, Necromancy) When the Raptor Guard wight damages a living creature with a melee Strike, the wight gains 13 temporary Hit Points and the target creature must succeed at a DC 32 Fortitude save or become drained 1. Further damage dealt by the wight increases the drained condition by 1 on a failed save, to a maximum of drained 4. Hungry Spear (Divine, Necromancy) The Raptor Guard wight's ranged spear Strikes apply drain life, but the wight doesn't gain any temporary Hit Points if the attack hits. Terror Master As long as the Raptor Guard wears its dinosaur-skull helm, its Strikes deal an additional 1d10 negative damage, or an additional 2d10 damage to frightened creatures. Wight Spawn (Divine, Necromancy) A living humanoid slain by a Raptor Guard wight's melee Strike rises as a wight after 1d4 rounds. This wight spawn is under the command of the Raptor Guard that killed it. It doesn't have the drain life or wight spawn abilities and is clumsy 2. If the creator of the wight spawn dies, the wight spawn becomes a full-fledged, autonomous wight; it regains its free will, gains the drain life and wight spawn abilities, and is no longer clumsy. ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Rare",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2128",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 3
+}

@@ -1,0 +1,118 @@
+{
+ "ac": 39,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 6,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Aluum Antimagic",
+  "Obliteration Beam",
+  "Paralyzing Force",
+  "Soul Binder",
+  "Soul Shriek"
+ ],
+ "creature_family": "Aluum",
+ "creature_family_markdown": "[Aluum](/MonsterFamilies.aspx?ID=113)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 30,
+ "hp": 255,
+ "hp_raw": "255",
+ "id": "creature-477",
+ "immunity": [
+  "bleed",
+  "disease",
+  "death effects",
+  "doomed",
+  "drained",
+  "fatigued",
+  "magic (see below)",
+  "mental",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, disease, death effects, doomed, drained, fatigued, magic (see below), mental, nonlethal attacks, paralyzed, poison, sickened, unconscious",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"\">[Spiritbound Aluum](/Monsters.aspx?ID=477)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhereas most aluums are animated by the souls of volunteers loyal to Katapesh, the Pactmasters created a handful of more capable (and deadly) aluums powered by the souls of a dozen or more dangerous criminals. These spiritbound aluums are rarely used as peacekeepers, instead serving as assassins, elite bodyguards, or riot control during times of martial law.\n\n A spiritbound aluum has a dull blue crystalline focus that stores constituent souls, surrounded by a host of smaller gems used for trapping souls the Pactmasters wish to deny from entering the Great Beyond. Spiritbound aluums rarely use this soul-binding ability except when instructed by their masters. However, the murderous or embittered souls within the aluum sometimes exert control and willfully consume a departing soul either out of malice or to incorporate it into the construct’s core. If not relieved of its trapped souls in a timely manner, a spiritbound aluum can develop enough will to overcome its masters’ orders and even awaken to full sentience. These rogue aluums typically lose the [mindless](/Traits.aspx?ID=108) trait, are evil, have an Intelligence modifier of –2 or higher, and gain several skills with bonuses ranging from +25 to +32.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Spiritbound Aluum](/Monsters.aspx?ID=477)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Soulbound\" url=\"/Traits.aspx?ID=237\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 83</row>\n\n**Perception** +28; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +3\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +4\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +30 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +28 \n\n</row>\r\n\r\n**HP** 255\n\n**Immunities**\r\nbleed, disease, death effects, doomed, drained, fatigued, magic (see below), mental, nonlethal attacks, paralyzed, poison, sickened, unconscious\r\n\r\n**Resistances**\r\n15 physical (except adamantine)\n\n**Attack of Opportunity**<actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +33 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d10+17 bludgeoning plus paralyzing force\r\n\r\n**Arcane Innate Spells** DC 38\r\n- **5th**\r\n[Locate](/Spells.aspx?ID=173)\r\n- **9th**\r\n[Bind Soul](/Spells.aspx?ID=21) (x3)\r\n\r\n**Aluum Antimagic**   Spiritbound aluum are immune to spells and magical abilities, with two exceptions. A [negative](/Traits.aspx?ID=118) spell or magical ability grants a spiritbound aluum the [quickened](/Conditions.aspx?ID=32) condition until the end of its next turn instead of its normal effects. A [positive](/Traits.aspx?ID=128) spell or ability makes a spiritbound aluum [slowed 1](/Conditions.aspx?ID=35) until the end of its next turn instead of its normal effects.\r\n\r\n**Obliteration Beam** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65), [Force](/Traits.aspx?ID=75)) **Requirements** The spiritbound aluum has bound a soul using its [_bind soul_](/Spells.aspx?ID=21) innate spell; **Effect** The spiritbound aluum transforms the captured soul’s essence into raw magical energy, channeling the spirit into a beam that deals 20d6 force damage in a 30-foot line (DC 38 basic Reflex save). The remaining fragments of the captured soul are released to the Great Beyond. The spiritbound aluum can’t use Obliteration Beam again for 1d4 rounds.\r\n\r\n**Paralyzing Force**  ([Arcane](/Traits.aspx?ID=11), [Incapacitation](/Traits.aspx?ID=93), [Necromancy](/Traits.aspx?ID=117)) A creature damaged by the spiritbound aluum's fist Strike must succeed at a DC 35 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28) for 1 round. On a critical failure, the creature is paralyzed for 1d4 minutes and falls [prone](/Conditions.aspx?ID=31).\r\n\r\n**Soul Binder**   When a spiritbound aluum uses its [_bind soul_](/Spells.aspx?ID=21) innate spell, it binds the soul into its central crystal instead of the normal material component. The crystal can hold up to 60 souls. When encountered, a spiritbound aluum’s crystal typically contains 1d6 souls.\r\n\r\n**Soul Shriek** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Auditory](/Traits.aspx?ID=16), [Evocation](/Traits.aspx?ID=65), [Mental](/Traits.aspx?ID=106), [Sonic](/Traits.aspx?ID=147)) The spiritbound aluum emits a keening wail in a 15-foot cone that deals 16d6 sonic damage (DC 27 basic Fortitude save). A creature that fails its save is [stunned 1](/Conditions.aspx?ID=36), or stunned 3 on a critical failure. The aluum can’t use Soul Shriek again for 1d4 rounds.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-113\" />",
+ "name": "Spiritbound Aluum",
+ "npc": false,
+ "perception": 28,
+ "rarity": "rare",
+ "reflex_save": 25,
+ "release_date": "2019-11-13",
+ "resistance": {},
+ "resistance_markdown": "15 physical (except adamantine)",
+ "resistance_raw": "15 physical (except adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Soulbound\" url=\"/Traits.aspx?ID=237\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 83</row>\r\n\r\n**Creature Family** [Aluum](/MonsterFamilies.aspx?ID=113)\r\n\r\n<row gap=\"medium\">\r\n**HP** 255\r\n\r\n**AC** 39\r\n\r\n**Fort** +30\r\n\r\n**Ref** +25\r\n\r\n**Will** +28\r\n\r\n**Perception** +28\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhereas most aluums are animated by the souls of volunteers loyal to Katapesh, the Pactmasters created a handful of more capable (and deadly) aluums …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +33"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +33",
+ "source": [
+  "Pathfinder #149: Against the Scarlet Triad"
+ ],
+ "source_raw": [
+  "Pathfinder #149: Against the Scarlet Triad pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 83</row>",
+ "speed": {
+  "fly": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, fly 25 feet",
+ "speed_raw": "25 feet, fly 25 feet",
+ "spell": [
+  "Bind Soul",
+  "Locate"
+ ],
+ "spell_markdown": "[Bind Soul](/Spells.aspx?ID=21), [Locate](/Spells.aspx?ID=173)",
+ "spoilers": "Age of Ashes",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Whereas most aluums are animated by the souls of volunteers loyal to Katapesh, the Pactmasters created a handful of more capable (and deadly) aluums …",
+ "summary_markdown": "Whereas most aluums are animated by the souls of volunteers loyal to Katapesh, the Pactmasters created a handful of more capable (and deadly) aluums …",
+ "text": " Spiritbound Aluum Whereas most aluums are animated by the souls of volunteers loyal to Katapesh, the Pactmasters created a handful of more capable (and deadly) aluums powered by the souls of a dozen or more dangerous criminals. These spiritbound aluums are rarely used as peacekeepers, instead serving as assassins, elite bodyguards, or riot control during times of martial law. A spiritbound aluum has a dull blue crystalline focus that stores constituent souls, surrounded by a host of smaller gems used for trapping souls the Pactmasters wish to deny from entering the Great Beyond. Spiritbound aluums rarely use this soul-binding ability except when instructed by their masters. However, the murderous or embittered souls within the aluum sometimes exert control and willfully consume a departing soul either out of malice or to incorporate it into the construct’s core. If not relieved of its trapped souls in a timely manner, a spiritbound aluum can develop enough will to overcome its masters’ orders and even awaken to full sentience. These rogue aluums typically lose the mindless trait, are evil, have an Intelligence modifier of –2 or higher, and gain several skills with bonuses ranging from +25 to +32. Recall Knowledge - Construct (Arcana, Crafting): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Spiritbound Aluum Source Pathfinder #149: Against the Scarlet Triad pg. 83 Perception +28; darkvision Languages Skills Athletics +33 Str +9 Dex +3 Con +6 Int -5 Wis +4 Cha -2 --- AC 39 Fort +30 Ref +25 Will +28 HP 255 Immunities bleed, disease, death effects, doomed, drained, fatigued, magic (see below), mental, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances 15 physical (except adamantine) Attack of Opportunity Reaction --- Speed 25 feet, fly 25 feet Melee Single Action fist +33 (Magical), Damage 3d10+17 bludgeoning plus paralyzing force Arcane Innate Spells DC 38 - 5th Locate - 9th Bind Soul (x3) Aluum Antimagic Spiritbound aluum are immune to spells and magical abilities, with two exceptions. A negative spell or magical ability grants a spiritbound aluum the quickened condition until the end of its next turn instead of its normal effects. A positive spell or ability makes a spiritbound aluum slowed 1 until the end of its next turn instead of its normal effects. Obliteration Beam Two Actions (Arcane, Evocation, Force) Requirements The spiritbound aluum has bound a soul using its bind soul innate spell; Effect The spiritbound aluum transforms the captured soul’s essence into raw magical energy, channeling the spirit into a beam that deals 20d6 force damage in a 30-foot line (DC 38 basic Reflex save). The remaining fragments of the captured soul are released to the Great Beyond. The spiritbound aluum can’t use Obliteration Beam again for 1d4 rounds. Paralyzing Force (Arcane, Incapacitation, Necromancy) A creature damaged by the spiritbound aluum's fist Strike must succeed at a DC 35 Fortitude save or become paralyzed for 1 round. On a critical failure, the creature is paralyzed for 1d4 minutes and falls prone. Soul Binder When a spiritbound aluum uses its bind soul innate spell, it binds the soul into its central crystal instead of the normal material component. The crystal can hold up to 60 souls. When encountered, a spiritbound aluum’s crystal typically contains 1d6 souls. Soul Shriek Two Actions (Arcane, Auditory, Evocation, Mental, Sonic) The spiritbound aluum emits a keening wail in a 15-foot cone that deals 16d6 sonic damage (DC 27 basic Fortitude save). A creature that fails its save is stunned 1, or stunned 3 on a critical failure. The aluum can’t use Soul Shriek again for 1d4 rounds. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "Rare",
+  "Soulbound",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Rare](/Traits.aspx?ID=137), [Soulbound](/Traits.aspx?ID=237)",
+ "trait_raw": [
+  "Construct",
+  "Mindless",
+  "Rare",
+  "Soulbound"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=477",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 28,
+ "wisdom": 4
+}

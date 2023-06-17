@@ -1,0 +1,86 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Sprint",
+  "Stunning Screech",
+  "Sudden Charge",
+  "Tearing Clutch"
+ ],
+ "creature_family": "Terror Bird",
+ "creature_family_markdown": "[Terror Bird](/MonsterFamilies.aspx?ID=269)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-1335",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Terror Shrike](/Monsters.aspx?ID=1335)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe terror shrike, also known as the scythe beak, is a more powerful species of terror bird. Large terror bird flocks typically have one or two terror shrikes as leaders.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Terror Shrike](/Monsters.aspx?ID=1335)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 264</row>\n\n**Perception** +11; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 60\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +13 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+5 piercing plus tearing clutch\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +13 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+5 piercing plus [Knockdown](/MonsterAbilities.aspx?ID=20)\n\n**Sprint** <actions string=\"Two Actions\" />  **Frequency** once per minute; **Effect** The terror bird Strides three times in a straight line.\r\n\r\n**Stunning Screech** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The terror shrike unleashes a haunting screech that causes prey to freeze in fear. Each creature in a 30-foot emanation other than terror birds must attempt a DC 19 Will save. Regardless of the result, creatures are then temporarily immune for 1 minute. **Critical Success** The creature is unaffected. **Success** The creature is [flat-footed](/Conditions.aspx?ID=16) until the start of its turn. **Failure** The creature is [stunned 1](/Conditions.aspx?ID=36). **Critical Failure** The creature is stunned 2.\r\n\r\n**Sudden Charge** <actions string=\"Two Actions\" />  The terror shrike Strides twice. If it ends its movement within melee reach of one creature, it can make a melee Strike against that creature.\r\n\r\n**Tearing Clutch**   The terror bird's powerful beak can tear through flesh. On a successful beak Strike, the target takes 1 [persistent bleed damage](/Conditions.aspx?ID=29). This bleed damage increases to 1d8 on a critical hit.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-269\" />",
+ "name": "Terror Shrike",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 264</row>\r\n\r\n**Creature Family** [Terror Bird](/MonsterFamilies.aspx?ID=269)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 20\r\n\r\n**Fort** +13\r\n\r\n**Ref** +12\r\n\r\n**Will** +7\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe terror shrike, also known as the scythe beak, is a more powerful species of terror bird. Large terror bird flocks typically have one or two …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +13",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 264"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 264</row>",
+ "speed": {
+  "land": 60,
+  "max": 60
+ },
+ "speed_markdown": "60 feet",
+ "speed_raw": "60 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The terror shrike, also known as the scythe beak, is a more powerful species of terror bird. Large terror bird flocks typically have one or two …",
+ "summary_markdown": "The terror shrike, also known as the scythe beak, is a more powerful species of terror bird. Large terror bird flocks typically have one or two …",
+ "text": " Terror Shrike The terror shrike, also known as the scythe beak, is a more powerful species of terror bird. Large terror bird flocks typically have one or two terror shrikes as leaders. Recall Knowledge - Animal (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Terror Shrike Source Bestiary 3 pg. 264 Perception +11; low-light vision Languages Skills Acrobatics +12, Athletics +13 Str +5 Dex +4 Con +3 Int -4 Wis +1 Cha +0 --- AC 20 Fort +13 Ref +12 Will +7 HP 60 --- Speed 60 feet Melee Single Action beak +13 (reach 10 feet), Damage 2d8+5 piercing plus tearing clutch Melee Single Action talon +13 (Agile), Damage 2d6+5 piercing plus Knockdown Sprint Two Actions Frequency once per minute; Effect The terror bird Strides three times in a straight line. Stunning Screech Single Action (Auditory, Emotion, Fear, Mental) The terror shrike unleashes a haunting screech that causes prey to freeze in fear. Each creature in a 30-foot emanation other than terror birds must attempt a DC 19 Will save. Regardless of the result, creatures are then temporarily immune for 1 minute. Critical Success The creature is unaffected. Success The creature is flat-footed until the start of its turn. Failure The creature is stunned 1. Critical Failure The creature is stunned 2. Sudden Charge Two Actions The terror shrike Strides twice. If it ends its movement within melee reach of one creature, it can make a melee Strike against that creature. Tearing Clutch The terror bird's powerful beak can tear through flesh. On a successful beak Strike, the target takes 1 persistent bleed damage. This bleed damage increases to 1d8 on a critical hit. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1335",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 1
+}

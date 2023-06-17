@@ -1,0 +1,99 @@
+{
+ "ac": 13,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 2,
+ "creature_ability": [
+  "Salt Water Vulnerability",
+  "Feed on Blood"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": -2,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 26,
+ "hp_raw": "26 ( negative healing )",
+ "id": "creature-855",
+ "image": [
+  "/Images/Monsters/VoidZombie.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Void Zombie](/Monsters.aspx?ID=855)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA void zombie arises when a humanoid dies from an [akata's](/Monsters.aspx?ID=541) void death affliction. This walking corpse is animated by a larval akata attached to the deceased creature's brain, using a grotesque feeding tendril that emerges from the corpse's mouth to drink blood from its victims.\n\n A void zombie typically exists for only a few months before it collapses and the larval akata crawls free from the motionless shell. When it feels the natural end of its unlife approaching, a void zombie finds a secluded place to vomit forth the nearly mature akata larva, then withers away. The disgorged larva metamorphizes into a full-grown akata several hours later, usually eating the corpse as its first meal.\n\n The name “void zombie” is something of a misnomer; though still compelled by necromantic energies, a void zombie is a host in the life cycle of a parasitic alien, not a mindless, reanimated corpse (despite their similar appearances). The fact that a typical void zombie shares the neutral alignment of the larval akata within, rather than the intrinsically evil nature of other zombies, has caused some scholars to push to reclassify them under other names. Suggestions have included “void dead,” “akata spawn,” or “bloodwalker,” but the visceral and compelling commonplace name has proven difficult to shed.\n\n The driving force behind a void zombie's violence rises from the ravenous hunger of the alien parasite that serves as the channel for its animating negative energies. Necromancers have tried often to duplicate the void zombie, but without a larval akata hosted within, the result is simply a zombie with missing jaws or, at best, one that moves faster than normal. Others have compared a captive void zombie to a captive [yellow musk thrall](/Monsters.aspx?ID=868) in an attempt to discover a potential link between the two— after all, both are animated bodies controlled by a parasitic outside force. Strangely, a void zombie becomes particularly violent when encountering a yellow musk thrall, making direct comparisons of the two creatures particularly difficult, or even dangerous. The fact that a void zombie, unlike a yellow musk thrall, is actually undead may hold some clues as to the source of this strange behavior.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/VoidZombie.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Void Zombie](/Monsters.aspx?ID=855)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 288 <sup>2.0</sup></row>\n\n**Perception** +3; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** -2\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 13 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +3 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 26\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126)\n\n**Weaknesses**\r\nsalt water 5, slashing 2\r\n\r\n**Salt Water Vulnerability** Salt water acts as an extremely strong acid on the larval [akata](/Monsters.aspx?ID=541) inside the void zombie. Full immersion in salt water deals 4d6 acid damage per round. On any round in which the void zombie takes damage due to its salt water weakness, the larval akata retreats to the depths of the void zombie's body, causing the void zombie to become [slowed 1](/Conditions.aspx?ID=35) until the end of its next turn.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +8,\r\n**Damage** 1d6+3 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfeeding tendril +6 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d4+3 piercing plus Feed on Blood\n\n**Feed on Blood** <actions string=\"Single Action\" />  **Requirements** The void zombie's previous action was a successful feeding tendril Strike against the target creature; **Effect** The void zombie uses its feeding tendril to drain blood from the creature struck. The void zombie regains 4 Hit Points, and the creature is [drained 1](/Conditions.aspx?ID=10) until it receives healing of any kind or amount.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Non-Evil Undead</title>\r\n\r\nVoid zombies are unusual in that their animating negative force is provided by a living parasite that survives within their corpses, controlling their nervous systems for defense and to hunt food. As such, the soul of a person who succumbs to an akata's void death is not bound to its rotting corpse at all and travels on to judgment in the [Boneyard](/Planes.aspx?ID=15) unimpeded. Nevertheless, most worshippers of [Pharasma](/Deities.aspx?ID=14) and crusaders against undeath still consider void zombies to be anathema and fight to destroy them.\r\n</aside>",
+ "name": "Void Zombie",
+ "npc": false,
+ "perception": 3,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 3,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 288 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 26 ( negative healing )\r\n\r\n**AC** 13\r\n\r\n**Fort** +7\r\n\r\n**Ref** +3\r\n\r\n**Will** +5\r\n\r\n**Perception** +3\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA void zombie arises when a humanoid dies from an  akata's  void death affliction. This walking corpse is animated by a larval akata attached to the …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 288"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 288 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A void zombie arises when a humanoid dies from an  akata's  void death affliction. This walking corpse is animated by a larval akata attached to the …",
+ "summary_markdown": "A void zombie arises when a humanoid dies from an  akata's  void death affliction. This walking corpse is animated by a larval akata attached to the …",
+ "text": " Void Zombie A void zombie arises when a humanoid dies from an akata's void death affliction. This walking corpse is animated by a larval akata attached to the deceased creature's brain, using a grotesque feeding tendril that emerges from the corpse's mouth to drink blood from its victims. A void zombie typically exists for only a few months before it collapses and the larval akata crawls free from the motionless shell. When it feels the natural end of its unlife approaching, a void zombie finds a secluded place to vomit forth the nearly mature akata larva, then withers away. The disgorged larva metamorphizes into a full-grown akata several hours later, usually eating the corpse as its first meal. The name “void zombie” is something of a misnomer; though still compelled by necromantic energies, a void zombie is a host in the life cycle of a parasitic alien, not a mindless, reanimated corpse (despite their similar appearances). The fact that a typical void zombie shares the neutral alignment of the larval akata within, rather than the intrinsically evil nature of other zombies, has caused some scholars to push to reclassify them under other names. Suggestions have included “void dead,” “akata spawn,” or “bloodwalker,” but the visceral and compelling commonplace name has proven difficult to shed. The driving force behind a void zombie's violence rises from the ravenous hunger of the alien parasite that serves as the channel for its animating negative energies. Necromancers have tried often to duplicate the void zombie, but without a larval akata hosted within, the result is simply a zombie with missing jaws or, at best, one that moves faster than normal. Others have compared a captive void zombie to a captive yellow musk thrall in an attempt to discover a potential link between the two— after all, both are animated bodies controlled by a parasitic outside force. Strangely, a void zombie becomes particularly violent when encountering a yellow musk thrall, making direct comparisons of the two creatures particularly difficult, or even dangerous. The fact that a void zombie, unlike a yellow musk thrall, is actually undead may hold some clues as to the source of this strange behavior. Recall Knowledge - Undead (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Void Zombie Source Bestiary 2 pg. 288 2.0 Perception +3; darkvision Languages Skills Athletics +6 Str +3 Dex -2 Con +2 Int -5 Wis +0 Cha -2 --- AC 13 Fort +7 Ref +3 Will +5 HP 26 (negative healing) Immunities death effects, disease, paralyzed, poison Weaknesses salt water 5, slashing 2 Salt Water Vulnerability Salt water acts as an extremely strong acid on the larval akata inside the void zombie. Full immersion in salt water deals 4d6 acid damage per round. On any round in which the void zombie takes damage due to its salt water weakness, the larval akata retreats to the depths of the void zombie's body, causing the void zombie to become slowed 1 until the end of its next turn. --- Speed 25 feet Melee Single Action fist +8, Damage 1d6+3 bludgeoning Melee Single Action feeding tendril +6 (Agile), Damage 1d4+3 piercing plus Feed on Blood Feed on Blood Single Action Requirements The void zombie's previous action was a successful feeding tendril Strike against the target creature; Effect The void zombie uses its feeding tendril to drain blood from the creature struck. The void zombie regains 4 Hit Points, and the creature is drained 1 until it receives healing of any kind or amount. Non-Evil Undead Void zombies are unusual in that their animating negative force is provided by a living parasite that survives within their corpses, controlling their nervous systems for defense and to hunt food. As such, the soul of a person who succumbs to an akata's void death is not bound to its rotting corpse at all and travels on to judgment in the Boneyard unimpeded. Nevertheless, most worshippers of Pharasma and crusaders against undeath still consider void zombies to be anathema and fight to destroy them. ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Rare",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=855",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "slashing": 2
+ },
+ "weakness_markdown": "salt water 5, slashing 2",
+ "weakness_raw": "salt water 5, slashing 2",
+ "will_save": 5,
+ "wisdom": 0
+}

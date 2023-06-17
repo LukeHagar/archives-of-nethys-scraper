@@ -1,0 +1,96 @@
+{
+ "ac": 18,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 1,
+ "creature_ability": [
+  "Yank",
+  "Constrict",
+  "Hidden Movement",
+  "Strangling Fingers"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 28,
+ "hp_raw": "28",
+ "id": "creature-583",
+ "image": [
+  "/Images/Monsters/Choker.png"
+ ],
+ "intelligence": -3,
+ "language": [
+  "Aklo",
+  "Undercommon"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Choker](/Monsters.aspx?ID=583)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWith long, cartilaginous limbs and gray skin, chokers easily hide in stony alcoves, rocky fissures, and darkened staircases to ambush their prey. The strange little aberrations prefer to pick off weak and solitary creatures, especially those that wander off from their packs or communities. A choker's long, spongy arms are flexible but deceptively strong. The fingers can tighten rapidly and are ridged with spiky, tooth-like structures that provide an incredible grip. A choker typically strangles its prey to death, then drags the body off or dismembers it using crude tools if the body is too big to carry. If confronted or outnumbered, a choker tries to escape, often compressing into a tight passage to get away. Chokers that encounter humanoids exhibit intense curiosity about their culture, society, and the products of art and industry. This interest isn't very deep—it just results in chokers that like killing people and collecting any of their items that seem sophisticated, such as jewelry, nice clothing, or written texts.\n\nChokers sometimes gather in settlements, usually sticking to slums or abandoned structures. These chokers stalk at night, flopping across rooftops, tapping at windows, and scuttling through sewers, gutters, and chimneys to get at prey. An urban choker that finds prey early on its hunt—a wandering pet, a person who is out alone—might spend the rest of the night indulging its curiosity about the products of society. A curious choker might abscond with all sorts of odd items, from tavern signs to library books to roof tiles. A choker usually pilfers only one item at a time, but as its collection grows, it might need to find a larger nest to accommodate its collection, then move its pieces one by one to the new home.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Choker.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Choker](/Monsters.aspx?ID=583)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 51 <sup>2.0</sup></row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** -3\r\n\r\n**Wis** +1\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 28\n\n**Yank** <actions string=\"Reaction\" /> ([manipulate](/Traits.aspx?ID=104)) **Trigger** An enemy targets the choker with an attack; **Effect** The choker tries to pull a creature it has [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) into the path of the attack. The choker attempts an [Athletics](/Skills.aspx?ID=3) check, including its bonus to [Grapple](/Actions.aspx?ID=35). If it succeeds against the grabbed or restrained creature's Fortitude DC, the choker redirects the attack to that creature, and the attacker compares its attack roll result against the new target's AC.<br /> The choker must move the creature into a space adjacent to itself. The creature must also be moved within the attacker's reach against a melee attack or into a space between itself and the attacker against a ranged attack. The choker can't use this ability to make the attacker target itself, even if it's grabbing or restraining the attacker.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\narm +11 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d6+3 bludgeoning plus strangling fingers\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d6+3 bludgeoning, DC 19\r\n\r\n**Hidden Movement**   If the choker starts its turn hidden from or undetected by a creature, that creature is [flat-footed](/Conditions.aspx?ID=16) against the choker's attacks until the end of the turn.\r\n\r\n**Strangling Fingers**   Any creature hit by a choker's arm Strike is automatically [grabbed](/Conditions.aspx?ID=20), and the choker begins to strangle the target. The creature is suffocating and can't speak as long as it's strangled. This prevents it from casting spells with a verbal component or activating items with a command component.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Choker Trinkets</title>\r\n\r\nA choker's nest is small and confined, as the choker prefers. It doesn't tidy its nest, so everything from animal bones to valuable treasures might be within, compacted into one mass. A choker in the wilderness might have a few remnants of society taken from victims who wandered through. These remnants can include candles, maps, or animal traps. Chokers in cities have stolen goods appropriate to their location: books and [scrolls](/Traits.aspx?ID=140) if a library or wizard's college is nearby, steins and pillows near a tavern, or fishhooks and shipping manifests near a dock, for example. Chokers almost never have edible or drinkable items, as they prefer to consume these “delicacies” themselves—even [magical potions](/equipment/consumables/potions) and [alchemical items](/equipment/alchemical-items).\r\n</aside>",
+ "name": "Choker",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 51 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 28\r\n\r\n**AC** 18\r\n\r\n**Fort** +7\r\n\r\n**Ref** +10\r\n\r\n**Will** +7\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith long, cartilaginous limbs and gray skin, chokers easily hide in stony alcoves, rocky fissures, and darkened staircases to ambush their prey. The …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +9",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 51"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 51 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 15,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 15 feet",
+ "speed_raw": "20 feet, climb 15 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "With long, cartilaginous limbs and gray skin, chokers easily hide in stony alcoves, rocky fissures, and darkened staircases to ambush their prey. The …",
+ "summary_markdown": "With long, cartilaginous limbs and gray skin, chokers easily hide in stony alcoves, rocky fissures, and darkened staircases to ambush their prey. The …",
+ "text": " Choker With long, cartilaginous limbs and gray skin, chokers easily hide in stony alcoves, rocky fissures, and darkened staircases to ambush their prey. The strange little aberrations prefer to pick off weak and solitary creatures, especially those that wander off from their packs or communities. A choker's long, spongy arms are flexible but deceptively strong. The fingers can tighten rapidly and are ridged with spiky, tooth-like structures that provide an incredible grip. A choker typically strangles its prey to death, then drags the body off or dismembers it using crude tools if the body is too big to carry. If confronted or outnumbered, a choker tries to escape, often compressing into a tight passage to get away. Chokers that encounter humanoids exhibit intense curiosity about their culture, society, and the products of art and industry. This interest isn't very deep—it just results in chokers that like killing people and collecting any of their items that seem sophisticated, such as jewelry, nice clothing, or written texts. Chokers sometimes gather in settlements, usually sticking to slums or abandoned structures. These chokers stalk at night, flopping across rooftops, tapping at windows, and scuttling through sewers, gutters, and chimneys to get at prey. An urban choker that finds prey early on its hunt—a wandering pet, a person who is out alone—might spend the rest of the night indulging its curiosity about the products of society. A curious choker might abscond with all sorts of odd items, from tavern signs to library books to roof tiles. A choker usually pilfers only one item at a time, but as its collection grows, it might need to find a larger nest to accommodate its collection, then move its pieces one by one to the new home. Recall Knowledge - Aberration (Occultism): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Choker Source Bestiary 2 pg. 51 2.0 Perception +7; darkvision Languages Aklo, Undercommon Skills Athletics +9, Stealth +9 Str +3 Dex +3 Con +1 Int -3 Wis +1 Cha -2 --- AC 18 Fort +7 Ref +10 Will +7 HP 28 Yank Reaction (manipulate) Trigger An enemy targets the choker with an attack; Effect The choker tries to pull a creature it has grabbed or restrained into the path of the attack. The choker attempts an Athletics check, including its bonus to Grapple. If it succeeds against the grabbed or restrained creature's Fortitude DC, the choker redirects the attack to that creature, and the attacker compares its attack roll result against the new target's AC. The choker must move the creature into a space adjacent to itself. The creature must also be moved within the attacker's reach against a melee attack or into a space between itself and the attacker against a ranged attack. The choker can't use this ability to make the attacker target itself, even if it's grabbing or restraining the attacker. --- Speed 20 feet, climb 15 feet Melee Single Action arm +11 (reach 10 feet), Damage 1d6+3 bludgeoning plus strangling fingers Constrict Single Action 1d6+3 bludgeoning, DC 19 Hidden Movement If the choker starts its turn hidden from or undetected by a creature, that creature is flat-footed against the choker's attacks until the end of the turn. Strangling Fingers Any creature hit by a choker's arm Strike is automatically grabbed, and the choker begins to strangle the target. The creature is suffocating and can't speak as long as it's strangled. This prevents it from casting spells with a verbal component or activating items with a command component. Choker Trinkets A choker's nest is small and confined, as the choker prefers. It doesn't tidy its nest, so everything from animal bones to valuable treasures might be within, compacted into one mass. A choker in the wilderness might have a few remnants of society taken from victims who wandered through. These remnants can include candles, maps, or animal traps. Chokers in cities have stolen goods appropriate to their location: books and scrolls if a library or wizard's college is nearby, steins and pillows near a tavern, or fishhooks and shipping manifests near a dock, for example. Chokers almost never have edible or drinkable items, as they prefer to consume these “delicacies” themselves—even magical potions and alchemical items. ",
+ "trait": [
+  "Aberration",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=583",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 1
+}

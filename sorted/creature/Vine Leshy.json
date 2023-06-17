@@ -1,0 +1,101 @@
+{
+ "ac": 15,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 1,
+ "creature_ability": [
+  "Verdant Burst",
+  "Change Shape",
+  "Extend Vines"
+ ],
+ "creature_family": "Leshy",
+ "creature_family_markdown": "[Leshy](/MonsterFamilies.aspx?ID=67)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 3,
+ "hp": 13,
+ "hp_raw": "13",
+ "id": "creature-1218",
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Druidic",
+  "Sylvan",
+  "<%SPELLS%294%%><i>speak with plants</i><%END> (plants with vines only)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Druidic](/Languages.aspx?ID=23), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294) (plants with vines only)",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Vine Leshy](/Monsters.aspx?ID=1218)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIrrepressible vine leshys love to explore and collect tales to share. They're curious without being reckless. Other cultures interest them greatly, and they can build friendships quickly as they trade stories with traveling companions. They also feel a pull toward protection, much like other leshys. Vine leshys, though, tend to protect a ward for only a brief period of danger before the leshy's wanderlust drives them onward into the unknown.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Vine Leshy](/Monsters.aspx?ID=1218)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Leshy\" url=\"/Traits.aspx?ID=225\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 160</row>\n\n**Perception** +6; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Druidic](/Languages.aspx?ID=23), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294) (plants with vines only)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +4, [Diplomacy](/Skills.aspx?ID=6) +5, [Nature](/Skills.aspx?ID=10) +4, [Performance](/Skills.aspx?ID=12) +5, [Society](/Skills.aspx?ID=14) +1, [Survival](/Skills.aspx?ID=16) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +1\r\n\r\n**Con** +1\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[Spear](/Weapons.aspx?ID=10)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +3 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 13\n\n**Verdant Burst** When a vine leshy dies, a burst of primal energy explodes from its body, restoring 1d4 Hit Points to each [plant](/Traits.aspx?ID=125) creature in a 30-foot emanation. This area fills with tangling vines, becoming difficult terrain. If the terrain is not a viable environment for the vines, they wither after 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspear +6,\r\n**Damage** 1d6+2 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspear +5 ([thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+2 piercing\r\n\r\n**Primal Innate Spells** DC 15\r\n- **4th**\r\n[Speak with Plants](/Spells.aspx?ID=294)\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The vine leshy transforms into a Small plant with vines. This ability otherwise uses the effects of [_tree shape_](/Spells.aspx?ID=342).\r\n\r\n**Extend Vines** <actions string=\"Single Action\" />  The vine leshy Interacts to extend or shorten their arms. With limbs extended, the vine leshy has a 10-foot reach. The leshy can't use weapons that already have [reach](/Traits.aspx?ID=192) in this way, because they would be unable to keep their balance.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-67\" />",
+ "name": "Vine Leshy",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Leshy\" url=\"/Traits.aspx?ID=225\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 160</row>\r\n\r\n**Creature Family** [Leshy](/MonsterFamilies.aspx?ID=67)\r\n\r\n<row gap=\"medium\">\r\n**HP** 13\r\n\r\n**AC** 15\r\n\r\n**Fort** +3\r\n\r\n**Ref** +5\r\n\r\n**Will** +8\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIrrepressible vine leshys love to explore and collect tales to share. They're curious without being reckless. Other cultures interest them greatly, …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +4",
+  "Diplomacy +5",
+  "Nature +4",
+  "Performance +5",
+  "Society +1",
+  "Survival +4"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +4, [Diplomacy](/Skills.aspx?ID=6) +5, [Nature](/Skills.aspx?ID=10) +4, [Performance](/Skills.aspx?ID=12) +5, [Society](/Skills.aspx?ID=14) +1, [Survival](/Skills.aspx?ID=16) +4",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 160"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 160</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet",
+ "speed_raw": "20 feet, climb 20 feet",
+ "spell": [
+  "Speak with Plants"
+ ],
+ "spell_markdown": "[Speak with Plants](/Spells.aspx?ID=294)",
+ "strength": 2,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Irrepressible vine leshys love to explore and collect tales to share. They're curious without being reckless. Other cultures interest them greatly, …",
+ "summary_markdown": "Irrepressible vine leshys love to explore and collect tales to share. They're curious without being reckless. Other cultures interest them greatly, …",
+ "text": " Vine Leshy Irrepressible vine leshys love to explore and collect tales to share. They're curious without being reckless. Other cultures interest them greatly, and they can build friendships quickly as they trade stories with traveling companions. They also feel a pull toward protection, much like other leshys. Vine leshys, though, tend to protect a ward for only a brief period of danger before the leshy's wanderlust drives them onward into the unknown. Recall Knowledge - Plant (Nature): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Vine Leshy Source Bestiary 3 pg. 160 Perception +6; low-light vision Languages Common, Druidic, Sylvan; speak with plants (plants with vines only) Skills Athletics +4, Diplomacy +5, Nature +4, Performance +5, Society +1, Survival +4 Str +2 Dex +1 Con +1 Int -1 Wis +2 Cha +3 Items Spear --- AC 15 Fort +3 Ref +5 Will +8 HP 13 Verdant Burst When a vine leshy dies, a burst of primal energy explodes from its body, restoring 1d4 Hit Points to each plant creature in a 30-foot emanation. This area fills with tangling vines, becoming difficult terrain. If the terrain is not a viable environment for the vines, they wither after 24 hours. --- Speed 20 feet, climb 20 feet Melee Single Action spear +6, Damage 1d6+2 piercing Ranged Single Action spear +5 (thrown 20 feet), Damage 1d6+2 piercing Primal Innate Spells DC 15 - 4th Speak with Plants Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) The vine leshy transforms into a Small plant with vines. This ability otherwise uses the effects of tree shape . Extend Vines Single Action The vine leshy Interacts to extend or shorten their arms. With limbs extended, the vine leshy has a 10-foot reach. The leshy can't use weapons that already have reach in this way, because they would be unable to keep their balance. ",
+ "trait": [
+  "Leshy",
+  "Plant",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Leshy](/Traits.aspx?ID=225), [Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Leshy",
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1218",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 2
+}

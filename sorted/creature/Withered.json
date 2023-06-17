@@ -1,0 +1,106 @@
+{
+ "ac": 22,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Slow",
+  "Sneak Attack",
+  "Sudden Surge"
+ ],
+ "creature_family": "Zombie",
+ "creature_family_markdown": "[Zombie](/MonsterFamilies.aspx?ID=103)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 80,
+ "hp_raw": "80 ( negative healing )",
+ "id": "creature-1922",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Withered](/Monsters.aspx?ID=1922)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIf a [husk zombie](/Monsters.aspx?ID=1919) survives for several years, their body continues to dry out, their flesh hardens, and their eyes turn into pale, glowing orbs set deep into otherwise empty sockets. Known as the withered, these zombies are cunning, capable of forming complex plans and even setting traps utilizing their less-intelligent brethren to lure the unsuspecting into deadly ambushes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Withered](/Monsters.aspx?ID=1922)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 172</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14, [Deception](/Skills.aspx?ID=5) +9, [Intimidation](/Skills.aspx?ID=7) +9, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Slow** A withered is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\r\n\r\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3) (6), [Leather Armor](/Armor.aspx?ID=4), [Shortsword](/Weapons.aspx?ID=43)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 80\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +14 ([Agile](/Traits.aspx?ID=170), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+9 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +14 ([Agile](/Traits.aspx?ID=170), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+9 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +14,\r\n**Damage** 1d8+7 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +13 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+9 piercing\n\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The withered zombie deals an additional 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Sudden Surge** <actions string=\"Free Action\" />  **Trigger** The withered zombie's turn begins; **Effect** The withered zombie has a sudden burst of speed. They are [quickened](/Conditions.aspx?ID=32) this turn and can use the extra action only to Stride or Strike. If the withered zombie's first action this turn is a melee Strike, the target is [flat-footed](/Conditions.aspx?ID=16) against the attack. The withered zombie can't use Sudden Surge again for 1d4 rounds.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-103\" />",
+ "name": "Withered",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 172</row>\r\n\r\n**Creature Family** [Zombie](/MonsterFamilies.aspx?ID=103)\r\n\r\n<row gap=\"medium\">\r\n**HP** 80 ( negative healing )\r\n\r\n**AC** 22\r\n\r\n**Fort** +11\r\n\r\n**Ref** +13\r\n\r\n**Will** +9\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIf a  husk zombie  survives for several years, their body continues to dry out, their flesh hardens, and their eyes turn into pale, glowing orbs set …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +14",
+  "Deception +9",
+  "Intimidation +9",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14, [Deception](/Skills.aspx?ID=5) +9, [Intimidation](/Skills.aspx?ID=7) +9, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 172"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 172</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "If a  husk zombie  survives for several years, their body continues to dry out, their flesh hardens, and their eyes turn into pale, glowing orbs set …",
+ "summary_markdown": "If a  husk zombie  survives for several years, their body continues to dry out, their flesh hardens, and their eyes turn into pale, glowing orbs set …",
+ "text": " Withered If a husk zombie survives for several years, their body continues to dry out, their flesh hardens, and their eyes turn into pale, glowing orbs set deep into otherwise empty sockets. Known as the withered, these zombies are cunning, capable of forming complex plans and even setting traps utilizing their less-intelligent brethren to lure the unsuspecting into deadly ambushes. Recall Knowledge - Undead (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Withered Source Book of the Dead pg. 172 Perception +11; darkvision Languages Common, Necril Skills Athletics +14, Deception +9, Intimidation +9, Stealth +13 Str +5 Dex +4 Con +4 Int +0 Wis +2 Cha +0 Slow A withered is permanently slowed 1 and can't use reactions. Items Dagger (6), Leather Armor, Shortsword --- AC 22 Fort +11 Ref +13 Will +9 HP 80 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses positive 5 --- Speed 35 feet Melee Single Action shortsword +14 (Agile, versatile S), Damage 1d6+9 piercing Melee Single Action dagger +14 (Agile, versatile S), Damage 1d4+9 piercing Melee Single Action fist +14, Damage 1d8+7 bludgeoning Ranged Single Action dagger +13 (Agile, thrown 10 feet, versatile S), Damage 1d4+9 piercing Sneak Attack The withered zombie deals an additional 2d6 precision damage to flat-footed creatures. Sudden Surge Free Action Trigger The withered zombie's turn begins; Effect The withered zombie has a sudden burst of speed. They are quickened this turn and can use the extra action only to Stride or Strike. If the withered zombie's first action this turn is a melee Strike, the target is flat-footed against the attack. The withered zombie can't use Sudden Surge again for 1d4 rounds. ",
+ "trait": [
+  "Undead",
+  "Zombie",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Undead",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1922",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "positive": 5
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 5",
+ "weakness_raw": " positive  5",
+ "will_save": 9,
+ "wisdom": 2
+}

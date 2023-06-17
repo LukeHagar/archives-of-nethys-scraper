@@ -1,0 +1,105 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 1,
+ "creature_ability": [
+  "Mage Bond",
+  "Transcribe",
+  "Inkstain"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-1288",
+ "image": [
+  "/Images/Monsters/Scalescribe.png"
+ ],
+ "intelligence": 4,
+ "language": [
+  "Aklo",
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Scalescribe](/Monsters.aspx?ID=1288)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nOften seen at the sides of spellcasters, scalescribes are tiny, snakelike creatures with numerous hands that usually hold a multitude of fountain pens in various ink colors. The words scrawled across their bodies shift depending on what texts they've encountered recently. Scalescribes have a fondness for language, especially magical language, and make their homes in libraries or other places of learning.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Scalescribe.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Scalescribe](/Monsters.aspx?ID=1288)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 226</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +11, [Library Lore](/Skills.aspx?ID=8) +11, [Occultism](/Skills.aspx?ID=11) +9, [Scribing Lore](/Skills.aspx?ID=8) +11, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** -2\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** +4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Mage Bond** After performing a 1-hour ritual, a scalescribe can bond with one willing creature capable of Casting Spells. The scalescribe can [Aid](/Actions.aspx?ID=75) their bonded caster in [Crafting](/Skills.aspx?ID=4) a [scroll](/equipment/consumables/scrolls), and they can make their Transcribed spell available to the caster so long as the spell is of the caster's tradition. A bonded prepared caster can prepare the spell. A bonded spontaneous caster can add the spell to their spell repertoire during their daily preparations, and it remains as long as the Transcribed scroll exists.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +11 \r\n\r\n+2 status to all saves vs. [linguistic](/Traits.aspx?ID=101) effects\r\n</row>\r\n\r\n**HP** 45\n\n**Transcribe** <actions string=\"Reaction\" /> **Trigger** Another creature targets the scalescribe with a spell requiring verbal components; **Effect** The scalescribe attempts to copy the incantation onto a scroll by attempting a [counteract](/Rules.aspx?ID=371) check (counteract level 2, counteract modifier +10) with the following effects instead of the normal effects of counteracting. The spell still affects the scalescribe, regardless of the results of this check. The scalescribe can Cast a Spell from any scroll they Transcribe as if it were on their spell list. Transcribing a new scroll renders any previously Transcribed scroll inert. <br />**Critical Success** If the triggering spell's level was no more than 3 higher than the scalescribe's counteract level, the scalescribe captures a copy of the spell in a scroll that appears in their hand. This scroll can be used normally but fades after 24 hours if not used before then. <br />**Success** As critical success, but only if the spell's level is no more than 1 higher than the scalescribe's counteract level. <br />**Failure** As critical success, but only if the spell's level is lower than the scalescribe's counteract level. <br />**Critical Failure** The scalescribe fails to copy the spell.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfountain pen +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d6+2 piercing plus inkstain\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nmorpheme glyph +10 ([Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [range 40 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d6 force\r\n\r\n**Arcane Innate Spells** DC 20\r\n- **Cantrips (2nd)**\r\n[Detect Magic](/Spells.aspx?ID=66), [Message](/Spells.aspx?ID=190), [Read Aura](/Spells.aspx?ID=246), [Sigil](/Spells.aspx?ID=286)\r\n- **2nd**\r\n[Comprehend Language](/Spells.aspx?ID=46) (×3; self only), [Dispel Magic](/Spells.aspx?ID=78)\r\n- **3rd**\r\n[Secret Page](/Spells.aspx?ID=270)\r\n\r\n**Inkstain**   When the scalescribe deals damage to a creature with their fountain pen, the creature takes 1d4 [persistent poison damage](/Conditions.aspx?ID=29). When a creature taking this damage attempts to take an action with the [concentrate](/Traits.aspx?ID=32) trait, it must succeed at a DC 5 flat check or the action is disrupted.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Scalescribe Assistants</title>\r\n\r\nDue to their scribing capabilities, scalescribes are highly sought after as assistants for [wizards](/Classes.aspx?ID=12) and other scholarly spellcasters. Though rarely deigning to become true familiars, scalescribes keenly work with those they deem “clever,” as long as their friend helps them discover new words\r\n</aside>",
+ "name": "Scalescribe",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 226</row>\n\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 18\r\n\r\n**Fort** +6\r\n\r\n**Ref** +10\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOften seen at the sides of spellcasters, scalescribes are tiny, snakelike creatures with numerous hands that usually hold a multitude of fountain …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Arcana +11",
+  "Library Lore +11",
+  "Occultism +9",
+  "Scribing Lore +11",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +11, [Library Lore](/Skills.aspx?ID=8) +11, [Occultism](/Skills.aspx?ID=11) +9, [Scribing Lore](/Skills.aspx?ID=8) +11, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 226"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 226</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell": [
+  "Secret Page",
+  "Comprehend Language",
+  "Dispel Magic",
+  "Detect Magic",
+  "Message",
+  "Read Aura",
+  "Sigil"
+ ],
+ "spell_markdown": "[Comprehend Language](/Spells.aspx?ID=46), [Detect Magic](/Spells.aspx?ID=66), [Dispel Magic](/Spells.aspx?ID=78), [Message](/Spells.aspx?ID=190), [Read Aura](/Spells.aspx?ID=246), [Secret Page](/Spells.aspx?ID=270), [Sigil](/Spells.aspx?ID=286)",
+ "stealth": "8",
+ "strength": -2,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Often seen at the sides of spellcasters, scalescribes are tiny, snakelike creatures with numerous hands that usually hold a multitude of fountain …",
+ "summary_markdown": "Often seen at the sides of spellcasters, scalescribes are tiny, snakelike creatures with numerous hands that usually hold a multitude of fountain …",
+ "text": " Scalescribe Often seen at the sides of spellcasters, scalescribes are tiny, snakelike creatures with numerous hands that usually hold a multitude of fountain pens in various ink colors. The words scrawled across their bodies shift depending on what texts they've encountered recently. Scalescribes have a fondness for language, especially magical language, and make their homes in libraries or other places of learning. Recall Knowledge - Aberration (Occultism): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Scalescribe Source Bestiary 3 pg. 226 Perception +11; darkvision Languages Aklo, Common, Draconic Skills Arcana +11, Library Lore +11, Occultism +9, Scribing Lore +11, Stealth +8 Str -2 Dex +3 Con +1 Int +4 Wis +4 Cha +0 Mage Bond After performing a 1-hour ritual, a scalescribe can bond with one willing creature capable of Casting Spells. The scalescribe can Aid their bonded caster in Crafting a scroll, and they can make their Transcribed spell available to the caster so long as the spell is of the caster's tradition. A bonded prepared caster can prepare the spell. A bonded spontaneous caster can add the spell to their spell repertoire during their daily preparations, and it remains as long as the Transcribed scroll exists. --- AC 18 Fort +6 Ref +10 Will +11 +2 status to all saves vs. linguistic effects HP 45 Transcribe Reaction Trigger Another creature targets the scalescribe with a spell requiring verbal components; Effect The scalescribe attempts to copy the incantation onto a scroll by attempting a counteract check (counteract level 2, counteract modifier +10) with the following effects instead of the normal effects of counteracting. The spell still affects the scalescribe, regardless of the results of this check. The scalescribe can Cast a Spell from any scroll they Transcribe as if it were on their spell list. Transcribing a new scroll renders any previously Transcribed scroll inert. Critical Success If the triggering spell's level was no more than 3 higher than the scalescribe's counteract level, the scalescribe captures a copy of the spell in a scroll that appears in their hand. This scroll can be used normally but fades after 24 hours if not used before then. Success As critical success, but only if the spell's level is no more than 1 higher than the scalescribe's counteract level. Failure As critical success, but only if the spell's level is lower than the scalescribe's counteract level. Critical Failure The scalescribe fails to copy the spell. --- Speed 20 feet Melee Single Action fountain pen +10 (Agile, Finesse, Magical), Damage 1d6+2 piercing plus inkstain Ranged Single Action morpheme glyph +10 (Evocation, Magical, range 40 feet), Damage 3d6 force Arcane Innate Spells DC 20 - Cantrips (2nd) Detect Magic, Message, Read Aura, Sigil - 2nd Comprehend Language (×3; self only), Dispel Magic - 3rd Secret Page Inkstain When the scalescribe deals damage to a creature with their fountain pen, the creature takes 1d4 persistent poison damage. When a creature taking this damage attempts to take an action with the concentrate trait, it must succeed at a DC 5 flat check or the action is disrupted. Scalescribe Assistants Due to their scribing capabilities, scalescribes are highly sought after as assistants for wizards and other scholarly spellcasters. Though rarely deigning to become true familiars, scalescribes keenly work with those they deem “clever,” as long as their friend helps them discover new words ",
+ "trait": [
+  "Aberration",
+  "N",
+  "Tiny"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1288",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 4
+}

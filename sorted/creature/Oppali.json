@@ -1,0 +1,97 @@
+{
+ "ac": 30,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 3,
+ "creature_ability": [
+  "Soundsense",
+  "Energizing Incompetence",
+  "Drain Luck",
+  "Trumpet Blast"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-2522",
+ "image": [
+  "/Images/Monsters/Oppali.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Oppali](/Monsters.aspx?ID=2522)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn oppali is a tenacious, twisting vine with white, trumpet-shaped flowers that grows in temperate and tropical regions. Stories passed down through generations refer to the oppali as a “bad luck vine” and warn against letting one take over a copse or garden, lest “your luck drain away like water down a hole.” This folklore contains more wisdom than most farmers or settlers realize.\n\n Oppalis are usually 30 feet long, but they twist and coil on themselves so much that they occupy a space not much larger than a horse.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Oppali.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Oppali](/Monsters.aspx?ID=2522)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #190: The Choosing](/Sources.aspx?ID=198) pg. 89</row>\n\n**Perception** +19; [low-light vision](/MonsterAbilities.aspx?ID=23), soundsense (precise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +21, [Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +7\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Soundsense** An oppali's sense of hearing is a [precise sense](/Rules.aspx?ID=411) to a range of 60 feet.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 175\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 10\r\n\r\n**Energizing Incompetence** <actions string=\"Reaction\" /> **Trigger** A creature within 30 feet critically fails an attack against the oppali; **Effect** The attack instead becomes a failure, and the oppali becomes [quickened 1](/Conditions.aspx?ID=32) for 1 round. It can use this extra action to Step, Stride, or Strike.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nvine +23 ([Finesse](/Traits.aspx?ID=179), [reach 15 feet](/Traits.aspx?ID=192), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 2d8+11 bludgeoning plus drain luck\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nstaccato blast +23 ([range 60 feet](/Traits.aspx?ID=248), [Sonic](/Traits.aspx?ID=147)),\r\n**Damage** 4d6 sonic\n\n**Drain Luck**  ([Divination](/Traits.aspx?ID=47), [Mental](/Traits.aspx?ID=106), [Misfortune](/Traits.aspx?ID=110), [Primal](/Traits.aspx?ID=134)) A creature other than an [animal](/Traits.aspx?ID=9) or [plant](/Traits.aspx?ID=125) hit by an oppali's vine Strike must attempt a DC 29 Fortitude saving throw twice, taking the lower result as the actual result.<br /> **Critical Success** The creature is unaffected and is temporarily immune to Drain Luck for 24 hours.<br /> **Success** The creature takes 2d6 poison damage. Until the start of the creature's next turn, the creature must roll twice and take the worse result on all checks.<br /> **Failure** The creature takes 2d6 [persistent poison](/Conditions.aspx?ID=29) damage. For 1 round, the creature must roll twice and take the worse result on all checks.<br /> **Critical Failure** The creature takes 4d6 persistent poison damage. For 1 minute, the creature must roll twice and take the worse result on all checks.\r\n\r\n**Trumpet Blast** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134), [Sonic](/Traits.aspx?ID=147)) The oppali emits a massive blast of discordant noise that deals 9d8 sonic damage to creatures within a 60-foot cone (DC 29 [basic](/Rules.aspx?ID=329) Fortitude save). Creatures who fail the save are also [deafened](/Conditions.aspx?ID=8) for 1 round. The oppali can't use its Trumpet Blast again for 1d4 rounds or until it takes at least 20 points of sonic damage from a single source (whichever comes first).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Oppali Trumpets</title>\r\n\r\nAn oppali's tough trumpets are useful for creating [thunderstones](/Equipment.aspx?ID=79). Incorporating crushed oppali trumpet into crafting the thunderstone grants a +2 item bonus to the [Crafting](/Skills.aspx?ID=4) check, provided that this material makes up at least half of the raw materials used for the thunderstone. With a successful DC 27 [Survival](/Skills.aspx?ID=16) check, a character harvests 5d20 gp of this raw material from a defeated oppali (double on a critical success, half on a failure, and none at all from a critical failure).\r\n</aside>",
+ "name": "Oppali",
+ "npc": false,
+ "perception": 19,
+ "rarity": "rare",
+ "reflex_save": 21,
+ "release_date": "2023-04-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #190: The Choosing](/Sources.aspx?ID=198) pg. 89</row>\n\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 30\r\n\r\n**Fort** +19\r\n\r\n**Ref** +21\r\n\r\n**Will** +17\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn oppali is a tenacious, twisting vine with white, trumpet-shaped flowers that grows in temperate and tropical regions. Stories passed down through …\r\n</summary>",
+ "sense": " low-light vision , soundsense (precise) 60 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), soundsense (precise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +21",
+  "Athletics +19",
+  "Stealth +21"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +21, [Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +21",
+ "source": [
+  "Pathfinder #190: The Choosing"
+ ],
+ "source_raw": [
+  "Pathfinder #190: The Choosing pg. 89"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Stolen Fate",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #190: The Choosing](/Sources.aspx?ID=198) pg. 89</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "spoilers": "Stolen Fate",
+ "stealth": "21",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "An oppali is a tenacious, twisting vine with white, trumpet-shaped flowers that grows in temperate and tropical regions. Stories passed down through …",
+ "summary_markdown": "An oppali is a tenacious, twisting vine with white, trumpet-shaped flowers that grows in temperate and tropical regions. Stories passed down through …",
+ "text": " Oppali An oppali is a tenacious, twisting vine with white, trumpet-shaped flowers that grows in temperate and tropical regions. Stories passed down through generations refer to the oppali as a “bad luck vine” and warn against letting one take over a copse or garden, lest “your luck drain away like water down a hole.” This folklore contains more wisdom than most farmers or settlers realize. Oppalis are usually 30 feet long, but they twist and coil on themselves so much that they occupy a space not much larger than a horse. Recall Knowledge - Plant (Nature): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Oppali Source Pathfinder #190: The Choosing pg. 89 Perception +19; low-light vision, soundsense (precise) 60 feet Languages Skills Acrobatics +21, Athletics +19, Stealth +21 Str +5 Dex +7 Con +3 Int -4 Wis +3 Cha -1 Soundsense An oppali's sense of hearing is a precise sense to a range of 60 feet. --- AC 30 Fort +19 Ref +21 Will +17 HP 175 Weaknesses fire 10 Energizing Incompetence Reaction Trigger A creature within 30 feet critically fails an attack against the oppali; Effect The attack instead becomes a failure, and the oppali becomes quickened 1 for 1 round. It can use this extra action to Step, Stride, or Strike. --- Speed 20 feet Melee Single Action vine +23 (Finesse, reach 15 feet, Trip), Damage 2d8+11 bludgeoning plus drain luck Ranged Single Action staccato blast +23 (range 60 feet, Sonic), Damage 4d6 sonic Drain Luck (Divination, Mental, Misfortune, Primal) A creature other than an animal or plant hit by an oppali's vine Strike must attempt a DC 29 Fortitude saving throw twice, taking the lower result as the actual result. Critical Success The creature is unaffected and is temporarily immune to Drain Luck for 24 hours. Success The creature takes 2d6 poison damage. Until the start of the creature's next turn, the creature must roll twice and take the worse result on all checks. Failure The creature takes 2d6 persistent poison damage. For 1 round, the creature must roll twice and take the worse result on all checks. Critical Failure The creature takes 4d6 persistent poison damage. For 1 minute, the creature must roll twice and take the worse result on all checks. Trumpet Blast Two Actions (Evocation, Primal, Sonic) The oppali emits a massive blast of discordant noise that deals 9d8 sonic damage to creatures within a 60-foot cone (DC 29 basic Fortitude save). Creatures who fail the save are also deafened for 1 round. The oppali can't use its Trumpet Blast again for 1d4 rounds or until it takes at least 20 points of sonic damage from a single source (whichever comes first). Oppali Trumpets An oppali's tough trumpets are useful for creating thunderstones. Incorporating crushed oppali trumpet into crafting the thunderstone grants a +2 item bonus to the Crafting check, provided that this material makes up at least half of the raw materials used for the thunderstone. With a successful DC 27 Survival check, a character harvests 5d20 gp of this raw material from a defeated oppali (double on a critical success, half on a failure, and none at all from a critical failure). ",
+ "trait": [
+  "Plant",
+  "Rare",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Plant",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2522",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 10",
+ "weakness_raw": " fire  10",
+ "will_save": 17,
+ "wisdom": 3
+}

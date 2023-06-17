@@ -1,0 +1,108 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Electrified Blood",
+  "Ball Lightning Breath",
+  "Briny Wound",
+  "Capsize",
+  "Draconic Frenzy",
+  "Speed Surge"
+ ],
+ "creature_family": "Drake",
+ "creature_family_markdown": "[Drake](/MonsterFamilies.aspx?ID=36)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 95,
+ "hp_raw": "95",
+ "id": "creature-641",
+ "image": [
+  "/Images/Monsters/Drake_SeaDrake.png"
+ ],
+ "immunity": [
+  "electricity",
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "electricity, [paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -1,
+ "language": [
+  "Draconic"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Sea Drake](/Monsters.aspx?ID=641)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLong and slender, sea drakes have fins down the length of their backs and webbing between their talons, making them just as adapted for gliding through ocean waves as the skies above. More solitary than most drakes, they hunt and live alone. Although most sea drakes make their roosts high on ocean-facing cliffs, it isn't unheard of for them to dwell in underwater caves, living entirely aquatic lives.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drake_SeaDrake.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Sea Drake](/Monsters.aspx?ID=641)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 101 <sup>2.0</sup></row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +16, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 95\n\n**Immunities**\r\nelectricity, [paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)\n\n**Electrified Blood** <actions string=\"Reaction\" /> ([electricity](/Traits.aspx?ID=56)) **Trigger** An adjacent creature deals piercing or slashing damage to the sea drake; **Effect** An arc of electricity courses through the sea drake's blood. The triggering creature takes 1d6 electricity damage.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, fly 40 feet, swim 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +17,\r\n**Damage** 2d8+9 piercing plus briny wound\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +17 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+9 bludgeoning\n\n**Ball Lightning Breath** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Electricity](/Traits.aspx?ID=56), [Evocation](/Traits.aspx?ID=65)) The sea drake spews a ball of electricity that strikes a primary target within 100 feet, dealing 7d6 electricity damage (DC 24 basic Reflex save). The lightning then arcs to up to three secondary targets within 30 feet of the primary target, striking the closest available targets first. The secondary bolts each strike one secondary target and deal the same rolled damage value as the primary bolt (DC 22 basic Reflex save). The sea drake can't use Ball Lightning Breath again for 1d6 rounds.\r\n\r\n**Briny Wound**   A sea drake's saliva carries a large quantity of salt, making its bite wounds even more painful. When a creature takes damage from a sea drake's jaws Strike, the creature must attempt a DC 24 Fortitude save; the creature is then temporarily immune to briny wound for 1 minute. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [sickened 1](/Conditions.aspx?ID=34). <br />**Failure** The creature is sickened 2. <br />**Critical Failure** The creature is sickened 2 and slowed 1 as long as it's sickened.\r\n\r\n**Capsize** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) The drake tries to capsize an adjacent aquatic vessel of its size or smaller. The drake must succeed at an [Athletics](/Skills.aspx?ID=3) check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the drake) or the pilot's [Sailing Lore](/Skills.aspx?ID=8) DC, whichever is higher.\r\n\r\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The sea drake makes one jaws Strike and two tail Strikes in any order.\r\n\r\n**Speed Surge** <actions string=\"Single Action\" />  **Frequency** three times per day; **Effect** The sea drake Strides, [Flies](/Actions.aspx?ID=47), or [Swims](/Actions.aspx?ID=39) twice.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-36\" />",
+ "name": "Sea Drake",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 101 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Drake](/MonsterFamilies.aspx?ID=36)\r\n\r\n<row gap=\"medium\">\r\n**HP** 95\r\n\r\n**AC** 24\r\n\r\n**Fort** +16\r\n\r\n**Ref** +14\r\n\r\n**Will** +12\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLong and slender, sea drakes have fins down the length of their backs and webbing between their talons, making them just as adapted for gliding …\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +16",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +16, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 101"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 101 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 40,
+  "land": 15,
+  "max": 50,
+  "swim": 50
+ },
+ "speed_markdown": "15 feet, fly 40 feet, swim 50 feet",
+ "speed_raw": "15 feet, fly 40 feet, swim 50 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Long and slender, sea drakes have fins down the length of their backs and webbing between their talons, making them just as adapted for gliding …",
+ "summary_markdown": "Long and slender, sea drakes have fins down the length of their backs and webbing between their talons, making them just as adapted for gliding …",
+ "text": " Sea Drake Long and slender, sea drakes have fins down the length of their backs and webbing between their talons, making them just as adapted for gliding through ocean waves as the skies above. More solitary than most drakes, they hunt and live alone. Although most sea drakes make their roosts high on ocean-facing cliffs, it isn't unheard of for them to dwell in underwater caves, living entirely aquatic lives. Recall Knowledge - Dragon (Arcana): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Sea Drake Source Bestiary 2 pg. 101 2.0 Perception +14; darkvision, scent (imprecise) 30 feet Languages Draconic Skills Acrobatics +14, Athletics +16, Stealth +12 Str +6 Dex +2 Con +4 Int -1 Wis +2 Cha +0 --- AC 24 Fort +16 Ref +14 Will +12 HP 95 Immunities electricity, paralyzed, sleep Electrified Blood Reaction (electricity) Trigger An adjacent creature deals piercing or slashing damage to the sea drake; Effect An arc of electricity courses through the sea drake's blood. The triggering creature takes 1d6 electricity damage. --- Speed 15 feet, fly 40 feet, swim 50 feet Melee Single Action jaws +17, Damage 2d8+9 piercing plus briny wound Melee Single Action tail +17 (Agile, reach 10 feet), Damage 2d6+9 bludgeoning Ball Lightning Breath Two Actions (Arcane, Electricity, Evocation) The sea drake spews a ball of electricity that strikes a primary target within 100 feet, dealing 7d6 electricity damage (DC 24 basic Reflex save). The lightning then arcs to up to three secondary targets within 30 feet of the primary target, striking the closest available targets first. The secondary bolts each strike one secondary target and deal the same rolled damage value as the primary bolt (DC 22 basic Reflex save). The sea drake can't use Ball Lightning Breath again for 1d6 rounds. Briny Wound A sea drake's saliva carries a large quantity of salt, making its bite wounds even more painful. When a creature takes damage from a sea drake's jaws Strike, the creature must attempt a DC 24 Fortitude save; the creature is then temporarily immune to briny wound for 1 minute. Critical Success The creature is unaffected. Success The creature is sickened 1. Failure The creature is sickened 2. Critical Failure The creature is sickened 2 and slowed 1 as long as it's sickened. Capsize Single Action (Attack) The drake tries to capsize an adjacent aquatic vessel of its size or smaller. The drake must succeed at an Athletics check with a DC of 25 (reduced by 5 for each size smaller the vessel is than the drake) or the pilot's Sailing Lore DC, whichever is higher. Draconic Frenzy Two Actions The sea drake makes one jaws Strike and two tail Strikes in any order. Speed Surge Single Action Frequency three times per day; Effect The sea drake Strides, Flies, or Swims twice. ",
+ "trait": [
+  "Amphibious",
+  "Dragon",
+  "Water",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Dragon](/Traits.aspx?ID=50), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Amphibious",
+  "Dragon",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=641",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 2
+}

@@ -1,0 +1,115 @@
+{
+ "ac": 18,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Destructive Croak",
+  "Drowning Drone",
+  "Swamp Stride",
+  "Terrifying Croak",
+  "Tongue Grab"
+ ],
+ "creature_family": "Boggard",
+ "creature_family_markdown": "[Boggard](/MonsterFamilies.aspx?ID=16)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-56",
+ "image": [
+  "/Images/Monsters/Boggard_BoggardSwampseer.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Abyssal",
+  "Boggard",
+  "Common"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Boggard](/Languages.aspx?ID=27), [Common](/Languages.aspx?ID=1)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Boggard Swampseer](/Monsters.aspx?ID=56)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Boggard_BoggardSwampseer.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Boggard Swampseer](/Monsters.aspx?ID=56)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Boggard\" url=\"/Traits.aspx?ID=209\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 45</row>\n\n**Perception** +11; darkvision\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Boggard](/Languages.aspx?ID=27), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +8, [Medicine](/Skills.aspx?ID=9) +9, [Nature](/Skills.aspx?ID=10) +11, [Performance](/Skills.aspx?ID=12) +8, [Religion](/Skills.aspx?ID=13) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +0\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[Staff](/Weapons.aspx?ID=12)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 40\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 25 feet; swamp stride\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstaff +10 ([two-hand d8](/Traits.aspx?ID=198)),\r\n**Damage** 1d4+6 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntongue +10 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** Tongue Grab\r\n\r\n**Primal Prepared Spells** DC 21, attack +11\r\n- **Cantrips (2nd)**\r\n[Acid Splash](/Spells.aspx?ID=3), [Dancing Lights](/Spells.aspx?ID=58), [Ray of Frost](/Spells.aspx?ID=245), [Tanglefoot](/Spells.aspx?ID=330)\r\n- **1st**\r\n[Fear](/Spells.aspx?ID=110), [Jump](/Spells.aspx?ID=167), [Shillelagh](/Spells.aspx?ID=282)\r\n- **2nd**\r\n[Acid Arrow](/Spells.aspx?ID=2), [Obscuring Mist](/Spells.aspx?ID=210)\r\n\r\n**Destructive Croak** <actions string=\"Two Actions\" /> ([Sonic](/Traits.aspx?ID=147)) The swampseer utters a powerful croak that deals 4d6 sonic damage to any non-boggard within a 15-foot emanation (DC 19 basic Fortitude save); any creature with the [_frightened_](/Conditions.aspx?ID=19) condition takes additional sonic damage equal to twice the value of their frightened condition. The boggard can’t use Destructive Croak again for 1d4 rounds\r\n\r\n**Drowning Drone** <actions string=\"Reaction\" /> ([Auditory](/Traits.aspx?ID=16), [Mental](/Traits.aspx?ID=106)) **Trigger** The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an [_auditory_](/Traits.aspx?ID=16) or [_sonic_](/Traits.aspx?ID=147) effect. **Effect** The swampseer releases a croak that drowns out other sound. It rolls a [_Performance_](/Skills.aspx?ID=12) check. It and boggard allies in the area can use the higher result of the swampseer’s Performance check or their saves to resolve the effects against the [_auditory_](/Traits.aspx?ID=16) or [_sonic_](/Traits.aspx?ID=147) effect.\r\n\r\n**Swamp Stride**   A boggard swampseer ignores difficult terrain caused by swamp terrain features.\r\n\r\n**Terrifying Croak** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The boggard swampseer unleashes a terrifying croak. Any non-boggard within 30 feet becomes [_frightened 1_](/Conditions.aspx?ID=19) unless they succeed at a DC 19 Will save; those who critically succeed are temporarily immune for 1 minute.\r\n\r\n**Tongue Grab**   If the boggard swampseer hits a creature with its tongue, that creature becomes [_grabbed_](/Conditions.aspx?ID=20) by the boggard. Unlike with a normal grab, the creature isn’t [_immobilized_](/Conditions.aspx?ID=24), but it can’t move beyond the reach of the boggard’s tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 4 slashing damage. Though this doesn’t deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-16\" />",
+ "name": "Boggard Swampseer",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Boggard\" url=\"/Traits.aspx?ID=209\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 45</row>\r\n\r\n**Creature Family** [Boggard](/MonsterFamilies.aspx?ID=16)\r\n\r\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +7\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Intimidation +8",
+  "Medicine +9",
+  "Nature +11",
+  "Performance +8",
+  "Religion +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +8, [Medicine](/Skills.aspx?ID=9) +9, [Nature](/Skills.aspx?ID=10) +11, [Performance](/Skills.aspx?ID=12) +8, [Religion](/Skills.aspx?ID=13) +9",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 45"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 45</row>",
+ "speed": {
+  "land": 20,
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "20 feet, swim 25 feet; swamp stride",
+ "speed_raw": "20 feet, swim 25 feet; swamp stride",
+ "spell": [
+  "Acid Arrow",
+  "Obscuring Mist",
+  "Fear",
+  "Jump",
+  "Shillelagh",
+  "Acid Splash",
+  "Dancing Lights",
+  "Ray of Frost",
+  "Tanglefoot"
+ ],
+ "spell_markdown": "[Acid Arrow](/Spells.aspx?ID=2), [Acid Splash](/Spells.aspx?ID=3), [Dancing Lights](/Spells.aspx?ID=58), [Fear](/Spells.aspx?ID=110), [Jump](/Spells.aspx?ID=167), [Obscuring Mist](/Spells.aspx?ID=210), [Ray of Frost](/Spells.aspx?ID=245), [Shillelagh](/Spells.aspx?ID=282), [Tanglefoot](/Spells.aspx?ID=330)",
+ "strength": 3,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping …",
+ "summary_markdown": "The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping …",
+ "text": " Boggard Swampseer The boggard swampseer has been gifted with magic through its worship of the demon lord Gogunta, and uses its power to rule a boggard village, keeping the rest of the village in line and planning raids on nearby communities. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Boggard Swampseer Source Bestiary pg. 45 Perception +11; darkvision Languages Abyssal, Boggard, Common Skills Athletics +8, Intimidation +8, Medicine +9, Nature +11, Performance +8, Religion +9 Str +3 Dex +0 Con +2 Int +0 Wis +4 Cha +3 Items Staff --- AC 18 Fort +9 Ref +7 Will +11 HP 40 --- Speed 20 feet, swim 25 feet; swamp stride Melee Single Action staff +10 (two-hand d8), Damage 1d4+6 bludgeoning Melee Single Action tongue +10 (reach 10 feet), Damage Tongue Grab Primal Prepared Spells DC 21, attack +11 - Cantrips (2nd) Acid Splash, Dancing Lights, Ray of Frost, Tanglefoot - 1st Fear, Jump, Shillelagh - 2nd Acid Arrow, Obscuring Mist Destructive Croak Two Actions (Sonic) The swampseer utters a powerful croak that deals 4d6 sonic damage to any non-boggard within a 15-foot emanation (DC 19 basic Fortitude save); any creature with the frightened condition takes additional sonic damage equal to twice the value of their frightened condition. The boggard can’t use Destructive Croak again for 1d4 rounds Drowning Drone Reaction (Auditory, Mental) Trigger The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an auditory or sonic effect. Effect The swampseer releases a croak that drowns out other sound. It rolls a Performance check. It and boggard allies in the area can use the higher result of the swampseer’s Performance check or their saves to resolve the effects against the auditory or sonic effect. Swamp Stride A boggard swampseer ignores difficult terrain caused by swamp terrain features. Terrifying Croak Single Action (Auditory, Emotion, Fear, Mental) The boggard swampseer unleashes a terrifying croak. Any non-boggard within 30 feet becomes frightened 1 unless they succeed at a DC 19 Will save; those who critically succeed are temporarily immune for 1 minute. Tongue Grab If the boggard swampseer hits a creature with its tongue, that creature becomes grabbed by the boggard. Unlike with a normal grab, the creature isn’t immobilized , but it can’t move beyond the reach of the boggard’s tongue. A creature can sever the tongue by hitting AC 15 and dealing at least 4 slashing damage. Though this doesn’t deal any damage to the boggard, it prevents it from using its tongue Strike until it regrows its tongue, which takes a week. ",
+ "trait": [
+  "Amphibious",
+  "Boggard",
+  "Humanoid",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Boggard](/Traits.aspx?ID=209), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Amphibious",
+  "Boggard",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=56",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 4
+}

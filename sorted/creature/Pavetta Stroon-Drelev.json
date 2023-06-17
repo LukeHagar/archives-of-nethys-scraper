@@ -1,0 +1,96 @@
+{
+ "ac": 25,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 2,
+ "creature_ability": [
+  "Vengeful Rage",
+  "Release Jewel",
+  "Baroness's  Scream",
+  "Stabbing  Fit"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 150,
+ "hp_raw": "150",
+ "id": "creature-2312",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Skald"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Skald](/Languages.aspx?ID=42)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Pavetta Stroon-Drelev](/NPCs.aspx?ID=2312)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Pavetta Stroon-Drelev](/NPCs.aspx?ID=2312)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 313</row>\n\n**Perception** +19\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Skald](/Languages.aspx?ID=42)\r\n\r\n**Skills**\r\n[Deception](/Skills.aspx?ID=5) +19, [Diplomacy](/Skills.aspx?ID=6) +19, [Intimidation](/Skills.aspx?ID=7) +19, [Nature](/Skills.aspx?ID=10) +17, [Nobility Lore](/Skills.aspx?ID=8) +17, [Performance](/Skills.aspx?ID=12) +15, [Society](/Skills.aspx?ID=14) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +2\r\n\r\n**Con** +2\r\n\r\n**Int** +2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3), emerald ring worth 50 gp, royal outfit worth 60 gp, sapphire earrings worth 80 gp, gold signet ring worth 60 gp\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 150\n\n**Vengeful Rage** <actions string=\"Reaction\" /> ([ &lt;%TRAITS%60%%&gt; emotion](/Traits.aspx?ID=60) &lt;%END>, [ &lt;%TRAITS%106%%&gt; mental](/Traits.aspx?ID=106) **Trigger** [Jewel](/Monsters.aspx?ID=2313) is either killed or knocked unconscious &lt;%END>; **Effect** Pavetta flies into a rage. She gains 20 temporary Hit Points, gains a +4 circumstance bonus on attack rolls, and deals 4d6 additional damage with melee weapons. In addition, she becomes [confused](/Conditions.aspx?ID=5). This rage persists for 1 minute or until she ceases to be confused, after which she becomes [fatigued](/Conditions.aspx?ID=15).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +17 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+3 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthrown object +17 ([thrown 10 ft.](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+3 bludgeoning\n\n**Release Jewel** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Manipulate](/Traits.aspx?ID=104)) With a command to [Jewel](/Monsters.aspx?ID=2313), Pavetta releases her to serve as a minion. She must concentrate to sustain this ability, during which she continues to shout commands to the little dog.\r\n\r\n**Baroness's  Scream** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106)) Pavetta attempts a single Intimidation check to [Demoralize](/Actions.aspx?ID=53) and applies the result to every opponent within 30 feet. Additionally, she automatically alerts any allies within 100 feet that are able to hear her to her need for assistance. The baroness can't Scream for 1 round.\r\n\r\n**Stabbing  Fit** <actions string=\"Two Actions\" />  **Requirement** Pavetta is affected by Vengeful Rage. **Effect** Pavetta makes up to five melee Strikes with her dagger, each  against  a  different target. These attacks count toward her multiple attack penalty, but the penalty doesn't increase until after she makes all of her attacks.\r\n\r\n</column>",
+ "name": "Pavetta Stroon-Drelev",
+ "npc": true,
+ "perception": 19,
+ "rarity": "unique",
+ "reflex_save": 15,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 313</row>\n\n<row gap=\"medium\">\r\n**HP** 150\r\n\r\n**AC** 25\r\n\r\n**Fort** +15\r\n\r\n**Ref** +15\r\n\r\n**Will** +21\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Deception +19",
+  "Diplomacy +19",
+  "Intimidation +19",
+  "Nature +17",
+  "Nobility Lore +17",
+  "Performance +15",
+  "Society +17"
+ ],
+ "skill_markdown": "[Deception](/Skills.aspx?ID=5) +19, [Diplomacy](/Skills.aspx?ID=6) +19, [Intimidation](/Skills.aspx?ID=7) +19, [Nature](/Skills.aspx?ID=10) +17, [Nobility Lore](/Skills.aspx?ID=8) +17, [Performance](/Skills.aspx?ID=12) +15, [Society](/Skills.aspx?ID=14) +17",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 313"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 313</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "strength": 0,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Pavetta Stroon-Drelev Recall Knowledge - Humanoid (Society): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Pavetta Stroon-Drelev Source Kingmaker Adventure Path pg. 313 Perception +19 Languages Common, Skald Skills Deception +19, Diplomacy +19, Intimidation +19, Nature +17, Nobility Lore +17, Performance +15, Society +17 Str +0 Dex +2 Con +2 Int +2 Wis +4 Cha +4 Items Dagger, emerald ring worth 50 gp, royal outfit worth 60 gp, sapphire earrings worth 80 gp, gold signet ring worth 60 gp --- AC 25 Fort +15 Ref +15 Will +21 HP 150 Vengeful Rage Reaction ( &lt;%TRAITS%60%%&gt; emotion &lt;%END>, &lt;%TRAITS%106%%&gt; mental Trigger Jewel is either killed or knocked unconscious &lt;%END>; Effect Pavetta flies into a rage. She gains 20 temporary Hit Points, gains a +4 circumstance bonus on attack rolls, and deals 4d6 additional damage with melee weapons. In addition, she becomes confused. This rage persists for 1 minute or until she ceases to be confused, after which she becomes fatigued. --- Speed 25 feet Melee Single Action dagger +17 (Agile, Finesse, versatile S), Damage 1d4+3 piercing Ranged Single Action thrown object +17 (thrown 10 ft.), Damage 1d6+3 bludgeoning Release Jewel Single Action (Auditory, Concentrate, Manipulate) With a command to Jewel, Pavetta releases her to serve as a minion. She must concentrate to sustain this ability, during which she continues to shout commands to the little dog. Baroness's Scream Two Actions (Auditory, Emotion, Mental) Pavetta attempts a single Intimidation check to Demoralize and applies the result to every opponent within 30 feet. Additionally, she automatically alerts any allies within 100 feet that are able to hear her to her need for assistance. The baroness can't Scream for 1 round. Stabbing Fit Two Actions Requirement Pavetta is affected by Vengeful Rage. Effect Pavetta makes up to five melee Strikes with her dagger, each against a different target. These attacks count toward her multiple attack penalty, but the penalty doesn't increase until after she makes all of her attacks. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Unique",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2312",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 4
+}

@@ -1,0 +1,104 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 0,
+ "creature_ability": [
+  "Cooperative Hunting",
+  "Fan Bolt",
+  "Hunt Prey",
+  "Pack Attack",
+  "Smooth Swimmer"
+ ],
+ "creature_family": "Locathah",
+ "creature_family_markdown": "[Locathah](/MonsterFamilies.aspx?ID=281)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 38,
+ "hp_raw": "38",
+ "id": "creature-1223",
+ "image": [
+  "/Images/Monsters/Locathah.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Aquan",
+  "Common"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Locathah Hunter](/Monsters.aspx?ID=1223)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDeep in the sea, schools of locathah—piscine humanoids armed with spears and specialized crossbows—stalk sharks, sea serpents, and giant squid from the backs of their [giant moray eel](/Monsters.aspx?ID=175) mounts. The first hunters to strike are armed with barbed harpoons that deploy large fans of seaweed, slowing and exhausting their prey. A daring few locathahs use the embedded harpoon as a handle to ride prey for a short time. Once the creature is tired, remaining hunters finish it with longspears. Locathahs developed this hunting tradition to forge skilled warriors and deter potential attackers, partially in response to centuries of oppression and mistreatment from other aquatic cultures.\n\n Locathahs rarely hunt land-dwellers, instead offering to trade their services as guides in exchange for metal and ceramic items they can't build underwater—and for tubers, which they consider earthy delicacies. They render aid to damaged sailing ships and rescue shipwrecked sailors, providing food and guidance.\n\n Locathah communities—usually villages of 200 individuals or fewer—are matriarchal. The ruler is also as its primary egg-layer, providing each generation with powerful familial bonds. The communities are tight-knit and loyal. Matriarchs are advised and assisted by primal spellcasters and healers, who are often accompanied by octopus companions.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Locathah.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Locathah Hunter](/Monsters.aspx?ID=1223)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Locathah\" url=\"/Traits.aspx?ID=356\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 164</row>\n\n**Perception** +9; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11, [Diplomacy](/Skills.aspx?ID=6) +5, [Nature](/Skills.aspx?ID=10) +7, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +0\r\n\r\n**Int** +1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Crossbow](/Weapons.aspx?ID=67) (12 fan bolts), [Longspear](/Weapons.aspx?ID=6), [Scale Mail](/Armor.aspx?ID=8)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 38\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, swim 40 feet; smooth swimmer\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongspear +11 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+4 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ncrossbow +10 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d8 piercing plus fan bolt\n\n**Cooperative Hunting**   After the hunter attempts a Strike at a Large or larger target (regardless of success or failure), the next Strike one of the hunter's allies makes against the same target gains a +2 circumstance bonus to the attack roll.\r\n\r\n**Fan Bolt**   The hunter prepares their hooked crossbow bolts with carefully woven seaweed. On a successful crossbow Strike, the bolt embeds and the seaweed fan deploys. The target takes a –10-foot status penalty to its swim Speed. A creature can Interact to attempt a DC [Athletics](/Skills.aspx?ID=3) check, removing the bolt on a success.\r\n\r\n**Hunt Prey** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) The locathah hunter designates a single creature they can see and hear, or one they're [Tracking](/Actions.aspx?ID=66), as their prey. The hunter gains a +2 circumstance bonus to Perception checks to [Seek](/Actions.aspx?ID=84) the prey and to [Survival](/Skills.aspx?ID=16) checks to Track the prey. The first time the locathah hits their designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the hunter uses Hunt Prey again.\r\n\r\n**Pack Attack**   The hunter's Strikes deal an additional 1d8 damage to creatures within reach of at least two of the hunter's allies.\r\n\r\n**Smooth Swimmer**   The locathah hunter ignores difficult terrain caused by aquatic terrain features.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-281\" />",
+ "name": "Locathah Hunter",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Locathah\" url=\"/Traits.aspx?ID=356\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 164</row>\r\n\r\n**Creature Family** [Locathah](/MonsterFamilies.aspx?ID=281)\r\n\r\n<row gap=\"medium\">\r\n**HP** 38\r\n\r\n**AC** 20\r\n\r\n**Fort** +7\r\n\r\n**Ref** +10\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDeep in the sea, schools of locathah—piscine humanoids armed with spears and specialized crossbows—stalk sharks, sea serpents, and giant squid from …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +11",
+  "Diplomacy +5",
+  "Nature +7",
+  "Stealth +8",
+  "Survival +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11, [Diplomacy](/Skills.aspx?ID=6) +5, [Nature](/Skills.aspx?ID=10) +7, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +7",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 164"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 164</row>",
+ "speed": {
+  "land": 10,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "10 feet, swim 40 feet; smooth swimmer",
+ "speed_raw": "10 feet, swim 40 feet; smooth swimmer",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Deep in the sea, schools of locathah—piscine humanoids armed with spears and specialized crossbows—stalk sharks, sea serpents, and giant squid from …",
+ "summary_markdown": "Deep in the sea, schools of locathah—piscine humanoids armed with spears and specialized crossbows—stalk sharks, sea serpents, and giant squid from …",
+ "text": " Locathah Hunter Deep in the sea, schools of locathah—piscine humanoids armed with spears and specialized crossbows—stalk sharks, sea serpents, and giant squid from the backs of their giant moray eel mounts. The first hunters to strike are armed with barbed harpoons that deploy large fans of seaweed, slowing and exhausting their prey. A daring few locathahs use the embedded harpoon as a handle to ride prey for a short time. Once the creature is tired, remaining hunters finish it with longspears. Locathahs developed this hunting tradition to forge skilled warriors and deter potential attackers, partially in response to centuries of oppression and mistreatment from other aquatic cultures. Locathahs rarely hunt land-dwellers, instead offering to trade their services as guides in exchange for metal and ceramic items they can't build underwater—and for tubers, which they consider earthy delicacies. They render aid to damaged sailing ships and rescue shipwrecked sailors, providing food and guidance. Locathah communities—usually villages of 200 individuals or fewer—are matriarchal. The ruler is also as its primary egg-layer, providing each generation with powerful familial bonds. The communities are tight-knit and loyal. Matriarchs are advised and assisted by primal spellcasters and healers, who are often accompanied by octopus companions. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Locathah Hunter Source Bestiary 3 pg. 164 Perception +9; low-light vision Languages Aquan, Common Skills Athletics +11, Diplomacy +5, Nature +7, Stealth +8, Survival +7 Str +4 Dex +3 Con +0 Int +1 Wis +2 Cha +0 Items Crossbow (12 fan bolts), Longspear, Scale Mail --- AC 20 Fort +7 Ref +10 Will +9 HP 38 --- Speed 10 feet, swim 40 feet; smooth swimmer Melee Single Action longspear +11 (reach 10 feet), Damage 1d8+4 piercing Melee Single Action crossbow +10 (range increment 120 feet, reload 1), Damage 1d8 piercing plus fan bolt Cooperative Hunting After the hunter attempts a Strike at a Large or larger target (regardless of success or failure), the next Strike one of the hunter's allies makes against the same target gains a +2 circumstance bonus to the attack roll. Fan Bolt The hunter prepares their hooked crossbow bolts with carefully woven seaweed. On a successful crossbow Strike, the bolt embeds and the seaweed fan deploys. The target takes a –10-foot status penalty to its swim Speed. A creature can Interact to attempt a DC Athletics check, removing the bolt on a success. Hunt Prey Single Action (Concentrate) The locathah hunter designates a single creature they can see and hear, or one they're Tracking, as their prey. The hunter gains a +2 circumstance bonus to Perception checks to Seek the prey and to Survival checks to Track the prey. The first time the locathah hits their designated prey in a round, they deal an additional 1d8 precision damage. These effects last until the hunter uses Hunt Prey again. Pack Attack The hunter's Strikes deal an additional 1d8 damage to creatures within reach of at least two of the hunter's allies. Smooth Swimmer The locathah hunter ignores difficult terrain caused by aquatic terrain features. ",
+ "trait": [
+  "Amphibious",
+  "Humanoid",
+  "Locathah",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Humanoid](/Traits.aspx?ID=91), [Locathah](/Traits.aspx?ID=356)",
+ "trait_raw": [
+  "Amphibious",
+  "Humanoid",
+  "Locathah"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1223",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 2
+}

@@ -1,0 +1,106 @@
+{
+ "ac": 30,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 5,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Catch Rock",
+  "Throw Rock",
+  "Wind Strike"
+ ],
+ "creature_family": "Giant",
+ "creature_family_markdown": "[Giant](/MonsterFamilies.aspx?ID=53)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 220,
+ "hp_raw": "220",
+ "id": "creature-224",
+ "image": [
+  "/Images/Monsters/Giant_CloudGiant.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Jotun"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Cloud Giant](/Monsters.aspx?ID=224)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe graceful and regal cloud giants have skin of milky white to powdery blue. Unlike most giants, cloud giants are quite morally diverse. A handful are neutral, but of the others, roughly half are good, while the other half are evil. Good cloud giants are often civic-minded builders of roads and settlements, and are interested in trading goods as well as cultural innovations. It’s not uncommon for such giants to approach their neighbors with diplomacy and build strong relationships with other peaceful peoples. Conversely, evil cloud giants are often isolationist and xenophobic. Preferring hidden mountain valleys and settlements in the caves and among the crags of lonely peaks, they raid for what they want and treat other creatures like inconsequential insects. These opposing philosophies can generate a great deal of strife among neighboring cloud giant communities, and the raiders often threaten the trade deals of their peaceful cousins.\n\n Legends persist of floating cities ruled by magically gifted cloud giant queens and kings. While most cloud giants plainly state that such claims are pure fantasy, others are mysteriously tight-lipped or evasive about the matter.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Giant_CloudGiant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Cloud Giant](/Monsters.aspx?ID=224)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 173</row>\n\n**Perception** +22; low-light vision, scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +26, [Crafting](/Skills.aspx?ID=4) +21, [Diplomacy](/Skills.aspx?ID=6) +24, [Intimidation](/Skills.aspx?ID=7) +26, [Performance](/Skills.aspx?ID=12) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +0\r\n\r\n**Con** +5\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[sack with 5 rocks](/Equipment.aspx?ID=45), _+1 [striking](/Equipment.aspx?ID=280) [ranseur](/Weapons.aspx?ID=35)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 220\n\n**Attack of Opportunity** <actions string=\"Reaction\" /><br /> **Catch Rock** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_ranseur_ +25 ([Disarm](/Traits.aspx?ID=175), [Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+13 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +24 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+13 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +24 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d10+13 bludgeoning\r\n\r\n**Primal Innate Spells** DC 30\r\n- **2nd**\r\n[Obscuring Mist](/Spells.aspx?ID=210) (at will)\r\n- **3rd**\r\n[Levitate](/Spells.aspx?ID=170) (at will)\r\n- **4th**\r\n[Solid Fog](/Spells.aspx?ID=290)\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n**Wind Strike** <actions string=\"Two Actions\" /> ([Air](/Traits.aspx?ID=5), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The cloud giant Strikes a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 bludgeoning damage and is [deafened](/Conditions.aspx?ID=8) for 1 minute. Whether or not the Strike hits, each non-cloud giant within a 20-foot emanation, including the target of the Strike, is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature takes 2d8 sonic damage.<br /> **Failure** The creature takes 4d8 sonic damage and is [deafened](/Conditions.aspx?ID=8) until the end of its next turn.<br /> **Critical Failure** As failure, but double damage and also knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-53\" />",
+ "name": "Cloud Giant",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 18,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 173</row>\r\n\r\n**Creature Family** [Giant](/MonsterFamilies.aspx?ID=53)\r\n\r\n<row gap=\"medium\">\r\n**HP** 220\r\n\r\n**AC** 30\r\n\r\n**Fort** +25\r\n\r\n**Ref** +18\r\n\r\n**Will** +21\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe graceful and regal cloud giants have skin of milky white to powdery blue. Unlike most giants, cloud giants are quite morally diverse. A handful …\r\n</summary>",
+ "sense": "low-light vision, scent (imprecise) 30 feet",
+ "sense_markdown": "low-light vision, scent (imprecise) 30 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +26",
+  "Crafting +21",
+  "Diplomacy +24",
+  "Intimidation +26",
+  "Performance +21"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +26, [Crafting](/Skills.aspx?ID=4) +21, [Diplomacy](/Skills.aspx?ID=6) +24, [Intimidation](/Skills.aspx?ID=7) +26, [Performance](/Skills.aspx?ID=12) +21",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 173"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 173</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Solid Fog",
+  "Levitate",
+  "Obscuring Mist"
+ ],
+ "spell_markdown": "[Levitate](/Spells.aspx?ID=170), [Obscuring Mist](/Spells.aspx?ID=210), [Solid Fog](/Spells.aspx?ID=290)",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The graceful and regal cloud giants have skin of milky white to powdery blue. Unlike most giants, cloud giants are quite morally diverse. A handful …",
+ "summary_markdown": "The graceful and regal cloud giants have skin of milky white to powdery blue. Unlike most giants, cloud giants are quite morally diverse. A handful …",
+ "text": " Cloud Giant The graceful and regal cloud giants have skin of milky white to powdery blue. Unlike most giants, cloud giants are quite morally diverse. A handful are neutral, but of the others, roughly half are good, while the other half are evil. Good cloud giants are often civic-minded builders of roads and settlements, and are interested in trading goods as well as cultural innovations. It’s not uncommon for such giants to approach their neighbors with diplomacy and build strong relationships with other peaceful peoples. Conversely, evil cloud giants are often isolationist and xenophobic. Preferring hidden mountain valleys and settlements in the caves and among the crags of lonely peaks, they raid for what they want and treat other creatures like inconsequential insects. These opposing philosophies can generate a great deal of strife among neighboring cloud giant communities, and the raiders often threaten the trade deals of their peaceful cousins. Legends persist of floating cities ruled by magically gifted cloud giant queens and kings. While most cloud giants plainly state that such claims are pure fantasy, others are mysteriously tight-lipped or evasive about the matter. Recall Knowledge - Humanoid (Society): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Cloud Giant Source Bestiary pg. 173 Perception +22; low-light vision, scent (imprecise) 30 feet Languages Common, Jotun Skills Athletics +26, Crafting +21, Diplomacy +24, Intimidation +26, Performance +21 Str +7 Dex +0 Con +5 Int +1 Wis +3 Cha +1 Items sack with 5 rocks, +1 striking ranseur --- AC 30 Fort +25 Ref +18 Will +21 HP 220 Attack of Opportunity Reaction Catch Rock Reaction --- Speed 30 feet Melee Single Action ranseur +25 (Disarm, Magical, reach 20 feet), Damage 2d10+13 piercing Melee Single Action fist +24 (Agile, reach 15 feet), Damage 2d8+13 bludgeoning Ranged Single Action rock +24 (Brutal, range increment 120 feet), Damage 2d10+13 bludgeoning Primal Innate Spells DC 30 - 2nd Obscuring Mist (at will) - 3rd Levitate (at will) - 4th Solid Fog Throw Rock Single Action Wind Strike Two Actions (Air, Evocation, Primal) The cloud giant Strikes a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 bludgeoning damage and is deafened for 1 minute. Whether or not the Strike hits, each non-cloud giant within a 20-foot emanation, including the target of the Strike, is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw. Critical Success The creature is unaffected. Success The creature takes 2d8 sonic damage. Failure The creature takes 4d8 sonic damage and is deafened until the end of its next turn. Critical Failure As failure, but double damage and also knocked prone. ",
+ "trait": [
+  "Air",
+  "Giant",
+  "Humanoid",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Air",
+  "Giant",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=224",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 3
+}

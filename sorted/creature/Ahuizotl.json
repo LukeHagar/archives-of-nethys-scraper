@@ -1,0 +1,99 @@
+{
+ "ac": 23,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Voice Imitation",
+  "Tail Drag"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 105,
+ "hp_raw": "105",
+ "id": "creature-540",
+ "image": [
+  "/Images/Monsters/Ahuizotl.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Aklo",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Ahuizotl](/Monsters.aspx?ID=540)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe ahuizotl is a vicious, semi-aquatic predator that resembles a hideous cross between a badger and an otter, with disturbingly web-fingered paws supplemented by a fifth hand at the end of a long, serpentine tail. A clever and stealthy hunter, the ahuizotl lures unwary prey to their doom by mimicking the cries of people in distress. The ahuizotl's macabre habit of feeding on a victim's eyes, fingernails, and teeth leaves the corpses of its kills uniquely mutilated. Some say the creatures consider these body parts delicacies, while others insist ahuizotls collect them as tribute to a powerful but unknown entity. The fact that an ahuizotl does not eat the actual flesh of its victims, instead depositing their savaged and waterlogged corpses in locations where the remains are sure to be found by friends or family, points to a third and perhaps more likely possibility—the ahuizotl simply enjoys using its violent dietary quirks to spread fear and despair.\n\n An ahuizotl walks on all fours, but its hands are capable of manipulating simple tools and other objects. Ahuizotls have roughly mustelid features and an extra membrane covering their eyes, giving their eyes a dull color suggestive of cataracts and somewhat blunting the creature's vision. Yet despite their bestial appearance, ahuizotls are nearly as intelligent as the average human, and wiser than most. Although they don't form societies of their own, they have been known to ally with violent cults or conclaves of monsters, and even to found small shrines and temples to sinister deities. The cult of Charon, the horseman of Death, is particularly popular among certain ahuizotls, who look forward to an afterlife spent wallowing in the waters of the River Styx.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ahuizotl.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Ahuizotl](/Monsters.aspx?ID=540)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 12 <sup>2.0</sup></row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +15, [Deception](/Skills.aspx?ID=5) +15, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +5\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Voice Imitation** An ahuizotl can mimic the sounds of a person in distress by attempting a [Deception](/Skills.aspx?ID=5) check to [Lie](/Actions.aspx?ID=47). The ahuizotl has a +4 circumstance bonus to this check.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 105\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +17,\r\n**Damage** 2d8+8 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +17 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+8 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail claw +17 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d4+8 slashing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\n\n**Tail Drag** <actions string=\"Single Action\" />  **Requirements** The ahuizotl has a Medium or smaller creature grabbed with its tail claw; **Effect** The ahuizotl attempts an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. <br />**Critical Success** If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws Strike against the creature. <br />**Success** If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. <br />**Failure** The creature is not dragged. <br />**Critical Failure** The creature is not dragged and the ahuizotl no longer has the creature grabbed.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Ahuizotl Allies</title>\r\n\r\nAn ahuizotl is unexpectedly canny in how it handles potential competitors in its territory, and when presented with fellow predators capable of conversation, it sometimes brokers alliances. [Will-o'- wisps](/Monsters.aspx?ID=414) are particular favorites as allies, as they can lure prey into the ahuizotl's clutches and feast on the anguish later when the mutilated corpse is discovered.\r\n</aside>",
+ "name": "Ahuizotl",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 13,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 12 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 105\r\n\r\n**AC** 23\r\n\r\n**Fort** +17\r\n\r\n**Ref** +13\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ahuizotl is a vicious, semi-aquatic predator that resembles a hideous cross between a badger and an otter, with disturbingly web-fingered paws …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +15",
+  "Deception +15",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +15, [Deception](/Skills.aspx?ID=5) +15, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 12"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 12 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 35,
+  "swim": 35
+ },
+ "speed_markdown": "25 feet, swim 35 feet",
+ "speed_raw": "25 feet, swim 35 feet",
+ "spell_markdown": "",
+ "stealth": "15",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The ahuizotl is a vicious, semi-aquatic predator that resembles a hideous cross between a badger and an otter, with disturbingly web-fingered paws …",
+ "summary_markdown": "The ahuizotl is a vicious, semi-aquatic predator that resembles a hideous cross between a badger and an otter, with disturbingly web-fingered paws …",
+ "text": " Ahuizotl The ahuizotl is a vicious, semi-aquatic predator that resembles a hideous cross between a badger and an otter, with disturbingly web-fingered paws supplemented by a fifth hand at the end of a long, serpentine tail. A clever and stealthy hunter, the ahuizotl lures unwary prey to their doom by mimicking the cries of people in distress. The ahuizotl's macabre habit of feeding on a victim's eyes, fingernails, and teeth leaves the corpses of its kills uniquely mutilated. Some say the creatures consider these body parts delicacies, while others insist ahuizotls collect them as tribute to a powerful but unknown entity. The fact that an ahuizotl does not eat the actual flesh of its victims, instead depositing their savaged and waterlogged corpses in locations where the remains are sure to be found by friends or family, points to a third and perhaps more likely possibility—the ahuizotl simply enjoys using its violent dietary quirks to spread fear and despair. An ahuizotl walks on all fours, but its hands are capable of manipulating simple tools and other objects. Ahuizotls have roughly mustelid features and an extra membrane covering their eyes, giving their eyes a dull color suggestive of cataracts and somewhat blunting the creature's vision. Yet despite their bestial appearance, ahuizotls are nearly as intelligent as the average human, and wiser than most. Although they don't form societies of their own, they have been known to ally with violent cults or conclaves of monsters, and even to found small shrines and temples to sinister deities. The cult of Charon, the horseman of Death, is particularly popular among certain ahuizotls, who look forward to an afterlife spent wallowing in the waters of the River Styx. Recall Knowledge - Beast (Arcana, Nature): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Ahuizotl Source Bestiary 2 pg. 12 2.0 Perception +13; darkvision Languages Aklo, Common Skills Athletics +15, Deception +15, Stealth +15 Str +5 Dex +3 Con +5 Int -1 Wis +3 Cha +3 Voice Imitation An ahuizotl can mimic the sounds of a person in distress by attempting a Deception check to Lie. The ahuizotl has a +4 circumstance bonus to this check. --- AC 23 Fort +17 Ref +13 Will +13 HP 105 --- Speed 25 feet, swim 35 feet Melee Single Action jaws +17, Damage 2d8+8 piercing Melee Single Action claw +17 (Agile), Damage 2d6+8 slashing Melee Single Action tail claw +17 (Agile, reach 10 feet), Damage 2d4+8 slashing plus Improved Grab Tail Drag Single Action Requirements The ahuizotl has a Medium or smaller creature grabbed with its tail claw; Effect The ahuizotl attempts an Athletics check against the creature's Fortitude DC. Critical Success If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. The ahuizotl can make a jaws Strike against the creature. Success If the creature is 10 feet away from the ahuizotl, it is dragged into a square adjacent to the ahuizotl. Failure The creature is not dragged. Critical Failure The creature is not dragged and the ahuizotl no longer has the creature grabbed. Ahuizotl Allies An ahuizotl is unexpectedly canny in how it handles potential competitors in its territory, and when presented with fellow predators capable of conversation, it sometimes brokers alliances. Will-o'- wisps are particular favorites as allies, as they can lure prey into the ahuizotl's clutches and feast on the anguish later when the mutilated corpse is discovered. ",
+ "trait": [
+  "Amphibious",
+  "Beast",
+  "Uncommon",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Amphibious",
+  "Beast",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=540",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 3
+}

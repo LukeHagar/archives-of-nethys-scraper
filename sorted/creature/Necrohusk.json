@@ -1,0 +1,110 @@
+{
+ "ac": 22,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 1,
+ "creature_ability": [
+  "Skitter",
+  "Frenzied Assault",
+  "Impaling Lunge",
+  "Vile Innards"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 75,
+ "hp_raw": "75 ( negative healing )",
+ "id": "creature-1778",
+ "image": [
+  "/Images/Monsters/Necrohusk.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "prone",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [prone](/Conditions.aspx?ID=31), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -3,
+ "language": [
+  "Common",
+  "Hallit",
+  "Necril",
+  "can't speak"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37), [Necril](/Languages.aspx?ID=20); can't speak",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Necrohusk](/Monsters.aspx?ID=1778)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nNecrohusks are skittering, undead monstrosities, created when a humanoid is purposefully twisted into a new creature through necromantic experimentation. Unlike fleshwarps and recipients of successful necrografts, prospective necrohusks never survive the procedure. After reanimation, they're cunning, animalistic creatures that follow their creator's orders without question. <br />Creating a necrohusk is an incredibly difficult endeavor, fraught with error. Most attempts result in lumps of useless, rotten slurry or malformed undead no more cunning or dangerous than a mundane zombie. The costs in time, experimental subjects, and expensive spell components lead some would-be necromancers to conclude that the results aren't worth the risk. Occasionally, spellcasters can harness the power of the Negative Energy Plane during the process, which lessens the monetary cost but vastly increases the danger, often producing a deadly backlash resulting in the creator's death and a masterless necrohusk. <br />Among the Sutaki, only Ashen Swale and his lieutenants, Turkek and Azi, have the skill and knowledge to create necrohusks with any regularity, although Turkek's interests often lead him away from such gruesome endeavors. Necrohusks are created from volunteers in Ashen Swale's cult or from traitorous Sutaki whom Ashen Swale wants to punish with a ghastly fate.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Necrohusk.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Necrohusk](/Monsters.aspx?ID=1778)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 87</row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37), [Necril](/Languages.aspx?ID=20); can't speak\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +12, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** -3\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 75\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [prone](/Conditions.aspx?ID=31), [unconscious](/Conditions.aspx?ID=38)\n\n**Skitter** <actions string=\"Reaction\" /> **Trigger** A creature misses the necrohusk with a melee Strike; **Effect** The necrohusk Steps.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +15,\r\n**Damage** 2d6+5 piercing plus 1d6 poison\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nleg +15 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d4+5 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nichor spit +14 ([range 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8 poison and vile innards\n\n**Frenzied Assault** <actions string=\"Two Actions\" />  The necrohusk makes three leg Strikes. If more than one Strike hits the same target, combine the damage of the Strikes that hit the creature and apply the creature's resistances and weaknesses only once.\r\n\r\n**Impaling Lunge** <actions string=\"Two Actions\" />  The necrohusk Strides twice. If the necrohusk ends its movement within melee range of an enemy, it makes a leg Strike against that enemy. On a hit, the Strike deals an additional 1d6 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n\r\n**Vile Innards**   The necrohusk spews some of its rotting insides when it makes an ichor spit Strike. On a critical hit, the target is [sickened](/Conditions.aspx?ID=34) 2.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Further Experimentation</title>\r\n\r\nNecrohusks range from Small to Large and often have alternative methods of locomotion and additional abilities. Suitable abilities from other undead creatures include bleeding and fiendish from [beheaded](/MonsterFamilies.aspx?ID=220), bloody and explosive death from [skeletons](/MonsterFamilies.aspx?ID=92), and feast and rotting aura from [zombies](/MonsterFamilies.aspx?ID=103). A necrohusk with additional abilities should be higher level than one without. Use the guidelines in Chapter 2 of the Gamemastery Guide to determine its new statistics.\r\n</aside>",
+ "name": "Necrohusk",
+ "npc": false,
+ "perception": 14,
+ "rarity": "rare",
+ "reflex_save": 15,
+ "release_date": "2022-02-23",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 87</row>\n\n<row gap=\"medium\">\r\n**HP** 75 ( negative healing )\r\n\r\n**AC** 22\r\n\r\n**Fort** +10\r\n\r\n**Ref** +15\r\n\r\n**Will** +12\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNecrohusks are skittering, undead monstrosities, created when a humanoid is purposefully twisted into a new creature through necromantic …\r\n</summary>",
+ "sense": " darkvision ,  lifesense  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Athletics +12",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +12, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Pathfinder #176: Lost Mammoth Valley"
+ ],
+ "source_raw": [
+  "Pathfinder #176: Lost Mammoth Valley pg. 87"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 87</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "spoilers": "Quest for the Frozen Flame",
+ "stealth": "13",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Necrohusks are skittering, undead monstrosities, created when a humanoid is purposefully twisted into a new creature through necromantic …",
+ "summary_markdown": "Necrohusks are skittering, undead monstrosities, created when a humanoid is purposefully twisted into a new creature through necromantic …",
+ "text": " Necrohusk Necrohusks are skittering, undead monstrosities, created when a humanoid is purposefully twisted into a new creature through necromantic experimentation. Unlike fleshwarps and recipients of successful necrografts, prospective necrohusks never survive the procedure. After reanimation, they're cunning, animalistic creatures that follow their creator's orders without question. Creating a necrohusk is an incredibly difficult endeavor, fraught with error. Most attempts result in lumps of useless, rotten slurry or malformed undead no more cunning or dangerous than a mundane zombie. The costs in time, experimental subjects, and expensive spell components lead some would-be necromancers to conclude that the results aren't worth the risk. Occasionally, spellcasters can harness the power of the Negative Energy Plane during the process, which lessens the monetary cost but vastly increases the danger, often producing a deadly backlash resulting in the creator's death and a masterless necrohusk. Among the Sutaki, only Ashen Swale and his lieutenants, Turkek and Azi, have the skill and knowledge to create necrohusks with any regularity, although Turkek's interests often lead him away from such gruesome endeavors. Necrohusks are created from volunteers in Ashen Swale's cult or from traitorous Sutaki whom Ashen Swale wants to punish with a ghastly fate. Recall Knowledge - Undead (Religion): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Necrohusk Source Pathfinder #176: Lost Mammoth Valley pg. 87 Perception +14; darkvision, lifesense (imprecise) 30 feet Languages Common, Hallit, Necril; can't speak Skills Acrobatics +13, Athletics +12, Stealth +13 Str +5 Dex +4 Con +1 Int -3 Wis +3 Cha -1 --- AC 22 Fort +10 Ref +15 Will +12 HP 75 (negative healing) Immunities death effects, disease, paralyzed, poison, prone, unconscious Skitter Reaction Trigger A creature misses the necrohusk with a melee Strike; Effect The necrohusk Steps. --- Speed 30 feet, climb 30 feet Melee Single Action jaws +15, Damage 2d6+5 piercing plus 1d6 poison Melee Single Action leg +15 (Agile), Damage 2d4+5 piercing Ranged Single Action ichor spit +14 (range 30 feet), Damage 3d8 poison and vile innards Frenzied Assault Two Actions The necrohusk makes three leg Strikes. If more than one Strike hits the same target, combine the damage of the Strikes that hit the creature and apply the creature's resistances and weaknesses only once. Impaling Lunge Two Actions The necrohusk Strides twice. If the necrohusk ends its movement within melee range of an enemy, it makes a leg Strike against that enemy. On a hit, the Strike deals an additional 1d6 persistent bleed damage. Vile Innards The necrohusk spews some of its rotting insides when it makes an ichor spit Strike. On a critical hit, the target is sickened 2. Further Experimentation Necrohusks range from Small to Large and often have alternative methods of locomotion and additional abilities. Suitable abilities from other undead creatures include bleeding and fiendish from beheaded, bloody and explosive death from skeletons, and feast and rotting aura from zombies. A necrohusk with additional abilities should be higher level than one without. Use the guidelines in Chapter 2 of the Gamemastery Guide to determine its new statistics. ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Rare",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1778",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 3
+}

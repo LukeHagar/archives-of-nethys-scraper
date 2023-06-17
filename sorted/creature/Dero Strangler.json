@@ -1,0 +1,105 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 3,
+ "creature_ability": [
+  "Vulnerable to Sunlight",
+  "Strangle"
+ ],
+ "creature_family": "Dero",
+ "creature_family_markdown": "[Dero](/MonsterFamilies.aspx?ID=29)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-106",
+ "immunity": [
+  "confusion"
+ ],
+ "immunity_markdown": "[confusion](/Conditions.aspx?ID=5)",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Undercommon"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Dero Strangler](/Monsters.aspx?ID=106)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Dero Strangler](/Monsters.aspx?ID=106)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Dero\" url=\"/Traits.aspx?ID=214\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 84</row>\n\n**Perception** +6; darkvision\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11, [Intimidation](/Skills.aspx?ID=7) +7, [Medicine](/Skills.aspx?ID=9) +4, [Stealth](/Skills.aspx?ID=15) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** -1\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[Aklys](/Weapons.aspx?ID=85), [Rope](/Equipment.aspx?ID=44) (50 feet), [Hand Crossbow](/Weapons.aspx?ID=69) (10 bolts), [Lethargy Poison](/Equipment.aspx?ID=120) (5 doses)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 45\n\n**Immunities**\r\n[confusion](/Conditions.aspx?ID=5)\n\n**Weaknesses**\r\nvulnerable to sunlight\r\n\r\n**Vulnerable to Sunlight** A dero strangler takes 8 damage for every hour they're exposed to sunlight.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\naklys +11 ([Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d6+6 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\naklys +10 ([Ranged Trip](/Traits.aspx?ID=251), [Tethered](/Traits.aspx?ID=252), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+6 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhand crossbow +10 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+2 piercing plus [lethargy poison](/Equipment.aspx?ID=120)\r\n\r\n**Occult Innate Spells** DC 19\r\n- **Cantrips (2nd)**\r\n[Daze](/Spells.aspx?ID=61), [Ghost Sound](/Spells.aspx?ID=132)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59) (at will), [Sound Burst](/Spells.aspx?ID=292)\r\n\r\n**Strangle** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15), [Nonlethal](/Traits.aspx?ID=188)) **Requirement** The dero must have two free hands, or be wielding an aklys and have one hand free. **Effect** The dero attempts an [Athletics](/Skills.aspx?ID=3) check to Grab with a +2 circumstance bonus. On a success, the target takes 1d6+6 bludgeoning damage. Double the damage on a critical success.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-29\" />",
+ "name": "Dero Strangler",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Dero\" url=\"/Traits.aspx?ID=214\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 84</row>\r\n\r\n**Creature Family** [Dero](/MonsterFamilies.aspx?ID=29)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +10\r\n\r\n**Ref** +8\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +11",
+  "Intimidation +7",
+  "Medicine +4",
+  "Stealth +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11, [Intimidation](/Skills.aspx?ID=7) +7, [Medicine](/Skills.aspx?ID=9) +4, [Stealth](/Skills.aspx?ID=15) +10",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 84"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 84</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell": [
+  "Darkness",
+  "Sound Burst",
+  "Daze",
+  "Ghost Sound"
+ ],
+ "spell_markdown": "[Darkness](/Spells.aspx?ID=59), [Daze](/Spells.aspx?ID=61), [Ghost Sound](/Spells.aspx?ID=132), [Sound Burst](/Spells.aspx?ID=292)",
+ "stealth": "10",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Dero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.",
+ "summary_markdown": "Dero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions.",
+ "text": " Dero Strangler Dero stranglers specialize in capturing living victims, and they are often called upon to aid in abductions. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Dero Strangler Source Bestiary pg. 84 Perception +6; darkvision Languages Aklo, Undercommon Skills Athletics +11, Intimidation +7, Medicine +4, Stealth +10 Str +4 Dex +3 Con +3 Int +0 Wis -1 Cha +2 Items Aklys, Rope (50 feet), Hand Crossbow (10 bolts), Lethargy Poison (5 doses) --- AC 19 Fort +10 Ref +8 Will +6 HP 45 Immunities confusion Weaknesses vulnerable to sunlight Vulnerable to Sunlight A dero strangler takes 8 damage for every hour they're exposed to sunlight. --- Speed 20 feet Melee Single Action aklys +11 (Trip), Damage 1d6+6 bludgeoning Ranged Single Action aklys +10 (Ranged Trip, Tethered, thrown 20 feet), Damage 1d6+6 bludgeoning Ranged Single Action hand crossbow +10 (range increment 60 feet, reload 1), Damage 1d6+2 piercing plus lethargy poison Occult Innate Spells DC 19 - Cantrips (2nd) Daze, Ghost Sound - 2nd Darkness (at will), Sound Burst Strangle Single Action (Attack, Nonlethal) Requirement The dero must have two free hands, or be wielding an aklys and have one hand free. Effect The dero attempts an Athletics check to Grab with a +2 circumstance bonus. On a success, the target takes 1d6+6 bludgeoning damage. Double the damage on a critical success. ",
+ "trait": [
+  "Dero",
+  "Humanoid",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Dero](/Traits.aspx?ID=214), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Dero",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=106",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "weakness_markdown": "vulnerable to sunlight",
+ "weakness_raw": "vulnerable to sunlight",
+ "will_save": 6,
+ "wisdom": -1
+}

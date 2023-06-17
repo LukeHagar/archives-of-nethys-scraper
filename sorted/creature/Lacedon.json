@@ -1,0 +1,113 @@
+{
+ "ac": 18,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 3,
+ "creature_ability": [
+  "Corpse Scent",
+  "Aquatic Ambush",
+  "Consume Flesh",
+  "Ghoul Fever",
+  "Paralyzing Spew"
+ ],
+ "creature_family": "Ghoul",
+ "creature_family_markdown": "[Ghoul](/MonsterFamilies.aspx?ID=52)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 32,
+ "hp_raw": "32 ( negative healing )",
+ "id": "creature-1865",
+ "image": [
+  "/Images/Monsters/Ghoul_Lacedon.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language": [
+  "Aquan",
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Lacedon](/Monsters.aspx?ID=1865)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFeared by mariners and coastal dwellers everywhere, the aquatic ghouls known as lacedons are said to be the spawn of an ancient crew of sailors who became lost at sea and were forced to resort to cannibalism to survive. Their appearance is the stuff of a diver's nightmare, supplementing the vicious traits of their land-bound kin with spines, fins, and wide mouths bristling with needle-sharp teeth like piscine predators of the nethermost ocean depths.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ghoul_Lacedon.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Lacedon](/Monsters.aspx?ID=1865)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 104</row>\n\n**Perception** +7; corpse scent (imprecise), [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Corpse Scent** The lacedon can smell [humanoid](/Traits.aspx?ID=91) corpses in the water from up to 1 mile away.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 32\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+5 piercing plus ghoul fever\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d4+5 slashing\n\n**[Aquatic Ambush](/MonsterAbilities.aspx?ID=2)** <actions string=\"Single Action\" />  45 feet\r\n\r\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The lacedon is adjacent to the corpse of a creature that died within the last hour; **Effect** The lacedon devours a chunk of the corpse and regains 2d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Ghoul Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 16 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead and rises as a [ghoul](/MonsterFamilies.aspx?ID=52) the next midnight\r\n\r\n**Paralyzing Spew** <actions string=\"Single Action\" /> ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) The lacedon discharges a spray of carrion vomit at a creature within 20 feet, dealing 1d6 poison damage with a DC 17 [basic](/Rules.aspx?ID=329) Fortitude save. A non-[elf](/Traits.aspx?ID=58) creature that fails its save is also [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save to end the paralysis at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. The lacedon can't use Paralyzing Spew again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Lacedon Schools</title>\r\n\r\nLacedons travel in packs that can number as many as several dozen, typically led by the largest and oldest member, endlessly roaming the oceans with the sole objective of satisfying their boundless appetites for humanoid flesh. They have been known to emerge from the sea in ravenous swarms to devour entire populations of seaside fishing villages\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-52\" />",
+ "name": "Lacedon",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 104</row>\r\n\r\n**Creature Family** [Ghoul](/MonsterFamilies.aspx?ID=52)\r\n\r\n<row gap=\"medium\">\r\n**HP** 32 ( negative healing )\r\n\r\n**AC** 18\r\n\r\n**Fort** +7\r\n\r\n**Ref** +10\r\n\r\n**Will** +7\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFeared by mariners and coastal dwellers everywhere, the aquatic ghouls known as lacedons are said to be the spawn of an ancient crew of sailors who …\r\n</summary>",
+ "sense": "corpse scent (imprecise),  darkvision ",
+ "sense_markdown": "corpse scent (imprecise), [darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +9",
+  "Stealth +8",
+  "Survival +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +7",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 104"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 104</row>",
+ "speed": {
+  "land": 25,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "25 feet, swim 30 feet",
+ "speed_raw": "25 feet, swim 30 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Feared by mariners and coastal dwellers everywhere, the aquatic ghouls known as lacedons are said to be the spawn of an ancient crew of sailors who …",
+ "summary_markdown": "Feared by mariners and coastal dwellers everywhere, the aquatic ghouls known as lacedons are said to be the spawn of an ancient crew of sailors who …",
+ "text": " Lacedon Feared by mariners and coastal dwellers everywhere, the aquatic ghouls known as lacedons are said to be the spawn of an ancient crew of sailors who became lost at sea and were forced to resort to cannibalism to survive. Their appearance is the stuff of a diver's nightmare, supplementing the vicious traits of their land-bound kin with spines, fins, and wide mouths bristling with needle-sharp teeth like piscine predators of the nethermost ocean depths. Recall Knowledge - Undead (Religion): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Lacedon Source Book of the Dead pg. 104 Perception +7; corpse scent (imprecise), darkvision Languages Aquan, Common, Necril Skills Acrobatics +8, Athletics +9, Stealth +8, Survival +7 Str +3 Dex +4 Con +3 Int +1 Wis +1 Cha +3 Corpse Scent The lacedon can smell humanoid corpses in the water from up to 1 mile away. --- AC 18 Fort +7 Ref +10 Will +7 HP 32 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 25 feet, swim 30 feet Melee Single Action jaws +10 (Finesse), Damage 1d6+5 piercing plus ghoul fever Melee Single Action claw +10 (Agile, Finesse), Damage 1d4+5 slashing Aquatic Ambush Single Action 45 feet Consume Flesh Single Action (Manipulate) Requirements The lacedon is adjacent to the corpse of a creature that died within the last hour; Effect The lacedon devours a chunk of the corpse and regains 2d6 Hit Points. It can regain Hit Points from any given corpse only once. Ghoul Fever (Disease) Saving Throw DC 16 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 2d6 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 2d6 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead and rises as a ghoul the next midnight Paralyzing Spew Single Action (Incapacitation, Occult, Necromancy) The lacedon discharges a spray of carrion vomit at a creature within 20 feet, dealing 1d6 poison damage with a DC 17 basic Fortitude save. A non-elf creature that fails its save is also paralyzed. It can attempt a new save to end the paralysis at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. The lacedon can't use Paralyzing Spew again for 1d4 rounds. Lacedon Schools Lacedons travel in packs that can number as many as several dozen, typically led by the largest and oldest member, endlessly roaming the oceans with the sole objective of satisfying their boundless appetites for humanoid flesh. They have been known to emerge from the sea in ravenous swarms to devour entire populations of seaside fishing villages ",
+ "trait": [
+  "Amphibious",
+  "Ghoul",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Ghoul](/Traits.aspx?ID=218), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Amphibious",
+  "Ghoul",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1865",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 7,
+ "wisdom": 1
+}

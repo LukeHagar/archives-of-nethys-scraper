@@ -1,0 +1,98 @@
+{
+ "ac": 18,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 1,
+ "creature_ability": [
+  "Hurried Retreat",
+  "Sneak Attack"
+ ],
+ "creature_family": "Kobold",
+ "creature_family_markdown": "[Kobold](/MonsterFamilies.aspx?ID=65)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 5,
+ "hp": 16,
+ "hp_raw": "16",
+ "id": "creature-273",
+ "image": [
+  "/Images/Monsters/Kobold_KoboldScout.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Kobold Scout](/Monsters.aspx?ID=273)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMost kobolds encountered outside of a well-defended warren or lair are kobold scouts, creatures trained for stalking and the hunt.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Kobold_KoboldScout.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Kobold Scout](/Monsters.aspx?ID=273)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 213</row>\n\n**Perception** +8; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Crafting](/Skills.aspx?ID=4) +3, [Nature](/Skills.aspx?ID=10) +6, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Leather Armor](/Armor.aspx?ID=4), [Crossbow](/Weapons.aspx?ID=67) (20 bolts)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 16\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshortsword +9 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d6 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncrossbow +9 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d8 piercing\n\n**Hurried Retreat** <actions string=\"Single Action\" />  **Requirements** The kobold scout is adjacent to at least one enemy. **Effect** The kobold scout Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy. \r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The kobold scout deals an extra 1d6 precision damage to flat-footed creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-65\" />",
+ "name": "Kobold Scout",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Kobold\" url=\"/Traits.aspx?ID=224\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 213</row>\r\n\r\n**Creature Family** [Kobold](/MonsterFamilies.aspx?ID=65)\r\n\r\n<row gap=\"medium\">\r\n**HP** 16\r\n\r\n**AC** 18\r\n\r\n**Fort** +5\r\n\r\n**Ref** +9\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMost kobolds encountered outside of a well-defended warren or lair are kobold scouts, creatures trained for stalking and the hunt.\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Crafting +3",
+  "Nature +6",
+  "Stealth +7",
+  "Survival +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Crafting](/Skills.aspx?ID=4) +3, [Nature](/Skills.aspx?ID=10) +6, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +6",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 213"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 213</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Most kobolds encountered outside of a well-defended warren or lair are kobold scouts, creatures trained for stalking and the hunt.",
+ "summary_markdown": "Most kobolds encountered outside of a well-defended warren or lair are kobold scouts, creatures trained for stalking and the hunt.",
+ "text": " Kobold Scout Most kobolds encountered outside of a well-defended warren or lair are kobold scouts, creatures trained for stalking and the hunt. Recall Knowledge - Humanoid (Society): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Kobold Scout Source Bestiary pg. 213 Perception +8; darkvision Languages Common, Draconic Skills Acrobatics +7, Crafting +3, Nature +6, Stealth +7, Survival +6 Str +0 Dex +4 Con +1 Int +0 Wis +3 Cha +1 Items Leather Armor, Crossbow (20 bolts) --- AC 18 Fort +5 Ref +9 Will +6 HP 16 --- Speed 25 feet Melee Single Action shortsword +9 (Agile, Finesse, versatile S), Damage 1d6 piercing Ranged Single Action crossbow +9 (range increment 120 feet, reload 1), Damage 1d8 piercing Hurried Retreat Single Action Requirements The kobold scout is adjacent to at least one enemy. Effect The kobold scout Strides up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy. Sneak Attack The kobold scout deals an extra 1d6 precision damage to flat-footed creatures. ",
+ "trait": [
+  "Humanoid",
+  "Kobold",
+  "LE",
+  "Small"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Kobold](/Traits.aspx?ID=224)",
+ "trait_raw": [
+  "Humanoid",
+  "Kobold"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=273",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 3
+}

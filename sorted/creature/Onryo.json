@@ -1,0 +1,140 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 5,
+ "creature_ability": [
+  "Flicker",
+  "Onryo's Rancor",
+  "Vengeful Suffocation"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 180,
+ "hp_raw": "180 ( negative healing )",
+ "id": "creature-1889",
+ "image": [
+  "/Images/Monsters/Onryo.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 2,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Onryo](/Monsters.aspx?ID=1889)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nOnryos are created when a person dies violently in the grip of extreme emotion, such as unbridled rage or overwhelming sorrow. These twisted undead return as beings of pure vengeance, seeking to endlessly spread suffering. Onryos torment those who killed them, but not by directly attacking their murderer. Instead, an onryo hunts down the friends, family members, and anyone connected to their foe. In doing so, the onryo inflicts as much torment as possible on the person responsible for their demise. An onryo's vengeful nature persists indefinitely; not even the death of their killer sates their lust for destruction. Vengeance is just a way for them to spread their pain to others, and they quickly find new targets for their ire. Onryos always wear funeral clothing, often dripping wet or covered in filth. Most of them also display wounds or signs indicating how they died. As they move, onryos seem to pop in and out of existence, making them difficult to track in combat.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Onryo.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Onryo](/Monsters.aspx?ID=1889)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 135</row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +20, [Stealth](/Skills.aspx?ID=15) +25, [Survival](/Skills.aspx?ID=16) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +7\r\n\r\n**Con** +5\r\n\r\n**Int** +2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +6\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +23 \r\n\r\n+1 status to all saves vs. [magic](/Traits.aspx?ID=103)\r\n</row>\r\n\r\n**HP** 180\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nall damage 8 (except [force](/Traits.aspx?ID=75))\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, climb 35 feet; flicker, [_spider climb_](/Spells.aspx?ID=299), [_water walk_](/Spells.aspx?ID=371)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +25 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d8+8 slashing plus 2d6 mental\r\n\r\n**Occult Innate Spells** DC 32\r\n- **6th**\r\n[Nightmare](/Spells.aspx?ID=208)\r\n- **Constant (4th)**\r\n[Blink](/Spells.aspx?ID=27), [Spider Climb](/Spells.aspx?ID=299), [Water Walk](/Spells.aspx?ID=371)\r\n\r\n**Flicker**   An onryo's erratic movement makes them difficult to target. If an onryo moves at least 10 feet during a move action, they gain [concealment](/Conditions.aspx?ID=4) until the start of their next turn.\r\n\r\n**Onryo's Rancor** <actions string=\"Single Action\" /> ([Curse](/Traits.aspx?ID=38), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) **Requirements** The onryo's last action was a successful claw Strike; **Effect** The onryo attempts to instill its need for vengeance into the creature. The onryo, with their touch, casts a 5th-level [_geas_](/Rituals.aspx?ID=12) on the creature they hit (DC 30 Will). On a failure, it's forced to seek and slay loved ones of the onryo's wrongdoer and anyone who attempts to defend them for up to one week. On a critical failure, the duration is 1 month and the creature gains Onryo's Rancor, which it's also compelled to use by the geas. Regardless of the outcome, the creature is temporarily immune to Onryo's Rancor from this individual for 1 year.\r\n\r\n**Vengeful Suffocation** <actions string=\"Two Actions\" /> ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) **Frequency** once per hour; **Effect** The onryo channels their boundless resentment, manifesting it as a tangled clump of wet hair, a clot of rancid swamp mud, or other disgusting mass of matter in the throat of a creature within 30 feet. The creature must attempt a DC 32 Fortitude save.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature becomes [sickened 1](/Conditions.aspx?ID=34).<br /> **Failure** The creature becomes sickened 2.<br /> **Critical Failure** The creature becomes sickened 3 and the mass fully blocks the creature's airway. The creature begins [suffocating](/Rules.aspx?ID=468).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Daionryo</title>\r\n\r\nOnryos born of the mighty can rise as daionryos with greater abilities related to their deaths or their killers, like controlling the weather to unleash disaster on a larger scale. A daionryo's spirit is so consumed with vengeance that even its destruction isn't enough to stop it. Daionryos have the ability to rejuvenate (as [hungry ghost](/Monsters.aspx?ID=1863)), returning again and again.\r\n</aside>",
+ "name": "Onryo",
+ "npc": false,
+ "perception": 21,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 23,
+ "release_date": "2022-04-27",
+ "resistance": {
+  "acid": 8,
+  "all": 8,
+  "area": 8,
+  "bleed": 8,
+  "bludgeoning": 8,
+  "chaotic": 8,
+  "cold": 8,
+  "cold_iron": 8,
+  "electricity": 8,
+  "evil": 8,
+  "fire": 8,
+  "good": 8,
+  "lawful": 8,
+  "mental": 8,
+  "negative": 8,
+  "orichalcum": 8,
+  "physical": 8,
+  "piercing": 8,
+  "poison": 8,
+  "positive": 8,
+  "precision": 8,
+  "silver": 8,
+  "slashing": 8,
+  "sonic": 8,
+  "splash": 8
+ },
+ "resistance_markdown": "all damage 8 (except [force](/Traits.aspx?ID=75))",
+ "resistance_raw": "all damage 8 (except  force )",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 135</row>\n\n<row gap=\"medium\">\r\n**HP** 180 ( negative healing )\r\n\r\n**AC** 32\r\n\r\n**Fort** +21\r\n\r\n**Ref** +23\r\n\r\n**Will** +23\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOnryos are created when a person dies violently in the grip of extreme emotion, such as unbridled rage or overwhelming sorrow. These twisted undead …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +25",
+  "Athletics +20",
+  "Stealth +25",
+  "Survival +23"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +20, [Stealth](/Skills.aspx?ID=15) +25, [Survival](/Skills.aspx?ID=16) +23",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 135"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 135</row>",
+ "speed": {
+  "climb": 35,
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet, climb 35 feet; flicker, [_spider climb_](/Spells.aspx?ID=299), [_water walk_](/Spells.aspx?ID=371)",
+ "speed_raw": "35 feet, climb 35 feet; flicker,   spider climb  ,   water walk  ",
+ "spell": [
+  "Nightmare",
+  "Blink",
+  "Spider Climb",
+  "Water Walk"
+ ],
+ "spell_markdown": "[Blink](/Spells.aspx?ID=27), [Nightmare](/Spells.aspx?ID=208), [Spider Climb](/Spells.aspx?ID=299), [Water Walk](/Spells.aspx?ID=371)",
+ "stealth": "25",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "summary": "Onryos are created when a person dies violently in the grip of extreme emotion, such as unbridled rage or overwhelming sorrow. These twisted undead …",
+ "summary_markdown": "Onryos are created when a person dies violently in the grip of extreme emotion, such as unbridled rage or overwhelming sorrow. These twisted undead …",
+ "text": " Onryo Onryos are created when a person dies violently in the grip of extreme emotion, such as unbridled rage or overwhelming sorrow. These twisted undead return as beings of pure vengeance, seeking to endlessly spread suffering. Onryos torment those who killed them, but not by directly attacking their murderer. Instead, an onryo hunts down the friends, family members, and anyone connected to their foe. In doing so, the onryo inflicts as much torment as possible on the person responsible for their demise. An onryo's vengeful nature persists indefinitely; not even the death of their killer sates their lust for destruction. Vengeance is just a way for them to spread their pain to others, and they quickly find new targets for their ire. Onryos always wear funeral clothing, often dripping wet or covered in filth. Most of them also display wounds or signs indicating how they died. As they move, onryos seem to pop in and out of existence, making them difficult to track in combat. Recall Knowledge - Undead (Religion): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Onryo Source Book of the Dead pg. 135 Perception +21; darkvision Languages Common Skills Acrobatics +25, Athletics +20, Stealth +25, Survival +23 Str +2 Dex +7 Con +5 Int +2 Wis +5 Cha +6 --- AC 32 Fort +21 Ref +23 Will +23 +1 status to all saves vs. magic HP 180 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Resistances all damage 8 (except force) --- Speed 35 feet, climb 35 feet; flicker, spider climb , water walk Melee Single Action claw +25 (Agile, Finesse), Damage 3d8+8 slashing plus 2d6 mental Occult Innate Spells DC 32 - 6th Nightmare - Constant (4th) Blink, Spider Climb, Water Walk Flicker An onryo's erratic movement makes them difficult to target. If an onryo moves at least 10 feet during a move action, they gain concealment until the start of their next turn. Onryo's Rancor Single Action (Curse, Enchantment, Mental, Occult) Requirements The onryo's last action was a successful claw Strike; Effect The onryo attempts to instill its need for vengeance into the creature. The onryo, with their touch, casts a 5th-level geas on the creature they hit (DC 30 Will). On a failure, it's forced to seek and slay loved ones of the onryo's wrongdoer and anyone who attempts to defend them for up to one week. On a critical failure, the duration is 1 month and the creature gains Onryo's Rancor, which it's also compelled to use by the geas. Regardless of the outcome, the creature is temporarily immune to Onryo's Rancor from this individual for 1 year. Vengeful Suffocation Two Actions (Incapacitation, Occult, Necromancy) Frequency once per hour; Effect The onryo channels their boundless resentment, manifesting it as a tangled clump of wet hair, a clot of rancid swamp mud, or other disgusting mass of matter in the throat of a creature within 30 feet. The creature must attempt a DC 32 Fortitude save. Critical Success The creature is unaffected. Success The creature becomes sickened 1. Failure The creature becomes sickened 2. Critical Failure The creature becomes sickened 3 and the mass fully blocks the creature's airway. The creature begins suffocating. Daionryo Onryos born of the mighty can rise as daionryos with greater abilities related to their deaths or their killers, like controlling the weather to unleash disaster on a larger scale. A daionryo's spirit is so consumed with vengeance that even its destruction isn't enough to stop it. Daionryos have the ability to rejuvenate (as hungry ghost), returning again and again. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1889",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": 5
+}

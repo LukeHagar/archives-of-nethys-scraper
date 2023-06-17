@@ -1,0 +1,106 @@
+{
+ "ac": 36,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 4,
+ "creature_ability": [
+  "Compulsive Counting",
+  "Rend",
+  "Am I Pretty?",
+  "Even Now?",
+  "Lingering Enmity"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 252,
+ "hp_raw": "252",
+ "id": "creature-1214",
+ "image": [
+  "/Images/Monsters/KuchisakeOnna.png"
+ ],
+ "intelligence": 5,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Kuchisake-Onna](/Monsters.aspx?ID=1214)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA kuchisake-onna, or slit-mouthed woman, is a tall, masked figure who moves with an eerie grace. These horrors are infamous for trapping hapless mortals and asking them, “Am I pretty?” A “no” response leads to a gruesome death wrought by the silver scissors the kuchisake-onna carries. A “yes” prompts them to remove their mask, revealing the scars and cuts running from ear to ear, giving the impression of a terrible, ever-present grin. They then open their mouth to reveal sharp, needle-like teeth and ask another question: “Even now?” A “no” leads to the same gory death, while a “yes” prompts them to use their silver scissors and make the same cuts on the target's face while repeating: “Then I will make you like me.”\n\n There are a handful of methods to weasel out of this otherwise no-win scenario. Answering noncommittally, saying the kuchisake-onna looks “okay,” or throwing several small, countable objects like rice or candy often provides enough time to run while the monster is distracted. Few are foolish enough to attack the kuchisake-onna, and those that live to tell the tale speak of a flashing flurry of scissor blades that match even a swordmaster's prowess.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/KuchisakeOnna.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Kuchisake-Onna](/Monsters.aspx?ID=1214)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 156</row>\n\n**Perception** +28; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +28, [Athletics](/Skills.aspx?ID=3) +22, [Intimidation](/Skills.aspx?ID=7) +27, [Stealth](/Skills.aspx?ID=15) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +8\r\n\r\n**Con** +4\r\n\r\n**Int** +5\r\n\r\n**Wis** +6\r\n\r\n**Cha** +5\r\n</row>\n\n**Items**\r\n[silver scissors](/Equipment.aspx?ID=379) (2)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +24 \n\n</row>\r\n\r\n**HP** 252\n\n**Resistances**\r\nslashing 15\r\n\r\n**Weaknesses**\r\nmental 10\r\n\r\n**Compulsive Counting** When numerous small items are scattered before the kuchisake-onna, they compulsively begins to count them. The kuchisake-onna becomes [flat-footed](/Conditions.aspx?ID=16) to all creatures for 1d4 rounds.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nsilver scissors +30 ([Agile](/Traits.aspx?ID=170), [Backstabber](/Traits.aspx?ID=172), [fatal d12](/Traits.aspx?ID=178), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d6+12 slashing\n\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  silver scissors\r\n\r\n**Am I Pretty?** <actions string=\"Single Action\" />  The kuchisake-onna asks a single adjacent target, “Am I pretty?” The target must attempt a DC 35 Will save. If it fails, it is [immobilized](/Conditions.aspx?ID=24) for 1 round, and if it critically fails, it is [paralyzed](/Conditions.aspx?ID=28) for 1 round, though still able to respond to the question; this is a [mental](/Traits.aspx?ID=106) effect. If the target responds “No,” the kuchisake-onna makes two silver scissors Strikes against the target. If the target responds “Yes,” the kuchisake-onna makes no Strikes this turn and must use Even Now? as their next action (waiting until the first action of their next turn, if necessary). If the target otherwise responds in a confusing or noncommittal manner, the kuchisake-onna becomes [flat-footed](/Conditions.aspx?ID=16) to all creatures for 1 round but can otherwise act normally.\r\n\r\n**Even Now?** <actions string=\"Single Action\" />  **Requirements** An adjacent creature previously targeted by Am I Pretty? answered “Yes”; **Effect** The kuchisake-onna takes off their mask, revealing their slit face and asking, “Even now?” The target must attempt a DC 35 Will save. If it fails, it is [immobilized](/Conditions.aspx?ID=24) for 1 round, and if it critically fails, it is [paralyzed](/Conditions.aspx?ID=28) for 1 round, though still able to respond to the question; this is a mental effect. Whether the target responds “Yes” or “No,” the kuchisake-onna makes two silver scissors Strikes against the target.\r\n\r\n**Lingering Enmity**   The kuchisake-onna's silver scissors Strikes are manifestations of the toxic malice that created them and vanish when the kuchisake-onna is destroyed. When the kuchisake-onna has less than half their maximum Hit Points remaining, this concentrated enmity begins to leak out and make their attacks more vicious. Their silver scissors Strikes deal 6d6 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Lingering Enmity</title>\r\n\r\nA kuchisake-onna is the congealed, collected malice of those who mutilate women or fixate on their physical appearances. While many tales center around women, fearful survivors have described kuchisake-onna in the guise of a variety of genders and appearances\r\n</aside>",
+ "name": "Kuchisake-Onna",
+ "npc": false,
+ "perception": 28,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 28,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "slashing": 15
+ },
+ "resistance_markdown": "slashing 15",
+ "resistance_raw": "slashing 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 156</row>\n\n<row gap=\"medium\">\r\n**HP** 252\r\n\r\n**AC** 36\r\n\r\n**Fort** +22\r\n\r\n**Ref** +28\r\n\r\n**Will** +24\r\n\r\n**Perception** +28\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA kuchisake-onna, or slit-mouthed woman, is a tall, masked figure who moves with an eerie grace. These horrors are infamous for trapping hapless …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +28",
+  "Athletics +22",
+  "Intimidation +27",
+  "Stealth +26"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +28, [Athletics](/Skills.aspx?ID=3) +22, [Intimidation](/Skills.aspx?ID=7) +27, [Stealth](/Skills.aspx?ID=15) +26",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 156"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 156</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "26",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A kuchisake-onna, or slit-mouthed woman, is a tall, masked figure who moves with an eerie grace. These horrors are infamous for trapping hapless …",
+ "summary_markdown": "A kuchisake-onna, or slit-mouthed woman, is a tall, masked figure who moves with an eerie grace. These horrors are infamous for trapping hapless …",
+ "text": " Kuchisake-Onna A kuchisake-onna, or slit-mouthed woman, is a tall, masked figure who moves with an eerie grace. These horrors are infamous for trapping hapless mortals and asking them, “Am I pretty?” A “no” response leads to a gruesome death wrought by the silver scissors the kuchisake-onna carries. A “yes” prompts them to remove their mask, revealing the scars and cuts running from ear to ear, giving the impression of a terrible, ever-present grin. They then open their mouth to reveal sharp, needle-like teeth and ask another question: “Even now?” A “no” leads to the same gory death, while a “yes” prompts them to use their silver scissors and make the same cuts on the target's face while repeating: “Then I will make you like me.” There are a handful of methods to weasel out of this otherwise no-win scenario. Answering noncommittally, saying the kuchisake-onna looks “okay,” or throwing several small, countable objects like rice or candy often provides enough time to run while the monster is distracted. Few are foolish enough to attack the kuchisake-onna, and those that live to tell the tale speak of a flashing flurry of scissor blades that match even a swordmaster's prowess. Recall Knowledge - Aberration (Occultism): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Kuchisake-Onna Source Bestiary 3 pg. 156 Perception +28; darkvision Languages Common Skills Acrobatics +28, Athletics +22, Intimidation +27, Stealth +26 Str +4 Dex +8 Con +4 Int +5 Wis +6 Cha +5 Items silver scissors (2) --- AC 36 Fort +22 Ref +28 Will +24 HP 252 Resistances slashing 15 Weaknesses mental 10 Compulsive Counting When numerous small items are scattered before the kuchisake-onna, they compulsively begins to count them. The kuchisake-onna becomes flat-footed to all creatures for 1d4 rounds. --- Speed 30 feet Melee Single Action silver scissors +30 (Agile, Backstabber, fatal d12, Finesse), Damage 3d6+12 slashing Rend Single Action silver scissors Am I Pretty? Single Action The kuchisake-onna asks a single adjacent target, “Am I pretty?” The target must attempt a DC 35 Will save. If it fails, it is immobilized for 1 round, and if it critically fails, it is paralyzed for 1 round, though still able to respond to the question; this is a mental effect. If the target responds “No,” the kuchisake-onna makes two silver scissors Strikes against the target. If the target responds “Yes,” the kuchisake-onna makes no Strikes this turn and must use Even Now? as their next action (waiting until the first action of their next turn, if necessary). If the target otherwise responds in a confusing or noncommittal manner, the kuchisake-onna becomes flat-footed to all creatures for 1 round but can otherwise act normally. Even Now? Single Action Requirements An adjacent creature previously targeted by Am I Pretty? answered “Yes”; Effect The kuchisake-onna takes off their mask, revealing their slit face and asking, “Even now?” The target must attempt a DC 35 Will save. If it fails, it is immobilized for 1 round, and if it critically fails, it is paralyzed for 1 round, though still able to respond to the question; this is a mental effect. Whether the target responds “Yes” or “No,” the kuchisake-onna makes two silver scissors Strikes against the target. Lingering Enmity The kuchisake-onna's silver scissors Strikes are manifestations of the toxic malice that created them and vanish when the kuchisake-onna is destroyed. When the kuchisake-onna has less than half their maximum Hit Points remaining, this concentrated enmity begins to leak out and make their attacks more vicious. Their silver scissors Strikes deal 6d6 persistent bleed damage. Lingering Enmity A kuchisake-onna is the congealed, collected malice of those who mutilate women or fixate on their physical appearances. While many tales center around women, fearful survivors have described kuchisake-onna in the guise of a variety of genders and appearances ",
+ "trait": [
+  "Aberration",
+  "Rare",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Aberration",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1214",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "mental": 10
+ },
+ "weakness_markdown": "mental 10",
+ "weakness_raw": "mental 10",
+ "will_save": 24,
+ "wisdom": 6
+}

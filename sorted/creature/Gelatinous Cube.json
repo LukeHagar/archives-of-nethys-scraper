@@ -1,0 +1,101 @@
+{
+ "ac": 10,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 5,
+ "creature_ability": [
+  "Motion Sense",
+  "Transparent",
+  "Engulf",
+  "Paralysis",
+  "Weak Acid"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": -5,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 90,
+ "hp_raw": "90",
+ "id": "creature-321",
+ "immunity": [
+  "acid",
+  "critical hits",
+  "mental",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "acid, critical hits, mental, precision, unconscious, visual",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Gelatinous Cube](/Monsters.aspx?ID=321)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFound underground or in dungeons, these quivering cubes of slime continuously scour their domain for food. The acid in their bodies is weak enough that many gelatinous cubes still contain the gear of their victims, as they’re unable to break them down.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Gelatinous Cube](/Monsters.aspx?ID=321)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 254</row>\n\n**Perception** +5; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** -5\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A gelatinous cube can sense nearby motion through vibration and air movement.<br /> **Transparent** A gelatinous cube is so clear that it’s difficult to spot. A successful DC 23 Perception check is required to notice a stationary cube, and a creature must be Searching to attempt this check. A creature that walks into the cube is automatically Engulfed (this usually causes the GM to call for initiative).\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 10 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +0 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 90\n\n**Immunities**\r\nacid, critical hits, mental, precision, unconscious, visual\r\n\r\n**Resistances**\r\nelectricity 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ncube face +11,\r\n**Damage** 1d6 acid plus paralysis\n\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Two Actions\" />  DC 19, 2d6 acid, Escape DC 19, Rupture 7. A creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis.\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93)) A creature Engulfed by the cube or hit by its attack is paralyzed unless it succeeds at a DC 20 Fortitude save. A victim can attempt a new save to recover at the end of each of its turns.\r\n\r\n**Weak Acid**   A gelatinous cube's acid damages only organic material—not metal, stone, or other inorganic substances.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Gelatinous Cube",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 0,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "electricity": 5
+ },
+ "resistance_markdown": "electricity 5",
+ "resistance_raw": "electricity 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 254</row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 90\r\n\r\n**AC** 10\r\n\r\n**Fort** +12\r\n\r\n**Ref** +0\r\n\r\n**Will** +5\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFound underground or in dungeons, these quivering cubes of slime continuously scour their domain for food. The acid in their bodies is weak enough …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 254"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 254</row>",
+ "speed": {
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet",
+ "speed_raw": "15 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Found underground or in dungeons, these quivering cubes of slime continuously scour their domain for food. The acid in their bodies is weak enough …",
+ "summary_markdown": "Found underground or in dungeons, these quivering cubes of slime continuously scour their domain for food. The acid in their bodies is weak enough …",
+ "text": " Gelatinous Cube Found underground or in dungeons, these quivering cubes of slime continuously scour their domain for food. The acid in their bodies is weak enough that many gelatinous cubes still contain the gear of their victims, as they’re unable to break them down. Recall Knowledge - Ooze (Occultism): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Gelatinous Cube Source Bestiary pg. 254 Perception +5; motion sense 60 feet, no vision Languages Skills Athletics +11 Str +4 Dex -5 Con +5 Int -5 Wis +0 Cha -5 Motion Sense A gelatinous cube can sense nearby motion through vibration and air movement. Transparent A gelatinous cube is so clear that it’s difficult to spot. A successful DC 23 Perception check is required to notice a stationary cube, and a creature must be Searching to attempt this check. A creature that walks into the cube is automatically Engulfed (this usually causes the GM to call for initiative). --- AC 10 Fort +12 Ref +0 Will +5 HP 90 Immunities acid, critical hits, mental, precision, unconscious, visual Resistances electricity 5 --- Speed 15 feet Melee Single Action cube face +11, Damage 1d6 acid plus paralysis Engulf Two Actions DC 19, 2d6 acid, Escape DC 19, Rupture 7. A creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis. Paralysis (Incapacitation) A creature Engulfed by the cube or hit by its attack is paralyzed unless it succeeds at a DC 20 Fortitude save. A victim can attempt a new save to recover at the end of each of its turns. Weak Acid A gelatinous cube's acid damages only organic material—not metal, stone, or other inorganic substances. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=321",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 5,
+ "wisdom": 0
+}

@@ -1,0 +1,98 @@
+{
+ "ac": 28,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Mind Lash",
+  "Rend",
+  "Soul Scream",
+  "Storm of Tentacles"
+ ],
+ "creature_family": "Fleshwarp",
+ "creature_family_markdown": "[Fleshwarp](/MonsterFamilies.aspx?ID=47)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 152,
+ "hp_raw": "152",
+ "id": "creature-670",
+ "image": [
+  "/Images/Monsters/Fleshwarp_Irnakurse.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Abyssal",
+  "Elven",
+  "Undercommon",
+  "can't speak any language"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11); can't speak any language",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Irnakurse](/Monsters.aspx?ID=670)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIrnakurse are surface elves who [drow](/MonsterFamilies.aspx?ID=37) have subjected to particularly cruel and humiliating fleshwarping practices, as drow take special delight in the torment of their surface-dwelling kin. The process of crafting an irnakurse involves twisting an unfortunate elf into a deformed mass of misplaced limbs, loose flesh, and bony protrusions—parts that should be internal are often left on full display to the world. Irnakurse are subject to mental conditioning that causes them to hate their prior forms, and these creatures prefer to attack surface elves over all other targets.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Fleshwarp_Irnakurse.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Irnakurse](/Monsters.aspx?ID=670)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 118 <sup>2.0</sup></row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11); can't speak any language\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +20, [Acrobatics](/Skills.aspx?ID=1) +20, [Stealth](/Skills.aspx?ID=15) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 152\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +20 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+11 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +20 ([Agile](/Traits.aspx?ID=170), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+11 slashing plus mind lash\n\n**Mind Lash**  ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) A non-evil creature hit by an irnakurse's tentacle is overwhelmed with corrupted images of a ruined life and must succeed at a DC 28 Will save or be [stunned 2](/Conditions.aspx?ID=36) (or stunned 4 on a critical failure). After attempting this save, a creature is temporarily immune to Mind Lash for 24 hours.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  tentacle\r\n\r\n**Soul Scream** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) **Frequency** once per day; **Effect** The irnakurse unleashes an alien shriek of nightmarish horror and pain. All non-evil creatures within a 10-foot emanation must attempt a DC 28 Will save. The irnakurse can Sustain Soul Scream for up to 6 rounds; each time it does, it repeats the effect. <br />**Critical Success** The creature is unaffected, and is temporarily immune to Soul Scream for 24 hours. <br />**Success** The creature is [stupefied 1](/Conditions.aspx?ID=37) for 1 round. <br />**Failure** The creature is stupefied 1. Further failed saves against Soul Scream increase the condition value by 1, to a maximum of stupefied 4. Each time the character gets a full night's rest, the stupefied condition gained from Soul Scream decreases by 1. <br />**Critical Failure** As failure, except the stupefied value increases by 2 instead of by 1.\r\n\r\n**Storm of Tentacles** <actions string=\"Two Actions\" />  The irnakurse makes up to four tentacle Strikes, each against a different target. These attacks count toward the irnakurse's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all of its attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Irnakurse Mockeries</title>\r\n\r\nWhen drow capture a particularly hated surface elf, or one with a large following, they inflict even greater pain upon them during the fleshwarping process than most other victims. The resulting irnakurse are known as “mockeries,” and always have [elite adjustments](/Rules.aspx?ID=790). Rather than using them, drow keep them close at hand as living “art” akin to a pet or trophy.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-47\" />",
+ "name": "Irnakurse",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 18,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 118 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Fleshwarp](/MonsterFamilies.aspx?ID=47)\r\n\r\n<row gap=\"medium\">\r\n**HP** 152\r\n\r\n**AC** 28\r\n\r\n**Fort** +20\r\n\r\n**Ref** +18\r\n\r\n**Will** +16\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIrnakurse are surface elves who  drow  have subjected to particularly cruel and humiliating fleshwarping practices, as drow take special delight in …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +20",
+  "Acrobatics +20",
+  "Stealth +20"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +20, [Acrobatics](/Skills.aspx?ID=1) +20, [Stealth](/Skills.aspx?ID=15) +20",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 118"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 118 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet",
+ "speed_raw": "15 feet",
+ "spell_markdown": "",
+ "stealth": "20",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Irnakurse are surface elves who  drow  have subjected to particularly cruel and humiliating fleshwarping practices, as drow take special delight in …",
+ "summary_markdown": "Irnakurse are surface elves who  drow  have subjected to particularly cruel and humiliating fleshwarping practices, as drow take special delight in …",
+ "text": " Irnakurse Irnakurse are surface elves who drow have subjected to particularly cruel and humiliating fleshwarping practices, as drow take special delight in the torment of their surface-dwelling kin. The process of crafting an irnakurse involves twisting an unfortunate elf into a deformed mass of misplaced limbs, loose flesh, and bony protrusions—parts that should be internal are often left on full display to the world. Irnakurse are subject to mental conditioning that causes them to hate their prior forms, and these creatures prefer to attack surface elves over all other targets. Recall Knowledge - Aberration (Occultism): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Irnakurse Source Bestiary 2 pg. 118 2.0 Perception +18; darkvision Languages Abyssal, Elven, Undercommon; can't speak any language Skills Athletics +20, Acrobatics +20, Stealth +20 Str +5 Dex +5 Con +3 Int -2 Wis +3 Cha +4 --- AC 28 Fort +20 Ref +18 Will +16 HP 152 Attack of Opportunity Reaction --- Speed 15 feet Melee Single Action jaws +20 (reach 10 feet), Damage 2d12+11 piercing Melee Single Action tentacle +20 (Agile, reach 20 feet), Damage 2d8+11 slashing plus mind lash Mind Lash (Emotion, Enchantment, Mental, Occult) A non-evil creature hit by an irnakurse's tentacle is overwhelmed with corrupted images of a ruined life and must succeed at a DC 28 Will save or be stunned 2 (or stunned 4 on a critical failure). After attempting this save, a creature is temporarily immune to Mind Lash for 24 hours. Rend Single Action tentacle Soul Scream Two Actions (Auditory, Concentrate, Emotion, Enchantment, Mental, Occult) Frequency once per day; Effect The irnakurse unleashes an alien shriek of nightmarish horror and pain. All non-evil creatures within a 10-foot emanation must attempt a DC 28 Will save. The irnakurse can Sustain Soul Scream for up to 6 rounds; each time it does, it repeats the effect. Critical Success The creature is unaffected, and is temporarily immune to Soul Scream for 24 hours. Success The creature is stupefied 1 for 1 round. Failure The creature is stupefied 1. Further failed saves against Soul Scream increase the condition value by 1, to a maximum of stupefied 4. Each time the character gets a full night's rest, the stupefied condition gained from Soul Scream decreases by 1. Critical Failure As failure, except the stupefied value increases by 2 instead of by 1. Storm of Tentacles Two Actions The irnakurse makes up to four tentacle Strikes, each against a different target. These attacks count toward the irnakurse's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all of its attacks. Irnakurse Mockeries When drow capture a particularly hated surface elf, or one with a large following, they inflict even greater pain upon them during the fleshwarping process than most other victims. The resulting irnakurse are known as “mockeries,” and always have elite adjustments. Rather than using them, drow keep them close at hand as living “art” akin to a pet or trophy. ",
+ "trait": [
+  "Aberration",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=670",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 3
+}

@@ -1,0 +1,102 @@
+{
+ "ac": 25,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Consecration Vulnerability",
+  "Mortic Ferocity",
+  "Soul Feast",
+  "Death Gasp",
+  "Ghost Hunter",
+  "Leech Essence"
+ ],
+ "creature_family": "Mortic",
+ "creature_family_markdown": "[Mortic](/MonsterFamilies.aspx?ID=248)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 165,
+ "hp_raw": "165 ( negative healing )",
+ "id": "creature-1236",
+ "image": [
+  "/Images/Monsters/Mortic_Lifeleecher.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Lifeleecher](/Monsters.aspx?ID=1236)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLifeleechers are mortic [orcs](/Ancestries.aspx?ID=19) with gray flesh, sharp claws, and protruding tusks. Resilient and strong, they devour the vital essence of their enemies, which heals their wounds and shackles those souls to the lifeleecher.\n\n Many orcs believe lifeleechers are possessed by the spirits of fallen orc warriors too stubborn to die. Feared and revered, lifeleechers often rise to positions of power in their holds and battle on the front lines against the undead armies of the Whispering Tyrant.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mortic_Lifeleecher.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Lifeleecher Brawler](/Monsters.aspx?ID=1236)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mortic\" url=\"/Traits.aspx?ID=357\" />\r\n<trait label=\"Orc\" url=\"/Traits.aspx?ID=124\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 176</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +18, [Intimidation](/Skills.aspx?ID=7) +16, [Survival](/Skills.aspx?ID=16) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** +3\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Breastplate](/Armor.aspx?ID=10), _+1 [striking](/Equipment.aspx?ID=280) [composite shortbow](/Weapons.aspx?ID=75) (20 arrows)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 165\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Consecration Vulnerability** A lifeleecher in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [_sanctified ground_](/Spells.aspx?ID=265), is [slowed 1](/Conditions.aspx?ID=35).<br />**Mortic Ferocity** <actions string=\"Reaction\" /> As [Ferocity](/MonsterAbilities.aspx?ID=16), but the lifeleecher is also surrounded by visibly flickering fragments of the souls they've consumed, becoming [concealed](/Conditions.aspx?ID=4) until the end of their next turn.<br />**Soul Feast** <actions string=\"Reaction\" /> ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117), [negative](/Traits.aspx?ID=118)) **Trigger** A creature adjacent to the lifeleecher dies; **Effect** The lifeleecher consumes a portion of the creature's soul, regaining 2d8 Hit Points.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntusk +20,\r\n**Damage** 2d6+6 piercing plus leech essence\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+6 slashing plus 1d6 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_composite shortbow_ +19 ([deadly d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [Propulsive](/Traits.aspx?ID=191), [range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+3 piercing\n\n**Death Gasp** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) The lifeleecher draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The lifeleecher gains the [undead](/Traits.aspx?ID=160) trait and becomes immune to bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), and [sleep](/Traits.aspx?ID=145). Any such effects the lifeleecher is currently suffering from are suspended, but take effect again once they take a breath.<br /> Death Gasp lasts as long as the lifeleecher [holds their breath](/Rules.aspx?ID=468) (up to 11 rounds).\r\n\r\n**Ghost Hunter**   The lifeleecher's tusks have the effects of the _[ghost touch](/Equipment.aspx?ID=297)_ property rune on attacks against [incorporeal](/Traits.aspx?ID=222) [undead](/Traits.aspx?ID=160).\r\n\r\n**Leech Essence**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When the lifeleecher damages a living or [undead](/Traits.aspx?ID=160) creature with their jaws Strike, they drain the target's life essence. The lifeleecher gains 5 temporary Hit Points that last for 1 minute, and the target must succeed at a DC 24 Fortitude save or become [drained 1](/Conditions.aspx?ID=10) if living, or [stunned 1](/Conditions.aspx?ID=36) if undead. If the target was already drained or stunned, the value of this condition instead increases by 1, to a maximum of 3.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Defying Death</title>\r\n\r\nLifeleechers are commonly formed when an orc tainted by the pollutants of the Gravelands falls in battle. As their ferocity overcomes them, they transform into mortics and continue the fight, drawing sustenance from the enemies that first laid them low.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-248\" />",
+ "name": "Lifeleecher Brawler",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 16,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mortic\" url=\"/Traits.aspx?ID=357\" />\r\n<trait label=\"Orc\" url=\"/Traits.aspx?ID=124\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 176</row>\r\n\r\n**Creature Family** [Mortic](/MonsterFamilies.aspx?ID=248)\r\n\r\n<row gap=\"medium\">\r\n**HP** 165 ( negative healing )\r\n\r\n**AC** 25\r\n\r\n**Fort** +20\r\n\r\n**Ref** +16\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLifeleechers are mortic  orcs  with gray flesh, sharp claws, and protruding tusks. Resilient and strong, they devour the vital essence of their …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +18",
+  "Intimidation +16",
+  "Survival +15"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +18, [Intimidation](/Skills.aspx?ID=7) +16, [Survival](/Skills.aspx?ID=16) +15",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 176"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 176</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Lifeleechers are mortic  orcs  with gray flesh, sharp claws, and protruding tusks. Resilient and strong, they devour the vital essence of their …",
+ "summary_markdown": "Lifeleechers are mortic  orcs  with gray flesh, sharp claws, and protruding tusks. Resilient and strong, they devour the vital essence of their …",
+ "text": " Lifeleecher Lifeleechers are mortic orcs with gray flesh, sharp claws, and protruding tusks. Resilient and strong, they devour the vital essence of their enemies, which heals their wounds and shackles those souls to the lifeleecher. Many orcs believe lifeleechers are possessed by the spirits of fallen orc warriors too stubborn to die. Feared and revered, lifeleechers often rise to positions of power in their holds and battle on the front lines against the undead armies of the Whispering Tyrant. Recall Knowledge - Humanoid (Society): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Lifeleecher Brawler Source Bestiary 3 pg. 176 Perception +15; darkvision Languages Common, Necril Skills Athletics +18, Intimidation +16, Survival +15 Str +6 Dex +4 Con +6 Int +3 Wis +3 Cha +4 Items Breastplate, +1 striking composite shortbow (20 arrows) --- AC 25 Fort +20 Ref +16 Will +13 HP 165 (negative healing) Consecration Vulnerability A lifeleecher in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground , is slowed 1. Mortic Ferocity Reaction As Ferocity, but the lifeleecher is also surrounded by visibly flickering fragments of the souls they've consumed, becoming concealed until the end of their next turn. Soul Feast Reaction (divine, necromancy, negative) Trigger A creature adjacent to the lifeleecher dies; Effect The lifeleecher consumes a portion of the creature's soul, regaining 2d8 Hit Points. --- Speed 25 feet Melee Single Action tusk +20, Damage 2d6+6 piercing plus leech essence Melee Single Action claw +20 (Agile), Damage 2d8+6 slashing plus 1d6 persistent bleed Ranged Single Action composite shortbow +19 (deadly d10, Magical, Propulsive, range increment 30 feet), Damage 2d6+3 piercing Death Gasp Single Action (Divine, Necromancy) The lifeleecher draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The lifeleecher gains the undead trait and becomes immune to bleed, death effects, disease, paralyzed, poison, and sleep. Any such effects the lifeleecher is currently suffering from are suspended, but take effect again once they take a breath. Death Gasp lasts as long as the lifeleecher holds their breath (up to 11 rounds). Ghost Hunter The lifeleecher's tusks have the effects of the ghost touch property rune on attacks against incorporeal undead. Leech Essence (Divine, Necromancy) When the lifeleecher damages a living or undead creature with their jaws Strike, they drain the target's life essence. The lifeleecher gains 5 temporary Hit Points that last for 1 minute, and the target must succeed at a DC 24 Fortitude save or become drained 1 if living, or stunned 1 if undead. If the target was already drained or stunned, the value of this condition instead increases by 1, to a maximum of 3. Defying Death Lifeleechers are commonly formed when an orc tainted by the pollutants of the Gravelands falls in battle. As their ferocity overcomes them, they transform into mortics and continue the fight, drawing sustenance from the enemies that first laid them low. ",
+ "trait": [
+  "Humanoid",
+  "Mortic",
+  "Orc",
+  "Rare",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Mortic](/Traits.aspx?ID=357), [Orc](/Traits.aspx?ID=124), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Humanoid",
+  "Mortic",
+  "Orc",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1236",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 3
+}

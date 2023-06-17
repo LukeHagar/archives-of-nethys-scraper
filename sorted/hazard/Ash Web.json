@@ -1,0 +1,57 @@
+{
+ "ac": 28,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "Survival  DC 27 (expert) to remove a 10-foot-square patch of ash web without triggering the spores",
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hazard_type": "Environmental",
+ "hp": 100,
+ "hp_raw": "100",
+ "id": "hazard-79",
+ "immunity": [
+  "acid",
+  "critical hits",
+  "electricity",
+  "fire",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "[acid](/Traits.aspx?ID=3), critical hits, [electricity](/Traits.aspx?ID=56), [fire](/Traits.aspx?ID=72), object immunities, precision damage",
+ "level": 10,
+ "markdown": "<title level=\"1\" right=\"Hazard 10\" pfs=\"\">[Ash Web](/Hazards.aspx?ID=79)</title>\r\n\r\n<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 12</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThis dangerous sooty black mold readily releases its toxic spores when disturbed. The entire swath of fungus in area B2 is a single organism. There are nine 10-foot-square patches to remove, but the whole organism dies once it takes enough damage.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 31 (expert)\r\n\r\n**Disable**\r\n[Survival](/Skills.aspx?ID=16) DC 27 (expert) to remove a 10-foot-square patch of ash web without triggering the spores\n\n<column gap=\"tiny\">\r\n\r\n**AC** 28, **Fort** +22, **Ref** +14\n\n**HP**\r\n100\r\n\r\n**Immunities**\r\n[acid](/Traits.aspx?ID=3), critical hits, [electricity](/Traits.aspx?ID=56), [fire](/Traits.aspx?ID=72), object immunities, precision damage\n\n</column>\r\n\r\n**Spore Explosion** <actions string=\"Reaction\" /> **Trigger** A creature moves into the ash web's space or damages the web with any type of damage other than [cold](/Traits.aspx?ID=27) damage. **Requirements** The ash web is not in direct sunlight. **Effect** The triggering creature and all creatures within 10 feet of that creature are exposed to ash web spores.\n\n **Ash Web Spores** ([inhaled](/Traits.aspx?ID=96), [poison](/Traits.aspx?ID=126)) The [enfeebled](/Conditions.aspx?ID=13) condition from ash web remains even after the poison's duration ends. The condition's value reduces by 1 per hour. [Gugs](/Monsters.aspx?ID=252) are immune to this poison; instead, they have vivid and strange dreams when they sleep after ingesting ash web. **Saving Throw** Fortitude DC 29; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and enfeebled 1 (1 round); **Stage 2** 4d6 poison damage and enfeebled 2 (1 round); **Stage 3** 6d6 poison and enfeebled 3 (1 round).\n\n---\r\n**Reset**\r\nThis large patch of ash web resets automatically at the start of the round.",
+ "name": "Ash Web",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2019-10-16",
+ "reset": "This large patch of ash web resets automatically at the start of the round.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 12</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis dangerous sooty black mold readily releases its toxic spores when disturbed. The entire swath of fungus in area B2 is a single organism. There …\r\n</summary>",
+ "source": [
+  "Pathfinder #148: Fires of the Haunted City"
+ ],
+ "source_raw": [
+  "Pathfinder #148: Fires of the Haunted City pg. 12"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 12</row>",
+ "speed": {},
+ "stealth": "DC 31 (expert)",
+ "summary": "This dangerous sooty black mold readily releases its toxic spores when disturbed. The entire swath of fungus in area B2 is a single organism. There …",
+ "summary_markdown": "This dangerous sooty black mold readily releases its toxic spores when disturbed. The entire swath of fungus in area B2 is a single organism. There …",
+ "text": " Ash Web Source Pathfinder #148: Fires of the Haunted City pg. 12 Complexity Simple This dangerous sooty black mold readily releases its toxic spores when disturbed. The entire swath of fungus in area B2 is a single organism. There are nine 10-foot-square patches to remove, but the whole organism dies once it takes enough damage. --- Stealth DC 31 (expert) Disable Survival DC 27 (expert) to remove a 10-foot-square patch of ash web without triggering the spores AC 28, Fort +22, Ref +14 HP 100 Immunities acid, critical hits, electricity, fire, object immunities, precision damage Spore Explosion Reaction Trigger A creature moves into the ash web's space or damages the web with any type of damage other than cold damage. Requirements The ash web is not in direct sunlight. Effect The triggering creature and all creatures within 10 feet of that creature are exposed to ash web spores. Ash Web Spores (inhaled, poison) The enfeebled condition from ash web remains even after the poison's duration ends. The condition's value reduces by 1 per hour. Gugs are immune to this poison; instead, they have vivid and strange dreams when they sleep after ingesting ash web. Saving Throw Fortitude DC 29; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and enfeebled 1 (1 round); Stage 2 4d6 poison damage and enfeebled 2 (1 round); Stage 3 6d6 poison and enfeebled 3 (1 round). --- Reset This large patch of ash web resets automatically at the start of the round.",
+ "trait": [
+  "Environmental",
+  "Fungus"
+ ],
+ "trait_markdown": "[Environmental](/Traits.aspx?ID=62), [Fungus](/Traits.aspx?ID=77)",
+ "trait_raw": [
+  "Environmental",
+  "Fungus"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=79",
+ "weakness": {}
+}

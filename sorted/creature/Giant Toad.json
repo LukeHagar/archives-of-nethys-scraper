@@ -1,0 +1,90 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 3,
+ "creature_ability": [
+  "Poisonous Warts",
+  "Giant Toad Poison",
+  "Swallow Whole",
+  "Tongue Grab"
+ ],
+ "creature_family": "Toad",
+ "creature_family_markdown": "[Toad](/MonsterFamilies.aspx?ID=206)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 36,
+ "hp_raw": "36",
+ "id": "creature-828",
+ "image": [
+  "/Images/Monsters/Toad_GiantToad.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Toad](/Monsters.aspx?ID=828)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMost giant toads live in dry environments, particularly deserts, and eagerly eat almost any creature smaller than themselves. They're known to eat giant rats, then take over the rats' burrows as homes. Giant toads have large poison glands behind their eyes that enable them to coat their skin with poison. This leads to them having very few natural predators, and populations can quickly explode if left unchecked. While most consider giant toads dangerous pests, some groups of [ogres](/MonsterFamilies.aspx?ID=78) and [hill giants](/Monsters.aspx?ID=220) cultivate them to collect their poison for recreational use.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Toad_GiantToad.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Giant Toad](/Monsters.aspx?ID=828)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 261 <sup>2.0</sup></row>\n\n**Perception** +8; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 36\n\n**Poisonous Warts** Any creature that hits the giant toad with an unarmed Strike or otherwise touches the toad is exposed to giant toad poison.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +11,\r\n**Damage** 1d8+5 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntongue +11 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** tongue grab\n\n**Giant Toad Poison**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 19 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** [stupefied 1](/Conditions.aspx?ID=37) (1 round); **Stage 2** stupefied 1 and [confused](/Conditions.aspx?ID=5) (1 round)\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Medium, 1d8+2 bludgeoning, Rupture 8\r\n\r\n**Tongue Grab**   A creature hit by the giant toad's tongue becomes [grabbed](/Conditions.aspx?ID=20) by the giant toad. The creature isn't [immobilized](/Conditions.aspx?ID=24), but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful Strike against AC 15 that deals at least 6 slashing damage. This deals no damage to the toad but prevents it from using its tongue Strike until it regrows its tongue, which takes a week.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Frogs and Toads</title>\r\n\r\nWhile they might look similar in appearance, toads and [frogs](/MonsterFamilies.aspx?ID=137) are quite different creatures, particularly some of their oversized variants. Frogs tend to dwell in swampy or marshy areas, while toads are found in drier regions like forests, plains, grasslands, and deserts. Monstrous toads also skew to a larger size overall.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-206\" />",
+ "name": "Giant Toad",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 261 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Toad](/MonsterFamilies.aspx?ID=206)\r\n\r\n<row gap=\"medium\">\r\n**HP** 36\r\n\r\n**AC** 17\r\n\r\n**Fort** +9\r\n\r\n**Ref** +8\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMost giant toads live in dry environments, particularly deserts, and eagerly eat almost any creature smaller than themselves. They're known to eat …\r\n</summary>",
+ "sense": " low-light vision ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +9",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 261"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 261 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Most giant toads live in dry environments, particularly deserts, and eagerly eat almost any creature smaller than themselves. They're known to eat …",
+ "summary_markdown": "Most giant toads live in dry environments, particularly deserts, and eagerly eat almost any creature smaller than themselves. They're known to eat …",
+ "text": " Giant Toad Most giant toads live in dry environments, particularly deserts, and eagerly eat almost any creature smaller than themselves. They're known to eat giant rats, then take over the rats' burrows as homes. Giant toads have large poison glands behind their eyes that enable them to coat their skin with poison. This leads to them having very few natural predators, and populations can quickly explode if left unchecked. While most consider giant toads dangerous pests, some groups of ogres and hill giants cultivate them to collect their poison for recreational use. Recall Knowledge - Animal (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Giant Toad Source Bestiary 2 pg. 261 2.0 Perception +8; low-light vision, scent (imprecise) 30 feet Languages Skills Athletics +9, Stealth +6 Str +5 Dex +2 Con +3 Int -4 Wis +2 Cha -2 --- AC 17 Fort +9 Ref +8 Will +6 HP 36 Poisonous Warts Any creature that hits the giant toad with an unarmed Strike or otherwise touches the toad is exposed to giant toad poison. --- Speed 25 feet Melee Single Action bite +11, Damage 1d8+5 piercing plus Grab Melee Single Action tongue +11 (reach 10 feet), Damage tongue grab Giant Toad Poison (Poison) Saving Throw DC 19 Fortitude; Maximum Duration 6 rounds; Stage 1 stupefied 1 (1 round); Stage 2 stupefied 1 and confused (1 round) Swallow Whole Single Action (Attack) Medium, 1d8+2 bludgeoning, Rupture 8 Tongue Grab A creature hit by the giant toad's tongue becomes grabbed by the giant toad. The creature isn't immobilized, but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful Strike against AC 15 that deals at least 6 slashing damage. This deals no damage to the toad but prevents it from using its tongue Strike until it regrows its tongue, which takes a week. Frogs and Toads While they might look similar in appearance, toads and frogs are quite different creatures, particularly some of their oversized variants. Frogs tend to dwell in swampy or marshy areas, while toads are found in drier regions like forests, plains, grasslands, and deserts. Monstrous toads also skew to a larger size overall. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=828",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 2
+}

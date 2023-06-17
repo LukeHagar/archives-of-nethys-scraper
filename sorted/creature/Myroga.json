@@ -1,0 +1,114 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 4,
+ "creature_ability": [
+  "Ley Line Sense",
+  "Attack of Opportunity",
+  "Draconic Frenzy",
+  "Ley Line Empowerment",
+  "Ley Line Rupture"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 120,
+ "hp_raw": "120",
+ "id": "creature-2460",
+ "image": [
+  "/Images/Monsters/Myroga.png"
+ ],
+ "immunity": [
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "[paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 2,
+ "language": [
+  "Aklo",
+  "Draconic"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Draconic](/Languages.aspx?ID=2)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"\">[Myroga](/Monsters.aspx?ID=2460)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMyrogas are avaricious, simple-minded dragons with supernatural occult powers. They draw their amazing abilities from [ley lines](/Rules.aspx?ID=1531)—loci of intense magical energy often associated with psychic phenomena.\n\n A myroga encountered away from a ley line is far less dangerous, a fact which myrogas recognize and take great pains to mitigate. Upon discovering an unoccupied ley line, a myroga is apt to roost nearby and guard the site ferociously. All the while, it sups on the ley line's nearly inexhaustible ambient magic to grow stronger and expand its repertoire of brutal powers.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Myroga.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Myroga](/Monsters.aspx?ID=2460)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 88</row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12), ley line sense (imprecise) 1 mile, [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +14, [Intimidation](/Skills.aspx?ID=7) +15, [Occultism](/Skills.aspx?ID=11) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Ley Line Sense** The myroga can sense the presence, direction, and strength of any ley line within 1 mile.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 120\n\n**Immunities**\r\n[paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)\r\n\r\n**Resistances**\r\nphysical 5 (while within 500 feet of a ley line)\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> fangs only\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +16 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+7 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +16 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+7 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +16 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+7 slashing\r\n\r\n**Occult Innate Spells** DC 23\r\n- **3rd**\r\n[Grim Tendrils](/Spells.aspx?ID=141) (×2)\r\n\r\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The myroga makes two talon Strikes and one tail Strike in any order.\r\n\r\n**Ley Line Empowerment** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Force](/Traits.aspx?ID=75), [Occult](/Traits.aspx?ID=120)) **Requirements** The myroga is within 500 feet of a ley line; **Effect** The myroga wreathes itself in raw destructive energy converted from the ley line's ambient magic. The myroga deals an additional 2d6 force damage with each of its next successful fangs, tail, and talon Strike. Once its dealt damage with one of these Strikes, the energy is discharged from that body part, but not the others.\r\n\r\n**Ley Line Rupture** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15), [Evocation](/Traits.aspx?ID=65), [Force](/Traits.aspx?ID=75), [Occult](/Traits.aspx?ID=120)) **Requirements** The myroga is within 500 feet of a ley line; **Effect** The myroga diverts some of the ley line's magic into a deadly and distant explosion. The myroga creates a detonation of force in a 5-foot square within a mile of its ley line and that it can see, dealing 5d6 force damage to creatures (DC 24 [basic](/Rules.aspx?ID=329) Reflex save). A myroga can will the detonation into existence anywhere within a mile of the ley line, possibly allowing it to ignore cover the target might have from, for example, an obstacle between itself and the myroga.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Myroga Hoards</title>\r\n\r\nLike most dragons, myrogas often amass sizeable hoards of treasure in the course of their long, violent lives. A myroga's treasures tend to be eccentric and strange. Powerful crystal balls, cursed suits of armor, and intelligent talking weapons are among the most commonplace treasures found in a myroga's hoard of wonders. \r\n</aside>",
+ "name": "Myroga",
+ "npc": false,
+ "perception": 17,
+ "rarity": "rare",
+ "reflex_save": 15,
+ "release_date": "2023-02-22",
+ "resistance": {
+  "bludgeoning": 5,
+  "physical": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "physical 5 (while within 500 feet of a ley line)",
+ "resistance_raw": "physical 5 (while within 500 feet of a ley line)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 88</row>\n\n<row gap=\"medium\">\r\n**HP** 120\r\n\r\n**AC** 24\r\n\r\n**Fort** +16\r\n\r\n**Ref** +15\r\n\r\n**Will** +14\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMyrogas are avaricious, simple-minded dragons with supernatural occult powers. They draw their amazing abilities from  ley lines —loci of intense …\r\n</summary>",
+ "sense": " darkvision , ley line sense (imprecise) 1 mile,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), ley line sense (imprecise) 1 mile, [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Athletics +14",
+  "Intimidation +15",
+  "Occultism +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +14, [Intimidation](/Skills.aspx?ID=7) +15, [Occultism](/Skills.aspx?ID=11) +14",
+ "source": [
+  "Pathfinder #188: They Watched the Stars"
+ ],
+ "source_raw": [
+  "Pathfinder #188: They Watched the Stars pg. 88"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 88</row>",
+ "speed": {
+  "fly": 50,
+  "land": 20,
+  "max": 50
+ },
+ "speed_markdown": "20 feet, fly 50 feet",
+ "speed_raw": "20 feet, fly 50 feet",
+ "spell": [
+  "Grim Tendrils"
+ ],
+ "spell_markdown": "[Grim Tendrils](/Spells.aspx?ID=141)",
+ "spoilers": "Gatewalkers",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Myrogas are avaricious, simple-minded dragons with supernatural occult powers. They draw their amazing abilities from  ley lines —loci of intense …",
+ "summary_markdown": "Myrogas are avaricious, simple-minded dragons with supernatural occult powers. They draw their amazing abilities from  ley lines —loci of intense …",
+ "text": " Myroga Myrogas are avaricious, simple-minded dragons with supernatural occult powers. They draw their amazing abilities from ley lines—loci of intense magical energy often associated with psychic phenomena. A myroga encountered away from a ley line is far less dangerous, a fact which myrogas recognize and take great pains to mitigate. Upon discovering an unoccupied ley line, a myroga is apt to roost nearby and guard the site ferociously. All the while, it sups on the ley line's nearly inexhaustible ambient magic to grow stronger and expand its repertoire of brutal powers. Recall Knowledge - Dragon (Arcana): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Myroga Source Pathfinder #188: They Watched the Stars pg. 88 Perception +17; darkvision, ley line sense (imprecise) 1 mile, scent (imprecise) 30 feet Languages Aklo, Draconic Skills Acrobatics +15, Athletics +14, Intimidation +15, Occultism +14 Str +4 Dex +3 Con +4 Int +2 Wis +2 Cha +5 Ley Line Sense The myroga can sense the presence, direction, and strength of any ley line within 1 mile. --- AC 24 Fort +16 Ref +15 Will +14 HP 120 Immunities paralyzed, sleep Resistances physical 5 (while within 500 feet of a ley line) Attack of Opportunity Reaction fangs only --- Speed 20 feet, fly 50 feet Melee Single Action fangs +16 (reach 10 feet), Damage 2d8+7 piercing Melee Single Action tail +16 (reach 15 feet), Damage 2d6+7 bludgeoning Melee Single Action talon +16 (Agile), Damage 2d6+7 slashing Occult Innate Spells DC 23 - 3rd Grim Tendrils (×2) Draconic Frenzy Two Actions The myroga makes two talon Strikes and one tail Strike in any order. Ley Line Empowerment Two Actions (Evocation, Force, Occult) Requirements The myroga is within 500 feet of a ley line; Effect The myroga wreathes itself in raw destructive energy converted from the ley line's ambient magic. The myroga deals an additional 2d6 force damage with each of its next successful fangs, tail, and talon Strike. Once its dealt damage with one of these Strikes, the energy is discharged from that body part, but not the others. Ley Line Rupture Single Action (Attack, Evocation, Force, Occult) Requirements The myroga is within 500 feet of a ley line; Effect The myroga diverts some of the ley line's magic into a deadly and distant explosion. The myroga creates a detonation of force in a 5-foot square within a mile of its ley line and that it can see, dealing 5d6 force damage to creatures (DC 24 basic Reflex save). A myroga can will the detonation into existence anywhere within a mile of the ley line, possibly allowing it to ignore cover the target might have from, for example, an obstacle between itself and the myroga. Myroga Hoards Like most dragons, myrogas often amass sizeable hoards of treasure in the course of their long, violent lives. A myroga's treasures tend to be eccentric and strange. Powerful crystal balls, cursed suits of armor, and intelligent talking weapons are among the most commonplace treasures found in a myroga's hoard of wonders. ",
+ "trait": [
+  "Dragon",
+  "Rare",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Dragon",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2460",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 2
+}

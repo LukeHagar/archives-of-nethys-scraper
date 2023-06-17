@@ -1,0 +1,106 @@
+{
+ "ac": 23,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 2,
+ "creature_ability": [
+  "Despair",
+  "Mummy Rot"
+ ],
+ "creature_family": "Mummy",
+ "creature_family_markdown": "[Mummy](/MonsterFamilies.aspx?ID=74)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 110,
+ "hp_raw": "110 ( negative healing )",
+ "id": "creature-304",
+ "image": [
+  "/Images/Monsters/Mummy_MummyGuardian.png"
+ ],
+ "immunity": [
+  "death effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "death effects, disease, paralyzed, poison, unconscious",
+ "intelligence": -2,
+ "language": [
+  "Necril",
+  "plus any one ancient language"
+ ],
+ "language_markdown": "[Necril](/Languages.aspx?ID=20); plus any one ancient language",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mummy Guardian](/Monsters.aspx?ID=304)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe majority of mummies were created by cruel and selfish masters to serve as guardians to protect their tombs from intruders. The traditional method of creating a mummy guardian is a laborious and sadistic process that begins well before the poor soul to be transformed is dead, during which the victim is ritualistically starved of nourishing food and instead fed strange spices, preservative agents, and toxins intended to quicken the desiccation of the flesh. The victim remains immobile but painfully aware during the final stages, where its now-useless entrails are extracted before it’s shrouded in funerary wrappings and entombed within a necromantically ensorcelled sarcophagus to await intrusions in the potentially distant future. While it’s certainly possible to use other methods to create a mummy guardian from an already-deceased body, those who seek to create these foul undead as their guardians in the afterlife often feel that such methods result in inferior undead—the pain and agony of death by mummification being an essential step in the process.\n\n Regardless of the method of their creation, mummy guardians are more than just physical shells of flesh and bone—they retain fragmented, distorted versions of their minds, with only enough memories of their living personality remaining to fuel their undead anger and jealousy of those who yet live. This burning rage only intensifies over the centuries of waiting within a crypt for the chance to actually act, and thus when most mummy guardians are awoken by tomb robbers or adventurers, they stop at nothing in pursuit of glorious slaughter.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mummy_MummyGuardian.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Mummy Guardian](/Monsters.aspx?ID=304)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mummy\" url=\"/Traits.aspx?ID=228\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 240</row>\n\n**Perception** +16; darkvision\r\n\r\n**Languages**\r\n[Necril](/Languages.aspx?ID=20); plus any one ancient language\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +0\r\n\r\n**Con** +2\r\n\r\n**Int** -2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 110\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\ndeath effects, disease, paralyzed, poison, unconscious\n\n**Weaknesses**\r\nfire 5\r\n\r\n**Despair** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [fear](/Traits.aspx?ID=68), [incapacitation](/Traits.aspx?ID=93), [mental](/Traits.aspx?ID=106)) 30 feet. Living creatures are frightened 1 while in a mummy guardian’s despair aura. They can’t naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 22 Will save (after taking the penalty from being frightened) or be paralyzed for 1 round. The creature is then temporarily immune for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +16,\r\n**Damage** 2d6+7 bludgeoning plus mummy rot\n\n**Mummy Rot**  ([Curse](/Traits.aspx?ID=38), [Disease](/Traits.aspx?ID=46), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118)) This disease and any damage from it can’t be healed until this curse is removed. A creature killed by mummy rot turns to dust and can’t be resurrected except by a 7th-level [_resurrect_](/Rituals.aspx?ID=20) ritual or similar magic. **Saving Throw** DC 22 Fortitude; **Stage 1** carrier with no ill effect (1 minute); **Stage 2** 4d6 negative damage and [stupefied 1](/Conditions.aspx?ID=37) (1 day)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Associated Monsters</title>\r\n\r\nA mummy guardian might serve alongside a mummy pharaoh or with zombies, skeletons, animated objects, or any other undead or constructs that might be found in their tomb lairs.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-74\" />",
+ "name": "Mummy Guardian",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mummy\" url=\"/Traits.aspx?ID=228\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 240</row>\r\n\r\n**Creature Family** [Mummy](/MonsterFamilies.aspx?ID=74)\r\n\r\n<row gap=\"medium\">\r\n**HP** 110 ( negative healing )\r\n\r\n**AC** 23\r\n\r\n**Fort** +14\r\n\r\n**Ref** +10\r\n\r\n**Will** +16\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe majority of mummies were created by cruel and selfish masters to serve as guardians to protect their tombs from intruders. The traditional method …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +15",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 240"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 240</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "11",
+ "strength": 4,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The majority of mummies were created by cruel and selfish masters to serve as guardians to protect their tombs from intruders. The traditional method …",
+ "summary_markdown": "The majority of mummies were created by cruel and selfish masters to serve as guardians to protect their tombs from intruders. The traditional method …",
+ "text": " Mummy Guardian The majority of mummies were created by cruel and selfish masters to serve as guardians to protect their tombs from intruders. The traditional method of creating a mummy guardian is a laborious and sadistic process that begins well before the poor soul to be transformed is dead, during which the victim is ritualistically starved of nourishing food and instead fed strange spices, preservative agents, and toxins intended to quicken the desiccation of the flesh. The victim remains immobile but painfully aware during the final stages, where its now-useless entrails are extracted before it’s shrouded in funerary wrappings and entombed within a necromantically ensorcelled sarcophagus to await intrusions in the potentially distant future. While it’s certainly possible to use other methods to create a mummy guardian from an already-deceased body, those who seek to create these foul undead as their guardians in the afterlife often feel that such methods result in inferior undead—the pain and agony of death by mummification being an essential step in the process. Regardless of the method of their creation, mummy guardians are more than just physical shells of flesh and bone—they retain fragmented, distorted versions of their minds, with only enough memories of their living personality remaining to fuel their undead anger and jealousy of those who yet live. This burning rage only intensifies over the centuries of waiting within a crypt for the chance to actually act, and thus when most mummy guardians are awoken by tomb robbers or adventurers, they stop at nothing in pursuit of glorious slaughter. Recall Knowledge - Undead (Religion): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Mummy Guardian Source Bestiary pg. 240 Perception +16; darkvision Languages Necril; plus any one ancient language Skills Athletics +15, Stealth +11 Str +4 Dex +0 Con +2 Int -2 Wis +4 Cha +2 --- AC 23 Fort +14 Ref +10 Will +16 HP 110 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses fire 5 Despair (aura, divine, emotion, enchantment, fear, incapacitation, mental) 30 feet. Living creatures are frightened 1 while in a mummy guardian’s despair aura. They can’t naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 22 Will save (after taking the penalty from being frightened) or be paralyzed for 1 round. The creature is then temporarily immune for 24 hours. --- Speed 20 feet Melee Single Action fist +16, Damage 2d6+7 bludgeoning plus mummy rot Mummy Rot (Curse, Disease, Divine, Necromancy, Negative) This disease and any damage from it can’t be healed until this curse is removed. A creature killed by mummy rot turns to dust and can’t be resurrected except by a 7th-level resurrect ritual or similar magic. Saving Throw DC 22 Fortitude; Stage 1 carrier with no ill effect (1 minute); Stage 2 4d6 negative damage and stupefied 1 (1 day) Associated Monsters A mummy guardian might serve alongside a mummy pharaoh or with zombies, skeletons, animated objects, or any other undead or constructs that might be found in their tomb lairs. ",
+ "trait": [
+  "Mummy",
+  "Undead",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Mummy](/Traits.aspx?ID=228), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mummy",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=304",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 16,
+ "wisdom": 4
+}

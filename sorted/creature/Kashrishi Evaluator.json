@@ -1,0 +1,102 @@
+{
+ "ac": 20,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 0,
+ "creature_ability": [
+  "Empathic Sense",
+  "Evaluate Discordance"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 50,
+ "hp_raw": "50",
+ "id": "creature-2410",
+ "image": [
+  "/Images/Monsters/Kashrishi_KashrishiEvaluator.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Kashrishi"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Kashrishi](/Languages.aspx?ID=102)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Kashrishi](/Monsters.aspx?ID=2410)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTo some, kashrishi seem to be a quiet, passive people. Those with a deeper understanding know that there's plenty more nuance to interacting with kashrishi, who possess innate psychic abilities that greatly alter the way they communicate with the rest of the world. Unable to turn off their powers, these abilities add a complex dynamic to interpreting their surroundings. Without deeper understanding of a person, kashrishi are only able to get the most vague, general feelings from people around them. This becomes more refined as their relationships evolve; family and friends are often the easiest to engage in psychic communication, while strangers simply add to the amount of mental noise a kashrishi must process.\n\n Kashrishi resemble rhinoceroses, with soft, textured skin that can range from light sandy hues to darker obsidian, or rarer jewel tones of deep sapphire or ruby. The size and number of their horns vary. Kashrishi communities are generally quite welcoming to others, enjoying the conversation and unique auras of every new stranger. However, chaotic environments can overwhelm and overstimulate kashrishi not yet adept at filtering psychic energies, leaving some with limited tolerance for extensive social interaction with strangers and requiring they take periods of time to refocus after socializing. In spite of this possible drawback, kashrishi are typically strong communicators, excelling at roles that require attention to detail.\n\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Kashrishi_KashrishiEvaluator.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Kashrishi Evaluator](/Monsters.aspx?ID=2410)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Kashrishi\" url=\"/Traits.aspx?ID=462\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 331</row>\n\n**Perception** +13\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Kashrishi](/Languages.aspx?ID=102)\r\n\r\n**Skills**\r\n[Diplomacy](/Skills.aspx?ID=6) +12, [Nature](/Skills.aspx?ID=10) +11, [Occultism](/Skills.aspx?ID=11) +10, [Survival](/Skills.aspx?ID=16) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +2\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 50\n\n**Empathic Sense** Kashrishi evaluators can get a vague sense of the current emotional state of all other creatures within 15 feet of them, as long as the kashrishi evaluator is aware of those creatures. This manifests as a general feeling of happiness, anger, or fear, without any specific details. Additionally, any creature who succeeds at masking or faking their emotions using [Deception](/Skills.aspx?ID=5) projects the deceptive emotions instead of their true feelings. For those that kashrishi have an emotional connection with, physical touch can heighten this sense to greater degrees of detail and understanding, increasing with the strength of their bond.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +10 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+2 piercing\r\n\r\n**Occult Spontaneous Spells** DC 21, attack +13\r\n- **Cantrips (2nd)**\r\n[Daze](/Spells.aspx?ID=61), [Message](/Spells.aspx?ID=190), [Read Aura](/Spells.aspx?ID=246), [Shield](/Spells.aspx?ID=280), [Telekinetic Projectile](/Spells.aspx?ID=334)\r\n- **1st**\r\n[Mindlink](/Spells.aspx?ID=195), [Phantom Pain](/Spells.aspx?ID=220), [Soothe](/Spells.aspx?ID=291)\r\n- **2nd**\r\n[Calm Emotions](/Spells.aspx?ID=31), [Phantom Pain](/Spells.aspx?ID=220), [Telekinetic Maneuver](/Spells.aspx?ID=333)\r\n\r\n**Evaluate Discordance** <actions string=\"Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) **Frequency** once per day; **Effect** The kashrishi evaluator assesses the disharmony between themself and a creature within 30 feet and then sparks the discordance, sending psychic energy to overwhelm the target's feelings. This deals 6d6 mental damage (DC 21 [basic](/Rules.aspx?ID=329) Will save). On a critical failure, the target also becomes [stunned 1](/Conditions.aspx?ID=36).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Kashrishi Cuisine</title>\r\n\r\nMost Kashrishi are vegetarians. The lingering psychic energy they pick up from once-living creatures makes consuming them difficult. Their staple foods are spiced mixes of fruits, vegetables, nuts, and lentils. The extrasensory abilities of kashrishi have an additional gustatory effect, creating flavor profiles uniquely delicious to kashrishi and fascinatingly eccentric to other ancestries. Those with adventurous palettes often seek out kashrishi cuisine, filling many a kashrishi chef's coffers with gold.\r\n</aside>",
+ "name": "Kashrishi Evaluator",
+ "npc": false,
+ "perception": 13,
+ "rarity": "rare",
+ "reflex_save": 10,
+ "release_date": "2022-11-16",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Kashrishi\" url=\"/Traits.aspx?ID=462\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 331</row>\n\n<row gap=\"medium\">\r\n**HP** 50\r\n\r\n**AC** 20\r\n\r\n**Fort** +8\r\n\r\n**Ref** +10\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo some, kashrishi seem to be a quiet, passive people. Those with a deeper understanding know that there's plenty more nuance to interacting with …\r\n</summary>",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Diplomacy +12",
+  "Nature +11",
+  "Occultism +10",
+  "Survival +9"
+ ],
+ "skill_markdown": "[Diplomacy](/Skills.aspx?ID=6) +12, [Nature](/Skills.aspx?ID=10) +11, [Occultism](/Skills.aspx?ID=11) +10, [Survival](/Skills.aspx?ID=16) +9",
+ "source": [
+  "Impossible Lands"
+ ],
+ "source_raw": [
+  "Impossible Lands pg. 331"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[Impossible Lands](/Sources.aspx?ID=146) pg. 331</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Calm Emotions",
+  "Phantom Pain",
+  "Telekinetic Maneuver",
+  "Mindlink",
+  "Soothe",
+  "Daze",
+  "Message",
+  "Read Aura",
+  "Shield",
+  "Telekinetic Projectile"
+ ],
+ "spell_markdown": "[Calm Emotions](/Spells.aspx?ID=31), [Daze](/Spells.aspx?ID=61), [Message](/Spells.aspx?ID=190), [Mindlink](/Spells.aspx?ID=195), [Phantom Pain](/Spells.aspx?ID=220), [Read Aura](/Spells.aspx?ID=246), [Shield](/Spells.aspx?ID=280), [Soothe](/Spells.aspx?ID=291), [Telekinetic Maneuver](/Spells.aspx?ID=333), [Telekinetic Projectile](/Spells.aspx?ID=334)",
+ "strength": 0,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "To some, kashrishi seem to be a quiet, passive people. Those with a deeper understanding know that there's plenty more nuance to interacting with …",
+ "summary_markdown": "To some, kashrishi seem to be a quiet, passive people. Those with a deeper understanding know that there's plenty more nuance to interacting with …",
+ "text": " Kashrishi To some, kashrishi seem to be a quiet, passive people. Those with a deeper understanding know that there's plenty more nuance to interacting with kashrishi, who possess innate psychic abilities that greatly alter the way they communicate with the rest of the world. Unable to turn off their powers, these abilities add a complex dynamic to interpreting their surroundings. Without deeper understanding of a person, kashrishi are only able to get the most vague, general feelings from people around them. This becomes more refined as their relationships evolve; family and friends are often the easiest to engage in psychic communication, while strangers simply add to the amount of mental noise a kashrishi must process. Kashrishi resemble rhinoceroses, with soft, textured skin that can range from light sandy hues to darker obsidian, or rarer jewel tones of deep sapphire or ruby. The size and number of their horns vary. Kashrishi communities are generally quite welcoming to others, enjoying the conversation and unique auras of every new stranger. However, chaotic environments can overwhelm and overstimulate kashrishi not yet adept at filtering psychic energies, leaving some with limited tolerance for extensive social interaction with strangers and requiring they take periods of time to refocus after socializing. In spite of this possible drawback, kashrishi are typically strong communicators, excelling at roles that require attention to detail. Kashrishi Evaluator Source Impossible Lands pg. 331 Perception +13 Languages Common, Kashrishi Skills Diplomacy +12, Nature +11, Occultism +10, Survival +9 Str +0 Dex +2 Con +0 Int +2 Wis +3 Cha +4 Items Dagger --- AC 20 Fort +8 Ref +10 Will +13 HP 50 Empathic Sense Kashrishi evaluators can get a vague sense of the current emotional state of all other creatures within 15 feet of them, as long as the kashrishi evaluator is aware of those creatures. This manifests as a general feeling of happiness, anger, or fear, without any specific details. Additionally, any creature who succeeds at masking or faking their emotions using Deception projects the deceptive emotions instead of their true feelings. For those that kashrishi have an emotional connection with, physical touch can heighten this sense to greater degrees of detail and understanding, increasing with the strength of their bond. --- Speed 25 feet Melee Single Action dagger +10 (Agile, Finesse, thrown 10 feet, versatile S), Damage 1d4+2 piercing Occult Spontaneous Spells DC 21, attack +13 - Cantrips (2nd) Daze, Message, Read Aura, Shield, Telekinetic Projectile - 1st Mindlink, Phantom Pain, Soothe - 2nd Calm Emotions, Phantom Pain, Telekinetic Maneuver Evaluate Discordance Two Actions (Emotion, Enchantment, Mental, Occult) Frequency once per day; Effect The kashrishi evaluator assesses the disharmony between themself and a creature within 30 feet and then sparks the discordance, sending psychic energy to overwhelm the target's feelings. This deals 6d6 mental damage (DC 21 basic Will save). On a critical failure, the target also becomes stunned 1. Kashrishi Cuisine Most Kashrishi are vegetarians. The lingering psychic energy they pick up from once-living creatures makes consuming them difficult. Their staple foods are spiced mixes of fruits, vegetables, nuts, and lentils. The extrasensory abilities of kashrishi have an additional gustatory effect, creating flavor profiles uniquely delicious to kashrishi and fascinatingly eccentric to other ancestries. Those with adventurous palettes often seek out kashrishi cuisine, filling many a kashrishi chef's coffers with gold. ",
+ "trait": [
+  "Kashrishi",
+  "Rare",
+  "LN",
+  "Small"
+ ],
+ "trait_markdown": "[Kashrishi](/Traits.aspx?ID=462), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Kashrishi",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2410",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 3
+}

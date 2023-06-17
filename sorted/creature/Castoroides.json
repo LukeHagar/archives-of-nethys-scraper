@@ -1,0 +1,95 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Deep Breath",
+  "Slap",
+  "Construct Shelter",
+  "Penetrating Bite",
+  "Prop",
+  "Gouge"
+ ],
+ "creature_family": "Beaver",
+ "creature_family_markdown": "[Beaver](/MonsterFamilies.aspx?ID=300)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-1772",
+ "image": [
+  "/Images/Monsters/Castoroides.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Castoroides](/Monsters.aspx?ID=1772)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCastoroides are bear-sized beavers that build their lodges on land near a water source rather than in the water.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Castoroides.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Castoroides](/Monsters.aspx?ID=1772)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 82</row>\n\n**Perception** +10; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10, [Crafting](/Skills.aspx?ID=4) +7, [Survival](/Skills.aspx?ID=16) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Deep Breath** A castoroides can [hold its breath](/Rules.aspx?ID=468) for 1 hour.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\n\n**Slap** <actions string=\"Reaction\" /> **Trigger** The castoroides is targeted by a physical ranged Strike from an attacker it can see; **Effect** The castoroides swats at the projectile with its wide tail, gaining a +2 circumstance bonus to its AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +12,\r\n**Damage** 2d6+4 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Construct Shelter** <actions string=\"Three Actions\" />  The beaver takes 1 minute to rapidly construct a simple mound along one side of its space, which can be used to [Take Cover](/Actions.aspx?ID=90).\r\n\r\n**Penetrating Bite** <actions string=\"Two Actions\" />  The beaver makes a jaws Strike. The Strike ignores the first 5 Hardness of organic materials, such as rope, leather, and wood.\r\n\r\n**Prop** <actions string=\"Single Action\" />  The beaver stabilizes itself with its tail, gaining a +1 circumstance bonus to its Fortitude and Reflex DCs against [Shove](/Actions.aspx?ID=38) and [Trip](/Actions.aspx?ID=40) attempts until it next takes an action with the [move](/Traits.aspx?ID=114) trait.\r\n\r\n**Gouge** <actions string=\"Two Actions\" />  The castoroides deals 2d8 piercing damage to a creature it has [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33) (DC 20 [basic](/Rules.aspx?ID=329) Fortitude save). A creature that fails its save also takes 1d4 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-300\" />",
+ "name": "Castoroides",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 6,
+ "release_date": "2022-02-23",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 82</row>\r\n\r\n**Creature Family** [Beaver](/MonsterFamilies.aspx?ID=300)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +12\r\n\r\n**Ref** +6\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCastoroides are bear-sized beavers that build their lodges on land near a water source rather than in the water.\r\n</summary>",
+ "sense": " low-light vision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +10",
+  "Crafting +7",
+  "Survival +8"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10, [Crafting](/Skills.aspx?ID=4) +7, [Survival](/Skills.aspx?ID=16) +8",
+ "source": [
+  "Pathfinder #176: Lost Mammoth Valley"
+ ],
+ "source_raw": [
+  "Pathfinder #176: Lost Mammoth Valley pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 82</row>",
+ "speed": {
+  "land": 20,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "20 feet, swim 20 feet",
+ "speed_raw": "20 feet, swim 20 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Castoroides are bear-sized beavers that build their lodges on land near a water source rather than in the water.",
+ "summary_markdown": "Castoroides are bear-sized beavers that build their lodges on land near a water source rather than in the water.",
+ "text": " Castoroides Castoroides are bear-sized beavers that build their lodges on land near a water source rather than in the water. Recall Knowledge - Animal (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Castoroides Source Pathfinder #176: Lost Mammoth Valley pg. 82 Perception +10; low-light vision, scent (imprecise) 30 feet Languages Skills Athletics +10, Crafting +7, Survival +8 Str +4 Dex +1 Con +3 Int -4 Wis +3 Cha +1 Deep Breath A castoroides can hold its breath for 1 hour. --- AC 19 Fort +12 Ref +6 Will +8 HP 45 Slap Reaction Trigger The castoroides is targeted by a physical ranged Strike from an attacker it can see; Effect The castoroides swats at the projectile with its wide tail, gaining a +2 circumstance bonus to its AC against the triggering attack. --- Speed 20 feet, swim 20 feet Melee Single Action jaws +12, Damage 2d6+4 piercing plus Grab Construct Shelter Three Actions The beaver takes 1 minute to rapidly construct a simple mound along one side of its space, which can be used to Take Cover. Penetrating Bite Two Actions The beaver makes a jaws Strike. The Strike ignores the first 5 Hardness of organic materials, such as rope, leather, and wood. Prop Single Action The beaver stabilizes itself with its tail, gaining a +1 circumstance bonus to its Fortitude and Reflex DCs against Shove and Trip attempts until it next takes an action with the move trait. Gouge Two Actions The castoroides deals 2d8 piercing damage to a creature it has grabbed or restrained (DC 20 basic Fortitude save). A creature that fails its save also takes 1d4 persistent bleed damage. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1772",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 3
+}

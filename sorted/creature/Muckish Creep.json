@@ -1,0 +1,103 @@
+{
+ "ac": 27,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Elude Grasp",
+  "Blinding Mud",
+  "Compression",
+  "Mud Trail",
+  "Overwhelm",
+  "Slippery Body"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 160,
+ "hp_raw": "160",
+ "id": "creature-1400",
+ "image": [
+  "/Images/Monsters/MuckishCreep.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Muckish Creep](/Monsters.aspx?ID=1400)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLegends say that the first muckish creeps were born at the site of a mass grave where the souls of murdered prisoners coalesced into the surrounding soil. Another myth tells that muckish creeps were elementals so vile that their kin banished them from the [Plane of Earth](/Planes.aspx?ID=5). Regardless of their true origins, muckish creeps are wicked creatures that resemble mud given a humanoid shape. The mud is no ordinary mixture of earth and water, however, for muckish creeps feed on the blood of the living, and they use this blood to keep their own forms moist and malleable.\n\n Muckish creeps are particularly tenacious and single-minded when it comes to choosing prey. Once a muckish creep selects its next victim, there is little one can do to stop it, since it can seep through even the smallest cracks between doors, walls, and windows. A muckish creep typically waits until its target falls asleep before pressing itself into the creature's home, intent to kill. For all its tenacity during the hunt, the muckish creep is pragmatic when it comes to the actual kill, using its body to fill the victim's airways with mud and suffocate them.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/MuckishCreep.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Muckish Creep](/Monsters.aspx?ID=1400)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 88</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +0\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 160\n\n**Resistances**\r\nbludgeoning 8\r\n\r\n**Weaknesses**\r\nfire 8\r\n\r\n**Elude Grasp** <actions string=\"Reaction\" /> **Trigger** A creature succeeds at an attempt to [Grapple](/Actions.aspx?ID=35) the muckish creep; **Effect** The muckish creep attempts an [Athletics](/Skills.aspx?ID=3) check to [Escape](/Actions.aspx?ID=79).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +18,\r\n**Damage** 2d10+10 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nmud ball +18 ([thrown 30 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d6+10 bludgeoning plus blinding mud\n\n**Blinding Mud**   When a muckish creep hits a creature with a mud ball Strike, that creature becomes [dazzled](/Conditions.aspx?ID=7) (or [blinded](/Conditions.aspx?ID=1) on a critical hit). The creature can use an Interact action to wipe away the mud and remove the dazzled or blinded condition.\r\n\r\n**Compression**   A muckish creep can move through a gap at least 6 inches wide without [Squeezing](/Actions.aspx?ID=31) and can Squeeze through any gap at least 1 inch wide.\r\n\r\n**Mud Trail**   When a muckish creep Strides or Steps, it leaves behind a slimy mud trail that coats the traversed area. All traversed squares are covered in [_grease_](/Spells.aspx?ID=140) (DC 26) until the start of the muckish creep's next turn.\r\n\r\n**Overwhelm** <actions string=\"Single Action\" /> ([Incapacitation](/Traits.aspx?ID=93)) **Requirements** The muckish creep has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The muckish creep fills the grabbed creature's mouth and nose with mud. The creature begins to [suffocate](/Rules.aspx?ID=468) unless it succeeds at a DC 23 Fortitude save. The suffocating creature or any adjacent creatures can clear the suffocating creature's airway with an Interact action.\r\n\r\n**Slippery Body**   A muckish creep's body allows it to slip away from most restraints. It gains a +4 status bonus to checks to [Escape](/Actions.aspx?ID=79). On a success, it gets a critical success instead. On a critical failure, it gets a failure instead.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Cursed Mud</title>\r\n\r\nWhen a muckish creep's bloody mud is used as mortar in building construction, it sometimes creates a new muckish creep fused with the structure. Such a creature can move the entire building as if it were part of its own body. In the jungles and rainforests where muckish creeps are common, people often call upon clerics to bless their building materials, including the mud, in order to avoid unintentionally creating such a being.\r\n</aside>",
+ "name": "Muckish Creep",
+ "npc": false,
+ "perception": 18,
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2021-07-07",
+ "resistance": {
+  "bludgeoning": 8
+ },
+ "resistance_markdown": "bludgeoning 8",
+ "resistance_raw": "bludgeoning 8",
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 88</row>\n\n<row gap=\"medium\">\r\n**HP** 160\r\n\r\n**AC** 27\r\n\r\n**Fort** +20\r\n\r\n**Ref** +15\r\n\r\n**Will** +12\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLegends say that the first muckish creeps were born at the site of a mass grave where the souls of murdered prisoners coalesced into the surrounding …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Athletics +18",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Pathfinder #166: Despair on Danger Island"
+ ],
+ "source_raw": [
+  "Pathfinder #166: Despair on Danger Island pg. 88"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 88</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Legends say that the first muckish creeps were born at the site of a mass grave where the souls of murdered prisoners coalesced into the surrounding …",
+ "summary_markdown": "Legends say that the first muckish creeps were born at the site of a mass grave where the souls of murdered prisoners coalesced into the surrounding …",
+ "text": " Muckish Creep Legends say that the first muckish creeps were born at the site of a mass grave where the souls of murdered prisoners coalesced into the surrounding soil. Another myth tells that muckish creeps were elementals so vile that their kin banished them from the Plane of Earth. Regardless of their true origins, muckish creeps are wicked creatures that resemble mud given a humanoid shape. The mud is no ordinary mixture of earth and water, however, for muckish creeps feed on the blood of the living, and they use this blood to keep their own forms moist and malleable. Muckish creeps are particularly tenacious and single-minded when it comes to choosing prey. Once a muckish creep selects its next victim, there is little one can do to stop it, since it can seep through even the smallest cracks between doors, walls, and windows. A muckish creep typically waits until its target falls asleep before pressing itself into the creature's home, intent to kill. For all its tenacity during the hunt, the muckish creep is pragmatic when it comes to the actual kill, using its body to fill the victim's airways with mud and suffocate them. Recall Knowledge - Aberration (Occultism): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Muckish Creep Source Pathfinder #166: Despair on Danger Island pg. 88 Perception +18; darkvision Languages Common Skills Acrobatics +15, Athletics +18, Stealth +17 Str +6 Dex +3 Con +4 Int +0 Wis +0 Cha +1 --- AC 27 Fort +20 Ref +15 Will +12 HP 160 Resistances bludgeoning 8 Weaknesses fire 8 Elude Grasp Reaction Trigger A creature succeeds at an attempt to Grapple the muckish creep; Effect The muckish creep attempts an Athletics check to Escape. --- Speed 25 feet Melee Single Action fist +18, Damage 2d10+10 bludgeoning plus Grab Ranged Single Action mud ball +18 (thrown 30 feet), Damage 2d6+10 bludgeoning plus blinding mud Blinding Mud When a muckish creep hits a creature with a mud ball Strike, that creature becomes dazzled (or blinded on a critical hit). The creature can use an Interact action to wipe away the mud and remove the dazzled or blinded condition. Compression A muckish creep can move through a gap at least 6 inches wide without Squeezing and can Squeeze through any gap at least 1 inch wide. Mud Trail When a muckish creep Strides or Steps, it leaves behind a slimy mud trail that coats the traversed area. All traversed squares are covered in grease (DC 26) until the start of the muckish creep's next turn. Overwhelm Single Action (Incapacitation) Requirements The muckish creep has a creature grabbed; Effect The muckish creep fills the grabbed creature's mouth and nose with mud. The creature begins to suffocate unless it succeeds at a DC 23 Fortitude save. The suffocating creature or any adjacent creatures can clear the suffocating creature's airway with an Interact action. Slippery Body A muckish creep's body allows it to slip away from most restraints. It gains a +4 status bonus to checks to Escape. On a success, it gets a critical success instead. On a critical failure, it gets a failure instead. Cursed Mud When a muckish creep's bloody mud is used as mortar in building construction, it sometimes creates a new muckish creep fused with the structure. Such a creature can move the entire building as if it were part of its own body. In the jungles and rainforests where muckish creeps are common, people often call upon clerics to bless their building materials, including the mud, in order to avoid unintentionally creating such a being. ",
+ "trait": [
+  "Aberration",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1400",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 8
+ },
+ "weakness_markdown": "fire 8",
+ "weakness_raw": "fire 8",
+ "will_save": 12,
+ "wisdom": 0
+}

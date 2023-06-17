@@ -1,0 +1,59 @@
+{
+ "ac": 19,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 20  Thievery  (trained) on the door frame or ceiling groove, or Interact to operate a lever on the opposite side of the door (in areas D2 and D4, respectively)",
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hardness": 11,
+ "hardness_raw": "11",
+ "hazard_type": "Trap",
+ "hp": 44,
+ "hp_raw": "44  (BT 22)",
+ "id": "hazard-201",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 3,
+ "markdown": "<title level=\"1\" right=\"Hazard 3\" pfs=\"\">[Sickle Blades](/Hazards.aspx?ID=201)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 40</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA skeletal arm holding a sickle is concealed in the ceiling and connected to a mechanism in the sliding door below it.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 20 (trained)\r\n\r\n**Disable**\r\nDC 20 [Thievery](/Skills.aspx?ID=17) (trained) on the door frame or ceiling groove, or Interact to operate a lever on the opposite side of the door (in areas D2 and D4, respectively)\n\n<column gap=\"tiny\">\r\n\r\n**AC** 19, **Fort** +12, **Ref** +4\r\n\r\n**Hardness**\r\n11\r\n\r\n**HP**\r\n44  (BT 22)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Sickle** <actions string=\"Reaction\" /> **Trigger** A creature attempts to open the door; **Effect** A skeletal arm swings a sickle from the ceiling, making a Strike against the triggering creature. <br />**Melee** <actions string=\"Single Action\" /> sickle +16, **Damage** 2d12+11 slashing\n\n---\r\n**Reset**\r\nThe trap resets after 15 minutes. Additionally, a creature can manually Interact with the lever on the opposite side of the door to reset the trap.",
+ "name": "Sickle Blades",
+ "rarity": "uncommon",
+ "reflex_save": 4,
+ "release_date": "2022-07-27",
+ "reset": "The trap resets after 15 minutes. Additionally, a creature can manually Interact with the lever on the opposite side of the door to reset the trap.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 40</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA skeletal arm holding a sickle is concealed in the ceiling and connected to a mechanism in the sliding door below it.\r\n</summary>",
+ "source": [
+  "Pathfinder #181: Zombie Feast"
+ ],
+ "source_raw": [
+  "Pathfinder #181: Zombie Feast pg. 40"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 40</row>",
+ "speed": {},
+ "spoilers": "Blood Lords",
+ "stealth": "DC 20 (trained)",
+ "summary": "A skeletal arm holding a sickle is concealed in the ceiling and connected to a mechanism in the sliding door below it.",
+ "summary_markdown": "A skeletal arm holding a sickle is concealed in the ceiling and connected to a mechanism in the sliding door below it.",
+ "text": " Sickle Blades Source Pathfinder #181: Zombie Feast pg. 40 Complexity Simple A skeletal arm holding a sickle is concealed in the ceiling and connected to a mechanism in the sliding door below it. --- Stealth DC 20 (trained) Disable DC 20 Thievery (trained) on the door frame or ceiling groove, or Interact to operate a lever on the opposite side of the door (in areas D2 and D4, respectively) AC 19, Fort +12, Ref +4 Hardness 11 HP 44 (BT 22) Immunities critical hits, object immunities, precision damage Sickle Reaction Trigger A creature attempts to open the door; Effect A skeletal arm swings a sickle from the ceiling, making a Strike against the triggering creature. Melee Single Action sickle +16, Damage 2d12+11 slashing --- Reset The trap resets after 15 minutes. Additionally, a creature can manually Interact with the lever on the opposite side of the door to reset the trap.",
+ "trait": [
+  "Mechanical",
+  "Trap",
+  "Uncommon"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap",
+  "Uncommon"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=201",
+ "weakness": {}
+}

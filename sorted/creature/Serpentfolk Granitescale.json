@@ -1,0 +1,107 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Chipping Scales",
+  "Rattling Spear",
+  "Serpentfolk Venom"
+ ],
+ "creature_family": "Serpentfolk",
+ "creature_family_markdown": "[Serpentfolk](/MonsterFamilies.aspx?ID=151)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 120,
+ "hp_raw": "120",
+ "id": "creature-1627",
+ "image": [
+  "/Images/Monsters/Serpentfolk_Granitescale.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Aklo",
+  "Common",
+  "Undercommon",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Undercommon](/Languages.aspx?ID=11); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"\">[Serpentfolk Granitescale](/Monsters.aspx?ID=1627)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMany burly [aapoph serpentfolk](/Monsters.aspx?ID=799) bear minor mutations. Granitescales have bulky frames covered in hard, speckled gray plates. These scales offer additional protection but shed when struck with too much force. As granitescales regrow lost scales quickly, they make effective long-term sentinels and vanguards for guerilla tactics. Granitescales like to carve their shed scales into small chips and attach them as rattles to the ends of their spears. Many an unsuspecting victim has heard the shaking hiss of a granitescale's rattle too late.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Serpentfolk_Granitescale.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Serpentfolk Granitescale](/Monsters.aspx?ID=1627)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n<trait label=\"Serpentfolk\" url=\"/Traits.aspx?ID=307\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 86</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Undercommon](/Languages.aspx?ID=11); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +15, [Intimidation](/Skills.aspx?ID=7) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Javelin](/Weapons.aspx?ID=71) (5), [Longspear](/Weapons.aspx?ID=6)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 (22 with shed scales)\r\n\r\n**Fort** +17 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +12 (+2 status vs. [mental](/Traits.aspx?ID=106))\n\n</row>\r\n\r\n**HP** 120\n\n**Resistances**\r\n[poison](/Traits.aspx?ID=126) 8\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Chipping Scales** <actions string=\"Reaction\" /> **Frequency** once per day; **Trigger** The granitescale takes piercing or slashing damage; **Effect** The granitescale twists to take the blow on their hardest scales, which they shed to reduce the incoming force. The granitescale reduces the damage by 10, but their AC is reduced by 2 for 1 day, when the shed scales regrow.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongspear +17 ([Reach](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+6 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +17,\r\n**Damage** 2d8+6 piercing plus serpentfolk venom\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\njavelin +16 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+4 piercing\n\n**Rattling Spear** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106)) **Requirement** The granitescale's last action was a successful spear Strike; **Effect** The granitescale rattles the base of their spear, attempting an [Intimidation](/Skills.aspx?ID=7) check to [Demoralize](/Actions.aspx?ID=53) all enemies within 30 feet (compare the granitescale's Intimidation check result to the targets' Will DCs individually).\r\n\r\n**Serpentfolk Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 22 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage and [enfeebled 1](/Conditions.aspx?ID=13) (1 round); **Stage 2** 2d4 poison damage and enfeebled 1 (1 round)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-151\" />",
+ "name": "Serpentfolk Granitescale",
+ "npc": false,
+ "perception": 13,
+ "rarity": "uncommon",
+ "reflex_save": 14,
+ "release_date": "2021-09-01",
+ "resistance": {
+  "poison": 8
+ },
+ "resistance_markdown": "[poison](/Traits.aspx?ID=126) 8",
+ "resistance_raw": " poison  8",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n<trait label=\"Serpentfolk\" url=\"/Traits.aspx?ID=307\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 86</row>\r\n\r\n**Creature Family** [Serpentfolk](/MonsterFamilies.aspx?ID=151)\r\n\r\n<row gap=\"medium\">\r\n**HP** 120\r\n\r\n**AC** 24\r\n\r\n**Fort** +17\r\n\r\n**Ref** +14\r\n\r\n**Will** +12\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMany burly  aapoph serpentfolk  bear minor mutations. Granitescales have bulky frames covered in hard, speckled gray plates. These scales offer …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Athletics +15",
+  "Intimidation +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +15, [Intimidation](/Skills.aspx?ID=7) +13",
+ "source": [
+  "Pathfinder #170: Spoken on the Song Wind"
+ ],
+ "source_raw": [
+  "Pathfinder #170: Spoken on the Song Wind pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 86</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Many burly  aapoph serpentfolk  bear minor mutations. Granitescales have bulky frames covered in hard, speckled gray plates. These scales offer …",
+ "summary_markdown": "Many burly  aapoph serpentfolk  bear minor mutations. Granitescales have bulky frames covered in hard, speckled gray plates. These scales offer …",
+ "text": " Serpentfolk Granitescale Many burly aapoph serpentfolk bear minor mutations. Granitescales have bulky frames covered in hard, speckled gray plates. These scales offer additional protection but shed when struck with too much force. As granitescales regrow lost scales quickly, they make effective long-term sentinels and vanguards for guerilla tactics. Granitescales like to carve their shed scales into small chips and attach them as rattles to the ends of their spears. Many an unsuspecting victim has heard the shaking hiss of a granitescale's rattle too late. Recall Knowledge - Humanoid (Society): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Serpentfolk Granitescale Source Pathfinder #170: Spoken on the Song Wind pg. 86 Perception +13; darkvision, scent (imprecise) 30 feet Languages Aklo, Common, Undercommon; telepathy 100 feet Skills Acrobatics +13, Athletics +15, Intimidation +13 Str +5 Dex +4 Con +4 Int -2 Wis +1 Cha +1 Items Javelin (5), Longspear --- AC 24 (22 with shed scales) Fort +17 Ref +14 Will +12 (+2 status vs. mental) HP 120 Resistances poison 8 Attack of Opportunity Reaction Chipping Scales Reaction Frequency once per day; Trigger The granitescale takes piercing or slashing damage; Effect The granitescale twists to take the blow on their hardest scales, which they shed to reduce the incoming force. The granitescale reduces the damage by 10, but their AC is reduced by 2 for 1 day, when the shed scales regrow. --- Speed 25 feet Melee Single Action longspear +17 (Reach), Damage 2d8+6 piercing Melee Single Action fangs +17, Damage 2d8+6 piercing plus serpentfolk venom Ranged Single Action javelin +16 (range increment 30 feet), Damage 2d6+4 piercing Rattling Spear Single Action (Auditory, Emotion, Mental) Requirement The granitescale's last action was a successful spear Strike; Effect The granitescale rattles the base of their spear, attempting an Intimidation check to Demoralize all enemies within 30 feet (compare the granitescale's Intimidation check result to the targets' Will DCs individually). Serpentfolk Venom (Poison) Saving Throw DC 22 Fortitude; Maximum Duration 6 rounds; Stage 1 1d4 poison damage and enfeebled 1 (1 round); Stage 2 2d4 poison damage and enfeebled 1 (1 round) ",
+ "trait": [
+  "Humanoid",
+  "Mutant",
+  "Serpentfolk",
+  "Uncommon",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Mutant](/Traits.aspx?ID=229), [Serpentfolk](/Traits.aspx?ID=307), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Mutant",
+  "Serpentfolk",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1627",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 1
+}

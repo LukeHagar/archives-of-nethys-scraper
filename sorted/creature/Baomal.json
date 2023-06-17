@@ -1,0 +1,108 @@
+{
+ "ac": 48,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 8,
+ "creature_ability": [
+  "All-Around Vision",
+  "Attack of Opportunity",
+  "Double Opportunity",
+  "Psychic Static Aura",
+  "Two Heads",
+  "Breath of the Sea",
+  "Shell Rake",
+  "Two-Headed Strike"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 36,
+ "hp": 315,
+ "hp_raw": "315",
+ "id": "creature-40",
+ "image": [
+  "/Images/Monsters/Baomal.png"
+ ],
+ "intelligence": -3,
+ "language": [
+  "Aklo"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13)",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Baomal](/Monsters.aspx?ID=40)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFew sea monsters are as dreaded and feared as the two-headed baomal. These massive predatory beasts typically dwell in the deepest waters and compete with krakens and other monsters for food. They feed on whales and other large sea creatures, sometimes following them to the water’s surface. Near the surface, baomals that encounter ships quickly learn that they contain a variety of tasty morsels. The creatures use their devastating spikes to rip open the ships’ hulls, then leisurely feed on the helpless sailors.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Baomal.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Baomal](/Monsters.aspx?ID=40)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 35</row>\n\n**Perception** +34; darkvision, scent (imprecise) 80 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +41, [Stealth](/Skills.aspx?ID=15) +31, [Survival](/Skills.aspx?ID=16) +37\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +2\r\n\r\n**Con** +8\r\n\r\n**Int** -3\r\n\r\n**Wis** +6\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 48 \r\n\r\n**Fort** +36 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +34 \n\n</row>\r\n\r\n**HP** 315\n\n**Resistances**\r\nphysical 10\n\n**[All-Around Vision](/MonsterAbilities.aspx?ID=1)**<br /> **[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /><br /> **Double Opportunity** A baomal gains an extra reaction each round that it can use only to make an Attack of Opportunity. It must use a different head for each one it attempts, and it can't make more than one Attack of Opportunity for the same triggering action.<br /> **Psychic Static Aura** ([aura](/Traits.aspx?ID=206), [divination](/Traits.aspx?ID=47), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) 120 feet. All creatures, except aberrations, that begin their turn in the area take 5d6 mental damage.<br /> **Two Heads** Any ability that would sever a baomal's head (such as a critical hit with a [vorpal](/Equipment.aspx?ID=308) weapon) severs one head at random. Losing one head doesn't kill a baomal, but it does prevent the baomal from making Strikes with the lost head and from using Double Opportunity or Two-Headed Strike.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet, swim 80 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +38 ([reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+18 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ntsunami jet +38 ([Brutal](/Traits.aspx?ID=249), [range 500 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d10+18 bludgeoning plus [Push](/MonsterAbilities.aspx?ID=25) 40 feet\n\n**Breath of the Sea** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) A baomal can inhale tremendous amounts of water, drawing everything in the sea nearby closer. All creatures and objects in the water within 60 feet of the baomal (including ships) are pulled toward it. Creatures must succeed at a DC 42 [Athletics](/Skills.aspx?ID=3) check or be pulled up to 20 feet toward the baomal (40 feet on a critical failure). For ships, use the captain’s [Sailing Lore](/Skills.aspx?ID=8) in place of Athletics. Unattended objects are automatically pulled.\r\n\r\n**Shell Rake** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The baomal Swims or Strides alongside a creature or the hull of a vessel, dealing damage with the strong spikes on its shell. Each creature or ship the baomal is adjacent to at any point during its movement takes 6d6+10 slashing and piercing damage (DC 42 basic Reflex save). Against vessels, Shell Rake ignores the first 5 Hardness and creates an explosion of splinters that deals 3d6+5 damage to every creature within 10 feet of the deck’s edge (DC 42 basic Reflex save).\r\n\r\n**Two-Headed Strike** <actions string=\"Two Actions\" />  The baomal makes a Strike with each set of jaws, each against a different creature. These Strikes count as one attack for the baomal’s multiple attack penalty, and the penalty doesn’t increase until after both attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Mysterious Origins</title>\r\n\r\nAll too often, those who study stranger monsters make the assumption that they were created by powerful but ill-advised wizards or are the result of ancient manipulations from the alghollthu empire. In the case of the baomal, extensive research suggests that neither of these explanations are accurate. No ancient texts have yet been recovered in which a wizard claims to have created the first baomal. And while the alghollthu of today use them as warbeasts, ancient carvings suggest that in the earliest days, baomals were ravenous hunters of alghollthus.\r\n</aside>",
+ "name": "Baomal",
+ "npc": false,
+ "perception": 34,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 30,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10",
+ "resistance_raw": "physical 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 35</row>\n\n<row gap=\"medium\">\r\n**HP** 315\r\n\r\n**AC** 48\r\n\r\n**Fort** +36\r\n\r\n**Ref** +30\r\n\r\n**Will** +34\r\n\r\n**Perception** +34\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFew sea monsters are as dreaded and feared as the two-headed baomal. These massive predatory beasts typically dwell in the deepest waters and compete …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 80 feet",
+ "sense_markdown": "darkvision, scent (imprecise) 80 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +41",
+  "Stealth +31",
+  "Survival +37"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +41, [Stealth](/Skills.aspx?ID=15) +31, [Survival](/Skills.aspx?ID=16) +37",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 35"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 35</row>",
+ "speed": {
+  "land": 50,
+  "max": 80,
+  "swim": 80
+ },
+ "speed_markdown": "50 feet, swim 80 feet",
+ "speed_raw": "50 feet, swim 80 feet",
+ "spell_markdown": "",
+ "stealth": "31",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Few sea monsters are as dreaded and feared as the two-headed baomal. These massive predatory beasts typically dwell in the deepest waters and compete …",
+ "summary_markdown": "Few sea monsters are as dreaded and feared as the two-headed baomal. These massive predatory beasts typically dwell in the deepest waters and compete …",
+ "text": " Baomal Few sea monsters are as dreaded and feared as the two-headed baomal. These massive predatory beasts typically dwell in the deepest waters and compete with krakens and other monsters for food. They feed on whales and other large sea creatures, sometimes following them to the water’s surface. Near the surface, baomals that encounter ships quickly learn that they contain a variety of tasty morsels. The creatures use their devastating spikes to rip open the ships’ hulls, then leisurely feed on the helpless sailors. Recall Knowledge - Aberration (Occultism): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Baomal Source Bestiary pg. 35 Perception +34; darkvision, scent (imprecise) 80 feet Languages Aklo Skills Athletics +41, Stealth +31, Survival +37 Str +10 Dex +2 Con +8 Int -3 Wis +6 Cha +1 --- AC 48 Fort +36 Ref +30 Will +34 HP 315 Resistances physical 10 All-Around Vision Attack of Opportunity Reaction Double Opportunity A baomal gains an extra reaction each round that it can use only to make an Attack of Opportunity. It must use a different head for each one it attempts, and it can't make more than one Attack of Opportunity for the same triggering action. Psychic Static Aura (aura, divination, mental, occult) 120 feet. All creatures, except aberrations, that begin their turn in the area take 5d6 mental damage. Two Heads Any ability that would sever a baomal's head (such as a critical hit with a vorpal weapon) severs one head at random. Losing one head doesn't kill a baomal, but it does prevent the baomal from making Strikes with the lost head and from using Double Opportunity or Two-Headed Strike. --- Speed 50 feet, swim 80 feet Melee Single Action jaws +38 (reach 20 feet), Damage 4d12+18 piercing plus Improved Grab Ranged Single Action tsunami jet +38 (Brutal, range 500 feet), Damage 4d10+18 bludgeoning plus Push 40 feet Breath of the Sea Single Action (Attack) A baomal can inhale tremendous amounts of water, drawing everything in the sea nearby closer. All creatures and objects in the water within 60 feet of the baomal (including ships) are pulled toward it. Creatures must succeed at a DC 42 Athletics check or be pulled up to 20 feet toward the baomal (40 feet on a critical failure). For ships, use the captain’s Sailing Lore in place of Athletics. Unattended objects are automatically pulled. Shell Rake Single Action (Move) The baomal Swims or Strides alongside a creature or the hull of a vessel, dealing damage with the strong spikes on its shell. Each creature or ship the baomal is adjacent to at any point during its movement takes 6d6+10 slashing and piercing damage (DC 42 basic Reflex save). Against vessels, Shell Rake ignores the first 5 Hardness and creates an explosion of splinters that deals 3d6+5 damage to every creature within 10 feet of the deck’s edge (DC 42 basic Reflex save). Two-Headed Strike Two Actions The baomal makes a Strike with each set of jaws, each against a different creature. These Strikes count as one attack for the baomal’s multiple attack penalty, and the penalty doesn’t increase until after both attacks. Mysterious Origins All too often, those who study stranger monsters make the assumption that they were created by powerful but ill-advised wizards or are the result of ancient manipulations from the alghollthu empire. In the case of the baomal, extensive research suggests that neither of these explanations are accurate. No ancient texts have yet been recovered in which a wizard claims to have created the first baomal. And while the alghollthu of today use them as warbeasts, ancient carvings suggest that in the earliest days, baomals were ravenous hunters of alghollthus. ",
+ "trait": [
+  "Aberration",
+  "Aquatic",
+  "CN",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Aquatic](/Traits.aspx?ID=168)",
+ "trait_raw": [
+  "Aberration",
+  "Aquatic"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=40",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 34,
+ "wisdom": 6
+}

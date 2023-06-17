@@ -1,0 +1,60 @@
+{
+ "actions": "Two Actions",
+ "bloodline_markdown": "",
+ "breadcrumbs_spa": [],
+ "category": "spell",
+ "component": [
+  "somatic",
+  "verbal"
+ ],
+ "deity_markdown": "",
+ "domain_markdown": "",
+ "duration": 60,
+ "duration_raw": "1 minute",
+ "exclude_from_search": false,
+ "heighten_level": [
+  4
+ ],
+ "id": "spell-910",
+ "level": 4,
+ "lesson_markdown": "",
+ "markdown": "<title level=\"1\" right=\"Spell 4\" pfs=\"Standard\">[Fey Form](/Spells.aspx?ID=910)</title>\n\n<traits>\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\n\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 105 <sup>1.1</sup></row>\n\n**Traditions**\r\n[Occult](/SpellLists.aspx?Tradition=3), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n</row>\r\n\r\n<row gap=\"medium\">\n\n**Duration** 1 minute\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\nChanneling the mischievous fey, you transform into a fey battle form, which is Medium unless stated otherwise. When you cast this spell, choose dryad, elananx, naiad, redcap, or unicorn. If you choose unicorn, the battle form is Large and you must have space to expand or the spell is lost. While in this form, you gain the [fey](/Traits.aspx?ID=69) trait. Unless you choose elananx or unicorn, you have hands in this battle form and can use [manipulate](/Traits.aspx?ID=104) actions. You can Dismiss the spell.\n\n You gain the following statistics and abilities regardless of the form that you choose: \n<ul><li>AC = 19 + your level. Ignore your armor's check penalty and Speed reduction.</li><li>15 temporary Hit Points and weakness 5 to cold iron.</li><li>[Low-light vision](/Rules.aspx?ID=416).</li><li>One or more [unarmed](/Traits.aspx?ID=199) melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +16, and you use the listed damage. These attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.</li><li>[Acrobatics](/Skills.aspx?ID=1) modifiers of +16, unless your own modifier is higher.</li></ul> You also gain specific abilities based on the type of fey:\n\n- **[Dryad](/Monsters.aspx?ID=312)** The temporary HP gained increases to 30; Speed 25 feet; weakness 5 to [fire](/Traits.aspx?ID=72); **Melee** <actions string=\"Single Action\" /> branch, **Damage** 1d12+8 bludgeoning.\r\n- **[Elananx](/Monsters.aspx?ID=176)** Speed 30 feet; resistance 5 to [fire](/Traits.aspx?ID=72); **Melee** <actions string=\"Single Action\" /> jaws, **Damage** 1d6+8 piercing plus 1d6 fire; **Melee** <actions string=\"Single Action\" /> claw ([agile](/Traits.aspx?ID=170)), **Damage** 1d6 slashing.\r\n- **[Naiad](/Monsters.aspx?ID=311)** Speed 25 feet, swim 25 feet; resistance 5 to [fire](/Traits.aspx?ID=72); **Melee** <actions string=\"Single Action\" /> aqueous fist ([water](/Traits.aspx?ID=165)), **Damage** 1d8+8 bludgeoning.\r\n- **[Redcap](/Monsters.aspx?ID=349)** Speed 40 feet; Size Small; **Melee** <actions string=\"Single Action\" /> scythe ([deadly d10](/Traits.aspx?ID=174), [trip](/Traits.aspx?ID=196)), **Damage** 1d10+8 slashing; **Melee** <actions string=\"Single Action\" /> boot ([agile](/Traits.aspx?ID=170), [versatile B](/Traits.aspx?ID=200)), **Damage** 1d6 piercing.\r\n- **[Unicorn](/Monsters.aspx?ID=397)** gain the [beast](/Traits.aspx?ID=20) trait in addition to fey; Speed 40 feet; resistance 5 to [poison](/Traits.aspx?ID=126); Size Large; **Melee** <actions string=\"Single Action\" /> horn, **Damage** 1d10+8 piercing plus 1 good; **Melee** <actions string=\"Single Action\" /> hoof ([agile](/Traits.aspx?ID=170)), **Damage** 1d8 bludgeoning; all Strikes have the effects of a [_ghost touch_](/Equipment.aspx?ID=297) property rune.",
+ "mystery_markdown": "",
+ "name": "Fey Form",
+ "patron_theme_markdown": "",
+ "pfs": "Standard",
+ "rarity": "common",
+ "release_date": "2021-09-01",
+ "resistance": {},
+ "school": "transmutation",
+ "search_markdown": "<traits>\r\n<trait label=\"Polymorph\" url=\"/Traits.aspx?ID=127\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 105 <sup>1.1</sup></row>\r\n\r\n**Traditions**\r\n[Occult](/SpellLists.aspx?Tradition=3), [Primal](/SpellLists.aspx?Tradition=4)\n\n<row gap=\"medium\">\r\n\r\n<row gap=\"tiny\">\r\n<row>**Cast**</row>\r\n<row><actions string=\"Two Actions\" /></row>\r\n<row>[somatic](/Rules.aspx?ID=283), [verbal](/Rules.aspx?ID=284)</row>\r\n</row>\r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n \r\n\r\n \r\n</row>\r\n\r\n<row gap=\"medium\">\r\n \r\n\r\n**Duration** 1 minute\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTurn into a fey battle form.\r\n</summary>",
+ "source": [
+  "Secrets of Magic"
+ ],
+ "source_raw": [
+  "Secrets of Magic pg. 105"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Secrets of Magic](/Sources.aspx?ID=96) pg. 105 <sup>1.1</sup></row>",
+ "speed": {},
+ "summary": "Turn into a fey battle form.",
+ "summary_markdown": "Turn into a fey battle form.",
+ "text": " Fey Form Source Secrets of Magic pg. 105 1.1 Traditions Occult, Primal Cast Two Actions somatic, verbal Duration 1 minute --- Channeling the mischievous fey, you transform into a fey battle form, which is Medium unless stated otherwise. When you cast this spell, choose dryad, elananx, naiad, redcap, or unicorn. If you choose unicorn, the battle form is Large and you must have space to expand or the spell is lost. While in this form, you gain the fey trait. Unless you choose elananx or unicorn, you have hands in this battle form and can use manipulate actions. You can Dismiss the spell. You gain the following statistics and abilities regardless of the form that you choose: AC = 19 + your level. Ignore your armor's check penalty and Speed reduction. 15 temporary Hit Points and weakness 5 to cold iron. Low-light vision. One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +16, and you use the listed damage. These attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead. Acrobatics modifiers of +16, unless your own modifier is higher. You also gain specific abilities based on the type of fey: - Dryad The temporary HP gained increases to 30; Speed 25 feet; weakness 5 to fire; Melee Single Action branch, Damage 1d12+8 bludgeoning. - Elananx Speed 30 feet; resistance 5 to fire; Melee Single Action jaws, Damage 1d6+8 piercing plus 1d6 fire; Melee Single Action claw (agile), Damage 1d6 slashing. - Naiad Speed 25 feet, swim 25 feet; resistance 5 to fire; Melee Single Action aqueous fist (water), Damage 1d8+8 bludgeoning. - Redcap Speed 40 feet; Size Small; Melee Single Action scythe (deadly d10, trip), Damage 1d10+8 slashing; Melee Single Action boot (agile, versatile B), Damage 1d6 piercing. - Unicorn gain the beast trait in addition to fey; Speed 40 feet; resistance 5 to poison; Size Large; Melee Single Action horn, Damage 1d10+8 piercing plus 1 good; Melee Single Action hoof (agile), Damage 1d8 bludgeoning; all Strikes have the effects of a ghost touch property rune.",
+ "tradition": [
+  "Occult",
+  "Primal"
+ ],
+ "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3), [Primal](/SpellLists.aspx?Tradition=4)",
+ "trait": [
+  "Polymorph",
+  "Transmutation"
+ ],
+ "trait_markdown": "[Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)",
+ "trait_raw": [
+  "Polymorph",
+  "Transmutation"
+ ],
+ "type": "Spell",
+ "url": "/Spells.aspx?ID=910",
+ "weakness": {}
+}

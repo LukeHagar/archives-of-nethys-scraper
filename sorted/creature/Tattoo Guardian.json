@@ -1,0 +1,110 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 1,
+ "creature_ability": [
+  "Retaliate",
+  "Bond with Ward",
+  "Fly Free"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 50,
+ "hp_raw": "50",
+ "id": "creature-1331",
+ "image": [
+  "/Images/Monsters/TattooGuardian.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "grabbed",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "precision",
+  "prone",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "critical hits, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [grabbed](/Conditions.aspx?ID=20), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [prone](/Conditions.aspx?ID=31), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tattoo Guardian](/Monsters.aspx?ID=1331)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTattoo guardians are vigilant protectors drawn onto the skin of the individuals they are meant to protect. The creators of tattoo guardians typically animate them as they apply the tattoo using specific rituals and specialized inks, though more obscure rituals can animate a tattoo that's already been applied. Regardless of their animating method, tattoo guardians can temporarily remove themselves from their ward's skin and attack or even interpose themselves between their ward and any dangers. Most tattoo guardians remain on their ward and attack without separating.\n\n Tattoo guardians come in a variety of forms, taking the shape of religious symbols, powerful creatures, or more abstract shapes. Magic reinforces the bond between a tattoo guardian and its ward, and the death of the ward also brings about the tattoo guardian's destruction. A guardian that is destroyed while its ward lives reverts to a mundane tattoo—often scarred or otherwise marred.\n\n Familial or cultural traditions contribute to the meaning of a tattoo guardian's appearance. In many dwarven cultures, a given family or clan develops their own tattoo patterns and uses these in any tattoo guardians they make. It's especially common for members getting tattooed to ask for a tattoo patterned after one worn by a parent or other ancestor they greatly respect.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/TattooGuardian.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Tattoo Guardian](/Monsters.aspx?ID=1331)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 262</row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 50\n\n**Immunities**\r\ncritical hits, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [grabbed](/Conditions.aspx?ID=20), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [prone](/Conditions.aspx?ID=31), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Retaliate** <actions string=\"Reaction\" /> **Trigger** A creature within the tattoo guardian's reach attacks the guardian's ward; **Effect** The tattoo guardian makes an ink blade Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nink blade +10,\r\n**Damage** 1d12+5 slashing\n\n**Bond with Ward** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Move](/Traits.aspx?ID=114)) **Requirements** The tattoo guardian is adjacent to its ward; **Effect** The tattoo guardian enters its ward's space and applies itself to the creature's flesh or another suitable surface on the creature. The tattoo guardian occupies the same space as its ward and moves with its ward.<br /> While worn, the tattoo guardian establishes a constant [_shield other_](/Spells.aspx?ID=281) effect with its ward. Attacks that target the tattoo guardian target the ward instead, but use the higher AC or saving throw values between the tattoo guardian and the ward. Area effects apply to both the tattoo guardian and the ward, as normal for an area effect.\r\n\r\n**Fly Free** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Move](/Traits.aspx?ID=114)) **Requirements** The tattoo guardian is Bonded with its Ward; **Effect** The tattoo guardian removes itself from the ward and enters an adjacent space. Interpose <actions string=\"Single Action\" />; **Requirements** The tattoo guardian is Bonded with or adjacent to its ward; **Effect** The tattoo guardian interposes itself between the ward and its foes, granting its ward a +2 circumstance bonus to AC until the start of the guardian's next turn.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Eternal Protectors</title>\r\n\r\nTattoo guardians are typically destroyed upon the death of their wards, but in rare cases, a tattoo guardian remains intact long after its ward's death. This is sometimes due to the magic that animated the guardian, as a particularly potent ritual can keep the guardian active. At other times, a portion of the ward's spirit animates the tattoo. Regardless of the reason, active tattoo guardians defend the corpses of their wards just as if their wards were still alive. If the corpse decomposes entirely, the guardian might begin wandering the world on its own, searching for a new individual worthy of the tattoo's protection. \r\n</aside>",
+ "name": "Tattoo Guardian",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 11,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 262</row>\n\n<row gap=\"medium\">\r\n**HP** 50\r\n\r\n**AC** 19\r\n\r\n**Fort** +8\r\n\r\n**Ref** +11\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTattoo guardians are vigilant protectors drawn onto the skin of the individuals they are meant to protect. The creators of tattoo guardians typically …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +11",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 262"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 262</row>",
+ "speed": {
+  "fly": 10,
+  "max": 10
+ },
+ "speed_markdown": "fly 10 feet",
+ "speed_raw": "fly 10 feet",
+ "spell_markdown": "",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Tattoo guardians are vigilant protectors drawn onto the skin of the individuals they are meant to protect. The creators of tattoo guardians typically …",
+ "summary_markdown": "Tattoo guardians are vigilant protectors drawn onto the skin of the individuals they are meant to protect. The creators of tattoo guardians typically …",
+ "text": " Tattoo Guardian Tattoo guardians are vigilant protectors drawn onto the skin of the individuals they are meant to protect. The creators of tattoo guardians typically animate them as they apply the tattoo using specific rituals and specialized inks, though more obscure rituals can animate a tattoo that's already been applied. Regardless of their animating method, tattoo guardians can temporarily remove themselves from their ward's skin and attack or even interpose themselves between their ward and any dangers. Most tattoo guardians remain on their ward and attack without separating. Tattoo guardians come in a variety of forms, taking the shape of religious symbols, powerful creatures, or more abstract shapes. Magic reinforces the bond between a tattoo guardian and its ward, and the death of the ward also brings about the tattoo guardian's destruction. A guardian that is destroyed while its ward lives reverts to a mundane tattoo—often scarred or otherwise marred. Familial or cultural traditions contribute to the meaning of a tattoo guardian's appearance. In many dwarven cultures, a given family or clan develops their own tattoo patterns and uses these in any tattoo guardians they make. It's especially common for members getting tattooed to ask for a tattoo patterned after one worn by a parent or other ancestor they greatly respect. Recall Knowledge - Construct (Arcana, Crafting): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Tattoo Guardian Source Bestiary 3 pg. 262 Perception +8; darkvision Languages Skills Acrobatics +11 Str +3 Dex +4 Con +1 Int -5 Wis +1 Cha +2 --- AC 19 Fort +8 Ref +11 Will +6 HP 50 Immunities critical hits, death effects, disease, doomed, drained, fatigued, grabbed, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, precision, prone, sickened, unconscious Retaliate Reaction Trigger A creature within the tattoo guardian's reach attacks the guardian's ward; Effect The tattoo guardian makes an ink blade Strike against the triggering creature. --- Speed fly 10 feet Melee Single Action ink blade +10, Damage 1d12+5 slashing Bond with Ward Single Action (Concentrate, Move) Requirements The tattoo guardian is adjacent to its ward; Effect The tattoo guardian enters its ward's space and applies itself to the creature's flesh or another suitable surface on the creature. The tattoo guardian occupies the same space as its ward and moves with its ward. While worn, the tattoo guardian establishes a constant shield other effect with its ward. Attacks that target the tattoo guardian target the ward instead, but use the higher AC or saving throw values between the tattoo guardian and the ward. Area effects apply to both the tattoo guardian and the ward, as normal for an area effect. Fly Free Single Action (Concentrate, Move) Requirements The tattoo guardian is Bonded with its Ward; Effect The tattoo guardian removes itself from the ward and enters an adjacent space. Interpose Single Action; Requirements The tattoo guardian is Bonded with or adjacent to its ward; Effect The tattoo guardian interposes itself between the ward and its foes, granting its ward a +2 circumstance bonus to AC until the start of the guardian's next turn. Eternal Protectors Tattoo guardians are typically destroyed upon the death of their wards, but in rare cases, a tattoo guardian remains intact long after its ward's death. This is sometimes due to the magic that animated the guardian, as a particularly potent ritual can keep the guardian active. At other times, a portion of the ward's spirit animates the tattoo. Regardless of the reason, active tattoo guardians defend the corpses of their wards just as if their wards were still alive. If the corpse decomposes entirely, the guardian might begin wandering the world on its own, searching for a new individual worthy of the tattoo's protection. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "Uncommon",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Construct",
+  "Mindless",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1331",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 1
+}

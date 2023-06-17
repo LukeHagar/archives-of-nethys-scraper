@@ -1,0 +1,121 @@
+{
+ "ac": 47,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 9,
+ "constitution": 9,
+ "creature_ability": [
+  "Curse of Boiling Blood",
+  "Lava Affinity",
+  "Attack of Opportunity",
+  "Breath Weapon",
+  "Constrict",
+  "Slashing Claws",
+  "Tor Linnorm Venom"
+ ],
+ "creature_family": "Linnorm",
+ "creature_family_markdown": "[Linnorm](/MonsterFamilies.aspx?ID=69)",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 38,
+ "hp": 440,
+ "hp_raw": "440",
+ "id": "creature-287",
+ "image": [
+  "/Images/Monsters/Linnorm_TorLinnorm.png"
+ ],
+ "immunity": [
+  "curse",
+  "fire",
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "curse, fire, paralyzed, sleep",
+ "intelligence": -1,
+ "language": [
+  "Aklo",
+  "Draconic",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Draconic](/Languages.aspx?ID=2), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 21,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tor Linnorm](/Monsters.aspx?ID=287)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTor linnorms dwell in the tallest volcanic mountains, either within natural formed caverns or within molten craters. A tor linnorm’s temper can be as hot and destructive as the magma the creature resembles.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 44\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 42\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 39\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Linnorm_TorLinnorm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 21\">[Tor Linnorm](/Monsters.aspx?ID=287)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 227</row>\n\n**Perception** +37; darkvision, scent (imprecise) 60 feet, [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Draconic](/Languages.aspx?ID=2), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +35, [Athletics](/Skills.aspx?ID=3) +40, [Stealth](/Skills.aspx?ID=15) +37\r\n\r\n<row gap=\"medium\">\r\n**Str** +11\r\n\r\n**Dex** +8\r\n\r\n**Con** +9\r\n\r\n**Int** -1\r\n\r\n**Wis** +8\r\n\r\n**Cha** +9\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 47 \r\n\r\n**Fort** +38 \r\n\r\n**Ref** +35 \r\n\r\n**Will** +33 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 440\r\n\r\n, regeneration 20 (deactivated by [cold iron](/Equipment.aspx?ID=375))\r\n\r\n**Immunities**\r\ncurse, fire, paralyzed, sleep\n\n**Weaknesses**\r\ncold iron 15\r\n\r\n**Curse of Boiling Blood** ([curse](/Traits.aspx?ID=38), [fire](/Traits.aspx?ID=72), [primal](/Traits.aspx?ID=134)) When a creature slays a tor linnorm, it must succeed at a DC 48 Will save or permanently gain weakness to fire 20 and slowed 1 from the agonizing pain it now endures at all times. As long as a character continues to suffer this curse, its slowed condition can never be reduced below slowed 1.<br /> **Lava Affinity** A tor linnorm can breathe and swim freely while submerged in lava and magma.<br /> **Attack of Opportunity** <actions string=\"Reaction\" /> Tail only.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, climb 35 feet, fly 100 feet, swim 60 feet; [_freedom of movement_](/Spells.aspx?ID=128)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +40 ([reach 30 feet](/Traits.aspx?ID=192), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 4d12+19 piercing plus tor linnorm venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +40 ([reach 30 feet](/Traits.aspx?ID=192), [Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 4d8+19 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +40 ([reach 30 feet](/Traits.aspx?ID=192), [Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 4d6+19 bludgeoning plus Improved Grab\r\n\r\n**Primal Innate Spells** DC 44\r\n- **Constant (8th)**\r\n[True Seeing](/Spells.aspx?ID=344)\r\n- **Constant (9th)**\r\n[Freedom of Movement](/Spells.aspx?ID=128)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72), [Primal](/Traits.aspx?ID=134)) The tor linnorm expels a 60-foot cone of flame and ash dealing 20d6 fire damage to creatures within the area (DC 46 basic Reflex save). At the start of the tor linnorm’s next turn, the area affected by the breath weapon is covered in thick, scorching smoke that burns both the lungs and eyes, dealing an additional 10d6 fire damage to all creatures in the area (DC 46 basic Reflex save). A creature that spends an entire round in the smoke with open eyes must succeed at a DC 44 Fortitude save or is [blinded](/Conditions.aspx?ID=1) for 1 minute. The smoke dissipates after 1 minute; in strong winds, the smoke dissipates in 5 rounds, and in more powerful winds, it may clear even more quickly. The tor linnorm can’t use Breath Weapon again for 1d4 rounds.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  3d6+21 bludgeoning, DC 46\r\n\r\n**Slashing Claws** <actions string=\"Single Action\" />  A tor linnorm makes four Strikes with its claws, each against a different target. These attacks count toward the tor linnorm’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after the tor linnorm makes all its attacks.\r\n\r\n**Tor Linnorm Venom**  ([Fire](/Traits.aspx?ID=72), [Injury](/Traits.aspx?ID=97), [Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 44 Fortitude; **Maximum Duration** 10 rounds; **Stage 1** 8d6 fire damage and [drained 1](/Conditions.aspx?ID=10); **Stage 2** 12d6 fire damage and [drained 2](/Conditions.aspx?ID=10).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-69\" />",
+ "name": "Tor Linnorm",
+ "npc": false,
+ "perception": 37,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 35,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 227</row>\r\n\r\n**Creature Family** [Linnorm](/MonsterFamilies.aspx?ID=69)\r\n\r\n<row gap=\"medium\">\r\n**HP** 440\r\n\r\n**AC** 47\r\n\r\n**Fort** +38\r\n\r\n**Ref** +35\r\n\r\n**Will** +33\r\n\r\n**Perception** +37\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTor linnorms dwell in the tallest volcanic mountains, either within natural formed caverns or within molten craters. A tor linnorm’s temper can be as …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 60 feet,   true seeing  ",
+ "sense_markdown": "darkvision, scent (imprecise) 60 feet, [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +35",
+  "Athletics +40",
+  "Stealth +37"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +35, [Athletics](/Skills.aspx?ID=3) +40, [Stealth](/Skills.aspx?ID=15) +37",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 227"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 227</row>",
+ "speed": {
+  "climb": 35,
+  "fly": 100,
+  "land": 35,
+  "max": 100,
+  "swim": 60
+ },
+ "speed_markdown": "35 feet, climb 35 feet, fly 100 feet, swim 60 feet; [_freedom of movement_](/Spells.aspx?ID=128)",
+ "speed_raw": "35 feet, climb 35 feet, fly 100 feet, swim 60 feet;   freedom of movement  ",
+ "spell": [
+  "Freedom of Movement",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Freedom of Movement](/Spells.aspx?ID=128), [True Seeing](/Spells.aspx?ID=344)",
+ "stealth": "37",
+ "strength": 11,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Tor linnorms dwell in the tallest volcanic mountains, either within natural formed caverns or within molten craters. A tor linnorm’s temper can be as …",
+ "summary_markdown": "Tor linnorms dwell in the tallest volcanic mountains, either within natural formed caverns or within molten craters. A tor linnorm’s temper can be as …",
+ "text": " Tor Linnorm Tor linnorms dwell in the tallest volcanic mountains, either within natural formed caverns or within molten craters. A tor linnorm’s temper can be as hot and destructive as the magma the creature resembles. Recall Knowledge - Dragon (Arcana): DC 44 Unspecific Lore : DC 42 Specific Lore : DC 39 Tor Linnorm Source Bestiary pg. 227 Perception +37; darkvision, scent (imprecise) 60 feet, true seeing Languages Aklo, Draconic, Sylvan Skills Acrobatics +35, Athletics +40, Stealth +37 Str +11 Dex +8 Con +9 Int -1 Wis +8 Cha +9 --- AC 47 Fort +38 Ref +35 Will +33 +1 status to all saves vs. magic HP 440 , regeneration 20 (deactivated by cold iron) Immunities curse, fire, paralyzed, sleep Weaknesses cold iron 15 Curse of Boiling Blood (curse, fire, primal) When a creature slays a tor linnorm, it must succeed at a DC 48 Will save or permanently gain weakness to fire 20 and slowed 1 from the agonizing pain it now endures at all times. As long as a character continues to suffer this curse, its slowed condition can never be reduced below slowed 1. Lava Affinity A tor linnorm can breathe and swim freely while submerged in lava and magma. Attack of Opportunity Reaction Tail only. --- Speed 35 feet, climb 35 feet, fly 100 feet, swim 60 feet; freedom of movement Melee Single Action jaws +40 (reach 30 feet, Magical), Damage 4d12+19 piercing plus tor linnorm venom Melee Single Action claw +40 (reach 30 feet, Agile, Magical), Damage 4d8+19 slashing Melee Single Action tail +40 (reach 30 feet, Agile, Magical), Damage 4d6+19 bludgeoning plus Improved Grab Primal Innate Spells DC 44 - Constant (8th) True Seeing - Constant (9th) Freedom of Movement Breath Weapon Two Actions (Evocation, Fire, Primal) The tor linnorm expels a 60-foot cone of flame and ash dealing 20d6 fire damage to creatures within the area (DC 46 basic Reflex save). At the start of the tor linnorm’s next turn, the area affected by the breath weapon is covered in thick, scorching smoke that burns both the lungs and eyes, dealing an additional 10d6 fire damage to all creatures in the area (DC 46 basic Reflex save). A creature that spends an entire round in the smoke with open eyes must succeed at a DC 44 Fortitude save or is blinded for 1 minute. The smoke dissipates after 1 minute; in strong winds, the smoke dissipates in 5 rounds, and in more powerful winds, it may clear even more quickly. The tor linnorm can’t use Breath Weapon again for 1d4 rounds. Constrict Single Action 3d6+21 bludgeoning, DC 46 Slashing Claws Single Action A tor linnorm makes four Strikes with its claws, each against a different target. These attacks count toward the tor linnorm’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after the tor linnorm makes all its attacks. Tor Linnorm Venom (Fire, Injury, Poison) Saving Throw DC 44 Fortitude; Maximum Duration 10 rounds; Stage 1 8d6 fire damage and drained 1; Stage 2 12d6 fire damage and drained 2. ",
+ "trait": [
+  "Dragon",
+  "Fire",
+  "Uncommon",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Fire](/Traits.aspx?ID=72), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Dragon",
+  "Fire",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=287",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 15
+ },
+ "weakness_markdown": "cold iron 15",
+ "weakness_raw": "cold iron 15",
+ "will_save": 33,
+ "wisdom": 8
+}

@@ -1,0 +1,126 @@
+{
+ "ac": 25,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 7,
+ "creature_ability": [
+  "Cleanly Vulnerability",
+  "Grab Weapon",
+  "Liquid Leap",
+  "Slime Trap",
+  "Smother"
+ ],
+ "creature_family": "Demon",
+ "creature_family_markdown": "[Demon](/MonsterFamilies.aspx?ID=28)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 395,
+ "hp_raw": "395",
+ "id": "creature-1112",
+ "image": [
+  "/Images/Monsters/Demon_Omox.png"
+ ],
+ "immunity": [
+  "acid",
+  "critical hits",
+  "disease",
+  "poison",
+  "precision"
+ ],
+ "immunity_markdown": "acid, critical hits, [disease](/Traits.aspx?ID=46), [poison](/Traits.aspx?ID=126), precision",
+ "intelligence": 2,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Draconic",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Omox (Slime Demon)](/Monsters.aspx?ID=1112)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSeemingly made from living, animated filth, omoxes have no true anatomy, although they generally spend most of their time in roughly humanoid shapes, resembling some grim caricatures of half-melted humanoids. While scholars once believed these foul demons to be a pure, concentrated form of the corruption that suffuses the [Abyss](/Planes.aspx?ID=13) and its inhabitants, in truth these demons arise from the souls of those who routinely befouled and polluted their surroundings in life.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 32\r\n\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Demon_Omox.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Omox](/Monsters.aspx?ID=1112)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 63</row>\n\n**Perception** +22; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +24, [Athletics](/Skills.aspx?ID=3) +23, [Religion](/Skills.aspx?ID=13) +20, [Stealth](/Skills.aspx?ID=15) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +7\r\n\r\n**Int** +2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Cleanly Vulnerability** An omox embodies filth, and they find the concept of cleanliness abhorrent. An omox subjected to an effect that cleans them, such as the tidy command of [_prestidigitation_](/Spells.aspx?ID=229), takes 2d6 mental damage. They also take this damage the first time each round a creature hit by one of the omox's attacks spends actions cleaning off the filth.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 395\n\n**Immunities**\r\nacid, critical hits, [disease](/Traits.aspx?ID=46), [poison](/Traits.aspx?ID=126), precision\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 10, good 10\r\n\r\n**Grab Weapon** <actions string=\"Reaction\" /> ([concentrate](/Traits.aspx?ID=32)) **Trigger** A creature hits the omox with a melee weapon; **Effect** The omox attempts to [Disarm](/Actions.aspx?ID=41) the triggering creature. On a critical success, the weapon becomes subsumed within the omox's body rather than falling to the ground, from which it must be Disarmed before it can be retrieved.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 20 feet, swim 80 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nsludge tendril +25,\r\n**Damage** 2d6+13 bludgeoning plus 2d6 acid and 1d6 evil and [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nslime ball +24 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d4+13 bludgeoning plus 2d6 acid and 1d6 evil and slime trap\r\n\r\n**Divine Innate Spells** DC 32\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **5th**\r\n[Control Water](/Spells.aspx?ID=51), [Create Water](/Spells.aspx?ID=53) (at will), [Dimension Door](/Spells.aspx?ID=69), [Stinking Cloud](/Spells.aspx?ID=309)\r\n\r\n**Rituals** DC 32\r\n\r\n- **1st**\r\n[Abyssal Pact](/Rituals.aspx?ID=21)\r\n\r\n**Liquid Leap** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32), [Conjuration](/Traits.aspx?ID=33), [Teleportation](/Traits.aspx?ID=156)) **Requirements** The omox is in a space of liquid; **Effect** The omox teleports from its current space to any unoccupied space of liquid within 120 feet.\r\n\r\n**Slime Trap**   A creature hit by an omox's slime ball must attempt a DC 32 Reflex save. <br />**Success** The creature is unaffected. <br />**Failure** The creature takes a –10-foot circumstance penalty to its Speeds for 1 minute or until it [Escapes](/Actions.aspx?ID=79) (DC 35). <br />**Critical Failure** As failure, but the target is also [clumsy 1](/Conditions.aspx?ID=3) for the same duration.\r\n\r\n**Smother** <actions string=\"Single Action\" />  **Requirements** The omox has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The demon flows over the grabbed creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude save or else it becomes [blinded](/Conditions.aspx?ID=1) and must hold its breath or begin [suffocating](/Rules.aspx?ID=468). These effects lasts as long as the omox has the creature grabbed.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-28\" />",
+ "name": "Omox",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 21,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 63</row>\r\n\r\n**Creature Family** [Demon](/MonsterFamilies.aspx?ID=28)\r\n\r\n<row gap=\"medium\">\r\n**HP** 395\r\n\r\n**AC** 25\r\n\r\n**Fort** +25\r\n\r\n**Ref** +21\r\n\r\n**Will** +20\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSeemingly made from living, animated filth, omoxes have no true anatomy, although they generally spend most of their time in roughly humanoid shapes, …\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +24",
+  "Athletics +23",
+  "Religion +20",
+  "Stealth +24"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +24, [Athletics](/Skills.aspx?ID=3) +23, [Religion](/Skills.aspx?ID=13) +20, [Stealth](/Skills.aspx?ID=15) +24",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 63"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 63</row>",
+ "speed": {
+  "climb": 20,
+  "land": 40,
+  "max": 80,
+  "swim": 80
+ },
+ "speed_markdown": "40 feet, climb 20 feet, swim 80 feet",
+ "speed_raw": "40 feet, climb 20 feet, swim 80 feet",
+ "spell": [
+  "Control Water",
+  "Create Water",
+  "Dimension Door",
+  "Stinking Cloud"
+ ],
+ "spell_markdown": "[Control Water](/Spells.aspx?ID=51), [Create Water](/Spells.aspx?ID=53), [Dimension Door](/Spells.aspx?ID=69), [Stinking Cloud](/Spells.aspx?ID=309)",
+ "stealth": "24",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Seemingly made from living, animated filth, omoxes have no true anatomy, although they generally spend most of their time in roughly humanoid shapes, …",
+ "summary_markdown": "Seemingly made from living, animated filth, omoxes have no true anatomy, although they generally spend most of their time in roughly humanoid shapes, …",
+ "text": " Omox (Slime Demon) Seemingly made from living, animated filth, omoxes have no true anatomy, although they generally spend most of their time in roughly humanoid shapes, resembling some grim caricatures of half-melted humanoids. While scholars once believed these foul demons to be a pure, concentrated form of the corruption that suffuses the Abyss and its inhabitants, in truth these demons arise from the souls of those who routinely befouled and polluted their surroundings in life. Recall Knowledge - Fiend (Religion): DC 32 Recall Knowledge - Ooze (Occultism): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Omox Source Bestiary 3 pg. 63 Perception +22; greater darkvision Languages Abyssal, Celestial, Draconic; telepathy 100 feet Skills Acrobatics +24, Athletics +23, Religion +20, Stealth +24 Str +7 Dex +3 Con +7 Int +2 Wis +4 Cha +4 Cleanly Vulnerability An omox embodies filth, and they find the concept of cleanliness abhorrent. An omox subjected to an effect that cleans them, such as the tidy command of prestidigitation , takes 2d6 mental damage. They also take this damage the first time each round a creature hit by one of the omox's attacks spends actions cleaning off the filth. --- AC 25 Fort +25 Ref +21 Will +20 HP 395 Immunities acid, critical hits, disease, poison, precision Weaknesses cold iron 10, good 10 Grab Weapon Reaction (concentrate) Trigger A creature hits the omox with a melee weapon; Effect The omox attempts to Disarm the triggering creature. On a critical success, the weapon becomes subsumed within the omox's body rather than falling to the ground, from which it must be Disarmed before it can be retrieved. --- Speed 40 feet, climb 20 feet, swim 80 feet Melee Single Action sludge tendril +25, Damage 2d6+13 bludgeoning plus 2d6 acid and 1d6 evil and Grab Ranged Single Action slime ball +24 (range increment 30 feet), Damage 2d4+13 bludgeoning plus 2d6 acid and 1d6 evil and slime trap Divine Innate Spells DC 32 - 4th Dimension Door (at will) - 5th Control Water, Create Water (at will), Dimension Door, Stinking Cloud Rituals DC 32 - 1st Abyssal Pact Liquid Leap Two Actions (Concentrate, Conjuration, Teleportation) Requirements The omox is in a space of liquid; Effect The omox teleports from its current space to any unoccupied space of liquid within 120 feet. Slime Trap A creature hit by an omox's slime ball must attempt a DC 32 Reflex save. Success The creature is unaffected. Failure The creature takes a –10-foot circumstance penalty to its Speeds for 1 minute or until it Escapes (DC 35). Critical Failure As failure, but the target is also clumsy 1 for the same duration. Smother Single Action Requirements The omox has a creature grabbed; Effect The demon flows over the grabbed creature, covering it in oozing acidic slime. The creature must succeed at a DC 32 Fortitude save or else it becomes blinded and must hold its breath or begin suffocating. These effects lasts as long as the omox has the creature grabbed. ",
+ "trait": [
+  "Demon",
+  "Fiend",
+  "Ooze",
+  "Uncommon",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Demon](/Traits.aspx?ID=42), [Fiend](/Traits.aspx?ID=70), [Ooze](/Traits.aspx?ID=122), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Demon",
+  "Fiend",
+  "Ooze",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1112",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 10,
+  "good": 10
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 10, good 10",
+ "weakness_raw": " cold iron  10, good 10",
+ "will_save": 20,
+ "wisdom": 4
+}

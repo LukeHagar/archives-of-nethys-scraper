@@ -1,0 +1,108 @@
+{
+ "ac": 23,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Twisting Tail",
+  "Draconic Frenzy",
+  "Jungle Drake Venom",
+  "Predatory Grab",
+  "Speed Surge",
+  "Spit Venom",
+  "Woodland Stride"
+ ],
+ "creature_family": "Drake",
+ "creature_family_markdown": "[Drake](/MonsterFamilies.aspx?ID=36)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 90,
+ "hp_raw": "90",
+ "id": "creature-161",
+ "image": [
+  "/Images/Monsters/Drake_JungleDrake.png"
+ ],
+ "immunity": [
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "disease, paralyzed, poison, unconscious",
+ "intelligence": -1,
+ "language": [
+  "Draconic"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Jungle Drake](/Monsters.aspx?ID=161)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBelieved to be related to green dragons, jungle drakes are dangerous hunters equipped with a debilitating venom delivered by a large barbed stinger or their noxious phlegm. Their wings are equipped with vestigial claws that allow them to deftly maneuver through thick jungle foliage both in flight and on foot. Jungle drakes prefer to ambush their prey using hit-and-run tactics, picking off the weakest members of a group and dragging their victims off to finish their meals as they please.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drake_JungleDrake.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Jungle Drake](/Monsters.aspx?ID=161)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 132</row>\n\n**Perception** +13; darkvision, scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +13, [Survival](/Skills.aspx?ID=16) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 90\n\n**Immunities**\r\ndisease, paralyzed, poison, unconscious\n\n**Twisting Tail** <actions string=\"Reaction\" /> **Trigger** A creature within reach of the jungle drake’s stinger uses a move action or leaves a square during a move action it’s using. **Effect** The jungle drake Strikes the target with its stinger. If it hits, the jungle drake disrupts the creature’s action.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 50 feet; woodland stride\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +17,\r\n**Damage** 2d10+7 piercing plus predatory grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +17 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+7 piercing plus Jungle Drake Venom\n\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The jungle drake makes one Fangs Strike and two Stinger Strikes in any order.\r\n\r\n**Jungle Drake Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 24; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison damage and [enfeebled 1](/Conditions.aspx?ID=13) (1 round); **Stage 2** 1d6 poison damage and enfeebled 2 (1 round)\r\n\r\n**Predatory Grab**   As [Grab](/MonsterAbilities.aspx?ID=18), but the jungle drake's Grab does not end if it moves away. Instead, it carries the [grabbed](/Conditions.aspx?ID=20) creature with it. A jungle drake can't [Fly](/Actions.aspx?ID=94) while grabbing a creature unless that creature can also Fly.\r\n\r\n**Speed Surge** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The jungle drake moves up to twice its Speed. It can do this three times per day.\r\n\r\n**Spit Venom** <actions string=\"Two Actions\" /> ([Poison](/Traits.aspx?ID=126)) A jungle drake can spit a sticky glob of its venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex save or be exposed to jungle drake venom. The jungle drake can't use Spit Venom again for 1d6 rounds.\r\n\r\n**Woodland Stride**   The jungle drake ignores difficult terrain and greater difficult terrain from non-magical foliage.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-36\" />",
+ "name": "Jungle Drake",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 132</row>\r\n\r\n**Creature Family** [Drake](/MonsterFamilies.aspx?ID=36)\r\n\r\n<row gap=\"medium\">\r\n**HP** 90\r\n\r\n**AC** 23\r\n\r\n**Fort** +17\r\n\r\n**Ref** +13\r\n\r\n**Will** +11\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBelieved to be related to green dragons, jungle drakes are dangerous hunters equipped with a debilitating venom delivered by a large barbed stinger …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 30 feet",
+ "sense_markdown": "darkvision, scent (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Athletics +13",
+  "Stealth +13",
+  "Survival +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +13, [Survival](/Skills.aspx?ID=16) +11",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 132"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 132</row>",
+ "speed": {
+  "fly": 50,
+  "land": 20,
+  "max": 50
+ },
+ "speed_markdown": "20 feet, fly 50 feet; woodland stride",
+ "speed_raw": "20 feet, fly 50 feet; woodland stride",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Believed to be related to green dragons, jungle drakes are dangerous hunters equipped with a debilitating venom delivered by a large barbed stinger …",
+ "summary_markdown": "Believed to be related to green dragons, jungle drakes are dangerous hunters equipped with a debilitating venom delivered by a large barbed stinger …",
+ "text": " Jungle Drake Believed to be related to green dragons, jungle drakes are dangerous hunters equipped with a debilitating venom delivered by a large barbed stinger or their noxious phlegm. Their wings are equipped with vestigial claws that allow them to deftly maneuver through thick jungle foliage both in flight and on foot. Jungle drakes prefer to ambush their prey using hit-and-run tactics, picking off the weakest members of a group and dragging their victims off to finish their meals as they please. Recall Knowledge - Dragon (Arcana): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Jungle Drake Source Bestiary pg. 132 Perception +13; darkvision, scent (imprecise) 30 feet Languages Draconic Skills Acrobatics +15, Athletics +13, Stealth +13, Survival +11 Str +5 Dex +3 Con +4 Int -1 Wis +1 Cha +1 --- AC 23 Fort +17 Ref +13 Will +11 HP 90 Immunities disease, paralyzed, poison, unconscious Twisting Tail Reaction Trigger A creature within reach of the jungle drake’s stinger uses a move action or leaves a square during a move action it’s using. Effect The jungle drake Strikes the target with its stinger. If it hits, the jungle drake disrupts the creature’s action. --- Speed 20 feet, fly 50 feet; woodland stride Melee Single Action fangs +17, Damage 2d10+7 piercing plus predatory grab Melee Single Action stinger +17 (reach 10 feet), Damage 2d6+7 piercing plus Jungle Drake Venom Draconic Frenzy Two Actions The jungle drake makes one Fangs Strike and two Stinger Strikes in any order. Jungle Drake Venom (Poison) Saving Throw Fortitude DC 24; Maximum Duration 6 rounds; Stage 1 1d6 poison damage and enfeebled 1 (1 round); Stage 2 1d6 poison damage and enfeebled 2 (1 round) Predatory Grab As Grab, but the jungle drake's Grab does not end if it moves away. Instead, it carries the grabbed creature with it. A jungle drake can't Fly while grabbing a creature unless that creature can also Fly. Speed Surge Single Action (Move) The jungle drake moves up to twice its Speed. It can do this three times per day. Spit Venom Two Actions (Poison) A jungle drake can spit a sticky glob of its venom to a range of 50 feet that explodes in a 10-foot burst. Those in the burst must succeed at a DC 24 Reflex save or be exposed to jungle drake venom. The jungle drake can't use Spit Venom again for 1d6 rounds. Woodland Stride The jungle drake ignores difficult terrain and greater difficult terrain from non-magical foliage. ",
+ "trait": [
+  "Dragon",
+  "Earth",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Earth](/Traits.aspx?ID=55)",
+ "trait_raw": [
+  "Dragon",
+  "Earth"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=161",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 1
+}

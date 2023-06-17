@@ -1,0 +1,110 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Infused Items",
+  "Consume Flesh",
+  "Ghoul Fever",
+  "Paralysis",
+  "Quick Bomber",
+  "Swift Leap"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 60,
+ "hp_raw": "60 ( negative healing )",
+ "id": "creature-2048",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 4,
+ "language": [
+  "Aklo",
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Pesgahi the Poisoner](/Monsters.aspx?ID=2048)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Pesgahi the Poisoner](/Monsters.aspx?ID=2048)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 57</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Crafting](/Skills.aspx?ID=4) +12, [Medicine](/Skills.aspx?ID=9) +9, [Poison Lore](/Skills.aspx?ID=8) +12, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +4\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Infused Items** Pesgahi carries the following infused items, which last for 24 hours or until the next time he makes his daily preparations: [lesser antidote](/Equipment.aspx?ID=80) (2), [lesser smokestick](/Equipment.aspx?ID=135) (2), [moderate acid flask](/Equipment.aspx?ID=74) (6), [moderate frost vials](/Equipment.aspx?ID=77) (4)\r\n\r\n**Items**\r\n[Alchemist's Tools](/Equipment.aspx?ID=2), [_bracelet of dashing_](/Equipment.aspx?ID=415), formula book\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 60\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 5 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +12 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+5 piercing plus ghoul fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +12 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d4+9 slashing plus paralysis\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nacid flask +13 ([range increment 20 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 1 acid damage plus 2d6 _persistent acid damage_ and 2 acid [splash](/Traits.aspx?ID=150) damage\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nfrost vial +13 ([range increment 20 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 2d6 cold damage plus 2 cold [splash](/Traits.aspx?ID=150) damage\n\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** Pesgahi is adjacent to the corpse of a creature that died within the last hour. **Effect** Pesgahi devours a chunk of the corpse and regains 2d6 Hit Points. He can regain Hit Points from any given corpse only once.\r\n\r\n**Ghoul Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** Fortitude DC 19; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all [healing](/Traits.aspx?ID=89) (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [ghoul](/Monsters.aspx?ID=218) the next midnight.\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living, non-[elf](/Traits.aspx?ID=58) creature hit by Pesgahi's attack must succeed at a DC 19 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**Quick Bomber** <actions string=\"Single Action\" />  Pesgahi can use Interact to draw a bomb and then Strike with it.\r\n\r\n**Swift Leap** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) Pesgahi jumps up to half his Speed. This movement doesn't trigger reactions\r\n\r\n</column>",
+ "name": "Pesgahi the Poisoner",
+ "npc": false,
+ "perception": 11,
+ "rarity": "unique",
+ "reflex_save": 12,
+ "release_date": "2022-07-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 57</row>\n\n<row gap=\"medium\">\r\n**HP** 60 ( negative healing )\r\n\r\n**AC** 21\r\n\r\n**Fort** +10\r\n\r\n**Ref** +12\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Athletics +8",
+  "Crafting +12",
+  "Medicine +9",
+  "Poison Lore +12",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Crafting](/Skills.aspx?ID=4) +12, [Medicine](/Skills.aspx?ID=9) +9, [Poison Lore](/Skills.aspx?ID=8) +12, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Pathfinder #181: Zombie Feast"
+ ],
+ "source_raw": [
+  "Pathfinder #181: Zombie Feast pg. 57"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 57</row>",
+ "speed": {
+  "burrow": 5,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 5 feet",
+ "speed_raw": "30 feet, burrow 5 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "11",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Pesgahi the Poisoner Recall Knowledge - Undead (Religion): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Pesgahi the Poisoner Source Pathfinder #181: Zombie Feast pg. 57 Perception +11; darkvision Languages Aklo, Common, Necril Skills Acrobatics +10, Athletics +8, Crafting +12, Medicine +9, Poison Lore +12, Stealth +11 Str +1 Dex +4 Con +2 Int +4 Wis +1 Cha +1 Infused Items Pesgahi carries the following infused items, which last for 24 hours or until the next time he makes his daily preparations: lesser antidote (2), lesser smokestick (2), moderate acid flask (6), moderate frost vials (4) Items Alchemist's Tools, bracelet of dashing , formula book --- AC 21 Fort +10 Ref +12 Will +11 HP 60 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 30 feet, burrow 5 feet Melee Single Action jaws +12 (Finesse), Damage 2d6+5 piercing plus ghoul fever and paralysis Melee Single Action claw +12 (Agile, Finesse), Damage 1d4+9 slashing plus paralysis Ranged Single Action acid flask +13 (range increment 20 feet, Splash), Damage 1 acid damage plus 2d6 persistent acid damage and 2 acid splash damage Ranged Single Action frost vial +13 (range increment 20 feet, Splash), Damage 2d6 cold damage plus 2 cold splash damage Consume Flesh Single Action (Manipulate) Requirements Pesgahi is adjacent to the corpse of a creature that died within the last hour. Effect Pesgahi devours a chunk of the corpse and regains 2d6 Hit Points. He can regain Hit Points from any given corpse only once. Ghoul Fever (Disease) Saving Throw Fortitude DC 19; Stage 1 carrier with no ill effect (1 day); Stage 2 2d6 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 2d6 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghoul the next midnight. Paralysis (Incapacitation, Occult, Necromancy) Any living, non-elf creature hit by Pesgahi's attack must succeed at a DC 19 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Quick Bomber Single Action Pesgahi can use Interact to draw a bomb and then Strike with it. Swift Leap Single Action (Move) Pesgahi jumps up to half his Speed. This movement doesn't trigger reactions ",
+ "trait": [
+  "Ghoul",
+  "Undead",
+  "Unique",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Undead](/Traits.aspx?ID=160), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Ghoul",
+  "Undead",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2048",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 1
+}

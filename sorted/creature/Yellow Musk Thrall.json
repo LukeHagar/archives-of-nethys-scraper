@@ -1,0 +1,99 @@
+{
+ "ac": 14,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 2,
+ "creature_ability": [
+  "Slow",
+  "Entangling Tendrils",
+  "Limb Extension",
+  "Pollen Touch"
+ ],
+ "creature_family": "Yellow Musk Creeper",
+ "creature_family_markdown": "[Yellow Musk Creeper](/MonsterFamilies.aspx?ID=162)",
+ "dexterity": -2,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 12,
+ "hp_raw": "12",
+ "id": "creature-868",
+ "image": [
+  "/Images/Monsters/YellowMuskCreeper_Thrall.png"
+ ],
+ "immunity": [
+  "mental"
+ ],
+ "immunity_markdown": "[mental](/Traits.aspx?ID=106)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": -1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Yellow Musk Thrall](/Monsters.aspx?ID=868)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA creature transformed by a yellow musk creeper's tendrils boring into its brain becomes a yellow musk thrall if it's Small or Medium, or a yellow musk brute if Large (a Small creature becomes a Small thrall rather than a Medium one). The transformation takes 1 hour. A yellow musk thrall takes only the most rudimentary of actions: bringing the yellow musk creeper water and new creatures to infest. After a few days (or if the creeper dies), the thrall wanders off into the wilderness and falls dead within 24 hours. The body of a deceased thrall sprouts a new yellow musk creeper within hours of its death, becoming a fully grown plant within 24 hours.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 13\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 11\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 8\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/YellowMuskCreeper_Thrall.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature -1\">[Yellow Musk Thrall](/Monsters.aspx?ID=868)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 301 <sup>2.0</sup></row>\n\n**Perception** +0; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** -2\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -2\r\n</row>\r\n\r\n**Slow** A yellow musk thrall is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 14 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +0 \r\n\r\n**Will** +2 \n\n</row>\r\n\r\n**HP** 12\n\n**Immunities**\r\n[mental](/Traits.aspx?ID=106)\n\n**Weaknesses**\r\nfire 5\r\n\r\n**Entangling Tendrils** ([aura](/Traits.aspx?ID=206)) 5 feet. Grasping tendrils extend out from the thrall. When the thrall ends its movement next to a creature, or a creature ends its turn next to the thrall, that creature must succeed at a DC 14 Reflex save or be [grabbed](/Conditions.aspx?ID=20) by the tendrils.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +7,\r\n**Damage** 1d4+3 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18) and pollen touch\n\n**Limb Extension** <actions string=\"Free Action\" />  **Trigger** The yellow musk thrall is reduced to 4 HP or fewer; **Effect** Creeper tendrils tear through the thrall's limbs, causing its forearms to tear loose. The thrall's melee reach increases by 5 feet.\r\n\r\n**Pollen Touch**   When the thrall strikes a creature, that creature is exposed to yellow musk creeper pollen, as [Spray Pollen](/Monsters.aspx?ID=867) (DC 14). The creature is fascinated by the yellow musk creeper that spawned the thrall, not by the thrall itself.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-162\" />",
+ "name": "Yellow Musk Thrall",
+ "npc": false,
+ "perception": 0,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 0,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 301 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Yellow Musk Creeper](/MonsterFamilies.aspx?ID=162)\r\n\r\n<row gap=\"medium\">\r\n**HP** 12\r\n\r\n**AC** 14\r\n\r\n**Fort** +6\r\n\r\n**Ref** +0\r\n\r\n**Will** +2\r\n\r\n**Perception** +0\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA creature transformed by a yellow musk creeper's tendrils boring into its brain becomes a yellow musk thrall if it's Small or Medium, or a yellow …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +5"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +5",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 301"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 301 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A creature transformed by a yellow musk creeper's tendrils boring into its brain becomes a yellow musk thrall if it's Small or Medium, or a yellow …",
+ "summary_markdown": "A creature transformed by a yellow musk creeper's tendrils boring into its brain becomes a yellow musk thrall if it's Small or Medium, or a yellow …",
+ "text": " Yellow Musk Thrall A creature transformed by a yellow musk creeper's tendrils boring into its brain becomes a yellow musk thrall if it's Small or Medium, or a yellow musk brute if Large (a Small creature becomes a Small thrall rather than a Medium one). The transformation takes 1 hour. A yellow musk thrall takes only the most rudimentary of actions: bringing the yellow musk creeper water and new creatures to infest. After a few days (or if the creeper dies), the thrall wanders off into the wilderness and falls dead within 24 hours. The body of a deceased thrall sprouts a new yellow musk creeper within hours of its death, becoming a fully grown plant within 24 hours. Recall Knowledge - Plant (Nature): DC 13 Unspecific Lore : DC 11 Specific Lore : DC 8 Yellow Musk Thrall Source Bestiary 2 pg. 301 2.0 Perception +0; low-light vision Languages Skills Athletics +5 Str +3 Dex -2 Con +2 Int -5 Wis +0 Cha -2 Slow A yellow musk thrall is permanently slowed 1 and can't use reactions. --- AC 14 Fort +6 Ref +0 Will +2 HP 12 Immunities mental Weaknesses fire 5 Entangling Tendrils (aura) 5 feet. Grasping tendrils extend out from the thrall. When the thrall ends its movement next to a creature, or a creature ends its turn next to the thrall, that creature must succeed at a DC 14 Reflex save or be grabbed by the tendrils. --- Speed 25 feet Melee Single Action fist +7, Damage 1d4+3 bludgeoning plus Grab and pollen touch Limb Extension Free Action Trigger The yellow musk thrall is reduced to 4 HP or fewer; Effect Creeper tendrils tear through the thrall's limbs, causing its forearms to tear loose. The thrall's melee reach increases by 5 feet. Pollen Touch When the thrall strikes a creature, that creature is exposed to yellow musk creeper pollen, as Spray Pollen (DC 14). The creature is fascinated by the yellow musk creeper that spawned the thrall, not by the thrall itself. ",
+ "trait": [
+  "Mindless",
+  "Plant",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Mindless",
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=868",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 2,
+ "wisdom": 0
+}

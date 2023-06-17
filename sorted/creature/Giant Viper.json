@@ -1,0 +1,90 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 3,
+ "creature_ability": [
+  "Coiled Opportunity",
+  "Coil",
+  "Giant Viper Venom"
+ ],
+ "creature_family": "Snake",
+ "creature_family_markdown": "[Snake](/MonsterFamilies.aspx?ID=93)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 26,
+ "hp_raw": "26",
+ "id": "creature-381",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Viper](/Monsters.aspx?ID=381)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe giant viper’s fangs are a frightening sight, with injection tubes as long as daggers. The sheer amount of venom injected by a giant viper can cause severe blood clotting and leave a victim utterly drained of vitality.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Giant Viper](/Monsters.aspx?ID=381)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 303</row>\n\n**Perception** +7; low-light vision, scent (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 26\n\n**Coiled Opportunity** <actions string=\"Reaction\" /> As Attack of Opportunity, but the snake can use this reaction only if it’s Coiled.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +11 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8+3 piercing plus giant viper venom\n\n**Coil** <actions string=\"Single Action\" />  The giant viper uses an action to coil itself, increasing its reach with its fangs from 5 to 10 feet. After the giant viper Strikes with its fangs, it becomes uncoiled.\r\n\r\n**Giant Viper Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d6 poison (1 round); **Stage 2** 1d6 poison and drained 1.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-93\" />",
+ "name": "Giant Viper",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 303</row>\r\n\r\n**Creature Family** [Snake](/MonsterFamilies.aspx?ID=93)\r\n\r\n<row gap=\"medium\">\r\n**HP** 26\r\n\r\n**AC** 19\r\n\r\n**Fort** +8\r\n\r\n**Ref** +11\r\n\r\n**Will** +6\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe giant viper’s fangs are a frightening sight, with injection tubes as long as daggers. The sheer amount of venom injected by a giant viper can …\r\n</summary>",
+ "sense": "low-light vision, scent (imprecise) 30 feet",
+ "sense_markdown": "low-light vision, scent (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +9",
+  "Athletics +8",
+  "Stealth +8",
+  "Survival +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +6",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 303"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 303</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet, swim 20 feet",
+ "speed_raw": "20 feet, climb 20 feet, swim 20 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The giant viper’s fangs are a frightening sight, with injection tubes as long as daggers. The sheer amount of venom injected by a giant viper can …",
+ "summary_markdown": "The giant viper’s fangs are a frightening sight, with injection tubes as long as daggers. The sheer amount of venom injected by a giant viper can …",
+ "text": " Giant Viper The giant viper’s fangs are a frightening sight, with injection tubes as long as daggers. The sheer amount of venom injected by a giant viper can cause severe blood clotting and leave a victim utterly drained of vitality. Recall Knowledge - Animal (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Giant Viper Source Bestiary pg. 303 Perception +7; low-light vision, scent (imprecise) 30 feet Languages Skills Acrobatics +9, Athletics +8, Stealth +8, Survival +6 Str +3 Dex +4 Con +3 Int -4 Wis +1 Cha -2 --- AC 19 Fort +8 Ref +11 Will +6 HP 26 Coiled Opportunity Reaction As Attack of Opportunity, but the snake can use this reaction only if it’s Coiled. --- Speed 20 feet, climb 20 feet, swim 20 feet Melee Single Action fangs +11 (Finesse), Damage 1d8+3 piercing plus giant viper venom Coil Single Action The giant viper uses an action to coil itself, increasing its reach with its fangs from 5 to 10 feet. After the giant viper Strikes with its fangs, it becomes uncoiled. Giant Viper Venom (Poison) Saving Throw DC 17 Fortitude; Maximum Duration 6 rounds; Stage 1 1d6 poison (1 round); Stage 2 1d6 poison and drained 1. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=381",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 1
+}

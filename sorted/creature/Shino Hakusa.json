@@ -1,0 +1,98 @@
+{
+ "ac": 35,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Nimble Dodge",
+  "Disorienting Tumble",
+  "Powerful Fists",
+  "Pressure Point Attack",
+  "Sneak Attack"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 250,
+ "hp_raw": "250",
+ "id": "creature-1475",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Goblin",
+  "Tien",
+  "Ysoki"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Tien](/Languages.aspx?ID=43), [Ysoki](/Languages.aspx?ID=61)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Shino Hakusa](/NPCs.aspx?ID=1475)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 42\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 40\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 37\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Shino Hakusa](/NPCs.aspx?ID=1475)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 63</row>\n\n**Perception** +22\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Tien](/Languages.aspx?ID=43), [Ysoki](/Languages.aspx?ID=61)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +28, [Athletics](/Skills.aspx?ID=3) +27, [Deception](/Skills.aspx?ID=5) +24, [Medicine](/Skills.aspx?ID=9) +26, [Occultism](/Skills.aspx?ID=11) +21, [Stealth](/Skills.aspx?ID=15) +26, [Thievery](/Skills.aspx?ID=17) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** +1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n+2 [greater striking](/Equipment.aspx?ID=280) _handwraps of mighty blows_, _+1 [striking](/Equipment.aspx?ID=280) [shurikens](/Weapons.aspx?ID=79)_ (5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 250\n\n**Nimble Dodge** <actions string=\"Reaction\" /> **Trigger** Hakusa is targeted with a melee or ranged attack by an attacker she can see; **Effect** Hakusa gains a +2 circumstance bonus to AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_fist_ +30 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [Nonlethal](/Traits.aspx?ID=188), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 3d6+11 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_shuriken_ +29 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reload 0](/Traits.aspx?ID=254), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d4+11 piercing\n\n**Disorienting Tumble**   Hakusa leaps around and over her opponents, disorienting them, to gain the upper hand in combat. When she successfully [Tumbles Through](/Actions.aspx?ID=29) a creature's space, that creature becomes [flat-footed](/Conditions.aspx?ID=16) until the end of Hakusa's turn.\r\n\r\n**Powerful Fists**   Hakusa's fist Strikes are treated as [cold iron](/Equipment.aspx?ID=375) and [silver](/Equipment.aspx?ID=379). She doesn't take penalties when making lethal attacks.\r\n\r\n**Pressure Point Attack** <actions string=\"Two Actions\" />  Hakusa targets a foe's pressure points to debilitate them. Hakusa makes a fist Strike. On a hit, the target takes damage as normal and must attempt a DC 35 Fortitude save. Regardless of the result of the save, the target is temporarily immune to Pressure Point Attack for 1 minute. <br />**Critical Success** The target is unaffected. <br />**Success** The target's muscles become temporarily weaker. For 1 round, the target is [enfeebled 2](/Conditions.aspx?ID=13) and must succeed at a DC 5 flat check when attempting to use actions with the [manipulate](/Actions.aspx?ID=639) trait or the action is lost. <br />**Failure** As success, but the duration is 1 minute. <br />**Critical Failure** As success, but the duration is 1 minute, the flat check is DC 11, and the target also takes –10-foot status penalty to their Speed for the duration.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   Hakusa's Strikes deal an additional 3d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>",
+ "name": "Shino Hakusa",
+ "npc": true,
+ "perception": 22,
+ "rarity": "unique",
+ "reflex_save": 28,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 63</row>\n\n<row gap=\"medium\">\r\n**HP** 250\r\n\r\n**AC** 35\r\n\r\n**Fort** +24\r\n\r\n**Ref** +28\r\n\r\n**Will** +22\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +28",
+  "Athletics +27",
+  "Deception +24",
+  "Medicine +26",
+  "Occultism +21",
+  "Stealth +26",
+  "Thievery +26"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +28, [Athletics](/Skills.aspx?ID=3) +27, [Deception](/Skills.aspx?ID=5) +24, [Medicine](/Skills.aspx?ID=9) +26, [Occultism](/Skills.aspx?ID=11) +21, [Stealth](/Skills.aspx?ID=15) +26, [Thievery](/Skills.aspx?ID=17) +26",
+ "source": [
+  "Pathfinder #166: Despair on Danger Island"
+ ],
+ "source_raw": [
+  "Pathfinder #166: Despair on Danger Island pg. 63"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 63</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "26",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Shino Hakusa Recall Knowledge - Humanoid (Society): DC 42 Unspecific Lore : DC 40 Specific Lore : DC 37 Shino Hakusa Source Pathfinder #166: Despair on Danger Island pg. 63 Perception +22 Languages Common, Goblin, Tien, Ysoki Skills Acrobatics +28, Athletics +27, Deception +24, Medicine +26, Occultism +21, Stealth +26, Thievery +26 Str +5 Dex +6 Con +4 Int +1 Wis +2 Cha +0 Items +2 greater striking handwraps of mighty blows , +1 striking shurikens (5) --- AC 35 Fort +24 Ref +28 Will +22 HP 250 Nimble Dodge Reaction Trigger Hakusa is targeted with a melee or ranged attack by an attacker she can see; Effect Hakusa gains a +2 circumstance bonus to AC against the triggering attack. --- Speed 35 feet Melee Single Action fist +30 (Agile, Finesse, Magical, Nonlethal, Unarmed), Damage 3d6+11 bludgeoning Ranged Single Action shuriken +29 (Agile, Magical, reload 0, thrown 20 feet), Damage 2d4+11 piercing Disorienting Tumble Hakusa leaps around and over her opponents, disorienting them, to gain the upper hand in combat. When she successfully Tumbles Through a creature's space, that creature becomes flat-footed until the end of Hakusa's turn. Powerful Fists Hakusa's fist Strikes are treated as cold iron and silver. She doesn't take penalties when making lethal attacks. Pressure Point Attack Two Actions Hakusa targets a foe's pressure points to debilitate them. Hakusa makes a fist Strike. On a hit, the target takes damage as normal and must attempt a DC 35 Fortitude save. Regardless of the result of the save, the target is temporarily immune to Pressure Point Attack for 1 minute. Critical Success The target is unaffected. Success The target's muscles become temporarily weaker. For 1 round, the target is enfeebled 2 and must succeed at a DC 5 flat check when attempting to use actions with the manipulate trait or the action is lost. Failure As success, but the duration is 1 minute. Critical Failure As success, but the duration is 1 minute, the flat check is DC 11, and the target also takes –10-foot status penalty to their Speed for the duration. Sneak Attack Hakusa's Strikes deal an additional 3d6 precision damage to flat-footed creatures. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Unique",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=1475",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 22,
+ "wisdom": 2
+}

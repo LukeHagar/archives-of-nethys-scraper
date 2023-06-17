@@ -1,0 +1,93 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 4,
+ "creature_ability": [
+  "Stench",
+  "Shadow Drain",
+  "Unassuming Cloak"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 75,
+ "hp_raw": "75",
+ "id": "creature-1401",
+ "image": [
+  "/Images/Monsters/Sigbin.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can't speak any language)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Sigbin](/Monsters.aspx?ID=1401)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nResembling hornless goats with extremely long tails, sigbins live in forests and prey on inhabitants of nearby humanoid villages. Sigbins drink the blood of their victims by biting into their shadows, rather than their flesh. This process typically leaves the victim so fatigued that they must lie down to rest, at which point the sigbin finishes the job by sinking their jaws into the person's chest and consuming their heart.\n\n Due to their nauseating smell, many sigbins hide among livestock and in other overwhelmingly odorous places. Sigbins have the ability to hide in plain sight simply by standing stock still, but this power works only against adults and elders; for whatever reason, children and young animals can see the invisible sigbins. Many believe this is because children are unsullied by the cruel ways of the world, and so their eyes are still innocent enough to spot the devious beasts. Unfortunately, most adults tend to ignore children's cries about the monsters, chalking up such claims to overactive imaginations or attention-seeking behavior, inadvertently allowing sigbins to continue their hunts uninterrupted.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Sigbin.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Sigbin](/Monsters.aspx?ID=1401)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 89</row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12), scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 75\n\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature that enters the emanation must attempt a DC 19 Fortitude save. On a failure, the creature is [sickened 1](/Conditions.aspx?ID=34), or sickened 2 on a critical failure. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is immune to all sigbins' stenches for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaws +14 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d4+5 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +14 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+5 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +12 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d4+5 bludgeoning plus [Knockdown](/MonsterAbilities.aspx?ID=20)\n\n**Shadow Drain** <actions string=\"Two Actions\" />  **Requirements** The sigbin is [unnoticed](/Conditions.aspx?ID=41) by its target; **Effect** The sigbin makes a fangs Strike (unlike other Strikes, this does not end its invisibility if the sigbin is [invisible](/Conditions.aspx?ID=26)). On a hit, the target takes [nonlethal](/Traits.aspx?ID=188) damage from the Strike and becomes [drained 1](/Conditions.aspx?ID=10) (drained 2 on a critical hit). The sigbin gains 15 temporary Hit Points that remain for 1 hour.\r\n\r\n**Unassuming Cloak**  ([Illusion](/Traits.aspx?ID=92)) A sigbin becomes almost imperceptible if it stands completely still. If the sigbin does not move or attack during its turn, it becomes [invisible](/Conditions.aspx?ID=26). It remains invisible until it moves or takes a [hostile action](/Rules.aspx?ID=300). Children and young creatures, like animal cubs, can see the sigbin normally, even while it's invisible.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Sigbinans</title>\r\n\r\nRumors hold that wicked individuals can capture [sigbins](/Monsters.aspx?ID=1401) and use them for nefarious purposes. These monster hunters are known as sigbinans. Capturing a sigbin is a dangerous process that requires using a living person as bait and a large magical jar as the trap. Once they've captured a sigbin, the sigbinan can deploy their monster to terrorize others. In the jungles of Vudra, sigbinans have been known to capture sigbins to create magical amulets that, when donned, grant the wearer the sigbin's ability to drink blood through a person's shadow.\r\n</aside>",
+ "name": "Sigbin",
+ "npc": false,
+ "perception": 12,
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 89</row>\n\n<row gap=\"medium\">\r\n**HP** 75\r\n\r\n**AC** 21\r\n\r\n**Fort** +13\r\n\r\n**Ref** +16\r\n\r\n**Will** +8\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nResembling hornless goats with extremely long tails, sigbins live in forests and prey on inhabitants of nearby humanoid villages. Sigbins drink the …\r\n</summary>",
+ "sense": " darkvision , scent (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), scent (imprecise) 30 feet",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +10",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "Pathfinder #166: Despair on Danger Island"
+ ],
+ "source_raw": [
+  "Pathfinder #166: Despair on Danger Island pg. 89"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #166: Despair on Danger Island](/Sources.aspx?ID=85) pg. 89</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Resembling hornless goats with extremely long tails, sigbins live in forests and prey on inhabitants of nearby humanoid villages. Sigbins drink the …",
+ "summary_markdown": "Resembling hornless goats with extremely long tails, sigbins live in forests and prey on inhabitants of nearby humanoid villages. Sigbins drink the …",
+ "text": " Sigbin Resembling hornless goats with extremely long tails, sigbins live in forests and prey on inhabitants of nearby humanoid villages. Sigbins drink the blood of their victims by biting into their shadows, rather than their flesh. This process typically leaves the victim so fatigued that they must lie down to rest, at which point the sigbin finishes the job by sinking their jaws into the person's chest and consuming their heart. Due to their nauseating smell, many sigbins hide among livestock and in other overwhelmingly odorous places. Sigbins have the ability to hide in plain sight simply by standing stock still, but this power works only against adults and elders; for whatever reason, children and young animals can see the invisible sigbins. Many believe this is because children are unsullied by the cruel ways of the world, and so their eyes are still innocent enough to spot the devious beasts. Unfortunately, most adults tend to ignore children's cries about the monsters, chalking up such claims to overactive imaginations or attention-seeking behavior, inadvertently allowing sigbins to continue their hunts uninterrupted. Recall Knowledge - Beast (Arcana, Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Sigbin Source Pathfinder #166: Despair on Danger Island pg. 89 Perception +12; darkvision, scent (imprecise) 30 feet Languages Common; (can't speak any language) Skills Acrobatics +12, Athletics +10, Stealth +14 Str +1 Dex +5 Con +4 Int -1 Wis +1 Cha +2 --- AC 21 Fort +13 Ref +16 Will +8 HP 75 Stench (aura, olfactory) 30 feet. A creature that enters the emanation must attempt a DC 19 Fortitude save. On a failure, the creature is sickened 1, or sickened 2 on a critical failure. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is immune to all sigbins' stenches for 1 minute. --- Speed 25 feet Melee Single Action claws +14 (Agile, Finesse), Damage 2d4+5 slashing Melee Single Action fangs +14 (Finesse), Damage 2d6+5 piercing Melee Single Action tail +12 (Agile, Finesse, reach 10 feet), Damage 2d4+5 bludgeoning plus Knockdown Shadow Drain Two Actions Requirements The sigbin is unnoticed by its target; Effect The sigbin makes a fangs Strike (unlike other Strikes, this does not end its invisibility if the sigbin is invisible). On a hit, the target takes nonlethal damage from the Strike and becomes drained 1 (drained 2 on a critical hit). The sigbin gains 15 temporary Hit Points that remain for 1 hour. Unassuming Cloak (Illusion) A sigbin becomes almost imperceptible if it stands completely still. If the sigbin does not move or attack during its turn, it becomes invisible. It remains invisible until it moves or takes a hostile action. Children and young creatures, like animal cubs, can see the sigbin normally, even while it's invisible. Sigbinans Rumors hold that wicked individuals can capture sigbins and use them for nefarious purposes. These monster hunters are known as sigbinans. Capturing a sigbin is a dangerous process that requires using a living person as bait and a large magical jar as the trap. Once they've captured a sigbin, the sigbinan can deploy their monster to terrorize others. In the jungles of Vudra, sigbinans have been known to capture sigbins to create magical amulets that, when donned, grant the wearer the sigbin's ability to drink blood through a person's shadow. ",
+ "trait": [
+  "Beast",
+  "NE",
+  "Small"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1401",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 1
+}

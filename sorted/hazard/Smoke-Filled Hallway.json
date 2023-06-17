@@ -1,0 +1,43 @@
+{
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "While a spell like   gust of wind   can temporarily clear a path through the smoke, the hazard returns at the start of the next round as long as the fires in area A17 continue to burn; DC 18  Survival  to know how best to cover your nose and mouth with a wet cloth to help alleviate the choking effects of the smoke.",
+ "exclude_from_search": false,
+ "hazard_type": "Environmental",
+ "id": "hazard-271",
+ "level": 2,
+ "markdown": "<title level=\"1\" right=\"Hazard 2\" pfs=\"\">[Smoke-Filled Hallway](/Hazards.aspx?ID=271)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 34</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThick smoke fills this hallway, making it difficult to see and breathe.\r\n\r\n---\r\n\r\n**Stealth**\r\n+0 (noticing the smoke is automatic)\r\n\r\n**Disable**\r\nWhile a spell like [_gust of wind_](/Spells.aspx?ID=143) can temporarily clear a path through the smoke, the hazard returns at the start of the next round as long as the fires in area A17 continue to burn; DC 18 [Survival](/Skills.aspx?ID=16) to know how best to cover your nose and mouth with a wet cloth to help alleviate the choking effects of the smoke.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Choke** <actions string=\"Reaction\" /> **Trigger** A creature that isn't holding their breath walks into the hallway or starts their turn in the hallway; **Effect** The triggering creature must attempt a DC 18 Fortitude save.\r\n\r\n**Critical Success** The creature is unaffected by the smoke.<br />\r\n**Success** The creature is [sickened 1](/Conditions.aspx?ID=34) by the smoke.<br />\r\n**Failure** The creature is sickened 1 and takes 1d6 [nonlethal](/Traits.aspx?ID=188) damage from choking on the smoke. A creature that falls [unconscious](/Conditions.aspx?ID=38) from the nonlethal damage begins to [suffocate](/Rules.aspx?ID=468) in 1d4+1 rounds if not dragged to safety.<br />\r\n**Critical Failure** As failure, but sickened 2 and 1d6 persistent nonlethal damage.\n\n---\r\n**Reset**\r\nThe smoke continues to affect anyone who enters area A16 until the fires in area A17 are extinguished.",
+ "name": "Smoke-Filled Hallway",
+ "rarity": "common",
+ "release_date": "2022-10-26",
+ "reset": "The smoke continues to affect anyone who enters area A16 until the fires in area A17 are extinguished.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 34</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThick smoke fills this hallway, making it difficult to see and breathe.\r\n</summary>",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 34"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 34</row>",
+ "speed": {},
+ "stealth": "+0 (noticing the smoke is automatic)",
+ "summary": "Thick smoke fills this hallway, making it difficult to see and breathe.",
+ "summary_markdown": "Thick smoke fills this hallway, making it difficult to see and breathe.",
+ "text": " Smoke-Filled Hallway Source Kingmaker Adventure Path pg. 34 Complexity Complex Thick smoke fills this hallway, making it difficult to see and breathe. --- Stealth +0 (noticing the smoke is automatic) Disable While a spell like gust of wind can temporarily clear a path through the smoke, the hazard returns at the start of the next round as long as the fires in area A17 continue to burn; DC 18 Survival to know how best to cover your nose and mouth with a wet cloth to help alleviate the choking effects of the smoke. Choke Reaction Trigger A creature that isn't holding their breath walks into the hallway or starts their turn in the hallway; Effect The triggering creature must attempt a DC 18 Fortitude save. Critical Success The creature is unaffected by the smoke. Success The creature is sickened 1 by the smoke. Failure The creature is sickened 1 and takes 1d6 nonlethal damage from choking on the smoke. A creature that falls unconscious from the nonlethal damage begins to suffocate in 1d4+1 rounds if not dragged to safety. Critical Failure As failure, but sickened 2 and 1d6 persistent nonlethal damage. --- Reset The smoke continues to affect anyone who enters area A16 until the fires in area A17 are extinguished.",
+ "trait": [
+  "Complex",
+  "Environmental"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Environmental](/Traits.aspx?ID=62)",
+ "trait_raw": [
+  "Complex",
+  "Environmental"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=271",
+ "weakness": {}
+}

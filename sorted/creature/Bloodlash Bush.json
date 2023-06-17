@@ -1,0 +1,94 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Blood Siphon",
+  "Spinning Strike",
+  "Weeping Wounds"
+ ],
+ "creature_family": "Deadly Flora",
+ "creature_family_markdown": "[Deadly Flora](/MonsterFamilies.aspx?ID=106)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 35,
+ "hp_raw": "35",
+ "id": "creature-427",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Bloodlash Bush](/Monsters.aspx?ID=427)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhat first appears to be a simple shrub suddenly stirs to life.\n\nThe bloodlash bush attempts to lacerate its foes, using its weeping wounds to irrigate the ground around itself. The seeds of a bloodlash bush can take root only in soil that has been soaked in blood.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Bloodlash Bush](/Monsters.aspx?ID=427)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Fall of Plaguestone](/Sources.aspx?ID=3) pg. 62</row>\n\n**Perception** +6; tremorsense (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +0\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 35\n\n**Resistances**\r\nbludgeoning 5, piercing 5\r\n\r\n**Weaknesses**\r\nfire 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nvine +11 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+4 slashing plus weeping wounds\n\n**Blood Siphon** <actions string=\"Two Actions\" />  The tendrils of the bush reach out to siphon the blood from a victim up to 20 feet away with persistent bleed damage, causing the victim to immediately take that amount of bleed damage (basic Reflex DC 17). The bush regains an amount of Hit Points equal to double the damage dealt.\r\n\r\n**Spinning Strike** <actions string=\"Three Actions\" />  The bush spins in a circle, lashing out in all directions at once. It makes one attack roll and compares the result to the AC of each creature within its melee reach, rolling damage only once and applying it to each creature hit.\r\n\r\n**Weeping Wounds**   A bloodlash bush’s vines cause terrible lacerations that continue to bleed. A creature hit with a vine attack takes 1 persistent bleed damage (2 on a critical hit). Unlike other forms of persistent damage, this damage is cumulative, to a maximum of 5 persistent bleed damage but it can be stopped like any other persistent bleed damage.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-106\" />",
+ "name": "Bloodlash Bush",
+ "npc": false,
+ "perception": 6,
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 5,
+  "piercing": 5
+ },
+ "resistance_markdown": "bludgeoning 5, piercing 5",
+ "resistance_raw": "bludgeoning 5, piercing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Fall of Plaguestone](/Sources.aspx?ID=3) pg. 62</row>\r\n\r\n**Creature Family** [Deadly Flora](/MonsterFamilies.aspx?ID=106)\r\n\r\n<row gap=\"medium\">\r\n**HP** 35\r\n\r\n**AC** 16\r\n\r\n**Fort** +10\r\n\r\n**Ref** +8\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhat first appears to be a simple shrub suddenly stirs to life.  The bloodlash bush attempts to lacerate its foes, using its weeping wounds to …\r\n</summary>",
+ "sense": "tremorsense (imprecise) 30 feet",
+ "sense_markdown": "tremorsense (imprecise) 30 feet",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "The Fall of Plaguestone"
+ ],
+ "source_raw": [
+  "The Fall of Plaguestone pg. 62"
+ ],
+ "source_category": "Adventures",
+ "source_group": "The Fall of Plaguestone",
+ "source_markdown": "<row gap=\"tiny\">[The Fall of Plaguestone](/Sources.aspx?ID=3) pg. 62</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "What first appears to be a simple shrub suddenly stirs to life.  The bloodlash bush attempts to lacerate its foes, using its weeping wounds to …",
+ "summary_markdown": "What first appears to be a simple shrub suddenly stirs to life.  The bloodlash bush attempts to lacerate its foes, using its weeping wounds to …",
+ "text": " Bloodlash Bush What first appears to be a simple shrub suddenly stirs to life. The bloodlash bush attempts to lacerate its foes, using its weeping wounds to irrigate the ground around itself. The seeds of a bloodlash bush can take root only in soil that has been soaked in blood. Recall Knowledge - Plant (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Bloodlash Bush Source The Fall of Plaguestone pg. 62 Perception +6; tremorsense (imprecise) 30 feet Languages Skills Athletics +8, Stealth +6 Str +4 Dex +2 Con +4 Int -4 Wis +0 Cha +0 --- AC 16 Fort +10 Ref +8 Will +6 HP 35 Resistances bludgeoning 5, piercing 5 Weaknesses fire 5 --- Speed 20 feet Melee Single Action vine +11 (Agile, reach 10 feet), Damage 1d8+4 slashing plus weeping wounds Blood Siphon Two Actions The tendrils of the bush reach out to siphon the blood from a victim up to 20 feet away with persistent bleed damage, causing the victim to immediately take that amount of bleed damage (basic Reflex DC 17). The bush regains an amount of Hit Points equal to double the damage dealt. Spinning Strike Three Actions The bush spins in a circle, lashing out in all directions at once. It makes one attack roll and compares the result to the AC of each creature within its melee reach, rolling damage only once and applying it to each creature hit. Weeping Wounds A bloodlash bush’s vines cause terrible lacerations that continue to bleed. A creature hit with a vine attack takes 1 persistent bleed damage (2 on a critical hit). Unlike other forms of persistent damage, this damage is cumulative, to a maximum of 5 persistent bleed damage but it can be stopped like any other persistent bleed damage. ",
+ "trait": [
+  "Plant",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=427",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 6,
+ "wisdom": 0
+}

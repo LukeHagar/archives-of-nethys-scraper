@@ -1,0 +1,60 @@
+{
+ "ac": 41,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 42  Thievery  (legendary) to retrieve a creature from the mirror within 10 minutes of the switch (possible only if their mirror duplicate is dead), DC 47 Thievery (master) to permanently disable the mirror once all mirror duplicates are dead, or   dispel magic   (9th level;  counteract  DC 40) to counteract the mirror for 1 minute and prevent additional replacements from appearing during that time.",
+ "exclude_from_search": false,
+ "fortitude_save": 32,
+ "hardness": 1,
+ "hardness_raw": "1",
+ "hazard_type": "Trap",
+ "hp": 4,
+ "hp_raw": "4 (BT 2); the mirror can't be damaged while any mirror duplicate is alive",
+ "id": "hazard-237",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 19,
+ "markdown": "<title level=\"1\" right=\"Hazard 19\" pfs=\"\">[Imperious Darkside Mirror](/Hazards.aspx?ID=237)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 54</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThis magic mirror replaces characters with evil duplicates from another dimension.\r\n\r\n---\r\n\r\n**Stealth**\r\n+32 (legendary) to notice that the mirror isn't a regular mirror\r\n\r\n**Disable**\r\nDC 42 [Thievery](/Skills.aspx?ID=17) (legendary) to retrieve a creature from the mirror within 10 minutes of the switch (possible only if their mirror duplicate is dead), DC 47 Thievery (master) to permanently disable the mirror once all mirror duplicates are dead, or [_dispel magic_](/Spells.aspx?ID=78) (9th level; [counteract](/Rules.aspx?ID=371) DC 40) to counteract the mirror for 1 minute and prevent additional replacements from appearing during that time.\n\n<column gap=\"tiny\">\r\n\r\n**AC** 41, **Fort** +32, **Ref** +27\r\n\r\n**Hardness**\r\n1\r\n\r\n**HP**\r\n4 (BT 2); the mirror can't be damaged while any mirror duplicate is alive\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Reflection of Evil** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [conjuration](/Traits.aspx?ID=33), [teleportation](/Traits.aspx?ID=156)) **Trigger** A non-evil creature is reflected in the mirror; **Effect** The mirror absorbs the creature into the mirror, replacing it with an evil mirror duplicate (DC 42 Reflex to avoid being absorbed into the mirror), and rolls initiative.\n\n---\r\n**Routine**\r\n(1 action) The mirror absorbs another reflected creature into the mirror (DC 42 Reflex) and replaces it with a mirror duplicate. Mirror duplicates act on their own initiative, using the same statistics as the original creature, but with an evil alignment (changing only abilities that shift with the alignment change).\n\n Mirror duplicates are legendary in [Intimidation](/Skills.aspx?ID=7) and are permanently [quickened](/Conditions.aspx?ID=32), but they can use this additional action only to [Demoralize](/Actions.aspx?ID=53).\n\n A mirror duplicate can spend 3 actions in contact with the mirror to return to its original dimension and release the creature it duplicated, but most mirror duplicates prefer not to.\r\n\r\n---\r\n**Reset**\r\nThe mirror is always ready to absorb creatures into another dimension. 10 minutes after a creature is sucked into the mirror, if an ally doesn't rescue the creature using the Thievery skill, the creature reaches the mirror dimension, where it could be captured or killed. In the mirror dimension, it counts as a mirror duplicate, so the denizens of the other dimension can't destroy the mirror on their side while the absorbed creature is there. These dimensions are alternate realities, not planes, so even rituals like [_plane shift_](/Spells.aspx?ID=222) can't reach them.",
+ "name": "Imperious Darkside Mirror",
+ "rarity": "common",
+ "reflex_save": 27,
+ "release_date": "2020-05-27",
+ "reset": "The mirror is always ready to absorb creatures into another dimension. 10 minutes after a creature is sucked into the mirror, if an ally doesn't rescue the creature using the Thievery skill, the creature reaches the mirror dimension, where it could be captured or killed. In the mirror dimension, it counts as a mirror duplicate, so the denizens of the other dimension can't destroy the mirror on their side while the absorbed creature is there. These dimensions are alternate realities, not planes, so even rituals like <%SPELLS%222%%><i>plane shift</i><%END> can't reach them.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 54</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis magic mirror replaces characters with evil duplicates from another dimension.\r\n</summary>",
+ "source": [
+  "Pathfinder #155: Lord of the Black Sands"
+ ],
+ "source_raw": [
+  "Pathfinder #155: Lord of the Black Sands pg. 54"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 54</row>",
+ "speed": {},
+ "stealth": "+32 (legendary) to notice that the mirror isn't a regular mirror",
+ "summary": "This magic mirror replaces characters with evil duplicates from another dimension.",
+ "summary_markdown": "This magic mirror replaces characters with evil duplicates from another dimension.",
+ "text": " Imperious Darkside Mirror Source Pathfinder #155: Lord of the Black Sands pg. 54 Complexity Complex This magic mirror replaces characters with evil duplicates from another dimension. --- Stealth +32 (legendary) to notice that the mirror isn't a regular mirror Disable DC 42 Thievery (legendary) to retrieve a creature from the mirror within 10 minutes of the switch (possible only if their mirror duplicate is dead), DC 47 Thievery (master) to permanently disable the mirror once all mirror duplicates are dead, or dispel magic (9th level; counteract DC 40) to counteract the mirror for 1 minute and prevent additional replacements from appearing during that time. AC 41, Fort +32, Ref +27 Hardness 1 HP 4 (BT 2); the mirror can't be damaged while any mirror duplicate is alive Immunities critical hits, object immunities, precision damage Reflection of Evil Reaction (arcane, conjuration, teleportation) Trigger A non-evil creature is reflected in the mirror; Effect The mirror absorbs the creature into the mirror, replacing it with an evil mirror duplicate (DC 42 Reflex to avoid being absorbed into the mirror), and rolls initiative. --- Routine (1 action) The mirror absorbs another reflected creature into the mirror (DC 42 Reflex) and replaces it with a mirror duplicate. Mirror duplicates act on their own initiative, using the same statistics as the original creature, but with an evil alignment (changing only abilities that shift with the alignment change). Mirror duplicates are legendary in Intimidation and are permanently quickened, but they can use this additional action only to Demoralize. A mirror duplicate can spend 3 actions in contact with the mirror to return to its original dimension and release the creature it duplicated, but most mirror duplicates prefer not to. --- Reset The mirror is always ready to absorb creatures into another dimension. 10 minutes after a creature is sucked into the mirror, if an ally doesn't rescue the creature using the Thievery skill, the creature reaches the mirror dimension, where it could be captured or killed. In the mirror dimension, it counts as a mirror duplicate, so the denizens of the other dimension can't destroy the mirror on their side while the absorbed creature is there. These dimensions are alternate realities, not planes, so even rituals like plane shift can't reach them.",
+ "trait": [
+  "Complex",
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Magical](/Traits.aspx?ID=103), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Magical",
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=237",
+ "weakness": {}
+}

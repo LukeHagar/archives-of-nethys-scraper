@@ -1,0 +1,103 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 0,
+ "creature_ability": [
+  "Aura of Sobs",
+  "Whispered Despair",
+  "Steal Breath",
+  "Steal Voice"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 60,
+ "hp_raw": "60 ( negative healing )",
+ "id": "creature-557",
+ "image": [
+  "/Images/Monsters/AtticWhisperer.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Attic Whisperer](/Monsters.aspx?ID=557)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBeware the haunting sobs of the attic whisperer, for they carry the pained wrath of an abandoned child who perished due to the neglect or absence of their caretakers. Animated by loneliness, the embittered spirit binds itself to the material world in a body made of bits and oddments of a lost childhood—wooden blocks, scraps of blankets, ratty dolls, buttons, carved trinkets, and glass marbles. To give themselves the semblance of a head, they top their patchwork bodies with a small animal's skull.\n\nAttic whisperers most frequently lurk in old infirmaries, orphanages, and other such institutions where children were forgotten, and they lay dormant for decades in hopes that they might one day find a playmate to ease their eternal loneliness. When they sense the living, attic whisperers attempt to lure them into their clutches by calling out to them using the voice of a small child. Though attic whisperers intend only to play with those they encounter, they drain the breath and voice from living creatures as their dark impulses take over.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/AtticWhisperer.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Attic Whisperer](/Monsters.aspx?ID=557)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 28 <sup>2.0</sup></row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Deception](/Skills.aspx?ID=5) +11, [Society](/Skills.aspx?ID=14) +10, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +5\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 60\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Aura of Sobs** ([auditory](/Traits.aspx?ID=16), [aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) 10 feet. An attic whisperer enshrouds itself in a tapestry of stolen voices. Each living creature that enters or starts their turn in the aura must succeed at a DC 19 Will save or the unnerving, bitter sobs render them distraught and they become [stupefied 1](/Conditions.aspx?ID=37) for as long as they remain within the aura. A creature that succeeds is temporarily immune for 1 hour. The attic whisperer can activate or deactivate the aura with a single free action, which has the [concentrate](/Traits.aspx?ID=32) trait.<br />**Whispered Despair** <actions string=\"Reaction\" /> **Trigger** A creature with an active [emotion](/Traits.aspx?ID=60) effect enters an attic whisperer's aura of sobs** **Effect** The attic whisperer attempts to counteract the [emotion](/Traits.aspx?ID=60) effect, with a counteract modifier of +13.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +15 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d8 piercing plus steal breath\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbony hand +13 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d10 negative plus steal voice\n\n**Steal Breath**  ([Curse](/Traits.aspx?ID=38), [Incapacitation](/Traits.aspx?ID=93), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) The attic whisperer siphons the breath from living creatures, sapping their strength. A living creature hit by a jaws Strike must attempt a DC 21 Fortitude save. <br />**Critical Success** The target is unaffected. <br />**Success** The target is [enfeebled 1](/Conditions.aspx?ID=13) for 1 round. <br />**Failure** The target is enfeebled 1 for 24 hours and [fatigued](/Conditions.aspx?ID=15). <br />**Critical Failure** The target is enfeebled 1 for 24 hours, is fatigued, and falls [unconscious](/Conditions.aspx?ID=38).\r\n\r\n**Steal Voice**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) When an attic whisperer hits a living creature with a bony hand Strike, it tries to pull the victim's voice into its aura. The victim must attempt a DC 21 Will save. <br />**Critical Success** The target is unaffected. <br />**Success** The target's voice is weak for 1 minute. Anytime it attempts an action with the [auditory](/Traits.aspx?ID=16) trait, it must succeed at a DC 5 flat check or the action is lost. <br />**Failure** The target loses the ability to speak for 1 hour, until the curse is removed, or until the attic whisperer is destroyed, whichever comes first. During this time, the attic whisperer can perfectly mimic the target's voice, and the target takes a –2 circumstance penalty to saving throws against that attic whisperer's aura of sobs. <br />**Critical Failure** As failure, but the effects lasts until the attic whisperer is destroyed or the curse is removed.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Varisian Nursery Rhyme</title>\r\n\r\nIs the attic whispering?<br /> Are we safe below?<br /> Do you think he's listening?<br /> Is that his shadow?\n\n Do you hear him waking,<br /> Up above the stairs?<br /> Do you hear him weeping?<br /> Is he really there?\n\n Can you say “I'm speaking?”<br /> Are you saying naught?<br /> Is it you who's weeping?<br /> Is it you he's caught?\r\n</aside>",
+ "name": "Attic Whisperer",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 28 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 60 ( negative healing )\r\n\r\n**AC** 21\r\n\r\n**Fort** +8\r\n\r\n**Ref** +13\r\n\r\n**Will** +12\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBeware the haunting sobs of the attic whisperer, for they carry the pained wrath of an abandoned child who perished due to the neglect or absence of …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Deception +11",
+  "Society +10",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Deception](/Skills.aspx?ID=5) +11, [Society](/Skills.aspx?ID=14) +10, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 28"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 28 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Beware the haunting sobs of the attic whisperer, for they carry the pained wrath of an abandoned child who perished due to the neglect or absence of …",
+ "summary_markdown": "Beware the haunting sobs of the attic whisperer, for they carry the pained wrath of an abandoned child who perished due to the neglect or absence of …",
+ "text": " Attic Whisperer Beware the haunting sobs of the attic whisperer, for they carry the pained wrath of an abandoned child who perished due to the neglect or absence of their caretakers. Animated by loneliness, the embittered spirit binds itself to the material world in a body made of bits and oddments of a lost childhood—wooden blocks, scraps of blankets, ratty dolls, buttons, carved trinkets, and glass marbles. To give themselves the semblance of a head, they top their patchwork bodies with a small animal's skull. Attic whisperers most frequently lurk in old infirmaries, orphanages, and other such institutions where children were forgotten, and they lay dormant for decades in hopes that they might one day find a playmate to ease their eternal loneliness. When they sense the living, attic whisperers attempt to lure them into their clutches by calling out to them using the voice of a small child. Though attic whisperers intend only to play with those they encounter, they drain the breath and voice from living creatures as their dark impulses take over. Recall Knowledge - Undead (Religion): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Attic Whisperer Source Bestiary 2 pg. 28 2.0 Perception +10; darkvision Languages Common, Necril Skills Deception +11, Society +10, Stealth +13 Str +0 Dex +5 Con +0 Int +2 Wis +4 Cha +3 --- AC 21 Fort +8 Ref +13 Will +12 HP 60 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Aura of Sobs (auditory, aura, emotion, enchantment, mental, occult) 10 feet. An attic whisperer enshrouds itself in a tapestry of stolen voices. Each living creature that enters or starts their turn in the aura must succeed at a DC 19 Will save or the unnerving, bitter sobs render them distraught and they become stupefied 1 for as long as they remain within the aura. A creature that succeeds is temporarily immune for 1 hour. The attic whisperer can activate or deactivate the aura with a single free action, which has the concentrate trait. Whispered Despair Reaction Trigger A creature with an active emotion effect enters an attic whisperer's aura of sobs Effect The attic whisperer attempts to counteract the emotion effect, with a counteract modifier of +13. --- Speed 20 feet Melee Single Action jaws +15 (Agile, Finesse), Damage 2d8 piercing plus steal breath Melee Single Action bony hand +13 (Agile), Damage 2d10 negative plus steal voice Steal Breath (Curse, Incapacitation, Necromancy, Occult) The attic whisperer siphons the breath from living creatures, sapping their strength. A living creature hit by a jaws Strike must attempt a DC 21 Fortitude save. Critical Success The target is unaffected. Success The target is enfeebled 1 for 1 round. Failure The target is enfeebled 1 for 24 hours and fatigued. Critical Failure The target is enfeebled 1 for 24 hours, is fatigued, and falls unconscious. Steal Voice (Curse, Necromancy, Occult) When an attic whisperer hits a living creature with a bony hand Strike, it tries to pull the victim's voice into its aura. The victim must attempt a DC 21 Will save. Critical Success The target is unaffected. Success The target's voice is weak for 1 minute. Anytime it attempts an action with the auditory trait, it must succeed at a DC 5 flat check or the action is lost. Failure The target loses the ability to speak for 1 hour, until the curse is removed, or until the attic whisperer is destroyed, whichever comes first. During this time, the attic whisperer can perfectly mimic the target's voice, and the target takes a –2 circumstance penalty to saving throws against that attic whisperer's aura of sobs. Critical Failure As failure, but the effects lasts until the attic whisperer is destroyed or the curse is removed. Varisian Nursery Rhyme Is the attic whispering? Are we safe below? Do you think he's listening? Is that his shadow? Do you hear him waking, Up above the stairs? Do you hear him weeping? Is he really there? Can you say “I'm speaking?” Are you saying naught? Is it you who's weeping? Is it you he's caught? ",
+ "trait": [
+  "Undead",
+  "NE",
+  "Small"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=557",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 4
+}

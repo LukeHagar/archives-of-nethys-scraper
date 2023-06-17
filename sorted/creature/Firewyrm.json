@@ -1,0 +1,102 @@
+{
+ "ac": 28,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Smoke Vision",
+  "Explosion",
+  "Intense Heat",
+  "Breath Weapon"
+ ],
+ "creature_family": "Elemental, Fire",
+ "creature_family_markdown": "[Elemental, Fire](/MonsterFamilies.aspx?ID=43)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 165,
+ "hp_raw": "165 (explosion)",
+ "id": "creature-190",
+ "immunity": [
+  "bleed",
+  "fire",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, fire, paralyzed, poison, sleep",
+ "intelligence": -1,
+ "language": [
+  "Ignan"
+ ],
+ "language_markdown": "[Ignan](/Languages.aspx?ID=18)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Firewyrm](/Monsters.aspx?ID=190)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFirewyrms live in tubes of molten lava found throughout the Plane of Fire.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Firewyrm](/Monsters.aspx?ID=190)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 149</row>\n\n**Perception** +16; darkvision, smoke vision\r\n\r\n**Languages**\r\n[Ignan](/Languages.aspx?ID=18)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Smoke Vision** The firewyrm ignores the concealed condition from smoke.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 165\r\n(explosion)\n\n**Immunities**\r\nbleed, fire, paralyzed, poison, sleep\n\n**Weaknesses**\r\ncold 10\r\n\r\n**Explosion** ([fire](/Traits.aspx?ID=72)) When the firewyrm dies, it explodes, dealing 6d6 fire damage to each creature in a 10-foot emanation (DC 28 basic Reflex save).<br /> **Intense Heat** ([aura](/Traits.aspx?ID=206), [fire](/Traits.aspx?ID=72)) 10 feet, 4d6 fire, DC 25 basic Reflex.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +20 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+11 fire plus 2d8 persistent fire\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nfire mote +20 ([range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d8+6 fire\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72), [Primal](/Traits.aspx?ID=134)) The firewyrm breathes a 30-foot cone of fire dealing 7d6 fire and 2d8 persistent fire damage to every creature within the cone (DC 28 basic Reflex save). The firewyrm can’t use Breath Weapon again for 1d4 rounds.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-43\" />",
+ "name": "Firewyrm",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 20,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 149</row>\r\n\r\n**Creature Family** [Elemental, Fire](/MonsterFamilies.aspx?ID=43)\r\n\r\n<row gap=\"medium\">\r\n**HP** 165 (explosion)\r\n\r\n**AC** 28\r\n\r\n**Fort** +18\r\n\r\n**Ref** +20\r\n\r\n**Will** +15\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFirewyrms live in tubes of molten lava found throughout the Plane of Fire.\r\n</summary>",
+ "sense": "darkvision, smoke vision",
+ "sense_markdown": "darkvision, smoke vision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +20"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +20",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 149"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 149</row>",
+ "speed": {
+  "land": 60,
+  "max": 60
+ },
+ "speed_markdown": "60 feet",
+ "speed_raw": "60 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Firewyrms live in tubes of molten lava found throughout the Plane of Fire.",
+ "summary_markdown": "Firewyrms live in tubes of molten lava found throughout the Plane of Fire.",
+ "text": " Firewyrm Firewyrms live in tubes of molten lava found throughout the Plane of Fire. Recall Knowledge - Elemental (Arcana, Nature): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Firewyrm Source Bestiary pg. 149 Perception +16; darkvision, smoke vision Languages Ignan Skills Acrobatics +20 Str +5 Dex +5 Con +4 Int -1 Wis +3 Cha +0 Smoke Vision The firewyrm ignores the concealed condition from smoke. --- AC 28 Fort +18 Ref +20 Will +15 HP 165 (explosion) Immunities bleed, fire, paralyzed, poison, sleep Weaknesses cold 10 Explosion (fire) When the firewyrm dies, it explodes, dealing 6d6 fire damage to each creature in a 10-foot emanation (DC 28 basic Reflex save). Intense Heat (aura, fire) 10 feet, 4d6 fire, DC 25 basic Reflex. --- Speed 60 feet Melee Single Action tail +20 (reach 15 feet), Damage 2d8+11 fire plus 2d8 persistent fire Ranged Single Action fire mote +20 (range increment 60 feet), Damage 2d8+6 fire Breath Weapon Two Actions (Evocation, Fire, Primal) The firewyrm breathes a 30-foot cone of fire dealing 7d6 fire and 2d8 persistent fire damage to every creature within the cone (DC 28 basic Reflex save). The firewyrm can’t use Breath Weapon again for 1d4 rounds. ",
+ "trait": [
+  "Elemental",
+  "Fire",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Elemental](/Traits.aspx?ID=57), [Fire](/Traits.aspx?ID=72)",
+ "trait_raw": [
+  "Elemental",
+  "Fire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=190",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold": 10
+ },
+ "weakness_markdown": "cold 10",
+ "weakness_raw": "cold 10",
+ "will_save": 15,
+ "wisdom": 3
+}

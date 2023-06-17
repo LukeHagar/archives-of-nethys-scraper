@@ -1,0 +1,99 @@
+{
+ "ac": 18,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 0,
+ "creature_ability": [
+  "Constrict",
+  "Compression",
+  "Control Body",
+  "Enshroud"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": true,
+ "fortitude_save": 6,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-2482",
+ "immunity": [
+  "critical hits (except slashing)",
+  "death  effects",
+  ""
+ ],
+ "immunity_markdown": "critical hits (except slashing), [death](/Traits.aspx?ID=40) effects,",
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can't speak any language)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Shredskin](/Monsters.aspx?ID=2482)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Shredskin](/Monsters.aspx?ID=2482)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 60, [Book of the Dead](/Sources.aspx?ID=118) pg. 143</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +8, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +0\r\n\r\n**Int** -1\r\n\r\n**Wis** +0\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 30\n\n**Immunities**\r\ncritical hits (except slashing), [death](/Traits.aspx?ID=40) effects,\n\n[disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), precision, [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaws +10 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+4 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +11,\r\n**Damage** 1d8+4 piercing\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d4+4 bludgeoning, DC 16\r\n\r\n**Compression**   When a shredskin successfully [Squeezes](/Actions.aspx?ID=31), it moves through the tight space at full speed. Narrow confines are not difficult terrain for a shredskin.\r\n\r\n**Control Body** <actions string=\"Single Action\" />  **Requirements** The shredskin is adjacent to a Medium or Small [humanoid](/Traits.aspx?ID=91)-shaped corpse; **Effect** The shredskin wraps itself around the corpse and takes control of the host body. While controlling a host, the shredskin uses the host's Speed but its own attacks, and it loses its Grab and Enshroud abilities. Attacks that target the shredskin while it controls a body deal half of the damage to the shredskin and half of the damage to the host body. Attacks that target an area deal damage to both the shredskin and host body normally. The shredskin can release the host body as a free action at the start of its turn. If the host is destroyed, the shredskin automatically releases the body and is flat-footed for 1 round. A Medium corpse typically has 15 Hit Points, while a Small corpse typically has 10 Hit Points. Creatures can notice that a corpse is controlled by a shredskin by succeeding a Perception check against the shredskin's [Deception](/Skills.aspx?ID=5) DC.\r\n\r\n**Enshroud** <actions string=\"Single Action\" />  **Requirements** The shredskin is grabbing a creature; **Effect** The shredskin attempts to pin the creature and wrap itself around the creature like a shirt. The shredskin rolls an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. On a success, the creature becomes [restrained](/Conditions.aspx?ID=33) and the shredskin can take control of the creature as if using Control Body. At the start of its turn, the shredskin can automatically Constrict the enshrouded creature as a free action. An enshrouded creature can attempt a DC 16 [Escape](/Actions.aspx?ID=79) check to break free (DC 18 if the shredskin critically succeeded its Athletics check to Enshroud).\r\n\r\n</column>",
+ "name": "Shredskin",
+ "npc": false,
+ "perception": 11,
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2020-07-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 60, [Book of the Dead](/Sources.aspx?ID=118) pg. 143</row>\n\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 18\r\n\r\n**Fort** +6\r\n\r\n**Ref** +10\r\n\r\n**Will** +8\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Athletics +8",
+  "Deception +8",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +8, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Pathfinder #157: Devil at the Dreaming Palace"
+ ],
+ "source_raw": [
+  "Pathfinder #157: Devil at the Dreaming Palace pg. 60"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #157: Devil at the Dreaming Palace](/Sources.aspx?ID=45) pg. 60, [Book of the Dead](/Sources.aspx?ID=118) pg. 143</row>",
+ "speed": {
+  "fly": 30,
+  "max": 30
+ },
+ "speed_markdown": "fly 30 feet",
+ "speed_raw": "fly 30 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "",
+ "summary_markdown": "",
+ "text": " Shredskin Recall Knowledge - Undead (Religion): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Shredskin Source Pathfinder #157: Devil at the Dreaming Palace pg. 60, Book of the Dead pg. 143 Perception +11; darkvision Languages Common; (can't speak any language) Skills Acrobatics +10, Athletics +8, Deception +8, Stealth +8 Str +2 Dex +4 Con +0 Int -1 Wis +0 Cha +2 --- AC 18 Fort +6 Ref +10 Will +8 HP 30 Immunities critical hits (except slashing), death effects, disease, mental, paralyzed, precision, poison, unconscious --- Speed fly 30 feet Melee Single Action claws +10 (Agile), Damage 1d6+4 slashing plus Grab Melee Single Action jaws +11, Damage 1d8+4 piercing Constrict Single Action 1d4+4 bludgeoning, DC 16 Compression When a shredskin successfully Squeezes, it moves through the tight space at full speed. Narrow confines are not difficult terrain for a shredskin. Control Body Single Action Requirements The shredskin is adjacent to a Medium or Small humanoid-shaped corpse; Effect The shredskin wraps itself around the corpse and takes control of the host body. While controlling a host, the shredskin uses the host's Speed but its own attacks, and it loses its Grab and Enshroud abilities. Attacks that target the shredskin while it controls a body deal half of the damage to the shredskin and half of the damage to the host body. Attacks that target an area deal damage to both the shredskin and host body normally. The shredskin can release the host body as a free action at the start of its turn. If the host is destroyed, the shredskin automatically releases the body and is flat-footed for 1 round. A Medium corpse typically has 15 Hit Points, while a Small corpse typically has 10 Hit Points. Creatures can notice that a corpse is controlled by a shredskin by succeeding a Perception check against the shredskin's Deception DC. Enshroud Single Action Requirements The shredskin is grabbing a creature; Effect The shredskin attempts to pin the creature and wrap itself around the creature like a shirt. The shredskin rolls an Athletics check against the creature's Fortitude DC. On a success, the creature becomes restrained and the shredskin can take control of the creature as if using Control Body. At the start of its turn, the shredskin can automatically Constrict the enshrouded creature as a free action. An enshrouded creature can attempt a DC 16 Escape check to break free (DC 18 if the shredskin critically succeeded its Athletics check to Enshroud). ",
+ "trait": [
+  "Undead",
+  "NE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2482",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 0
+}

@@ -1,0 +1,103 @@
+{
+ "ac": 40,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 5,
+ "creature_ability": [
+  "Riotous Parade",
+  "Attack of Opportunity",
+  "Troop Defenses",
+  "Seiya! Soiya!",
+  "Form Up",
+  "Troop Movement",
+  "Wasshoi! Wasshoi!"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 32,
+ "hp": 450,
+ "hp_raw": "450",
+ "id": "creature-1519",
+ "intelligence": 5,
+ "language": [
+  "Senzar"
+ ],
+ "language_markdown": "[Senzar](/Languages.aspx?ID=92)",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"\">[Dancing Night Parade](/Monsters.aspx?ID=1519)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 49\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 47\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 44\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Dancing Night Parade](/Monsters.aspx?ID=1519)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 41</row>\n\n**Perception** +28; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Senzar](/Languages.aspx?ID=92)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +34, [Athletics](/Skills.aspx?ID=3) +33, [Dancing Lore](/Skills.aspx?ID=8) +34, [Deception](/Skills.aspx?ID=5) +37, [Performance](/Skills.aspx?ID=12) +37, [Society](/Skills.aspx?ID=14) +32\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +7\r\n\r\n**Con** +5\r\n\r\n**Int** +5\r\n\r\n**Wis** +5\r\n\r\n**Cha** +6\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 40 \r\n\r\n**Fort** +32 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +34 \n\n</row>\r\n\r\n**HP** 450\n\n**Weaknesses**\r\narea damage 20, bludgeoning 15, [splash](/Traits.aspx?ID=150) damage 10\r\n\r\n**Riotous Parade** ([auditory](/Traits.aspx?ID=16), [aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61)) mental 60 feet. The night parade sweeps up those nearby in a riotous celebration. All creatures in the [aura](/Traits.aspx?ID=206) must attempt a DC 39 Will save. The target is then temporarily immune for 10 minutes. <br />**Critical Success** The target is unafflicted. <br />**Success** The target laughs and dances. It can't use reactions as long as it stays in the area, [and if it attempts to use a  &lt;%TRAITS%32%%&gt; concentrate](/Traits.aspx?ID=32) action &lt;%END>, it must succeed at a DC 5 flat check; on a failure, the action is lost. <br />**Failure** As success, except the target is also [slowed 1](/Conditions.aspx?ID=35) while in the area. <br />**Critical Failure** As success, except the target is also slowed 1 while in the area and the flat check DC is 10.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**[Troop Defenses](/MonsterAbilities.aspx?ID=44)** \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet; troop movement\n\n**Seiya! Soiya!** <actions string=\"Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106), [Sonic](/Traits.aspx?ID=147)) The night parade shouts a series of energetic call-and-responses, dealing 3d10 sonic damage and 4d6 mental damage to all creatures in a 10-foot burst within 20 feet (DC 41 [basic](/Rules.aspx?ID=329) Will save). If the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst.\r\n\r\n**[Form Up](/MonsterAbilities.aspx?ID=43)** <actions string=\"Single Action\" />  \r\n\r\n**Troop Movement**   Whenever a troop Strides, it first [Form Up](/MonsterAbilities.aspx?ID=43) as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square enters difficult terrain, the extra movement cost applies to the whole troop.\r\n\r\n**Wasshoi! Wasshoi!** <actions string=\"Single Action to Three Actions\" />  **Frequency** once per round; **Effect** The night parade dances with wild abandon, unintentionally striking nearby creatures. It deals damage to each adjacent creature (DC 41 [basic](/Rules.aspx?ID=329) Reflex save), and any creature that fails its save is [pushed](/Rules.aspx?ID=451) 10 feet in any direction as the night parade bounces it overhead. The damage depends on the number of actions. <br /><actions string=\"Single Action\" /> 1d10+7 bludgeoning damage <br /><actions string=\"Two Actions\" /> 4d10+14 bludgeoning damage <br /><actions string=\"Three Actions\" /> 6d10+14 bludgeoning damage\r\n\r\n</column>",
+ "name": "Dancing Night Parade",
+ "npc": false,
+ "perception": 28,
+ "rarity": "unique",
+ "reflex_save": 26,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 41</row>\n\n<row gap=\"medium\">\r\n**HP** 450\r\n\r\n**AC** 40\r\n\r\n**Fort** +32\r\n\r\n**Ref** +26\r\n\r\n**Will** +34\r\n\r\n**Perception** +28\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +34",
+  "Athletics +33",
+  "Dancing Lore +34",
+  "Deception +37",
+  "Performance +37",
+  "Society +32"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +34, [Athletics](/Skills.aspx?ID=3) +33, [Dancing Lore](/Skills.aspx?ID=8) +34, [Deception](/Skills.aspx?ID=5) +37, [Performance](/Skills.aspx?ID=12) +37, [Society](/Skills.aspx?ID=14) +32",
+ "source": [
+  "Pathfinder #168: King of the Mountain"
+ ],
+ "source_raw": [
+  "Pathfinder #168: King of the Mountain pg. 41"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 41</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet; troop movement",
+ "speed_raw": "25 feet; troop movement",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "strength": 8,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Dancing Night Parade Recall Knowledge - Spirit (Occultism): DC 49 Unspecific Lore : DC 47 Specific Lore : DC 44 Dancing Night Parade Source Pathfinder #168: King of the Mountain pg. 41 Perception +28; darkvision Languages Senzar Skills Acrobatics +34, Athletics +33, Dancing Lore +34, Deception +37, Performance +37, Society +32 Str +8 Dex +7 Con +5 Int +5 Wis +5 Cha +6 --- AC 40 Fort +32 Ref +26 Will +34 HP 450 Weaknesses area damage 20, bludgeoning 15, splash damage 10 Riotous Parade (auditory, aura, emotion, enchantment) mental 60 feet. The night parade sweeps up those nearby in a riotous celebration. All creatures in the aura must attempt a DC 39 Will save. The target is then temporarily immune for 10 minutes. Critical Success The target is unafflicted. Success The target laughs and dances. It can't use reactions as long as it stays in the area, and if it attempts to use a &lt;%TRAITS%32%%&gt; concentrate action &lt;%END>, it must succeed at a DC 5 flat check; on a failure, the action is lost. Failure As success, except the target is also slowed 1 while in the area. Critical Failure As success, except the target is also slowed 1 while in the area and the flat check DC is 10. Attack of Opportunity Reaction Troop Defenses --- Speed 25 feet; troop movement Seiya! Soiya! Two Actions (Emotion, Mental, Sonic) The night parade shouts a series of energetic call-and-responses, dealing 3d10 sonic damage and 4d6 mental damage to all creatures in a 10-foot burst within 20 feet (DC 41 basic Will save). If the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst. Form Up Single Action Troop Movement Whenever a troop Strides, it first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square enters difficult terrain, the extra movement cost applies to the whole troop. Wasshoi! Wasshoi! Single Action to Three Actions Frequency once per round; Effect The night parade dances with wild abandon, unintentionally striking nearby creatures. It deals damage to each adjacent creature (DC 41 basic Reflex save), and any creature that fails its save is pushed 10 feet in any direction as the night parade bounces it overhead. The damage depends on the number of actions. Single Action 1d10+7 bludgeoning damage Two Actions 4d10+14 bludgeoning damage Three Actions 6d10+14 bludgeoning damage ",
+ "trait": [
+  "Spirit",
+  "Troop",
+  "Unique",
+  "CN",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Spirit](/Traits.aspx?ID=149), [Troop](/Traits.aspx?ID=367), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Spirit",
+  "Troop",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1519",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "area": 20,
+  "bludgeoning": 15
+ },
+ "weakness_markdown": "area damage 20, bludgeoning 15, [splash](/Traits.aspx?ID=150) damage 10",
+ "weakness_raw": "area damage 20, bludgeoning 15,  splash  damage 10",
+ "will_save": 34,
+ "wisdom": 5
+}

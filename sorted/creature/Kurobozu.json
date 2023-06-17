@@ -1,0 +1,106 @@
+{
+ "ac": 24,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 2,
+ "creature_ability": [
+  "Black Apoxia",
+  "Brawling Critical",
+  "Sagebane",
+  "Steal Breath",
+  "Stunning Flurry"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 90,
+ "hp_raw": "90 ( negative healing )",
+ "id": "creature-1215",
+ "image": [
+  "/Images/Monsters/Kurobozu.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Kurobozu](/Monsters.aspx?ID=1215)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA [monk](/Classes.aspx?ID=8) who violated their monastic vows in life might arise after death to become an undead horror known as a kurobozu. These predators feast upon the breath of mortals, creeping on twisted limbs into bedrooms to steal the life from sleeping victims. This act of feeding leaves its mark on the victim in the form of a vile scent of rot on the victim's breath and a debilitating disease that eventually results in exhaustion and finally death.\n\n Kurobozus retain echoes of their ascetic training, enabling them to suck the breath from debilitated foes in the midst of battle. Their malevolent cunning combined with ascetic discipline helps them concoct elaborate and lengthy schemes to enact their jealous revenge. Few kurobozus are convincing enough to persuade their onetime allies to break their own oaths, but this doesn't stop them from making the attempt.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Kurobozu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Kurobozu](/Monsters.aspx?ID=1215)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 157</row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +15, [Monastic Lore](/Skills.aspx?ID=8) +11, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 90\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +17 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d6+8 bludgeoning plus 1d4 negative and sagebane\n\n**Black Apoxia**  ([Disease](/Traits.aspx?ID=46)) The target can't recover from the [fatigued](/Conditions.aspx?ID=15) condition caused by black apoxia until the disease is cured; **Saving Throw** DC 24 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** [drained 1](/Conditions.aspx?ID=10) and fatigued (1 day); **Stage 3** drained 2 and fatigued (1 day); **Stage 4** dead\r\n\r\n**Brawling Critical**   When the kurobozu scores a critical hit with an unarmed attack, the target must succeed at a DC 22 Fortitude save or be [slowed 1](/Conditions.aspx?ID=35) until the end of its next turn.\r\n\r\n**Sagebane**  ([Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) When the kurobozu damages a living creature with an unarmed Strike, the target must succeed at a DC 24 Fortitude save or become [stupefied 1](/Conditions.aspx?ID=37) for 1 minute. Further damage dealt by the kurobozu resets the duration to 1 minute and increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4.\r\n\r\n**Steal Breath** <actions string=\"Two Actions\" /> ([Incapacitation](/Traits.aspx?ID=93), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)) **Requirements** The kurobozu is adjacent to a living creature that is [paralyzed](/Conditions.aspx?ID=28), [slowed](/Conditions.aspx?ID=35), [stunned](/Conditions.aspx?ID=36), or [unconscious](/Conditions.aspx?ID=38); **Effect** The kurobozu leans over and sucks the breath from the target, who must attempt a DC 22 Fortitude save. Regardless of the result, the creature is exposed to black apoxia and its breath reeks of carrion for 1 minute. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature can't speak for 1 minute. <br />**Failure** The creature becomes [sickened 2](/Conditions.aspx?ID=34) and can't speak for 1 minute. <br />**Critical Failure** As failure, plus the creature falls [unconscious](/Conditions.aspx?ID=38) and begins [suffocating](/Rules.aspx?ID=468).\r\n\r\n**Stunning Flurry** <actions string=\"Single Action\" />  **Frequency** once per round; **Effect** The kurobozu makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 22 Fortitude save or be [stunned 1](/Conditions.aspx?ID=36) (or stunned 3 on a critical failure); this save has the [incapacitation](/Traits.aspx?ID=93) trait.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Subversive Collaborators</title>\r\n\r\nKurobozus are bitterly envious of living [monks](/Classes.aspx?ID=8) and often seek vengeance against members of their former monastery. They also have an affinity for outcast or malcontent monks, sometimes secretly assisting and safeguarding individuals who wish to destroy their former masters and fellow disciples.\r\n</aside>",
+ "name": "Kurobozu",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 16,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 157</row>\n\n<row gap=\"medium\">\r\n**HP** 90 ( negative healing )\r\n\r\n**AC** 24\r\n\r\n**Fort** +12\r\n\r\n**Ref** +16\r\n\r\n**Will** +14\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA  monk  who violated their monastic vows in life might arise after death to become an undead horror known as a kurobozu. These predators feast upon …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +15",
+  "Monastic Lore +11",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +15, [Monastic Lore](/Skills.aspx?ID=8) +11, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 157"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 157</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A  monk  who violated their monastic vows in life might arise after death to become an undead horror known as a kurobozu. These predators feast upon …",
+ "summary_markdown": "A  monk  who violated their monastic vows in life might arise after death to become an undead horror known as a kurobozu. These predators feast upon …",
+ "text": " Kurobozu A monk who violated their monastic vows in life might arise after death to become an undead horror known as a kurobozu. These predators feast upon the breath of mortals, creeping on twisted limbs into bedrooms to steal the life from sleeping victims. This act of feeding leaves its mark on the victim in the form of a vile scent of rot on the victim's breath and a debilitating disease that eventually results in exhaustion and finally death. Kurobozus retain echoes of their ascetic training, enabling them to suck the breath from debilitated foes in the midst of battle. Their malevolent cunning combined with ascetic discipline helps them concoct elaborate and lengthy schemes to enact their jealous revenge. Few kurobozus are convincing enough to persuade their onetime allies to break their own oaths, but this doesn't stop them from making the attempt. Recall Knowledge - Undead (Religion): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Kurobozu Source Bestiary 3 pg. 157 Perception +14; darkvision Languages Common Skills Acrobatics +14, Athletics +15, Monastic Lore +11, Stealth +14 Str +5 Dex +4 Con +2 Int +1 Wis +4 Cha +2 --- AC 24 Fort +12 Ref +16 Will +14 HP 90 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 35 feet Melee Single Action fist +17 (Agile, Magical), Damage 1d6+8 bludgeoning plus 1d4 negative and sagebane Black Apoxia (Disease) The target can't recover from the fatigued condition caused by black apoxia until the disease is cured; Saving Throw DC 24 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 drained 1 and fatigued (1 day); Stage 3 drained 2 and fatigued (1 day); Stage 4 dead Brawling Critical When the kurobozu scores a critical hit with an unarmed attack, the target must succeed at a DC 22 Fortitude save or be slowed 1 until the end of its next turn. Sagebane (Necromancy, Occult) When the kurobozu damages a living creature with an unarmed Strike, the target must succeed at a DC 24 Fortitude save or become stupefied 1 for 1 minute. Further damage dealt by the kurobozu resets the duration to 1 minute and increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4. Steal Breath Two Actions (Incapacitation, Necromancy, Occult) Requirements The kurobozu is adjacent to a living creature that is paralyzed, slowed, stunned, or unconscious; Effect The kurobozu leans over and sucks the breath from the target, who must attempt a DC 22 Fortitude save. Regardless of the result, the creature is exposed to black apoxia and its breath reeks of carrion for 1 minute. Critical Success The creature is unaffected. Success The creature can't speak for 1 minute. Failure The creature becomes sickened 2 and can't speak for 1 minute. Critical Failure As failure, plus the creature falls unconscious and begins suffocating. Stunning Flurry Single Action Frequency once per round; Effect The kurobozu makes two unarmed Strikes. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses, and the target must succeed at a DC 22 Fortitude save or be stunned 1 (or stunned 3 on a critical failure); this save has the incapacitation trait. Subversive Collaborators Kurobozus are bitterly envious of living monks and often seek vengeance against members of their former monastery. They also have an affinity for outcast or malcontent monks, sometimes secretly assisting and safeguarding individuals who wish to destroy their former masters and fellow disciples. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1215",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 14,
+ "wisdom": 4
+}

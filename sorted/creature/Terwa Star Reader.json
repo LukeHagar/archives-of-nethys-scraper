@@ -1,0 +1,110 @@
+{
+ "ac": 24,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 3,
+ "creature_ability": [
+  "Deep Breath",
+  "Move the Stars",
+  "Guiding Star"
+ ],
+ "creature_family": "Lizardfolk",
+ "creature_family_markdown": "[Lizardfolk](/MonsterFamilies.aspx?ID=71)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 115,
+ "hp_raw": "115",
+ "id": "creature-1657",
+ "intelligence": 4,
+ "language": [
+  "Common",
+  "Draconic",
+  "Iruxi"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Iruxi](/Languages.aspx?ID=32)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Terwa Star Reader](/Monsters.aspx?ID=1657)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhile stargazers are important among all iruxi societies, Terwa star readers serve as lieutenants, advisors, and confidantes to important and influential members of the Terwa clans. Only one who is especially proud or foolish would turn away a star reader's counsel.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Terwa Star Reader](/Monsters.aspx?ID=1657)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #171: Hurricane's Howl](/Sources.aspx?ID=101) pg. 82</row>\n\n**Perception** +18\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Iruxi](/Languages.aspx?ID=32)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Astrology Lore](/Skills.aspx?ID=8) +19, [Diplomacy](/Skills.aspx?ID=6) +22, [Nature](/Skills.aspx?ID=10) +22, [Religion](/Skills.aspx?ID=13) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** +4\r\n\r\n**Wis** +6\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Deep Breath** A terwa star reader can hold their breath for 10 minutes.\r\n\r\n**Items**\r\n[Hide Armor](/Armor.aspx?ID=7), [_staff of fire_](/Equipment.aspx?ID=356)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 115\n\n**Move the Stars** <actions string=\"Reaction\" /> ([divination](/Traits.aspx?ID=47), [occult](/Traits.aspx?ID=120)) **Frequency** once per day; **Trigger** An attack or effect would reduce an ally within 30 feet to 0 Hit Points or would cause the ally to gain the [dying](/Conditions.aspx?ID=11) condition; **Effect** The star reader interprets the meaning of astrological omens in an instant, determining a new fate for the ally. The triggering ally remains at 1 Hit Point, does not increase their dying or [wounded](/Conditions.aspx?ID=42) condition, and gains 10 temporary Hit Points for 1 round.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +16 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+5 slashing\r\n\r\n**Occult Spontaneous Spells** DC 25, attack +17 4th discern lies, girzanje's march, heal (3 slots)\r\n- **Cantrips (5th)**\r\n[Detect Magic](/Spells.aspx?ID=66), [Guidance](/Spells.aspx?ID=142), [Message](/Spells.aspx?ID=190), [Shield](/Spells.aspx?ID=280)\r\n- **1st**\r\n[Mending](/Spells.aspx?ID=189), [Ray of Enfeeblement](/Spells.aspx?ID=244), [Sanctuary](/Spells.aspx?ID=266) (4 slots)\r\n- **2nd**\r\n[Augury](/Spells.aspx?ID=15), [Calm Emotions](/Spells.aspx?ID=31), [Restoration](/Spells.aspx?ID=258) (4 slots)\r\n- **3rd**\r\n[Heroism](/Spells.aspx?ID=149), [Searing Light](/Spells.aspx?ID=269), [Wanderer's Guide](/Spells.aspx?ID=368) (4 slots)\r\n\r\n**Guiding Star** <actions string=\"Single Action\" /> ([Divination](/Traits.aspx?ID=47), [Fortune](/Traits.aspx?ID=76), [Occult](/Traits.aspx?ID=120)) The star reader finds the star that would guide their own attack or that of an ally. The star reader grants themselves or an ally within 30 feet the effects of true strike. If the star reader chooses an ally, the duration lasts until the end of that creature's turn. The target is then temporarily immune to Guiding Star for 1 day.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-71\" />",
+ "name": "Terwa Star Reader",
+ "npc": false,
+ "perception": 18,
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2021-10-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Lizardfolk\" url=\"/Traits.aspx?ID=226\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #171: Hurricane's Howl](/Sources.aspx?ID=101) pg. 82</row>\r\n\r\n**Creature Family** [Lizardfolk](/MonsterFamilies.aspx?ID=71)\r\n\r\n<row gap=\"medium\">\r\n**HP** 115\r\n\r\n**AC** 24\r\n\r\n**Fort** +12\r\n\r\n**Ref** +15\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile stargazers are important among all iruxi societies, Terwa star readers serve as lieutenants, advisors, and confidantes to important and …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Astrology Lore +19",
+  "Diplomacy +22",
+  "Nature +22",
+  "Religion +22"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Astrology Lore](/Skills.aspx?ID=8) +19, [Diplomacy](/Skills.aspx?ID=6) +22, [Nature](/Skills.aspx?ID=10) +22, [Religion](/Skills.aspx?ID=13) +22",
+ "source": [
+  "Pathfinder #171: Hurricane's Howl"
+ ],
+ "source_raw": [
+  "Pathfinder #171: Hurricane's Howl pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #171: Hurricane's Howl](/Sources.aspx?ID=101) pg. 82</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Heroism",
+  "Searing Light",
+  "Wanderer's Guide",
+  "Augury",
+  "Calm Emotions",
+  "Restoration",
+  "Mending",
+  "Ray of Enfeeblement",
+  "Sanctuary",
+  "Detect Magic",
+  "Guidance",
+  "Message",
+  "Shield"
+ ],
+ "spell_markdown": "[Augury](/Spells.aspx?ID=15), [Calm Emotions](/Spells.aspx?ID=31), [Detect Magic](/Spells.aspx?ID=66), [Guidance](/Spells.aspx?ID=142), [Heroism](/Spells.aspx?ID=149), [Mending](/Spells.aspx?ID=189), [Message](/Spells.aspx?ID=190), [Ray of Enfeeblement](/Spells.aspx?ID=244), [Restoration](/Spells.aspx?ID=258), [Sanctuary](/Spells.aspx?ID=266), [Searing Light](/Spells.aspx?ID=269), [Shield](/Spells.aspx?ID=280), [Wanderer's Guide](/Spells.aspx?ID=368)",
+ "spoilers": "Strength of Thousands",
+ "strength": 1,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "While stargazers are important among all iruxi societies, Terwa star readers serve as lieutenants, advisors, and confidantes to important and …",
+ "summary_markdown": "While stargazers are important among all iruxi societies, Terwa star readers serve as lieutenants, advisors, and confidantes to important and …",
+ "text": " Terwa Star Reader While stargazers are important among all iruxi societies, Terwa star readers serve as lieutenants, advisors, and confidantes to important and influential members of the Terwa clans. Only one who is especially proud or foolish would turn away a star reader's counsel. Recall Knowledge - Humanoid (Society): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Terwa Star Reader Source Pathfinder #171: Hurricane's Howl pg. 82 Perception +18 Languages Common, Draconic, Iruxi Skills Acrobatics +19, Astrology Lore +19, Diplomacy +22, Nature +22, Religion +22 Str +1 Dex +5 Con +3 Int +4 Wis +6 Cha +3 Deep Breath A terwa star reader can hold their breath for 10 minutes. Items Hide Armor, staff of fire --- AC 24 Fort +12 Ref +15 Will +18 HP 115 Move the Stars Reaction (divination, occult) Frequency once per day; Trigger An attack or effect would reduce an ally within 30 feet to 0 Hit Points or would cause the ally to gain the dying condition; Effect The star reader interprets the meaning of astrological omens in an instant, determining a new fate for the ally. The triggering ally remains at 1 Hit Point, does not increase their dying or wounded condition, and gains 10 temporary Hit Points for 1 round. --- Speed 25 feet Melee Single Action claw +16 (Agile, Finesse), Damage 2d6+5 slashing Occult Spontaneous Spells DC 25, attack +17 4th discern lies, girzanje's march, heal (3 slots) - Cantrips (5th) Detect Magic, Guidance, Message, Shield - 1st Mending, Ray of Enfeeblement, Sanctuary (4 slots) - 2nd Augury, Calm Emotions, Restoration (4 slots) - 3rd Heroism, Searing Light, Wanderer's Guide (4 slots) Guiding Star Single Action (Divination, Fortune, Occult) The star reader finds the star that would guide their own attack or that of an ally. The star reader grants themselves or an ally within 30 feet the effects of true strike. If the star reader chooses an ally, the duration lasts until the end of that creature's turn. The target is then temporarily immune to Guiding Star for 1 day. ",
+ "trait": [
+  "Humanoid",
+  "Lizardfolk",
+  "Uncommon",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Lizardfolk](/Traits.aspx?ID=226), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Lizardfolk",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1657",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 6
+}

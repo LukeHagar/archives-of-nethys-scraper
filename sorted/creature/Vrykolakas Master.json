@@ -1,0 +1,120 @@
+{
+ "ac": 30,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 3,
+ "creature_ability": [
+  "Children of the Night",
+  "Swift Tracker",
+  "Pestilential Aura",
+  "Vrykolakas Vulnerabilities",
+  "Burial Site Bound",
+  "Vulnerable to Decapitation",
+  "Feral Possession",
+  "Change Shape",
+  "Create Spawn",
+  "Dominate Animal",
+  "Drink Blood",
+  "Rend"
+ ],
+ "creature_family": "Vampire, Vrykolakas",
+ "creature_family_markdown": "[Vampire, Vrykolakas](/MonsterFamilies.aspx?ID=159)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 190,
+ "hp_raw": "190 ( negative healing )",
+ "id": "creature-843",
+ "image": [
+  "/Images/Monsters/Vampire_VrykolakasMaster.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyze",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyze](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -2,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Vrykolakas Master](/Monsters.aspx?ID=843)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nVrykolakas masters are sinister shapechangers. They walk undetected among the living and prey upon them like a wolf among sheep, often leaving the corpses to rise as vrykolakas spawn.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Vampire_VrykolakasMaster.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Vrykolakas Master](/Monsters.aspx?ID=843)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Vampire\" url=\"/Traits.aspx?ID=242\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 276 <sup>2.0</sup></row>\n\n**Perception** +19; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +23, [Deception](/Skills.aspx?ID=5) +19, [Intimidation](/Skills.aspx?ID=7) +21, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Children of the Night** ([divine](/Traits.aspx?ID=48), [enchantment](/Traits.aspx?ID=61), [mental](/Traits.aspx?ID=106)) The presence of a vrykolakas master inspires savage creatures to crawl forth to do its bidding, including [rat swarms](/Monsters.aspx?ID=347), [wargs](/Monsters.aspx?ID=402), [werewolves](/Monsters.aspx?ID=411), and similar creatures. The vrykolakas master can give telepathic orders to these creatures within 100 feet, but they can't communicate back.<br />**Swift Tracker** The vrykolakas moves at full Speed while [Tracking](/Actions.aspx?ID=66).\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 190\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyze](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Pestilential Aura** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) 5 feet, DC 29. Creatures beginning their turn in the area while the vrykolakas is in its true form are exposed to [bubonic plague](/Diseases.aspx?ID=6).<br />**Vrykolakas Vulnerabilities** Vrykolakas all have the following vulnerabilities. \n<ul><li>**Burial Site Bound** A vrykolakas is bound to the place of its death or interment. It must return to this location once per week and bury itself in the earth for 24 hours, during which time it is [paralyzed](/Conditions.aspx?ID=28) and can be beheaded. If it is unable to return to this site, it is reduced to 0 Hit Points and attempts to use Feral Corruption; if this host animal can't return to the burial site before the possession effect ends, the vrykolakas is destroyed and the animal host returns to normal.</li><li>**Vulnerable to Decapitation** A vrykolakas that is beheaded can't use its Feral Possession, and a beheaded corpse cannot rise as a vrykolakas.</li></ul><br />**Feral Possession** <actions string=\"Free Action\" /> ([curse](/Traits.aspx?ID=38), [divine](/Traits.aspx?ID=48), [incapacitation](/Traits.aspx?ID=93), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [possession](/Traits.aspx?ID=129) **Trigger** The vrykolakas is reduced to 0 Hit Points &lt;%END>, and an [animal](/Traits.aspx?ID=9) is within 100 feet &lt;%END>) **Effect** Unlike most other undead, a vrykolakas isn't destroyed when it reaches 0 HP. Instead, it attempts to cast its spirit into an animal within 100 feet, which must attempt a Will save (DC 29). On a failure, the animal is possessed. This has the effects of the [_possession_](/Spells.aspx?ID=225) spell, but it lasts a number of days equal to the vrykolakas's level. This possession can't be counteracted with magic (though [_remove curse_](/Spells.aspx?ID=250) works against it normally).<br /> If the animal succeeds at its save, the vrykolakas can attempt to possess a different animal within 100 feet. If at any point an animal critically succeeds at its save or no animal is within 100 feet, the vrykolakas fails to possess anything and is destroyed.<br /> A vrykolakas possessing an animal seeks out its burial site (see Burial Site Bound) immediately, burying itself there. While the vrykolakas is in this state of recovery, its animal host is [paralyzed](/Conditions.aspx?ID=28), and beheading it destroys the vrykolakas and kills its host. Removing the curse destroys the vrykolakas and returns the animal to normal. After 1d4 days, if the vrykolakas hasn't been destroyed, the animal dies and the vrykolakas rises in a new body that's identical to its previous one, formed from the animal's remains.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +23,\r\n**Damage** 2d12+13 piercing plus Drink Blood\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+13 slashing\r\n\r\n**Divine Innate Spells** DC 29\r\n- **3rd**\r\n[Fear](/Spells.aspx?ID=110) (×3)\r\n- **5th**\r\n[Vampiric Touch](/Spells.aspx?ID=354) (×3)\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) A vrykolakas master can transform into a form resembling the body it had in life, with the effects of [_humanoid form_](/Spells.aspx?ID=153) but with unlimited duration. It loses its fangs and claw Strikes but gains a +2 circumstance bonus to Deception checks to Impersonate in this form.\r\n\r\n**Create Spawn**  ([Divine](/Traits.aspx?ID=48), [Downtime](/Traits.aspx?ID=49), [Necromancy](/Traits.aspx?ID=117)) If a creature dies after being reduced to 0 HP by Drink Blood, a vrykolakas master can turn this creature into a [vrykolakas spawn](/Monsters.aspx?ID=842) by donating some of its own blood to the creature and burying it in earth for 3 nights. Such vrykolakas spawn are generally friendly to the vrykolakas that created them, but they are not under its control and typically wander off on their own rampage within 1d6 days of their creation.\r\n\r\n**Dominate Animal** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106)) DC 29, The vrykolakas can cast [_dominate_](/Spells.aspx?ID=87) at will as a divine innate spell that affects only animals. A creature that succeeds is immune to that vrykolakas's Dominate Animal for 24 hours. Destroying the vrykolakas ends the effect, but reducing it to 0 HP does not. A dominated animal takes a –4 circumstance penalty to saving throws against the vrykolakas's Feral Possession.\r\n\r\n**Drink Blood** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Requirements** The vrykolakas' last action was a successful fangs Strike; **Effect** The vrykolakas sinks its fangs into that creature to drink its blood. This requires an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. On a success, the creature becomes [drained 2](/Conditions.aspx?ID=10), and the vrykolakas regains 19 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire, but it increases the creature's drained condition value by 1. A vrykolakas can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so.<br /> The target creature's drained condition value decreases by 1 per week. A blood transfusion, which requires a successful DC 20 Medicine check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-159\" />",
+ "name": "Vrykolakas Master",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 21,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Vampire\" url=\"/Traits.aspx?ID=242\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 276 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Vampire, Vrykolakas](/MonsterFamilies.aspx?ID=159)\r\n\r\n<row gap=\"medium\">\r\n**HP** 190 ( negative healing )\r\n\r\n**AC** 30\r\n\r\n**Fort** +19\r\n\r\n**Ref** +21\r\n\r\n**Will** +17\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nVrykolakas masters are sinister shapechangers. They walk undetected among the living and prey upon them like a wolf among sheep, often leaving the …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +23",
+  "Deception +19",
+  "Intimidation +21",
+  "Stealth +21",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +23, [Deception](/Skills.aspx?ID=5) +19, [Intimidation](/Skills.aspx?ID=7) +21, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 276"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 276 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 20,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 20 feet",
+ "speed_raw": "40 feet, climb 20 feet",
+ "spell": [
+  "Vampiric Touch",
+  "Fear"
+ ],
+ "spell_markdown": "[Fear](/Spells.aspx?ID=110), [Vampiric Touch](/Spells.aspx?ID=354)",
+ "stealth": "21",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Vrykolakas masters are sinister shapechangers. They walk undetected among the living and prey upon them like a wolf among sheep, often leaving the …",
+ "summary_markdown": "Vrykolakas masters are sinister shapechangers. They walk undetected among the living and prey upon them like a wolf among sheep, often leaving the …",
+ "text": " Vrykolakas Master Vrykolakas masters are sinister shapechangers. They walk undetected among the living and prey upon them like a wolf among sheep, often leaving the corpses to rise as vrykolakas spawn. Recall Knowledge - Undead (Religion): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Vrykolakas Master Source Bestiary 2 pg. 276 2.0 Perception +19; darkvision Languages Common Skills Acrobatics +19, Athletics +23, Deception +19, Intimidation +21, Stealth +21, Survival +17 Str +7 Dex +5 Con +3 Int -2 Wis +3 Cha +5 Children of the Night (divine, enchantment, mental) The presence of a vrykolakas master inspires savage creatures to crawl forth to do its bidding, including rat swarms, wargs, werewolves, and similar creatures. The vrykolakas master can give telepathic orders to these creatures within 100 feet, but they can't communicate back. Swift Tracker The vrykolakas moves at full Speed while Tracking. --- AC 30 Fort +19 Ref +21 Will +17 HP 190 (negative healing) Immunities death effects, disease, paralyze, poison, sleep Pestilential Aura (aura, divine, necromancy) 5 feet, DC 29. Creatures beginning their turn in the area while the vrykolakas is in its true form are exposed to bubonic plague. Vrykolakas Vulnerabilities Vrykolakas all have the following vulnerabilities. Burial Site Bound A vrykolakas is bound to the place of its death or interment. It must return to this location once per week and bury itself in the earth for 24 hours, during which time it is paralyzed and can be beheaded. If it is unable to return to this site, it is reduced to 0 Hit Points and attempts to use Feral Corruption; if this host animal can't return to the burial site before the possession effect ends, the vrykolakas is destroyed and the animal host returns to normal. Vulnerable to Decapitation A vrykolakas that is beheaded can't use its Feral Possession, and a beheaded corpse cannot rise as a vrykolakas. Feral Possession Free Action (curse, divine, incapacitation, mental, necromancy, possession Trigger The vrykolakas is reduced to 0 Hit Points &lt;%END>, and an animal is within 100 feet &lt;%END>) Effect Unlike most other undead, a vrykolakas isn't destroyed when it reaches 0 HP. Instead, it attempts to cast its spirit into an animal within 100 feet, which must attempt a Will save (DC 29). On a failure, the animal is possessed. This has the effects of the possession spell, but it lasts a number of days equal to the vrykolakas's level. This possession can't be counteracted with magic (though remove curse works against it normally). If the animal succeeds at its save, the vrykolakas can attempt to possess a different animal within 100 feet. If at any point an animal critically succeeds at its save or no animal is within 100 feet, the vrykolakas fails to possess anything and is destroyed. A vrykolakas possessing an animal seeks out its burial site (see Burial Site Bound) immediately, burying itself there. While the vrykolakas is in this state of recovery, its animal host is paralyzed, and beheading it destroys the vrykolakas and kills its host. Removing the curse destroys the vrykolakas and returns the animal to normal. After 1d4 days, if the vrykolakas hasn't been destroyed, the animal dies and the vrykolakas rises in a new body that's identical to its previous one, formed from the animal's remains. --- Speed 40 feet, climb 20 feet Melee Single Action fangs +23, Damage 2d12+13 piercing plus Drink Blood Melee Single Action claw +23 (Agile), Damage 2d8+13 slashing Divine Innate Spells DC 29 - 3rd Fear (×3) - 5th Vampiric Touch (×3) Change Shape Single Action (Concentrate, Divine, Polymorph, Transmutation) A vrykolakas master can transform into a form resembling the body it had in life, with the effects of humanoid form but with unlimited duration. It loses its fangs and claw Strikes but gains a +2 circumstance bonus to Deception checks to Impersonate in this form. Create Spawn (Divine, Downtime, Necromancy) If a creature dies after being reduced to 0 HP by Drink Blood, a vrykolakas master can turn this creature into a vrykolakas spawn by donating some of its own blood to the creature and burying it in earth for 3 nights. Such vrykolakas spawn are generally friendly to the vrykolakas that created them, but they are not under its control and typically wander off on their own rampage within 1d6 days of their creation. Dominate Animal Single Action (Divine, Enchantment, Incapacitation, Mental) DC 29, The vrykolakas can cast dominate at will as a divine innate spell that affects only animals. A creature that succeeds is immune to that vrykolakas's Dominate Animal for 24 hours. Destroying the vrykolakas ends the effect, but reducing it to 0 HP does not. A dominated animal takes a –4 circumstance penalty to saving throws against the vrykolakas's Feral Possession. Drink Blood Single Action (Divine, Necromancy) Requirements The vrykolakas' last action was a successful fangs Strike; Effect The vrykolakas sinks its fangs into that creature to drink its blood. This requires an Athletics check against the creature's Fortitude DC. On a success, the creature becomes drained 2, and the vrykolakas regains 19 HP, gaining any excess HP as temporary Hit Points. Drinking Blood from a creature that's already drained doesn't restore any HP to the vampire, but it increases the creature's drained condition value by 1. A vrykolakas can also consume blood that's been emptied into a vessel for sustenance, but it gains no HP from doing so. The target creature's drained condition value decreases by 1 per week. A blood transfusion, which requires a successful DC 20 Medicine check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes. Rend Single Action claw ",
+ "trait": [
+  "Undead",
+  "Vampire",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160), [Vampire](/Traits.aspx?ID=242)",
+ "trait_raw": [
+  "Undead",
+  "Vampire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=843",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 3
+}

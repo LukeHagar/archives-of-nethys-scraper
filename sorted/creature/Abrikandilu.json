@@ -1,0 +1,104 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Hatred of Mirrors",
+  "Mutilating Bite",
+  "Wreck"
+ ],
+ "creature_family": "Demon",
+ "creature_family_markdown": "[Demon](/MonsterFamilies.aspx?ID=28)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 70,
+ "hp_raw": "70",
+ "id": "creature-1110",
+ "image": [
+  "/Images/Monsters/Demon_Abrikandilu.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Draconic",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Abrikandilu (Wrecker Demon)](/Monsters.aspx?ID=1110)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWrecker demons, also known as abrikandilus, despise beautiful things and do everything in their power to destroy both people and objects regarded as such. An abrikandilu forms from the souls mortals who were vandals, misanthropes, or defacers of artwork, particularly if their destructive actions stemmed from feelings of powerful envy.\n\n An abrikandilu loathes only one thing more than beauty: their own visage. The mere sight of their face—reflected in a mirror, a shield, or even a pool of water— can send a wrecker demon into a rage. Many demon slayers leverage tactic to their advantage, venturing into battle with polished steel shields and cold iron blades at the ready.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Demon_Abrikandilu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Abrikandilu](/Monsters.aspx?ID=1110)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 61, [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 81</row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 70\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 5, good 5\r\n\r\n**Hatred of Mirrors** An abrikandilu loathes the sight of their reflection. When a creature Interacts with a mirror within sight of the wrecker demon, the demon takes a –2 penalty to Will saves against [Intimidation](/Skills.aspx?ID=7) checks. An abrikandilu that ends their turn adjacent to a mirror or that's attacked by a creature holding a mirror takes 1d6 mental damage (this usually leads abrikandilus to focus their efforts on destroying nearby mirrors using Wreck).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +14 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+4 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14,\r\n**Damage** 3d6+4 piercing plus mutilating bite\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhurled debris +11 ([range increment 20 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+4 bludgeoning\r\n\r\n**Divine Innate Spells** DC 20\r\n- **2nd**\r\n[Fear](/Spells.aspx?ID=110) (×2)\r\n\r\n**Rituals** DC 20\r\n\r\n- **1st**\r\n[Abyssal Pact](/Rituals.aspx?ID=21)\r\n\r\n**Mutilating Bite**  ([Curse](/Traits.aspx?ID=38), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When the abrikandilu hits a creature with a jaws Strike, the creature must succeed at a DC 21 Fortitude save or become physically mutilated. The creature then takes a –1 status penalty to Charisma-based checks. This penalty is cumulative up to –3 and remains even if the wounds are healed. The penalty is reduced by 1 every 24 hours until it reaches 0.\r\n\r\n**Wreck** <actions string=\"Single Action\" />  The abrikandilu makes two claw Strikes against an unattended object or held mirror. Held mirrors use the holding character's AC. If both Strikes hit, combine their damage for the purpose of overcoming any Hardness or resistance. These Strikes don't count toward the abrikandilu's multiple attack penalty, nor does that penalty apply to these Strikes.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Demons of Vandalism</title>\r\n\r\nIt is a strange irony that abrikandilus despise all works of artistry, yet without the objects of their jealousy they would have nothing to rage at but themselves.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-28\" />",
+ "name": "Abrikandilu",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Bestiary 3](/Sources.aspx?ID=66) pg. 61, [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 81</row>\r\n\r\n**Creature Family** [Demon](/MonsterFamilies.aspx?ID=28)\r\n\r\n<row gap=\"medium\">\r\n**HP** 70\r\n\r\n**AC** 19\r\n\r\n**Fort** +15\r\n\r\n**Ref** +9\r\n\r\n**Will** +7\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWrecker demons, also known as abrikandilus, despise beautiful things and do everything in their power to destroy both people and objects regarded as …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Intimidation +8"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +8",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 61"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 61, [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 81</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Fear"
+ ],
+ "spell_markdown": "[Fear](/Spells.aspx?ID=110)",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Wrecker demons, also known as abrikandilus, despise beautiful things and do everything in their power to destroy both people and objects regarded as …",
+ "summary_markdown": "Wrecker demons, also known as abrikandilus, despise beautiful things and do everything in their power to destroy both people and objects regarded as …",
+ "text": " Abrikandilu (Wrecker Demon) Wrecker demons, also known as abrikandilus, despise beautiful things and do everything in their power to destroy both people and objects regarded as such. An abrikandilu forms from the souls mortals who were vandals, misanthropes, or defacers of artwork, particularly if their destructive actions stemmed from feelings of powerful envy. An abrikandilu loathes only one thing more than beauty: their own visage. The mere sight of their face—reflected in a mirror, a shield, or even a pool of water— can send a wrecker demon into a rage. Many demon slayers leverage tactic to their advantage, venturing into battle with polished steel shields and cold iron blades at the ready. Recall Knowledge - Fiend (Religion): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Abrikandilu Source Bestiary 3 pg. 61, Pathfinder #151: The Show Must Go On pg. 81 Perception +10; darkvision Languages Abyssal, Celestial, Draconic; telepathy 100 feet Skills Athletics +12, Intimidation +8 Str +4 Dex +1 Con +3 Int -2 Wis +2 Cha +0 --- AC 19 Fort +15 Ref +9 Will +7 HP 70 Weaknesses cold iron 5, good 5 Hatred of Mirrors An abrikandilu loathes the sight of their reflection. When a creature Interacts with a mirror within sight of the wrecker demon, the demon takes a –2 penalty to Will saves against Intimidation checks. An abrikandilu that ends their turn adjacent to a mirror or that's attacked by a creature holding a mirror takes 1d6 mental damage (this usually leads abrikandilus to focus their efforts on destroying nearby mirrors using Wreck). --- Speed 25 feet Melee Single Action claw +14 (Agile), Damage 2d6+4 slashing Melee Single Action jaws +14, Damage 3d6+4 piercing plus mutilating bite Ranged Single Action hurled debris +11 (range increment 20 feet), Damage 2d6+4 bludgeoning Divine Innate Spells DC 20 - 2nd Fear (×2) Rituals DC 20 - 1st Abyssal Pact Mutilating Bite (Curse, Divine, Necromancy) When the abrikandilu hits a creature with a jaws Strike, the creature must succeed at a DC 21 Fortitude save or become physically mutilated. The creature then takes a –1 status penalty to Charisma-based checks. This penalty is cumulative up to –3 and remains even if the wounds are healed. The penalty is reduced by 1 every 24 hours until it reaches 0. Wreck Single Action The abrikandilu makes two claw Strikes against an unattended object or held mirror. Held mirrors use the holding character's AC. If both Strikes hit, combine their damage for the purpose of overcoming any Hardness or resistance. These Strikes don't count toward the abrikandilu's multiple attack penalty, nor does that penalty apply to these Strikes. Demons of Vandalism It is a strange irony that abrikandilus despise all works of artistry, yet without the objects of their jealousy they would have nothing to rage at but themselves. ",
+ "trait": [
+  "Demon",
+  "Fiend",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Demon](/Traits.aspx?ID=42), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Demon",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1110",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 5,
+  "good": 5
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 5, good 5",
+ "weakness_raw": " cold iron  5, good 5",
+ "will_save": 7,
+ "wisdom": 2
+}

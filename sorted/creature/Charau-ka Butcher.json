@@ -1,0 +1,103 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Blood Fury",
+  "Mauler",
+  "Rage",
+  "Shrieking Frenzy",
+  "Thrown Weapon Mastery"
+ ],
+ "creature_family": "Charau-ka",
+ "creature_family_markdown": "[Charau-ka](/MonsterFamilies.aspx?ID=109)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 95,
+ "hp_raw": "95",
+ "id": "creature-1432",
+ "image": [
+  "/Images/Monsters/CharauKa_Butcher.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Draconic",
+  "Mwangi"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Mwangi](/Languages.aspx?ID=39)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Charau-ka Butcher](/Monsters.aspx?ID=1432)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhile charau-ka are infamous for their brutality, some even frighten their own kind in their obsession with violence. These deadly butchers are well-versed in the art of inflicting vicious, bloody wounds on their enemies, and they consider anyone not charau-ka an enemy. A single taste of a foe's blood can grant one terrifying strength, as if the charau-ka butcher literally gains power from their victims' pain.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CharauKa_Butcher.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Charau-ka Butcher](/Monsters.aspx?ID=1432)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Charau-ka\" url=\"/Traits.aspx?ID=263\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 297 <sup>2.0</sup>, [Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 85</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Mwangi](/Languages.aspx?ID=39)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +15, [Intimidation](/Skills.aspx?ID=7) +14, [Religion](/Skills.aspx?ID=13) +9, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +1\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[Hide Armor](/Armor.aspx?ID=7), _+1 [striking](/Equipment.aspx?ID=280) [trident](/Weapons.aspx?ID=45)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 95\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Blood Fury** <actions string=\"Reaction\" /> ([manipulate](/Traits.aspx?ID=104)) **Trigger** The charau-ka butcher deals bleed damage to a creature; **Effect** The charau-ka licks blood from their weapon, becoming furious. They regain 5 Hit Points and gains a +1 status bonus to attack rolls until the end of their turn.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_trident_ +17 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+8 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +15 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 1d4+8 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_trident_ +16 ([deadly d6](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d8+6 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthrown debris +15 ([deadly d6](/Traits.aspx?ID=174), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d6+8 bludgeoning\n\n**Mauler**   While the charau-ka butcher is raging, their melee Strikes deal an additional 1d4 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n\r\n**Rage** <actions string=\"Single Action\" />  As the [barbarian](/Classes.aspx?ID=2) class ability; AC 22, +9 Hit Points, +2 melee damage\r\n\r\n**Shrieking Frenzy** <actions string=\"Free Action\" /> ([Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) **Frequency** once per hour; **Trigger** The charau-ka's turn begins; **Effect** The charau-ka is [quickened](/Conditions.aspx?ID=32) until the end of their turn and can use the extra action only to Stride or Strike. While in the frenzy, the charau-ka can't speak and automatically critically fails [Stealth](/Skills.aspx?ID=15) checks, due to their loud wailing.\r\n\r\n**Thrown Weapon Mastery**   Any weapon a charau-ka throws gains the [deadly d6](/Traits.aspx?ID=174) weapon trait. Furthermore, when a charau-ka throws an improvised weapon, they do not take the –2 penalty for doing so, nor does they take a penalty for using a thrown improvised weapon with the [nonlethal](/Traits.aspx?ID=188) trait to make a lethal attack.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-109\" />",
+ "name": "Charau-ka Butcher",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Charau-ka\" url=\"/Traits.aspx?ID=263\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 297 <sup>2.0</sup>, [Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 85</row>\r\n\r\n**Creature Family** [Charau-ka](/MonsterFamilies.aspx?ID=109)\r\n\r\n<row gap=\"medium\">\r\n**HP** 95\r\n\r\n**AC** 21\r\n\r\n**Fort** +16\r\n\r\n**Ref** +12\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile charau-ka are infamous for their brutality, some even frighten their own kind in their obsession with violence. These deadly butchers are …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +11",
+  "Athletics +15",
+  "Intimidation +14",
+  "Religion +9",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +15, [Intimidation](/Skills.aspx?ID=7) +14, [Religion](/Skills.aspx?ID=13) +9, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "The Mwangi Expanse"
+ ],
+ "source_raw": [
+  "The Mwangi Expanse pg. 297"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 297 <sup>2.0</sup>, [Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 85</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "While charau-ka are infamous for their brutality, some even frighten their own kind in their obsession with violence. These deadly butchers are …",
+ "summary_markdown": "While charau-ka are infamous for their brutality, some even frighten their own kind in their obsession with violence. These deadly butchers are …",
+ "text": " Charau-ka Butcher While charau-ka are infamous for their brutality, some even frighten their own kind in their obsession with violence. These deadly butchers are well-versed in the art of inflicting vicious, bloody wounds on their enemies, and they consider anyone not charau-ka an enemy. A single taste of a foe's blood can grant one terrifying strength, as if the charau-ka butcher literally gains power from their victims' pain. Recall Knowledge - Humanoid (Society): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Charau-ka Butcher Source The Mwangi Expanse pg. 297 2.0 , Pathfinder #146: Cult of Cinders pg. 85 Perception +13; darkvision, scent (imprecise) 30 feet Languages Draconic, Mwangi Skills Acrobatics +11, Athletics +15, Intimidation +14, Religion +9, Stealth +13 Str +5 Dex +3 Con +3 Int +0 Wis +1 Cha +2 Items Hide Armor, +1 striking trident --- AC 21 Fort +16 Ref +12 Will +13 HP 95 Attack of Opportunity Reaction Blood Fury Reaction (manipulate) Trigger The charau-ka butcher deals bleed damage to a creature; Effect The charau-ka licks blood from their weapon, becoming furious. They regain 5 Hit Points and gains a +1 status bonus to attack rolls until the end of their turn. --- Speed 25 feet, climb 25 feet Melee Single Action trident +17 (Magical), Damage 2d8+8 slashing Melee Single Action fist +15 (Agile, Nonlethal), Damage 1d4+8 bludgeoning Ranged Single Action trident +16 (deadly d6, Magical, thrown 20 feet), Damage 2d8+6 piercing Ranged Single Action thrown debris +15 (deadly d6, thrown 20 feet), Damage 2d6+8 bludgeoning Mauler While the charau-ka butcher is raging, their melee Strikes deal an additional 1d4 persistent bleed damage. Rage Single Action As the barbarian class ability; AC 22, +9 Hit Points, +2 melee damage Shrieking Frenzy Free Action (Primal, Transmutation) Frequency once per hour; Trigger The charau-ka's turn begins; Effect The charau-ka is quickened until the end of their turn and can use the extra action only to Stride or Strike. While in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to their loud wailing. Thrown Weapon Mastery Any weapon a charau-ka throws gains the deadly d6 weapon trait. Furthermore, when a charau-ka throws an improvised weapon, they do not take the –2 penalty for doing so, nor does they take a penalty for using a thrown improvised weapon with the nonlethal trait to make a lethal attack. ",
+ "trait": [
+  "Charau-ka",
+  "Humanoid",
+  "NE",
+  "Small"
+ ],
+ "trait_markdown": "[Charau-ka](/Traits.aspx?ID=263), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Charau-ka",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1432",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 1
+}

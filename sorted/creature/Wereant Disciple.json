@@ -1,0 +1,114 @@
+{
+ "ac": 39,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 5,
+ "creature_ability": [
+  "Hive Mind",
+  "Insect Empathy",
+  "Gnawing Retort",
+  "Change Shape",
+  "Curse of the Wereant",
+  "Flying Leap",
+  "Moon Frenzy",
+  "Staggering Blow"
+ ],
+ "creature_family": "Werecreature, Wereant",
+ "creature_family_markdown": "[Werecreature, Wereant](/MonsterFamilies.aspx?ID=302)",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 305,
+ "hp_raw": "305",
+ "id": "creature-1800",
+ "image": [
+  "/Images/Monsters/Werecreature_WereantDisciple.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "insect empathy, <%UMR%37%%>telepathy<%END> 120 feet"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); insect empathy, [telepathy](/MonsterAbilities.aspx?ID=37) 120 feet",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"\">[Wereant Disciple](/Monsters.aspx?ID=1800)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSome wereants have a religious zeal about training to protect their community and gladly give their lives for the hive.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 40\r\n\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Werecreature_WereantDisciple.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Wereant Disciple](/Monsters.aspx?ID=1800)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 86</row>\n\n**Perception** +28; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); insect empathy, [telepathy](/MonsterAbilities.aspx?ID=37) 120 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +31, [Athletics](/Skills.aspx?ID=3) +28, [Stealth](/Skills.aspx?ID=15) +29, [Survival](/Skills.aspx?ID=16) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +9\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Hive Mind** ([divination](/Traits.aspx?ID=47), [primal](/Traits.aspx?ID=134)) Wereants operate with a shared hive intelligence. While within telepathic range of at least one other wereant, a wereant disciple gains a +2 circumstance bonus to initiative checks, Perception checks, and saving throws against [mental](/Traits.aspx?ID=106) effects. If one wereant is aware of a combatant, all members of the hive mind within telepathic range are aware of it.<br />**Insect Empathy** ([divination](/Traits.aspx?ID=47), [primal](/Traits.aspx?ID=134)) The wereant can communicate with insects.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 305\n\n**Weaknesses**\r\n[silver](/Equipment.aspx?ID=379) 15\r\n\r\n**Gnawing Retort** <actions string=\"Reaction\" /> **Trigger** A creature adjacent to the wereant critically misses the wereant with a melee Strike; **Effect** The wereant makes a mandibles Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandibles +29,\r\n**Damage** 3d10+14 slashing plus curse of the wereant\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ncarapace fist +32 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d8+14 bludgeoning plus staggering blow\n\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The wereant changes into their humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true wereant's natural form is their hybrid shape. In humanoid shape, they use their original humanoid size, lose their jaws and claw Strikes, and gain a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by their mandibles. In animal shape, they take the form of a Medium giant ant, gain a climb Speed of 20 feet, gain [Grab](/MonsterAbilities.aspx?ID=18) on their mandibles Strike, and lose their weapon Strikes.\r\n\r\n**Curse of the Wereant**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)) This curse affects only [humanoids](/Traits.aspx?ID=91); **Saving Throw** DC 34 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a wereant until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling [unconscious](/Conditions.aspx?ID=38) until dawn.\r\n\r\n**Flying Leap** <actions string=\"Single Action\" />  **Frequency** once per round; **Effect** The wereant disciple Flies and makes two Strikes against different targets at any point during that movement. These Strikes deal an additional 2d6 precision damage if the disciple is above the target. If the wereant began this action [hidden](/Conditions.aspx?ID=22), they remain hidden until after this ability's Strikes. Both attacks count toward the disciple's multiple attack penalty, but the penalty doesn't increase until after both Strikes.\r\n\r\n**Moon Frenzy**  ([Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) When a full moon appears in the night sky, the wereant must enter hybrid form, can't Change Shape, becomes one size larger, increases their reach by 5 feet, and increases the damage of their mandibles Strike by 2. When the moon sets or the sun rises, the wereant returns to humanoid form and is [fatigued](/Conditions.aspx?ID=15) for 2d4 hours.\r\n\r\n**Staggering Blow**   A creature damaged by the wereant disciple's carapace fist Strike must succeed at a DC 35 Fortitude save or become [stunned 1](/Conditions.aspx?ID=36) (stunned 2 on a critical failure). If the Strike is a critical hit, a creature that fails the save is also [paralyzed](/Conditions.aspx?ID=28) for 1 round.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-302\" />",
+ "name": "Wereant Disciple",
+ "npc": false,
+ "perception": 28,
+ "rarity": "rare",
+ "reflex_save": 30,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 86</row>\r\n\r\n**Creature Family** [Werecreature, Wereant](/MonsterFamilies.aspx?ID=302)\r\n\r\n<row gap=\"medium\">\r\n**HP** 305\r\n\r\n**AC** 39\r\n\r\n**Fort** +28\r\n\r\n**Ref** +30\r\n\r\n**Will** +25\r\n\r\n**Perception** +28\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome wereants have a religious zeal about training to protect their community and gladly give their lives for the hive.\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +31",
+  "Athletics +28",
+  "Stealth +29",
+  "Survival +28"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +31, [Athletics](/Skills.aspx?ID=3) +28, [Stealth](/Skills.aspx?ID=15) +29, [Survival](/Skills.aspx?ID=16) +28",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 86</row>",
+ "speed": {
+  "fly": 60,
+  "land": 40,
+  "max": 60
+ },
+ "speed_markdown": "40 feet, fly 60 feet",
+ "speed_raw": "40 feet, fly 60 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "stealth": "29",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Some wereants have a religious zeal about training to protect their community and gladly give their lives for the hive.",
+ "summary_markdown": "Some wereants have a religious zeal about training to protect their community and gladly give their lives for the hive.",
+ "text": " Wereant Disciple Some wereants have a religious zeal about training to protect their community and gladly give their lives for the hive. Recall Knowledge - Beast (Arcana, Nature): DC 40 Recall Knowledge - Humanoid (Society): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Wereant Disciple Source Pathfinder #174: Shadows of the Ancients pg. 86 Perception +28; darkvision, scent (imprecise) 30 feet Languages Common; insect empathy, telepathy 120 feet Skills Acrobatics +31, Athletics +28, Stealth +29, Survival +28 Str +6 Dex +9 Con +5 Int +0 Wis +6 Cha +4 Hive Mind (divination, primal) Wereants operate with a shared hive intelligence. While within telepathic range of at least one other wereant, a wereant disciple gains a +2 circumstance bonus to initiative checks, Perception checks, and saving throws against mental effects. If one wereant is aware of a combatant, all members of the hive mind within telepathic range are aware of it. Insect Empathy (divination, primal) The wereant can communicate with insects. --- AC 39 Fort +28 Ref +30 Will +25 HP 305 Weaknesses silver 15 Gnawing Retort Reaction Trigger A creature adjacent to the wereant critically misses the wereant with a melee Strike; Effect The wereant makes a mandibles Strike against the triggering creature. --- Speed 40 feet, fly 60 feet Melee Single Action mandibles +29, Damage 3d10+14 slashing plus curse of the wereant Melee Single Action carapace fist +32 (Agile, Finesse), Damage 3d8+14 bludgeoning plus staggering blow Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) The wereant changes into their humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true wereant's natural form is their hybrid shape. In humanoid shape, they use their original humanoid size, lose their jaws and claw Strikes, and gain a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by their mandibles. In animal shape, they take the form of a Medium giant ant, gain a climb Speed of 20 feet, gain Grab on their mandibles Strike, and lose their weapon Strikes. Curse of the Wereant (Curse, Necromancy, Primal) This curse affects only humanoids; Saving Throw DC 34 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a wereant until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn. Flying Leap Single Action Frequency once per round; Effect The wereant disciple Flies and makes two Strikes against different targets at any point during that movement. These Strikes deal an additional 2d6 precision damage if the disciple is above the target. If the wereant began this action hidden, they remain hidden until after this ability's Strikes. Both attacks count toward the disciple's multiple attack penalty, but the penalty doesn't increase until after both Strikes. Moon Frenzy (Polymorph, Primal, Transmutation) When a full moon appears in the night sky, the wereant must enter hybrid form, can't Change Shape, becomes one size larger, increases their reach by 5 feet, and increases the damage of their mandibles Strike by 2. When the moon sets or the sun rises, the wereant returns to humanoid form and is fatigued for 2d4 hours. Staggering Blow A creature damaged by the wereant disciple's carapace fist Strike must succeed at a DC 35 Fortitude save or become stunned 1 (stunned 2 on a critical failure). If the Strike is a critical hit, a creature that fails the save is also paralyzed for 1 round. ",
+ "trait": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Rare",
+  "Werecreature",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Rare](/Traits.aspx?ID=137), [Werecreature](/Traits.aspx?ID=243)",
+ "trait_raw": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Rare",
+  "Werecreature"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1800",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "silver": 15
+ },
+ "weakness_markdown": "[silver](/Equipment.aspx?ID=379) 15",
+ "weakness_raw": " silver  15",
+ "will_save": 25,
+ "wisdom": 6
+}

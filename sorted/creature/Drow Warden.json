@@ -1,0 +1,114 @@
+{
+ "ac": 21,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 1,
+ "creature_ability": [
+  "Light Blindness",
+  "Attack of Opportunity",
+  "Hampering Slash",
+  "Sneak Attack"
+ ],
+ "creature_family": "Drow",
+ "creature_family_markdown": "[Drow](/MonsterFamilies.aspx?ID=37)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-1385",
+ "image": [
+  "/Images/Monsters/Drow_DrowWarden.png"
+ ],
+ "immunity": [
+  "sleep"
+ ],
+ "immunity_markdown": "[sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "Elven",
+  "Undercommon"
+ ],
+ "language_markdown": "[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Drow Warden](/Monsters.aspx?ID=1385)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWardens watch over drow encampments and often work in small groups.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drow_DrowWarden.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Drow Warden](/Monsters.aspx?ID=1385)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 82</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +9, [Survival](/Skills.aspx?ID=16) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)**\r\n\r\n**Items**\r\n[Chain Mail](/Armor.aspx?ID=9), [Elven Curve Blade](/Weapons.aspx?ID=50), [Hand Crossbow](/Weapons.aspx?ID=69) (10 bolts), [Lethargy Poison](/Equipment.aspx?ID=120) (3)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +9 \r\n\r\n+1 status to all saves vs. magic, +2 status to all saves vs. [mental](/Traits.aspx?ID=106)\r\n</row>\r\n\r\n**HP** 60\n\n**Immunities**\r\n[sleep](/Traits.aspx?ID=145)\n\n[**Attack of Opportunity**](/MonsterAbilities.aspx?ID=3) <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nelven curve blade +14 ([Forceful](/Traits.aspx?ID=180)),\r\n**Damage** 1d8+6 slashing plus hampering slash\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhand crossbow +13 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+2 piercing plus lethargy poison\r\n\r\n**Divine Innate Spells** DC 19\r\n- **Cantrips (2nd)**\r\n[Dancing Lights](/Spells.aspx?ID=58)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59) (at will), [Faerie Fire](/Spells.aspx?ID=107) (at will)\r\n\r\n**Hampering Slash**   A target damaged by the warden's melee Strike must succeed at a DC 21 Fortitude save or be [slowed 1](/Conditions.aspx?ID=35) until the end of the warden's next turn.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   A warden deals an extra 1d6 damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-37\" />",
+ "name": "Drow Warden",
+ "npc": false,
+ "perception": 11,
+ "rarity": "uncommon",
+ "reflex_save": 11,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 82</row>\r\n\r\n**Creature Family** [Drow](/MonsterFamilies.aspx?ID=37)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 21\r\n\r\n**Fort** +11\r\n\r\n**Ref** +11\r\n\r\n**Will** +9\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWardens watch over drow encampments and often work in small groups.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Intimidation +8",
+  "Stealth +9",
+  "Survival +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +9, [Survival](/Skills.aspx?ID=16) +11",
+ "source": [
+  "Pathfinder #165: Eyes of Empty Death"
+ ],
+ "source_raw": [
+  "Pathfinder #165: Eyes of Empty Death pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 82</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Darkness",
+  "Faerie Fire",
+  "Dancing Lights"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Darkness](/Spells.aspx?ID=59), [Faerie Fire](/Spells.aspx?ID=107)",
+ "spoilers": "Abomination Vaults",
+ "stealth": "9",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "Wardens watch over drow encampments and often work in small groups.",
+ "summary_markdown": "Wardens watch over drow encampments and often work in small groups.",
+ "text": " Drow Warden Wardens watch over drow encampments and often work in small groups. Recall Knowledge - Humanoid (Society): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Drow Warden Source Pathfinder #165: Eyes of Empty Death pg. 82 Perception +11; darkvision Languages Elven, Undercommon Skills Athletics +12, Intimidation +8, Stealth +9, Survival +11 Str +4 Dex +3 Con +1 Int +0 Wis +3 Cha +0 Light Blindness Items Chain Mail, Elven Curve Blade, Hand Crossbow (10 bolts), Lethargy Poison (3) --- AC 21 Fort +11 Ref +11 Will +9 +1 status to all saves vs. magic, +2 status to all saves vs. mental HP 60 Immunities sleep Attack of Opportunity Reaction --- Speed 30 feet Melee Single Action elven curve blade +14 (Forceful), Damage 1d8+6 slashing plus hampering slash Ranged Single Action hand crossbow +13 (range increment 60 feet, reload 1), Damage 1d6+2 piercing plus lethargy poison Divine Innate Spells DC 19 - Cantrips (2nd) Dancing Lights - 2nd Darkness (at will), Faerie Fire (at will) Hampering Slash A target damaged by the warden's melee Strike must succeed at a DC 21 Fortitude save or be slowed 1 until the end of the warden's next turn. Sneak Attack A warden deals an extra 1d6 damage to flat-footed creatures. ",
+ "trait": [
+  "Drow",
+  "Elf",
+  "Humanoid",
+  "Uncommon",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Drow](/Traits.aspx?ID=51), [Elf](/Traits.aspx?ID=58), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Drow",
+  "Elf",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1385",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 3
+}

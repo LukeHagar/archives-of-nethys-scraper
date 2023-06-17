@@ -1,0 +1,109 @@
+{
+ "ac": 18,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Light Blindness",
+  "Attack of Opportunity",
+  "Quick Draw",
+  "Skewer"
+ ],
+ "creature_family": "Drow",
+ "creature_family_markdown": "[Drow](/MonsterFamilies.aspx?ID=37)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 18,
+ "hp_raw": "18",
+ "id": "creature-165",
+ "image": [
+  "/Images/Monsters/Drow_DrowFighter.png"
+ ],
+ "immunity": [
+  "sleep"
+ ],
+ "immunity_markdown": "sleep",
+ "intelligence": 0,
+ "language": [
+  "Elven",
+  "Undercommon"
+ ],
+ "language_markdown": "[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Drow Fighter](/Monsters.aspx?ID=165)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDrow fighters train to master techniques that inflict deep, bleeding wounds and use poisoned crossbow bolts to exhaust enemies.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drow_DrowFighter.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Drow Fighter](/Monsters.aspx?ID=165)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 136</row>\n\n**Perception** +6; darkvision\r\n\r\n**Languages**\r\n[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +5, [Intimidation](/Skills.aspx?ID=7) +3, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)**\r\n\r\n**Items**\r\n[Leather Armor](/Armor.aspx?ID=4), [Hand Crossbow](/Weapons.aspx?ID=69) (10 bolts), [Lethargy Poison](/Equipment.aspx?ID=120) (2 doses)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +4 \r\n\r\n+1 status to all saves vs. magic, +2 status to all saves vs. mental\r\n</row>\r\n\r\n**HP** 18\n\n**Immunities**\r\nsleep\n\n**Attack of Opportunity** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nrapier +9 ([deadly 1d8](/Traits.aspx?ID=174), [Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+2 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmain-gauche +9 ([Agile](/Traits.aspx?ID=170), [Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179), [Parry](/Traits.aspx?ID=190), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+2 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhand crossbow +9 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+1 piercing plus [_lethargy poison_](/Equipment.aspx?ID=120)\r\n\r\n**Divine Innate Spells** DC 14\r\n- **Cantrips (2nd)**\r\n[Dancing Lights](/Spells.aspx?ID=58)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59) (at will), [Faerie Fire](/Spells.aspx?ID=107) (at will)\r\n\r\n**Quick Draw** <actions string=\"Single Action\" />  The drow fighter draws a weapon using the Interact action, then Strikes with that weapon.\r\n\r\n**Skewer** <actions string=\"Two Actions\" />  The drow fighter Strikes with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1d6 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-37\" />",
+ "name": "Drow Fighter",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Drow\" url=\"/Traits.aspx?ID=51\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 136</row>\r\n\r\n**Creature Family** [Drow](/MonsterFamilies.aspx?ID=37)\r\n\r\n<row gap=\"medium\">\r\n**HP** 18\r\n\r\n**AC** 18\r\n\r\n**Fort** +7\r\n\r\n**Ref** +9\r\n\r\n**Will** +4\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDrow fighters train to master techniques that inflict deep, bleeding wounds and use poisoned crossbow bolts to exhaust enemies.\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +5",
+  "Intimidation +3",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +5, [Intimidation](/Skills.aspx?ID=7) +3, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 136"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 136</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Darkness",
+  "Faerie Fire",
+  "Dancing Lights"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Darkness](/Spells.aspx?ID=59), [Faerie Fire](/Spells.aspx?ID=107)",
+ "stealth": "7",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Drow fighters train to master techniques that inflict deep, bleeding wounds and use poisoned crossbow bolts to exhaust enemies.",
+ "summary_markdown": "Drow fighters train to master techniques that inflict deep, bleeding wounds and use poisoned crossbow bolts to exhaust enemies.",
+ "text": " Drow Fighter Drow fighters train to master techniques that inflict deep, bleeding wounds and use poisoned crossbow bolts to exhaust enemies. Recall Knowledge - Humanoid (Society): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Drow Fighter Source Bestiary pg. 136 Perception +6; darkvision Languages Elven, Undercommon Skills Acrobatics +7, Athletics +5, Intimidation +3, Stealth +7 Str +2 Dex +4 Con +2 Int +0 Wis +1 Cha +0 Light Blindness Items Leather Armor, Hand Crossbow (10 bolts), Lethargy Poison (2 doses) --- AC 18 Fort +7 Ref +9 Will +4 +1 status to all saves vs. magic, +2 status to all saves vs. mental HP 18 Immunities sleep Attack of Opportunity Reaction --- Speed 30 feet Melee Single Action rapier +9 (deadly 1d8, Disarm, Finesse), Damage 1d6+2 piercing Melee Single Action main-gauche +9 (Agile, Disarm, Finesse, Parry, versatile S), Damage 1d4+2 piercing Ranged Single Action hand crossbow +9 (range increment 60 feet, reload 1), Damage 1d6+1 piercing plus lethargy poison Divine Innate Spells DC 14 - Cantrips (2nd) Dancing Lights - 2nd Darkness (at will), Faerie Fire (at will) Quick Draw Single Action The drow fighter draws a weapon using the Interact action, then Strikes with that weapon. Skewer Two Actions The drow fighter Strikes with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1d6 persistent bleed damage. ",
+ "trait": [
+  "Drow",
+  "Elf",
+  "Humanoid",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Drow](/Traits.aspx?ID=51), [Elf](/Traits.aspx?ID=58), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Drow",
+  "Elf",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=165",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 4,
+ "wisdom": 1
+}

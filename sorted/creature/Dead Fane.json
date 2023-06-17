@@ -1,0 +1,100 @@
+{
+ "ac": 39,
+ "alignment": "CG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 0,
+ "creature_ability": [
+  "Give Them the Slip",
+  "Adopt Persona",
+  "Feinting Strike",
+  "Sneak Attack",
+  "Traitorous Betrayal"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 26,
+ "hp": 315,
+ "hp_raw": "315",
+ "id": "creature-2437",
+ "intelligence": 4,
+ "language": [
+  "Common",
+  "Kelish",
+  "Necril",
+  "Osiriani"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Kelish](/Languages.aspx?ID=38), [Necril](/Languages.aspx?ID=20), [Osiriani](/Languages.aspx?ID=40)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"\">[Dead Fane](/NPCs.aspx?ID=2437)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 46\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 44\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 41\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Dead Fane](/NPCs.aspx?ID=2437)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 51</row>\n\n**Perception** +32\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Kelish](/Languages.aspx?ID=38), [Necril](/Languages.aspx?ID=20), [Osiriani](/Languages.aspx?ID=40)\r\n\r\n**Skills**\r\n[Deception](/Skills.aspx?ID=5) +36, [Diplomacy](/Skills.aspx?ID=6) +33, [Intimidation](/Skills.aspx?ID=7) +33, [Religion](/Skills.aspx?ID=13) +30, [Society](/Skills.aspx?ID=14) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +5\r\n\r\n**Con** +0\r\n\r\n**Int** +4\r\n\r\n**Wis** +5\r\n\r\n**Cha** +6\r\n</row>\n\n**Items**\r\n_+2 [greater striking](/Equipment.aspx?ID=280) [dagger](/Weapons.aspx?ID=3)_, _+2 [resilient](/Equipment.aspx?ID=279) [padded armor](/Armor.aspx?ID=3)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +26 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +32 \n\n</row>\r\n\r\n**HP** 315\n\n**Give Them the Slip** <actions string=\"Reaction\" /> **Trigger** Dead Faine gains the [grabbed](/Conditions.aspx?ID=20), [immobilized](/Conditions.aspx?ID=24), or [restrained](/Conditions.aspx?ID=33) condition; **Effect** Dead Faine slips out of his disguise to escape; he removes the grabbed, immobilized, and restrained conditions imposed by the triggering event, then he Steps. If Dead Faine is currently [Impersonating](/Actions.aspx?ID=46), his disguise is ruined, and he's exposed as himself.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_dagger_ +33 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 3d4+8 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +33 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d4+8 bludgeoning\r\n\r\n**Innate Occult Spells** DC 35\r\n- **2nd**\r\n[Mimic Undead](/Spells.aspx?ID=948) (×2)\r\n- **3rd**\r\n[Illusory Disguise](/Spells.aspx?ID=159)\r\n- **5th**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Adopt Persona** <actions string=\"Three Actions\" />  Dead Faine attempts a [Deception](/Skills.aspx?ID=5) check to [Impersonate](/Actions.aspx?ID=46). He doesn't take a penalty to this check due to lacking a [disguise kit](/Equipment.aspx?ID=19), to appear as an [undead](/Traits.aspx?ID=160), or to appear as a specific individual.\r\n\r\n**Feinting Strike** <actions string=\"Single Action\" />  **Frequency** once per round; **Requirements** Dead Faine is within melee reach of an enemy; **Effect** Dead Faine [Feints](/Actions.aspx?ID=48), then Strikes the target of his Feint.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   Dead Faine deals an additional 4d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures. This increases to 6d6 against creatures flat-footed due to Dead Faine's Feint or Traitorous Betrayal.\r\n\r\n**Traitorous Betrayal** <actions string=\"Two Actions\" />  Dead Faine Interacts to draw his dagger and Strikes with it. If the target believes Dead Faine was anyone other than himself, the target is [flat-footed](/Conditions.aspx?ID=16) against Dead Faine's attack.\r\n\r\n</column>",
+ "name": "Dead Fane",
+ "npc": true,
+ "perception": 32,
+ "rarity": "unique",
+ "reflex_save": 29,
+ "release_date": "2022-12-14",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 51</row>\n\n<row gap=\"medium\">\r\n**HP** 315\r\n\r\n**AC** 39\r\n\r\n**Fort** +26\r\n\r\n**Ref** +29\r\n\r\n**Will** +32\r\n\r\n**Perception** +32\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Deception +36",
+  "Diplomacy +33",
+  "Intimidation +33",
+  "Religion +30",
+  "Society +30"
+ ],
+ "skill_markdown": "[Deception](/Skills.aspx?ID=5) +36, [Diplomacy](/Skills.aspx?ID=6) +33, [Intimidation](/Skills.aspx?ID=7) +33, [Religion](/Skills.aspx?ID=13) +30, [Society](/Skills.aspx?ID=14) +30",
+ "source": [
+  "Pathfinder #186: Ghost King's Rage"
+ ],
+ "source_raw": [
+  "Pathfinder #186: Ghost King's Rage pg. 51"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 51</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Tongues",
+  "Illusory Disguise",
+  "Mimic Undead"
+ ],
+ "spell_markdown": "[Illusory Disguise](/Spells.aspx?ID=159), [Mimic Undead](/Spells.aspx?ID=948), [Tongues](/Spells.aspx?ID=340)",
+ "spoilers": "Blood Lords",
+ "strength": 0,
+ "strongest_save": [
+  "will"
+ ],
+ "text": " Dead Fane Recall Knowledge - Humanoid (Society): DC 46 Unspecific Lore : DC 44 Specific Lore : DC 41 Dead Fane Source Pathfinder #186: Ghost King's Rage pg. 51 Perception +32 Languages Common, Kelish, Necril, Osiriani Skills Deception +36, Diplomacy +33, Intimidation +33, Religion +30, Society +30 Str +0 Dex +5 Con +0 Int +4 Wis +5 Cha +6 Items +2 greater striking dagger , +2 resilient padded armor --- AC 39 Fort +26 Ref +29 Will +32 HP 315 Give Them the Slip Reaction Trigger Dead Faine gains the grabbed, immobilized, or restrained condition; Effect Dead Faine slips out of his disguise to escape; he removes the grabbed, immobilized, and restrained conditions imposed by the triggering event, then he Steps. If Dead Faine is currently Impersonating, his disguise is ruined, and he's exposed as himself. --- Speed 25 feet Melee Single Action dagger +33 (Agile, Finesse, Magical, thrown 10 feet, versatile S), Damage 3d4+8 piercing Melee Single Action fist +33 (Agile, Finesse), Damage 1d4+8 bludgeoning Innate Occult Spells DC 35 - 2nd Mimic Undead (×2) - 3rd Illusory Disguise - 5th Tongues Adopt Persona Three Actions Dead Faine attempts a Deception check to Impersonate. He doesn't take a penalty to this check due to lacking a disguise kit, to appear as an undead, or to appear as a specific individual. Feinting Strike Single Action Frequency once per round; Requirements Dead Faine is within melee reach of an enemy; Effect Dead Faine Feints, then Strikes the target of his Feint. Sneak Attack Dead Faine deals an additional 4d6 precision damage to flat-footed creatures. This increases to 6d6 against creatures flat-footed due to Dead Faine's Feint or Traitorous Betrayal. Traitorous Betrayal Two Actions Dead Faine Interacts to draw his dagger and Strikes with it. If the target believes Dead Faine was anyone other than himself, the target is flat-footed against Dead Faine's attack. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Unique",
+  "CG",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2437",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 32,
+ "wisdom": 5
+}

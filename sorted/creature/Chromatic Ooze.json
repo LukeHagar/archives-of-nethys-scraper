@@ -1,0 +1,105 @@
+{
+ "ac": 28,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 10,
+ "creature_ability": [
+  "Motion Sense",
+  "Caustic Aura",
+  "Chromatic Shift",
+  "Chromatic Slam",
+  "Greater Constrict",
+  "Pseudopod Eruption"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": -5,
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hp": 550,
+ "hp_raw": "550",
+ "id": "creature-1797",
+ "image": [
+  "/Images/Monsters/Ooze_ChromaticOoze.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "mental",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "critical hits, [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Chromatic Ooze](/Monsters.aspx?ID=1797)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nChromatic oozes result from the worst kind of alchemical mishaps: attempts to combine as many types of elemental damage as possible into a single alchemical substance. Although the source of these alchemical concatenations are as varied as the alchemists who attempt to distill them, one of the most common methods for creating them involves combining the essences of multiple types of chromatic dragons together using eldritch alchemical processes. When this type of experimentation goes dangerously wrong—as it often does—the result is a combination of terrible elemental power with the mindless destructive power of an ooze. A chromatic ooze is a rippling, seething substance that shifts through several different colors, but chemical reactions within the ooze can lock its energy and its color into a specific phase for a short time. Whether a chromatic ooze's destructive urges derive from the frustrated ingenuity of an alchemist creator or from the hunger of the chromatic dragons that so often constitute these oozes' forms, the best way to deal with a chromatic ooze is to stay out of its way.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 43\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 41\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 38\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ooze_ChromaticOoze.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Chromatic Ooze](/Monsters.aspx?ID=1797)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 81</row>\n\n**Perception** +30; motion sense 240 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +35\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** -5\r\n\r\n**Con** +10\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A chromatic ooze can sense nearby motion through vibration and air movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +33 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 550\n\n**Immunities**\r\ncritical hits, [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Caustic Aura** ([alchemical](/Traits.aspx?ID=6), [aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 90 feet. The chromatic ooze emanates noxious chemicals into the environment. A creature that enters the aura or starts its turn within it is [sickened 1](/Conditions.aspx?ID=34) unless it succeeds at a DC 37 Fortitude save. Creatures with the [scent](/Rules.aspx?ID=417) ability or a particularly heightened sense of smell are sickened 2, or sickened 1 on a successful Fortitude save. Creatures in the aura can't recover from the sickened condition.<br />**Chromatic Shift** <actions string=\"Reaction\" /> **Trigger** The chromatic ooze takes acid, cold, electricity, fire, or poison damage; **Effect** The chromatic ooze changes its color based on the triggering damage (to dark green, pale blue, dark blue, red, or light green, respectively) and gains resistance 20 to the triggering damage. If it already had resistance to another damage type from this ability, it loses the resistance to that damage type and gains weakness 20 to it. If it already had weakness to another damage type from this ability, it loses that weakness. After 1 minute, the chromatic ooze returns to its usual rippling, multicolored hue and loses the resistance and weakness from this ability.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +35 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+17 bludgeoning plus chromatic slam and [Improved Grab](/MonsterAbilities.aspx?ID=27)\n\n**Chromatic Slam**   The ooze's pseudopod Strikes deal an additional 2d10 damage of the same type it resists from its Chromatic Shift ability, if any.\r\n\r\n**[Greater Constrict](/MonsterAbilities.aspx?ID=19)** <actions string=\"Single Action\" />  3d10+13 bludgeoning, DC 40\r\n\r\n**Pseudopod Eruption** <actions string=\"Two Actions\" />  The chromatic ooze concentrates its mass into several pseudopods, increasing its [reach](/Traits.aspx?ID=192) to 30 feet until the end of its turn. It then Strikes at up to four different creatures within its reach. This counts as two attacks for the ooze's multiple attack penalty, but the penalty doesn't increase until after it makes all the attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Dangers of Hubris</title>\r\n\r\nSpend enough time among alchemists and you'll likely hear tales of bombs capable of producing multiple elemental effects at the same time. The process for making these bombs requires specialized ingredients and the utmost skill. Few alchemists manage to combine two damage types, much less five. These the latter efforts, when mishandled, create chromatic oozes.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Chromatic Ooze",
+ "npc": false,
+ "perception": 30,
+ "rarity": "rare",
+ "reflex_save": 16,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 81</row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 550\r\n\r\n**AC** 28\r\n\r\n**Fort** +33\r\n\r\n**Ref** +16\r\n\r\n**Will** +20\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nChromatic oozes result from the worst kind of alchemical mishaps: attempts to combine as many types of elemental damage as possible into a single …\r\n</summary>",
+ "sense": "motion sense 240 feet, no vision",
+ "sense_markdown": "motion sense 240 feet, no vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +35"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +35",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 81"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 81</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet, swim 20 feet",
+ "speed_raw": "20 feet, climb 20 feet, swim 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Chromatic oozes result from the worst kind of alchemical mishaps: attempts to combine as many types of elemental damage as possible into a single …",
+ "summary_markdown": "Chromatic oozes result from the worst kind of alchemical mishaps: attempts to combine as many types of elemental damage as possible into a single …",
+ "text": " Chromatic Ooze Chromatic oozes result from the worst kind of alchemical mishaps: attempts to combine as many types of elemental damage as possible into a single alchemical substance. Although the source of these alchemical concatenations are as varied as the alchemists who attempt to distill them, one of the most common methods for creating them involves combining the essences of multiple types of chromatic dragons together using eldritch alchemical processes. When this type of experimentation goes dangerously wrong—as it often does—the result is a combination of terrible elemental power with the mindless destructive power of an ooze. A chromatic ooze is a rippling, seething substance that shifts through several different colors, but chemical reactions within the ooze can lock its energy and its color into a specific phase for a short time. Whether a chromatic ooze's destructive urges derive from the frustrated ingenuity of an alchemist creator or from the hunger of the chromatic dragons that so often constitute these oozes' forms, the best way to deal with a chromatic ooze is to stay out of its way. Recall Knowledge - Ooze (Occultism): DC 43 Unspecific Lore : DC 41 Specific Lore : DC 38 Chromatic Ooze Source Pathfinder #174: Shadows of the Ancients pg. 81 Perception +30; motion sense 240 feet, no vision Languages Skills Athletics +35 Str +9 Dex -5 Con +10 Int -5 Wis +0 Cha -5 Motion Sense A chromatic ooze can sense nearby motion through vibration and air movement. --- AC 28 Fort +33 Ref +16 Will +20 HP 550 Immunities critical hits, mental, precision, unconscious, visual Caustic Aura (alchemical, aura, olfactory) 90 feet. The chromatic ooze emanates noxious chemicals into the environment. A creature that enters the aura or starts its turn within it is sickened 1 unless it succeeds at a DC 37 Fortitude save. Creatures with the scent ability or a particularly heightened sense of smell are sickened 2, or sickened 1 on a successful Fortitude save. Creatures in the aura can't recover from the sickened condition. Chromatic Shift Reaction Trigger The chromatic ooze takes acid, cold, electricity, fire, or poison damage; Effect The chromatic ooze changes its color based on the triggering damage (to dark green, pale blue, dark blue, red, or light green, respectively) and gains resistance 20 to the triggering damage. If it already had resistance to another damage type from this ability, it loses the resistance to that damage type and gains weakness 20 to it. If it already had weakness to another damage type from this ability, it loses that weakness. After 1 minute, the chromatic ooze returns to its usual rippling, multicolored hue and loses the resistance and weakness from this ability. --- Speed 20 feet, climb 20 feet, swim 20 feet Melee Single Action pseudopod +35 (reach 10 feet), Damage 3d10+17 bludgeoning plus chromatic slam and Improved Grab Chromatic Slam The ooze's pseudopod Strikes deal an additional 2d10 damage of the same type it resists from its Chromatic Shift ability, if any. Greater Constrict Single Action 3d10+13 bludgeoning, DC 40 Pseudopod Eruption Two Actions The chromatic ooze concentrates its mass into several pseudopods, increasing its reach to 30 feet until the end of its turn. It then Strikes at up to four different creatures within its reach. This counts as two attacks for the ooze's multiple attack penalty, but the penalty doesn't increase until after it makes all the attacks. Dangers of Hubris Spend enough time among alchemists and you'll likely hear tales of bombs capable of producing multiple elemental effects at the same time. The process for making these bombs requires specialized ingredients and the utmost skill. Few alchemists manage to combine two damage types, much less five. These the latter efforts, when mishandled, create chromatic oozes. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "Rare",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1797",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 20,
+ "wisdom": 0
+}

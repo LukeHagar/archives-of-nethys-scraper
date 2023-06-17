@@ -1,0 +1,111 @@
+{
+ "ac": 24,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Painsight",
+  "Unnerving Gaze",
+  "Attack of Opportunity",
+  "Animate Chains",
+  "Focus Gaze",
+  "Impaling Chain"
+ ],
+ "creature_family": "Velstrac",
+ "creature_family_markdown": "[Velstrac](/MonsterFamilies.aspx?ID=111)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 90,
+ "hp_raw": "90",
+ "id": "creature-849",
+ "image": [
+  "/Images/Monsters/Velstrac_Evangelist.png"
+ ],
+ "immunity": [
+  "cold"
+ ],
+ "immunity_markdown": "cold",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Infernal",
+  "Shadowtongue"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Shadowtongue](/Languages.aspx?ID=21)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Evangelist](/Monsters.aspx?ID=849)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nEvangelists, the velstracs' unofficial ambassadors, roam the farthest reaches of the planes to spread the word of their kind's abhorrent belief in perfection through pain. They are therefore the most frequently encountered velstracs on the Material Plane, leading covens of hedonistic mortal flesh-sculptors or serving as wardens of horrific dungeons. In regions ruled by infernal powers, evangelists may serve as lieutenants or advisors, whispering secret paths to power in exchange for mortal's souls or choice mortal flesh. Evangelists are the same size as humans, although with the heavy chains that always drape their forms, they often weigh 350 pounds or more.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Velstrac_Evangelist.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Evangelist](/Monsters.aspx?ID=849)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Velstrac\" url=\"/Traits.aspx?ID=265\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 282 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 83</row>\n\n**Perception** +13; [greater darkvision](/MonsterAbilities.aspx?ID=12), painsight\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Shadowtongue](/Languages.aspx?ID=21)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +15, [Crafting](/Skills.aspx?ID=4) +10, [Intimidation](/Skills.aspx?ID=7) +15, [Religion](/Skills.aspx?ID=13) +11, [Torture Lore](/Skills.aspx?ID=8) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Painsight** ([divination](/Traits.aspx?ID=47), [divine](/Traits.aspx?ID=48)) A velstrac automatically knows whether a creature it sees has any of the [doomed](/Conditions.aspx?ID=9), [dying](/Conditions.aspx?ID=11), and [wounded](/Conditions.aspx?ID=42) conditions, as well as the value of those conditions\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +11 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 90\r\n\r\n, regeneration 10 (deactivated by good or silver)\r\n\r\n**Immunities**\r\ncold\n\n**Weaknesses**\r\ngood 5, silver 5\r\n\r\n**Unnerving Gaze** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [enchantment](/Traits.aspx?ID=61), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106), [visual](/Traits.aspx?ID=163)) 30 feet. When a creature ends its turn in the aura, it sees the face of a departed loved one in place of the evangelist's face. The creature must succeed at a DC 21 Will save or become [frightened 2](/Conditions.aspx?ID=19) (frightened 3 on a critical failure).<br />**Attack of Opportunity** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nchain +17 ([Disarm](/Traits.aspx?ID=175), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 2d8+7 piercing plus 1d6 [persistent bleed](/Conditions.aspx?ID=29) and impaling chain\n\n**Animate Chains**  ([Divine](/Traits.aspx?ID=48), [Transmutation](/Traits.aspx?ID=157)) Chains in the evangelist's vicinity sprout barbs and writhe menacingly. The evangelist can make chain Strikes against any creature that is adjacent to an unattended chain within 20 feet, in addition to those within the reach of the evangelist's chain Strike.\r\n\r\n**Focus Gaze** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) The evangelist stares at a creature they can see within 30 feet. The target must immediately attempt a Will save against Unnerving gaze. In addition, if the creature was already [frightened](/Conditions.aspx?ID=19), on a failed save, the evangelist is [concealed](/Conditions.aspx?ID=4) from the creature for as long as the creature remains frightened. After attempting this save, the creature is then temporarily immune until the start of the evangelist's next turn.\r\n\r\n**Impaling Chain**   When the evangelist critically hits with a chain Strike, the target is impaled and anchored in place, becoming [grabbed](/Conditions.aspx?ID=29) by the chain. The creature is unable to recover from [persistent bleed](/Conditions.aspx?ID=29) damage until it gets free (DC 25 [Escape](/Actions.aspx?ID=79)).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-111\" />",
+ "name": "Evangelist",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Velstrac\" url=\"/Traits.aspx?ID=265\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Bestiary 2](/Sources.aspx?ID=32) pg. 282 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 83</row>\r\n\r\n**Creature Family** [Velstrac](/MonsterFamilies.aspx?ID=111)\r\n\r\n<row gap=\"medium\">\r\n**HP** 90\r\n\r\n**AC** 24\r\n\r\n**Fort** +15\r\n\r\n**Ref** +14\r\n\r\n**Will** +11\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEvangelists, the velstracs' unofficial ambassadors, roam the farthest reaches of the planes to spread the word of their kind's abhorrent belief in …\r\n</summary>",
+ "sense": " greater darkvision , painsight",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12), painsight",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Athletics +15",
+  "Crafting +10",
+  "Intimidation +15",
+  "Religion +11",
+  "Torture Lore +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +15, [Crafting](/Skills.aspx?ID=4) +10, [Intimidation](/Skills.aspx?ID=7) +15, [Religion](/Skills.aspx?ID=13) +11, [Torture Lore](/Skills.aspx?ID=8) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 282"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 282 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 83</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Evangelists, the velstracs' unofficial ambassadors, roam the farthest reaches of the planes to spread the word of their kind's abhorrent belief in …",
+ "summary_markdown": "Evangelists, the velstracs' unofficial ambassadors, roam the farthest reaches of the planes to spread the word of their kind's abhorrent belief in …",
+ "text": " Evangelist Evangelists, the velstracs' unofficial ambassadors, roam the farthest reaches of the planes to spread the word of their kind's abhorrent belief in perfection through pain. They are therefore the most frequently encountered velstracs on the Material Plane, leading covens of hedonistic mortal flesh-sculptors or serving as wardens of horrific dungeons. In regions ruled by infernal powers, evangelists may serve as lieutenants or advisors, whispering secret paths to power in exchange for mortal's souls or choice mortal flesh. Evangelists are the same size as humans, although with the heavy chains that always drape their forms, they often weigh 350 pounds or more. Recall Knowledge - Fiend (Religion): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Evangelist Source Bestiary 2 pg. 282 2.0 , Pathfinder #147: Tomorrow Must Burn pg. 83 Perception +13; greater darkvision, painsight Languages Common, Infernal, Shadowtongue Skills Acrobatics +13, Athletics +15, Crafting +10, Intimidation +15, Religion +11, Torture Lore +12 Str +4 Dex +3 Con +2 Int +0 Wis +1 Cha +1 Painsight (divination, divine) A velstrac automatically knows whether a creature it sees has any of the doomed, dying, and wounded conditions, as well as the value of those conditions --- AC 24 Fort +15 Ref +14 Will +11 +1 status to all saves vs. magic HP 90 , regeneration 10 (deactivated by good or silver) Immunities cold Weaknesses good 5, silver 5 Unnerving Gaze (aura, divine, enchantment, fear, mental, visual) 30 feet. When a creature ends its turn in the aura, it sees the face of a departed loved one in place of the evangelist's face. The creature must succeed at a DC 21 Will save or become frightened 2 (frightened 3 on a critical failure). Attack of Opportunity Reaction --- Speed 25 feet Melee Single Action chain +17 (Disarm, Evil, Magical, reach 10 feet, Trip), Damage 2d8+7 piercing plus 1d6 persistent bleed and impaling chain Animate Chains (Divine, Transmutation) Chains in the evangelist's vicinity sprout barbs and writhe menacingly. The evangelist can make chain Strikes against any creature that is adjacent to an unattended chain within 20 feet, in addition to those within the reach of the evangelist's chain Strike. Focus Gaze Single Action (Concentrate, Divine, Enchantment, Fear, Mental, Visual) The evangelist stares at a creature they can see within 30 feet. The target must immediately attempt a Will save against Unnerving gaze. In addition, if the creature was already frightened, on a failed save, the evangelist is concealed from the creature for as long as the creature remains frightened. After attempting this save, the creature is then temporarily immune until the start of the evangelist's next turn. Impaling Chain When the evangelist critically hits with a chain Strike, the target is impaled and anchored in place, becoming grabbed by the chain. The creature is unable to recover from persistent bleed damage until it gets free (DC 25 Escape). ",
+ "trait": [
+  "Fiend",
+  "Velstrac",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Velstrac](/Traits.aspx?ID=265)",
+ "trait_raw": [
+  "Fiend",
+  "Velstrac"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=849",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "good": 5,
+  "silver": 5
+ },
+ "weakness_markdown": "good 5, silver 5",
+ "weakness_raw": "good 5, silver 5",
+ "will_save": 11,
+ "wisdom": 1
+}

@@ -1,0 +1,115 @@
+{
+ "ac": 27,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 3,
+ "creature_ability": [
+  "Necrotic Decay",
+  "Sapping Squeeze",
+  "Shred Flesh",
+  "Undulating Step",
+  "Web Trap"
+ ],
+ "creature_family": "Shanrigol",
+ "creature_family_markdown": "[Shanrigol](/MonsterFamilies.aspx?ID=214)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 140,
+ "hp_raw": "140 ( negative healing )",
+ "id": "creature-1051",
+ "image": [
+  "/Images/Monsters/Shanrigol_ShanrigolBehemoth.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Shanrigol Behemoth](/Monsters.aspx?ID=1051)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nShanrigols that grow with the additions of many living victims can become truly enormous in size and pose a greater danger in their expanding hunting territories. Subterranean communities have collapsed entire tunnels to prevent the creatures from reaching their settlements.\n\n Many shanrigol behemoths absorb enough brain matter to form crude intelligences and take a serpentine or humanoid shape. They're more varied in their abilities than shanrigol heaps, as they often gain abilities from their constituent creatures. The shanrigol behemoth presented below contains flesh from [driders](/Monsters.aspx?ID=207) and [urdefhans](/Traits.aspx?ID=315), giving it a web attack and necrotic decay ability. Not all shanrigol behemoths have these two abilities, but should have other abilities to replace them.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 28\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Shanrigol_ShanrigolBehemoth.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Shanrigol Behemoth](/Monsters.aspx?ID=1051)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 85</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +20, [Stealth](/Skills.aspx?ID=15) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +21 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 140\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nslashing 10, piercing 10\r\n\r\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 10\r\n\r\n**Necrotic Decay** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117), [negative](/Traits.aspx?ID=118)) When the shanrigol behemoth dies, its flesh rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 9d6 negative damage to creatures in this area as their flesh curdles and rots as well (DC 27 basic Fortitude save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfleshy slap +21 ([Forceful](/Traits.aspx?ID=180), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+11 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nbone shard +18 ([Agile](/Traits.aspx?ID=170), [range increment 30 feet](/Traits.aspx?ID=248), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d12+11 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nweb +18 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** web trap\n\n**Sapping Squeeze** <actions string=\"Single Action\" />  **Requirements** The shanrigol has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The shanrigol squeezes the life essence from its target, dealing 1d10+11 bludgeoning and 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) (DC 25 basic Fortitude save). The shanrigol regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute.\r\n\r\n**Shred Flesh**   A shanrigol behemoth's attacks brutally rend its foes. Creatures critically hit by the shanrigol's fleshy slap Strike take an additional 2d6 [persistent bleed damage](/Conditions.aspx?ID=29) and are [enfeebled 1](/Conditions.aspx?ID=13) for as long as they are bleeding.\r\n\r\n**Undulating Step** <actions string=\"Two Actions\" />  The shanrigol separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than Undulating Step until it occupies an area large enough for its normal form.\r\n\r\n**Web Trap**    A creature hit by the shanrigol behemoth's web attack is [immobilized](/Conditions.aspx?ID=24) and stuck to the nearest surface until it can [Escape](/Actions.aspx?ID=79)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-214\" />",
+ "name": "Shanrigol Behemoth",
+ "npc": false,
+ "perception": 18,
+ "rarity": "uncommon",
+ "reflex_save": 18,
+ "release_date": "2021-02-24",
+ "resistance": {
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "slashing 10, piercing 10",
+ "resistance_raw": "slashing 10, piercing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 85</row>\r\n\r\n**Creature Family** [Shanrigol](/MonsterFamilies.aspx?ID=214)\r\n\r\n<row gap=\"medium\">\r\n**HP** 140 ( negative healing )\r\n\r\n**AC** 27\r\n\r\n**Fort** +21\r\n\r\n**Ref** +18\r\n\r\n**Will** +16\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShanrigols that grow with the additions of many living victims can become truly enormous in size and pose a greater danger in their expanding hunting …\r\n</summary>",
+ "sense": " darkvision ,  tremorsense  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 30 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +20",
+  "Stealth +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +20, [Stealth](/Skills.aspx?ID=15) +16",
+ "source": [
+  "Pathfinder #164: Hands of the Devil"
+ ],
+ "source_raw": [
+  "Pathfinder #164: Hands of the Devil pg. 85"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 85</row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30,
+  "swim": 20
+ },
+ "speed_markdown": "30 feet, climb 20 feet, swim 20 feet",
+ "speed_raw": "30 feet, climb 20 feet, swim 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Abomination Vaults",
+ "stealth": "16",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Shanrigols that grow with the additions of many living victims can become truly enormous in size and pose a greater danger in their expanding hunting …",
+ "summary_markdown": "Shanrigols that grow with the additions of many living victims can become truly enormous in size and pose a greater danger in their expanding hunting …",
+ "text": " Shanrigol Behemoth Shanrigols that grow with the additions of many living victims can become truly enormous in size and pose a greater danger in their expanding hunting territories. Subterranean communities have collapsed entire tunnels to prevent the creatures from reaching their settlements. Many shanrigol behemoths absorb enough brain matter to form crude intelligences and take a serpentine or humanoid shape. They're more varied in their abilities than shanrigol heaps, as they often gain abilities from their constituent creatures. The shanrigol behemoth presented below contains flesh from driders and urdefhans, giving it a web attack and necrotic decay ability. Not all shanrigol behemoths have these two abilities, but should have other abilities to replace them. Recall Knowledge - Aberration (Occultism): DC 28 Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Shanrigol Behemoth Source Pathfinder #164: Hands of the Devil pg. 85 Perception +18; darkvision, tremorsense (imprecise) 30 feet Languages Skills Athletics +20, Stealth +16 Str +7 Dex +4 Con +3 Int -4 Wis +3 Cha -5 --- AC 27 all-around vision Fort +21 Ref +18 Will +16 HP 140 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Resistances slashing 10, piercing 10 Weaknesses positive 10 Necrotic Decay (divine, necromancy, negative) When the shanrigol behemoth dies, its flesh rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 9d6 negative damage to creatures in this area as their flesh curdles and rots as well (DC 27 basic Fortitude save). --- Speed 30 feet, climb 20 feet, swim 20 feet Melee Single Action fleshy slap +21 (Forceful, reach 15 feet), Damage 2d10+11 bludgeoning plus Grab Ranged Single Action bone shard +18 (Agile, range increment 30 feet, versatile P), Damage 1d12+11 bludgeoning Ranged Single Action web +18 (range increment 30 feet), Damage web trap Sapping Squeeze Single Action Requirements The shanrigol has a creature grabbed; Effect The shanrigol squeezes the life essence from its target, dealing 1d10+11 bludgeoning and 1d6 persistent bleed damage (DC 25 basic Fortitude save). The shanrigol regains temporary Hit Points equal to half the amount of bludgeoning damage a single target takes; these temporary Hit Points last for 1 minute. Shred Flesh A shanrigol behemoth's attacks brutally rend its foes. Creatures critically hit by the shanrigol's fleshy slap Strike take an additional 2d6 persistent bleed damage and are enfeebled 1 for as long as they are bleeding. Undulating Step Two Actions The shanrigol separates its flesh from its bones to fit through small spaces. It Strides, ignoring difficult terrain and fitting through tight spaces as though it were a Tiny creature. It can't use any actions other than Undulating Step until it occupies an area large enough for its normal form. Web Trap A creature hit by the shanrigol behemoth's web attack is immobilized and stuck to the nearest surface until it can Escape ",
+ "trait": [
+  "Aberration",
+  "Uncommon",
+  "Undead",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Aberration",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1051",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "positive": 10
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 10",
+ "weakness_raw": " positive  10",
+ "will_save": 16,
+ "wisdom": 3
+}

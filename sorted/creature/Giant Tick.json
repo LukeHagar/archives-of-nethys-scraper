@@ -1,0 +1,90 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 4,
+ "creature_ability": [
+  "Attach",
+  "Blood Drain",
+  "Tick Fever"
+ ],
+ "creature_family": "Tick",
+ "creature_family_markdown": "[Tick](/MonsterFamilies.aspx?ID=156)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 20,
+ "hp_raw": "20",
+ "id": "creature-826",
+ "image": [
+  "/Images/Monsters/Tick_GiantTick.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Tick](/Monsters.aspx?ID=826)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis grotesque tick is the size of a dog and scurries with surprising speed.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Tick_GiantTick.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Giant Tick](/Monsters.aspx?ID=826)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 260 <sup>2.0</sup></row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 20\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, climb 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhypostome +8 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+1 plus attach and tick fever\n\n**Attach**   When the giant tick Strikes a creature larger than itself, its barbed hypostome attaches it to that creature. This is similar to [Grabbing](/MonsterAbilities.aspx?ID=18) the creature, but the giant tick moves with that creature rather than holding it in place. The giant tick is [flat-footed](/Conditions.aspx?ID=16) while attached. If the giant tick is killed or pushed away while attached to a creature on which it has used Blood Drain, that creature takes 1 [persistent bleed damage](/Conditions.aspx?ID=29). Escaping the attachment or removing the giant tick in other ways doesn't cause bleed damage.\r\n\r\n**Blood Drain** <actions string=\"Single Action\" />  **Requirements** The giant tick is attached to a creature; **Effect** The giant tick uses its hypostome to drain blood from the creature it's attached to. This deals 1d4 damage, and the giant tick gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a giant tick is [drained 1](/Conditions.aspx?ID=10) until it receives healing (of any kind or amount).\r\n\r\n**Tick Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 17 Fortitude; **Onset** 1 day; **Stage 1** [enfeebled 1](/Conditions.aspx?ID=13) (1 day); **Stage 2** enfeebled 2 (1 day).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-156\" />",
+ "name": "Giant Tick",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 6,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 260 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Tick](/MonsterFamilies.aspx?ID=156)\r\n\r\n<row gap=\"medium\">\r\n**HP** 20\r\n\r\n**AC** 16\r\n\r\n**Fort** +9\r\n\r\n**Ref** +6\r\n\r\n**Will** +4\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis grotesque tick is the size of a dog and scurries with surprising speed.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +6",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 260"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 260 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 15,
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet, climb 15 feet",
+ "speed_raw": "15 feet, climb 15 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 1,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "This grotesque tick is the size of a dog and scurries with surprising speed.",
+ "summary_markdown": "This grotesque tick is the size of a dog and scurries with surprising speed.",
+ "text": " Giant Tick This grotesque tick is the size of a dog and scurries with surprising speed. Recall Knowledge - Animal (Nature): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Giant Tick Source Bestiary 2 pg. 260 2.0 Perception +6; darkvision Languages Skills Athletics +6, Stealth +6 Str +1 Dex +3 Con +4 Int -5 Wis +1 Cha -5 --- AC 16 Fort +9 Ref +6 Will +4 HP 20 --- Speed 15 feet, climb 15 feet Melee Single Action hypostome +8 (Finesse), Damage 1d6+1 plus attach and tick fever Attach When the giant tick Strikes a creature larger than itself, its barbed hypostome attaches it to that creature. This is similar to Grabbing the creature, but the giant tick moves with that creature rather than holding it in place. The giant tick is flat-footed while attached. If the giant tick is killed or pushed away while attached to a creature on which it has used Blood Drain, that creature takes 1 persistent bleed damage. Escaping the attachment or removing the giant tick in other ways doesn't cause bleed damage. Blood Drain Single Action Requirements The giant tick is attached to a creature; Effect The giant tick uses its hypostome to drain blood from the creature it's attached to. This deals 1d4 damage, and the giant tick gains temporary Hit Points equal to the damage dealt. A creature that has its blood drained by a giant tick is drained 1 until it receives healing (of any kind or amount). Tick Fever (Disease) Saving Throw DC 17 Fortitude; Onset 1 day; Stage 1 enfeebled 1 (1 day); Stage 2 enfeebled 2 (1 day). ",
+ "trait": [
+  "Animal",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=826",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 4,
+ "wisdom": 1
+}

@@ -1,0 +1,56 @@
+{
+ "ac": 10,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 22  Survival  (trained) to reinforce the dirt so it's safe to walk on, or DC 18  Thievery  (trained) to collapse the trap from a safe distance.",
+ "exclude_from_search": false,
+ "fortitude_save": 2,
+ "hardness": 1,
+ "hardness_raw": "1",
+ "hazard_type": "Trap",
+ "hp": 6,
+ "hp_raw": "6 (BT 3)",
+ "id": "hazard-362",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 4,
+ "markdown": "<title level=\"1\" right=\"Hazard 4\" pfs=\"\">[Valmar's Pit Trap](/Hazards.aspx?ID=362)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 49</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThe ground here is made of loosely packed soil that, when stepped upon, collapses.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 25 (expert)\r\n\r\n**Disable**\r\nDC 22 [Survival](/Skills.aspx?ID=16) (trained) to reinforce the dirt so it's safe to walk on, or DC 18 [Thievery](/Skills.aspx?ID=17) (trained) to collapse the trap from a safe distance.\n\n<column gap=\"tiny\">\r\n\r\n**AC** 10, **Fort** +2, **Ref** +3\r\n\r\n**Hardness**\r\n1\r\n\r\n**HP**\r\n6 (BT 3)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Collapse** <actions string=\"Reaction\" /> **Trigger** A creature steps onto any space in the dotted area on the map, or at least 30 pounds of pressure is put on the area; **Effect** The ground gives way. The triggering creature falls 20 feet down the hole, taking 10 bludgeoning damage and landing prone in area **E10**. A creature can [Grab an Edge](/Actions.aspx?ID=95) to avoid falling.\n\n---\r\n**Reset**\r\nCreatures can still fall into the pit, but the soil must be replaced for the trap to become hidden again.",
+ "name": "Valmar's Pit Trap",
+ "rarity": "common",
+ "reflex_save": 3,
+ "release_date": "2023-02-22",
+ "reset": "Creatures can still fall into the pit, but the soil must be replaced for the trap to become hidden again.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 49</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ground here is made of loosely packed soil that, when stepped upon, collapses.\r\n</summary>",
+ "source": [
+  "Pathfinder #188: They Watched the Stars"
+ ],
+ "source_raw": [
+  "Pathfinder #188: They Watched the Stars pg. 49"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 49</row>",
+ "speed": {},
+ "stealth": "DC 25 (expert)",
+ "summary": "The ground here is made of loosely packed soil that, when stepped upon, collapses.",
+ "summary_markdown": "The ground here is made of loosely packed soil that, when stepped upon, collapses.",
+ "text": " Valmar's Pit Trap Source Pathfinder #188: They Watched the Stars pg. 49 Complexity Simple The ground here is made of loosely packed soil that, when stepped upon, collapses. --- Stealth DC 25 (expert) Disable DC 22 Survival (trained) to reinforce the dirt so it's safe to walk on, or DC 18 Thievery (trained) to collapse the trap from a safe distance. AC 10, Fort +2, Ref +3 Hardness 1 HP 6 (BT 3) Immunities critical hits, object immunities, precision damage Collapse Reaction Trigger A creature steps onto any space in the dotted area on the map, or at least 30 pounds of pressure is put on the area; Effect The ground gives way. The triggering creature falls 20 feet down the hole, taking 10 bludgeoning damage and landing prone in area E10 . A creature can Grab an Edge to avoid falling. --- Reset Creatures can still fall into the pit, but the soil must be replaced for the trap to become hidden again.",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=362",
+ "weakness": {}
+}

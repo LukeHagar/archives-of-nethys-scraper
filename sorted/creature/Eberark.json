@@ -1,0 +1,101 @@
+{
+ "ac": 30,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Arrogant Taunts",
+  "Incendiary Spit",
+  "Trail of Flame"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 275,
+ "hp_raw": "275",
+ "id": "creature-1000",
+ "image": [
+  "/Images/Monsters/Eberark.png"
+ ],
+ "immunity": [
+  "fire"
+ ],
+ "immunity_markdown": "fire",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Ignan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Ignan](/Languages.aspx?ID=18)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Eberark](/Monsters.aspx?ID=1000)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe terrifying apex predators known as eberarks torment their prey, spewing oil from their mouths that they can then set alight. Commonly called flint beasts, eberarks drag their overlarge claws (four on each paw) along the ground as they move, creating showers of sparks with every grating step. Incredibly vain, eberarks relish displaying their dominance over other intelligent beings. Some eberarks conquer small settlements, demanding tribute from residents and travelers, or lead bands of violent brigands.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Eberark.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Eberark](/Monsters.aspx?ID=1000)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #159: All or Nothing](/Sources.aspx?ID=48) pg. 82</row>\n\n**Perception** +19; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Ignan](/Languages.aspx?ID=18)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +21, [Intimidation](/Skills.aspx?ID=7) +21, [Stealth](/Skills.aspx?ID=15) +18, [Survival](/Skills.aspx?ID=16) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 275\n\n**Immunities**\r\nfire\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23 ([Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+11 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170), [Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+11 slashing plus 1d4 fire\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspit +21 ([Agile](/Traits.aspx?ID=170), [range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** incendiary spit\n\n**Arrogant Taunts** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The eberark utters crude insults and growls threateningly. Each creature within 30 feet must attempt a DC 27 Will save. The creature is then temporarily immune for 10 minutes. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [frightened 1](/Conditions.aspx?ID=19). <br />**Failure** The creature is frightened 2 and [paralyzed](/Conditions.aspx?ID=28) for 1 round. <br />**Critical Failure** The creature is frightened 4 and paralyzed for 1d4 rounds.\r\n\r\n**Incendiary Spit**   A creature hit by the eberark's spit becomes coated in a slippery, flammable oil. The creature must succeed at a DC 27 Reflex save or become [clumsy 2](/Conditions.aspx?ID=3) for as long as they are coated in incendiary spit. Creatures affected by incendiary spit that take fire damage catch fire, taking 3d6 [persistent fire damage](/Conditions.aspx?ID=29). Once this persistent fire damage ends, the spit has burned away. The spit also wears off naturally after one hour or can be washed off with soap, water, and one minute of work.\r\n\r\n**Trail of Flame** <actions string=\"Two Actions\" /> ([Fire](/Traits.aspx?ID=72)) The eberark Strides twice, leaving a trail of magical fire behind it as it moves. Squares the eberark moves through catch fire, creating a 5-foot-tall wall of flame that burns for 1 round. The wall of flame [conceals](/Conditions.aspx?ID=4) creatures and objects on the other side of it. Any creature that enters or starts its turn in the wall of flame takes 6d6 fire damage (DC 27 basic Reflex save).\r\n\r\n</column>",
+ "name": "Eberark",
+ "npc": false,
+ "perception": 19,
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2020-09-15",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #159: All or Nothing](/Sources.aspx?ID=48) pg. 82</row>\n\n<row gap=\"medium\">\r\n**HP** 275\r\n\r\n**AC** 30\r\n\r\n**Fort** +22\r\n\r\n**Ref** +19\r\n\r\n**Will** +16\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe terrifying apex predators known as eberarks torment their prey, spewing oil from their mouths that they can then set alight. Commonly called …\r\n</summary>",
+ "sense": " low-light vision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Athletics +21",
+  "Intimidation +21",
+  "Stealth +18",
+  "Survival +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Athletics](/Skills.aspx?ID=3) +21, [Intimidation](/Skills.aspx?ID=7) +21, [Stealth](/Skills.aspx?ID=15) +18, [Survival](/Skills.aspx?ID=16) +19",
+ "source": [
+  "Pathfinder #159: All or Nothing"
+ ],
+ "source_raw": [
+  "Pathfinder #159: All or Nothing pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #159: All or Nothing](/Sources.aspx?ID=48) pg. 82</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "stealth": "18",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The terrifying apex predators known as eberarks torment their prey, spewing oil from their mouths that they can then set alight. Commonly called …",
+ "summary_markdown": "The terrifying apex predators known as eberarks torment their prey, spewing oil from their mouths that they can then set alight. Commonly called …",
+ "text": " Eberark The terrifying apex predators known as eberarks torment their prey, spewing oil from their mouths that they can then set alight. Commonly called flint beasts, eberarks drag their overlarge claws (four on each paw) along the ground as they move, creating showers of sparks with every grating step. Incredibly vain, eberarks relish displaying their dominance over other intelligent beings. Some eberarks conquer small settlements, demanding tribute from residents and travelers, or lead bands of violent brigands. Recall Knowledge - Beast (Arcana, Nature): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Eberark Source Pathfinder #159: All or Nothing pg. 82 Perception +19; low-light vision, scent (imprecise) 30 feet Languages Common, Ignan Skills Acrobatics +18, Athletics +21, Intimidation +21, Stealth +18, Survival +19 Str +7 Dex +4 Con +5 Int +2 Wis +3 Cha +3 --- AC 30 Fort +22 Ref +19 Will +16 HP 275 Immunities fire --- Speed 40 feet Melee Single Action jaws +23 (Magical, reach 15 feet), Damage 2d10+11 piercing Melee Single Action claw +23 (Agile, Fire, Magical, reach 15 feet), Damage 2d6+11 slashing plus 1d4 fire Ranged Single Action spit +21 (Agile, range increment 30 feet), Damage incendiary spit Arrogant Taunts Single Action (Auditory, Emotion, Fear, Mental) The eberark utters crude insults and growls threateningly. Each creature within 30 feet must attempt a DC 27 Will save. The creature is then temporarily immune for 10 minutes. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2 and paralyzed for 1 round. Critical Failure The creature is frightened 4 and paralyzed for 1d4 rounds. Incendiary Spit A creature hit by the eberark's spit becomes coated in a slippery, flammable oil. The creature must succeed at a DC 27 Reflex save or become clumsy 2 for as long as they are coated in incendiary spit. Creatures affected by incendiary spit that take fire damage catch fire, taking 3d6 persistent fire damage. Once this persistent fire damage ends, the spit has burned away. The spit also wears off naturally after one hour or can be washed off with soap, water, and one minute of work. Trail of Flame Two Actions (Fire) The eberark Strides twice, leaving a trail of magical fire behind it as it moves. Squares the eberark moves through catch fire, creating a 5-foot-tall wall of flame that burns for 1 round. The wall of flame conceals creatures and objects on the other side of it. Any creature that enters or starts its turn in the wall of flame takes 6d6 fire damage (DC 27 basic Reflex save). ",
+ "trait": [
+  "Beast",
+  "Fire",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Fire](/Traits.aspx?ID=72)",
+ "trait_raw": [
+  "Beast",
+  "Fire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1000",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 3
+}

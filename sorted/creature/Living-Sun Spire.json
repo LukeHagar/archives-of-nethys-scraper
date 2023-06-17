@@ -1,0 +1,104 @@
+{
+ "ac": 36,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 8,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Construct Armor",
+  "Steal the Sun",
+  "Beam of the Seven Suns",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hardness": 14,
+ "hardness_raw": "14",
+ "hp": 200,
+ "hp_raw": "200",
+ "id": "creature-1706",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "fire",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [fire](/Traits.aspx?ID=72), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Living-Sun Spire](/Monsters.aspx?ID=1706)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 31\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 29\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 26\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Living-Sun Spire](/Monsters.aspx?ID=1706)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 57</row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +2\r\n\r\n**Con** +8\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 (32 when broken)\r\n\r\n**Fort** +29 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +17 \r\n\r\nconstruct armor\r\n</row>\r\n\r\n**HP** 200\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [fire](/Traits.aspx?ID=72), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Construct Armor** Like normal objects, the living sun-spire has Hardness. This Hardness reduces any damage the sun-spire takes by an amount equal to the Hardness. Once a sun-spire is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 32.<br />**Steal the Sun** <actions string=\"Reaction\" /> ([divine](/Traits.aspx?ID=48), [evocation](/Traits.aspx?ID=65)) **Trigger** A creature within 30 feet of the sun-spire begins to Cast a Spell that has the [fire](/Traits.aspx?ID=72) or [light](/Traits.aspx?ID=100) trait; **Effect** The sun-spire attempts to redirect the energy from the triggering effect into its sunlight stores. The sun-spire attempts to [counteract](/Rules.aspx?ID=371) the triggering spell with a +22 counteract bonus. If it successfully counteracts the spell, the sun-spire's sunlight stores are empowered. While empowered, the sun-spire deals an additional 2d8 fire damage with all of its attacks and abilities. The sun-spire remains empowered until the end of its next turn.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\narm +28 ([Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+11 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspear +28 ([Magical](/Traits.aspx?ID=103), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+11 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nsunfire beam +28 ([Fire](/Traits.aspx?ID=72), [Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [range increment 100 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+11 fire\n\n**Beam of the Seven Suns** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) The sun-spire collects solar energy and uses the energy to create a deadly beam of fire. It fires the beam in a 120-foot line, dealing 11d8 fire damage to all creatures in the line (DC 33 [basic](/Rules.aspx?ID=329) Reflex save). The concentrated beam ignites everything in its path, including the air, creating a wall of burning flame along the line that continues to burn until the end of the sun-spire's next turn. This wall has the effects of a 5th-level [_wall of fire_](/Spells.aspx?ID=362) spell, dealing 5d6 fire damage to any creature that crosses the wall or occupies the wall's area at the start of its turn. The sun-spire can't use the Beam of the Seven Suns again for 1d4 rounds, although rounds it's not in sunlight don't count toward this number.\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Large or smaller, arm, DC 33\r\n\r\n</column>",
+ "name": "Living-Sun Spire",
+ "npc": false,
+ "perception": 21,
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2021-10-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 57</row>\n\n<row gap=\"medium\">\r\n**HP** 200\r\n\r\n**AC** 36\r\n\r\n**Fort** +29\r\n\r\n**Ref** +19\r\n\r\n**Will** +17\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +30"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +30",
+ "source": [
+  "Pathfinder #172: Secrets of the Temple City"
+ ],
+ "source_raw": [
+  "Pathfinder #172: Secrets of the Temple City pg. 57"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 57</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Living-Sun Spire Recall Knowledge - Construct (Arcana, Crafting): DC 31 Unspecific Lore : DC 29 Specific Lore : DC 26 Living-Sun Spire Source Pathfinder #172: Secrets of the Temple City pg. 57 Perception +21; darkvision Languages Skills Athletics +30 Str +9 Dex +2 Con +8 Int -5 Wis +0 Cha -5 --- AC 36 (32 when broken) Fort +29 Ref +19 Will +17 construct armor HP 200 Immunities death effects, disease, doomed, drained, fatigued, fire, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Attack of Opportunity Reaction Construct Armor Like normal objects, the living sun-spire has Hardness. This Hardness reduces any damage the sun-spire takes by an amount equal to the Hardness. Once a sun-spire is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 32. Steal the Sun Reaction (divine, evocation) Trigger A creature within 30 feet of the sun-spire begins to Cast a Spell that has the fire or light trait; Effect The sun-spire attempts to redirect the energy from the triggering effect into its sunlight stores. The sun-spire attempts to counteract the triggering spell with a +22 counteract bonus. If it successfully counteracts the spell, the sun-spire's sunlight stores are empowered. While empowered, the sun-spire deals an additional 2d8 fire damage with all of its attacks and abilities. The sun-spire remains empowered until the end of its next turn. --- Speed 20 feet Melee Single Action arm +28 (Magical, reach 15 feet), Damage 3d12+11 bludgeoning plus Grab Melee Single Action spear +28 (Magical, reach 20 feet), Damage 3d12+11 piercing Ranged Single Action sunfire beam +28 (Fire, Evocation, Magical, range increment 100 feet), Damage 3d8+11 fire Beam of the Seven Suns Two Actions (Divine, Evocation, Fire) The sun-spire collects solar energy and uses the energy to create a deadly beam of fire. It fires the beam in a 120-foot line, dealing 11d8 fire damage to all creatures in the line (DC 33 basic Reflex save). The concentrated beam ignites everything in its path, including the air, creating a wall of burning flame along the line that continues to burn until the end of the sun-spire's next turn. This wall has the effects of a 5th-level wall of fire spell, dealing 5d6 fire damage to any creature that crosses the wall or occupies the wall's area at the start of its turn. The sun-spire can't use the Beam of the Seven Suns again for 1d4 rounds, although rounds it's not in sunlight don't count toward this number. Trample Three Actions Large or smaller, arm, DC 33 ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108)",
+ "trait_raw": [
+  "Construct",
+  "Mindless"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1706",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 0
+}

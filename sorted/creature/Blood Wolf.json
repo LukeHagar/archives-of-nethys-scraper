@@ -1,0 +1,100 @@
+{
+ "ac": 18,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 2,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Aggressive Rush",
+  "Pack Attack"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 50,
+ "hp_raw": "50",
+ "id": "creature-2007",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"\">[Blood Wolf](/Monsters.aspx?ID=2007)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Blood Wolf](/Monsters.aspx?ID=2007)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 43</row>\n\n**Perception** +9; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) ([imprecise](/Rules.aspx?ID=412)) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +10, [Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 50\n\n**Resistances**\r\n[electricity](/Traits.aspx?ID=56) 5, [poison](/Traits.aspx?ID=126) 5\r\n\r\n**Weaknesses**\r\ngood 3\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +12,\r\n**Damage** 1d8+5 piercing plus [Knockdown](/MonsterAbilities.aspx?ID=20)\n\n**Aggressive Rush** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The blood wolf moves up to half its Speed. This movement doesn't trigger reactions. At the end of the movement, it attempts an [Intimidation](/Skills.aspx?ID=7) check to [Demoralize](/Actions.aspx?ID=53) a target within 5 feet of it. This Intimidation check doesn't take the –4 circumstance penalty for the wolf not speaking a language.\r\n\r\n**Pack Attack**   The blood wolf's Strikes deal an extra 1d6 damage to creatures within reach of at least two of the wolf's allies.\r\n\r\n</column>",
+ "name": "Blood Wolf",
+ "npc": false,
+ "perception": 9,
+ "rarity": "uncommon",
+ "reflex_save": 9,
+ "release_date": "2020-01-30",
+ "resistance": {
+  "electricity": 5,
+  "poison": 5
+ },
+ "resistance_markdown": "[electricity](/Traits.aspx?ID=56) 5, [poison](/Traits.aspx?ID=126) 5",
+ "resistance_raw": " electricity  5,  poison  5",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 43</row>\n\n<row gap=\"medium\">\r\n**HP** 50\r\n\r\n**AC** 18\r\n\r\n**Fort** +11\r\n\r\n**Ref** +9\r\n\r\n**Will** +7\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ,  scent  ( imprecise ) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) ([imprecise](/Rules.aspx?ID=412)) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +10",
+  "Intimidation +8",
+  "Stealth +8",
+  "Survival +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +10, [Intimidation](/Skills.aspx?ID=7) +8, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +9",
+ "source": [
+  "Pathfinder #151: The Show Must Go On"
+ ],
+ "source_raw": [
+  "Pathfinder #151: The Show Must Go On pg. 43"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 43</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "stealth": "8",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Blood Wolf Recall Knowledge - Animal (Nature): DC 20 Recall Knowledge - Fiend (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Blood Wolf Source Pathfinder #151: The Show Must Go On pg. 43 Perception +9; darkvision, scent (imprecise) 30 feet Languages Skills Acrobatics +8, Athletics +10, Intimidation +8, Stealth +8, Survival +9 Str +5 Dex +3 Con +2 Int -4 Wis +2 Cha -1 --- AC 18 Fort +11 Ref +9 Will +7 HP 50 Resistances electricity 5, poison 5 Weaknesses good 3 Attack of Opportunity Reaction --- Speed 30 feet Melee Single Action jaws +12, Damage 1d8+5 piercing plus Knockdown Aggressive Rush Single Action (Move) The blood wolf moves up to half its Speed. This movement doesn't trigger reactions. At the end of the movement, it attempts an Intimidation check to Demoralize a target within 5 feet of it. This Intimidation check doesn't take the –4 circumstance penalty for the wolf not speaking a language. Pack Attack The blood wolf's Strikes deal an extra 1d6 damage to creatures within reach of at least two of the wolf's allies. ",
+ "trait": [
+  "Animal",
+  "Fiend",
+  "Uncommon",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Fiend](/Traits.aspx?ID=70), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Animal",
+  "Fiend",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2007",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "good": 3
+ },
+ "weakness_markdown": "good 3",
+ "weakness_raw": "good 3",
+ "will_save": 7,
+ "wisdom": 2
+}

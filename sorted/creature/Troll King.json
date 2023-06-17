@@ -1,0 +1,101 @@
+{
+ "ac": 28,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 7,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Vigorous Shake",
+  "Rend",
+  "Forced Regeneration",
+  "Primordial Roar",
+  "Unstoppable Charge"
+ ],
+ "creature_family": "Troll",
+ "creature_family_markdown": "[Troll](/MonsterFamilies.aspx?ID=96)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 220,
+ "hp_raw": "220",
+ "id": "creature-396",
+ "image": [
+  "/Images/Monsters/Troll_TrollKing.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Jotun"
+ ],
+ "language_markdown": "[Jotun](/Languages.aspx?ID=8)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Troll King](/Monsters.aspx?ID=396)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSome trolls have learned the skills necessary to survive well beyond the typical life expectancy for their kind and rally others to follow their lead. These champions develop a number of talents that make them worthy leaders and potent hunters—namely their abilities to willingly boost the rate of their regeneration and to shake off the acid and fire that would hinder it, not to mention a bestial roar that can send would-be predators scurrying off. Troll kings possess a cunning far beyond their younger kin— they know to keep their allies close, and their enemies even closer. If a troll king so much as suspects that one of its followers is plotting to usurp it, retribution is swift and fatal.\r\n\r\n<column gap=\"tiny\">\n\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Troll_TrollKing.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Troll King](/Monsters.aspx?ID=396)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 315</row>\n\n**Perception** +19; darkvision\r\n\r\n**Languages**\r\n[Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +21, [Intimidation](/Skills.aspx?ID=7) +22, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +7\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 220\r\n\r\n, regeneration 30 (deactivated by acid or fire)\n\n**Weaknesses**\r\nfire 10\r\n\r\n**Attack of Opportunity** <actions string=\"Reaction\" /><br /> **Vigorous Shake** <actions string=\"Reaction\" /> **Trigger** The troll king takes persistent acid or fire damage. **Effect** The troll king shakes itself to remove persistent acid or fire effects. The troll king immediately attempts a DC 15 flat check to end the persistent damage that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+13 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+13 slashing\n\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw\r\n\r\n**Forced Regeneration** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) **Requirements** The troll king’s regeneration is not currently deactivated. **Effect** The troll king regains 15 HP.\r\n\r\n**Primordial Roar** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106)) The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 29 Will save. The creature is then temporarily immune for 10 minutes.<br />**Critical Success** The creature is unaffected.<br />**Success** The creature is frightened 1.<br />**Failure** The creature is frightened 2.<br />**Critical Failure** The creature is frightened 3.\r\n\r\n**Unstoppable Charge** <actions string=\"Three Actions\" />  The troll king Strides twice in a straight line. It can make up to two claw Strikes during this movement and one jaws Strike at the end of its movement. It can’t Strike the same creature more than once.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-96\" />",
+ "name": "Troll King",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 315</row>\r\n\r\n**Creature Family** [Troll](/MonsterFamilies.aspx?ID=96)\r\n\r\n<row gap=\"medium\">\r\n**HP** 220\r\n\r\n**AC** 28\r\n\r\n**Fort** +23\r\n\r\n**Ref** +17\r\n\r\n**Will** +15\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome trolls have learned the skills necessary to survive well beyond the typical life expectancy for their kind and rally others to follow their …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +21",
+  "Intimidation +22",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +21, [Intimidation](/Skills.aspx?ID=7) +22, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 315"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 315</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Some trolls have learned the skills necessary to survive well beyond the typical life expectancy for their kind and rally others to follow their …",
+ "summary_markdown": "Some trolls have learned the skills necessary to survive well beyond the typical life expectancy for their kind and rally others to follow their …",
+ "text": " Troll King Some trolls have learned the skills necessary to survive well beyond the typical life expectancy for their kind and rally others to follow their lead. These champions develop a number of talents that make them worthy leaders and potent hunters—namely their abilities to willingly boost the rate of their regeneration and to shake off the acid and fire that would hinder it, not to mention a bestial roar that can send would-be predators scurrying off. Troll kings possess a cunning far beyond their younger kin— they know to keep their allies close, and their enemies even closer. If a troll king so much as suspects that one of its followers is plotting to usurp it, retribution is swift and fatal. Unspecific Lore : DC 25 Specific Lore : DC 22 Troll King Source Bestiary pg. 315 Perception +19; darkvision Languages Jotun Skills Athletics +21, Intimidation +22, Survival +17 Str +7 Dex +3 Con +7 Int -1 Wis +1 Cha +4 --- AC 28 Fort +23 Ref +17 Will +15 HP 220 , regeneration 30 (deactivated by acid or fire) Weaknesses fire 10 Attack of Opportunity Reaction Vigorous Shake Reaction Trigger The troll king takes persistent acid or fire damage. Effect The troll king shakes itself to remove persistent acid or fire effects. The troll king immediately attempts a DC 15 flat check to end the persistent damage that triggered this reaction. If the troll king succeeds at this check, it can immediately use Primordial Roar as part of this reaction. --- Speed 30 feet Melee Single Action jaws +23 (reach 10 feet), Damage 2d12+13 piercing Melee Single Action claw +23 (Agile, reach 10 feet), Damage 2d8+13 slashing Rend Single Action claw Forced Regeneration Single Action (Concentrate) Requirements The troll king’s regeneration is not currently deactivated. Effect The troll king regains 15 HP. Primordial Roar Single Action (Auditory, Emotion, Fear, Mental) The troll king unleashes a bestial roar. Each non-troll creature within 100 feet must attempt a DC 29 Will save. The creature is then temporarily immune for 10 minutes. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure The creature is frightened 3. Unstoppable Charge Three Actions The troll king Strides twice in a straight line. It can make up to two claw Strikes during this movement and one jaws Strike at the end of its movement. It can’t Strike the same creature more than once. ",
+ "trait": [
+  "Giant",
+  "Troll",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Troll](/Traits.aspx?ID=241)",
+ "trait_raw": [
+  "Giant",
+  "Troll"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=396",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 15,
+ "wisdom": 1
+}

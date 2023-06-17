@@ -1,0 +1,118 @@
+{
+ "ac": 26,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Caster Link",
+  "Find Target",
+  "Drain Soul",
+  "Mind-Numbing Touch"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 80,
+ "hp_raw": "80",
+ "id": "creature-811",
+ "image": [
+  "/Images/Monsters/SoulEater.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "sleep"
+ ],
+ "immunity_markdown": "critical hits, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -1,
+ "language": [
+  "Daemonic"
+ ],
+ "language_markdown": "[Daemonic](/Languages.aspx?ID=31)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Soul Eater](/Monsters.aspx?ID=811)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nOnly the most desperate or foolhardy conjurers call upon the aid of these strange fiends from the inky swamps of [Abaddon](/Planes.aspx?ID=12).\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SoulEater.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Soul Eater](/Monsters.aspx?ID=811)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 247 <sup>2.0</sup></row>\n\n**Perception** +15; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Daemonic](/Languages.aspx?ID=31)\r\n\r\n**Skills**\r\n[Abaddon Lore](/Skills.aspx?ID=8) +12, [Acrobatics](/Skills.aspx?ID=1) +17, [Intimidation](/Skills.aspx?ID=7) +15, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Caster Link** ([detection](/Traits.aspx?ID=43), [divine](/Traits.aspx?ID=48), [divination](/Traits.aspx?ID=47)) A conjured soul eater forms a mental link with its conjurer. While both are on the same plane, the soul eater knows the location of its conjurer per its find target ability. If the soul eater's target dies before the soul eater can drain its soul, or if the soul eater is defeated (but not destroyed) by the target, the soul eater returns to its conjurer and tries to kill them.<br />**Find Target** ([detection](/Traits.aspx?ID=43), [divine](/Traits.aspx?ID=48), [divination](/Traits.aspx?ID=47)) When a soul eater is conjured to the Material Plane to find a specific creature, it gains the benefits of a 5th-level [_locate_](/Spells.aspx?ID=173) spell that isn't blocked by lead or running water. The conjurer must have seen the target and must speak the target's name while conjuring the soul eater in order to grant this ability.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 80\n\n**Immunities**\r\ncritical hits, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [sleep](/Traits.aspx?ID=145)\r\n\r\n**Resistances**\r\nphysical 10\r\n\r\n**Weaknesses**\r\ngood 10\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +19 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+3 slashing plus 2d6 negative and mind-numbing touch\n\n**Drain Soul** <actions string=\"Three Actions\" /> ([Death](/Traits.aspx?ID=40), [Divine](/Traits.aspx?ID=48), [Manipulate](/Traits.aspx?ID=104), [Necromancy](/Traits.aspx?ID=117)) **Requirements** The soul eater is adjacent to a [dying](/Conditions.aspx?ID=11) creature; **Effect** The soul eater attempts to devour the dying creature's soul. The creature must attempt a DC 25 Will save. A creature that dies as a result of Drain Soul can't be restored to life except by a spell or ritual of 8th level or higher. If the soul eater that used Drain Soul on a creature is slain within 100 feet of that creature's corpse and the creature has been dead no longer than 1 minute, the creature's soul returns to its body and is restored to life, leaving the creature [unconscious](/Conditions.aspx?ID=38) and dying 1 but no longer [doomed](/Conditions.aspx?ID=9). <br />**Critical Success** The creature is unaffected. <br />**Success** The creature becomes doomed 1, or increases its doomed value by 1 if it was already doomed. <br />**Failure** As success, but doomed 2. <br />**Critical Failure** As success, but doomed 3.\r\n\r\n**Mind-Numbing Touch**  ([Curse](/Traits.aspx?ID=38), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When a soul eater hits a creature with its claw Strike, the creature must succeed at a DC 23 Fortitude save or become [stupefied 1](/Conditions.aspx?ID=37) (stupefied 2 on a critical failure). Further damage dealt by the soul eater increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4. This condition value decreases by 1 each time the creature gets a full night's rest. As long as the creature is stupefied by a soul eater, rest does not decrease any [doomed](/Conditions.aspx?ID=9) value that creature might have.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Soul Gluttons</title>\r\n\r\nAs if soul eaters weren't frightening enough, there exists on [Abaddon](/Planes.aspx?ID=12) much larger variants of these monsters, known as soul gluttons. Appearing as roiling, inky black clouds and possessing a half dozen arms, soul gluttons are much deadlier than their smaller kin and are also much more dangerous to conjure, as they have a disturbing knack for wriggling out of a conjurer's control.\r\n</aside>",
+ "name": "Soul Eater",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 19,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10",
+ "resistance_raw": "physical 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 247 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 80\r\n\r\n**AC** 26\r\n\r\n**Fort** +13\r\n\r\n**Ref** +19\r\n\r\n**Will** +15\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOnly the most desperate or foolhardy conjurers call upon the aid of these strange fiends from the inky swamps of  Abaddon .\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Abaddon Lore +12",
+  "Acrobatics +17",
+  "Intimidation +15",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Abaddon Lore](/Skills.aspx?ID=8) +12, [Acrobatics](/Skills.aspx?ID=1) +17, [Intimidation](/Skills.aspx?ID=7) +15, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 247"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 247 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 60,
+  "land": 25,
+  "max": 60
+ },
+ "speed_markdown": "25 feet, fly 60 feet",
+ "speed_raw": "25 feet, fly 60 feet",
+ "spell_markdown": "",
+ "stealth": "17",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Only the most desperate or foolhardy conjurers call upon the aid of these strange fiends from the inky swamps of  Abaddon .",
+ "summary_markdown": "Only the most desperate or foolhardy conjurers call upon the aid of these strange fiends from the inky swamps of  Abaddon .",
+ "text": " Soul Eater Only the most desperate or foolhardy conjurers call upon the aid of these strange fiends from the inky swamps of Abaddon. Recall Knowledge - Fiend (Religion): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Soul Eater Source Bestiary 2 pg. 247 2.0 Perception +15; greater darkvision Languages Daemonic Skills Abaddon Lore +12, Acrobatics +17, Intimidation +15, Stealth +17 Str +0 Dex +6 Con +4 Int -1 Wis +4 Cha +4 Caster Link (detection, divine, divination) A conjured soul eater forms a mental link with its conjurer. While both are on the same plane, the soul eater knows the location of its conjurer per its find target ability. If the soul eater's target dies before the soul eater can drain its soul, or if the soul eater is defeated (but not destroyed) by the target, the soul eater returns to its conjurer and tries to kill them. Find Target (detection, divine, divination) When a soul eater is conjured to the Material Plane to find a specific creature, it gains the benefits of a 5th-level locate spell that isn't blocked by lead or running water. The conjurer must have seen the target and must speak the target's name while conjuring the soul eater in order to grant this ability. --- AC 26 Fort +13 Ref +19 Will +15 HP 80 Immunities critical hits, disease, paralyzed, poison, precision, sleep Resistances physical 10 Weaknesses good 10 --- Speed 25 feet, fly 60 feet Melee Single Action claw +19 (Agile, Finesse), Damage 2d6+3 slashing plus 2d6 negative and mind-numbing touch Drain Soul Three Actions (Death, Divine, Manipulate, Necromancy) Requirements The soul eater is adjacent to a dying creature; Effect The soul eater attempts to devour the dying creature's soul. The creature must attempt a DC 25 Will save. A creature that dies as a result of Drain Soul can't be restored to life except by a spell or ritual of 8th level or higher. If the soul eater that used Drain Soul on a creature is slain within 100 feet of that creature's corpse and the creature has been dead no longer than 1 minute, the creature's soul returns to its body and is restored to life, leaving the creature unconscious and dying 1 but no longer doomed. Critical Success The creature is unaffected. Success The creature becomes doomed 1, or increases its doomed value by 1 if it was already doomed. Failure As success, but doomed 2. Critical Failure As success, but doomed 3. Mind-Numbing Touch (Curse, Divine, Necromancy) When a soul eater hits a creature with its claw Strike, the creature must succeed at a DC 23 Fortitude save or become stupefied 1 (stupefied 2 on a critical failure). Further damage dealt by the soul eater increases the stupefied value by 1 on a failed save, to a maximum of stupefied 4. This condition value decreases by 1 each time the creature gets a full night's rest. As long as the creature is stupefied by a soul eater, rest does not decrease any doomed value that creature might have. Soul Gluttons As if soul eaters weren't frightening enough, there exists on Abaddon much larger variants of these monsters, known as soul gluttons. Appearing as roiling, inky black clouds and possessing a half dozen arms, soul gluttons are much deadlier than their smaller kin and are also much more dangerous to conjure, as they have a disturbing knack for wriggling out of a conjurer's control. ",
+ "trait": [
+  "Fiend",
+  "Uncommon",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fiend",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=811",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "good": 10
+ },
+ "weakness_markdown": "good 10",
+ "weakness_raw": "good 10",
+ "will_save": 15,
+ "wisdom": 4
+}

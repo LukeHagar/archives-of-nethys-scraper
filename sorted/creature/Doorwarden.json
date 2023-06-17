@@ -1,0 +1,121 @@
+{
+ "ac": 22,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Reactive Shield",
+  "Shield Block",
+  "Imitate Door",
+  "Slam Doors"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-433",
+ "image": [
+  "/Images/Monsters/Doorwarden.png"
+ ],
+ "immunity": [
+  "bleed",
+  "death effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "necromancy",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious",
+ "intelligence": -1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Doorwarden](/Monsters.aspx?ID=433)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDoorwardens are constructs originally invented by elves. Upon first glance, these guardians resemble ornate doors made entirely of steel or even mithral, but when trespassers try to force their way past, the doorwarden transforms into a skilled and sturdy soldier bearing its “door” like a towering shield.\n\n Perceptive travelers can sometimes spot a door warden before its magic becomes obvious. The door often bears a round disk or similar embossment that resembles a shield boss designed for bashing, and the bar that can be lowered to block entry resembles an arm clasping a longsword by the hilt. The original doorwardens crafted by the elves included a motif of elven armor and a metal mask in the style of Alseta’s own, though other cultures embellish their own doorwardens with their own themes and sometimes even their own ancestral weapons, such as axes for dwarven doorwardens.\n\n Doorwardens sometimes know about the chambers they guard, and they have been known to speak to trespassers, especially elves. But a doorwarden cannot be persuaded to stand aside; it is bound to the portal where it has been placed and will defend it until destroyed.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Doorwarden.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Doorwarden](/Monsters.aspx?ID=433)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 86</row>\n\n**Perception** +13; low-light vision; _[see invisibility_](/Spells.aspx?ID=271)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +0\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[Longsword](/Weapons.aspx?ID=31), [steel shield](/Shields.aspx?ID=3) (Hardness 5, HP 20, BT 10) with [shield boss](/Weapons.aspx?ID=41)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 (24 with shield raised)\r\n\r\n**Fort** +12 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 60\n\n**Immunities**\r\nbleed, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious\r\n\r\n**Resistances**\r\nphysical 5 (except bludgeoning)\n\n**Attack of Opportunity** <actions string=\"Reaction\" /><br /> **Reactive Shield** <actions string=\"Reaction\" /> **Trigger** An enemy hits the doorwarden with a melee Strike. **Effect** The doorwarden can Raise its Shield and gain its shield’s benefit to AC against the triggering attack.<br /> **Shield Block** <actions string=\"Reaction\" /> When the doorwarden uses Shield Block against a melee attack from a creature within 5 feet, it can also push the creature 5 feet.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongsword +15 ([reach 10 feet](/Traits.aspx?ID=192), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d8+9 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshield boss +15,\r\n**Damage** 1d6+9 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndoor +13,\r\n**Damage** 1d4+8 bludgeoning\r\n\r\n**Arcane Innate Spells** DC 19\r\n- **2nd**\r\n[See Invisibility](/Spells.aspx?ID=271)\r\n\r\n**Imitate Door** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) Until the next time it acts, the doorwarden appears to be a door. It has an automatic result of 31 on [Deception](/Skills.aspx?ID=5) checks and DCs to pass as a door.\r\n\r\n**Slam Doors** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32)) The door opens and slams its doors, making two door Strikes against one creature. If both hit, the creature is [grabbed](/Conditions.aspx?ID=20)—stuck between the doors. The doorwarden’s multiple attack penalty doesn’t increase until it has finished both attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">The First Doorwardens</title>\r\n\r\nElves crafted the original doorwardens in honor of their goddess of portals, [Alseta](/Deities.aspx?ID=30). Such doorwardens (such as the one in this volume's adventure) are similar to the one presented here, but they speak Elven instead of Common, wield specially crafted elven curve blades rather than longswords, and may have great knowledge of elven culture and religion.\r\n</aside>",
+ "name": "Doorwarden",
+ "npc": false,
+ "perception": 13,
+ "rarity": "uncommon",
+ "reflex_save": 7,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "physical": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "physical 5 (except bludgeoning)",
+ "resistance_raw": "physical 5 (except bludgeoning)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 86</row>\n\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 22\r\n\r\n**Fort** +12\r\n\r\n**Ref** +7\r\n\r\n**Will** +10\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDoorwardens are constructs originally invented by elves. Upon first glance, these guardians resemble ornate doors made entirely of steel or even …\r\n</summary>",
+ "sense": "low-light vision;   see invisibility  ",
+ "sense_markdown": "low-light vision; _[see invisibility_](/Spells.aspx?ID=271)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Intimidation +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +11",
+ "source": [
+  "Pathfinder #145: Hellknight Hill"
+ ],
+ "source_raw": [
+  "Pathfinder #145: Hellknight Hill pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #145: Hellknight Hill](/Sources.aspx?ID=4) pg. 86</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell": [
+  "See Invisibility"
+ ],
+ "spell_markdown": "[See Invisibility](/Spells.aspx?ID=271)",
+ "spoilers": "Age of Ashes",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Doorwardens are constructs originally invented by elves. Upon first glance, these guardians resemble ornate doors made entirely of steel or even …",
+ "summary_markdown": "Doorwardens are constructs originally invented by elves. Upon first glance, these guardians resemble ornate doors made entirely of steel or even …",
+ "text": " Doorwarden Doorwardens are constructs originally invented by elves. Upon first glance, these guardians resemble ornate doors made entirely of steel or even mithral, but when trespassers try to force their way past, the doorwarden transforms into a skilled and sturdy soldier bearing its “door” like a towering shield. Perceptive travelers can sometimes spot a door warden before its magic becomes obvious. The door often bears a round disk or similar embossment that resembles a shield boss designed for bashing, and the bar that can be lowered to block entry resembles an arm clasping a longsword by the hilt. The original doorwardens crafted by the elves included a motif of elven armor and a metal mask in the style of Alseta’s own, though other cultures embellish their own doorwardens with their own themes and sometimes even their own ancestral weapons, such as axes for dwarven doorwardens. Doorwardens sometimes know about the chambers they guard, and they have been known to speak to trespassers, especially elves. But a doorwarden cannot be persuaded to stand aside; it is bound to the portal where it has been placed and will defend it until destroyed. Recall Knowledge - Construct (Arcana, Crafting): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Doorwarden Source Pathfinder #145: Hellknight Hill pg. 86 Perception +13; low-light vision; see invisibility Languages Common Skills Athletics +13, Intimidation +11 Str +6 Dex +0 Con +3 Int -1 Wis +1 Cha +2 Items Longsword, steel shield (Hardness 5, HP 20, BT 10) with shield boss --- AC 22 (24 with shield raised) Fort +12 Ref +7 Will +10 HP 60 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances physical 5 (except bludgeoning) Attack of Opportunity Reaction Reactive Shield Reaction Trigger An enemy hits the doorwarden with a melee Strike. Effect The doorwarden can Raise its Shield and gain its shield’s benefit to AC against the triggering attack. Shield Block Reaction When the doorwarden uses Shield Block against a melee attack from a creature within 5 feet, it can also push the creature 5 feet. --- Speed 20 feet Melee Single Action longsword +15 (reach 10 feet, versatile P), Damage 1d8+9 slashing Melee Single Action shield boss +15, Damage 1d6+9 bludgeoning Melee Single Action door +13, Damage 1d4+8 bludgeoning Arcane Innate Spells DC 19 - 2nd See Invisibility Imitate Door Single Action (Concentrate) Until the next time it acts, the doorwarden appears to be a door. It has an automatic result of 31 on Deception checks and DCs to pass as a door. Slam Doors Two Actions (Concentrate) The door opens and slams its doors, making two door Strikes against one creature. If both hit, the creature is grabbed—stuck between the doors. The doorwarden’s multiple attack penalty doesn’t increase until it has finished both attacks. The First Doorwardens Elves crafted the original doorwardens in honor of their goddess of portals, Alseta. Such doorwardens (such as the one in this volume's adventure) are similar to the one presented here, but they speak Elven instead of Common, wield specially crafted elven curve blades rather than longswords, and may have great knowledge of elven culture and religion. ",
+ "trait": [
+  "Construct",
+  "Uncommon",
+  "LN",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Construct",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=433",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 1
+}

@@ -1,0 +1,98 @@
+{
+ "ac": 39,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Darting Flight",
+  "Requirement",
+  "Pheromone Spray",
+  "Frenzy",
+  "Pack Attack",
+  "Red Ant Venom"
+ ],
+ "creature_family": "Gigantic Ant",
+ "creature_family_markdown": "[Gigantic Ant](/MonsterFamilies.aspx?ID=304)",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 295,
+ "hp_raw": "295",
+ "id": "creature-1837",
+ "intelligence": -1,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"\">[Alate Ant](/Monsters.aspx?ID=1837)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAlate ants are no less devoted and powerful than red guard ants, but they are slightly smaller in size and have delicate wings that bear them aloft. Alate ants secrete pheromones that addle the minds of the hive's enemies. A hive deploys alate ants as both defenders from aerial threats and as advance scouts.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Alate Ant](/Monsters.aspx?ID=1837)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 72</row>\n\n**Perception** +28; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +32, [Intimidation](/Skills.aspx?ID=7) +28, [Survival](/Skills.aspx?ID=16) +28\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +8\r\n\r\n**Con** +6\r\n\r\n**Int** -1\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +28 \n\n</row>\r\n\r\n**HP** 295\n\n**Darting Flight** <actions string=\"Reaction\" /> **Requirement** The alate ant is flying; **Trigger** The ant is targeted with  an attack by an attacker it can see; **Effect** The ant gains a +2 circumstance bonus to AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 20 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmandibles +32 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d8+10 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +32 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d4+10 piercing plus red ant venom\n\n**Pheromone Spray** <actions string=\"Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106)) The alate ant sprays a cloud of pheromones in a 15-foot cone. Non-ant creatures in the cone must succeed at a DC 37 Will save or become [confused](/Conditions.aspx?ID=5) for 1d4 rounds (1 minute on a critical failure). It can't use Pheromone Spray again for 1d4 rounds.\r\n\r\n**Frenzy** <actions string=\"Single Action\" />  **Frequency** Once per day; **Effect** The alate ant enters a state of jittery agitation. It becomes [quickened](/Conditions.aspx?ID=32) for 3 rounds and can use the extra action only to [Fly](/Actions.aspx?ID=94) or Strike.\r\n\r\n**Pack Attack**   The alate ant deals an additional 3d6 precision damage to any creature within reach of at least two of the ant's allies.\r\n\r\n**Red Ant Venom**  ([Poison](/Traits.aspx?ID=126)) While a creature is enfeebled from this poison, it is [confused](/Conditions.aspx?ID=5) (this confusion is an [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), and [mental](/Traits.aspx?ID=106) effect). **Saving Throw** DC 37 Fortitude; **Maximum Duration** 4 rounds; **Stage 1** 3d6 poison and enfeebled 1 (1 round); **Stage 2** 4d6 poison and enfeebled 2 (1 round); **Stage 3** 6d6 poison and enfeebled 3 (1 round)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-304\" />",
+ "name": "Alate Ant",
+ "npc": false,
+ "perception": 28,
+ "rarity": "rare",
+ "reflex_save": 30,
+ "release_date": "2022-03-30",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 72</row>\r\n\r\n**Creature Family** [Gigantic Ant](/MonsterFamilies.aspx?ID=304)\r\n\r\n<row gap=\"medium\">\r\n**HP** 295\r\n\r\n**AC** 39\r\n\r\n**Fort** +24\r\n\r\n**Ref** +30\r\n\r\n**Will** +28\r\n\r\n**Perception** +28\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAlate ants are no less devoted and powerful than red guard ants, but they are slightly smaller in size and have delicate wings that bear them aloft. …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +32",
+  "Intimidation +28",
+  "Survival +28"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +32, [Intimidation](/Skills.aspx?ID=7) +28, [Survival](/Skills.aspx?ID=16) +28",
+ "source": [
+  "Pathfinder #174: Shadows of the Ancients"
+ ],
+ "source_raw": [
+  "Pathfinder #174: Shadows of the Ancients pg. 72"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #174: Shadows of the Ancients](/Sources.aspx?ID=115) pg. 72</row>",
+ "speed": {
+  "climb": 20,
+  "fly": 40,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 20 feet, fly 40 feet",
+ "speed_raw": "40 feet, climb 20 feet, fly 40 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Alate ants are no less devoted and powerful than red guard ants, but they are slightly smaller in size and have delicate wings that bear them aloft. …",
+ "summary_markdown": "Alate ants are no less devoted and powerful than red guard ants, but they are slightly smaller in size and have delicate wings that bear them aloft. …",
+ "text": " Alate Ant Alate ants are no less devoted and powerful than red guard ants, but they are slightly smaller in size and have delicate wings that bear them aloft. Alate ants secrete pheromones that addle the minds of the hive's enemies. A hive deploys alate ants as both defenders from aerial threats and as advance scouts. Recall Knowledge - Beast (Arcana, Nature): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Alate Ant Source Pathfinder #174: Shadows of the Ancients pg. 72 Perception +28; darkvision, scent (imprecise) 60 feet Languages Common Skills Acrobatics +32, Intimidation +28, Survival +28 Str +4 Dex +8 Con +6 Int -1 Wis +6 Cha +4 --- AC 39 Fort +24 Ref +30 Will +28 HP 295 Darting Flight Reaction Requirement The alate ant is flying; Trigger The ant is targeted with an attack by an attacker it can see; Effect The ant gains a +2 circumstance bonus to AC against the triggering attack. --- Speed 40 feet, climb 20 feet, fly 40 feet Melee Single Action mandibles +32 (Finesse), Damage 3d8+10 slashing plus Grab Melee Single Action stinger +32 (Agile, Finesse), Damage 3d4+10 piercing plus red ant venom Pheromone Spray Two Actions (Emotion, Enchantment, Mental) The alate ant sprays a cloud of pheromones in a 15-foot cone. Non-ant creatures in the cone must succeed at a DC 37 Will save or become confused for 1d4 rounds (1 minute on a critical failure). It can't use Pheromone Spray again for 1d4 rounds. Frenzy Single Action Frequency Once per day; Effect The alate ant enters a state of jittery agitation. It becomes quickened for 3 rounds and can use the extra action only to Fly or Strike. Pack Attack The alate ant deals an additional 3d6 precision damage to any creature within reach of at least two of the ant's allies. Red Ant Venom (Poison) While a creature is enfeebled from this poison, it is confused (this confusion is an emotion, enchantment, and mental effect). Saving Throw DC 37 Fortitude; Maximum Duration 4 rounds; Stage 1 3d6 poison and enfeebled 1 (1 round); Stage 2 4d6 poison and enfeebled 2 (1 round); Stage 3 6d6 poison and enfeebled 3 (1 round) ",
+ "trait": [
+  "Beast",
+  "Rare",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Beast",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1837",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 28,
+ "wisdom": 6
+}

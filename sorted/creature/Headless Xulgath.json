@@ -1,0 +1,95 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 5,
+ "creature_ability": [
+  "Motion Sense",
+  "Attack of Opportunity",
+  "Powerful Stench",
+  "Choke Slam   Frequency  once per round",
+  "Furious Claws"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 195,
+ "hp_raw": "195",
+ "id": "creature-2106",
+ "intelligence": 0,
+ "language": [
+  "Draconic",
+  "Undercommon",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11); (can't speak any language)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Headless Xulgath](/Monsters.aspx?ID=2106)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Headless Xulgath](/Monsters.aspx?ID=2106)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 50</row>\n\n**Perception** +20; motion sense, no vision\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +21, [Survival](/Skills.aspx?ID=16) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Motion Sense** The headless xulgath can sense nearby motion through vibrations and air movement\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 195\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Powerful Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature that enters the area must attempt a DC 29 Fortitude save. On a failure, the creature is [sickened 2](/Conditions.aspx?ID=34), and on a critical failure, the creature is also [slowed 1](/Conditions.aspx?ID=35) for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +22 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+13 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Choke Slam  **Frequency** once per round** <actions string=\"Single Action\" />  **Requirements** The headless xulgath has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The headless xulgath slams the creature against a nearby surface. The creature takes 6d6+6 bludgeoning damage and must attempt a DC 30 Fortitude save. <br />**Critical Success** The creature is no longer grabbed. <br />**Failure** The creature is [slowed 1](/Conditions.aspx?ID=35) for 1 round. <br />**Critical Failure** The creature is [stunned](/Conditions.aspx?ID=36) for 1 round.\r\n\r\n**Furious Claws** <actions string=\"Three Actions\" /> ([Attack](/Traits.aspx?ID=15)) The headless xulgath makes up to four claws Strikes, each against a different target. These attacks all count toward the headless xulgath's multiple attack penalty, but the penalty doesn't increase until after the headless xulgath makes all its attacks.\r\n\r\n</column>",
+ "name": "Headless Xulgath",
+ "npc": false,
+ "perception": 20,
+ "rarity": "unique",
+ "reflex_save": 20,
+ "release_date": "2020-03-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 50</row>\n\n<row gap=\"medium\">\r\n**HP** 195\r\n\r\n**AC** 29\r\n\r\n**Fort** +24\r\n\r\n**Ref** +20\r\n\r\n**Will** +22\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": "motion sense, no vision",
+ "sense_markdown": "motion sense, no vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Intimidation +21",
+  "Survival +21"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +21, [Survival](/Skills.aspx?ID=16) +21",
+ "source": [
+  "Pathfinder #153: Life's Long Shadows"
+ ],
+ "source_raw": [
+  "Pathfinder #153: Life's Long Shadows pg. 50"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 50</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Headless Xulgath Recall Knowledge - Humanoid (Society): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Headless Xulgath Source Pathfinder #153: Life's Long Shadows pg. 50 Perception +20; motion sense, no vision Languages Draconic, Undercommon; (can't speak any language) Skills Athletics +23, Intimidation +21, Survival +21 Str +7 Dex +3 Con +5 Int +0 Wis +3 Cha +3 Motion Sense The headless xulgath can sense nearby motion through vibrations and air movement --- AC 29 Fort +24 Ref +20 Will +22 HP 195 Attack of Opportunity Reaction Powerful Stench (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 29 Fortitude save. On a failure, the creature is sickened 2, and on a critical failure, the creature is also slowed 1 for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute. --- Speed 20 feet Melee Single Action claw +22 (Agile, reach 15 feet), Damage 2d8+13 slashing plus Grab Choke Slam Frequency once per round Single Action Requirements The headless xulgath has a creature grabbed; Effect The headless xulgath slams the creature against a nearby surface. The creature takes 6d6+6 bludgeoning damage and must attempt a DC 30 Fortitude save. Critical Success The creature is no longer grabbed. Failure The creature is slowed 1 for 1 round. Critical Failure The creature is stunned for 1 round. Furious Claws Three Actions (Attack) The headless xulgath makes up to four claws Strikes, each against a different target. These attacks all count toward the headless xulgath's multiple attack penalty, but the penalty doesn't increase until after the headless xulgath makes all its attacks. ",
+ "trait": [
+  "Humanoid",
+  "Unique",
+  "Xulgath",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161), [Xulgath](/Traits.aspx?ID=244)",
+ "trait_raw": [
+  "Humanoid",
+  "Unique",
+  "Xulgath"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2106",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 22,
+ "wisdom": 3
+}

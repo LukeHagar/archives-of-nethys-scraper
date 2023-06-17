@@ -1,0 +1,122 @@
+{
+ "ac": 36,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 4,
+ "creature_ability": [
+  "Ear for Secrets",
+  "Easy to Call",
+  "Retaliate",
+  "Bond with Host",
+  "Interpose",
+  "Peel Away",
+  "Skip Between"
+ ],
+ "creature_family": "Sahkil",
+ "creature_family_markdown": "[Sahkil](/MonsterFamilies.aspx?ID=208)",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 300,
+ "hp_raw": "300",
+ "id": "creature-1644",
+ "immunity": [
+  "fear"
+ ],
+ "immunity_markdown": "fear",
+ "intelligence": 2,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Infernal",
+  "Requian",
+  "telepathy 100 feet"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Infernal](/Languages.aspx?ID=19), [Requian](/Languages.aspx?ID=34); telepathy 100 feet",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Chakanaj](/Monsters.aspx?ID=1644)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFeatureless, tiny bat-like flaps of pale skin with retractable, squirming legs, chakanajes prey upon people's shame and fears of disclosing humiliating secrets. Extremely diminutive and stealthy, they can slip into buildings or lurk under eaves with ease, making it easier to spy on others and learn their secrets. Chakanajes enjoy ferreting out secrets and tormenting their victims by leaving incriminating hints of the truth in places others might find them, or even messages threatening the victim that someone “knows the truth.” Fear of exposure can drive victims to commit atrocities, which a chakanaj uses to further exacerbate the victim's shame and fear, to the sahkil's ever-increasing enjoyment.<br />A chakanaj can disguise themself as an item of roughly the same size, like a piece of clothing, and they especially enjoy forcing their victims to carry or wear them while they whisper hateful suggestions and stoke the victim's anxiety and suffering. <br /> While most sahkils don't have much to do with [Norgorber](/Deities.aspx?ID=13), despite their shared alignment, chakanjes' love of secrets has led to more than one alliance over the years between the tiny sahkils and the minions of Norgorber, particularly in Norgorber's aspect of the Reaper of Reputation.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Chakanaj](/Monsters.aspx?ID=1644)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Sahkil\" url=\"/Traits.aspx?ID=333\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Night of the Gray Death](/Sources.aspx?ID=99) pg. 70</row>\n\n**Perception** +25; (+29 to Sense Motive) [darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Infernal](/Languages.aspx?ID=19), [Requian](/Languages.aspx?ID=34); telepathy 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +28, [Deception](/Skills.aspx?ID=5) +27, [Intimidation](/Skills.aspx?ID=7) +25, [Religion](/Skills.aspx?ID=13) +25, [Stealth](/Skills.aspx?ID=15) +30, [Thievery](/Skills.aspx?ID=17) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +8\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +7\r\n</row>\r\n\r\n**Ear for Secrets** A chakanaj knows when a creature within 30 feet lies unless that creature critically succeeds on its Perception check to [lie](/Actions.aspx?ID=47) to the chakanaj. This ability doesn't reveal the truth.<br /> **Easy to Call** A sahkil's level is considered 2 lower for the purpose of being conjured by the [planar binding](/Rituals.aspx?ID=17) ritual (and potentially other rituals, at the GM's discretion), but is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 300\n\n**Immunities**\r\nfear\n\n**Weaknesses**\r\ngood 15\r\n\r\n**Retaliate** <actions string=\"Reaction\" /> **Trigger** A creature within the chakanaj's reach attacks its host; **Requirements** The chakanaj is Bonded with a Host; **Effect** The chakanaj makes a leg Strike against the triggering creature. If the chakanaj was Impersonating clothing when it makes this strike, the Impersonation ends.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_leg_ +29 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d6+14 slashing plus 2d6 evil\r\n\r\n**Divine Innate Spells** DC 34\r\n- **Cantrips (7th)**\r\n[Dancing Lights](/Spells.aspx?ID=58), [Daze](/Spells.aspx?ID=61), [Guidance](/Spells.aspx?ID=142)\r\n- **5th**\r\n[Illusory Object](/Spells.aspx?ID=160) (×3)\r\n- **7th**\r\n[Fear](/Spells.aspx?ID=110) (at will), [Mask of Terror](/Spells.aspx?ID=185) (at will; self only)\r\n- **Constant (7th)**\r\n[True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Bond with Host** <actions string=\"Single Action\" />  ([concentrate](/Traits.aspx?ID=32), [move](/Traits.aspx?ID=114)) **Requirements** The chakanaj is adjacent to a willing creature; **Effect** The chakanaj enters the space of the creature (thereafter called its host) and covers a suitable surface on the host, such as the face or back. The chakanaj occupies the same space as its host and moves with its host. It doesn't impair the host's senses or movement. While worn, the chakanaj establishes a constant [_shield other_](/Spells.aspx?ID=281) effect with its host. Attacks that target the chakanaj target the host instead, but use the higher AC or saving throw values between the chakanaj and the host. Area effects apply to both the chakanaj and the host, as normal for an area of effect.\r\n\r\n**Interpose** <actions string=\"Single Action\" />  **Requirements** The chakanaj is Bonded with a Host; **Effect** The chakanaj interposes itself between the host and its foes, granting its host a +2 circumstance bonus to AC until the start of the chakanaj's next turn.\r\n\r\n**Peel Away** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Move](/Traits.aspx?ID=114)) **Requirements** The chakanaj is Bonded with a Host; **Effect** The chakanaj removes itself from its host, peeling of the host's body and enters an adjacent space.\r\n\r\n**Skip Between** <actions string=\"Single Action\" /> ([Conjuration](/Traits.aspx?ID=33), [Divine](/Traits.aspx?ID=48), [Teleportation](/Traits.aspx?ID=156)) The chakanaj sahkil moves from the [Material Plane](/Planes.aspx?ID=1) to the [Ethereal Plane](/Planes.aspx?ID=9) or vice versa, with the effects of [_ethereal jaunt_](/Spells.aspx?ID=105) except the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Chakanaj Masks</title>\r\n\r\nChakanajes like to cover a victim’s face and pretend to be a mundane mask. This not only lets them see anything their host does, but it lets them rest their sharp legs against the host’s face, a subtle threat of violence to keep a host in line.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-208\" />",
+ "name": "Chakanaj",
+ "npc": false,
+ "perception": 25,
+ "rarity": "common",
+ "reflex_save": 28,
+ "release_date": "2021-10-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Sahkil\" url=\"/Traits.aspx?ID=333\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Night of the Gray Death](/Sources.aspx?ID=99) pg. 70</row>\r\n\r\n**Creature Family** [Sahkil](/MonsterFamilies.aspx?ID=208)\r\n\r\n<row gap=\"medium\">\r\n**HP** 300\r\n\r\n**AC** 36\r\n\r\n**Fort** +22\r\n\r\n**Ref** +28\r\n\r\n**Will** +25\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFeatureless, tiny bat-like flaps of pale skin with retractable, squirming legs, chakanajes prey upon people's shame and fears of disclosing …\r\n</summary>",
+ "sense": "(+29 to Sense Motive)  darkvision ,   true seeing  ",
+ "sense_markdown": "(+29 to Sense Motive) [darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +28",
+  "Deception +27",
+  "Intimidation +25",
+  "Religion +25",
+  "Stealth +30",
+  "Thievery +26"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +28, [Deception](/Skills.aspx?ID=5) +27, [Intimidation](/Skills.aspx?ID=7) +25, [Religion](/Skills.aspx?ID=13) +25, [Stealth](/Skills.aspx?ID=15) +30, [Thievery](/Skills.aspx?ID=17) +26",
+ "source": [
+  "Night of the Gray Death"
+ ],
+ "source_raw": [
+  "Night of the Gray Death pg. 70"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Night of the Gray Death",
+ "source_markdown": "<row gap=\"tiny\">[Night of the Gray Death](/Sources.aspx?ID=99) pg. 70</row>",
+ "speed": {
+  "fly": 40,
+  "land": 10,
+  "max": 40
+ },
+ "speed_markdown": "10 feet, fly 40 feet",
+ "speed_raw": "10 feet, fly 40 feet",
+ "spell": [
+  "Fear",
+  "Mask of Terror",
+  "Illusory Object",
+  "Dancing Lights",
+  "Daze",
+  "Guidance",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Daze](/Spells.aspx?ID=61), [Fear](/Spells.aspx?ID=110), [Guidance](/Spells.aspx?ID=142), [Illusory Object](/Spells.aspx?ID=160), [Mask of Terror](/Spells.aspx?ID=185), [True Seeing](/Spells.aspx?ID=344)",
+ "stealth": "30",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Featureless, tiny bat-like flaps of pale skin with retractable, squirming legs, chakanajes prey upon people's shame and fears of disclosing …",
+ "summary_markdown": "Featureless, tiny bat-like flaps of pale skin with retractable, squirming legs, chakanajes prey upon people's shame and fears of disclosing …",
+ "text": " Chakanaj Featureless, tiny bat-like flaps of pale skin with retractable, squirming legs, chakanajes prey upon people's shame and fears of disclosing humiliating secrets. Extremely diminutive and stealthy, they can slip into buildings or lurk under eaves with ease, making it easier to spy on others and learn their secrets. Chakanajes enjoy ferreting out secrets and tormenting their victims by leaving incriminating hints of the truth in places others might find them, or even messages threatening the victim that someone “knows the truth.” Fear of exposure can drive victims to commit atrocities, which a chakanaj uses to further exacerbate the victim's shame and fear, to the sahkil's ever-increasing enjoyment. A chakanaj can disguise themself as an item of roughly the same size, like a piece of clothing, and they especially enjoy forcing their victims to carry or wear them while they whisper hateful suggestions and stoke the victim's anxiety and suffering. While most sahkils don't have much to do with Norgorber, despite their shared alignment, chakanjes' love of secrets has led to more than one alliance over the years between the tiny sahkils and the minions of Norgorber, particularly in Norgorber's aspect of the Reaper of Reputation. Recall Knowledge - Fiend (Religion): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Chakanaj Source Night of the Gray Death pg. 70 Perception +25; (+29 to Sense Motive) darkvision, true seeing Languages Abyssal, Celestial, Infernal, Requian; telepathy 100 feet Skills Acrobatics +28, Deception +27, Intimidation +25, Religion +25, Stealth +30, Thievery +26 Str +0 Dex +8 Con +4 Int +2 Wis +5 Cha +7 Ear for Secrets A chakanaj knows when a creature within 30 feet lies unless that creature critically succeeds on its Perception check to lie to the chakanaj. This ability doesn't reveal the truth. Easy to Call A sahkil's level is considered 2 lower for the purpose of being conjured by the planar binding ritual (and potentially other rituals, at the GM's discretion), but is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success. --- AC 36 Fort +22 Ref +28 Will +25 HP 300 Immunities fear Weaknesses good 15 Retaliate Reaction Trigger A creature within the chakanaj's reach attacks its host; Requirements The chakanaj is Bonded with a Host; Effect The chakanaj makes a leg Strike against the triggering creature. If the chakanaj was Impersonating clothing when it makes this strike, the Impersonation ends. --- Speed 10 feet, fly 40 feet Melee Single Action leg +29 (Agile, Finesse, Magical), Damage 3d6+14 slashing plus 2d6 evil Divine Innate Spells DC 34 - Cantrips (7th) Dancing Lights, Daze, Guidance - 5th Illusory Object (×3) - 7th Fear (at will), Mask of Terror (at will; self only) - Constant (7th) True Seeing Bond with Host Single Action (concentrate, move) Requirements The chakanaj is adjacent to a willing creature; Effect The chakanaj enters the space of the creature (thereafter called its host) and covers a suitable surface on the host, such as the face or back. The chakanaj occupies the same space as its host and moves with its host. It doesn't impair the host's senses or movement. While worn, the chakanaj establishes a constant shield other effect with its host. Attacks that target the chakanaj target the host instead, but use the higher AC or saving throw values between the chakanaj and the host. Area effects apply to both the chakanaj and the host, as normal for an area of effect. Interpose Single Action Requirements The chakanaj is Bonded with a Host; Effect The chakanaj interposes itself between the host and its foes, granting its host a +2 circumstance bonus to AC until the start of the chakanaj's next turn. Peel Away Single Action (Concentrate, Move) Requirements The chakanaj is Bonded with a Host; Effect The chakanaj removes itself from its host, peeling of the host's body and enters an adjacent space. Skip Between Single Action (Conjuration, Divine, Teleportation) The chakanaj sahkil moves from the Material Plane to the Ethereal Plane or vice versa, with the effects of ethereal jaunt except the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between. Chakanaj Masks Chakanajes like to cover a victim’s face and pretend to be a mundane mask. This not only lets them see anything their host does, but it lets them rest their sharp legs against the host’s face, a subtle threat of violence to keep a host in line. ",
+ "trait": [
+  "Fiend",
+  "Sahkil",
+  "NE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Sahkil](/Traits.aspx?ID=333)",
+ "trait_raw": [
+  "Fiend",
+  "Sahkil"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1644",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "good": 15
+ },
+ "weakness_markdown": "good 15",
+ "weakness_raw": "good 15",
+ "will_save": 25,
+ "wisdom": 5
+}

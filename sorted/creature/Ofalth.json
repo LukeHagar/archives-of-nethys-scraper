@@ -1,0 +1,99 @@
+{
+ "ac": 31,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 6,
+ "creature_ability": [
+  "Refuse Pile",
+  "Putrid Stench",
+  "Filth Wallow",
+  "Wretched Weeps"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 170,
+ "hp_raw": "170 (filth wallow)",
+ "id": "creature-316",
+ "image": [
+  "/Images/Monsters/Ofalth.png"
+ ],
+ "immunity": [
+  "disease",
+  "poison"
+ ],
+ "immunity_markdown": "disease, poison",
+ "intelligence": -2,
+ "language": [
+  "Common",
+  "(can’t speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can’t speak any language)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Ofalth](/Monsters.aspx?ID=316)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFound in castle dung heaps, city dumps, and sewers, ofalths are thought to be cousins of shamblers. But whereas shamblers are living heaps of soggy vegetation, ofalths are living heaps of matter from an altogether more unpleasant source: these monsters look like 9-foot-tall amalgamations of wet detritus, sewage, and rubbish with long tentacular arms and stout legs. It can be difficult to tell where an ofalth’s body ends and the foul contents of the cesspit they wallow within begins. They move through refuse heaps in search of organic material in their endless quest to sate their hunger.\n\n Though ofalths have a limited intellect, they still exhibit a vile curiosity. They are no strangers to dissecting their prey after it has succumbed to their wasting disease—a terrible and aptly named affliction that causes the victim’s blood to seep from its pores. When an ofalth manages to secure a victim alive, it may even torture its food by consuming it bit by bit while it shrieks for mercy.\n\n Ofalths’ domains typically overlap with those of otyughs, who fear ofalths, though otyughs have also been known to band together in order to take down an ofalth for its rubbery flesh, which the otyughs consider an intoxicating delicacy. On the other hand, ofalths seem to particularly enjoy taking otyughs apart one piece at a time. They have been known to keep a captured otyugh alive for days or even weeks, forcing the otyugh to endure the cloying scent of its own body decaying before the ofalth feeds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ofalth.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Ofalth](/Monsters.aspx?ID=316)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 251</row>\n\n**Perception** +18; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can’t speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Stealth](/Skills.aspx?ID=15) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +6\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** -2\r\n</row>\r\n\r\n**Refuse Pile** When it’s not in danger, an ofalth can spend 1 minute settling into a 10-foot pile that looks like a heap of garbage. While doing so, the ofalth gains a +2 circumstance bonus to AC but can’t use attack, manipulate, or move actions. A creature that enters the area of the garbage heap or interacts with it must attempt a save against the ofalth’s putrid stench and wretched weeps disease. An ofalth can leave this form using a single action.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 170\r\n(filth wallow)\n\n**Immunities**\r\ndisease, poison\n\n**Putrid Stench** ([aura](/Traits.aspx?ID=206)) 30 feet. A creature entering the aura must succeed at a DC 28 Fortitude save or become sickened 1 until the end of its turn (plus slowed 1 for as long as it is sickened on a critical failure). While within the aura, an affected creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.<br /> **Filth Wallow** A ofalth gains fast healing 2 when in an area with a high concentration of debris, junk, or excrement, such as a refuse heap or sewer.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +23 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+13 bludgeoning plus wretched weeps\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nfling offal +19 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d10+7 bludgeoning plus wretched weeps\n\n**Wretched Weeps**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 26 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d8 persistent bleed damage every hour and [enfeebled 1](/Conditions.aspx?ID=13) (1 day); **Stage 3** 2d8 persistent bleed damage every hour and [enfeebled 2](/Conditions.aspx?ID=13) (1 day)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Filth Flingers</title>\r\n\r\nOfalths prefer to remain in their middens and sewers, for in such environs they have a constantly renewing source of not only food, but refuse to fling at foes. An ofalth encountered outside of such wretched environs cannot fling rubbish as a ranged attack unless it rips filth from its own body. Each time it does so, it takes 2d6 damage.\r\n</aside>",
+ "name": "Ofalth",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 251</row>\n\n<row gap=\"medium\">\r\n**HP** 170 (filth wallow)\r\n\r\n**AC** 31\r\n\r\n**Fort** +22\r\n\r\n**Ref** +17\r\n\r\n**Will** +18\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFound in castle dung heaps, city dumps, and sewers, ofalths are thought to be cousins of shamblers. But whereas shamblers are living heaps of soggy …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Stealth +19"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Stealth](/Skills.aspx?ID=15) +19",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 251"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 251</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "stealth": "19",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Found in castle dung heaps, city dumps, and sewers, ofalths are thought to be cousins of shamblers. But whereas shamblers are living heaps of soggy …",
+ "summary_markdown": "Found in castle dung heaps, city dumps, and sewers, ofalths are thought to be cousins of shamblers. But whereas shamblers are living heaps of soggy …",
+ "text": " Ofalth Found in castle dung heaps, city dumps, and sewers, ofalths are thought to be cousins of shamblers. But whereas shamblers are living heaps of soggy vegetation, ofalths are living heaps of matter from an altogether more unpleasant source: these monsters look like 9-foot-tall amalgamations of wet detritus, sewage, and rubbish with long tentacular arms and stout legs. It can be difficult to tell where an ofalth’s body ends and the foul contents of the cesspit they wallow within begins. They move through refuse heaps in search of organic material in their endless quest to sate their hunger. Though ofalths have a limited intellect, they still exhibit a vile curiosity. They are no strangers to dissecting their prey after it has succumbed to their wasting disease—a terrible and aptly named affliction that causes the victim’s blood to seep from its pores. When an ofalth manages to secure a victim alive, it may even torture its food by consuming it bit by bit while it shrieks for mercy. Ofalths’ domains typically overlap with those of otyughs, who fear ofalths, though otyughs have also been known to band together in order to take down an ofalth for its rubbery flesh, which the otyughs consider an intoxicating delicacy. On the other hand, ofalths seem to particularly enjoy taking otyughs apart one piece at a time. They have been known to keep a captured otyugh alive for days or even weeks, forcing the otyugh to endure the cloying scent of its own body decaying before the ofalth feeds. Recall Knowledge - Aberration (Occultism): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Ofalth Source Bestiary pg. 251 Perception +18; darkvision Languages Common; (can’t speak any language) Skills Athletics +23, Stealth +19 Str +7 Dex +3 Con +6 Int -2 Wis +2 Cha -2 Refuse Pile When it’s not in danger, an ofalth can spend 1 minute settling into a 10-foot pile that looks like a heap of garbage. While doing so, the ofalth gains a +2 circumstance bonus to AC but can’t use attack, manipulate, or move actions. A creature that enters the area of the garbage heap or interacts with it must attempt a save against the ofalth’s putrid stench and wretched weeps disease. An ofalth can leave this form using a single action. --- AC 31 Fort +22 Ref +17 Will +18 HP 170 (filth wallow) Immunities disease, poison Putrid Stench (aura) 30 feet. A creature entering the aura must succeed at a DC 28 Fortitude save or become sickened 1 until the end of its turn (plus slowed 1 for as long as it is sickened on a critical failure). While within the aura, an affected creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute. Filth Wallow A ofalth gains fast healing 2 when in an area with a high concentration of debris, junk, or excrement, such as a refuse heap or sewer. --- Speed 30 feet Melee Single Action fist +23 (reach 10 feet), Damage 2d12+13 bludgeoning plus wretched weeps Ranged Single Action fling offal +19 (range increment 30 feet), Damage 2d10+7 bludgeoning plus wretched weeps Wretched Weeps (Disease) Saving Throw DC 26 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 2d8 persistent bleed damage every hour and enfeebled 1 (1 day); Stage 3 2d8 persistent bleed damage every hour and enfeebled 2 (1 day) Filth Flingers Ofalths prefer to remain in their middens and sewers, for in such environs they have a constantly renewing source of not only food, but refuse to fling at foes. An ofalth encountered outside of such wretched environs cannot fling rubbish as a ranged attack unless it rips filth from its own body. Each time it does so, it takes 2d6 damage. ",
+ "trait": [
+  "Aberration",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=316",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 2
+}

@@ -1,0 +1,109 @@
+{
+ "ac": 20,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "Final Spite",
+  "Cairn Wight Spawn",
+  "Drain Life",
+  "Funereal Dirge"
+ ],
+ "creature_family": "Wight",
+ "creature_family_markdown": "[Wight](/MonsterFamilies.aspx?ID=163)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 67,
+ "hp_raw": "67",
+ "id": "creature-859",
+ "image": [
+  "/Images/Monsters/Wight_CairnWight.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Cairn Wight](/Monsters.aspx?ID=859)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nJealous guardians of tombs, barrows, and sepulchers, cairn wights usually spawn from necromantic rituals. For those mortals who cannot abide the thought of separation from their earthly possessions, the undead existence offered by transformation into a cairn wight can be tempting. Perhaps as frequently, particularly avaricious and wealthy royalty or merchants seek out victims to transform into cairn wights to guard their precious wealth for all time.<br /> Only in the rarest instances is the greed of a mortal strong enough to spontaneously transform them into a cairn wight without a dark ritual or the intercession of a powerful divine being. On those occasions, however, the resultant wight exhibits unmatched viciousness and likely owns rare treasure indeed.<br /> As guardians of material possessions, cairn wights are supernaturally bound to the armaments they wore during the ritual used to create them. They can spread their necromantic powers into the weapons they wield. A slash from a cairn wight's sword channels life from the victim into the wight.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Wight_CairnWight.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Cairn Wight](/Monsters.aspx?ID=859)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Wight\" url=\"/Traits.aspx?ID=259\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 292 <sup>2.0</sup></row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +11, [Religion](/Skills.aspx?ID=13) +9, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[Longsword](/Weapons.aspx?ID=31), [Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 67\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Final Spite** <actions string=\"Reaction\" /> **Trigger** The cairn wight is reduced to 0 Hit Points; **Effect** The cairn wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongsword +14 ([versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d8+7 slashing plus drain life\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +14 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+7 slashing plus drain life\n\n**Cairn Wight Spawn**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) A living humanoid slain by a cairn wight's weapon or claw Strike rises as a spawned wight after 1d4 rounds. This spawned wight is under the command of the cairn wight that killed it. It doesn't have drain life or cairn wight spawn and is [clumsy 2](/Conditions.aspx?ID=3) for as long as it is a spawned wight. If its creator dies, the spawned wight becomes a full-fledged, autonomous cairn wight; it regains its free will, gains drain life and cairn wight spawn, and is no longer clumsy.\r\n\r\n**Drain Life**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When the cairn wight damages a living creature with a melee Strike, using an unarmed attack or its bound weapon, the cairn wight gains 5 temporary Hit Points and the creature must succeed at a DC 18 Fortitude save or become [drained 1](/Conditions.aspx?ID=10). Further damage dealt by the cairn wraith increases the drained condition value by 1 on a failed save, to a maximum of drained 4.\r\n\r\n**Funereal Dirge** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Divine](/Traits.aspx?ID=48), [Emotion](/Traits.aspx?ID=60), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Necromancy](/Traits.aspx?ID=117)) The cairn wight chants a low, haunting melody. Living creatures within 50 feet must attempt a DC 21 Will save. The cairn wight can't chant a new Funereal Dirge for 1d4 rounds. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [frightened 1](/Conditions.aspx?ID=19). <br />**Failure** The creature is frightened 2. <br />**Critical Failure** The creature is frightened 2 and takes a –2 status penalty to saving throws against drain life.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Cairn Wight Dirges</title>\r\n\r\nUnlike a typical wight, cairn wights have an unusual affinity for music. The lyrics of their dirges often contain a valuable bit of knowledge or long-lost lore, possibly the greatest treasure a cairn wight guards. There are even brave souls who seek out the creatures to listen to their songs in hopes of finding profit from the dry, rasping words.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-163\" />",
+ "name": "Cairn Wight",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Wight\" url=\"/Traits.aspx?ID=259\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 292 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Wight](/MonsterFamilies.aspx?ID=163)\r\n\r\n<row gap=\"medium\">\r\n**HP** 67\r\n\r\n**AC** 20\r\n\r\n**Fort** +12\r\n\r\n**Ref** +10\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nJealous guardians of tombs, barrows, and sepulchers, cairn wights usually spawn from necromantic rituals. For those mortals who cannot abide the …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Intimidation +11",
+  "Religion +9",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +11, [Religion](/Skills.aspx?ID=13) +9, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 292"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 292 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Jealous guardians of tombs, barrows, and sepulchers, cairn wights usually spawn from necromantic rituals. For those mortals who cannot abide the …",
+ "summary_markdown": "Jealous guardians of tombs, barrows, and sepulchers, cairn wights usually spawn from necromantic rituals. For those mortals who cannot abide the …",
+ "text": " Cairn Wight Jealous guardians of tombs, barrows, and sepulchers, cairn wights usually spawn from necromantic rituals. For those mortals who cannot abide the thought of separation from their earthly possessions, the undead existence offered by transformation into a cairn wight can be tempting. Perhaps as frequently, particularly avaricious and wealthy royalty or merchants seek out victims to transform into cairn wights to guard their precious wealth for all time. Only in the rarest instances is the greed of a mortal strong enough to spontaneously transform them into a cairn wight without a dark ritual or the intercession of a powerful divine being. On those occasions, however, the resultant wight exhibits unmatched viciousness and likely owns rare treasure indeed. As guardians of material possessions, cairn wights are supernaturally bound to the armaments they wore during the ritual used to create them. They can spread their necromantic powers into the weapons they wield. A slash from a cairn wight's sword channels life from the victim into the wight. Recall Knowledge - Undead (Religion): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Cairn Wight Source Bestiary 2 pg. 292 2.0 Perception +11; darkvision Languages Common, Necril Skills Athletics +12, Intimidation +11, Religion +9, Stealth +12 Str +4 Dex +2 Con +4 Int +1 Wis +3 Cha +3 Items Longsword, Studded Leather Armor --- AC 20 Fort +12 Ref +10 Will +11 HP 67 Immunities death effects, disease, paralyzed, poison, unconscious Final Spite Reaction Trigger The cairn wight is reduced to 0 Hit Points; Effect The cairn wight makes a Strike before being destroyed. It doesn't gain any temporary HP from drain life on this Strike. --- Speed 25 feet Melee Single Action longsword +14 (versatile P), Damage 1d8+7 slashing plus drain life Melee Single Action claw +14 (Agile), Damage 1d6+7 slashing plus drain life Cairn Wight Spawn (Divine, Necromancy) A living humanoid slain by a cairn wight's weapon or claw Strike rises as a spawned wight after 1d4 rounds. This spawned wight is under the command of the cairn wight that killed it. It doesn't have drain life or cairn wight spawn and is clumsy 2 for as long as it is a spawned wight. If its creator dies, the spawned wight becomes a full-fledged, autonomous cairn wight; it regains its free will, gains drain life and cairn wight spawn, and is no longer clumsy. Drain Life (Divine, Necromancy) When the cairn wight damages a living creature with a melee Strike, using an unarmed attack or its bound weapon, the cairn wight gains 5 temporary Hit Points and the creature must succeed at a DC 18 Fortitude save or become drained 1. Further damage dealt by the cairn wraith increases the drained condition value by 1 on a failed save, to a maximum of drained 4. Funereal Dirge Two Actions (Auditory, Divine, Emotion, Fear, Mental, Necromancy) The cairn wight chants a low, haunting melody. Living creatures within 50 feet must attempt a DC 21 Will save. The cairn wight can't chant a new Funereal Dirge for 1d4 rounds. Critical Success The creature is unaffected. Success The creature is frightened 1. Failure The creature is frightened 2. Critical Failure The creature is frightened 2 and takes a –2 status penalty to saving throws against drain life. Cairn Wight Dirges Unlike a typical wight, cairn wights have an unusual affinity for music. The lyrics of their dirges often contain a valuable bit of knowledge or long-lost lore, possibly the greatest treasure a cairn wight guards. There are even brave souls who seek out the creatures to listen to their songs in hopes of finding profit from the dry, rasping words. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "Wight",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160), [Wight](/Traits.aspx?ID=259)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead",
+  "Wight"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=859",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 3
+}

@@ -1,0 +1,89 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Implant Eggs",
+  "Giant Wasp Venom",
+  "Wasp Larva"
+ ],
+ "creature_family": "Wasp",
+ "creature_family_markdown": "[Wasp](/MonsterFamilies.aspx?ID=99)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-405",
+ "image": [
+  "/Images/Monsters/Wasp_GiantWasp.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Wasp](/Monsters.aspx?ID=405)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGiant wasps are much more dangerous but less common than their smaller kin, and—to the relief of those who encounter them—they tend to be solitary.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Wasp_GiantWasp.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Giant Wasp](/Monsters.aspx?ID=405)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 324</row>\n\n**Perception** +8; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 45\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +12 ([Poison](/Traits.aspx?ID=126)),\r\n**Damage** 1d12+4 piercing plus giant wasp venom\n\n**Implant Eggs** <actions string=\"Single Action\" />  The giant wasp lays eggs in an adjacent creature that is paralyzed or unconscious, exposing it to the wasp larva disease.\r\n\r\n**Giant Wasp Venom**  ([Incapacitation](/Traits.aspx?ID=93), [Poison](/Traits.aspx?ID=126)) **Saving Throw** Fortitude DC 19; **Maximum Duration** 6 rounds; **Stage 1** no effect (1 round); **Stage 2** clumsy 2 (1 round); **Stage 3** paralyzed (1 round)\r\n\r\n**Wasp Larva**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** Fortitude DC 21; **Stage 1** carrier with no ill effect (1d6 days); **Stage 2** drained 1 (1d3 days); **Stage 3** 5d6 damage, larva emerges (disease ends)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-99\" />",
+ "name": "Giant Wasp",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 324</row>\r\n\r\n**Creature Family** [Wasp](/MonsterFamilies.aspx?ID=99)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +9\r\n\r\n**Ref** +11\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGiant wasps are much more dangerous but less common than their smaller kin, and—to the relief of those who encounter them—they tend to be solitary.\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +11",
+  "Athletics +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +9",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 324"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 324</row>",
+ "speed": {
+  "fly": 40,
+  "land": 20,
+  "max": 40
+ },
+ "speed_markdown": "20 feet, fly 40 feet",
+ "speed_raw": "20 feet, fly 40 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Giant wasps are much more dangerous but less common than their smaller kin, and—to the relief of those who encounter them—they tend to be solitary.",
+ "summary_markdown": "Giant wasps are much more dangerous but less common than their smaller kin, and—to the relief of those who encounter them—they tend to be solitary.",
+ "text": " Giant Wasp Giant wasps are much more dangerous but less common than their smaller kin, and—to the relief of those who encounter them—they tend to be solitary. Recall Knowledge - Animal (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Giant Wasp Source Bestiary pg. 324 Perception +8; darkvision Languages Skills Acrobatics +11, Athletics +9 Str +4 Dex +4 Con +4 Int -5 Wis +1 Cha +1 --- AC 19 Fort +9 Ref +11 Will +6 HP 45 --- Speed 20 feet, fly 40 feet Melee Single Action stinger +12 (Poison), Damage 1d12+4 piercing plus giant wasp venom Implant Eggs Single Action The giant wasp lays eggs in an adjacent creature that is paralyzed or unconscious, exposing it to the wasp larva disease. Giant Wasp Venom (Incapacitation, Poison) Saving Throw Fortitude DC 19; Maximum Duration 6 rounds; Stage 1 no effect (1 round); Stage 2 clumsy 2 (1 round); Stage 3 paralyzed (1 round) Wasp Larva (Disease) Saving Throw Fortitude DC 21; Stage 1 carrier with no ill effect (1d6 days); Stage 2 drained 1 (1d3 days); Stage 3 5d6 damage, larva emerges (disease ends) ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=405",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 1
+}

@@ -1,0 +1,166 @@
+{
+ "ac": 45,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 10,
+ "constitution": 7,
+ "creature_ability": [
+  "Reflect Spell",
+  "Autonomous Spell",
+  "Change Shape",
+  "Four-Fanged Assault"
+ ],
+ "creature_family": "Rakshasa",
+ "creature_family_markdown": "[Rakshasa](/MonsterFamilies.aspx?ID=85)",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 31,
+ "hp": 320,
+ "hp_raw": "320",
+ "id": "creature-1272",
+ "image": [
+  "/Images/Monsters/Rakshasa_Maharaja.png"
+ ],
+ "intelligence": 7,
+ "language": [
+  "Abyssal",
+  "Common",
+  "Infernal",
+  "Undercommon",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Undercommon](/Languages.aspx?ID=11); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Maharaja](/Monsters.aspx?ID=1272)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe most powerful of all rakshasas, maharajas form very rarely, never more than once or twice a century, and only from the reincarnated spirits of other powerful and wicked rakshasas. The birth of a new maharaja rakshasa is a momentous occasion, and less powerful rakshasas will seek to curry favor with the new maharaja at an early age. Each maharaja rakshasa is unique and boasts their own selection of spells. All are generally humanoid save for their many heads, which always number at least four and can range up to a dozen. One of these heads tends to be humanoid, while the others take the forms of cats, snakes, and other predatory animals.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 45\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 43\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 40\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Rakshasa_Maharaja.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Maharaja](/Monsters.aspx?ID=1272)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Rakshasa\" url=\"/Traits.aspx?ID=233\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 211</row>\n\n**Perception** +37; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19), [Undercommon](/Languages.aspx?ID=11); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +33, [Arcana](/Skills.aspx?ID=2) +33, [Deception](/Skills.aspx?ID=5) +41, [Diplomacy](/Skills.aspx?ID=6) +38, [Intimidation](/Skills.aspx?ID=7) +38, [Lore](/Skills.aspx?ID=8) +33, [Occultism](/Skills.aspx?ID=11) +35, [Religion](/Skills.aspx?ID=13) +35, [Society](/Skills.aspx?ID=14) +35\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +9\r\n\r\n**Con** +7\r\n\r\n**Int** +7\r\n\r\n**Wis** +7\r\n\r\n**Cha** +10\r\n</row>\n\n**Items**\r\n_+2 [greater striking](/Equipment.aspx?ID=280) [falchion](/Weapons.aspx?ID=18)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 45 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +31 \r\n\r\n**Ref** +33 \r\n\r\n**Will** +35 \r\n\r\n+2 status to all saves vs. magic, +3 status to all saves vs. [divine](/Traits.aspx?ID=48) magic\r\n</row>\r\n\r\n**HP** 320\n\n**Resistances**\r\nphysical 20 (except piercing)\r\n\r\n**Weaknesses**\r\ngood 20\r\n\r\n**Reflect Spell** <actions string=\"Reaction\" /> ([abjuration](/Traits.aspx?ID=2), [occult](/Traits.aspx?ID=120)) **Trigger** A foe Casts a Spell the maharaja knows, and the maharaja rakshasa can see its manifestation; **Effect** The maharaja expends one of their spell slots to reflect the triggering creature's spell. The maharaja loses their spell slot as if they had cast the triggering spell, and then attempts to [counteract](/Rules.aspx?ID=371) it (counteract modifier +37, counteract level 10). On a success, the maharaja turns the spell back on its caster. The reflected spell affects only the caster, even if it's an area spell or would normally affect more than one creature. The original caster can attempt a save and use other defenses against the reflected spell as normal.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfalchion +38 ([Forceful](/Traits.aspx?ID=180), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 3d10+16 slashing plus 3d6 mental\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +34 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 4d6+14 piercing\r\n\r\n**Occult Spontaneous Spells** DC 47\r\n- **Cantrips (9th)**\r\n[Dancing Lights](/Spells.aspx?ID=58), [Detect Magic](/Spells.aspx?ID=66), [Ghost Sound](/Spells.aspx?ID=132), [Mage Hand](/Spells.aspx?ID=177), [Shield](/Spells.aspx?ID=280)\r\n- **1st**\r\n[Magic Missile](/Spells.aspx?ID=180), [Sanctuary](/Spells.aspx?ID=266), [True Strike](/Spells.aspx?ID=345), [Ventriloquism](/Spells.aspx?ID=356) (4 slots)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59), [Dispel Magic](/Spells.aspx?ID=78), [Misdirection](/Spells.aspx?ID=198), [See Invisibility](/Spells.aspx?ID=271) (4 slots)\r\n- **3rd**\r\n[Dispel Magic](/Spells.aspx?ID=78), [Enthrall](/Spells.aspx?ID=104), [Haste](/Spells.aspx?ID=147), [Hypercognition](/Spells.aspx?ID=156), [Nondetection](/Spells.aspx?ID=209) (4 slots)\r\n- **4th**\r\n[Confusion](/Spells.aspx?ID=48), [Dimension Door](/Spells.aspx?ID=69), [Dispel Magic](/Spells.aspx?ID=78), [Modify Memory](/Spells.aspx?ID=200), [Read Omens](/Spells.aspx?ID=247) (4 slots)\r\n- **5th**\r\n[Crushing Despair](/Spells.aspx?ID=57), [Dispel Magic](/Spells.aspx?ID=78), [False Vision](/Spells.aspx?ID=109), [Shadow Blast](/Spells.aspx?ID=273), [Shadow Walk](/Spells.aspx?ID=275) (4 slots)\r\n- **6th**\r\n[Repulsion](/Spells.aspx?ID=254), [Scrying](/Spells.aspx?ID=268), [True Seeing](/Spells.aspx?ID=344), [Vampiric Exsanguination](/Spells.aspx?ID=353) (4 slots)\r\n- **7th**\r\n[Dispel Magic](/Spells.aspx?ID=78), [Haste](/Spells.aspx?ID=147), [Possession](/Spells.aspx?ID=225), [Project Image](/Spells.aspx?ID=237), [Reverse Gravity](/Spells.aspx?ID=261) (4 slots)\r\n- **8th**\r\n[Discern Location](/Spells.aspx?ID=75), [Dispel Magic](/Spells.aspx?ID=78), [Maze](/Spells.aspx?ID=187), [Mind Blank](/Spells.aspx?ID=192), [Prismatic Wall](/Spells.aspx?ID=234) (4 slots)\r\n- **9th**\r\n[Dispel Magic](/Spells.aspx?ID=78), [Foresight](/Spells.aspx?ID=127), [Overwhelming Presence](/Spells.aspx?ID=212), [Telepathic Demand](/Spells.aspx?ID=336), [Weird](/Spells.aspx?ID=375) (4 slots)\r\n- **10th**\r\n[Fabricated Truth](/Spells.aspx?ID=106) (1 slot)\r\n\r\n**Occult Innate Spells** DC 47\r\n- **9th**\r\n[Clairaudience](/Spells.aspx?ID=39) (at will), [Clairvoyance](/Spells.aspx?ID=40) (at will), [Mind Reading](/Spells.aspx?ID=194) (at will)\r\n- **10th**\r\n[Dominate](/Spells.aspx?ID=87)\r\n- **Constant (9th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**Autonomous Spell** <actions string=\"Free Action\" />  **Frequency** once per round; **Trigger** a foe's turn begins; **Effect** The maharaja's four heads allow them to quickly cast additional spells. They cast one of their 8th-level or lower occult spontaneous spells that normally takes 2 actions or fewer to cast.\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Occult](/Traits.aspx?ID=120), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The maharaja takes on the appearance of any Medium [humanoid](/Traits.aspx?ID=91). This doesn't change their Speed or their attack and damage modifiers with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning). They lose their fangs Strike unless the humanoid form has fangs or a similar unarmed attack, and they lose Four-Fanged Assault unless the new form has four or more heads and fangs.\r\n\r\n**Four-Fanged Assault** <actions string=\"Single Action\" />  The maharaja makes four fangs Strikes, each against a different target. These Strikes count as only one attack for the maharaja's multiple attack penalty, and the penalty doesn't increase until after they have made all four attacks.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-85\" />",
+ "name": "Maharaja",
+ "npc": false,
+ "perception": 37,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 33,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "bludgeoning": 20,
+  "physical": 20,
+  "slashing": 20
+ },
+ "resistance_markdown": "physical 20 (except piercing)",
+ "resistance_raw": "physical 20 (except piercing)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Rakshasa\" url=\"/Traits.aspx?ID=233\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 211</row>\r\n\r\n**Creature Family** [Rakshasa](/MonsterFamilies.aspx?ID=85)\r\n\r\n<row gap=\"medium\">\r\n**HP** 320\r\n\r\n**AC** 45\r\n\r\n**Fort** +31\r\n\r\n**Ref** +33\r\n\r\n**Will** +35\r\n\r\n**Perception** +37\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe most powerful of all rakshasas, maharajas form very rarely, never more than once or twice a century, and only from the reincarnated spirits of …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +33",
+  "Arcana +33",
+  "Deception +41",
+  "Diplomacy +38",
+  "Intimidation +38",
+  "Lore +33",
+  "Occultism +35",
+  "Religion +35",
+  "Society +35"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +33, [Arcana](/Skills.aspx?ID=2) +33, [Deception](/Skills.aspx?ID=5) +41, [Diplomacy](/Skills.aspx?ID=6) +38, [Intimidation](/Skills.aspx?ID=7) +38, [Lore](/Skills.aspx?ID=8) +33, [Occultism](/Skills.aspx?ID=11) +35, [Religion](/Skills.aspx?ID=13) +35, [Society](/Skills.aspx?ID=14) +35",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 211"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 211</row>",
+ "speed": {
+  "fly": 30,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, fly 30 feet",
+ "speed_raw": "40 feet, fly 30 feet",
+ "spell": [
+  "Fabricated Truth",
+  "Dispel Magic",
+  "Foresight",
+  "Overwhelming Presence",
+  "Telepathic Demand",
+  "Weird",
+  "Discern Location",
+  "Maze",
+  "Mind Blank",
+  "Prismatic Wall",
+  "Haste",
+  "Possession",
+  "Project Image",
+  "Reverse Gravity",
+  "Repulsion",
+  "Scrying",
+  "True Seeing",
+  "Vampiric Exsanguination",
+  "Crushing Despair",
+  "False Vision",
+  "Shadow Blast",
+  "Shadow Walk",
+  "Confusion",
+  "Dimension Door",
+  "Modify Memory",
+  "Read Omens",
+  "Enthrall",
+  "Hypercognition",
+  "Nondetection",
+  "Darkness",
+  "Misdirection",
+  "See Invisibility",
+  "Magic Missile",
+  "Sanctuary",
+  "True Strike",
+  "Ventriloquism",
+  "Dancing Lights",
+  "Detect Magic",
+  "Ghost Sound",
+  "Mage Hand",
+  "Shield",
+  "Dominate",
+  "Clairaudience",
+  "Clairvoyance",
+  "Mind Reading",
+  "Tongues"
+ ],
+ "spell_markdown": "[Clairaudience](/Spells.aspx?ID=39), [Clairvoyance](/Spells.aspx?ID=40), [Confusion](/Spells.aspx?ID=48), [Crushing Despair](/Spells.aspx?ID=57), [Dancing Lights](/Spells.aspx?ID=58), [Darkness](/Spells.aspx?ID=59), [Detect Magic](/Spells.aspx?ID=66), [Dimension Door](/Spells.aspx?ID=69), [Discern Location](/Spells.aspx?ID=75), [Dispel Magic](/Spells.aspx?ID=78), [Dominate](/Spells.aspx?ID=87), [Enthrall](/Spells.aspx?ID=104), [Fabricated Truth](/Spells.aspx?ID=106), [False Vision](/Spells.aspx?ID=109), [Foresight](/Spells.aspx?ID=127), [Ghost Sound](/Spells.aspx?ID=132), [Haste](/Spells.aspx?ID=147), [Hypercognition](/Spells.aspx?ID=156), [Mage Hand](/Spells.aspx?ID=177), [Magic Missile](/Spells.aspx?ID=180), [Maze](/Spells.aspx?ID=187), [Mind Blank](/Spells.aspx?ID=192), [Mind Reading](/Spells.aspx?ID=194), [Misdirection](/Spells.aspx?ID=198), [Modify Memory](/Spells.aspx?ID=200), [Nondetection](/Spells.aspx?ID=209), [Overwhelming Presence](/Spells.aspx?ID=212), [Possession](/Spells.aspx?ID=225), [Prismatic Wall](/Spells.aspx?ID=234), [Project Image](/Spells.aspx?ID=237), [Read Omens](/Spells.aspx?ID=247), [Repulsion](/Spells.aspx?ID=254), [Reverse Gravity](/Spells.aspx?ID=261), [Sanctuary](/Spells.aspx?ID=266), [Scrying](/Spells.aspx?ID=268), [See Invisibility](/Spells.aspx?ID=271), [Shadow Blast](/Spells.aspx?ID=273), [Shadow Walk](/Spells.aspx?ID=275), [Shield](/Spells.aspx?ID=280), [Telepathic Demand](/Spells.aspx?ID=336), [Tongues](/Spells.aspx?ID=340), [True Seeing](/Spells.aspx?ID=344), [True Strike](/Spells.aspx?ID=345), [Vampiric Exsanguination](/Spells.aspx?ID=353), [Ventriloquism](/Spells.aspx?ID=356), [Weird](/Spells.aspx?ID=375)",
+ "strength": 8,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The most powerful of all rakshasas, maharajas form very rarely, never more than once or twice a century, and only from the reincarnated spirits of …",
+ "summary_markdown": "The most powerful of all rakshasas, maharajas form very rarely, never more than once or twice a century, and only from the reincarnated spirits of …",
+ "text": " Maharaja The most powerful of all rakshasas, maharajas form very rarely, never more than once or twice a century, and only from the reincarnated spirits of other powerful and wicked rakshasas. The birth of a new maharaja rakshasa is a momentous occasion, and less powerful rakshasas will seek to curry favor with the new maharaja at an early age. Each maharaja rakshasa is unique and boasts their own selection of spells. All are generally humanoid save for their many heads, which always number at least four and can range up to a dozen. One of these heads tends to be humanoid, while the others take the forms of cats, snakes, and other predatory animals. Recall Knowledge - Fiend (Religion): DC 45 Unspecific Lore : DC 43 Specific Lore : DC 40 Maharaja Source Bestiary 3 pg. 211 Perception +37; darkvision Languages Abyssal, Common, Infernal, Undercommon; tongues Skills Acrobatics +33, Arcana +33, Deception +41, Diplomacy +38, Intimidation +38, Lore +33, Occultism +35, Religion +35, Society +35 Str +8 Dex +9 Con +7 Int +7 Wis +7 Cha +10 Items +2 greater striking falchion --- AC 45 all-around vision Fort +31 Ref +33 Will +35 +2 status to all saves vs. magic, +3 status to all saves vs. divine magic HP 320 Resistances physical 20 (except piercing) Weaknesses good 20 Reflect Spell Reaction (abjuration, occult) Trigger A foe Casts a Spell the maharaja knows, and the maharaja rakshasa can see its manifestation; Effect The maharaja expends one of their spell slots to reflect the triggering creature's spell. The maharaja loses their spell slot as if they had cast the triggering spell, and then attempts to counteract it (counteract modifier +37, counteract level 10). On a success, the maharaja turns the spell back on its caster. The reflected spell affects only the caster, even if it's an area spell or would normally affect more than one creature. The original caster can attempt a save and use other defenses against the reflected spell as normal. --- Speed 40 feet, fly 30 feet Melee Single Action falchion +38 (Forceful, Sweep), Damage 3d10+16 slashing plus 3d6 mental Melee Single Action fangs +34 (Agile), Damage 4d6+14 piercing Occult Spontaneous Spells DC 47 - Cantrips (9th) Dancing Lights, Detect Magic, Ghost Sound, Mage Hand, Shield - 1st Magic Missile, Sanctuary, True Strike, Ventriloquism (4 slots) - 2nd Darkness, Dispel Magic, Misdirection, See Invisibility (4 slots) - 3rd Dispel Magic, Enthrall, Haste, Hypercognition, Nondetection (4 slots) - 4th Confusion, Dimension Door, Dispel Magic, Modify Memory, Read Omens (4 slots) - 5th Crushing Despair, Dispel Magic, False Vision, Shadow Blast, Shadow Walk (4 slots) - 6th Repulsion, Scrying, True Seeing, Vampiric Exsanguination (4 slots) - 7th Dispel Magic, Haste, Possession, Project Image, Reverse Gravity (4 slots) - 8th Discern Location, Dispel Magic, Maze, Mind Blank, Prismatic Wall (4 slots) - 9th Dispel Magic, Foresight, Overwhelming Presence, Telepathic Demand, Weird (4 slots) - 10th Fabricated Truth (1 slot) Occult Innate Spells DC 47 - 9th Clairaudience (at will), Clairvoyance (at will), Mind Reading (at will) - 10th Dominate - Constant (9th) Tongues Autonomous Spell Free Action Frequency once per round; Trigger a foe's turn begins; Effect The maharaja's four heads allow them to quickly cast additional spells. They cast one of their 8th-level or lower occult spontaneous spells that normally takes 2 actions or fewer to cast. Change Shape Single Action (Concentrate, Occult, Polymorph, Transmutation) The maharaja takes on the appearance of any Medium humanoid. This doesn't change their Speed or their attack and damage modifiers with their Strikes but might change the damage type their Strikes deal (typically to bludgeoning). They lose their fangs Strike unless the humanoid form has fangs or a similar unarmed attack, and they lose Four-Fanged Assault unless the new form has four or more heads and fangs. Four-Fanged Assault Single Action The maharaja makes four fangs Strikes, each against a different target. These Strikes count as only one attack for the maharaja's multiple attack penalty, and the penalty doesn't increase until after they have made all four attacks. ",
+ "trait": [
+  "Fiend",
+  "Rakshasa",
+  "Rare",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Rakshasa](/Traits.aspx?ID=233), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Fiend",
+  "Rakshasa",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1272",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "good": 20
+ },
+ "weakness_markdown": "good 20",
+ "weakness_raw": "good 20",
+ "will_save": 35,
+ "wisdom": 7
+}

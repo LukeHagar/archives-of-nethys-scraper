@@ -1,0 +1,108 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Verdant Burst",
+  "Change Shape",
+  "Deafening Blow",
+  "Glide"
+ ],
+ "creature_family": "Leshy",
+ "creature_family_markdown": "[Leshy](/MonsterFamilies.aspx?ID=67)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 15,
+ "hp_raw": "15",
+ "id": "creature-279",
+ "image": [
+  "/Images/Monsters/Leshy_LeafLeshy.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Common",
+  "Druidic",
+  "Sylvan",
+  "<%SPELLS%294%%><i>speak with plants</i><%END> (trees only)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Druidic](/Languages.aspx?ID=23), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294) (trees only)",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Leaf Leshy](/Monsters.aspx?ID=279)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLeaf leshys are diminutive protectors of forests clad in pine cone armor and hats of fruit, flowers, or leaves. They enjoy mock battles but act cautiously in real ones.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Leshy_LeafLeshy.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Leaf Leshy](/Monsters.aspx?ID=279)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Leshy\" url=\"/Traits.aspx?ID=225\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 218</row>\n\n**Perception** +4; low-light vision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Druidic](/Languages.aspx?ID=23), [Sylvan](/Languages.aspx?ID=10); [_speak with plants_](/Spells.aspx?ID=294) (trees only)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +4, [Nature](/Skills.aspx?ID=10) +4, [Stealth](/Skills.aspx?ID=15) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** -1\r\n\r\n**Dex** +2\r\n\r\n**Con** +2\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Longspear](/Weapons.aspx?ID=6)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 15\n\n**Weaknesses**\r\nfire 2\r\n\r\n**Verdant Burst** ([healing](/Traits.aspx?ID=89)) When a leaf leshy dies, a burst of primal energy explodes from its body, restoring 1d4 Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain. If the terrain is not a viable environment for these trees, they wither after 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet; glide\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongspear +3 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8–1 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nseedpod +6 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d6 bludgeoning plus deafening blow\r\n\r\n**Primal Innate Spells** DC 14\r\n- **4th**\r\n[Speak with Plants](/Spells.aspx?ID=294)\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of [_tree shape_](/Spells.aspx?ID=342).\r\n\r\n**Deafening Blow**   When a leaf leshy hits with its seedpod Strike, the target must attempt a DC 16 Fortitude save.<br /> **Critical Success** The target is unaffected and temporarily immune for 24 hours.<br /> **Success** The target is unaffected.<br /> **Failure** The target is [deafened](/Conditions.aspx?ID=8) for 1 round.<br /> **Critical Failure** The target is [deafened](/Conditions.aspx?ID=8) for 1 minute.\r\n\r\n**Glide** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The leshy glides gently through the air, moving 5 feet toward the ground and up to 25 feet forward. As long as the leshy spends at least 1 action gliding each round, it remains in the air at the end of each turn. For the purpose of determining damage from falls, a leaf leshy always treats falls as if they were 20 feet shorter.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-67\" />",
+ "name": "Leaf Leshy",
+ "npc": false,
+ "perception": 4,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 6,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Leshy\" url=\"/Traits.aspx?ID=225\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 218</row>\r\n\r\n**Creature Family** [Leshy](/MonsterFamilies.aspx?ID=67)\r\n\r\n<row gap=\"medium\">\r\n**HP** 15\r\n\r\n**AC** 18\r\n\r\n**Fort** +6\r\n\r\n**Ref** +6\r\n\r\n**Will** +4\r\n\r\n**Perception** +4\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLeaf leshys are diminutive protectors of forests clad in pine cone armor and hats of fruit, flowers, or leaves. They enjoy mock battles but act …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +4",
+  "Nature +4",
+  "Stealth +4"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +4, [Nature](/Skills.aspx?ID=10) +4, [Stealth](/Skills.aspx?ID=15) +4",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 218"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 218</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet; glide",
+ "speed_raw": "25 feet; glide",
+ "spell": [
+  "Speak with Plants"
+ ],
+ "spell_markdown": "[Speak with Plants](/Spells.aspx?ID=294)",
+ "stealth": "4",
+ "strength": -1,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "Leaf leshys are diminutive protectors of forests clad in pine cone armor and hats of fruit, flowers, or leaves. They enjoy mock battles but act …",
+ "summary_markdown": "Leaf leshys are diminutive protectors of forests clad in pine cone armor and hats of fruit, flowers, or leaves. They enjoy mock battles but act …",
+ "text": " Leaf Leshy Leaf leshys are diminutive protectors of forests clad in pine cone armor and hats of fruit, flowers, or leaves. They enjoy mock battles but act cautiously in real ones. Recall Knowledge - Plant (Nature): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Leaf Leshy Source Bestiary pg. 218 Perception +4; low-light vision Languages Common, Druidic, Sylvan; speak with plants (trees only) Skills Acrobatics +4, Nature +4, Stealth +4 Str -1 Dex +2 Con +2 Int -2 Wis +2 Cha +1 Items Longspear --- AC 18 Fort +6 Ref +6 Will +4 HP 15 Weaknesses fire 2 Verdant Burst (healing) When a leaf leshy dies, a burst of primal energy explodes from its body, restoring 1d4 Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming difficult terrain. If the terrain is not a viable environment for these trees, they wither after 24 hours. --- Speed 25 feet; glide Melee Single Action longspear +3 (reach 10 feet), Damage 1d8–1 piercing Ranged Single Action seedpod +6 (range increment 30 feet), Damage 1d6 bludgeoning plus deafening blow Primal Innate Spells DC 14 - 4th Speak with Plants Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) The leaf leshy transforms into a Small tree. This ability otherwise uses the effects of tree shape . Deafening Blow When a leaf leshy hits with its seedpod Strike, the target must attempt a DC 16 Fortitude save. Critical Success The target is unaffected and temporarily immune for 24 hours. Success The target is unaffected. Failure The target is deafened for 1 round. Critical Failure The target is deafened for 1 minute. Glide Single Action (Move) The leshy glides gently through the air, moving 5 feet toward the ground and up to 25 feet forward. As long as the leshy spends at least 1 action gliding each round, it remains in the air at the end of each turn. For the purpose of determining damage from falls, a leaf leshy always treats falls as if they were 20 feet shorter. ",
+ "trait": [
+  "Leshy",
+  "Plant",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Leshy](/Traits.aspx?ID=225), [Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Leshy",
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=279",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 2
+ },
+ "weakness_markdown": "fire 2",
+ "weakness_raw": "fire 2",
+ "will_save": 4,
+ "wisdom": 2
+}

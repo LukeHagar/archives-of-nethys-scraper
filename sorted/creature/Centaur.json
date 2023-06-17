@@ -1,0 +1,96 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 1,
+ "creature_ability": [
+  "Shield Block",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-76",
+ "image": [
+  "/Images/Monsters/Centaur.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Elven",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Centaur](/Monsters.aspx?ID=76)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCentaurs are legendary hunters and trackers who resemble heavily muscled humans with the bodies of powerful horses from the waist down. They are typically reclusive but haughty, quick to assume that their handsome physiques and long history of cultural traditions make them superior to any two-legged folk they encounter. While stories of bloody clashes between centaurs and humanoid settlers are well known, centaurs are neither intrinsically bloodthirsty nor recklessly aggressive. Rather, they are proud and stubborn and do not take kindly to outsiders who encroach on their ancestral grounds, some of which have been ruled by centaurs for thousands of years. Against despoilers of nature who fail to heed their warnings, centaurs do not hesitate to use their finely honed hunting skills to inflict deadly wounds.\n\n Centaurs train with weapons as well as their heavy hooves, and the thunder of centaurs charging across the plains is often mistaken for a stampede or even an earthquake. Despite their insular nature, some centaurs form close alliances with elves, fey, gnomes, and isolated human communities. Such allies are often surprised to learn the depths of centaurs’ honor, pragmatism, and wilderness lore. Rarely, a centaur leaves its tribe to travel the wider world. Such lone centaur wanderers more easily integrate into humanoid societies, but other centaurs are quick to assume that some dishonor led to their exile and thus give such vagabonds a wide berth.\n\n Centaurs have incredible variation in their individual size and coloration. Their upper bodies are fairly similar within a tribe and even region, but their lower bodies—like those of horses—can vary widely from parent to child. Most centaurs are at least 7 feet tall and weigh more than 2,000 pounds.\n\n Centaurs live in groups of dozens of members, usually led by an old, powerful seer or battle-hardened warrior who has carried out many noble deeds and earned a lifetime of respect from their comrades. The revered leader guides the habits of their entire group; a wise seer might encourage the tribe to roam far from civilization to preserve the ways of its ancestors, while an aggressive warrior might foster skirmishes with nearby humanoid settlements and even rival centaur groups.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Centaur.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Centaur](/Monsters.aspx?ID=76)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 60</row>\n\n**Perception** +9; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11, [Diplomacy](/Skills.aspx?ID=6) +6, [Intimidation](/Skills.aspx?ID=7) +6, [Nature](/Skills.aspx?ID=10) +7, [Survival](/Skills.aspx?ID=16) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Breastplate](/Armor.aspx?ID=10), [Spear](/Weapons.aspx?ID=10) (3), [steel shield](/Shields.aspx?ID=3) (Hardness 5, HP 20, BT 10)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 (22 with shield raised)\r\n\r\n**Fort** +8 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 40\n\n**Shield Block** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhoof +9 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d10+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlongsword +11 ([versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d8+4 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspear +11,\r\n**Damage** 1d6+4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspear +9 ([thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+4 piercing\n\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Medium or smaller, hoof, DC 18\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Centaur Treasure</title>\r\n\r\nCentaurs appreciate fine weapons and armor. Some craft their own while others use quality armaments they take from their enemies; however, due to their forms, they are unlikely to use armor heavier than breastplates.\r\n</aside>",
+ "name": "Centaur",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 60</row>\n\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 20\r\n\r\n**Fort** +8\r\n\r\n**Ref** +9\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCentaurs are legendary hunters and trackers who resemble heavily muscled humans with the bodies of powerful horses from the waist down. They are …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +11",
+  "Diplomacy +6",
+  "Intimidation +6",
+  "Nature +7",
+  "Survival +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11, [Diplomacy](/Skills.aspx?ID=6) +6, [Intimidation](/Skills.aspx?ID=7) +6, [Nature](/Skills.aspx?ID=10) +7, [Survival](/Skills.aspx?ID=16) +7",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 60"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 60</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "summary": "Centaurs are legendary hunters and trackers who resemble heavily muscled humans with the bodies of powerful horses from the waist down. They are …",
+ "summary_markdown": "Centaurs are legendary hunters and trackers who resemble heavily muscled humans with the bodies of powerful horses from the waist down. They are …",
+ "text": " Centaur Centaurs are legendary hunters and trackers who resemble heavily muscled humans with the bodies of powerful horses from the waist down. They are typically reclusive but haughty, quick to assume that their handsome physiques and long history of cultural traditions make them superior to any two-legged folk they encounter. While stories of bloody clashes between centaurs and humanoid settlers are well known, centaurs are neither intrinsically bloodthirsty nor recklessly aggressive. Rather, they are proud and stubborn and do not take kindly to outsiders who encroach on their ancestral grounds, some of which have been ruled by centaurs for thousands of years. Against despoilers of nature who fail to heed their warnings, centaurs do not hesitate to use their finely honed hunting skills to inflict deadly wounds. Centaurs train with weapons as well as their heavy hooves, and the thunder of centaurs charging across the plains is often mistaken for a stampede or even an earthquake. Despite their insular nature, some centaurs form close alliances with elves, fey, gnomes, and isolated human communities. Such allies are often surprised to learn the depths of centaurs’ honor, pragmatism, and wilderness lore. Rarely, a centaur leaves its tribe to travel the wider world. Such lone centaur wanderers more easily integrate into humanoid societies, but other centaurs are quick to assume that some dishonor led to their exile and thus give such vagabonds a wide berth. Centaurs have incredible variation in their individual size and coloration. Their upper bodies are fairly similar within a tribe and even region, but their lower bodies—like those of horses—can vary widely from parent to child. Most centaurs are at least 7 feet tall and weigh more than 2,000 pounds. Centaurs live in groups of dozens of members, usually led by an old, powerful seer or battle-hardened warrior who has carried out many noble deeds and earned a lifetime of respect from their comrades. The revered leader guides the habits of their entire group; a wise seer might encourage the tribe to roam far from civilization to preserve the ways of its ancestors, while an aggressive warrior might foster skirmishes with nearby humanoid settlements and even rival centaur groups. Recall Knowledge - Beast (Arcana, Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Centaur Source Bestiary pg. 60 Perception +9; darkvision Languages Common, Elven, Sylvan Skills Athletics +11, Diplomacy +6, Intimidation +6, Nature +7, Survival +7 Str +4 Dex +2 Con +1 Int +0 Wis +2 Cha +1 Items Breastplate, Spear (3), steel shield (Hardness 5, HP 20, BT 10) --- AC 20 (22 with shield raised) Fort +8 Ref +9 Will +9 HP 40 Shield Block Reaction --- Speed 40 feet Melee Single Action hoof +9 (Agile), Damage 1d10+4 bludgeoning Melee Single Action longsword +11 (versatile P), Damage 1d8+4 slashing Melee Single Action spear +11, Damage 1d6+4 piercing Ranged Single Action spear +9 (thrown 20 feet), Damage 1d6+4 piercing Trample Three Actions Medium or smaller, hoof, DC 18 Centaur Treasure Centaurs appreciate fine weapons and armor. Some craft their own while others use quality armaments they take from their enemies; however, due to their forms, they are unlikely to use armor heavier than breastplates. ",
+ "trait": [
+  "Beast",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=76",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 2
+}

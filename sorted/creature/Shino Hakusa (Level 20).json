@@ -1,0 +1,98 @@
+{
+ "ac": 45,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Nimble Dodge",
+  "Ki Absorption",
+  "Pressure Point Attack",
+  "Sneak Attack",
+  "Swallows in Flight"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hp": 360,
+ "hp_raw": "360",
+ "id": "creature-1526",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Goblin",
+  "Tien",
+  "Ysoki"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Tien](/Languages.aspx?ID=43), [Ysoki](/Languages.aspx?ID=61)",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"\">[Shino Hakusa (Level 20)](/NPCs.aspx?ID=1526)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 50\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 48\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 45\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Shino Hakusa (Level 20)](/NPCs.aspx?ID=1526)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 53</row>\n\n**Perception** +34; [lifesense](/MonsterAbilities.aspx?ID=21)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Tien](/Languages.aspx?ID=43), [Ysoki](/Languages.aspx?ID=61)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +38, [Athletics](/Skills.aspx?ID=3) +35, [Deception](/Skills.aspx?ID=5) +33, [Medicine](/Skills.aspx?ID=9) +35, [Occultism](/Skills.aspx?ID=11) +35, [Thievery](/Skills.aspx?ID=17) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +7\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n_+3 [major striking](/Equipment.aspx?ID=280) [greater shock](/Equipment.aspx?ID=303) [handwraps of mighty blows](/Equipment.aspx?ID=441)_, [_potion of flying_](/Equipment.aspx?ID=189), _potion of haste_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 45 \r\n\r\n**Fort** +33 \r\n\r\n**Ref** +36 \r\n\r\n**Will** +30 \r\n\r\n+3 status to all saves vs. [necromancy](/Traits.aspx?ID=117)\r\n</row>\r\n\r\n**HP** 360\n\n**Nimble Dodge** <actions string=\"Reaction\" /> **Trigger** Hakusa is targeted with a melee or ranged attack by an attacker she can see; **Effect** Hakusa gains a +2 circumstance bonus to AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_fingers_ +38 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 4d6+14 piercing plus ki absorption\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_palm_ +37 ([Forceful](/Traits.aspx?ID=180), [Magical](/Traits.aspx?ID=103), [Shove](/Traits.aspx?ID=193), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 6d6+14 bludgeoning plus ki absorption\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nvitality blast +38 ([Magical](/Traits.aspx?ID=103), [Negative](/Traits.aspx?ID=118), [range 60 feet](/Traits.aspx?ID=248), [Unarmed](/Traits.aspx?ID=199), [versatile positive](/Traits.aspx?ID=128)),\r\n**Damage** 4d8+8 negative\n\n**Ki Absorption**  ([Necromancy](/Traits.aspx?ID=117)) Hakusa absorbs vitality with each blow. She gains [fast healing 10](/MonsterAbilities.aspx?ID=15) for 1 round whenever she successfully Strikes with a melee [unarmed](/Traits.aspx?ID=199) attack.\r\n\r\n**Pressure Point Attack** <actions string=\"Two Actions\" />  Hakusa rapidly strikes at pressure points to debilitate a foe. She makes a fingers Strike. On a hit, the target takes damage as normal and must attempt a DC 43 Fortitude save. Regardless of the result of the save, the target is then temporarily immune to Pressure Point Attack for 1 minute. <br />**Critical Success** The target is unaffected. <br />**Success** The target's muscles become temporarily weaker. For 1 round, the target is [enfeebled 2](/Conditions.aspx?ID=13), and any time it attempts to take an action with the [manipulate](/Actions.aspx?ID=639) trait, the action is disrupted unless it succeeds at a flat check with a DC equal to 5 + its enfeebled value. <br />**Failure** As success, but the duration is 1 minute. <br />**Critical Failure** As success, but the duration is 1 minute, the flat check is DC 11, and the target takes a –10-foot status penalty to all Speeds for the duration.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   Hakusa's Strikes deal an extra 5d6 precision damage to flat-footed creatures.\r\n\r\n**Swallows in Flight** <actions string=\"Two Actions\" /> ([Certain Kill](/Traits.aspx?ID=384), [Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118)) **Frequency** once per round; **Effect** Hakusa strikes a series of pressure points on her target's body that redirects its ki to the heart, before following up with a palm strike to the sternum. She makes a fingers Strike and a palm Strike, dealing damage as normal. If both hit, the target takes 8d10 negative damage as its life energy escapes from its body in a shower of bird-shaped sparks. The target attempts a DC 43 Fortitude save. <br />**Critical Success** The target is unaffected. <br />**Success** The target takes half the negative damage. <br />**Failure** The target takes full damage, its life energy exploding violently from its back in a 30-foot cone originating from the target. All of Hakusa's other enemies in the cone also take the negative damage (DC 43 [basic](/Rules.aspx?ID=329) Fortitude save). <br />**Critical Failure** As failure, but the target takes double negative damage.\r\n\r\n</column>",
+ "name": "Shino Hakusa (Level 20)",
+ "npc": true,
+ "perception": 34,
+ "rarity": "unique",
+ "reflex_save": 36,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 53</row>\n\n<row gap=\"medium\">\r\n**HP** 360\r\n\r\n**AC** 45\r\n\r\n**Fort** +33\r\n\r\n**Ref** +36\r\n\r\n**Will** +30\r\n\r\n**Perception** +34\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " lifesense ",
+ "sense_markdown": "[lifesense](/MonsterAbilities.aspx?ID=21)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +38",
+  "Athletics +35",
+  "Deception +33",
+  "Medicine +35",
+  "Occultism +35",
+  "Thievery +33"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +38, [Athletics](/Skills.aspx?ID=3) +35, [Deception](/Skills.aspx?ID=5) +33, [Medicine](/Skills.aspx?ID=9) +35, [Occultism](/Skills.aspx?ID=11) +35, [Thievery](/Skills.aspx?ID=17) +33",
+ "source": [
+  "Pathfinder #168: King of the Mountain"
+ ],
+ "source_raw": [
+  "Pathfinder #168: King of the Mountain pg. 53"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 53</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Shino Hakusa (Level 20) Recall Knowledge - Humanoid (Society): DC 50 Unspecific Lore : DC 48 Specific Lore : DC 45 Shino Hakusa (Level 20) Source Pathfinder #168: King of the Mountain pg. 53 Perception +34; lifesense Languages Common, Goblin, Tien, Ysoki Skills Acrobatics +38, Athletics +35, Deception +33, Medicine +35, Occultism +35, Thievery +33 Str +6 Dex +7 Con +4 Int +2 Wis +3 Cha +1 Items +3 major striking greater shock handwraps of mighty blows , potion of flying , potion of haste --- AC 45 Fort +33 Ref +36 Will +30 +3 status to all saves vs. necromancy HP 360 Nimble Dodge Reaction Trigger Hakusa is targeted with a melee or ranged attack by an attacker she can see; Effect Hakusa gains a +2 circumstance bonus to AC against the triggering attack. --- Speed 30 feet Melee Single Action fingers +38 (Agile, Finesse, Magical, Unarmed), Damage 4d6+14 piercing plus ki absorption Melee Single Action palm +37 (Forceful, Magical, Shove, Unarmed), Damage 6d6+14 bludgeoning plus ki absorption Ranged Single Action vitality blast +38 (Magical, Negative, range 60 feet, Unarmed, versatile positive), Damage 4d8+8 negative Ki Absorption (Necromancy) Hakusa absorbs vitality with each blow. She gains fast healing 10 for 1 round whenever she successfully Strikes with a melee unarmed attack. Pressure Point Attack Two Actions Hakusa rapidly strikes at pressure points to debilitate a foe. She makes a fingers Strike. On a hit, the target takes damage as normal and must attempt a DC 43 Fortitude save. Regardless of the result of the save, the target is then temporarily immune to Pressure Point Attack for 1 minute. Critical Success The target is unaffected. Success The target's muscles become temporarily weaker. For 1 round, the target is enfeebled 2, and any time it attempts to take an action with the manipulate trait, the action is disrupted unless it succeeds at a flat check with a DC equal to 5 + its enfeebled value. Failure As success, but the duration is 1 minute. Critical Failure As success, but the duration is 1 minute, the flat check is DC 11, and the target takes a –10-foot status penalty to all Speeds for the duration. Sneak Attack Hakusa's Strikes deal an extra 5d6 precision damage to flat-footed creatures. Swallows in Flight Two Actions (Certain Kill, Necromancy, Negative) Frequency once per round; Effect Hakusa strikes a series of pressure points on her target's body that redirects its ki to the heart, before following up with a palm strike to the sternum. She makes a fingers Strike and a palm Strike, dealing damage as normal. If both hit, the target takes 8d10 negative damage as its life energy escapes from its body in a shower of bird-shaped sparks. The target attempts a DC 43 Fortitude save. Critical Success The target is unaffected. Success The target takes half the negative damage. Failure The target takes full damage, its life energy exploding violently from its back in a 30-foot cone originating from the target. All of Hakusa's other enemies in the cone also take the negative damage (DC 43 basic Fortitude save). Critical Failure As failure, but the target takes double negative damage. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Unique",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=1526",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 30,
+ "wisdom": 3
+}

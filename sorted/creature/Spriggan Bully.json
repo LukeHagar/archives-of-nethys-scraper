@@ -1,0 +1,104 @@
+{
+ "ac": 19,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Enraged Growth",
+  "Bully's Bludgeon",
+  "Sneak Attack"
+ ],
+ "creature_family": "Spriggan",
+ "creature_family_markdown": "[Spriggan](/MonsterFamilies.aspx?ID=154)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 48,
+ "hp_raw": "48",
+ "id": "creature-817",
+ "intelligence": 1,
+ "language": [
+  "Aklo",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Spriggan Bully](/Monsters.aspx?ID=817)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe typical spriggan is a bully who prefers to take live prisoners in fights, but only to ensure that they have a large stock of living victims to torment, tease, and abuse. They train to use weapons in nonlethal ways that inflict the maximum amount of pain even as they guard against accidental death. When not bullying prisoners or hunting for new victims, spriggan bullies enjoy drinking, watching others fight, and fighting among themselves.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Spriggan Bully](/Monsters.aspx?ID=817)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Gnome\" url=\"/Traits.aspx?ID=80\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Spriggan\" url=\"/Traits.aspx?ID=309\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 252 <sup>2.0</sup></row>\n\n**Perception** +10; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +10, [Society](/Skills.aspx?ID=14) +8, [Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +10, [Thievery](/Skills.aspx?ID=17) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Crossbow](/Weapons.aspx?ID=67) (10 bolts), [Morningstar](/Weapons.aspx?ID=8)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 48\n\n**Enraged Growth** <actions string=\"Reaction\" /> ([polymorph](/Traits.aspx?ID=127), [primal](/Traits.aspx?ID=134), [transmutation](/Traits.aspx?ID=157)) **Trigger** The spriggan bully takes damage; **Effect** The spriggan bully grows to Large size, along with their equipment (which returns to natural size if removed). The spriggan bully's reach increases by 5 feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage rolls. This effect continues until the end of the spriggan bully's next turn, but on any turn in which the spriggan bully deals damage to another creature and is not [fatigued](/Conditions.aspx?ID=15), the effect extends until the end of the following turn. When Enraged Growth ends, the spriggan bully is fatigued for 1 hour.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmorningstar +10 ([versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+6 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ncrossbow +11 ([range increment 120 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d8 piercing\r\n\r\n**Primal Innate Spells** DC 20\r\n- **Cantrips (2nd)**\r\n[Dancing Lights](/Spells.aspx?ID=58)\r\n- **1st**\r\n[Fear](/Spells.aspx?ID=110)\r\n- **2nd**\r\n[Shatter](/Spells.aspx?ID=279)\r\n\r\n**Bully's Bludgeon** <actions string=\"Single Action\" />  The spriggan bully makes a morningstar Strike with a +2 circumstance bonus to its attack roll. This attack is [nonlethal](/Traits.aspx?ID=188).\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The spriggan bully's Strikes deal an additional 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-154\" />",
+ "name": "Spriggan Bully",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Gnome\" url=\"/Traits.aspx?ID=80\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Spriggan\" url=\"/Traits.aspx?ID=309\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 252 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Spriggan](/MonsterFamilies.aspx?ID=154)\r\n\r\n<row gap=\"medium\">\r\n**HP** 48\r\n\r\n**AC** 19\r\n\r\n**Fort** +9\r\n\r\n**Ref** +11\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe typical spriggan is a bully who prefers to take live prisoners in fights, but only to ensure that they have a large stock of living victims to …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +9",
+  "Athletics +8",
+  "Intimidation +10",
+  "Society +8",
+  "Stealth +11",
+  "Survival +10",
+  "Thievery +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +10, [Society](/Skills.aspx?ID=14) +8, [Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +10, [Thievery](/Skills.aspx?ID=17) +9",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 252"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 252 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell": [
+  "Shatter",
+  "Fear",
+  "Dancing Lights"
+ ],
+ "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Fear](/Spells.aspx?ID=110), [Shatter](/Spells.aspx?ID=279)",
+ "stealth": "11",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The typical spriggan is a bully who prefers to take live prisoners in fights, but only to ensure that they have a large stock of living victims to …",
+ "summary_markdown": "The typical spriggan is a bully who prefers to take live prisoners in fights, but only to ensure that they have a large stock of living victims to …",
+ "text": " Spriggan Bully The typical spriggan is a bully who prefers to take live prisoners in fights, but only to ensure that they have a large stock of living victims to torment, tease, and abuse. They train to use weapons in nonlethal ways that inflict the maximum amount of pain even as they guard against accidental death. When not bullying prisoners or hunting for new victims, spriggan bullies enjoy drinking, watching others fight, and fighting among themselves. Recall Knowledge - Humanoid (Society): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Spriggan Bully Source Bestiary 2 pg. 252 2.0 Perception +10; low-light vision Languages Aklo, Common Skills Acrobatics +9, Athletics +8, Intimidation +10, Society +8, Stealth +11, Survival +10, Thievery +9 Str +3 Dex +4 Con +2 Int +1 Wis +3 Cha +1 Items Crossbow (10 bolts), Morningstar --- AC 19 Fort +9 Ref +11 Will +8 HP 48 Enraged Growth Reaction (polymorph, primal, transmutation) Trigger The spriggan bully takes damage; Effect The spriggan bully grows to Large size, along with their equipment (which returns to natural size if removed). The spriggan bully's reach increases by 5 feet. They regain 5 Hit Points and gain a +2 status bonus to melee attacks and damage rolls. This effect continues until the end of the spriggan bully's next turn, but on any turn in which the spriggan bully deals damage to another creature and is not fatigued, the effect extends until the end of the following turn. When Enraged Growth ends, the spriggan bully is fatigued for 1 hour. --- Speed 20 feet Melee Single Action morningstar +10 (versatile P), Damage 1d6+6 bludgeoning Ranged Single Action crossbow +11 (range increment 120 feet, reload 1), Damage 1d8 piercing Primal Innate Spells DC 20 - Cantrips (2nd) Dancing Lights - 1st Fear - 2nd Shatter Bully's Bludgeon Single Action The spriggan bully makes a morningstar Strike with a +2 circumstance bonus to its attack roll. This attack is nonlethal. Sneak Attack The spriggan bully's Strikes deal an additional 1d6 precision damage to flat-footed creatures. ",
+ "trait": [
+  "Gnome",
+  "Humanoid",
+  "Spriggan",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Gnome](/Traits.aspx?ID=80), [Humanoid](/Traits.aspx?ID=91), [Spriggan](/Traits.aspx?ID=309)",
+ "trait_raw": [
+  "Gnome",
+  "Humanoid",
+  "Spriggan"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=817",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 3
+}

@@ -1,0 +1,112 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Steam Vision",
+  "Boiling Rain",
+  "Breath Weapon"
+ ],
+ "creature_family": "Elemental, Mephit",
+ "creature_family_markdown": "[Elemental, Mephit](/MonsterFamilies.aspx?ID=44)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 19,
+ "hp_raw": "19 ( fast healing  2 (in boiling water or steam))",
+ "id": "creature-662",
+ "immunity": [
+  "bleed",
+  "fire",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, fire, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -2,
+ "language": [
+  "Aquan",
+  "Ignan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Ignan](/Languages.aspx?ID=18)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Steam Mephit](/Monsters.aspx?ID=662)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese brash and arrogant creatures are among the more energetic mephits. They are quick to nominate themselves the leaders of any group, barking out orders in shrill, high-pitched voices and insisting on having everything done their way. Even when they aren't bossing others around, the constant hiss of steam escaping from their pores ensures that there is never a quiet moment.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 17\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 15\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 12\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Steam Mephit](/Monsters.aspx?ID=662)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 113 <sup>2.0</sup></row>\n\n**Perception** +3; [darkvision](/MonsterAbilities.aspx?ID=12), steam vision\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Ignan](/Languages.aspx?ID=18)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Intimidation](/Skills.aspx?ID=7) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +0\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Steam Vision** The steam mephit ignores the [concealed](/Conditions.aspx?ID=4) condition from mist and steam.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 19\r\n([fast healing](/MonsterAbilities.aspx?ID=15) 2 (in boiling water or steam))\n\n**Immunities**\r\nbleed, fire, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\ncold 3\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, fly 25 feet, swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +7 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+1 slashing\r\n\r\n**Arcane Innate Spells** DC 17\r\n- **2nd**\r\n[Obscuring Mist](/Spells.aspx?ID=210)\r\n\r\n**Boiling Rain** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Conjuration](/Traits.aspx?ID=33), [Fire](/Traits.aspx?ID=72), [Water](/Traits.aspx?ID=165)) **Frequency** once per day; **Effect** The steam mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 2d8 fire damage (DC 17 basic Reflex save), and small unattended flames (such as torches) are extinguished.\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Fire](/Traits.aspx?ID=72)) The steam mephit spits a cloud of steam in a 15-foot cone that deals 2d6 fire damage to each creature within the area (DC 17 basic Reflex save). The steam mephit can't use Breath Weapon again for 1d4 rounds.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-44\" />",
+ "name": "Steam Mephit",
+ "npc": false,
+ "perception": 3,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 7,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 113 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Elemental, Mephit](/MonsterFamilies.aspx?ID=44)\r\n\r\n<row gap=\"medium\">\r\n**HP** 19 ( fast healing  2 (in boiling water or steam))\r\n\r\n**AC** 16\r\n\r\n**Fort** +9\r\n\r\n**Ref** +7\r\n\r\n**Will** +5\r\n\r\n**Perception** +3\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese brash and arrogant creatures are among the more energetic mephits. They are quick to nominate themselves the leaders of any group, barking out …\r\n</summary>",
+ "sense": " darkvision , steam vision",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), steam vision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Intimidation +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Intimidation](/Skills.aspx?ID=7) +6",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 113"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 113 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 25,
+  "land": 20,
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "20 feet, fly 25 feet, swim 25 feet",
+ "speed_raw": "20 feet, fly 25 feet, swim 25 feet",
+ "spell": [
+  "Obscuring Mist"
+ ],
+ "spell_markdown": "[Obscuring Mist](/Spells.aspx?ID=210)",
+ "strength": 1,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "These brash and arrogant creatures are among the more energetic mephits. They are quick to nominate themselves the leaders of any group, barking out …",
+ "summary_markdown": "These brash and arrogant creatures are among the more energetic mephits. They are quick to nominate themselves the leaders of any group, barking out …",
+ "text": " Steam Mephit These brash and arrogant creatures are among the more energetic mephits. They are quick to nominate themselves the leaders of any group, barking out orders in shrill, high-pitched voices and insisting on having everything done their way. Even when they aren't bossing others around, the constant hiss of steam escaping from their pores ensures that there is never a quiet moment. Recall Knowledge - Elemental (Arcana, Nature): DC 17 Unspecific Lore : DC 15 Specific Lore : DC 12 Steam Mephit Source Bestiary 2 pg. 113 2.0 Perception +3; darkvision, steam vision Languages Aquan, Ignan Skills Acrobatics +7, Intimidation +6 Str +1 Dex +2 Con +4 Int -2 Wis +0 Cha +0 Steam Vision The steam mephit ignores the concealed condition from mist and steam. --- AC 16 Fort +9 Ref +7 Will +5 HP 19 (fast healing 2 (in boiling water or steam)) Immunities bleed, fire, paralyzed, poison, sleep Weaknesses cold 3 --- Speed 20 feet, fly 25 feet, swim 25 feet Melee Single Action claw +7 (Agile, Finesse), Damage 1d6+1 slashing Arcane Innate Spells DC 17 - 2nd Obscuring Mist Boiling Rain Two Actions (Arcane, Conjuration, Fire, Water) Frequency once per day; Effect The steam mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 2d8 fire damage (DC 17 basic Reflex save), and small unattended flames (such as torches) are extinguished. Breath Weapon Two Actions (Arcane, Fire) The steam mephit spits a cloud of steam in a 15-foot cone that deals 2d6 fire damage to each creature within the area (DC 17 basic Reflex save). The steam mephit can't use Breath Weapon again for 1d4 rounds. ",
+ "trait": [
+  "Elemental",
+  "Fire",
+  "Uncommon",
+  "Water",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Elemental](/Traits.aspx?ID=57), [Fire](/Traits.aspx?ID=72), [Uncommon](/Traits.aspx?ID=159), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Elemental",
+  "Fire",
+  "Uncommon",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=662",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold": 3
+ },
+ "weakness_markdown": "cold 3",
+ "weakness_raw": "cold 3",
+ "will_save": 5,
+ "wisdom": 0
+}

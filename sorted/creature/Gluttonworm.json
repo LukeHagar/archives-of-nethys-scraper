@@ -1,0 +1,95 @@
+{
+ "ac": 41,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 6,
+ "creature_ability": [
+  "Dune Dispersal",
+  "Sand Armor",
+  "Inexorable",
+  "Fast Swallow",
+  "Gulping Charge",
+  "Spew Sandstorm",
+  "Swallow Whole"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 35,
+ "hp": 445,
+ "hp_raw": "445",
+ "id": "creature-1673",
+ "image": [
+  "/Images/Monsters/Gluttonworm.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"\">[Gluttonworm](/Monsters.aspx?ID=1673)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAkiton's gluttonworms share many features of Golarion's [cave worms](/MonsterFamilies.aspx?ID=21), yet these immense predators are their own distinct species. Gluttonworms “swim” through the vast deserts of Akiton, moving almost like whales through the ocean as they forage for their next meals.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gluttonworm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Gluttonworm](/Monsters.aspx?ID=1673)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #173: Doorway to the Red Star](/Sources.aspx?ID=103) pg. 85</row>\n\n**Perception** +32; [darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 100 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +37\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -4\r\n\r\n**Wis** +5\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 41 \r\n\r\n**Fort** +35 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +32 \n\n</row>\r\n\r\n**HP** 445\n\n**Dune Dispersal** ([aura](/Traits.aspx?ID=206)) 15 feet. Ground in the aura is greater difficult terrain.<br />**Sand Armor** ([necromancy](/Traits.aspx?ID=117), [primal](/Traits.aspx?ID=134)) A gluttonworm in contact with a significant body of sand, such as a desert or beach, gains [fast healing 10](/MonsterAbilities.aspx?ID=15). If the gluttonworm is subject to [persistent bleed](/Conditions.aspx?ID=29), the flowing blood quickly congeals with the sand covering its body, instantly ending the bleed duration and giving the gluttonworm a +2 circumstance bonus to AC until the end of its next turn.<br />**Inexorable** The gluttonworm recovers from the [paralyzed](/Conditions.aspx?ID=28), [slowed](/Conditions.aspx?ID=35), and [stunned](/Conditions.aspx?ID=36) conditions at the end of its turn. It's also immune to penalties to its Speeds and the [immobilized](/Conditions.aspx?ID=24) condition, and it ignores difficult terrain and greater difficult terrain.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 40 feet (in sand or loose soil only)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +37 ([deadly 3d10](/Traits.aspx?ID=174), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d12+18 piercing and [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbody +33,\r\n**Damage** 4d8+18 bludgeoning\n\n**Fast Swallow** <actions string=\"Reaction\" />  **Trigger** The gluttonworm Grabs a creature, or a creature fails a Reflex save against a Gulping Charge; **Effect** The gluttonworm uses Swallow Whole.\r\n\r\n**Gulping Charge** <actions string=\"Three Actions\" />  The gluttonworm Strides up to double its Speed and can move through the spaces of Large or smaller creatures, gulping each creature whose space the worm enters and attempting a body Strike against each of them. The gluttonworm can use this Strike on each creature only once in a single use of Gulping Charge. Creatures can attempt a DC 41 [basic](/Rules.aspx?ID=329) Reflex save against this damage.\r\n\r\n**Spew Sandstorm** <actions string=\"Three Actions\" /> ([Air](/Traits.aspx?ID=5), [Earth](/Traits.aspx?ID=55), [Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The gluttonworm exhales swirling sand in a 60-foot cone. Creatures in the area must attempt a DC 41 Reflex save. It can't Spew Sandstorm again for 1d4 rounds. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature takes 4d6 slashing damage and 4d6 bludgeoning damage from the scouring sand. <br />**Failure** The creature takes 8d6 slashing damage and 8d6 bludgeoning damage from the sand, and is [dazzled](/Conditions.aspx?ID=7) until the end of its next turn. <br />**Critical Failure** The creature takes 12d6 slashing damage and 12d6 bludgeoning damage and is [blinded](/Conditions.aspx?ID=1) for 1 hour.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Huge, 3d10+17 bludgeoning plus 2d6 slashing, Rupture 36\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Forever Ravenous</title>\r\n\r\nA gluttonworm's metabolism is slow; they can go for years or even decades without a filling meal. Most gluttonworms exist in a constant state of ravenous pain as a result, and behave in an incredibly aggressive manner when they encounter anything edible. Most native creatures know to stay well away from the telltale rumbling and shifting dunes that portend a gluttonworm's approach.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Thasteron</title>\r\n\r\nThis unusual mineral can be found throughout Akiton. While not suitable for crafting items, the shimmering greenish ore that contains thasteron can be refined into a volatile liquid fuel—either through technological methods or, more efficiently, through the use of khefak, arthropods who feed on the ore and secrete refined thasteron. Thasteron can be used to fuel a wide range of devices, ranging from weapons to appliances to vehicles. The fuel is slightly radioactive—not enough to cause immediate harm, but prolonged exposure can cause long-term health concerns for most living creatures.\n\n A significant part of Akiton's economy is based on the mining, refining, and trade of thasteron, but off-planet the liquid is relatively worthless without proper technology to take advantage of it. Prices for raw thasteron aren't included in this adventure as a result. A character foolish enough to ingest thasteron must make a DC 30 Fortitude save or become [sickened 3](/Conditions.aspx?ID=34) (and also drained 1 on a critical failure). Thasteron can be used to create alchemical bombs as well—these bombs are identical to [alchemist's fire](/Equipment.aspx?ID=75).\r\n</aside>",
+ "name": "Gluttonworm",
+ "npc": false,
+ "perception": 32,
+ "rarity": "uncommon",
+ "reflex_save": 29,
+ "release_date": "2021-11-10",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #173: Doorway to the Red Star](/Sources.aspx?ID=103) pg. 85</row>\n\n<row gap=\"medium\">\r\n**HP** 445\r\n\r\n**AC** 41\r\n\r\n**Fort** +35\r\n\r\n**Ref** +29\r\n\r\n**Will** +32\r\n\r\n**Perception** +32\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAkiton's gluttonworms share many features of Golarion's  cave worms , yet these immense predators are their own distinct species. Gluttonworms “swim” …\r\n</summary>",
+ "sense": " darkvision ,  tremorsense  (imprecise) 100 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 100 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +37"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +37",
+ "source": [
+  "Pathfinder #173: Doorway to the Red Star"
+ ],
+ "source_raw": [
+  "Pathfinder #173: Doorway to the Red Star pg. 85"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #173: Doorway to the Red Star](/Sources.aspx?ID=103) pg. 85</row>",
+ "speed": {
+  "burrow": 40,
+  "land": 30,
+  "max": 40
+ },
+ "speed_markdown": "30 feet, burrow 40 feet (in sand or loose soil only)",
+ "speed_raw": "30 feet, burrow 40 feet (in sand or loose soil only)",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Akiton's gluttonworms share many features of Golarion's  cave worms , yet these immense predators are their own distinct species. Gluttonworms “swim” …",
+ "summary_markdown": "Akiton's gluttonworms share many features of Golarion's  cave worms , yet these immense predators are their own distinct species. Gluttonworms “swim” …",
+ "text": " Gluttonworm Akiton's gluttonworms share many features of Golarion's cave worms, yet these immense predators are their own distinct species. Gluttonworms “swim” through the vast deserts of Akiton, moving almost like whales through the ocean as they forage for their next meals. Recall Knowledge - Beast (Arcana, Nature): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Gluttonworm Source Pathfinder #173: Doorway to the Red Star pg. 85 Perception +32; darkvision, tremorsense (imprecise) 100 feet Languages Skills Athletics +37 Str +10 Dex +4 Con +6 Int -4 Wis +5 Cha -1 --- AC 41 Fort +35 Ref +29 Will +32 HP 445 Dune Dispersal (aura) 15 feet. Ground in the aura is greater difficult terrain. Sand Armor (necromancy, primal) A gluttonworm in contact with a significant body of sand, such as a desert or beach, gains fast healing 10. If the gluttonworm is subject to persistent bleed, the flowing blood quickly congeals with the sand covering its body, instantly ending the bleed duration and giving the gluttonworm a +2 circumstance bonus to AC until the end of its next turn. Inexorable The gluttonworm recovers from the paralyzed, slowed, and stunned conditions at the end of its turn. It's also immune to penalties to its Speeds and the immobilized condition, and it ignores difficult terrain and greater difficult terrain. --- Speed 30 feet, burrow 40 feet (in sand or loose soil only) Melee Single Action jaws +37 (deadly 3d10, reach 20 feet), Damage 4d12+18 piercing and Improved Grab Melee Single Action body +33, Damage 4d8+18 bludgeoning Fast Swallow Reaction Trigger The gluttonworm Grabs a creature, or a creature fails a Reflex save against a Gulping Charge; Effect The gluttonworm uses Swallow Whole. Gulping Charge Three Actions The gluttonworm Strides up to double its Speed and can move through the spaces of Large or smaller creatures, gulping each creature whose space the worm enters and attempting a body Strike against each of them. The gluttonworm can use this Strike on each creature only once in a single use of Gulping Charge. Creatures can attempt a DC 41 basic Reflex save against this damage. Spew Sandstorm Three Actions (Air, Earth, Evocation, Primal) The gluttonworm exhales swirling sand in a 60-foot cone. Creatures in the area must attempt a DC 41 Reflex save. It can't Spew Sandstorm again for 1d4 rounds. Critical Success The creature is unaffected. Success The creature takes 4d6 slashing damage and 4d6 bludgeoning damage from the scouring sand. Failure The creature takes 8d6 slashing damage and 8d6 bludgeoning damage from the sand, and is dazzled until the end of its next turn. Critical Failure The creature takes 12d6 slashing damage and 12d6 bludgeoning damage and is blinded for 1 hour. Swallow Whole Single Action (Attack) Huge, 3d10+17 bludgeoning plus 2d6 slashing, Rupture 36 Forever Ravenous A gluttonworm's metabolism is slow; they can go for years or even decades without a filling meal. Most gluttonworms exist in a constant state of ravenous pain as a result, and behave in an incredibly aggressive manner when they encounter anything edible. Most native creatures know to stay well away from the telltale rumbling and shifting dunes that portend a gluttonworm's approach. Thasteron This unusual mineral can be found throughout Akiton. While not suitable for crafting items, the shimmering greenish ore that contains thasteron can be refined into a volatile liquid fuel—either through technological methods or, more efficiently, through the use of khefak, arthropods who feed on the ore and secrete refined thasteron. Thasteron can be used to fuel a wide range of devices, ranging from weapons to appliances to vehicles. The fuel is slightly radioactive—not enough to cause immediate harm, but prolonged exposure can cause long-term health concerns for most living creatures. A significant part of Akiton's economy is based on the mining, refining, and trade of thasteron, but off-planet the liquid is relatively worthless without proper technology to take advantage of it. Prices for raw thasteron aren't included in this adventure as a result. A character foolish enough to ingest thasteron must make a DC 30 Fortitude save or become sickened 3 (and also drained 1 on a critical failure). Thasteron can be used to create alchemical bombs as well—these bombs are identical to alchemist's fire. ",
+ "trait": [
+  "Beast",
+  "Uncommon",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1673",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 32,
+ "wisdom": 5
+}

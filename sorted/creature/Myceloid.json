@@ -1,0 +1,98 @@
+{
+ "ac": 20,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Spore Pop",
+  "Emit Spores",
+  "Purple Pox",
+  "Spore Domination"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 70,
+ "hp_raw": "70",
+ "id": "creature-1242",
+ "image": [
+  "/Images/Monsters/Myceloid.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Undercommon",
+  "<%UMR%37%%>telepathy<%END> 100 feet (myceloids and those afflicted by purple pox only)"
+ ],
+ "language_markdown": "[Undercommon](/Languages.aspx?ID=11); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet (myceloids and those afflicted by purple pox only)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Myceloid](/Monsters.aspx?ID=1242)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe ambulatory fungus creatures called myceloids are notorious for spreading deadly purple pox, controlling creatures' minds, and devouring [humanoid](/Traits.aspx?ID=91) flesh. For a myceloid colony, any battle with humanoids is cause for excitement, as this new fodder presents so many delicious possibilities.\n\n Myceloids consider humanoids to have an ideal life cycle of four simple steps. During childhood, they wander naive and afraid, unaware of myceloid colonies. In adulthood, humanoids discover their true purpose as they taste purple pox and become enslaved by the myceloids' spores. Next, they die, giving rise to a new myceloid. They're then sent on to the afterlife upon becoming a myceloid meal. Eating humanoid flesh is not a necessity—a myceloid can survive on any decaying matter—but it's certainly a pleasure.\n\n Myceloids rarely make alliances, but when they do, they invite their new allies to share a meal to seal the pact. Few outsiders appreciate this hospitality. Most myceloids have deep purple caps studded with off-white lumps. Their necks and bodies bear resemblance to the stipes of tough, leathery fungi. Smaller mushrooms often grow on a myceloid's body, which the creatures view as either adornments or particularly convenient snacks. They stand roughly as tall as a [dwarf](/Ancestries.aspx?ID=1), with comparably stout builds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fungus](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Myceloid.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Myceloid](/Monsters.aspx?ID=1242)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 181</row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Undercommon](/Languages.aspx?ID=11); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet (myceloids and those afflicted by purple pox only)\r\n\r\n**Skills**\r\n[Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 70\n\n**Weaknesses**\r\nslashing 5\r\n\r\n**Spore Pop** If a myceloid is reduced to 0 HP by a critical hit, it pops, forcing it to immediately Emit Spores, even if it has already used the ability that day.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +14,\r\n**Damage** 2d6+4 bludgeoning plus purple pox\n\n**Emit Spores** <actions string=\"Single Action\" />  **Frequency** once per day; **Effect** The myceloid expels spores in a 10-foot burst centered on a corner of its own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox.\r\n\r\n**Purple Pox**  ([Disease](/Traits.aspx?ID=46)) Myceloids are immune; **Saving Throw** DC 20 Fortitude; **Onset** 1 minute; **Stage 1** 2d6 poison damage and [stupefied 1](/Conditions.aspx?ID=37) (1 day); **Stage 2** 6d6 poison damage, stupefied 3, and the creature is compelled to seek out the nearest myceloid colony—this compulsion is a [mental](/Traits.aspx?ID=106) [emotion](/Traits.aspx?ID=60) effect (1 day); **Stage 3** The creature dies. Over 24 hours, its corpse becomes bloated and bursts, releasing a new, fully grown myceloid.\r\n\r\n**Spore Domination** <actions string=\"Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The myceloid targets one creature affected by purple pox within 60 feet. That creature must attempt a DC 22 Will save. It is then temporarily immune to spore domination for 10 minutes. <br />**Critical Success** The target is unaffected. <br />**Success** Until the end of its next turn, the target is [helpful](/Conditions.aspx?ID=21) to myceloids and can't take [hostile actions](/Rules.aspx?ID=300) against them. <br />**Failure** As success, but for 1 minute. <br />**Critical Failure** As success, but until the purple pox is cured.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Table manners</title>\r\n\r\nMyceloids eat communal meals consisting of a series of corpses, beginning with creatures they killed in combat, followed by any that died in service while enslaved with spore domination. As they dine, they offer tasting notes, claiming they can taste intangibles like innocence or despair. They save any creature that died from purple pox as dessert. The new myceloid birthed from the corpse gets the first slice!\r\n</aside>",
+ "name": "Myceloid",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fungus\" url=\"/Traits.aspx?ID=77\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 181</row>\n\n<row gap=\"medium\">\r\n**HP** 70\r\n\r\n**AC** 20\r\n\r\n**Fort** +14\r\n\r\n**Ref** +9\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ambulatory fungus creatures called myceloids are notorious for spreading deadly purple pox, controlling creatures' minds, and devouring  humanoid …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Stealth +11",
+  "Survival +10"
+ ],
+ "skill_markdown": "[Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +10",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 181"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 181</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "11",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The ambulatory fungus creatures called myceloids are notorious for spreading deadly purple pox, controlling creatures' minds, and devouring  humanoid …",
+ "summary_markdown": "The ambulatory fungus creatures called myceloids are notorious for spreading deadly purple pox, controlling creatures' minds, and devouring  humanoid …",
+ "text": " Myceloid The ambulatory fungus creatures called myceloids are notorious for spreading deadly purple pox, controlling creatures' minds, and devouring humanoid flesh. For a myceloid colony, any battle with humanoids is cause for excitement, as this new fodder presents so many delicious possibilities. Myceloids consider humanoids to have an ideal life cycle of four simple steps. During childhood, they wander naive and afraid, unaware of myceloid colonies. In adulthood, humanoids discover their true purpose as they taste purple pox and become enslaved by the myceloids' spores. Next, they die, giving rise to a new myceloid. They're then sent on to the afterlife upon becoming a myceloid meal. Eating humanoid flesh is not a necessity—a myceloid can survive on any decaying matter—but it's certainly a pleasure. Myceloids rarely make alliances, but when they do, they invite their new allies to share a meal to seal the pact. Few outsiders appreciate this hospitality. Most myceloids have deep purple caps studded with off-white lumps. Their necks and bodies bear resemblance to the stipes of tough, leathery fungi. Smaller mushrooms often grow on a myceloid's body, which the creatures view as either adornments or particularly convenient snacks. They stand roughly as tall as a dwarf, with comparably stout builds. Recall Knowledge - Fungus (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Myceloid Source Bestiary 3 pg. 181 Perception +10; darkvision, scent (imprecise) 30 feet Languages Undercommon; telepathy 100 feet (myceloids and those afflicted by purple pox only) Skills Stealth +11, Survival +10 Str +4 Dex +3 Con +4 Int -1 Wis +2 Cha +0 --- AC 20 Fort +14 Ref +9 Will +10 HP 70 Weaknesses slashing 5 Spore Pop If a myceloid is reduced to 0 HP by a critical hit, it pops, forcing it to immediately Emit Spores, even if it has already used the ability that day. --- Speed 20 feet Melee Single Action fist +14, Damage 2d6+4 bludgeoning plus purple pox Emit Spores Single Action Frequency once per day; Effect The myceloid expels spores in a 10-foot burst centered on a corner of its own space. This cloud lasts until the start of the myceloid's next turn. Each creature that is in the cloud or enters it is exposed to purple pox. Purple Pox (Disease) Myceloids are immune; Saving Throw DC 20 Fortitude; Onset 1 minute; Stage 1 2d6 poison damage and stupefied 1 (1 day); Stage 2 6d6 poison damage, stupefied 3, and the creature is compelled to seek out the nearest myceloid colony—this compulsion is a mental emotion effect (1 day); Stage 3 The creature dies. Over 24 hours, its corpse becomes bloated and bursts, releasing a new, fully grown myceloid. Spore Domination Two Actions (Emotion, Enchantment, Incapacitation, Mental, Primal) The myceloid targets one creature affected by purple pox within 60 feet. That creature must attempt a DC 22 Will save. It is then temporarily immune to spore domination for 10 minutes. Critical Success The target is unaffected. Success Until the end of its next turn, the target is helpful to myceloids and can't take hostile actions against them. Failure As success, but for 1 minute. Critical Failure As success, but until the purple pox is cured. Table manners Myceloids eat communal meals consisting of a series of corpses, beginning with creatures they killed in combat, followed by any that died in service while enslaved with spore domination. As they dine, they offer tasting notes, claiming they can taste intangibles like innocence or despair. They save any creature that died from purple pox as dessert. The new myceloid birthed from the corpse gets the first slice! ",
+ "trait": [
+  "Fungus",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fungus](/Traits.aspx?ID=77)",
+ "trait_raw": [
+  "Fungus"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1242",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "slashing": 5
+ },
+ "weakness_markdown": "slashing 5",
+ "weakness_raw": "slashing 5",
+ "will_save": 10,
+ "wisdom": 2
+}

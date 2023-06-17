@@ -1,0 +1,96 @@
+{
+ "ac": 32,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 7,
+ "creature_ability": [
+  "Inexorable",
+  "Shake It Off",
+  "Fast Swallow",
+  "Purple Worm Venom",
+  "Regurgitate",
+  "Rock Tunneler",
+  "Swallow Whole",
+  "Thrash"
+ ],
+ "creature_family": "Cave Worm",
+ "creature_family_markdown": "[Cave Worm](/MonsterFamilies.aspx?ID=21)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 270,
+ "hp_raw": "270",
+ "id": "creature-73",
+ "image": [
+  "/Images/Monsters/CaveWorm_PurpleWorm.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Purple Worm](/Monsters.aspx?ID=73)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe purple worm is the most common and infamous of the cave worms, a much-feared monster wandering the twisting tunnels of the Darklands that is capable of carving out entire cave systems. Tunnels bored by a purple worm don’t always last long after these creature’s passage, and areas where they nest are maddening mazes of passageways that lead nowhere, yet navigating the labyrinth to find the worm’s central nest often yields amazing treasures left behind by the worm’s prior victims.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 31\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 29\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 26\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CaveWorm_PurpleWorm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Purple Worm](/Monsters.aspx?ID=73)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 56</row>\n\n**Perception** +20; darkvision, tremorsense (imprecise) 100 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** -1\r\n\r\n**Con** +7\r\n\r\n**Int** -5\r\n\r\n**Wis** -1\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 270\n\n**Inexorable** The purple worm recovers from the paralyzed, slowed, and stunned conditions at the end of its turn. It’s also immune to penalties to its Speeds and the immobilized condition, and it ignores difficult terrain and greater difficult terrain.<br /> **Shake It Off** <actions string=\"Reaction\" /> **Frequency** once per day; **Trigger** The purple worm would be affected by a condition or adverse effect (such as [_baleful polymorph_](/Spells.aspx?ID=17)). **Effect** The purple worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can’t be avoided in this way.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, burrow 40 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +28 ([deadly 2d10](/Traits.aspx?ID=174), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+15 piercing plus Improved Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +28 ([Agile](/Traits.aspx?ID=170), [Poison](/Traits.aspx?ID=126), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+15 piercing plus purple worm venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbody +26 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d10+13 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nregurgitate +26 ([Brutal](/Traits.aspx?ID=249), [range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** varies (see ability)\n\n**Fast Swallow** <actions string=\"Reaction\" />  **Trigger** The purple worm Grabs a creature. **Effect** The worm uses Swallow Whole.\r\n\r\n**Purple Worm Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 32 Fortitude, **Maximum Duration** 6 rounds; **Stage 1** 5d6 poison damage and enfeebled 2 (1 round), **Stage 2** 6d6 poison damage, and enfeebled 2 (1 round); **Stage 3** 8d6 poison damage and enfeebled 2 (1 round).\r\n\r\n**Regurgitate**   The purple worm can violently regurgitate a creature or boulder it has swallowed to make a ranged Strike. The Strike deals bludgeoning damage depending on the size of the projectile: Tiny deals 2d6+13, Small 3d6+13, Medium 4d6+13, Large 5d6+13, and Huge 6d6+13. A regurgitated creature takes falling damage from the height of the target or from 20 feet, whichever is greater.<br />Boulders occupy space in the worm’s stomach as a creature of equivalent size, and purple worms often have several boulders swallowed. A purple worm can use a single action to swallow a new boulder.\r\n\r\n**Rock Tunneler**   A purple worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" />  Huge, 3d6+9 bludgeoning, Rupture 24\r\n\r\n**Thrash** <actions string=\"Two Actions\" />  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all the attacks.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-21\" />",
+ "name": "Purple Worm",
+ "npc": false,
+ "perception": 20,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 21,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 56</row>\r\n\r\n**Creature Family** [Cave Worm](/MonsterFamilies.aspx?ID=21)\r\n\r\n<row gap=\"medium\">\r\n**HP** 270\r\n\r\n**AC** 32\r\n\r\n**Fort** +28\r\n\r\n**Ref** +21\r\n\r\n**Will** +21\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe purple worm is the most common and infamous of the cave worms, a much-feared monster wandering the twisting tunnels of the Darklands that is …\r\n</summary>",
+ "sense": "darkvision, tremorsense (imprecise) 100 feet",
+ "sense_markdown": "darkvision, tremorsense (imprecise) 100 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +30"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +30",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 56"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 56</row>",
+ "speed": {
+  "burrow": 40,
+  "land": 40,
+  "max": 40,
+  "swim": 20
+ },
+ "speed_markdown": "40 feet, burrow 40 feet, swim 20 feet",
+ "speed_raw": "40 feet, burrow 40 feet, swim 20 feet",
+ "spell_markdown": "",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The purple worm is the most common and infamous of the cave worms, a much-feared monster wandering the twisting tunnels of the Darklands that is …",
+ "summary_markdown": "The purple worm is the most common and infamous of the cave worms, a much-feared monster wandering the twisting tunnels of the Darklands that is …",
+ "text": " Purple Worm The purple worm is the most common and infamous of the cave worms, a much-feared monster wandering the twisting tunnels of the Darklands that is capable of carving out entire cave systems. Tunnels bored by a purple worm don’t always last long after these creature’s passage, and areas where they nest are maddening mazes of passageways that lead nowhere, yet navigating the labyrinth to find the worm’s central nest often yields amazing treasures left behind by the worm’s prior victims. Recall Knowledge - Animal (Nature): DC 31 Unspecific Lore : DC 29 Specific Lore : DC 26 Purple Worm Source Bestiary pg. 56 Perception +20; darkvision, tremorsense (imprecise) 100 feet Languages Skills Athletics +30 Str +9 Dex -1 Con +7 Int -5 Wis -1 Cha -1 --- AC 32 Fort +28 Ref +21 Will +21 HP 270 Inexorable The purple worm recovers from the paralyzed, slowed, and stunned conditions at the end of its turn. It’s also immune to penalties to its Speeds and the immobilized condition, and it ignores difficult terrain and greater difficult terrain. Shake It Off Reaction Frequency once per day; Trigger The purple worm would be affected by a condition or adverse effect (such as baleful polymorph ). Effect The purple worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can’t be avoided in this way. --- Speed 40 feet, burrow 40 feet, swim 20 feet Melee Single Action jaws +28 (deadly 2d10, reach 15 feet), Damage 3d10+15 piercing plus Improved Grab Melee Single Action stinger +28 (Agile, Poison, reach 15 feet), Damage 2d12+15 piercing plus purple worm venom Melee Single Action body +26 (reach 15 feet), Damage 1d10+13 bludgeoning Ranged Single Action regurgitate +26 (Brutal, range increment 60 feet), Damage varies (see ability) Fast Swallow Reaction Trigger The purple worm Grabs a creature. Effect The worm uses Swallow Whole. Purple Worm Venom (Poison) Saving Throw DC 32 Fortitude, Maximum Duration 6 rounds; Stage 1 5d6 poison damage and enfeebled 2 (1 round), Stage 2 6d6 poison damage, and enfeebled 2 (1 round); Stage 3 8d6 poison damage and enfeebled 2 (1 round). Regurgitate The purple worm can violently regurgitate a creature or boulder it has swallowed to make a ranged Strike. The Strike deals bludgeoning damage depending on the size of the projectile: Tiny deals 2d6+13, Small 3d6+13, Medium 4d6+13, Large 5d6+13, and Huge 6d6+13. A regurgitated creature takes falling damage from the height of the target or from 20 feet, whichever is greater. Boulders occupy space in the worm’s stomach as a creature of equivalent size, and purple worms often have several boulders swallowed. A purple worm can use a single action to swallow a new boulder. Rock Tunneler A purple worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does. Swallow Whole Single Action Huge, 3d6+9 bludgeoning, Rupture 24 Thrash Two Actions The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all the attacks. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=73",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": -1
+}

@@ -1,0 +1,96 @@
+{
+ "ac": 16,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Shrieking Frenzy",
+  "Thrown Weapon Mastery"
+ ],
+ "creature_family": "Charau-ka",
+ "creature_family_markdown": "[Charau-ka](/MonsterFamilies.aspx?ID=109)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 20,
+ "hp_raw": "20",
+ "id": "creature-1430",
+ "image": [
+  "/Images/Monsters/CharauKa_Warrior.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Draconic",
+  "Mwangi"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Mwangi](/Languages.aspx?ID=39)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Charau-ka Warrior](/Monsters.aspx?ID=1430)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA charau-ka warrior carries hatchets, daggers, and similar weaponry on their person. They usually don't worry about running out of thrown weapons, as rocks plucked from the ground are just as deadly in their hands.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CharauKa_Warrior.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Charau-ka Warrior](/Monsters.aspx?ID=1430)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Charau-ka\" url=\"/Traits.aspx?ID=263\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 296 <sup>2.0</sup>, [Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 84</row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Mwangi](/Languages.aspx?ID=39)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6, [Religion](/Skills.aspx?ID=13) +4, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3), [Hatchet](/Weapons.aspx?ID=27), [Hide Armor](/Armor.aspx?ID=7)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 20\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhatchet +7 ([Agile](/Traits.aspx?ID=170), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 1d6+3 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +7 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+3 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +7 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188)),\r\n**Damage** 1d4+3 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhatchet +7 ([Agile](/Traits.aspx?ID=170), [deadly d6](/Traits.aspx?ID=174), [Sweep](/Traits.aspx?ID=194), [thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+3 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +7 ([Agile](/Traits.aspx?ID=170), [deadly d6](/Traits.aspx?ID=174), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+3 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthrown debris +7 ([deadly d6](/Traits.aspx?ID=174), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+3 bludgeoning\n\n**Shrieking Frenzy** <actions string=\"Free Action\" /> ([Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) **Frequency** once per hour; **Trigger** The charau-ka's turn begins; **Effect** The charau-ka is [quickened](/Conditions.aspx?ID=32) until the end of their turn and can use the extra action only to Stride or Strike. While in the frenzy, the charau-ka can't speak and automatically critically fails [Stealth](/Skills.aspx?ID=15) checks, due to their loud wailing.\r\n\r\n**Thrown Weapon Mastery**   Any weapon a charau-ka throws gains the [deadly d6](/Traits.aspx?ID=174) weapon trait. Furthermore, when a charau-ka throws an improvised weapon, they do not take the –2 penalty for doing so, nor does they take a penalty for using a thrown improvised weapon with the [nonlethal](/Traits.aspx?ID=188) trait to make a lethal attack.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-109\" />",
+ "name": "Charau-ka Warrior",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Charau-ka\" url=\"/Traits.aspx?ID=263\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 296 <sup>2.0</sup>, [Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 84</row>\r\n\r\n**Creature Family** [Charau-ka](/MonsterFamilies.aspx?ID=109)\r\n\r\n<row gap=\"medium\">\r\n**HP** 20\r\n\r\n**AC** 16\r\n\r\n**Fort** +7\r\n\r\n**Ref** +8\r\n\r\n**Will** +4\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA charau-ka warrior carries hatchets, daggers, and similar weaponry on their person. They usually don't worry about running out of thrown weapons, as …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +6",
+  "Religion +4",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6, [Religion](/Skills.aspx?ID=13) +4, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "The Mwangi Expanse"
+ ],
+ "source_raw": [
+  "The Mwangi Expanse pg. 296"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 296 <sup>2.0</sup>, [Pathfinder #146: Cult of Cinders](/Sources.aspx?ID=7) pg. 84</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "A charau-ka warrior carries hatchets, daggers, and similar weaponry on their person. They usually don't worry about running out of thrown weapons, as …",
+ "summary_markdown": "A charau-ka warrior carries hatchets, daggers, and similar weaponry on their person. They usually don't worry about running out of thrown weapons, as …",
+ "text": " Charau-ka Warrior A charau-ka warrior carries hatchets, daggers, and similar weaponry on their person. They usually don't worry about running out of thrown weapons, as rocks plucked from the ground are just as deadly in their hands. Recall Knowledge - Humanoid (Society): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Charau-ka Warrior Source The Mwangi Expanse pg. 296 2.0 , Pathfinder #146: Cult of Cinders pg. 84 Perception +6; darkvision, scent (imprecise) 30 feet Languages Draconic, Mwangi Skills Athletics +6, Religion +4, Stealth +6 Str +3 Dex +3 Con +2 Int -1 Wis +1 Cha +0 Items Dagger, Hatchet, Hide Armor --- AC 16 Fort +7 Ref +8 Will +4 HP 20 --- Speed 25 feet, climb 25 feet Melee Single Action hatchet +7 (Agile, Sweep), Damage 1d6+3 slashing Melee Single Action dagger +7 (Agile, Finesse, versatile S), Damage 1d4+3 piercing Melee Single Action fist +7 (Agile, Nonlethal), Damage 1d4+3 bludgeoning Ranged Single Action hatchet +7 (Agile, deadly d6, Sweep, thrown 10 feet), Damage 1d6+3 slashing Ranged Single Action dagger +7 (Agile, deadly d6, thrown 10 feet, versatile S), Damage 1d4+3 piercing Ranged Single Action thrown debris +7 (deadly d6, thrown 20 feet), Damage 1d6+3 bludgeoning Shrieking Frenzy Free Action (Primal, Transmutation) Frequency once per hour; Trigger The charau-ka's turn begins; Effect The charau-ka is quickened until the end of their turn and can use the extra action only to Stride or Strike. While in the frenzy, the charau-ka can't speak and automatically critically fails Stealth checks, due to their loud wailing. Thrown Weapon Mastery Any weapon a charau-ka throws gains the deadly d6 weapon trait. Furthermore, when a charau-ka throws an improvised weapon, they do not take the –2 penalty for doing so, nor does they take a penalty for using a thrown improvised weapon with the nonlethal trait to make a lethal attack. ",
+ "trait": [
+  "Charau-ka",
+  "Humanoid",
+  "NE",
+  "Small"
+ ],
+ "trait_markdown": "[Charau-ka](/Traits.aspx?ID=263), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Charau-ka",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1430",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 4,
+ "wisdom": 1
+}

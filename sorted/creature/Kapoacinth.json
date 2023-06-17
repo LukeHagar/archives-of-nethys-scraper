@@ -1,0 +1,102 @@
+{
+ "ac": 20,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Wing Buffet",
+  "Coral Reef"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-2060",
+ "intelligence": -2,
+ "language": [
+  "Aquan",
+  "Common",
+  "Terran"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Terran](/Languages.aspx?ID=22)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Kapoacinth](/Monsters.aspx?ID=2060)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Kapoacinth](/Monsters.aspx?ID=2060)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 28</row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Terran](/Languages.aspx?ID=22)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 40\n\n**Resistances**\r\nphysical 5 (except [adamantine](/Equipment.aspx?ID=374))\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Wing Buffet** <actions string=\"Reaction\" /> **Trigger** An adjacent creature attacks the kapoacinth while the kapoacinth is [Swimming](/Actions.aspx?ID=39); **Effect** The kapoacinth pushes the triggering creature 5 feet away from them, and the kapoacinth moves 10 feet in the opposite direction. If the triggering creature can no longer attack the kapoacinth from its new location, the attack misses.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +13,\r\n**Damage** 2d8+6 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +13 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+6 slashing\n\n**Coral Reef** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) Until the next time they act, the kapoacinth appears to be a lump of coral. They have an automatic result of 31 on [Deception](/Skills.aspx?ID=5) checks and DCs to pass as coral.\r\n\r\n</column>",
+ "name": "Kapoacinth",
+ "npc": false,
+ "perception": 10,
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2022-08-31",
+ "resistance": {
+  "bludgeoning": 5,
+  "physical": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "physical 5 (except [adamantine](/Equipment.aspx?ID=374))",
+ "resistance_raw": "physical 5 (except  adamantine )",
+ "search_markdown": "<traits>\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 28</row>\n\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 20\r\n\r\n**Fort** +13\r\n\r\n**Ref** +9\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +9",
+  "Athletics +10",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +9, [Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Pathfinder #182: Graveclaw"
+ ],
+ "source_raw": [
+  "Pathfinder #182: Graveclaw pg. 28"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 28</row>",
+ "speed": {
+  "land": 25,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "25 feet, swim 40 feet",
+ "speed_raw": "25 feet, swim 40 feet",
+ "spell_markdown": "",
+ "stealth": "11",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Kapoacinth Recall Knowledge - Beast (Arcana, Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Kapoacinth Source Pathfinder #182: Graveclaw pg. 28 Perception +10; darkvision Languages Aquan, Common, Terran Skills Acrobatics +9, Athletics +10, Stealth +11 Str +4 Dex +1 Con +3 Int -2 Wis +2 Cha -2 --- AC 20 Fort +13 Ref +9 Will +10 HP 40 Resistances physical 5 (except adamantine) Attack of Opportunity Reaction Wing Buffet Reaction Trigger An adjacent creature attacks the kapoacinth while the kapoacinth is Swimming; Effect The kapoacinth pushes the triggering creature 5 feet away from them, and the kapoacinth moves 10 feet in the opposite direction. If the triggering creature can no longer attack the kapoacinth from its new location, the attack misses. --- Speed 25 feet, swim 40 feet Melee Single Action jaws +13, Damage 2d8+6 piercing Melee Single Action claw +13 (Agile), Damage 2d6+6 slashing Coral Reef Single Action (Concentrate) Until the next time they act, the kapoacinth appears to be a lump of coral. They have an automatic result of 31 on Deception checks and DCs to pass as coral. ",
+ "trait": [
+  "Aquatic",
+  "Beast",
+  "Earth",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aquatic](/Traits.aspx?ID=168), [Beast](/Traits.aspx?ID=20), [Earth](/Traits.aspx?ID=55)",
+ "trait_raw": [
+  "Aquatic",
+  "Beast",
+  "Earth"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2060",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

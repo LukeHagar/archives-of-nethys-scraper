@@ -1,0 +1,114 @@
+{
+ "ac": 28,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 3,
+ "creature_ability": [
+  "Tear Flesh",
+  "Consume Flesh",
+  "Fill Lungs",
+  "Nimble Swim",
+  "Paralysis"
+ ],
+ "creature_family": "Ghoul",
+ "creature_family_markdown": "[Ghoul](/MonsterFamilies.aspx?ID=52)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 155,
+ "hp_raw": "155 ( negative healing )",
+ "id": "creature-1001",
+ "image": [
+  "/Images/Monsters/Ghoul_BarnacleGhoul.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 1,
+ "language": [
+  "Aquan",
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Barnacle Ghoul](/Monsters.aspx?ID=1001)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFar more powerful and dangerous than most ghouls, barnacle ghouls are the risen corpses of veteran sailors who fell overboard or of bloodthirsty pirates who died from keelhauling. Too rugged and hate-filled to stay dead, these seafarers return with bluish, water-bloated bodies.\n\n Barnacle ghouls have a supernatural command over barnacles; a simple touch from a ghoul causes the crustaceans to adhere, grow, or release. The ghouls cultivate clusters of barnacles on their hands and feet, using the lumpy shells to more easily climb and grab at prey.\n\n Barnacle ghouls keep their lungs filled with brackish seawater, which they exhale onto their victims. Breathing in even a few drops of this tainted seawater can be deadly, as it magically expands in a victim's lungs. A creature that can't expel the seawater eventually drowns and rises as a new barnacle ghoul. Barnacle ghouls have many abilities of standard ghouls.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ghoul_BarnacleGhoul.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Barnacle Ghoul](/Monsters.aspx?ID=1001)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #159: All or Nothing](/Sources.aspx?ID=48) pg. 83</row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +19, [Survival](/Skills.aspx?ID=16) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +6\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 155\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Tear Flesh** <actions string=\"Reaction\" /> **Trigger** A creature grabbed by the barnacle ghoul critically fails a skill check to [Escape](/Actions.aspx?ID=79); **Effect** The barnacle ghoul makes a claw Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 10 feet, swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d10+10 piercing plus fill lungs and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +21 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+10 plus Grab and paralysis\r\n\r\n**Ranged**\r\n<actions string=\"Two Actions\" />\r\nwater jet +21 ([range increment 10 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+10 plus fill lungs\n\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ghoul is adjacent to the corpse of a creature that died within the last hour. **Effect** The ghoul devours a chunk of the corpse and regains 5d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Fill Lungs**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117)) **Saving Throw** DC 26 Fortitude; **Stage 1** [sickened 1](/Conditions.aspx?ID=34) (1 round); **Stage 2** sickened 2 (1 round); **Stage 3** sickened 3 (1 round); **Stage 4** [drowning](/Rules.aspx?ID=468) and cannot reduce below stage 4 until the water is purged; purging the water requires a successful DC 26 [Medicine](/Skills.aspx?ID=9) check to [Administer First Aid](/Actions.aspx?ID=54) (which stops the creature from drowning and returns the creature to stage 3; stage 2 on a critical success) or a magical effect that removes curses or the sickened condition (which stops the creature from drowning and ends the curse). If the creature dies from drowning, it rises as a barnacle ghoul the next midnight.\r\n\r\n**Nimble Swim** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The barnacle ghoul Swims up to 20 feet. This movement doesn't trigger reactions.\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living, non-[elf](/Traits.aspx?ID=58) creature hit by a ghoul's attack must succeed at a DC 26 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-52\" />",
+ "name": "Barnacle Ghoul",
+ "npc": false,
+ "perception": 17,
+ "rarity": "uncommon",
+ "reflex_save": 21,
+ "release_date": "2020-09-15",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #159: All or Nothing](/Sources.aspx?ID=48) pg. 83</row>\r\n\r\n**Creature Family** [Ghoul](/MonsterFamilies.aspx?ID=52)\r\n\r\n<row gap=\"medium\">\r\n**HP** 155 ( negative healing )\r\n\r\n**AC** 28\r\n\r\n**Fort** +16\r\n\r\n**Ref** +21\r\n\r\n**Will** +17\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFar more powerful and dangerous than most ghouls, barnacle ghouls are the risen corpses of veteran sailors who fell overboard or of bloodthirsty …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +19",
+  "Stealth +19",
+  "Survival +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +19, [Survival](/Skills.aspx?ID=16) +17",
+ "source": [
+  "Pathfinder #159: All or Nothing"
+ ],
+ "source_raw": [
+  "Pathfinder #159: All or Nothing pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #159: All or Nothing](/Sources.aspx?ID=48) pg. 83</row>",
+ "speed": {
+  "climb": 10,
+  "land": 25,
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "25 feet, climb 10 feet, swim 40 feet",
+ "speed_raw": "25 feet, climb 10 feet, swim 40 feet",
+ "spell_markdown": "",
+ "spoilers": "Agents of Edgewatch",
+ "stealth": "19",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Far more powerful and dangerous than most ghouls, barnacle ghouls are the risen corpses of veteran sailors who fell overboard or of bloodthirsty …",
+ "summary_markdown": "Far more powerful and dangerous than most ghouls, barnacle ghouls are the risen corpses of veteran sailors who fell overboard or of bloodthirsty …",
+ "text": " Barnacle Ghoul Far more powerful and dangerous than most ghouls, barnacle ghouls are the risen corpses of veteran sailors who fell overboard or of bloodthirsty pirates who died from keelhauling. Too rugged and hate-filled to stay dead, these seafarers return with bluish, water-bloated bodies. Barnacle ghouls have a supernatural command over barnacles; a simple touch from a ghoul causes the crustaceans to adhere, grow, or release. The ghouls cultivate clusters of barnacles on their hands and feet, using the lumpy shells to more easily climb and grab at prey. Barnacle ghouls keep their lungs filled with brackish seawater, which they exhale onto their victims. Breathing in even a few drops of this tainted seawater can be deadly, as it magically expands in a victim's lungs. A creature that can't expel the seawater eventually drowns and rises as a new barnacle ghoul. Barnacle ghouls have many abilities of standard ghouls. Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Barnacle Ghoul Source Pathfinder #159: All or Nothing pg. 83 Perception +17; darkvision Languages Aquan, Common, Necril Skills Acrobatics +19, Athletics +19, Stealth +19, Survival +17 Str +6 Dex +6 Con +3 Int +1 Wis +4 Cha +4 --- AC 28 Fort +16 Ref +21 Will +17 HP 155 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Tear Flesh Reaction Trigger A creature grabbed by the barnacle ghoul critically fails a skill check to Escape; Effect The barnacle ghoul makes a claw Strike against the triggering creature. --- Speed 25 feet, climb 10 feet, swim 40 feet Melee Single Action jaws +21 (Finesse), Damage 2d10+10 piercing plus fill lungs and paralysis Melee Single Action claw +21 (Agile, Finesse), Damage 2d6+10 plus Grab and paralysis Ranged Two Actions water jet +21 (range increment 10 feet), Damage 2d6+10 plus fill lungs Consume Flesh Single Action (Manipulate) Requirements The ghoul is adjacent to the corpse of a creature that died within the last hour. Effect The ghoul devours a chunk of the corpse and regains 5d6 Hit Points. It can regain Hit Points from any given corpse only once. Fill Lungs (Curse, Necromancy) Saving Throw DC 26 Fortitude; Stage 1 sickened 1 (1 round); Stage 2 sickened 2 (1 round); Stage 3 sickened 3 (1 round); Stage 4 drowning and cannot reduce below stage 4 until the water is purged; purging the water requires a successful DC 26 Medicine check to Administer First Aid (which stops the creature from drowning and returns the creature to stage 3; stage 2 on a critical success) or a magical effect that removes curses or the sickened condition (which stops the creature from drowning and ends the curse). If the creature dies from drowning, it rises as a barnacle ghoul the next midnight. Nimble Swim Single Action (Move) The barnacle ghoul Swims up to 20 feet. This movement doesn't trigger reactions. Paralysis (Incapacitation, Occult, Necromancy) Any living, non-elf creature hit by a ghoul's attack must succeed at a DC 26 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. ",
+ "trait": [
+  "Ghoul",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Ghoul",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1001",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 4
+}

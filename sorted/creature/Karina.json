@@ -1,0 +1,101 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 3,
+ "creature_ability": [
+  "Sound Imitation",
+  "Grave Blight",
+  "Mocking Cry"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 95,
+ "hp_raw": "95",
+ "id": "creature-1437",
+ "image": [
+  "/Images/Monsters/Karina.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Mwangi",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Mwangi](/Languages.aspx?ID=39); (can't speak any language)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Karina](/Monsters.aspx?ID=1437)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nKarinas—also known as plague birds—are large owl-like creatures with dark red feathers, powerful talons, and unsettling eyes. Their broad wings conceal a pair of wiry humanoid arms that end in clawed fingers, which they use to dig through burial sites in search of corpses. The fell purpose of this is still a mystery, though most believe that karinas make off with these dead bodies to consume them in the safety of their lairs. The difficulty of tracking the beasts, as well as the danger, makes it difficult to know for sure.\n\n A karina's terrifying appearance suggests that they're not natural creatures. Many legends claim that karinas first flew out of [Abaddon](/Planes.aspx?ID=12) to the [Material Plane](/Planes.aspx?ID=1) to consume the corpses of the first mortals, while others state that the first karina was born from the soul of the first mortal who partook in cannibalism. The power of good repulses karinas, suggesting an evil or fiendish origin.\n\n Karinas are plague carriers and intentionally attack creatures to spread their own personal pestilence. The supernatural disease they carry, known as grave blight, causes fever, disorientation, and (at later stages) an innate desire to attack others and spread the disease. Karinas revel in the slow collapse of villages, lurking in the surrounding jungle to observe every miserable moment. As the locals bury their dead, the karinas swoop in to steal the corpses.\n\n In addition to carrying a terrible disease, karinas also have the ability to mimic voices. They typically repeat phrases they've heard, but twist the voice into a fiendish corruption of the original. Intelligent enough to recognize the friends and family of a possible target, a karina will use the mocking voice of a loved one to frighten them. When terrorizing a village, they generally work together in groups of two or three.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Karina.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Karina](/Monsters.aspx?ID=1437)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 301 <sup>2.0</sup></row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Mwangi](/Languages.aspx?ID=39); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +12, [Deception](/Skills.aspx?ID=5) +12, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +1\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Sound Imitation** A karina who succeeds at a [Deception](/Skills.aspx?ID=5) check to [Lie](/Actions.aspx?ID=47) can mimic any voice they have heard. They have a +4 circumstance bonus to this check.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 95\n\n**Weaknesses**\r\ngood 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +15 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+7 piercing plus grave blight\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaws +13 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+5 slashing plus grave blight\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalons +15 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d10+5 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Grave Blight**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 19 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 1d6 poison damage, [sickened 1](/Conditions.aspx?ID=34) (1 day); **Stage 3** 1d8 poison damage, every hour the victim must succeed at another Fortitude save or be [confused](/Conditions.aspx?ID=5) for 1 minute, sickened 2 (1 day)\r\n\r\n**Mocking Cry** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16)) The karina mimics a voice and mocks a creature within 30 feet. They attempt a Deception check to Demoralize the creature. Regardless of whether the check succeeds, the target creature is temporarily immune to the karina's Mocking Cry for 1 hour.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Grave Karinas</title>\r\n\r\nLegends speak of powerful karinas that have stolen the corpses of important figures or powerful creatures and consumed part of the corpse's soul in the process. The soul empowers the karina, which becomes a grave karina. Legends describe grave karinas as more savage in appearance and prone to attack all creatures, including other karinas. They supposedly have the power to manipulate others through their shadows and can breathe burning ash to burn their victims.\r\n</aside>",
+ "name": "Karina",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 301 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 95\r\n\r\n**AC** 21\r\n\r\n**Fort** +12\r\n\r\n**Ref** +15\r\n\r\n**Will** +10\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nKarinas—also known as plague birds—are large owl-like creatures with dark red feathers, powerful talons, and unsettling eyes. Their broad wings …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Athletics +12",
+  "Deception +12",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Athletics](/Skills.aspx?ID=3) +12, [Deception](/Skills.aspx?ID=5) +12, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "The Mwangi Expanse"
+ ],
+ "source_raw": [
+  "The Mwangi Expanse pg. 301"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 301 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 40,
+  "land": 10,
+  "max": 40
+ },
+ "speed_markdown": "10 feet, fly 40 feet",
+ "speed_raw": "10 feet, fly 40 feet",
+ "spell_markdown": "",
+ "stealth": "15",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Karinas—also known as plague birds—are large owl-like creatures with dark red feathers, powerful talons, and unsettling eyes. Their broad wings …",
+ "summary_markdown": "Karinas—also known as plague birds—are large owl-like creatures with dark red feathers, powerful talons, and unsettling eyes. Their broad wings …",
+ "text": " Karina Karinas—also known as plague birds—are large owl-like creatures with dark red feathers, powerful talons, and unsettling eyes. Their broad wings conceal a pair of wiry humanoid arms that end in clawed fingers, which they use to dig through burial sites in search of corpses. The fell purpose of this is still a mystery, though most believe that karinas make off with these dead bodies to consume them in the safety of their lairs. The difficulty of tracking the beasts, as well as the danger, makes it difficult to know for sure. A karina's terrifying appearance suggests that they're not natural creatures. Many legends claim that karinas first flew out of Abaddon to the Material Plane to consume the corpses of the first mortals, while others state that the first karina was born from the soul of the first mortal who partook in cannibalism. The power of good repulses karinas, suggesting an evil or fiendish origin. Karinas are plague carriers and intentionally attack creatures to spread their own personal pestilence. The supernatural disease they carry, known as grave blight, causes fever, disorientation, and (at later stages) an innate desire to attack others and spread the disease. Karinas revel in the slow collapse of villages, lurking in the surrounding jungle to observe every miserable moment. As the locals bury their dead, the karinas swoop in to steal the corpses. In addition to carrying a terrible disease, karinas also have the ability to mimic voices. They typically repeat phrases they've heard, but twist the voice into a fiendish corruption of the original. Intelligent enough to recognize the friends and family of a possible target, a karina will use the mocking voice of a loved one to frighten them. When terrorizing a village, they generally work together in groups of two or three. Recall Knowledge - Beast (Arcana, Nature): DC 20 Recall Knowledge - Fiend (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Karina Source The Mwangi Expanse pg. 301 2.0 Perception +12; darkvision Languages Mwangi; (can't speak any language) Skills Acrobatics +13, Athletics +12, Deception +12, Stealth +15 Str +3 Dex +5 Con +3 Int -2 Wis +1 Cha +6 Sound Imitation A karina who succeeds at a Deception check to Lie can mimic any voice they have heard. They have a +4 circumstance bonus to this check. --- AC 21 Fort +12 Ref +15 Will +10 HP 95 Weaknesses good 5 --- Speed 10 feet, fly 40 feet Melee Single Action beak +15 (Magical, reach 10 feet), Damage 2d8+7 piercing plus grave blight Melee Single Action claws +13 (Agile, Magical), Damage 2d6+5 slashing plus grave blight Melee Single Action talons +15 (Magical), Damage 1d10+5 piercing plus Grab Grave Blight (Disease) Saving Throw DC 19 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 1d6 poison damage, sickened 1 (1 day); Stage 3 1d8 poison damage, every hour the victim must succeed at another Fortitude save or be confused for 1 minute, sickened 2 (1 day) Mocking Cry Single Action (Auditory) The karina mimics a voice and mocks a creature within 30 feet. They attempt a Deception check to Demoralize the creature. Regardless of whether the check succeeds, the target creature is temporarily immune to the karina's Mocking Cry for 1 hour. Grave Karinas Legends speak of powerful karinas that have stolen the corpses of important figures or powerful creatures and consumed part of the corpse's soul in the process. The soul empowers the karina, which becomes a grave karina. Legends describe grave karinas as more savage in appearance and prone to attack all creatures, including other karinas. They supposedly have the power to manipulate others through their shadows and can breathe burning ash to burn their victims. ",
+ "trait": [
+  "Beast",
+  "Fiend",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Beast",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1437",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "good": 5
+ },
+ "weakness_markdown": "good 5",
+ "weakness_raw": "good 5",
+ "will_save": 10,
+ "wisdom": 1
+}

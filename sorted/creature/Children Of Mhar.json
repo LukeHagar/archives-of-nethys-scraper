@@ -1,0 +1,118 @@
+{
+ "ac": 42,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 8,
+ "creature_ability": [
+  "Smoke Vision",
+  "Unfathomable Aspect",
+  "Beak Crunch",
+  "Sulfurous Plume",
+  "Tentacle Assault"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 34,
+ "hp": 420,
+ "hp_raw": "420",
+ "id": "creature-975",
+ "image": [
+  "/Images/Monsters/Deghuun.png"
+ ],
+ "immunity": [
+  "fire",
+  "poison"
+ ],
+ "immunity_markdown": "fire, [poison](/Traits.aspx?ID=126)",
+ "intelligence": -1,
+ "language": [
+  "Aklo",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Deghuun (Children Of Mhar)](/Monsters.aspx?ID=975)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMhar, an ancient evil deity of caverns, mountains, and volcanoes, belongs to the pantheon of the Great Old Ones—monstrous beings of alien intellect and unfathomable power. The so-called children of Mhar (known as deghuuns in the chaotic tongues of Mhar's enraptured cultists) physically resemble blue-gray octopods made of stone, mud, and molten iron. Venthole-like craters dot the surface of a deghuun's body, through which the creature can gaze out with a single golden eye that it can move from crater to crater.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Deghuun.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Children Of Mhar](/Monsters.aspx?ID=975)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 78</row>\n\n**Perception** +30; [greater darkvision](/MonsterAbilities.aspx?ID=12), smoke vision\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +37\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +6\r\n\r\n**Con** +8\r\n\r\n**Int** -1\r\n\r\n**Wis** +0\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**Smoke Vision** The deghuun ignores the [concealed](/Conditions.aspx?ID=4) condition from smoke or smog, including from Sulfurous Plume.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 42 \r\n\r\n**Fort** +34 \r\n\r\n**Ref** +30 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 420\n\n**Immunities**\r\nfire, [poison](/Traits.aspx?ID=126)\r\n\r\n**Resistances**\r\nphysical 10 (except [adamantine](/Equipment.aspx?ID=271))\r\n\r\n**Weaknesses**\r\ncold 10, good 10\r\n\r\n**Unfathomable Aspect** Anytime a deghuun attempts a Will save against an [enchantment](/Traits.aspx?ID=61) spell, the spell's caster must attempt a DC 38 Will save or become [confused](/Conditions.aspx?ID=5) for up to the spell's duration.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +35 ([Agile](/Traits.aspx?ID=170), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+17 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nlava ball +34 ([Brutal](/Traits.aspx?ID=249), [range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d6+17 bludgeoning plus 3d6 fire\r\n\r\n**Divine Innate Spells** DC 38\r\n- **6th**\r\n[Earthbind](/Spells.aspx?ID=94) (×3), [Hallucination](/Spells.aspx?ID=144)\r\n- **8th**\r\n[Earthquake](/Spells.aspx?ID=95)\r\n\r\n**Beak Crunch** <actions string=\"Single Action\" />  **Requirements** The deghuun has a creature [grabbed](/Conditions.aspx?ID=20) with its tentacles; **Effect** The creature takes 4d8+17 piercing damage.\r\n\r\n**Sulfurous Plume** <actions string=\"Two Actions\" /> ([Fire](/Traits.aspx?ID=72), [Poison](/Traits.aspx?ID=126)) The deghuun vents caustic smog for 1d4 rounds. Any creature that ends its turn within 30 feet of the deghuun during this time takes 6d6 fire damage and is [sickened 1](/Conditions.aspx?ID=34) (DC 38 Fortitude save; the creature avoids the sickened condition on a critical success, or is sickened 2 on a critical failure). While sickened in this way, a creature takes a –2 status penalty to its saving throw against the deghuun's [_hallucination_](/Spells.aspx?ID=144). Any creature that's in the smog is [concealed](/Conditions.aspx?ID=4) and treats other creatures as concealed. Strong winds dissipate the smog.\r\n\r\n**Tentacle Assault** <actions string=\"Single Action\" />  The deghuun makes three tentacle Strikes, each against a different creature within reach. These attacks count toward its multiple attack penalty as normal.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Scions of the Elder Mythos</title>\r\n\r\nChildren of Mhar are not the only agents of the Great Old Ones and Outer Gods to emerge on Golarion. [Gibbering mouthers](/Monsters.aspx?ID=227) supposedly have some connection to unholy Abhoth, and the ancestors of the Darklands-dwelling chardas were once potent clerics of Orgesh, the Faceless God.\r\n</aside>",
+ "name": "Children Of Mhar",
+ "npc": false,
+ "perception": 30,
+ "rarity": "uncommon",
+ "reflex_save": 30,
+ "release_date": "2020-06-24",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10 (except [adamantine](/Equipment.aspx?ID=271))",
+ "resistance_raw": "physical 10 (except  adamantine )",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 78</row>\n\n<row gap=\"medium\">\r\n**HP** 420\r\n\r\n**AC** 42\r\n\r\n**Fort** +34\r\n\r\n**Ref** +30\r\n\r\n**Will** +26\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMhar, an ancient evil deity of caverns, mountains, and volcanoes, belongs to the pantheon of the Great Old Ones—monstrous beings of alien intellect …\r\n</summary>",
+ "sense": " greater darkvision , smoke vision",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12), smoke vision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +37"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +37",
+ "source": [
+  "Pathfinder #156: The Apocalypse Prophet"
+ ],
+ "source_raw": [
+  "Pathfinder #156: The Apocalypse Prophet pg. 78"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 78</row>",
+ "speed": {
+  "climb": 40,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 40 feet",
+ "speed_raw": "40 feet, climb 40 feet",
+ "spell": [
+  "Earthquake",
+  "Earthbind",
+  "Hallucination"
+ ],
+ "spell_markdown": "[Earthbind](/Spells.aspx?ID=94), [Earthquake](/Spells.aspx?ID=95), [Hallucination](/Spells.aspx?ID=144)",
+ "spoilers": "Extinction Curse",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Mhar, an ancient evil deity of caverns, mountains, and volcanoes, belongs to the pantheon of the Great Old Ones—monstrous beings of alien intellect …",
+ "summary_markdown": "Mhar, an ancient evil deity of caverns, mountains, and volcanoes, belongs to the pantheon of the Great Old Ones—monstrous beings of alien intellect …",
+ "text": " Deghuun (Children Of Mhar) Mhar, an ancient evil deity of caverns, mountains, and volcanoes, belongs to the pantheon of the Great Old Ones—monstrous beings of alien intellect and unfathomable power. The so-called children of Mhar (known as deghuuns in the chaotic tongues of Mhar's enraptured cultists) physically resemble blue-gray octopods made of stone, mud, and molten iron. Venthole-like craters dot the surface of a deghuun's body, through which the creature can gaze out with a single golden eye that it can move from crater to crater. Recall Knowledge - Aberration (Occultism): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Children Of Mhar Source Pathfinder #156: The Apocalypse Prophet pg. 78 Perception +30; greater darkvision, smoke vision Languages Aklo; telepathy 100 feet Skills Athletics +37 Str +9 Dex +6 Con +8 Int -1 Wis +0 Cha +4 Smoke Vision The deghuun ignores the concealed condition from smoke or smog, including from Sulfurous Plume. --- AC 42 Fort +34 Ref +30 Will +26 HP 420 Immunities fire, poison Resistances physical 10 (except adamantine) Weaknesses cold 10, good 10 Unfathomable Aspect Anytime a deghuun attempts a Will save against an enchantment spell, the spell's caster must attempt a DC 38 Will save or become confused for up to the spell's duration. --- Speed 40 feet, climb 40 feet Melee Single Action tentacle +35 (Agile, reach 20 feet), Damage 3d10+17 bludgeoning plus Grab Ranged Single Action lava ball +34 (Brutal, range increment 60 feet), Damage 4d6+17 bludgeoning plus 3d6 fire Divine Innate Spells DC 38 - 6th Earthbind (×3), Hallucination - 8th Earthquake Beak Crunch Single Action Requirements The deghuun has a creature grabbed with its tentacles; Effect The creature takes 4d8+17 piercing damage. Sulfurous Plume Two Actions (Fire, Poison) The deghuun vents caustic smog for 1d4 rounds. Any creature that ends its turn within 30 feet of the deghuun during this time takes 6d6 fire damage and is sickened 1 (DC 38 Fortitude save; the creature avoids the sickened condition on a critical success, or is sickened 2 on a critical failure). While sickened in this way, a creature takes a –2 status penalty to its saving throw against the deghuun's hallucination . Any creature that's in the smog is concealed and treats other creatures as concealed. Strong winds dissipate the smog. Tentacle Assault Single Action The deghuun makes three tentacle Strikes, each against a different creature within reach. These attacks count toward its multiple attack penalty as normal. Scions of the Elder Mythos Children of Mhar are not the only agents of the Great Old Ones and Outer Gods to emerge on Golarion. Gibbering mouthers supposedly have some connection to unholy Abhoth, and the ancestors of the Darklands-dwelling chardas were once potent clerics of Orgesh, the Faceless God. ",
+ "trait": [
+  "Aberration",
+  "Uncommon",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=975",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold": 10,
+  "good": 10
+ },
+ "weakness_markdown": "cold 10, good 10",
+ "weakness_raw": "cold 10, good 10",
+ "will_save": 26,
+ "wisdom": 0
+}

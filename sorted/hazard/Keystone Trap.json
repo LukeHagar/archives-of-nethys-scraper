@@ -1,0 +1,60 @@
+{
+ "ac": 25,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 24  Thievery  (trained) to find and press hidden knobs in a specific order (three successes are required to disable the trap, which also opens it); DC 24  Crafting  (expert) to sabotage the vault's mechanisms, reducing its actions by 1 (when the trap's actions are reduced to 0, it is disabled)",
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hardness": 12,
+ "hardness_raw": "12 Keystone Hardness",
+ "hazard_type": "Trap",
+ "hp": 60,
+ "hp_raw": "60 (BT 30); <b>Vault Hardness</b> 10; <b>Vault HP</b> 50 (BT 25)",
+ "id": "hazard-206",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 7,
+ "markdown": "<title level=\"1\" right=\"Hazard 7\" pfs=\"\">[Keystone Trap](/Hazards.aspx?ID=206)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 28</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA 5-foot-square metal vault covered with knobs lies concealed within a stone block. A lever on the stone block slides the vault into view. When the vault is exposed—whether it's slid out or whether the stone is smashed open—the trap activates.\r\n\r\n---\r\n\r\n**Stealth**\r\n+17 (expert)\r\n\r\n**Disable**\r\nDC 24 [Thievery](/Skills.aspx?ID=17) (trained) to find and press hidden knobs in a specific order (three successes are required to disable the trap, which also opens it); DC 24 [Crafting](/Skills.aspx?ID=4) (expert) to sabotage the vault's mechanisms, reducing its actions by 1 (when the trap's actions are reduced to 0, it is disabled)\n\n<column gap=\"tiny\">\r\n\r\n**AC** 25, **Fort** +18, **Ref** +12\r\n\r\n**Keystone Hardness**\r\n12\r\n\r\n**Keystone HP**\r\n60 (BT 30); **Vault Hardness** 10; **Vault HP** 50 (BT 25)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Exposed  Vault** <actions string=\"Reaction\" /> **Trigger** The vault is exposed; **Effect** The vault makes a poison dart spray Strike at a random creature within 30 feet. The trap then rolls initiative.\n\n---\r\n**Routine**\r\n(3 actions) The keystone uses its 3 actions to Electrify, Spin, and then Launch Darts. When the trap loses an action, roll randomly to determine which action it loses.\n\n **Electrify** <actions string=\"Single Action\" /> The metal vault crackles with electricity. In air, this would damage only creatures touching it; in water, the trap deals 2d8 electricity damage to all creatures in a 10-foot emanation (DC 25 [basic](/Rules.aspx?ID=329) Fortitude save).\n\n **Launch Darts** <actions string=\"Single Action\" /> The vault fires a stream of poisoned darts. The trap attacks all creatures in a 30-foot line with its poison dart spray Strike; roll 1d8 to determine the line's direction. These Strikes don't have a multiple attack penalty.\n\n **Spin** <actions string=\"Single Action\" /> The vault spins quickly for 1 round. While it Spins, checks to disable the trap have a –2 circumstance penalty, and it Launches Darts at all creatures within 30 feet of it, rather than in a line.\n\n **Ranged** <actions string=\"Single Action\" /> poison dart spray +18 ([range increment 60 feet](/Traits.aspx?ID=248)); **Damage** 4d4 piercing and 1d8 poison",
+ "name": "Keystone Trap",
+ "rarity": "unique",
+ "reflex_save": 12,
+ "release_date": "2022-08-31",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 28</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA 5-foot-square metal vault covered with knobs lies concealed within a stone block. A lever on the stone block slides the vault into view. When the …\r\n</summary>",
+ "source": [
+  "Pathfinder #182: Graveclaw"
+ ],
+ "source_raw": [
+  "Pathfinder #182: Graveclaw pg. 28"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 28</row>",
+ "speed": {},
+ "spoilers": "Blood Lords",
+ "stealth": "+17 (expert)",
+ "summary": "A 5-foot-square metal vault covered with knobs lies concealed within a stone block. A lever on the stone block slides the vault into view. When the …",
+ "summary_markdown": "A 5-foot-square metal vault covered with knobs lies concealed within a stone block. A lever on the stone block slides the vault into view. When the …",
+ "text": " Keystone Trap Source Pathfinder #182: Graveclaw pg. 28 Complexity Complex A 5-foot-square metal vault covered with knobs lies concealed within a stone block. A lever on the stone block slides the vault into view. When the vault is exposed—whether it's slid out or whether the stone is smashed open—the trap activates. --- Stealth +17 (expert) Disable DC 24 Thievery (trained) to find and press hidden knobs in a specific order (three successes are required to disable the trap, which also opens it); DC 24 Crafting (expert) to sabotage the vault's mechanisms, reducing its actions by 1 (when the trap's actions are reduced to 0, it is disabled) AC 25, Fort +18, Ref +12 Keystone Hardness 12 Keystone HP 60 (BT 30); Vault Hardness 10; Vault HP 50 (BT 25) Immunities critical hits, object immunities, precision damage Exposed Vault Reaction Trigger The vault is exposed; Effect The vault makes a poison dart spray Strike at a random creature within 30 feet. The trap then rolls initiative. --- Routine (3 actions) The keystone uses its 3 actions to Electrify, Spin, and then Launch Darts. When the trap loses an action, roll randomly to determine which action it loses. Electrify Single Action The metal vault crackles with electricity. In air, this would damage only creatures touching it; in water, the trap deals 2d8 electricity damage to all creatures in a 10-foot emanation (DC 25 basic Fortitude save). Launch Darts Single Action The vault fires a stream of poisoned darts. The trap attacks all creatures in a 30-foot line with its poison dart spray Strike; roll 1d8 to determine the line's direction. These Strikes don't have a multiple attack penalty. Spin Single Action The vault spins quickly for 1 round. While it Spins, checks to disable the trap have a –2 circumstance penalty, and it Launches Darts at all creatures within 30 feet of it, rather than in a line. Ranged Single Action poison dart spray +18 (range increment 60 feet); Damage 4d4 piercing and 1d8 poison",
+ "trait": [
+  "Complex",
+  "Mechanical",
+  "Trap",
+  "Unique"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Complex",
+  "Mechanical",
+  "Trap",
+  "Unique"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=206",
+ "weakness": {}
+}

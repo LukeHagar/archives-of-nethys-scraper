@@ -1,0 +1,89 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 3,
+ "creature_ability": [
+  "Barbed Filament"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-2454",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tree Fisher](/Monsters.aspx?ID=2454)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Tree Fisher](/Monsters.aspx?ID=2454)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 45</row>\n\n**Perception** +9; [low-light vision](/Monsters.aspx?ID=1969)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, climb 15 feet\r\n\r\n**Melee**\r\n<actions string=\"\" />\r\nclaw +11,\r\n**Damage** 2d6+5 slashing\r\n\r\n**Ranged**\r\n<actions string=\"\" />\r\nharpoon +12 ([range 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+5 piercing plus barbed filament\n\n**Barbed Filament**   A creature hit by the tree fisher's barbed filament is [grabbed](/Conditions.aspx?ID=20). The tree fisher can move while it has a creature grabbed with its filament, but automatically releases the [Grab](/MonsterAbilities.aspx?ID=18) if the tree fisher moves beyond the filament's 60-foot length. A creature grabbed by the filament at the beginning of its turn takes 5 bleed damage.<br /> The tree fisher can sever the filament and release any creature grabbed by it as a free action. The f lament can be severed by a Strike that deals at least 10 slashing damage to it. This doesn't deal any damage to the tree fisher itself. The filament has AC 17, and its [Escape](/Actions.aspx?ID=79) DC is 19.<br /> The tree fisher has only one harpoon; if the filament is severed, the tree fisher loses this ability and its ranged attack for 1 week as it fashions a new harpoon.\r\n\r\n</column>",
+ "name": "Tree Fisher",
+ "npc": false,
+ "perception": 9,
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2023-01-25",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 45</row>\n\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 19\r\n\r\n**Fort** +10\r\n\r\n**Ref** +10\r\n\r\n**Will** +8\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/Monsters.aspx?ID=1969)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Pathfinder #187: The Seventh Arch"
+ ],
+ "source_raw": [
+  "Pathfinder #187: The Seventh Arch pg. 45"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 45</row>",
+ "speed": {
+  "climb": 15,
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet, climb 15 feet",
+ "speed_raw": "15 feet, climb 15 feet",
+ "spell_markdown": "",
+ "spoilers": "Gatewalkers",
+ "stealth": "11",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "summary": "",
+ "summary_markdown": "",
+ "text": " Tree Fisher Recall Knowledge - Animal (Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Tree Fisher Source Pathfinder #187: The Seventh Arch pg. 45 Perception +9; low-light vision Languages Skills Athletics +12, Stealth +11 Str +4 Dex +3 Con +3 Int -5 Wis +1 Cha -3 --- AC 19 Fort +10 Ref +10 Will +8 HP 45 --- Speed 15 feet, climb 15 feet Melee claw +11, Damage 2d6+5 slashing Ranged harpoon +12 (range 60 feet), Damage 2d6+5 piercing plus barbed filament Barbed Filament A creature hit by the tree fisher's barbed filament is grabbed. The tree fisher can move while it has a creature grabbed with its filament, but automatically releases the Grab if the tree fisher moves beyond the filament's 60-foot length. A creature grabbed by the filament at the beginning of its turn takes 5 bleed damage. The tree fisher can sever the filament and release any creature grabbed by it as a free action. The f lament can be severed by a Strike that deals at least 10 slashing damage to it. This doesn't deal any damage to the tree fisher itself. The filament has AC 17, and its Escape DC is 19. The tree fisher has only one harpoon; if the filament is severed, the tree fisher loses this ability and its ranged attack for 1 week as it fashions a new harpoon. ",
+ "trait": [
+  "Animal",
+  "Uncommon",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Animal",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2454",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 1
+}

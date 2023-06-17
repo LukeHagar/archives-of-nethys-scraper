@@ -1,0 +1,123 @@
+{
+ "ac": 33,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 2,
+ "creature_ability": [
+  "Wind Up",
+  "Clockwork Swarm",
+  "Clockwork String",
+  "Create Puppet",
+  "Pull String"
+ ],
+ "creature_family": "Clockworks",
+ "creature_family_markdown": "[Clockworks](/MonsterFamilies.aspx?ID=223)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 205,
+ "hp_raw": "205",
+ "id": "creature-1981",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poisoned",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poisoned](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"\">[Clockwork Puppeteer](/Monsters.aspx?ID=1981)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nClockwork puppeteers are grim constructs capable of controlling corpses like puppets. They typically stand 12 feet tall and have spindly legs and long arms ending with scalpel-like claws. Dozens of metallic strings, composed of interlocking clockwork links, hang from their wrists.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Clockwork Puppeteer](/Monsters.aspx?ID=1981)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 81</row>\n\n**Perception** +20; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Stealth](/Skills.aspx?ID=15) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +6\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +2\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Wind Up** 24 hours, DC 22, standby\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 205\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poisoned](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nphysical 10 (except [adamantine](/Equipment.aspx?ID=374) or orichalcum)\r\n\r\n**Weaknesses**\r\n[electricity](/Traits.aspx?ID=56) 10, [orichalcum](/Equipment.aspx?ID=378) 10\r\n\r\n**Clockwork Swarm** ([aura](/Traits.aspx?ID=206)) 30 feet. A cloud of flying, spiderlike clockworks surrounds the clockwork puppeteer. A creature that ends its turn in the cloud takes 4d8 piercing damage (DC 29 [basic](/Rules.aspx?ID=329) Reflex save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +24,\r\n**Damage** 3d10+9 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nstring +24 ([range 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+9 slashing plus clockwork string\n\n**Clockwork String**   Any creature hit by the puppeteer's string is [grabbed](/Conditions.aspx?ID=20). The puppeteer can move while it has a creature grabbed with its string, but it automatically releases the creature if the puppeteer moves beyond the string's 60-foot length. The puppeteer can use up to six strings at a time. It can release any creature grabbed by a string as a free action. Each string has AC 30, and its [Escape](/Actions.aspx?ID=79) DC is 32. A string can be severed by a Strike that deals at least 20 slashing damage to it. This doesn't deal any damage to the clockwork puppeteer.\r\n\r\n**Create Puppet** <actions string=\"Reaction\" /> ([Arcane](/Traits.aspx?ID=11)) **Trigger** A creature [grabbed](/Conditions.aspx?ID=20) by the puppeteer's clockwork string dies; **Effect** The triggering creature's body becomes infested with tiny clockworks. This puppet is fully under the clockwork puppeteer's control and has statistics identical to a [zombie](/MonsterFamilies.aspx?ID=103) of its size with the following exceptions: It loses the [undead](/Traits.aspx?ID=160) trait, loses [negative healing](/MonsterAbilities.aspx?ID=42), loses its weakness to positive damage, and gains the [construct](/Traits.aspx?ID=35) trait.\r\n\r\n**Pull String** <actions string=\"Single Action\" />  The puppeteer reins in a creature grabbed by its string. The puppeteer attempts an [Athletics](/Skills.aspx?ID=3) check against the creature's Fortitude DC. On a success, the puppeteer [pulls](/Rules.aspx?ID=451) the creature 15 feet closer to it (30 feet closer on a critical success).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Clockwork Free Will</title>\r\n\r\nAlthough mindless, clockwork puppeteers display an unusual ability to reason and make choices independently. This appearance of free will is, however, merely an illusion. In truth, a puppeteer's clockwork “brain” is so complex it bears a powerful semblance of agency. Creating these brains is a taxing and expensive endeavor, which is why clockwork puppeteers are among the rarest kinds of clockwork.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-223\" />",
+ "name": "Clockwork Puppeteer",
+ "npc": false,
+ "perception": 20,
+ "rarity": "uncommon",
+ "reflex_save": 25,
+ "release_date": "2022-06-29",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10 (except [adamantine](/Equipment.aspx?ID=374) or orichalcum)",
+ "resistance_raw": "physical 10 (except  adamantine  or orichalcum)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 81</row>\r\n\r\n**Creature Family** [Clockworks](/MonsterFamilies.aspx?ID=223)\r\n\r\n<row gap=\"medium\">\r\n**HP** 205\r\n\r\n**AC** 33\r\n\r\n**Fort** +22\r\n\r\n**Ref** +25\r\n\r\n**Will** +19\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nClockwork puppeteers are grim constructs capable of controlling corpses like puppets. They typically stand 12 feet tall and have spindly legs and …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Stealth +25"
+ ],
+ "skill_markdown": "[Stealth](/Skills.aspx?ID=15) +25",
+ "source": [
+  "Pathfinder #180: The Smoking Gun"
+ ],
+ "source_raw": [
+  "Pathfinder #180: The Smoking Gun pg. 81"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 81</row>",
+ "speed": {
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 25 feet",
+ "speed_raw": "25 feet, climb 25 feet",
+ "spell_markdown": "",
+ "spoilers": "Outlaws of Alkenstar",
+ "stealth": "25",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Clockwork puppeteers are grim constructs capable of controlling corpses like puppets. They typically stand 12 feet tall and have spindly legs and …",
+ "summary_markdown": "Clockwork puppeteers are grim constructs capable of controlling corpses like puppets. They typically stand 12 feet tall and have spindly legs and …",
+ "text": " Clockwork Puppeteer Clockwork puppeteers are grim constructs capable of controlling corpses like puppets. They typically stand 12 feet tall and have spindly legs and long arms ending with scalpel-like claws. Dozens of metallic strings, composed of interlocking clockwork links, hang from their wrists. Recall Knowledge - Construct (Arcana, Crafting): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Clockwork Puppeteer Source Pathfinder #180: The Smoking Gun pg. 81 Perception +20; darkvision Languages Skills Stealth +25 Str +6 Dex +6 Con +2 Int -5 Wis +2 Cha -5 Wind Up 24 hours, DC 22, standby --- AC 33 Fort +22 Ref +25 Will +19 HP 205 Immunities death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poisoned, sickened, unconscious Resistances physical 10 (except adamantine or orichalcum) Weaknesses electricity 10, orichalcum 10 Clockwork Swarm (aura) 30 feet. A cloud of flying, spiderlike clockworks surrounds the clockwork puppeteer. A creature that ends its turn in the cloud takes 4d8 piercing damage (DC 29 basic Reflex save). --- Speed 25 feet, climb 25 feet Melee Single Action claw +24, Damage 3d10+9 slashing Ranged Single Action string +24 (range 60 feet), Damage 3d8+9 slashing plus clockwork string Clockwork String Any creature hit by the puppeteer's string is grabbed. The puppeteer can move while it has a creature grabbed with its string, but it automatically releases the creature if the puppeteer moves beyond the string's 60-foot length. The puppeteer can use up to six strings at a time. It can release any creature grabbed by a string as a free action. Each string has AC 30, and its Escape DC is 32. A string can be severed by a Strike that deals at least 20 slashing damage to it. This doesn't deal any damage to the clockwork puppeteer. Create Puppet Reaction (Arcane) Trigger A creature grabbed by the puppeteer's clockwork string dies; Effect The triggering creature's body becomes infested with tiny clockworks. This puppet is fully under the clockwork puppeteer's control and has statistics identical to a zombie of its size with the following exceptions: It loses the undead trait, loses negative healing, loses its weakness to positive damage, and gains the construct trait. Pull String Single Action The puppeteer reins in a creature grabbed by its string. The puppeteer attempts an Athletics check against the creature's Fortitude DC. On a success, the puppeteer pulls the creature 15 feet closer to it (30 feet closer on a critical success). Clockwork Free Will Although mindless, clockwork puppeteers display an unusual ability to reason and make choices independently. This appearance of free will is, however, merely an illusion. In truth, a puppeteer's clockwork “brain” is so complex it bears a powerful semblance of agency. Creating these brains is a taxing and expensive endeavor, which is why clockwork puppeteers are among the rarest kinds of clockwork. ",
+ "trait": [
+  "Clockwork",
+  "Construct",
+  "Mindless",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Clockwork](/Traits.aspx?ID=331), [Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Clockwork",
+  "Construct",
+  "Mindless",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1981",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "electricity": 10,
+  "orichalcum": 10
+ },
+ "weakness_markdown": "[electricity](/Traits.aspx?ID=56) 10, [orichalcum](/Equipment.aspx?ID=378) 10",
+ "weakness_raw": " electricity  10,  orichalcum  10",
+ "will_save": 19,
+ "wisdom": 2
+}

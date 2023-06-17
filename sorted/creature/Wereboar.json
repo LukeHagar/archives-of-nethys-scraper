@@ -1,0 +1,108 @@
+{
+ "ac": 18,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 4,
+ "creature_ability": [
+  "Boar Empathy",
+  "Ferocity",
+  "Boar Charge",
+  "Change Shape",
+  "Curse of the Wereboar",
+  "Moon Frenzy"
+ ],
+ "creature_family": "Werecreature",
+ "creature_family_markdown": "[Werecreature](/MonsterFamilies.aspx?ID=100)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-857",
+ "image": [
+  "/Images/Monsters/Werecreature_Wereboar.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "boar empathy"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); boar empathy",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Wereboar](/Monsters.aspx?ID=857)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWereboars tend to be aggressive and stubborn, and often live with their own kind in small, remote communities. Even when they're inclined to interact with others, wereboars' short tempers and hostile nature lead other creatures to avoid them. Lone wereboars who settle down—often on remote farms—are extremely territorial, though others are content to roam and explore lands far from home. Their other habits also vary widely from individual to individual, right down to diet: some wereboars might feast on human flesh, while others are mostly vegetarian.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Werecreature_Wereboar.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Wereboar](/Monsters.aspx?ID=857)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 290 <sup>2.0</sup></row>\n\n**Perception** +8; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); boar empathy\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +5, [Survival](/Skills.aspx?ID=16) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Boar Empathy** ([divination](/Traits.aspx?ID=47), [primal](/Traits.aspx?ID=134)) The wereboar can communicate with boars and pigs.\r\n\r\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3) (2), [Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 45\n\n**Weaknesses**\r\nsilver 5\r\n\r\n**[Ferocity](/MonsterAbilities.aspx?ID=16)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +10 ([Agile](/Traits.aspx?ID=170), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+6 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntusk +10,\r\n**Damage** 1d8+6 piercing plus curse of the wereboar\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +10 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d4+6 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +7 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+4 piercing\n\n**Boar Charge** <actions string=\"Two Actions\" />  The wereboar Strides twice and then makes a melee Strike. As long as they moved at least 20 feet, they gain a +2 circumstance bonus to their attack roll.\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The werecreature changes into their humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is their hybrid shape. In humanoid shape, the werecreature uses their original humanoid size, loses their jaws and claw Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by their claw. In animal shape, their Speed and size change to that of the animal, they gain any special Strike effects of the animal that they didn't already have (such as [Grab](/MonsterAbilities.aspx?ID=18)), and they lose their weapon Strikes.<br />Human with fist +10 for 1d4+2 bludgeoning, or [boar](/Monsters.aspx?ID=52) with Speed 40 feet and tusk for 2d6+4 piercing.\r\n\r\n**Curse of the Wereboar**  ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)) This curse affects only [humanoids](/Traits.aspx?ID=91); **Saving Throw** DC 15 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a wearboar until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn.\r\n\r\n**Moon Frenzy**  ([Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases their reach by 5 feet, and increases the damage of their jaws Strike by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is [fatigued](/Conditions.aspx?ID=15) for 2d4 hours.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-100\" />",
+ "name": "Wereboar",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Werecreature\" url=\"/Traits.aspx?ID=243\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 290 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Werecreature](/MonsterFamilies.aspx?ID=100)\r\n\r\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 18\r\n\r\n**Fort** +10\r\n\r\n**Ref** +5\r\n\r\n**Will** +8\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWereboars tend to be aggressive and stubborn, and often live with their own kind in small, remote communities. Even when they're inclined to interact …\r\n</summary>",
+ "sense": " low-light vision ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +8",
+  "Intimidation +5",
+  "Survival +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +8, [Intimidation](/Skills.aspx?ID=7) +5, [Survival](/Skills.aspx?ID=16) +7",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 290"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 290 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Wereboars tend to be aggressive and stubborn, and often live with their own kind in small, remote communities. Even when they're inclined to interact …",
+ "summary_markdown": "Wereboars tend to be aggressive and stubborn, and often live with their own kind in small, remote communities. Even when they're inclined to interact …",
+ "text": " Wereboar Wereboars tend to be aggressive and stubborn, and often live with their own kind in small, remote communities. Even when they're inclined to interact with others, wereboars' short tempers and hostile nature lead other creatures to avoid them. Lone wereboars who settle down—often on remote farms—are extremely territorial, though others are content to roam and explore lands far from home. Their other habits also vary widely from individual to individual, right down to diet: some wereboars might feast on human flesh, while others are mostly vegetarian. Recall Knowledge - Beast (Arcana, Nature): DC 16 Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Wereboar Source Bestiary 2 pg. 290 2.0 Perception +8; low-light vision, scent (imprecise) 30 feet Languages Common; boar empathy Skills Acrobatics +7, Athletics +8, Intimidation +5, Survival +7 Str +4 Dex +1 Con +4 Int +0 Wis +2 Cha -1 Boar Empathy (divination, primal) The wereboar can communicate with boars and pigs. Items Dagger (2), Studded Leather Armor --- AC 18 Fort +10 Ref +5 Will +8 HP 45 Weaknesses silver 5 Ferocity Reaction --- Speed 25 feet Melee Single Action dagger +10 (Agile, versatile S), Damage 1d4+6 piercing Melee Single Action tusk +10, Damage 1d8+6 piercing plus curse of the wereboar Melee Single Action claw +10 (Agile), Damage 1d4+6 piercing Ranged Single Action dagger +7 (Agile, thrown 10 feet, versatile S), Damage 1d4+4 piercing Boar Charge Two Actions The wereboar Strides twice and then makes a melee Strike. As long as they moved at least 20 feet, they gain a +2 circumstance bonus to their attack roll. Change Shape Single Action (Concentrate, Polymorph, Primal, Transmutation) The werecreature changes into their humanoid, hybrid, or animal shape. Each shape has a specific, persistent appearance. A true werecreature's natural form is their hybrid shape. In humanoid shape, the werecreature uses their original humanoid size, loses their jaws and claw Strikes, and gains a melee fist Strike that deals bludgeoning damage equal to the slashing damage dealt by their claw. In animal shape, their Speed and size change to that of the animal, they gain any special Strike effects of the animal that they didn't already have (such as Grab), and they lose their weapon Strikes. Human with fist +10 for 1d4+2 bludgeoning, or boar with Speed 40 feet and tusk for 2d6+4 piercing. Curse of the Wereboar (Curse, Necromancy, Primal) This curse affects only humanoids; Saving Throw DC 15 Fortitude. On each full moon, the cursed creature must succeed at another Fortitude save or turn into a wearboar until dawn. The creature is under the GM's control and goes on a rampage for half the night before falling unconscious until dawn. Moon Frenzy (Polymorph, Primal, Transmutation) When a full moon appears in the night sky, the werecreature must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases their reach by 5 feet, and increases the damage of their jaws Strike by 2. When the moon sets or the sun rises, the werecreature returns to humanoid form and is fatigued for 2d4 hours. ",
+ "trait": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Werecreature",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Werecreature](/Traits.aspx?ID=243)",
+ "trait_raw": [
+  "Beast",
+  "Human",
+  "Humanoid",
+  "Werecreature"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=857",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "silver": 5
+ },
+ "weakness_markdown": "silver 5",
+ "weakness_raw": "silver 5",
+ "will_save": 8,
+ "wisdom": 2
+}

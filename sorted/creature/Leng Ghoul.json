@@ -1,0 +1,118 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 5,
+ "creature_ability": [
+  "Erudite",
+  "Absorb Memories",
+  "Leng Ghoul Fever",
+  "Paralysis",
+  "Sneak Attack"
+ ],
+ "creature_family": "Ghoul",
+ "creature_family_markdown": "[Ghoul](/MonsterFamilies.aspx?ID=52)",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 180,
+ "hp_raw": "180 ( negative healing )",
+ "id": "creature-1165",
+ "image": [
+  "/Images/Monsters/Ghoul_LengGhoul.png"
+ ],
+ "immunity": [
+  "cold",
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "cold, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 3,
+ "language": [
+  "Aklo",
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Leng Ghoul](/Monsters.aspx?ID=1165)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIn the icy nightmare dimension of Leng, ghouls with hoofed feet gather in morbid groups to worship and research, forming societies that mockingly mimic (and in their opinion, surpass) those of the living. Most worship the malevolent gods of the Elder Mythos and see the living as little more than fodder who will eventually die and provide memories for Leng ghouls to consume and absorb. Not all Leng ghouls are evil, but most are, and even those who aren't possess sardonic senses of humor and grisly appetites that make them disturbing allies at best.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ghoul_LengGhoul.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Leng Ghoul](/Monsters.aspx?ID=1165)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Dream\" url=\"/Traits.aspx?ID=299\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 107</row>\n\n**Perception** +19; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +21, [Arcana](/Skills.aspx?ID=2) +19, [Athletics](/Skills.aspx?ID=3) +19, [Occultism](/Skills.aspx?ID=11) +21, [Religion](/Skills.aspx?ID=13) +19, [Stealth](/Skills.aspx?ID=15) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +7\r\n\r\n**Con** +5\r\n\r\n**Int** +3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Erudite** Leng ghouls can cast arcane, divine, and occult spells from scrolls, with a spell DC of 28 and a spell attack roll of +20.\r\n\r\n**Items**\r\n[_scroll of confusion_](/Spells.aspx?ID=48), [_scroll of fly_](/Spells.aspx?ID=125)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +19 \r\n\r\n+1 status to all saves vs. positive\r\n</row>\r\n\r\n**HP** 180\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\ncold, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, burrow 25 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d8+8 piercing plus Leng ghoul fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+8 slashing plus paralysis\n\n**Absorb Memories** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The Leng ghoul is adjacent to the corpse of a creature that retains flesh on its bones; **Effect** The Leng ghoul devours a chunk of the corpse and regains 6d6 Hit Points. At the same time, they also absorb some of the memories stored in the flesh from when the corpse was alive, gaining a +1 status bonus to all skill checks for 10 minutes.<br /> The Leng ghoul can immediately attempt an [Occultism](/Skills.aspx?ID=11) check to learn one non-secret memory the corpse had when it was alive (use the standard DC for the creature's level). The exact memory learned is determined by the GM but is typically something of use to the Leng ghoul. The memory can't be one the creature was trying to keep secret unless the check was a critical success. A Leng ghoul can Absorb Memories from any given corpse only once.\r\n\r\n**Leng Ghoul Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 28 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 4d8 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 4d8 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a Leng ghoul the next sunset\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living creature hit by a Leng ghoul's attack must succeed at a DC 28 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   A Leng ghoul deals an extra 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Corpse Libraries</title>\r\n\r\nBecause Leng ghouls can draw lore from the flesh they consume, their temples often contain libraries that would, to the untrained eye, look more like abattoirs of preserved corpses. Here, a curious Leng ghoul can browse and feed simultaneously, or even research secrets that have long laid dormant in the dead.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-52\" />",
+ "name": "Leng Ghoul",
+ "npc": false,
+ "perception": 19,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 21,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Dream\" url=\"/Traits.aspx?ID=299\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 107</row>\r\n\r\n**Creature Family** [Ghoul](/MonsterFamilies.aspx?ID=52)\r\n\r\n<row gap=\"medium\">\r\n**HP** 180 ( negative healing )\r\n\r\n**AC** 29\r\n\r\n**Fort** +18\r\n\r\n**Ref** +21\r\n\r\n**Will** +19\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn the icy nightmare dimension of Leng, ghouls with hoofed feet gather in morbid groups to worship and research, forming societies that mockingly …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +21",
+  "Arcana +19",
+  "Athletics +19",
+  "Occultism +21",
+  "Religion +19",
+  "Stealth +21"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +21, [Arcana](/Skills.aspx?ID=2) +19, [Athletics](/Skills.aspx?ID=3) +19, [Occultism](/Skills.aspx?ID=11) +21, [Religion](/Skills.aspx?ID=13) +19, [Stealth](/Skills.aspx?ID=15) +21",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 107"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 107</row>",
+ "speed": {
+  "burrow": 25,
+  "climb": 25,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, burrow 25 feet, climb 25 feet",
+ "speed_raw": "25 feet, burrow 25 feet, climb 25 feet",
+ "spell_markdown": "",
+ "stealth": "21",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "In the icy nightmare dimension of Leng, ghouls with hoofed feet gather in morbid groups to worship and research, forming societies that mockingly …",
+ "summary_markdown": "In the icy nightmare dimension of Leng, ghouls with hoofed feet gather in morbid groups to worship and research, forming societies that mockingly …",
+ "text": " Leng Ghoul In the icy nightmare dimension of Leng, ghouls with hoofed feet gather in morbid groups to worship and research, forming societies that mockingly mimic (and in their opinion, surpass) those of the living. Most worship the malevolent gods of the Elder Mythos and see the living as little more than fodder who will eventually die and provide memories for Leng ghouls to consume and absorb. Not all Leng ghouls are evil, but most are, and even those who aren't possess sardonic senses of humor and grisly appetites that make them disturbing allies at best. Recall Knowledge - Undead (Religion): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Leng Ghoul Source Bestiary 3 pg. 107 Perception +19; darkvision Languages Aklo, Common, Necril Skills Acrobatics +21, Arcana +19, Athletics +19, Occultism +21, Religion +19, Stealth +21 Str +5 Dex +7 Con +5 Int +3 Wis +5 Cha +6 Erudite Leng ghouls can cast arcane, divine, and occult spells from scrolls, with a spell DC of 28 and a spell attack roll of +20. Items scroll of confusion , scroll of fly --- AC 29 Fort +18 Ref +21 Will +19 +1 status to all saves vs. positive HP 180 (negative healing) Immunities cold, death effects, disease, paralyzed, poison, unconscious --- Speed 25 feet, burrow 25 feet, climb 25 feet Melee Single Action jaws +23 (Finesse), Damage 2d8+8 piercing plus Leng ghoul fever and paralysis Melee Single Action claw +23 (Agile, Finesse), Damage 2d6+8 slashing plus paralysis Absorb Memories Single Action (Manipulate) Requirements The Leng ghoul is adjacent to the corpse of a creature that retains flesh on its bones; Effect The Leng ghoul devours a chunk of the corpse and regains 6d6 Hit Points. At the same time, they also absorb some of the memories stored in the flesh from when the corpse was alive, gaining a +1 status bonus to all skill checks for 10 minutes. The Leng ghoul can immediately attempt an Occultism check to learn one non-secret memory the corpse had when it was alive (use the standard DC for the creature's level). The exact memory learned is determined by the GM but is typically something of use to the Leng ghoul. The memory can't be one the creature was trying to keep secret unless the check was a critical success. A Leng ghoul can Absorb Memories from any given corpse only once. Leng Ghoul Fever (Disease) Saving Throw DC 28 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 4d8 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 4d8 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a Leng ghoul the next sunset Paralysis (Incapacitation, Occult, Necromancy) Any living creature hit by a Leng ghoul's attack must succeed at a DC 28 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Sneak Attack A Leng ghoul deals an extra 2d6 precision damage to flat-footed creatures. Corpse Libraries Because Leng ghouls can draw lore from the flesh they consume, their temples often contain libraries that would, to the untrained eye, look more like abattoirs of preserved corpses. Here, a curious Leng ghoul can browse and feed simultaneously, or even research secrets that have long laid dormant in the dead. ",
+ "trait": [
+  "Dream",
+  "Ghoul",
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Dream](/Traits.aspx?ID=299), [Ghoul](/Traits.aspx?ID=218), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Dream",
+  "Ghoul",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1165",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 5
+}

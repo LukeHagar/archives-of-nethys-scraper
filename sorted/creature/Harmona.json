@@ -1,0 +1,110 @@
+{
+ "ac": 30,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 3,
+ "creature_ability": [
+  "Flit Back",
+  "Concussive Blow",
+  "Subsonic Pulse",
+  "Ultrasonic Thrust"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 190,
+ "hp_raw": "190",
+ "id": "creature-1190",
+ "image": [
+  "/Images/Monsters/Harmona.png"
+ ],
+ "immunity": [
+  "sonic"
+ ],
+ "immunity_markdown": "sonic",
+ "intelligence": 5,
+ "language": [
+  "Sylvan"
+ ],
+ "language_markdown": "[Sylvan](/Languages.aspx?ID=10)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Harmona](/Monsters.aspx?ID=1190)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCatching a glimpse of a harmona is said to be lucky. Flying quickly, observing and scouting new areas, these brightly colored avian fey are all but hidden to the eye. A soft buzz accompanies them, discernible only to creatures with particularly keen hearing.\n\n Intelligent and curious, these tiny fey birds freely roam the [First World](/Planes.aspx?ID=10), accompanying high-ranking fey creatures such as queens or their courts. In turn, companions who treat a harmona with respect for their knowledge and skill benefit from the harmona's aid in times of need.\n\n When these curious creatures find a natural gate between the planes, they glide through to explore and expand their knowledge. Those who find their way onto the [Material Plane](/Planes.aspx?ID=1) often choose to remain there in search of diverse and unusual places. This frequently leads them to the same locations that draw in curious adventurers. A harmona might befriend a non-fey adventurer as a companion, but they resent those who would treat them as pets and fight to the death to avoid capture.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Harmona.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Harmona](/Monsters.aspx?ID=1190)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 132</row>\n\n**Perception** +24; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +23, [Arcana](/Skills.aspx?ID=2) +20, [Diplomacy](/Skills.aspx?ID=6) +22, [Nature](/Skills.aspx?ID=10) +24, [Performance](/Skills.aspx?ID=12) +22, [Stealth](/Skills.aspx?ID=15) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +6\r\n\r\n**Con** +3\r\n\r\n**Int** +5\r\n\r\n**Wis** +7\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +24 \n\n</row>\r\n\r\n**HP** 190\n\n**Immunities**\r\nsonic\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 10\r\n\r\n**Flit Back** <actions string=\"Reaction\" /> **Trigger** A creature enters the harmona's space or an adjacent square; **Effect** The harmona Flies 10 feet away from the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +23 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+6 piercing plus 2d6 sonic\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nsonic pulse + 23 ([Magical](/Traits.aspx?ID=103), [range 60 feet](/Traits.aspx?ID=248), [Sonic](/Traits.aspx?ID=147)),\r\n**Damage** 2d12+6 sonic plus [Push](/MonsterAbilities.aspx?ID=25)\r\n\r\n**Primal Innate Spells** DC 30\r\n- **Cantrips (4th)**\r\n[Detect Magic](/Spells.aspx?ID=66)\r\n\r\n**Concussive Blow** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134), [Sonic](/Traits.aspx?ID=147)) The harmona makes a beak Strike, channeling disruptive sound waves into the blow. On a hit, the target must succeed at a DC 30 Fortitude save or become [stunned 1](/Conditions.aspx?ID=36) (stunned 2 on a critical failure). After this Strike, the harmona can Fly up to half their fly Speed.\r\n\r\n**Subsonic Pulse** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The harmona beats their wings rapidly towards the ground, creating a nearly inaudible rumble and sending a wave of shaking earth to overwhelm their enemies. Each creature in a 15-foot emanation must succeed at a DC 30 [basic](/Rules.aspx?ID=329) Fortitude save or take 6d6 sonic damage. A creature that fails its save is knocked [prone](/Conditions.aspx?ID=31) from the shaking ground.\r\n\r\n**Ultrasonic Thrust** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134), [Sonic](/Traits.aspx?ID=147)) The harmona beats their wings skyward, creating a spiraling vibration. Each creature in a 30-foot cone must attempt a DC 30 Reflex save as the high-frequency blast flings them up and away. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [pushed](/Rules.aspx?ID=451) 5 feet away and knocked off balance, becoming [flat-footed](/Conditions.aspx?ID=16) until the start of their next turn. <br />**Failure** Sonic waves fling the creature 15 feet back from the harmona. The creature takes 6d6 bludgeoning damage from the fall and lands [prone](/Conditions.aspx?ID=31). <br />**Critical Failure** As failure, but the creature is flung 30 feet and takes double damage.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Sweet Eats</title>\r\n\r\nHarmonas, like their mundane hummingbird counterparts, have rapid metabolisms and usually get most of their energy and wing power from flower nectar. Over time, they developed a taste for sweets such as cupcakes, cookies, pie, wine, elderflower cordial, and the like. They can be expensive companions to feed, but it is easiest to befriend a harmona by tempting their curiosity with a sweet it hasn't had the pleasure of trying yet.\r\n</aside>",
+ "name": "Harmona",
+ "npc": false,
+ "perception": 24,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 21,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 132</row>\n\n<row gap=\"medium\">\r\n**HP** 190\r\n\r\n**AC** 30\r\n\r\n**Fort** +18\r\n\r\n**Ref** +21\r\n\r\n**Will** +24\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCatching a glimpse of a harmona is said to be lucky. Flying quickly, observing and scouting new areas, these brightly colored avian fey are all but …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +23",
+  "Arcana +20",
+  "Diplomacy +22",
+  "Nature +24",
+  "Performance +22",
+  "Stealth +23"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +23, [Arcana](/Skills.aspx?ID=2) +20, [Diplomacy](/Skills.aspx?ID=6) +22, [Nature](/Skills.aspx?ID=10) +24, [Performance](/Skills.aspx?ID=12) +22, [Stealth](/Skills.aspx?ID=15) +23",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 132"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 132</row>",
+ "speed": {
+  "fly": 60,
+  "land": 10,
+  "max": 60
+ },
+ "speed_markdown": "10 feet, fly 60 feet",
+ "speed_raw": "10 feet, fly 60 feet",
+ "spell": [
+  "Detect Magic"
+ ],
+ "spell_markdown": "[Detect Magic](/Spells.aspx?ID=66)",
+ "stealth": "23",
+ "strength": 0,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Catching a glimpse of a harmona is said to be lucky. Flying quickly, observing and scouting new areas, these brightly colored avian fey are all but …",
+ "summary_markdown": "Catching a glimpse of a harmona is said to be lucky. Flying quickly, observing and scouting new areas, these brightly colored avian fey are all but …",
+ "text": " Harmona Catching a glimpse of a harmona is said to be lucky. Flying quickly, observing and scouting new areas, these brightly colored avian fey are all but hidden to the eye. A soft buzz accompanies them, discernible only to creatures with particularly keen hearing. Intelligent and curious, these tiny fey birds freely roam the First World, accompanying high-ranking fey creatures such as queens or their courts. In turn, companions who treat a harmona with respect for their knowledge and skill benefit from the harmona's aid in times of need. When these curious creatures find a natural gate between the planes, they glide through to explore and expand their knowledge. Those who find their way onto the Material Plane often choose to remain there in search of diverse and unusual places. This frequently leads them to the same locations that draw in curious adventurers. A harmona might befriend a non-fey adventurer as a companion, but they resent those who would treat them as pets and fight to the death to avoid capture. Recall Knowledge - Fey (Nature): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Harmona Source Bestiary 3 pg. 132 Perception +24; low-light vision Languages Sylvan Skills Acrobatics +23, Arcana +20, Diplomacy +22, Nature +24, Performance +22, Stealth +23 Str +0 Dex +6 Con +3 Int +5 Wis +7 Cha +5 --- AC 30 Fort +18 Ref +21 Will +24 HP 190 Immunities sonic Weaknesses cold iron 10 Flit Back Reaction Trigger A creature enters the harmona's space or an adjacent square; Effect The harmona Flies 10 feet away from the triggering creature. --- Speed 10 feet, fly 60 feet Melee Single Action beak +23 (Finesse, Magical), Damage 2d6+6 piercing plus 2d6 sonic Ranged Single Action sonic pulse + 23 (Magical, range 60 feet, Sonic), Damage 2d12+6 sonic plus Push Primal Innate Spells DC 30 - Cantrips (4th) Detect Magic Concussive Blow Two Actions (Evocation, Primal, Sonic) The harmona makes a beak Strike, channeling disruptive sound waves into the blow. On a hit, the target must succeed at a DC 30 Fortitude save or become stunned 1 (stunned 2 on a critical failure). After this Strike, the harmona can Fly up to half their fly Speed. Subsonic Pulse Two Actions (Evocation, Primal) The harmona beats their wings rapidly towards the ground, creating a nearly inaudible rumble and sending a wave of shaking earth to overwhelm their enemies. Each creature in a 15-foot emanation must succeed at a DC 30 basic Fortitude save or take 6d6 sonic damage. A creature that fails its save is knocked prone from the shaking ground. Ultrasonic Thrust Two Actions (Evocation, Primal, Sonic) The harmona beats their wings skyward, creating a spiraling vibration. Each creature in a 30-foot cone must attempt a DC 30 Reflex save as the high-frequency blast flings them up and away. Critical Success The creature is unaffected. Success The creature is pushed 5 feet away and knocked off balance, becoming flat-footed until the start of their next turn. Failure Sonic waves fling the creature 15 feet back from the harmona. The creature takes 6d6 bludgeoning damage from the fall and lands prone. Critical Failure As failure, but the creature is flung 30 feet and takes double damage. Sweet Eats Harmonas, like their mundane hummingbird counterparts, have rapid metabolisms and usually get most of their energy and wing power from flower nectar. Over time, they developed a taste for sweets such as cupcakes, cookies, pie, wine, elderflower cordial, and the like. They can be expensive companions to feed, but it is easiest to befriend a harmona by tempting their curiosity with a sweet it hasn't had the pleasure of trying yet. ",
+ "trait": [
+  "Fey",
+  "Uncommon",
+  "CN",
+  "Tiny"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fey",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1190",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold_iron": 10
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 10",
+ "weakness_raw": " cold iron  10",
+ "will_save": 24,
+ "wisdom": 7
+}

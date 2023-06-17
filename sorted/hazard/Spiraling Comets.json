@@ -1,0 +1,61 @@
+{
+ "ac": 36,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 42  Religion  (master) to command each comet to disperse with  Pharasmin  prayers, or   dispel magic   (8th level;  counteract  DC 42) to counteract each comet",
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hardness": 25,
+ "hardness_raw": "25 Comet Hardness",
+ "hazard_type": "Trap",
+ "hp": 100,
+ "hp_raw": "100 (BT 50)",
+ "id": "hazard-312",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 16,
+ "markdown": "<title level=\"1\" right=\"Hazard 16\" pfs=\"\">[Spiraling Comets](/Hazards.aspx?ID=312)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 24</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThree blue comets orbiting the room turn red and attack when intruders enter.\r\n\r\n---\r\n\r\n**Stealth**\r\n+32 (master)\r\n\r\n**Disable**\r\nDC 42 [Religion](/Skills.aspx?ID=13) (master) to command each comet to disperse with [Pharasmin](/Deities.aspx?ID=14) prayers, or [_dispel magic_](/Spells.aspx?ID=78) (8th level; [counteract](/Rules.aspx?ID=371) DC 42) to counteract each comet\n\n<column gap=\"tiny\">\r\n\r\n**AC** 36, **Fort** +25, **Ref** +30\r\n\r\n**Comet Hardness**\r\n25\r\n\r\n**Comet HP**\r\n100 (BT 50)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Intruder Alert** <actions string=\"Reaction\" /> ([divination](/Traits.aspx?ID=47), [divine](/Traits.aspx?ID=48)) **Trigger** An intruder enters the room; **Effect** The comets change from blue to red in color. The trap then rolls initiative.\n\n---\r\n**Routine**\r\n(3 action) The trap loses 1 action each turn for each comet disabled, counteracted, or destroyed. Each comet uses 1 action to attack the nearest intruder with a comet Strike.<br /> **Ranged** <actions string=\"Single Action\" /> comet +32; **Damage** 2d12+18 bludgeoning plus 1d12 fire\r\n\r\n---\r\n**Reset**\r\nThe trap resets after 1 hour.",
+ "name": "Spiraling Comets",
+ "rarity": "uncommon",
+ "reflex_save": 30,
+ "release_date": "2022-12-14",
+ "reset": "The trap resets after 1 hour.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 24</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThree blue comets orbiting the room turn red and attack when intruders enter.\r\n</summary>",
+ "source": [
+  "Pathfinder #186: Ghost King's Rage"
+ ],
+ "source_raw": [
+  "Pathfinder #186: Ghost King's Rage pg. 24"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 24</row>",
+ "speed": {},
+ "spoilers": "Blood Lords",
+ "stealth": "+32 (master)",
+ "summary": "Three blue comets orbiting the room turn red and attack when intruders enter.",
+ "summary_markdown": "Three blue comets orbiting the room turn red and attack when intruders enter.",
+ "text": " Spiraling Comets Source Pathfinder #186: Ghost King's Rage pg. 24 Complexity Complex Three blue comets orbiting the room turn red and attack when intruders enter. --- Stealth +32 (master) Disable DC 42 Religion (master) to command each comet to disperse with Pharasmin prayers, or dispel magic (8th level; counteract DC 42) to counteract each comet AC 36, Fort +25, Ref +30 Comet Hardness 25 Comet HP 100 (BT 50) Immunities critical hits, object immunities, precision damage Intruder Alert Reaction (divination, divine) Trigger An intruder enters the room; Effect The comets change from blue to red in color. The trap then rolls initiative. --- Routine (3 action) The trap loses 1 action each turn for each comet disabled, counteracted, or destroyed. Each comet uses 1 action to attack the nearest intruder with a comet Strike. Ranged Single Action comet +32; Damage 2d12+18 bludgeoning plus 1d12 fire --- Reset The trap resets after 1 hour.",
+ "trait": [
+  "Complex",
+  "Magical",
+  "Trap",
+  "Uncommon"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Magical](/Traits.aspx?ID=103), [Trap](/Traits.aspx?ID=158), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Complex",
+  "Magical",
+  "Trap",
+  "Uncommon"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=312",
+ "weakness": {}
+}

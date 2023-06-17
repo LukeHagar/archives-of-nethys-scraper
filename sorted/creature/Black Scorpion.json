@@ -1,0 +1,86 @@
+{
+ "ac": 38,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 6,
+ "creature_ability": [
+  "Black Scorpion Venom",
+  "Greater Constrict",
+  "Rapid Stinging"
+ ],
+ "creature_family": "Scorpion",
+ "creature_family_markdown": "[Scorpion](/MonsterFamilies.aspx?ID=87)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 275,
+ "hp_raw": "275",
+ "id": "creature-796",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Black Scorpion](/Monsters.aspx?ID=796)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWith a carapace the color of polished obsidian and a penchant for attacking villages, this humongous scorpion is one of the desert's most frightening predators. A black scorpion measures 60 feet from tip to the base of its stinger.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 34\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 32\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 29\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Black Scorpion](/Monsters.aspx?ID=796)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 234 <sup>2.0</sup></row>\n\n**Perception** +27; [darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense (imprecise) 90 feet](/MonsterAbilities.aspx?ID=40)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +6\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 38 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 275\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npincer +30 ([Agile](/Traits.aspx?ID=170), [reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+15 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +30 ([reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+15 piercing plus black scorpion venom\n\n**Black Scorpion Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 36 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d12 poison damage and [clumsy 2](/Conditions.aspx?ID=3) (1 round); **Stage 2** 3d12 poison damage, clumsy 2, and [slowed 1](/Conditions.aspx?ID=35) (1 round); **Stage 3** 4d12 poison damage, clumsy 4, and slowed 2 (1 round)\r\n\r\n**[Greater Constrict](/MonsterAbilities.aspx?ID=19)** <actions string=\"Single Action\" />  2d12+12 bludgeoning, DC 36\r\n\r\n**Rapid Stinging** <actions string=\"Two Actions\" />  The black scorpion makes three stinger Strikes, each against a different target. Its multiple attack penalty applies to each attack, but the penalty increases only after all the attacks have been made.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-87\" />",
+ "name": "Black Scorpion",
+ "npc": false,
+ "perception": 27,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 25,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 234 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Scorpion](/MonsterFamilies.aspx?ID=87)\r\n\r\n<row gap=\"medium\">\r\n**HP** 275\r\n\r\n**AC** 38\r\n\r\n**Fort** +29\r\n\r\n**Ref** +25\r\n\r\n**Will** +25\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith a carapace the color of polished obsidian and a penchant for attacking villages, this humongous scorpion is one of the desert's most frightening …\r\n</summary>",
+ "sense": " darkvision ,  tremorsense (imprecise) 90 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense (imprecise) 90 feet](/MonsterAbilities.aspx?ID=40)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +30"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +30",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 234"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 234 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 50,
+  "max": 50
+ },
+ "speed_markdown": "50 feet",
+ "speed_raw": "50 feet",
+ "spell_markdown": "",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "With a carapace the color of polished obsidian and a penchant for attacking villages, this humongous scorpion is one of the desert's most frightening …",
+ "summary_markdown": "With a carapace the color of polished obsidian and a penchant for attacking villages, this humongous scorpion is one of the desert's most frightening …",
+ "text": " Black Scorpion With a carapace the color of polished obsidian and a penchant for attacking villages, this humongous scorpion is one of the desert's most frightening predators. A black scorpion measures 60 feet from tip to the base of its stinger. Recall Knowledge - Animal (Nature): DC 34 Unspecific Lore : DC 32 Specific Lore : DC 29 Black Scorpion Source Bestiary 2 pg. 234 2.0 Perception +27; darkvision, tremorsense (imprecise) 90 feet Languages Skills Athletics +30 Str +9 Dex +4 Con +6 Int -5 Wis +6 Cha -4 --- AC 38 Fort +29 Ref +25 Will +25 HP 275 --- Speed 50 feet Melee Single Action pincer +30 (Agile, reach 30 feet), Damage 3d12+15 slashing plus Grab Melee Single Action stinger +30 (reach 30 feet), Damage 3d8+15 piercing plus black scorpion venom Black Scorpion Venom (Poison) Saving Throw DC 36 Fortitude; Maximum Duration 6 rounds; Stage 1 2d12 poison damage and clumsy 2 (1 round); Stage 2 3d12 poison damage, clumsy 2, and slowed 1 (1 round); Stage 3 4d12 poison damage, clumsy 4, and slowed 2 (1 round) Greater Constrict Single Action 2d12+12 bludgeoning, DC 36 Rapid Stinging Two Actions The black scorpion makes three stinger Strikes, each against a different target. Its multiple attack penalty applies to each attack, but the penalty increases only after all the attacks have been made. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=796",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 6
+}

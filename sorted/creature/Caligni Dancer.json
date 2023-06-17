@@ -1,0 +1,101 @@
+{
+ "ac": 17,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Distracting Frolic",
+  "Death Flare",
+  "Dancer's Curse",
+  "Sneak Attack"
+ ],
+ "creature_family": "Caligni",
+ "creature_family_markdown": "[Caligni](/MonsterFamilies.aspx?ID=18)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 18,
+ "hp_raw": "18 (death flare)",
+ "id": "creature-64",
+ "image": [
+  "/Images/Monsters/Caligni_CaligniDancer.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Caligni"
+ ],
+ "language_markdown": "[Caligni](/Languages.aspx?ID=28)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Caligni Dancer](/Monsters.aspx?ID=64)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCaligni dancers serve as intermediaries between caligni clans.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Caligni_CaligniDancer.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Caligni Dancer](/Monsters.aspx?ID=64)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Caligni\" url=\"/Traits.aspx?ID=210\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 50</row>\n\n**Perception** +6; greater darkvision, light blindness\r\n\r\n**Languages**\r\n[Caligni](/Languages.aspx?ID=28)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Performance](/Skills.aspx?ID=12) +6, [Stealth](/Skills.aspx?ID=15) +7, [Thievery](/Skills.aspx?ID=17) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[baton (light mace)](/Weapons.aspx?ID=5), [Dagger](/Weapons.aspx?ID=3)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 18\r\n(death flare)\n\n**Distracting Frolic** <actions string=\"Reaction\" /> ([fortune](/Traits.aspx?ID=76), [manipulate](/Traits.aspx?ID=104)) **Trigger** An ally within 10 feet of the dancer rolls a saving throw against a mental or illusion effect. **Effect** The target ally can roll the save twice and take the better result.<br /> **Death Flare** ([light](/Traits.aspx?ID=100)) When the dancer dies, their body combusts in a flare of white light. All creatures in a 10-foot emanation must succeed at a DC 17 Fortitude save or be dazzled for 1d4 rounds. Calignis that fail this save are also frightened 1. The dancer’s gear and treasure are left in a pile where they died. As this isn’t a magical effect, the light has no effect within magical darkness.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbaton +9 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Shove](/Traits.aspx?ID=193)),\r\n**Damage** 1d4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +9 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +9 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4 piercing\r\n\r\n**Occult Innate Spells** DC 16\r\n- **Cantrips (1st)**\r\n[Counter Performance](/Spells.aspx?ID=381) (visual only), [Inspire Courage](/Spells.aspx?ID=386)\r\n\r\n**Dancer's Curse** <actions string=\"Single Action\" /> ([Curse](/Traits.aspx?ID=38), [Enchantment](/Traits.aspx?ID=61), [Occult](/Traits.aspx?ID=120), [Mental](/Traits.aspx?ID=106)) The caligni dancer touches a foe and curses it. If the target fails a DC 18 Will save, it gains [_clumsy 1_](/Conditions.aspx?ID=3) and [_stupefied 1_](/Conditions.aspx?ID=37). The target is then temporarily immune for 24 hours. These conditions persist until the curse is removed. The victim can attempt a new DC 18 Will save once per hour to end the curse. \r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The caligni dancer deals 1d6 extra [_precision_](/Rules.aspx?ID=340) damage to [_flat-footed_](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-18\" />",
+ "name": "Caligni Dancer",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Caligni\" url=\"/Traits.aspx?ID=210\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 50</row>\r\n\r\n**Creature Family** [Caligni](/MonsterFamilies.aspx?ID=18)\r\n\r\n<row gap=\"medium\">\r\n**HP** 18 (death flare)\r\n\r\n**AC** 17\r\n\r\n**Fort** +7\r\n\r\n**Ref** +9\r\n\r\n**Will** +4\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCaligni dancers serve as intermediaries between caligni clans.\r\n</summary>",
+ "sense": "greater darkvision, light blindness",
+ "sense_markdown": "greater darkvision, light blindness",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Performance +6",
+  "Stealth +7",
+  "Thievery +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Performance](/Skills.aspx?ID=12) +6, [Stealth](/Skills.aspx?ID=15) +7, [Thievery](/Skills.aspx?ID=17) +7",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 50"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 50</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Counter Performance",
+  "Inspire Courage"
+ ],
+ "spell_markdown": "[Counter Performance](/Spells.aspx?ID=381), [Inspire Courage](/Spells.aspx?ID=386)",
+ "stealth": "7",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Caligni dancers serve as intermediaries between caligni clans.",
+ "summary_markdown": "Caligni dancers serve as intermediaries between caligni clans.",
+ "text": " Caligni Dancer Caligni dancers serve as intermediaries between caligni clans. Recall Knowledge - Humanoid (Society): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Caligni Dancer Source Bestiary pg. 50 Perception +6; greater darkvision, light blindness Languages Caligni Skills Acrobatics +7, Performance +6, Stealth +7, Thievery +7 Str +0 Dex +4 Con +2 Int -1 Wis +1 Cha +3 Items baton (light mace), Dagger --- AC 17 Fort +7 Ref +9 Will +4 HP 18 (death flare) Distracting Frolic Reaction (fortune, manipulate) Trigger An ally within 10 feet of the dancer rolls a saving throw against a mental or illusion effect. Effect The target ally can roll the save twice and take the better result. Death Flare (light) When the dancer dies, their body combusts in a flare of white light. All creatures in a 10-foot emanation must succeed at a DC 17 Fortitude save or be dazzled for 1d4 rounds. Calignis that fail this save are also frightened 1. The dancer’s gear and treasure are left in a pile where they died. As this isn’t a magical effect, the light has no effect within magical darkness. --- Speed 25 feet Melee Single Action baton +9 (Agile, Finesse, Shove), Damage 1d4 bludgeoning Melee Single Action dagger +9 (Agile, Finesse, versatile S), Damage 1d4 piercing Ranged Single Action dagger +9 (Agile, thrown 10 feet, versatile S), Damage 1d4 piercing Occult Innate Spells DC 16 - Cantrips (1st) Counter Performance (visual only), Inspire Courage Dancer's Curse Single Action (Curse, Enchantment, Occult, Mental) The caligni dancer touches a foe and curses it. If the target fails a DC 18 Will save, it gains clumsy 1 and stupefied 1 . The target is then temporarily immune for 24 hours. These conditions persist until the curse is removed. The victim can attempt a new DC 18 Will save once per hour to end the curse. Sneak Attack The caligni dancer deals 1d6 extra precision damage to flat-footed creatures. ",
+ "trait": [
+  "Caligni",
+  "Humanoid",
+  "CN",
+  "Small"
+ ],
+ "trait_markdown": "[Caligni](/Traits.aspx?ID=210), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Caligni",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=64",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 4,
+ "wisdom": 1
+}

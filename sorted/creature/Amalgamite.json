@@ -1,0 +1,118 @@
+{
+ "ac": 33,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 4,
+ "creature_ability": [
+  "Destabilizing Field",
+  "Displace",
+  "Reposition",
+  "Transpose"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 220,
+ "hp_raw": "220",
+ "id": "creature-1059",
+ "image": [
+  "/Images/Monsters/Amalgamite.png"
+ ],
+ "immunity": [
+  "controlled",
+  "mental"
+ ],
+ "immunity_markdown": "[controlled](/Conditions.aspx?ID=6), [mental](/Traits.aspx?ID=106)",
+ "intelligence": 8,
+ "language": [
+  "Aklo",
+  "Common",
+  "Draconic"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Amalgamite](/Monsters.aspx?ID=1059)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTeleportation magic can prove a difficult undertaking, even for experienced spellcasters. It requires precise calculation and timing, knowledge of the intended destination, and meticulous control over surging conjuration magics. A mistake in even the most minute element of such a spell can lead to disastrous results for those involved. When a particularly powerful spellcaster makes an error of this kind, either through arrogance or simple misjudgment, they might transform into an amalgamite.\n\n A mass of flesh and misaligned limbs, an amalgamite is the warped body of a former spellcaster, sometimes joined with another version of itself to incorporate additional limbs or other irregularities. They're still alive, but they have become aberrants mentally and physically, with only the vaguest memories of their previous existence, which makes them a dangerous and bewildering foe. Their weird, warped anatomy constantly shifts and regrows, allowing the creatures to shrug off physical blows save those that pierce through its flesh and into its core being.\n\n The magical residue of an amalgamite's creation radiates from it, seeping into and destabilizing any living beings that get too close. Infected creatures then further spread the amalgamite's aura among larger groups of allies and foes alike. The amalgamite uses this power to manipulate and confuse their enemies, whom they can teleport into traps, force into confrontations with other enemies, or draw close into striking range with their own odd appendages.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Amalgamite.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Amalgamite](/Monsters.aspx?ID=1059)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 14</row>\n\n**Perception** +23; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +27, [Athletics](/Skills.aspx?ID=3) +22, [Lore](/Skills.aspx?ID=8) +27, [Occultism](/Skills.aspx?ID=11) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** +8\r\n\r\n**Wis** +6\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +22 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 220\r\n\r\n, regeneration 10 (deactivated by piercing)\r\n\r\n**Immunities**\r\n[controlled](/Conditions.aspx?ID=6), [mental](/Traits.aspx?ID=106)\r\n\r\n**Resistances**\r\nbludgeoning 10, slashing 10\r\n\r\n**Weaknesses**\r\npiercing 10\r\n\r\n**Destabilizing Field** ([aura](/Traits.aspx?ID=206), [conjuration](/Traits.aspx?ID=33)) 40 feet. A creature that begins its turn within the area feels its body begin to stretch and must succeed at a DC 33 Fortitude save or become destabilized. A destabilized creature emits a 10-foot destabilizing field aura and becomes [sickened 1](/Conditions.aspx?ID=34). The destabilization ends when the creature is no longer sickened. A creature that succeeds at its saving throw against the aura is temporarily immune to all destabilizing fields for 1 minute.<br />**Displace** <actions string=\"Reaction\" /> **Trigger** The amalgamite is hit by a Strike; **Effect** The amalgamite Repositions itself or Transposes itself with another creature. If the amalgamite successfully changes its location, it and any Transposed creature take half damage from the triggering Strike.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlimb +24,\r\n**Damage** 3d10+11 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nwarping ray +27 ([deadly 2d8](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [range 100 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+8 force\r\n\r\n**Occult Innate Spells** DC 33\r\n- **4th**\r\n[Blink](/Spells.aspx?ID=27) (×2)\r\n- **7th**\r\n[Ethereal Jaunt](/Spells.aspx?ID=105), [Warp Mind](/Spells.aspx?ID=369)\r\n\r\n**Reposition** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32), [Conjuration](/Traits.aspx?ID=33), [Occult](/Traits.aspx?ID=120), [Teleportation](/Traits.aspx?ID=156)) The amalgamite teleports into an unoccupied space it can see within 50 feet.\r\n\r\n**Transpose** <actions string=\"Two Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Occult](/Traits.aspx?ID=120), [Teleportation](/Traits.aspx?ID=156)) The amalgamite chooses up to two destabilized creatures they can see within 50 feet and swaps their positions, or moves a single such creature to an unoccupied space they can see within range. If the amalgamite chooses two creatures, they can choose their self as one of these creatures, but both targets must be the same size. An unwilling creature can attempt a DC 33 Will save. If either target succeeds at this saving throw, both are unaffected.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Former Friends</title>\r\n\r\nAmalgamites are often found in the company of other creatures, such as lesser [aberrations](/Traits.aspx?ID=1), cultists of the Dark Tapestry, or the [undead](/Traits.aspx?ID=160) corpses of their former companions. They use these allies to spread their destabilizing field to other foes and separate those enemies from their own allies.\r\n\r\n</aside>",
+ "name": "Amalgamite",
+ "npc": false,
+ "perception": 23,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 22,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "bludgeoning": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "bludgeoning 10, slashing 10",
+ "resistance_raw": "bludgeoning 10, slashing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 14</row>\n\n<row gap=\"medium\">\r\n**HP** 220\r\n\r\n**AC** 33\r\n\r\n**Fort** +22\r\n\r\n**Ref** +22\r\n\r\n**Will** +26\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTeleportation magic can prove a difficult undertaking, even for experienced spellcasters. It requires precise calculation and timing, knowledge of …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Arcana +27",
+  "Athletics +22",
+  "Lore +27",
+  "Occultism +27"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +27, [Athletics](/Skills.aspx?ID=3) +22, [Lore](/Skills.aspx?ID=8) +27, [Occultism](/Skills.aspx?ID=11) +27",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 14"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 14</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Ethereal Jaunt",
+  "Warp Mind",
+  "Blink"
+ ],
+ "spell_markdown": "[Blink](/Spells.aspx?ID=27), [Ethereal Jaunt](/Spells.aspx?ID=105), [Warp Mind](/Spells.aspx?ID=369)",
+ "strength": 5,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Teleportation magic can prove a difficult undertaking, even for experienced spellcasters. It requires precise calculation and timing, knowledge of …",
+ "summary_markdown": "Teleportation magic can prove a difficult undertaking, even for experienced spellcasters. It requires precise calculation and timing, knowledge of …",
+ "text": " Amalgamite Teleportation magic can prove a difficult undertaking, even for experienced spellcasters. It requires precise calculation and timing, knowledge of the intended destination, and meticulous control over surging conjuration magics. A mistake in even the most minute element of such a spell can lead to disastrous results for those involved. When a particularly powerful spellcaster makes an error of this kind, either through arrogance or simple misjudgment, they might transform into an amalgamite. A mass of flesh and misaligned limbs, an amalgamite is the warped body of a former spellcaster, sometimes joined with another version of itself to incorporate additional limbs or other irregularities. They're still alive, but they have become aberrants mentally and physically, with only the vaguest memories of their previous existence, which makes them a dangerous and bewildering foe. Their weird, warped anatomy constantly shifts and regrows, allowing the creatures to shrug off physical blows save those that pierce through its flesh and into its core being. The magical residue of an amalgamite's creation radiates from it, seeping into and destabilizing any living beings that get too close. Infected creatures then further spread the amalgamite's aura among larger groups of allies and foes alike. The amalgamite uses this power to manipulate and confuse their enemies, whom they can teleport into traps, force into confrontations with other enemies, or draw close into striking range with their own odd appendages. Recall Knowledge - Aberration (Occultism): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Amalgamite Source Bestiary 3 pg. 14 Perception +23; low-light vision Languages Aklo, Common, Draconic Skills Arcana +27, Athletics +22, Lore +27, Occultism +27 Str +5 Dex +6 Con +4 Int +8 Wis +6 Cha -1 --- AC 33 Fort +22 Ref +22 Will +26 HP 220 , regeneration 10 (deactivated by piercing) Immunities controlled, mental Resistances bludgeoning 10, slashing 10 Weaknesses piercing 10 Destabilizing Field (aura, conjuration) 40 feet. A creature that begins its turn within the area feels its body begin to stretch and must succeed at a DC 33 Fortitude save or become destabilized. A destabilized creature emits a 10-foot destabilizing field aura and becomes sickened 1. The destabilization ends when the creature is no longer sickened. A creature that succeeds at its saving throw against the aura is temporarily immune to all destabilizing fields for 1 minute. Displace Reaction Trigger The amalgamite is hit by a Strike; Effect The amalgamite Repositions itself or Transposes itself with another creature. If the amalgamite successfully changes its location, it and any Transposed creature take half damage from the triggering Strike. --- Speed 25 feet Melee Single Action limb +24, Damage 3d10+11 bludgeoning Ranged Single Action warping ray +27 (deadly 2d8, Magical, range 100 feet), Damage 3d8+8 force Occult Innate Spells DC 33 - 4th Blink (×2) - 7th Ethereal Jaunt, Warp Mind Reposition Two Actions (Concentrate, Conjuration, Occult, Teleportation) The amalgamite teleports into an unoccupied space it can see within 50 feet. Transpose Two Actions (Conjuration, Occult, Teleportation) The amalgamite chooses up to two destabilized creatures they can see within 50 feet and swaps their positions, or moves a single such creature to an unoccupied space they can see within range. If the amalgamite chooses two creatures, they can choose their self as one of these creatures, but both targets must be the same size. An unwilling creature can attempt a DC 33 Will save. If either target succeeds at this saving throw, both are unaffected. Former Friends Amalgamites are often found in the company of other creatures, such as lesser aberrations, cultists of the Dark Tapestry, or the undead corpses of their former companions. They use these allies to spread their destabilizing field to other foes and separate those enemies from their own allies. ",
+ "trait": [
+  "Aberration",
+  "Rare",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Aberration",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1059",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "piercing": 10
+ },
+ "weakness_markdown": "piercing 10",
+ "weakness_raw": "piercing 10",
+ "will_save": 26,
+ "wisdom": 6
+}

@@ -1,0 +1,107 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Necrotic Decay",
+  "Shauth Bite",
+  "Sneak Attack",
+  "Wicked Bite"
+ ],
+ "creature_family": "Urdefhan",
+ "creature_family_markdown": "[Urdefhan](/MonsterFamilies.aspx?ID=158)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 92,
+ "hp_raw": "92 ( negative healing )",
+ "id": "creature-1388",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "fear"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [fear](/Traits.aspx?ID=68)",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Daemonic",
+  "Undercommon"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Daemonic](/Languages.aspx?ID=31), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"\">[Urdefhan Death Scout](/Monsters.aspx?ID=1388)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDeath scouts train as spies and assassins for their cult. Other urdefhans scorn their stealthy methods, but none can argue with their results.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Urdefhan Death Scout](/Monsters.aspx?ID=1388)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 84</row>\n\n**Perception** +15; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Daemonic](/Languages.aspx?ID=31), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +14, [Thievery](/Skills.aspx?ID=17) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[Leather Armor](/Armor.aspx?ID=4), [moderate necrotic bomb](/Equipment.aspx?ID=938) (3), _+1 [shauth blade](/Weapons.aspx?ID=157)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 92\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [fear](/Traits.aspx?ID=68)\n\n**Necrotic Decay** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117), [negative](/Traits.aspx?ID=118)) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 6d6 negative damage to creatures in this area as their flesh curdles and rots as well (DC 23 [basic Fortitude save](/Rules.aspx?ID=329)).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshauth blade +17 ([Agile](/Traits.aspx?ID=170), [deadly d6](/Traits.aspx?ID=174), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+4 slashing plus 1d6 persistent bleed and Wicked Bite\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +16,\r\n**Damage** 2d6+4 piercing plus Wicked Bite\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nnecrotic bomb +16 ([range increment 20 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 2d6 negative plus 2 negative splash damage (and [sickened 2](/Conditions.aspx?ID=34) on a critical hit)\r\n\r\n**Divine Innate Spells** DC 21, attack +13\r\n- **1st**\r\n[Feather Fall](/Spells.aspx?ID=111) (at will; self only), [Ray of Enfeeblement](/Spells.aspx?ID=244)\r\n- **2nd**\r\n[Death Knell](/Spells.aspx?ID=63)\r\n- **4th**\r\n[Invisibility](/Spells.aspx?ID=164) (self only)\r\n\r\n**Shauth Bite**   The death scout deals an additional 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) with shauth blades and can use their Wicked Bite through magical shauth weapon Strikes.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The death scout deals an extra 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Wicked Bite** <actions string=\"Single Action\" />  **Requirements** The urdefhan damaged a creature with a jaws Strike on its last action; **Effect** The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 24 Fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both. \n<ul><li>**Drain Blood** The urdefhan drinks some of the creature's blood. On a failed save, the creature is [drained 1](/Conditions.aspx?ID=10) and the urdefhan regains 5 HP (or, on a critical failure, it's drained 2 and the urdefhan regains 10 HP).</li><li>**Drain Vitality** ([necromancy](/Traits.aspx?ID=117)) The urdefhan draws out some of the creature's vital essence. The creature becomes [enfeebled 1](/Conditions.aspx?ID=13) for 1 hour on a failed save (or enfeebled 2 for 1 hour on a critical failure).</li></ul>\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-158\" />",
+ "name": "Urdefhan Death Scout",
+ "npc": false,
+ "perception": 15,
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 84</row>\r\n\r\n**Creature Family** [Urdefhan](/MonsterFamilies.aspx?ID=158)\r\n\r\n<row gap=\"medium\">\r\n**HP** 92 ( negative healing )\r\n\r\n**AC** 24\r\n\r\n**Fort** +15\r\n\r\n**Ref** +16\r\n\r\n**Will** +11\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDeath scouts train as spies and assassins for their cult. Other urdefhans scorn their stealthy methods, but none can argue with their results.\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +12",
+  "Intimidation +11",
+  "Stealth +14",
+  "Thievery +14"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +14, [Thievery](/Skills.aspx?ID=17) +14",
+ "source": [
+  "Pathfinder #165: Eyes of Empty Death"
+ ],
+ "source_raw": [
+  "Pathfinder #165: Eyes of Empty Death pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #165: Eyes of Empty Death](/Sources.aspx?ID=81) pg. 84</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Invisibility",
+  "Death Knell",
+  "Feather Fall",
+  "Ray of Enfeeblement"
+ ],
+ "spell_markdown": "[Death Knell](/Spells.aspx?ID=63), [Feather Fall](/Spells.aspx?ID=111), [Invisibility](/Spells.aspx?ID=164), [Ray of Enfeeblement](/Spells.aspx?ID=244)",
+ "stealth": "14",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Death scouts train as spies and assassins for their cult. Other urdefhans scorn their stealthy methods, but none can argue with their results.",
+ "summary_markdown": "Death scouts train as spies and assassins for their cult. Other urdefhans scorn their stealthy methods, but none can argue with their results.",
+ "text": " Urdefhan Death Scout Death scouts train as spies and assassins for their cult. Other urdefhans scorn their stealthy methods, but none can argue with their results. Recall Knowledge - Humanoid (Society): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Urdefhan Death Scout Source Pathfinder #165: Eyes of Empty Death pg. 84 Perception +15; greater darkvision Languages Aklo, Daemonic, Undercommon Skills Acrobatics +14, Athletics +12, Intimidation +11, Stealth +14, Thievery +14 Str +2 Dex +4 Con +3 Int +0 Wis +3 Cha +1 Items Leather Armor, moderate necrotic bomb (3), +1 shauth blade --- AC 24 Fort +15 Ref +16 Will +11 HP 92 (negative healing) Immunities death effects, disease, fear Necrotic Decay (divine, necromancy, negative) When an urdefhan dies, its invisible flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 6d6 negative damage to creatures in this area as their flesh curdles and rots as well (DC 23 basic Fortitude save). --- Speed 25 feet Melee Single Action shauth blade +17 (Agile, deadly d6, Finesse), Damage 1d6+4 slashing plus 1d6 persistent bleed and Wicked Bite Melee Single Action jaws +16, Damage 2d6+4 piercing plus Wicked Bite Ranged Single Action necrotic bomb +16 (range increment 20 feet, Splash), Damage 2d6 negative plus 2 negative splash damage (and sickened 2 on a critical hit) Divine Innate Spells DC 21, attack +13 - 1st Feather Fall (at will; self only), Ray of Enfeeblement - 2nd Death Knell - 4th Invisibility (self only) Shauth Bite The death scout deals an additional 1d6 persistent bleed damage with shauth blades and can use their Wicked Bite through magical shauth weapon Strikes. Sneak Attack The death scout deals an extra 2d6 precision damage to flat-footed creatures. Wicked Bite Single Action Requirements The urdefhan damaged a creature with a jaws Strike on its last action; Effect The urdefhan maintains contact, turning the creature's flesh translucent around the site of the injury. The urdefhan chooses one of two options, each of which requires a DC 24 Fortitude save. If the jaws Strike was a critical hit, the creature suffers both effects, using the same save result for both. Drain Blood The urdefhan drinks some of the creature's blood. On a failed save, the creature is drained 1 and the urdefhan regains 5 HP (or, on a critical failure, it's drained 2 and the urdefhan regains 10 HP). Drain Vitality (necromancy) The urdefhan draws out some of the creature's vital essence. The creature becomes enfeebled 1 for 1 hour on a failed save (or enfeebled 2 for 1 hour on a critical failure). ",
+ "trait": [
+  "Humanoid",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1388",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 3
+}

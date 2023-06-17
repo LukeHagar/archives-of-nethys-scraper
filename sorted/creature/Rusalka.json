@@ -1,0 +1,122 @@
+{
+ "ac": 33,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 3,
+ "creature_ability": [
+  "Blurred Form",
+  "Beckoning Call",
+  "Constrict",
+  "Entangling Tresses",
+  "Flowing Hair",
+  "Shameful Touch"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 230,
+ "hp_raw": "230",
+ "id": "creature-790",
+ "image": [
+  "/Images/Monsters/Rusalka.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Rusalka](/Monsters.aspx?ID=790)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese androgynous, river-dwelling fey delight in manipulating the emotions of those unfortunate enough to fall into their grasp, using humiliation to break their victims' wills. Rusalkas enjoy keeping their broken toys nearby, both for continuing entertainment and to aid in the rusalkas' defense, as the shame their captives feel often drives them to become obsessively loyal to these fey.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Rusalka.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Rusalka](/Monsters.aspx?ID=790)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 229 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 81</row>\n\n**Perception** +22; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +21, [Athletics](/Skills.aspx?ID=3) +22, [Deception](/Skills.aspx?ID=5) +25, [Diplomacy](/Skills.aspx?ID=6) +21, [Nature](/Skills.aspx?ID=10) +21, [Performance](/Skills.aspx?ID=12) +23, [Stealth](/Skills.aspx?ID=15) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +7\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 230\n\n**Resistances**\r\nfire 10\r\n\r\n**Weaknesses**\r\ncold iron 15\r\n\r\n**Blurred Form** A rusalka is [concealed](/Conditions.aspx?ID=4) while underwater.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 50 feet; [_water walk_](/Spells.aspx?ID=371)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntresses +24 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+10 bludgeoning plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Primal Innate Spells** DC 35\r\n- **2nd**\r\n[Invisibility](/Spells.aspx?ID=164) (at will), [Obscuring Mist](/Spells.aspx?ID=210) (at will)\r\n- **5th**\r\n[Charm](/Spells.aspx?ID=34) (at will), [Control Water](/Spells.aspx?ID=51) (at will)\r\n- **Constant (6th)**\r\n[Water Walk](/Spells.aspx?ID=371)\r\n\r\n**Beckoning Call** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The rusalka cries out a compelling invitation. Each non-fey creature within a 300-foot emanation must attempt a DC 27 Will save. The effect lasts for 1 round, but if the rusalka uses Beckoning Call again on subsequent rounds, the duration extends by 1 round for all affected creatures. Once a creature succeeds at any save against Beckoning Call, that creature is temporarily immune for 24 hours. <br />**Success** The creature is unaffected. <br />**Failure** The creature is [fascinated](/Conditions.aspx?ID=14) and must spend each of its actions to move closer to the rusalka, avoiding obvious dangers. If a beckoned creature is adjacent to the rusalka, it stays still and doesn't act. If attacked by the rusalka, the creature is freed from captivation at the end of the rusalka's turn. <br />**Critical Failure** As failure, but if attacked by the rusalka, the creature can attempt a new save only at the start of its next turn, rather than being freed at the end of the rusalka's turn.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d8+10 bludgeoning, DC 32\r\n\r\n**Entangling Tresses**   A rusalka can have up to eight creatures grabbed within their tresses at a time.\r\n\r\n**Flowing Hair** <actions string=\"Single Action\" />  The rusalka attempts an [Athletics](/Skills.aspx?ID=3) check against each grabbed creature's Fortitude DC. The rusalka moves each creature they succeed against up to 10 feet and each creature they critically succeed against up to 20 feet. This movement must all be within reach of its tresses.\r\n\r\n**Shameful Touch** <actions string=\"Single Action\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) The rusalka touches a creature within 5 feet using their hand, stirring up memories of regret and shame. The target must attempt a DC 35 Will save. <br />**Critical Success** The target is unaffected. <br />**Success** The target is [sickened 1](/Conditions.aspx?ID=34). <br />**Failure** The creature is sickened 1 and [stunned 1](/Conditions.aspx?ID=36). <br />**Critical Failure** The creature is sickened 1 and stunned 1, and it must use its first action on its next turn to Strike itself, automatically hitting.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Blue Week</title>\r\n\r\nThose living in areas where rusalkas dwell know well to avoid the water during the week-long period in early Sarenith when the fey become particularly active, a time known in many regions as Blue Week. Most villages prohibit swimming and fishing during this time, though the prohibition is difficult to enforce, as it takes place during the height of good weather. Particularly superstitious folk take care to lock their doors both from within and without.\r\n</aside>",
+ "name": "Rusalka",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 25,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "fire": 10
+ },
+ "resistance_markdown": "fire 10",
+ "resistance_raw": "fire 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Bestiary 2](/Sources.aspx?ID=32) pg. 229 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 81</row>\n\n<row gap=\"medium\">\r\n**HP** 230\r\n\r\n**AC** 33\r\n\r\n**Fort** +21\r\n\r\n**Ref** +25\r\n\r\n**Will** +21\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese androgynous, river-dwelling fey delight in manipulating the emotions of those unfortunate enough to fall into their grasp, using humiliation to …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +21",
+  "Athletics +22",
+  "Deception +25",
+  "Diplomacy +21",
+  "Nature +21",
+  "Performance +23",
+  "Stealth +25"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +21, [Athletics](/Skills.aspx?ID=3) +22, [Deception](/Skills.aspx?ID=5) +25, [Diplomacy](/Skills.aspx?ID=6) +21, [Nature](/Skills.aspx?ID=10) +21, [Performance](/Skills.aspx?ID=12) +23, [Stealth](/Skills.aspx?ID=15) +25",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 229"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 229 <sup>2.0</sup>, [Pathfinder #147: Tomorrow Must Burn](/Sources.aspx?ID=8) pg. 81</row>",
+ "speed": {
+  "land": 25,
+  "max": 50,
+  "swim": 50
+ },
+ "speed_markdown": "25 feet, swim 50 feet; [_water walk_](/Spells.aspx?ID=371)",
+ "speed_raw": "25 feet, swim 50 feet;   water walk  ",
+ "spell": [
+  "Charm",
+  "Control Water",
+  "Invisibility",
+  "Obscuring Mist",
+  "Water Walk"
+ ],
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Control Water](/Spells.aspx?ID=51), [Invisibility](/Spells.aspx?ID=164), [Obscuring Mist](/Spells.aspx?ID=210), [Water Walk](/Spells.aspx?ID=371)",
+ "stealth": "25",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "These androgynous, river-dwelling fey delight in manipulating the emotions of those unfortunate enough to fall into their grasp, using humiliation to …",
+ "summary_markdown": "These androgynous, river-dwelling fey delight in manipulating the emotions of those unfortunate enough to fall into their grasp, using humiliation to …",
+ "text": " Rusalka These androgynous, river-dwelling fey delight in manipulating the emotions of those unfortunate enough to fall into their grasp, using humiliation to break their victims' wills. Rusalkas enjoy keeping their broken toys nearby, both for continuing entertainment and to aid in the rusalkas' defense, as the shame their captives feel often drives them to become obsessively loyal to these fey. Recall Knowledge - Fey (Nature): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Rusalka Source Bestiary 2 pg. 229 2.0 , Pathfinder #147: Tomorrow Must Burn pg. 81 Perception +22; low-light vision Languages Common, Sylvan Skills Acrobatics +21, Athletics +22, Deception +25, Diplomacy +21, Nature +21, Performance +23, Stealth +25 Str +4 Dex +5 Con +3 Int +1 Wis +3 Cha +7 --- AC 33 Fort +21 Ref +25 Will +21 HP 230 Resistances fire 10 Weaknesses cold iron 15 Blurred Form A rusalka is concealed while underwater. --- Speed 25 feet, swim 50 feet; water walk Melee Single Action tresses +24 (Agile, Finesse, reach 15 feet), Damage 3d8+10 bludgeoning plus Improved Grab Primal Innate Spells DC 35 - 2nd Invisibility (at will), Obscuring Mist (at will) - 5th Charm (at will), Control Water (at will) - Constant (6th) Water Walk Beckoning Call Single Action (Auditory, Concentrate, Enchantment, Incapacitation, Mental, Primal) The rusalka cries out a compelling invitation. Each non-fey creature within a 300-foot emanation must attempt a DC 27 Will save. The effect lasts for 1 round, but if the rusalka uses Beckoning Call again on subsequent rounds, the duration extends by 1 round for all affected creatures. Once a creature succeeds at any save against Beckoning Call, that creature is temporarily immune for 24 hours. Success The creature is unaffected. Failure The creature is fascinated and must spend each of its actions to move closer to the rusalka, avoiding obvious dangers. If a beckoned creature is adjacent to the rusalka, it stays still and doesn't act. If attacked by the rusalka, the creature is freed from captivation at the end of the rusalka's turn. Critical Failure As failure, but if attacked by the rusalka, the creature can attempt a new save only at the start of its next turn, rather than being freed at the end of the rusalka's turn. Constrict Single Action 2d8+10 bludgeoning, DC 32 Entangling Tresses A rusalka can have up to eight creatures grabbed within their tresses at a time. Flowing Hair Single Action The rusalka attempts an Athletics check against each grabbed creature's Fortitude DC. The rusalka moves each creature they succeed against up to 10 feet and each creature they critically succeed against up to 20 feet. This movement must all be within reach of its tresses. Shameful Touch Single Action (Emotion, Enchantment, Mental, Primal) The rusalka touches a creature within 5 feet using their hand, stirring up memories of regret and shame. The target must attempt a DC 35 Will save. Critical Success The target is unaffected. Success The target is sickened 1. Failure The creature is sickened 1 and stunned 1. Critical Failure The creature is sickened 1 and stunned 1, and it must use its first action on its next turn to Strike itself, automatically hitting. Blue Week Those living in areas where rusalkas dwell know well to avoid the water during the week-long period in early Sarenith when the fey become particularly active, a time known in many regions as Blue Week. Most villages prohibit swimming and fishing during this time, though the prohibition is difficult to enforce, as it takes place during the height of good weather. Particularly superstitious folk take care to lock their doors both from within and without. ",
+ "trait": [
+  "Aquatic",
+  "Fey",
+  "Water",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aquatic](/Traits.aspx?ID=168), [Fey](/Traits.aspx?ID=69), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Aquatic",
+  "Fey",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=790",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 15
+ },
+ "weakness_markdown": "cold iron 15",
+ "weakness_raw": "cold iron 15",
+ "will_save": 21,
+ "wisdom": 3
+}

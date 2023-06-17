@@ -1,0 +1,107 @@
+{
+ "ac": 45,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 9,
+ "creature_ability": [
+  "Inexorable",
+  "Shadow Healing",
+  "Shrink from the Light",
+  "Breath Weapon",
+  "Fast Swallow",
+  "Rock Tunneler",
+  "Swallow Whole",
+  "Thrash"
+ ],
+ "creature_family": "Cave Worm",
+ "creature_family_markdown": "[Cave Worm](/MonsterFamilies.aspx?ID=21)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 36,
+ "hp": 450,
+ "hp_raw": "450 (shadow healing)",
+ "id": "creature-2425",
+ "image": [
+  "/Images/Monsters/ShadowWorm.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 20,
+ "markdown": "<title level=\"1\" pfs=\"\">[Shadow Worm](/Monsters.aspx?ID=2425)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nShadow worms are monstrous cave worms that dwell on the [Shadow Plane](/Equipment.aspx?ID=288). Larger and more cunning than most cave worms, shadow worms are fearsome predators that leave swaths of devastation in their wake. Most have glossy, black-armored hide, but those that burrow near [velstrac](/MonsterFamilies.aspx?ID=111) lands are streaked with dark red, for the blood the velstracs spill has soaked into the very stones these shadow worms consume.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 45\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 43\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 40\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ShadowWorm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 20\">[Shadow Worm](/Monsters.aspx?ID=2425)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 86</row>\n\n**Perception** +33; [darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 100 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +41, [Stealth](/Skills.aspx?ID=15) +32\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +2\r\n\r\n**Con** +9\r\n\r\n**Int** -4\r\n\r\n**Wis** +0\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 45 \r\n\r\n**Fort** +36 \r\n\r\n**Ref** +32 \r\n\r\n**Will** +30 \n\n</row>\r\n\r\n**HP** 450\r\n(shadow healing)\n\n**Resistances**\r\n[cold](/Traits.aspx?ID=27) 20, [negative](/Traits.aspx?ID=118) 20\r\n\r\n**Weaknesses**\r\nshrink from the light\r\n\r\n**Inexorable** The shadow worm recovers from the [paralyzed](/Conditions.aspx?ID=28), [slowed](/Conditions.aspx?ID=35), and [stunned](/Conditions.aspx?ID=36) conditions at the end of its turn. It's also immune to penalties to its Speeds and the [immobilized](/Conditions.aspx?ID=24) condition, and it ignores difficult terrain and greater difficult terrain.<br />**Shadow Healing** As long as a shadow worm is in an area of dim light or darkness, it gains [fast healing 20](/MonsterAbilities.aspx?ID=15). When affected by a magical shadow effect from anything other than itself, a shadow worm becomes [quickened 1](/Conditions.aspx?ID=32) for 1 round.<br />**Shrink from the Light** A shadow worm takes an additional 20 damage from any spell or ability with the [light](/Traits.aspx?ID=100) trait and uses the outcome one degree worse for saving throws made against a spell or ability with the light trait.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, burrow 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +38 ([deadly 2d10](/Traits.aspx?ID=174), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d10+20 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbody +38 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+20 bludgeoning\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65), [Negative](/Traits.aspx?ID=118), [Occult](/Traits.aspx?ID=120), [Shadow](/Traits.aspx?ID=143)) The shadow worm exhales a blast of clinging shadow, dealing 11d6 cold damage and 10d6 negative damage to creatures in a 60-foot cone (DC 42 [basic](/Rules.aspx?ID=329) Reflex save). If the cone passes through an area of magical light or targets a creature affected by [magical](/Traits.aspx?ID=103) [light](/Traits.aspx?ID=100), Breath Weapon attempts to [counteract](/Rules.aspx?ID=371) the light (+34 counteract modifier). The shadow worm can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Fast Swallow** <actions string=\"Reaction\" />  **Trigger** The shadow worm [Grabs](/MonsterAbilities.aspx?ID=18) a creature; **Effect** The worm uses [Swallow Whole](/MonsterAbilities.aspx?ID=35).\r\n\r\n**Rock Tunneler**   A shadow worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" />  Huge, 3d10+15 bludgeoning, Rupture 42\r\n\r\n**Thrash** <actions string=\"Two Actions\" />  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Midnight Worms</title>\r\n\r\nThough the worms are generally considered to be untamable, some powerful velstracs have recently begun experimenting on shadow worms in hopes of transforming them into mutilated war beasts. So far, only two shadow worms have survived the velstrac's ministrations. The resulting horrors have been dubbed midnight worms.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-21\" />",
+ "name": "Shadow Worm",
+ "npc": false,
+ "perception": 33,
+ "rarity": "rare",
+ "reflex_save": 32,
+ "release_date": "2022-12-14",
+ "resistance": {
+  "cold": 20,
+  "negative": 20
+ },
+ "resistance_markdown": "[cold](/Traits.aspx?ID=27) 20, [negative](/Traits.aspx?ID=118) 20",
+ "resistance_raw": " cold  20,  negative  20",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 86</row>\r\n\r\n**Creature Family** [Cave Worm](/MonsterFamilies.aspx?ID=21)\r\n\r\n<row gap=\"medium\">\r\n**HP** 450 (shadow healing)\r\n\r\n**AC** 45\r\n\r\n**Fort** +36\r\n\r\n**Ref** +32\r\n\r\n**Will** +30\r\n\r\n**Perception** +33\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShadow worms are monstrous cave worms that dwell on the  Shadow Plane . Larger and more cunning than most cave worms, shadow worms are fearsome …\r\n</summary>",
+ "sense": " darkvision ,  tremorsense  (imprecise) 100 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 100 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +41",
+  "Stealth +32"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +41, [Stealth](/Skills.aspx?ID=15) +32",
+ "source": [
+  "Pathfinder #186: Ghost King's Rage"
+ ],
+ "source_raw": [
+  "Pathfinder #186: Ghost King's Rage pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 86</row>",
+ "speed": {
+  "burrow": 40,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, burrow 40 feet",
+ "speed_raw": "40 feet, burrow 40 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "32",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Shadow worms are monstrous cave worms that dwell on the  Shadow Plane . Larger and more cunning than most cave worms, shadow worms are fearsome …",
+ "summary_markdown": "Shadow worms are monstrous cave worms that dwell on the  Shadow Plane . Larger and more cunning than most cave worms, shadow worms are fearsome …",
+ "text": " Shadow Worm Shadow worms are monstrous cave worms that dwell on the Shadow Plane. Larger and more cunning than most cave worms, shadow worms are fearsome predators that leave swaths of devastation in their wake. Most have glossy, black-armored hide, but those that burrow near velstrac lands are streaked with dark red, for the blood the velstracs spill has soaked into the very stones these shadow worms consume. Recall Knowledge - Animal (Nature): DC 45 Unspecific Lore : DC 43 Specific Lore : DC 40 Shadow Worm Source Pathfinder #186: Ghost King's Rage pg. 86 Perception +33; darkvision, tremorsense (imprecise) 100 feet Languages Skills Athletics +41, Stealth +32 Str +10 Dex +2 Con +9 Int -4 Wis +0 Cha +0 --- AC 45 Fort +36 Ref +32 Will +30 HP 450 (shadow healing) Resistances cold 20, negative 20 Weaknesses shrink from the light Inexorable The shadow worm recovers from the paralyzed, slowed, and stunned conditions at the end of its turn. It's also immune to penalties to its Speeds and the immobilized condition, and it ignores difficult terrain and greater difficult terrain. Shadow Healing As long as a shadow worm is in an area of dim light or darkness, it gains fast healing 20. When affected by a magical shadow effect from anything other than itself, a shadow worm becomes quickened 1 for 1 round. Shrink from the Light A shadow worm takes an additional 20 damage from any spell or ability with the light trait and uses the outcome one degree worse for saving throws made against a spell or ability with the light trait. --- Speed 40 feet, burrow 40 feet Melee Single Action jaws +38 (deadly 2d10, reach 15 feet), Damage 4d10+20 piercing plus Improved Grab Melee Single Action body +38 (reach 15 feet), Damage 3d10+20 bludgeoning Breath Weapon Two Actions (Cold, Evocation, Negative, Occult, Shadow) The shadow worm exhales a blast of clinging shadow, dealing 11d6 cold damage and 10d6 negative damage to creatures in a 60-foot cone (DC 42 basic Reflex save). If the cone passes through an area of magical light or targets a creature affected by magical light, Breath Weapon attempts to counteract the light (+34 counteract modifier). The shadow worm can't use Breath Weapon again for 1d4 rounds. Fast Swallow Reaction Trigger The shadow worm Grabs a creature; Effect The worm uses Swallow Whole. Rock Tunneler A shadow worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does. Swallow Whole Single Action Huge, 3d10+15 bludgeoning, Rupture 42 Thrash Two Actions The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks. Midnight Worms Though the worms are generally considered to be untamable, some powerful velstracs have recently begun experimenting on shadow worms in hopes of transforming them into mutilated war beasts. So far, only two shadow worms have survived the velstrac's ministrations. The resulting horrors have been dubbed midnight worms. ",
+ "trait": [
+  "Animal",
+  "Rare",
+  "Shadow",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Rare](/Traits.aspx?ID=137), [Shadow](/Traits.aspx?ID=143)",
+ "trait_raw": [
+  "Animal",
+  "Rare",
+  "Shadow"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2425",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "weakness_markdown": "shrink from the light",
+ "weakness_raw": "shrink from the light",
+ "will_save": 30,
+ "wisdom": 0
+}

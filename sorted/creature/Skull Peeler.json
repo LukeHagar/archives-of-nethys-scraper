@@ -1,0 +1,91 @@
+{
+ "ac": 24,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Snatch Skull",
+  "Anticoagulant",
+  "Perfect Camouflage"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 75,
+ "hp_raw": "75",
+ "id": "creature-1306",
+ "image": [
+  "/Images/Monsters/SkullPeeler.png"
+ ],
+ "intelligence": -3,
+ "language_markdown": "",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Skull Peeler](/Monsters.aspx?ID=1306)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSkull peelers, despite their ferocious and well-deserved moniker, are considered by many to be downright adorable, especially when viewed from a safe distance. Their soft, dappled brown fur helps them hide in forest canopies, and they have shimmering insectile wings and big eyes that draw in the faintest beams of light. At first glance, a skull peeler looks like a cuddly pet or a wizard's familiar. Any illusions of domesticating such a beast are quickly dismissed upon seeing how a skull peeler eats, however.\n\n Skull peelers have evolved to hang motionlessly in treetop canopies as they wait until appropriate prey appears, usually long-necked dinosaurs but also brachiating primates and large birds. The skull peeler then lashes out with its long tongue, severing the creature's head from its body and pulling the detached cranium back into its hungry paws. It then uses its claws to crack open the cranial cavity—hence its name—before lapping up the tasty insides.\n\n Despite skull peelers' gruesome eating habits, some enterprises and individuals can't resist the urge to add these beasts to their menageries. Fey and other creatures with ties to the [First World](/Planes.aspx?ID=10), such as [gnomes](/Ancestries.aspx?ID=3), can occasionally coax a skull peeler into a form of domestication. While the adorable beasts can never be fully tamed due to their hyper-evolved hunting instincts, they can be bribed with food and, if kept satiated, displayed on a perch or indoor terrarium as an example of their master's cunning and deadliness. As often as not, these pseudo-domesticated skull peelers end up devouring a guest, pet, or their would-be owner, but this possibility doesn't stop up-and-coming crime lords from attempting to domesticate the little predators. Skull peelers kept in well-managed zoos fare somewhat better, but these clever creatures don't always stay in their cages, which has led to wild skull peelers in places travelers might not expect.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SkullPeeler.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Skull Peeler](/Monsters.aspx?ID=1306)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 243</row>\n\n**Perception** +17; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -3\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 75\n\n**Snatch Skull** <actions string=\"Reaction\" /> **Trigger** The skull peeler is using Perfect Camouflage and a creature moves into a space within 15 feet of it; **Effect** The skull peeler [Leaps](/Actions.aspx?ID=81) toward the triggering creature and Strikes with its tongue. If this Strike is successful, the skull peeler automatically [Grabs](/MonsterAbilities.aspx?ID=18) the target with its tongue.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 15 feet, fly 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntongue +17 ([Agile](/Traits.aspx?ID=170), [fatal d12](/Traits.aspx?ID=178), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d4+8 slashing plus 1d8 [persistent bleed](/Conditions.aspx?ID=29)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +17,\r\n**Damage** 2d10+8 slashing\n\n**Anticoagulant**   The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close. The DC of the flat check to end the [persistent bleed damage](/Conditions.aspx?ID=29) from a skull peeler's tongue is 16, or 11 with appropriate assistance.\r\n\r\n**Perfect Camouflage** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) **Requirements** The skull peeler is in a treetop or standing on a tree limb; **Effect** Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on [Stealth](/Skills.aspx?ID=15) checks and DCs to [Hide](/Actions.aspx?ID=62) from any creature more than 10 feet away from it.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">A Grim Nature</title>\r\n\r\nWhile explorers and adventurers who encounter skull peelers in the wild often assume the small beasts resulted from some ill-advised magical experiment by a foolish wizard, they're actually a naturally occurring species. Though their unusual assembly of characteristics might carry some minor [First World](/Planes.aspx?ID=10) influence, skull peelers evolved from other tree-dwelling mammals over thousands of years. In their current form, they're successful predators in their environment, mostly feeding on long-necked dinosaurs—prey that other, much larger carnivores still struggle to bring down!\r\n</aside>",
+ "name": "Skull Peeler",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 243</row>\n\n<row gap=\"medium\">\r\n**HP** 75\r\n\r\n**AC** 24\r\n\r\n**Fort** +13\r\n\r\n**Ref** +16\r\n\r\n**Will** +11\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSkull peelers, despite their ferocious and well-deserved moniker, are considered by many to be downright adorable, especially when viewed from a safe …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +15",
+  "Stealth +16"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +16",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 243"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 243</row>",
+ "speed": {
+  "climb": 15,
+  "fly": 10,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 15 feet, fly 10 feet",
+ "speed_raw": "20 feet, climb 15 feet, fly 10 feet",
+ "spell_markdown": "",
+ "stealth": "16",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Skull peelers, despite their ferocious and well-deserved moniker, are considered by many to be downright adorable, especially when viewed from a safe …",
+ "summary_markdown": "Skull peelers, despite their ferocious and well-deserved moniker, are considered by many to be downright adorable, especially when viewed from a safe …",
+ "text": " Skull Peeler Skull peelers, despite their ferocious and well-deserved moniker, are considered by many to be downright adorable, especially when viewed from a safe distance. Their soft, dappled brown fur helps them hide in forest canopies, and they have shimmering insectile wings and big eyes that draw in the faintest beams of light. At first glance, a skull peeler looks like a cuddly pet or a wizard's familiar. Any illusions of domesticating such a beast are quickly dismissed upon seeing how a skull peeler eats, however. Skull peelers have evolved to hang motionlessly in treetop canopies as they wait until appropriate prey appears, usually long-necked dinosaurs but also brachiating primates and large birds. The skull peeler then lashes out with its long tongue, severing the creature's head from its body and pulling the detached cranium back into its hungry paws. It then uses its claws to crack open the cranial cavity—hence its name—before lapping up the tasty insides. Despite skull peelers' gruesome eating habits, some enterprises and individuals can't resist the urge to add these beasts to their menageries. Fey and other creatures with ties to the First World, such as gnomes, can occasionally coax a skull peeler into a form of domestication. While the adorable beasts can never be fully tamed due to their hyper-evolved hunting instincts, they can be bribed with food and, if kept satiated, displayed on a perch or indoor terrarium as an example of their master's cunning and deadliness. As often as not, these pseudo-domesticated skull peelers end up devouring a guest, pet, or their would-be owner, but this possibility doesn't stop up-and-coming crime lords from attempting to domesticate the little predators. Skull peelers kept in well-managed zoos fare somewhat better, but these clever creatures don't always stay in their cages, which has led to wild skull peelers in places travelers might not expect. Recall Knowledge - Beast (Arcana, Nature): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Skull Peeler Source Bestiary 3 pg. 243 Perception +17; low-light vision Languages Skills Acrobatics +12, Athletics +15, Stealth +16 Str +5 Dex +4 Con +3 Int -3 Wis +3 Cha +1 --- AC 24 Fort +13 Ref +16 Will +11 HP 75 Snatch Skull Reaction Trigger The skull peeler is using Perfect Camouflage and a creature moves into a space within 15 feet of it; Effect The skull peeler Leaps toward the triggering creature and Strikes with its tongue. If this Strike is successful, the skull peeler automatically Grabs the target with its tongue. --- Speed 20 feet, climb 15 feet, fly 10 feet Melee Single Action tongue +17 (Agile, fatal d12, reach 10 feet), Damage 2d4+8 slashing plus 1d8 persistent bleed Melee Single Action claw +17, Damage 2d10+8 slashing Anticoagulant The skull peeler's razor-sharp tongue is coated in an anticoagulant substance that makes wounds it inflicts particularly hard to close. The DC of the flat check to end the persistent bleed damage from a skull peeler's tongue is 16, or 11 with appropriate assistance. Perfect Camouflage Single Action (Concentrate) Requirements The skull peeler is in a treetop or standing on a tree limb; Effect Until the next time it acts, the skull peeler hangs perfectly still, blending into the treetop surroundings. It has an automatic result of 36 on Stealth checks and DCs to Hide from any creature more than 10 feet away from it. A Grim Nature While explorers and adventurers who encounter skull peelers in the wild often assume the small beasts resulted from some ill-advised magical experiment by a foolish wizard, they're actually a naturally occurring species. Though their unusual assembly of characteristics might carry some minor First World influence, skull peelers evolved from other tree-dwelling mammals over thousands of years. In their current form, they're successful predators in their environment, mostly feeding on long-necked dinosaurs—prey that other, much larger carnivores still struggle to bring down! ",
+ "trait": [
+  "Beast",
+  "N",
+  "Small"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1306",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 3
+}

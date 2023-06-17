@@ -1,0 +1,98 @@
+{
+ "ac": 12,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 5,
+ "creature_ability": [
+  "Stench",
+  "Constrict",
+  "Nauseating Slap",
+  "Saturated"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": -5,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 170,
+ "hp_raw": "170",
+ "id": "creature-1173",
+ "image": [
+  "/Images/Monsters/Globster.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "mental",
+  "unconscious"
+ ],
+ "immunity_markdown": "critical hits, [mental](/Traits.aspx?ID=106), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Globster](/Monsters.aspx?ID=1173)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe tide washes ashore all manner of detritus, from harmless seaweed and shells to the rotting corpses of massive aquatic creatures. The globster is often mistaken for such, and this assumption isn't entirely incorrect—these mindless oozing masses are composed of decaying sea creatures, half-digested and merged into a revolting, reeking heap of blubbery sludge.\n\n Though mindless, globsters are predators that seek out living quarry. They often huddle on the seafloor, where their own fetid mass attracts scavengers who swiftly become the ooze's next meal. When the tides wash these monsters ashore, they simply shift to hunting land-bound prey. Coastal communities usually notice the smell of a washed-up globster long before they see it. Those sent to investigate often mistake a globster for the carcass of a beached whale before getting too close and discovering the presumed corpse is very much alive and hungry.\n\n Sages once believed globsters were undead, undulating wads of rotting flesh driven to feed, but though mindless, they are very much alive. They are attracted to waterside refuse dumps and floating garbage scows and dimly aware enough to congregate where food is plentiful.\n\n Globsters consume living creatures but digest only a portion of them. The undigested dross accumulates within the globster as it becomes more and more bloated. They carry this fetid mass within their squelching bodies until instinct or injury provokes them to vomit forth a new globster to help devour everything nearby. A globster with enough dross to create a new globster automatically does so as a free action triggered upon taking damage. Treat any encounter with such a globster as though it were against two level 5 creatures, instead of just one. As far as scholars know, this is the only way these creatures can create more of their kind.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Globster.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Globster](/Monsters.aspx?ID=1173)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 115</row>\n\n**Perception** +9\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** -5\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 12 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 170\n\n**Immunities**\r\ncritical hits, [mental](/Traits.aspx?ID=106), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\nelectricity 10\r\n\r\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature entering the aura or starting its turn in the area must succeed at a DC 19 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (plus [slowed 1](/Conditions.aspx?ID=35) for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against [disease](/Traits.aspx?ID=46) and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all globsters' stenches for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntendril +15,\r\n**Damage** 2d8+6 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18) and nauseating slap\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+6, DC 22\r\n\r\n**Nauseating Slap**  ([Poison](/Traits.aspx?ID=126)) A living creature struck by a globster's tendril must attempt a DC 19 Fortitude save. On a failure, the creature becomes [sickened 1](/Conditions.aspx?ID=34). If the creature is already sickened, the condition value increases by 1, to a maximum of sickened 4. Once a creature succeeds at its saving throw, it is temporarily immune for 24 hours.\r\n\r\n**Saturated**   A globster can survive for 1 hour out of the water, after which it risks [drowning and suffocation](/Rules.aspx?ID=468).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Fetid Decomposition</title>\r\n\r\nWhen a globster is killed, its body decays into a mass of goo within 24 hours. However, its stench aura can persist long past its destruction, often lasting for 1d10 days, centered on the globster's position at the time of its death. \r\n</aside>",
+ "name": "Globster",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 6,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 115</row>\n\n<row gap=\"medium\">\r\n**HP** 170\r\n\r\n**AC** 12\r\n\r\n**Fort** +16\r\n\r\n**Ref** +6\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe tide washes ashore all manner of detritus, from harmless seaweed and shells to the rotting corpses of massive aquatic creatures. The globster is …\r\n</summary>",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +15"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +15",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 115"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 115</row>",
+ "speed": {
+  "land": 15,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "15 feet, swim 30 feet",
+ "speed_raw": "15 feet, swim 30 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The tide washes ashore all manner of detritus, from harmless seaweed and shells to the rotting corpses of massive aquatic creatures. The globster is …",
+ "summary_markdown": "The tide washes ashore all manner of detritus, from harmless seaweed and shells to the rotting corpses of massive aquatic creatures. The globster is …",
+ "text": " Globster The tide washes ashore all manner of detritus, from harmless seaweed and shells to the rotting corpses of massive aquatic creatures. The globster is often mistaken for such, and this assumption isn't entirely incorrect—these mindless oozing masses are composed of decaying sea creatures, half-digested and merged into a revolting, reeking heap of blubbery sludge. Though mindless, globsters are predators that seek out living quarry. They often huddle on the seafloor, where their own fetid mass attracts scavengers who swiftly become the ooze's next meal. When the tides wash these monsters ashore, they simply shift to hunting land-bound prey. Coastal communities usually notice the smell of a washed-up globster long before they see it. Those sent to investigate often mistake a globster for the carcass of a beached whale before getting too close and discovering the presumed corpse is very much alive and hungry. Sages once believed globsters were undead, undulating wads of rotting flesh driven to feed, but though mindless, they are very much alive. They are attracted to waterside refuse dumps and floating garbage scows and dimly aware enough to congregate where food is plentiful. Globsters consume living creatures but digest only a portion of them. The undigested dross accumulates within the globster as it becomes more and more bloated. They carry this fetid mass within their squelching bodies until instinct or injury provokes them to vomit forth a new globster to help devour everything nearby. A globster with enough dross to create a new globster automatically does so as a free action triggered upon taking damage. Treat any encounter with such a globster as though it were against two level 5 creatures, instead of just one. As far as scholars know, this is the only way these creatures can create more of their kind. Recall Knowledge - Ooze (Occultism): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Globster Source Bestiary 3 pg. 115 Perception +9 Languages Skills Athletics +15 Str +6 Dex -5 Con +5 Int -5 Wis +0 Cha -5 --- AC 12 Fort +16 Ref +6 Will +9 HP 170 Immunities critical hits, mental, unconscious Weaknesses electricity 10 Stench (aura, olfactory) 30 feet. A creature entering the aura or starting its turn in the area must succeed at a DC 19 Fortitude save or become sickened 1 (plus slowed 1 for as long as it's sickened on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all globsters' stenches for 1 minute. --- Speed 15 feet, swim 30 feet Melee Single Action tendril +15, Damage 2d8+6 bludgeoning plus Grab and nauseating slap Constrict Single Action 1d8+6, DC 22 Nauseating Slap (Poison) A living creature struck by a globster's tendril must attempt a DC 19 Fortitude save. On a failure, the creature becomes sickened 1. If the creature is already sickened, the condition value increases by 1, to a maximum of sickened 4. Once a creature succeeds at its saving throw, it is temporarily immune for 24 hours. Saturated A globster can survive for 1 hour out of the water, after which it risks drowning and suffocation. Fetid Decomposition When a globster is killed, its body decays into a mass of goo within 24 hours. However, its stench aura can persist long past its destruction, often lasting for 1d10 days, centered on the globster's position at the time of its death. ",
+ "trait": [
+  "Aquatic",
+  "Ooze",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Aquatic](/Traits.aspx?ID=168), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Aquatic",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1173",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "electricity": 10
+ },
+ "weakness_markdown": "electricity 10",
+ "weakness_raw": "electricity 10",
+ "will_save": 9,
+ "wisdom": 0
+}

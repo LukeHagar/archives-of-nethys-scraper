@@ -1,0 +1,114 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 4,
+ "creature_ability": [
+  "Construct Armor",
+  "Slice and Dice",
+  "Stick a Fork in It"
+ ],
+ "creature_family": "Animated Object",
+ "creature_family_markdown": "[Animated Object](/MonsterFamilies.aspx?ID=4)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hardness": 3,
+ "hardness_raw": "3",
+ "hp": 14,
+ "hp_raw": "14",
+ "id": "creature-1063",
+ "image": [
+  "/Images/Monsters/AnimatedObject_AnimatedSilverwareSwarm.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "precision",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), precision, [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Animated Silverware Swarm](/Monsters.aspx?ID=1063)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nNobles are known to pay great amounts to animate their silverware, both for ease in cleaning and to serve as novelties during dinner parties.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/AnimatedObject_AnimatedSilverwareSwarm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Animated Silverware Swarm](/Monsters.aspx?ID=1063)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 18</row>\n\n**Perception** +5; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 (12 when broken); construct armor\r\n\r\n**Fort** +9 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +3 \n\n</row>\r\n\r\n**HP** 14\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), precision, [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\narea damage 3, [splash](/Traits.aspx?ID=150) damage 3\r\n\r\n**Construct Armor** Like normal objects, an animated silverware swarm has Hardness. This Hardness reduces any damage the swarm takes by an amount equal to the Hardness. Once an animated silverware swarm is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 12.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\n\n**Slice and Dice** <actions string=\"Single Action\" /> ([Magical](/Traits.aspx?ID=103)) Each enemy in the animated silverware swarm's space takes 1d6 piercing or slashing damage (DC 17 basic Reflex save)\r\n\r\n**Stick a Fork in It** <actions string=\"Single Action\" />  The animated silverware swarm attempts to pin a single creature. The target must attempt a DC 17 Reflex save. <br />**Critical Success** The target is unaffected. <br />**Success** Silverware pins portions of the target's clothing and gear. The target takes a –10-foot circumstance penalty to its Speeds as long as it remains in the swarm's space. <br />**Failure** As success, and the target also can't Step until it leaves the swarm's space. <br />**Critical Failure** The target is thoroughly pinned by the silverware, becoming [immobilized](/Conditions.aspx?ID=24) until it [Escapes](/Actions.aspx?ID=79) (DC 17) or uses 2 Interact actions to remove all of the silverware pinning them down.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-4\" />",
+ "name": "Animated Silverware Swarm",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 18</row>\r\n\r\n**Creature Family** [Animated Object](/MonsterFamilies.aspx?ID=4)\r\n\r\n<row gap=\"medium\">\r\n**HP** 14\r\n\r\n**AC** 16\r\n\r\n**Fort** +9\r\n\r\n**Ref** +8\r\n\r\n**Will** +3\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNobles are known to pay great amounts to animate their silverware, both for ease in cleaning and to serve as novelties during dinner parties.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 18"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 18</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "strength": 1,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Nobles are known to pay great amounts to animate their silverware, both for ease in cleaning and to serve as novelties during dinner parties.",
+ "summary_markdown": "Nobles are known to pay great amounts to animate their silverware, both for ease in cleaning and to serve as novelties during dinner parties.",
+ "text": " Animated Silverware Swarm Nobles are known to pay great amounts to animate their silverware, both for ease in cleaning and to serve as novelties during dinner parties. Recall Knowledge - Construct (Arcana, Crafting): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Animated Silverware Swarm Source Bestiary 3 pg. 18 Perception +5; darkvision Languages Skills Acrobatics +8 Str +1 Dex +3 Con +4 Int -5 Wis +0 Cha -5 --- AC 16 (12 when broken); construct armor Fort +9 Ref +8 Will +3 HP 14 Immunities death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, precision, poison, sickened, unconscious Weaknesses area damage 3, splash damage 3 Construct Armor Like normal objects, an animated silverware swarm has Hardness. This Hardness reduces any damage the swarm takes by an amount equal to the Hardness. Once an animated silverware swarm is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 12. --- Speed 20 feet Slice and Dice Single Action (Magical) Each enemy in the animated silverware swarm's space takes 1d6 piercing or slashing damage (DC 17 basic Reflex save) Stick a Fork in It Single Action The animated silverware swarm attempts to pin a single creature. The target must attempt a DC 17 Reflex save. Critical Success The target is unaffected. Success Silverware pins portions of the target's clothing and gear. The target takes a –10-foot circumstance penalty to its Speeds as long as it remains in the swarm's space. Failure As success, and the target also can't Step until it leaves the swarm's space. Critical Failure The target is thoroughly pinned by the silverware, becoming immobilized until it Escapes (DC 17) or uses 2 Interact actions to remove all of the silverware pinning them down. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Construct",
+  "Mindless",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1063",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 3
+ },
+ "weakness_markdown": "area damage 3, [splash](/Traits.aspx?ID=150) damage 3",
+ "weakness_raw": "area damage 3,  splash  damage 3",
+ "will_save": 3,
+ "wisdom": 0
+}

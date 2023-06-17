@@ -1,0 +1,103 @@
+{
+ "ac": 16,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Cloak of Shadows",
+  "Shadow Bite",
+  "Umbral Leap"
+ ],
+ "creature_family": "Gorga",
+ "creature_family_markdown": "[Gorga](/MonsterFamilies.aspx?ID=331)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 25,
+ "hp_raw": "25",
+ "id": "creature-2445",
+ "image": [
+  "/Images/Monsters/Gorga_Temagyr.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Aklo",
+  "Sylvan",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Sylvan](/Languages.aspx?ID=10); (can't speak any language)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"\">[Temagyr](/Monsters.aspx?ID=2445)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTemagyrs embody the fear of nocturnal hunters—predators that stalk through the dark of night and attack when their prey is most vulnerable. Able to blend in with and step between shadows to surprise victims, temagyrs delight in ambush tactics.\n\n An average temagyr is 8 feet long and weighs 500 pounds but moves with unnatural fluidity and grace, the shadows they carry seeming to hang in the air behind them. In combat, a temagyr can take down opponents either with physical attacks or by taking bites out of their enemy's shadow. These shadow wounds, which remain visible unless healed, often perplex Material Plane doctors and investigators; a corpse from a temagyr attack can appear pristine, its tattered shadow the only clue to how it met its untimely fate.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 17\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 15\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 12\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gorga_Temagyr.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Temagyr](/Monsters.aspx?ID=2445)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 86</row>\n\n**Perception** +9; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Sylvan](/Languages.aspx?ID=10); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +7, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 25\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 3\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /><br />**Cloak of Shadows** Temagyrs are constantly surrounded by shifting shadows. A temagyr can always [Hide](/Actions.aspx?ID=62) in [dim light](/Rules.aspx?ID=408) or [darkness](/Rules.aspx?ID=409).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +9,\r\n**Damage** 1d4+4 piercing\n\n**Shadow Bite** <actions string=\"Single Action\" />  **Frequency** once per round; **Effect** The temagyr attempts to tear away and swallow a gobbet of shadow from a creature within reach. The creature must attempt a DC 17 Fortitude save.<br />**Success** The target takes no damage.<br />**Failure** The target takes 1d4+4 piercing damage and the temagyr gains 2 temporary Hit Points for 1 minute.<br />**Critical Failure** The target takes 2d4+8 piercing damage and the temagyr gains 4 temporary Hit Points for 1 minute.\r\n\r\n**Umbral Leap** <actions string=\"Two Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Primal](/Traits.aspx?ID=134), [Teleportation](/Traits.aspx?ID=156)) **Frequency** once per day; **Effect** The temagyr bends light and darkness to leap into a creature's shadow. The temagyr targets a creature that it can see who is in dim or brighter light within 120 feet. The temagyr teleports to a space adjacent to the target creature.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-331\" />",
+ "name": "Temagyr",
+ "npc": false,
+ "perception": 9,
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2023-01-25",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 86</row>\r\n\r\n**Creature Family** [Gorga](/MonsterFamilies.aspx?ID=331)\r\n\r\n<row gap=\"medium\">\r\n**HP** 25\r\n\r\n**AC** 16\r\n\r\n**Fort** +8\r\n\r\n**Ref** +10\r\n\r\n**Will** +5\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTemagyrs embody the fear of nocturnal hunters—predators that stalk through the dark of night and attack when their prey is most vulnerable. Able to …\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +7",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +7, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Pathfinder #187: The Seventh Arch"
+ ],
+ "source_raw": [
+  "Pathfinder #187: The Seventh Arch pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 86</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "spoilers": "Gatewalkers",
+ "stealth": "8",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Temagyrs embody the fear of nocturnal hunters—predators that stalk through the dark of night and attack when their prey is most vulnerable. Able to …",
+ "summary_markdown": "Temagyrs embody the fear of nocturnal hunters—predators that stalk through the dark of night and attack when their prey is most vulnerable. Able to …",
+ "text": " Temagyr Temagyrs embody the fear of nocturnal hunters—predators that stalk through the dark of night and attack when their prey is most vulnerable. Able to blend in with and step between shadows to surprise victims, temagyrs delight in ambush tactics. An average temagyr is 8 feet long and weighs 500 pounds but moves with unnatural fluidity and grace, the shadows they carry seeming to hang in the air behind them. In combat, a temagyr can take down opponents either with physical attacks or by taking bites out of their enemy's shadow. These shadow wounds, which remain visible unless healed, often perplex Material Plane doctors and investigators; a corpse from a temagyr attack can appear pristine, its tattered shadow the only clue to how it met its untimely fate. Recall Knowledge - Fey (Nature): DC 17 Unspecific Lore : DC 15 Specific Lore : DC 12 Temagyr Source Pathfinder #187: The Seventh Arch pg. 86 Perception +9; greater darkvision Languages Aklo, Sylvan; (can't speak any language) Skills Acrobatics +7, Athletics +7, Stealth +8 Str +2 Dex +3 Con +2 Int -2 Wis +3 Cha +1 --- AC 16 Fort +8 Ref +10 Will +5 HP 25 Weaknesses cold iron 3 Attack of Opportunity Reaction Cloak of Shadows Temagyrs are constantly surrounded by shifting shadows. A temagyr can always Hide in dim light or darkness. --- Speed 40 feet Melee Single Action bite +9, Damage 1d4+4 piercing Shadow Bite Single Action Frequency once per round; Effect The temagyr attempts to tear away and swallow a gobbet of shadow from a creature within reach. The creature must attempt a DC 17 Fortitude save. Success The target takes no damage. Failure The target takes 1d4+4 piercing damage and the temagyr gains 2 temporary Hit Points for 1 minute. Critical Failure The target takes 2d4+8 piercing damage and the temagyr gains 4 temporary Hit Points for 1 minute. Umbral Leap Two Actions (Conjuration, Primal, Teleportation) Frequency once per day; Effect The temagyr bends light and darkness to leap into a creature's shadow. The temagyr targets a creature that it can see who is in dim or brighter light within 120 feet. The temagyr teleports to a space adjacent to the target creature. ",
+ "trait": [
+  "Fey",
+  "Uncommon",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fey",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2445",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 3
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 3",
+ "weakness_raw": " cold iron  3",
+ "will_save": 5,
+ "wisdom": 3
+}

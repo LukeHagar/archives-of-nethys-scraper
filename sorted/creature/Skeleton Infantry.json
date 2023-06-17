@@ -1,0 +1,107 @@
+{
+ "ac": 31,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Form a Phalanx",
+  "Troop Defenses",
+  "Lower Spears!",
+  "Hurl Javelins!",
+  "Form Up",
+  "Phalanx Charge",
+  "Troop Movement"
+ ],
+ "creature_family": "Skeleton",
+ "creature_family_markdown": "[Skeleton](/MonsterFamilies.aspx?ID=92)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 180,
+ "hp_raw": "180 (16 squares)",
+ "id": "creature-1300",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Skeleton Infantry](/Monsters.aspx?ID=1300)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis troop of skeletons was once a cohort of highly disciplined spear-and-shield infantry from an ancient empire.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Skeleton Infantry](/Monsters.aspx?ID=1300)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Skeleton\" url=\"/Traits.aspx?ID=236\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 237</row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 31 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 180\r\n(16 squares)\n\n**Resistances**\r\ncold 5, electricity 5, fire 5, piercing 10, slashing 10\r\n\r\n**Weaknesses**\r\narea damage 15, [splash](/Traits.aspx?ID=150) damage 8\r\n\r\n**Form a Phalanx** <actions string=\"Single Action\" /> Many of the skeletons raise their shields to protect others. The infantry gain a +2 circumstance bonus to AC until the start of their next turn.<br />**[Troop Defenses](/MonsterAbilities.aspx?ID=44)** \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet; troop movement\n\n**Lower Spears!** <actions string=\"Single Action to Three Actions\" />  **Frequency** once per round; **Effect** The skeletons engage in a coordinated longspear attack against each enemy within 10 feet (DC 27 [basic](/Rules.aspx?ID=329) Reflex save). The damage depends on the number of actions. <br /><actions string=\"Single Action\" /> 2d8 piercing damage <br /><actions string=\"Two Actions\" /> 3d8+8 piercing damage <br /><actions string=\"Three Actions\" /> 4d8+8 piercing damage\r\n\r\n**Hurl Javelins!** <actions string=\"Two Actions\" />  The troop's members throw a volley of javelins. Each creature in a 10-foot burst within 30 feet of the troop takes 2d6+10 piercing damage (DC 26 [basic](/Rules.aspx?ID=329) Reflex save). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst.\r\n\r\n**[Form Up](/MonsterAbilities.aspx?ID=43)** <actions string=\"Single Action\" />  \r\n\r\n**Phalanx Charge** <actions string=\"Two Actions\" />  **Requirements** The infantry is in a phalanx; **Effect** The skeletons lower their longspears and charge. The troop Strides in a straight line until they're adjacent to an enemy then use Lower Spears!, dealing 3d8+8 piercing damage. Any creature that fails its save is also knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n**Troop Movement**   Whenever the skeleton infantry Stride, they first [Form Up](/MonsterAbilities.aspx?ID=43) as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the infantry enter difficult terrain, the extra movement cost applies to all the guards.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-92\" />",
+ "name": "Skeleton Infantry",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 18,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "cold": 5,
+  "electricity": 5,
+  "fire": 5,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "cold 5, electricity 5, fire 5, piercing 10, slashing 10",
+ "resistance_raw": "cold 5, electricity 5, fire 5, piercing 10, slashing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Skeleton\" url=\"/Traits.aspx?ID=236\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 237</row>\r\n\r\n**Creature Family** [Skeleton](/MonsterFamilies.aspx?ID=92)\r\n\r\n<row gap=\"medium\">\r\n**HP** 180 (16 squares)\r\n\r\n**AC** 31\r\n\r\n**Fort** +21\r\n\r\n**Ref** +18\r\n\r\n**Will** +19\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis troop of skeletons was once a cohort of highly disciplined spear-and-shield infantry from an ancient empire.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +18"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +18",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 237"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 237</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet; troop movement",
+ "speed_raw": "25 feet; troop movement",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "This troop of skeletons was once a cohort of highly disciplined spear-and-shield infantry from an ancient empire.",
+ "summary_markdown": "This troop of skeletons was once a cohort of highly disciplined spear-and-shield infantry from an ancient empire.",
+ "text": " Skeleton Infantry This troop of skeletons was once a cohort of highly disciplined spear-and-shield infantry from an ancient empire. Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Skeleton Infantry Source Bestiary 3 pg. 237 Perception +17; darkvision Languages Skills Athletics +18 Str +5 Dex +3 Con +4 Int -5 Wis +2 Cha +0 --- AC 31 Fort +21 Ref +18 Will +19 HP 180 (16 squares) Resistances cold 5, electricity 5, fire 5, piercing 10, slashing 10 Weaknesses area damage 15, splash damage 8 Form a Phalanx Single Action Many of the skeletons raise their shields to protect others. The infantry gain a +2 circumstance bonus to AC until the start of their next turn. Troop Defenses --- Speed 25 feet; troop movement Lower Spears! Single Action to Three Actions Frequency once per round; Effect The skeletons engage in a coordinated longspear attack against each enemy within 10 feet (DC 27 basic Reflex save). The damage depends on the number of actions. Single Action 2d8 piercing damage Two Actions 3d8+8 piercing damage Three Actions 4d8+8 piercing damage Hurl Javelins! Two Actions The troop's members throw a volley of javelins. Each creature in a 10-foot burst within 30 feet of the troop takes 2d6+10 piercing damage (DC 26 basic Reflex save). When the troop is reduced to 8 or fewer squares, this area decreases to a 5-foot burst. Form Up Single Action Phalanx Charge Two Actions Requirements The infantry is in a phalanx; Effect The skeletons lower their longspears and charge. The troop Strides in a straight line until they're adjacent to an enemy then use Lower Spears!, dealing 3d8+8 piercing damage. Any creature that fails its save is also knocked prone. Troop Movement Whenever the skeleton infantry Stride, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then move up to their Speed. This works just like a Gargantuan creature moving; for instance, if any square of the infantry enter difficult terrain, the extra movement cost applies to all the guards. ",
+ "trait": [
+  "Mindless",
+  "Skeleton",
+  "Troop",
+  "Undead",
+  "NE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Skeleton](/Traits.aspx?ID=236), [Troop](/Traits.aspx?ID=367), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mindless",
+  "Skeleton",
+  "Troop",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1300",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "area": 15
+ },
+ "weakness_markdown": "area damage 15, [splash](/Traits.aspx?ID=150) damage 8",
+ "weakness_raw": "area damage 15,  splash  damage 8",
+ "will_save": 19,
+ "wisdom": 2
+}

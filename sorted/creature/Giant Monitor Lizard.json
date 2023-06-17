@@ -1,0 +1,92 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 3,
+ "creature_ability": [
+  "Gnashing Grip",
+  "Eflect",
+  "Lurching Charge",
+  "Monitor Lizard Venom"
+ ],
+ "creature_family": "Lizard",
+ "creature_family_markdown": "[Lizard](/MonsterFamilies.aspx?ID=70)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-289",
+ "image": [
+  "/Images/Monsters/Lizard_GiantMonitorLizard.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Monitor Lizard](/Monsters.aspx?ID=289)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLarge and seemingly ponderous, a monitor lizard is a deceptively swift and ruthless predator. It ambushes its prey by rushing out from cover and biting the target with its powerful jaws. A giant monitor lizard’s saliva is venomous, allowing it to bring down prey larger than it can easily haul away in its jaws. Giant monitor lizards grow up to 14 feet long, including their long tails, and they weigh about 350 pounds. Their bodies are normally dark brown with patches of yellow or green. When nesting, a giant monitor lizard digs a deep burrow to hide in. The burrow serves as both a safe haven and a location from which the lizard can ambush larger prey such as deer, boars, or even humanoids. A giant monitor lizard can consume nearly its own body weight in a single meal, and its loosely articulated jaws allow it to swallow surprisingly large prey.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Lizard_GiantMonitorLizard.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Giant Monitor Lizard](/Monsters.aspx?ID=289)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 229</row>\n\n**Perception** +7; low-light vision, scent (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +6, [Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 30\n\n**Gnashing Grip** <actions string=\"Reaction\" /> **Trigger** A creature grabbed by the giant monitor lizard’s jaws fails a check to Escape. **Eflect** The giant monitor lizard’s jaws deal 1d6 piercing damage and the triggering creature is exposed to monitor lizard venom.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +11,\r\n**Damage** 1d10+3 piercing plus Grab and monitor lizard venom\n\n**Lurching Charge** <actions string=\"Two Actions\" />  The giant monitor lizard Strides twice and then makes a jaws Strike. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll.\r\n\r\n**Monitor Lizard Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** [enfeebled 1](/Conditions.aspx?ID=13) (1 round); **Stage 2** 1d6 poison damage and [enfeebled 2](/Conditions.aspx?ID=13) (1 round)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-70\" />",
+ "name": "Giant Monitor Lizard",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 229</row>\r\n\r\n**Creature Family** [Lizard](/MonsterFamilies.aspx?ID=70)\r\n\r\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +8\r\n\r\n**Will** +5\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLarge and seemingly ponderous, a monitor lizard is a deceptively swift and ruthless predator. It ambushes its prey by rushing out from cover and …\r\n</summary>",
+ "sense": "low-light vision, scent (imprecise) 30 feet",
+ "sense_markdown": "low-light vision, scent (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +6",
+  "Athletics +9",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +6, [Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 229"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 229</row>",
+ "speed": {
+  "land": 30,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "30 feet, swim 30 feet",
+ "speed_raw": "30 feet, swim 30 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 3,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Large and seemingly ponderous, a monitor lizard is a deceptively swift and ruthless predator. It ambushes its prey by rushing out from cover and …",
+ "summary_markdown": "Large and seemingly ponderous, a monitor lizard is a deceptively swift and ruthless predator. It ambushes its prey by rushing out from cover and …",
+ "text": " Giant Monitor Lizard Large and seemingly ponderous, a monitor lizard is a deceptively swift and ruthless predator. It ambushes its prey by rushing out from cover and biting the target with its powerful jaws. A giant monitor lizard’s saliva is venomous, allowing it to bring down prey larger than it can easily haul away in its jaws. Giant monitor lizards grow up to 14 feet long, including their long tails, and they weigh about 350 pounds. Their bodies are normally dark brown with patches of yellow or green. When nesting, a giant monitor lizard digs a deep burrow to hide in. The burrow serves as both a safe haven and a location from which the lizard can ambush larger prey such as deer, boars, or even humanoids. A giant monitor lizard can consume nearly its own body weight in a single meal, and its loosely articulated jaws allow it to swallow surprisingly large prey. Recall Knowledge - Animal (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Giant Monitor Lizard Source Bestiary pg. 229 Perception +7; low-light vision, scent (imprecise) 30 feet Languages Skills Acrobatics +6, Athletics +9, Stealth +6 Str +3 Dex +2 Con +3 Int -4 Wis +1 Cha -2 --- AC 18 Fort +9 Ref +8 Will +5 HP 30 Gnashing Grip Reaction Trigger A creature grabbed by the giant monitor lizard’s jaws fails a check to Escape. Eflect The giant monitor lizard’s jaws deal 1d6 piercing damage and the triggering creature is exposed to monitor lizard venom. --- Speed 30 feet, swim 30 feet Melee Single Action jaws +11, Damage 1d10+3 piercing plus Grab and monitor lizard venom Lurching Charge Two Actions The giant monitor lizard Strides twice and then makes a jaws Strike. If the lizard moved at least 20 feet away from its starting position, it gains a +2 circumstance bonus to this attack roll. Monitor Lizard Venom (Poison) Saving Throw DC 17 Fortitude; Maximum Duration 6 rounds; Stage 1 enfeebled 1 (1 round); Stage 2 1d6 poison damage and enfeebled 2 (1 round) ",
+ "trait": [
+  "Animal",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=289",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 5,
+ "wisdom": 1
+}

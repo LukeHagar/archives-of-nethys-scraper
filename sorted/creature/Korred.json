@@ -1,0 +1,110 @@
+{
+ "ac": 21,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 2,
+ "creature_ability": [
+  "Animated Hair",
+  "Hair Snare",
+  "Otherworldly Laugh",
+  "Stone Stride",
+  "Throw Rock"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 65,
+ "hp_raw": "65",
+ "id": "creature-710",
+ "image": [
+  "/Images/Monsters/Korred.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Korred](/Monsters.aspx?ID=710)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nKorreds are reclusive fey in the form of small, hirsute individuals with long, animated manes of hair. While korreds have a natural affinity and admiration for stones and boulders, they prefer to dwell aboveground in areas of rocky forest or wooded hills rather than in caves. Korreds are a private people who don't take kindly to intruders, and they invariably work to drive off or kill any non-fey who stumble into their territory. Staunchly proud of their hair, korreds choose their minimal attire so as to allow their body hair to flow freely, often wearing only a belt with a pouch for throwing rocks and trimming shears—though this belt and pouch are rarely visible under their wild manes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Korred.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Korred](/Monsters.aspx?ID=710)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 155 <sup>2.0</sup></row>\n\n**Perception** +12; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +11, [Crafting](/Skills.aspx?ID=4) +11, [Deception](/Skills.aspx?ID=5) +13, [Performance](/Skills.aspx?ID=12) +13, [Stealth](/Skills.aspx?ID=15) +11\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +2\r\n\r\n**Cha** +5\r\n</row>\n\n**Items**\r\n[Club](/Weapons.aspx?ID=2), pouch with 5 rocks\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +10 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 65\n\n**Weaknesses**\r\ncold iron 5\r\n\r\n**Animated Hair** ([aura](/Traits.aspx?ID=206), [primal](/Traits.aspx?ID=134), [transmutation](/Traits.aspx?ID=157)) 5 feet. The korred's long, animated hair reaches out and interferes with creatures in the area. The korred can select which targets are affected by their animated hair. An affected creature that ends its turn in the emanation must succeed at a DC 18 Reflex save or become [clumsy 1](/Conditions.aspx?ID=3)(clumsy 2 on a critical failure) as long as it remains in the aura.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclub +14,\r\n**Damage** 2d6+7 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +14 ([Brutal](/Traits.aspx?ID=249), [range increment 20 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d6+7 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nclub +14 ([thrown 10 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d6+7 bludgeoning\r\n\r\n**Primal Innate Spells** DC 21\r\n- **4th**\r\n[Shape Stone](/Spells.aspx?ID=276) (at will), [Shatter](/Spells.aspx?ID=279) (at will)\r\n- **6th**\r\n[Stone Tell](/Spells.aspx?ID=310)\r\n\r\n**Hair Snare** <actions string=\"Single Action\" /> ([Incapacitation](/Traits.aspx?ID=93), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The korred causes a long, tangled length of their hair to detach from their body and snake out to coil around an adjacent creature. The creature must attempt a DC 21 Reflex save. The korred cannot use Hair Snare again for 1d4 rounds. <br />**Success** The creature is unaffected. <br />**Failure** The hair wraps around the creature. The creature takes a –10-foot circumstance penalty to all of its Speeds until it Escapes (DC 21) or until the korred uses Hair Snare again (at which point the previous snare drops to the ground, no longer animated). <br />**Critical Failure** The creature is [immobilized](/Conditions.aspx?ID=24) until it Escapes (DC 21) or the korred uses Hair Snare again.\r\n\r\n**Otherworldly Laugh** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Evocation](/Traits.aspx?ID=65), [Incapacitation](/Traits.aspx?ID=93), [Primal](/Traits.aspx?ID=134), [Sonic](/Traits.aspx?ID=147)) **Frequency** three times per day; **Effect** The korred unleashes an otherworldly laugh. Each non-[fey](/Traits.aspx?ID=69) creature within a 30-foot burst must attempt a DC 21 Fortitude save. On a failure, the creature is [slowed 1](/Conditions.aspx?ID=35) for 1 round (or [stunned 1](/Conditions.aspx?ID=36) on a critical failure).\r\n\r\n**Stone Stride** <actions string=\"Two Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Earth](/Traits.aspx?ID=55), [Primal](/Traits.aspx?ID=134), [Teleportation](/Traits.aspx?ID=156)) The korred steps into a block of stone large enough for them to fit inside and instantly teleports to any other stone within 30 feet that has the same minimum size. Once the korred enters the stone, they instantly know the rough locations of other sufficiently large stones within 30 feet. They can exit from the original stone, if they prefer. They can't carry extradimensional spaces with them when they Stone Stride; if the korred attempts to do so, Stone Stride fails.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Korred Dances</title>\r\n\r\nDespite their insular nature, korreds love to dance. On certain auspicious dates, korreds hold great festivals of music and dance in ancient stone circles deep within forest glades. A few non-korred fey sometimes receive invitations to these dances, but any non-fey who interrupts the dance is berated at best or attacked at worst.\r\n</aside>",
+ "name": "Korred",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 13,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 155 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 65\r\n\r\n**AC** 21\r\n\r\n**Fort** +10\r\n\r\n**Ref** +13\r\n\r\n**Will** +10\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nKorreds are reclusive fey in the form of small, hirsute individuals with long, animated manes of hair. While korreds have a natural affinity and …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +11",
+  "Crafting +11",
+  "Deception +13",
+  "Performance +13",
+  "Stealth +11"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +11, [Crafting](/Skills.aspx?ID=4) +11, [Deception](/Skills.aspx?ID=5) +13, [Performance](/Skills.aspx?ID=12) +13, [Stealth](/Skills.aspx?ID=15) +11",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 155"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 155 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Stone Tell",
+  "Shape Stone",
+  "Shatter"
+ ],
+ "spell_markdown": "[Shape Stone](/Spells.aspx?ID=276), [Shatter](/Spells.aspx?ID=279), [Stone Tell](/Spells.aspx?ID=310)",
+ "stealth": "11",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Korreds are reclusive fey in the form of small, hirsute individuals with long, animated manes of hair. While korreds have a natural affinity and …",
+ "summary_markdown": "Korreds are reclusive fey in the form of small, hirsute individuals with long, animated manes of hair. While korreds have a natural affinity and …",
+ "text": " Korred Korreds are reclusive fey in the form of small, hirsute individuals with long, animated manes of hair. While korreds have a natural affinity and admiration for stones and boulders, they prefer to dwell aboveground in areas of rocky forest or wooded hills rather than in caves. Korreds are a private people who don't take kindly to intruders, and they invariably work to drive off or kill any non-fey who stumble into their territory. Staunchly proud of their hair, korreds choose their minimal attire so as to allow their body hair to flow freely, often wearing only a belt with a pouch for throwing rocks and trimming shears—though this belt and pouch are rarely visible under their wild manes. Recall Knowledge - Fey (Nature): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Korred Source Bestiary 2 pg. 155 2.0 Perception +12; low-light vision Languages Common, Sylvan Skills Acrobatics +11, Crafting +11, Deception +13, Performance +13, Stealth +11 Str +4 Dex +3 Con +2 Int +1 Wis +2 Cha +5 Items Club, pouch with 5 rocks --- AC 21 Fort +10 Ref +13 Will +10 +1 status to all saves vs. magic HP 65 Weaknesses cold iron 5 Animated Hair (aura, primal, transmutation) 5 feet. The korred's long, animated hair reaches out and interferes with creatures in the area. The korred can select which targets are affected by their animated hair. An affected creature that ends its turn in the emanation must succeed at a DC 18 Reflex save or become clumsy 1(clumsy 2 on a critical failure) as long as it remains in the aura. --- Speed 25 feet Melee Single Action club +14, Damage 2d6+7 bludgeoning Ranged Single Action rock +14 (Brutal, range increment 20 feet), Damage 1d6+7 bludgeoning Ranged Single Action club +14 (thrown 10 feet), Damage 2d6+7 bludgeoning Primal Innate Spells DC 21 - 4th Shape Stone (at will), Shatter (at will) - 6th Stone Tell Hair Snare Single Action (Incapacitation, Primal, Transmutation) The korred causes a long, tangled length of their hair to detach from their body and snake out to coil around an adjacent creature. The creature must attempt a DC 21 Reflex save. The korred cannot use Hair Snare again for 1d4 rounds. Success The creature is unaffected. Failure The hair wraps around the creature. The creature takes a –10-foot circumstance penalty to all of its Speeds until it Escapes (DC 21) or until the korred uses Hair Snare again (at which point the previous snare drops to the ground, no longer animated). Critical Failure The creature is immobilized until it Escapes (DC 21) or the korred uses Hair Snare again. Otherworldly Laugh Two Actions (Auditory, Evocation, Incapacitation, Primal, Sonic) Frequency three times per day; Effect The korred unleashes an otherworldly laugh. Each non-fey creature within a 30-foot burst must attempt a DC 21 Fortitude save. On a failure, the creature is slowed 1 for 1 round (or stunned 1 on a critical failure). Stone Stride Two Actions (Conjuration, Earth, Primal, Teleportation) The korred steps into a block of stone large enough for them to fit inside and instantly teleports to any other stone within 30 feet that has the same minimum size. Once the korred enters the stone, they instantly know the rough locations of other sufficiently large stones within 30 feet. They can exit from the original stone, if they prefer. They can't carry extradimensional spaces with them when they Stone Stride; if the korred attempts to do so, Stone Stride fails. Throw Rock Single Action Korred Dances Despite their insular nature, korreds love to dance. On certain auspicious dates, korreds hold great festivals of music and dance in ancient stone circles deep within forest glades. A few non-korred fey sometimes receive invitations to these dances, but any non-fey who interrupts the dance is berated at best or attacked at worst. ",
+ "trait": [
+  "Fey",
+  "Uncommon",
+  "CN",
+  "Small"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fey",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=710",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 5
+ },
+ "weakness_markdown": "cold iron 5",
+ "weakness_raw": "cold iron 5",
+ "will_save": 10,
+ "wisdom": 2
+}

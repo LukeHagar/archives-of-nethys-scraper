@@ -1,0 +1,104 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Scout's Warning",
+  "Deny Advantage",
+  "Mobility",
+  "Sneak Attack",
+  "Surprise Attack",
+  "Trap Finder"
+ ],
+ "creature_family": "Pathfinders",
+ "creature_family_markdown": "[Pathfinders](/MonsterFamilies.aspx?ID=203)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-973",
+ "intelligence": 2,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Pathfinder Field Agent](/NPCs.aspx?ID=973)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n_This half-elf woman looks dressed to travel anywhere and prepared for any eventuality she might find along the way._\n\n No two field agents follow the same path to join the Pathfinder Society, nor the same path once they embark on their first expedition. The Society's treacherous missions require all types of adventurers, from seasoned combatants to ruin delvers and experts in the occult. Some field agents are highly specialized, filling a single role in a larger group of Pathfinders, while others branch out into a broad range of abilities.\n\n This field agent seeks the thrill of discovering lost treasures from the Inner Sea's many ancient ruins. She scouts ahead for her team, keeping an eye out for enemies, traps, and other dangers. In fights, she is cautious and practical, preferring to stay mobile and out of sight. She sneaks in for a finishing blow when victory is certain.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Pathfinder Field Agent](/NPCs.aspx?ID=973)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 126 <sup>2.0</sup></row>\n\n**Perception** +11; [low-light vision](/MonsterAbilities.aspx?ID=23), trap finder\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Arcana](/Skills.aspx?ID=2) +8, [Athletics](/Skills.aspx?ID=3) +6, [Deception](/Skills.aspx?ID=5) +6, [Diplomacy](/Skills.aspx?ID=6) +6, [Pathfinder Society Lore](/Skills.aspx?ID=8) +11, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +8, [Thievery](/Skills.aspx?ID=17) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Scout's Warning** <actions string=\"Reaction\" /> **Trigger** The field agent is about to roll a Perception check for initiative. **Effect** The field agent audibly or visually warns their allies of imminent danger. This ability gains the [auditory](/Traits.aspx?ID=16) trait if the warning is audible, and the [visual](/Traits.aspx?ID=163) trait if the warning is visual. Any ally who is able to hear the agent (if the warning is audible) or see the agent (if the warning is visual) gains a +1 circumstance bonus to their initiative roll.\r\n\r\n**Items**\r\n[Comprehension Elixir](/Equipment.aspx?ID=88), [_minor healing potion_](/Equipment.aspx?ID=186), [Infiltrator's Elixir](/Equipment.aspx?ID=93), [Rapier](/Weapons.aspx?ID=36), [Shortbow](/Weapons.aspx?ID=77) (20 arrows), [Studded Leather Armor](/Armor.aspx?ID=5), [Thieves' Tools](/Equipment.aspx?ID=58)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 (22 against traps)\r\n\r\n**Fort** +10 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +11 \r\n\r\n+1 circumstance to all saves vs. traps\r\n</row>\r\n\r\n**HP** 60\n\n**Deny Advantage** The field agent isn't [flat-footed](/Conditions.aspx?ID=16) to flanking, [hidden](/Conditions.aspx?ID=22), or [undetected](/Conditions.aspx?ID=39) creatures of 4th level or lower, or to creatures of 4th-level or lower using surprise attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nrapier +12 ([deadly 1d8](/Traits.aspx?ID=174), [Disarm](/Traits.aspx?ID=175)),\r\n**Damage** 1d6+6 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nshortbow +12 ([deadly d10](/Traits.aspx?ID=174), [range increment 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+2 piercing\n\n**Mobility**   When the field agent takes a Stride action to move half their Speed or less, that movement does not trigger reactions.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   2d6\r\n\r\n**Surprise Attack**   On the first round of combat, any creatures that haven't acted yet are [flat-footed](/Conditions.aspx?ID=16) to the field agent.\r\n\r\n**Trap Finder**   The field agent has an intuitive sense that alerts them to the dangers and presence of traps. They gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if they aren't [Searching](/Actions.aspx?ID=519), they still get a check to find traps. They can disable traps that require a proficiency rank of master in [Thievery](/Skills.aspx?ID=17).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Siora Qinndove</title>\r\n\r\nAn heir to two wealthy families, Siora grew up used to getting her own way. But Siora wound up becoming interested in archeology and the act of investigating every nook and cranny of an unknown artifact. Seeing that lost cities were hard to find and often contained things money couldn't buy, Siora joined the Pathfinder Society, loaded down with every piece of expensive gear that could prove useful.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-203\" />",
+ "name": "Pathfinder Field Agent",
+ "npc": true,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2019-10-16",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Elf\" url=\"/Traits.aspx?ID=58\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Character Guide](/Sources.aspx?ID=12) pg. 126 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Pathfinders](/MonsterFamilies.aspx?ID=203)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 21\r\n\r\n**Fort** +10\r\n\r\n**Ref** +13\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis half-elf woman looks dressed to travel anywhere and prepared for any eventuality she might find along the way.    No two field agents follow …\r\n</summary>",
+ "sense": " low-light vision , trap finder",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), trap finder",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Arcana +8",
+  "Athletics +6",
+  "Deception +6",
+  "Diplomacy +6",
+  "Pathfinder Society Lore +11",
+  "Stealth +12",
+  "Survival +8",
+  "Thievery +10"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Arcana](/Skills.aspx?ID=2) +8, [Athletics](/Skills.aspx?ID=3) +6, [Deception](/Skills.aspx?ID=5) +6, [Diplomacy](/Skills.aspx?ID=6) +6, [Pathfinder Society Lore](/Skills.aspx?ID=8) +11, [Stealth](/Skills.aspx?ID=15) +12, [Survival](/Skills.aspx?ID=16) +8, [Thievery](/Skills.aspx?ID=17) +10",
+ "source": [
+  "Character Guide"
+ ],
+ "source_raw": [
+  "Character Guide pg. 126"
+ ],
+ "source_category": "Lost Omens",
+ "source_markdown": "<row gap=\"tiny\">[Character Guide](/Sources.aspx?ID=12) pg. 126 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "This half-elf woman looks dressed to travel anywhere and prepared for any eventuality she might find along the way.    No two field agents follow …",
+ "summary_markdown": "This half-elf woman looks dressed to travel anywhere and prepared for any eventuality she might find along the way.    No two field agents follow …",
+ "text": " Pathfinder Field Agent This half-elf woman looks dressed to travel anywhere and prepared for any eventuality she might find along the way. No two field agents follow the same path to join the Pathfinder Society, nor the same path once they embark on their first expedition. The Society's treacherous missions require all types of adventurers, from seasoned combatants to ruin delvers and experts in the occult. Some field agents are highly specialized, filling a single role in a larger group of Pathfinders, while others branch out into a broad range of abilities. This field agent seeks the thrill of discovering lost treasures from the Inner Sea's many ancient ruins. She scouts ahead for her team, keeping an eye out for enemies, traps, and other dangers. In fights, she is cautious and practical, preferring to stay mobile and out of sight. She sneaks in for a finishing blow when victory is certain. Recall Knowledge - Humanoid (Society): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Pathfinder Field Agent Source Character Guide pg. 126 2.0 Perception +11; low-light vision, trap finder Languages Common Skills Acrobatics +12, Arcana +8, Athletics +6, Deception +6, Diplomacy +6, Pathfinder Society Lore +11, Stealth +12, Survival +8, Thievery +10 Str +0 Dex +4 Con +3 Int +2 Wis +2 Cha +0 Scout's Warning Reaction Trigger The field agent is about to roll a Perception check for initiative. Effect The field agent audibly or visually warns their allies of imminent danger. This ability gains the auditory trait if the warning is audible, and the visual trait if the warning is visual. Any ally who is able to hear the agent (if the warning is audible) or see the agent (if the warning is visual) gains a +1 circumstance bonus to their initiative roll. Items Comprehension Elixir, minor healing potion , Infiltrator's Elixir, Rapier, Shortbow (20 arrows), Studded Leather Armor, Thieves' Tools --- AC 21 (22 against traps) Fort +10 Ref +13 Will +11 +1 circumstance to all saves vs. traps HP 60 Deny Advantage The field agent isn't flat-footed to flanking, hidden, or undetected creatures of 4th level or lower, or to creatures of 4th-level or lower using surprise attack. --- Speed 25 feet Melee Single Action rapier +12 (deadly 1d8, Disarm), Damage 1d6+6 piercing Ranged Single Action shortbow +12 (deadly d10, range increment 60 feet, reload 0), Damage 1d6+2 piercing Mobility When the field agent takes a Stride action to move half their Speed or less, that movement does not trigger reactions. Sneak Attack 2d6 Surprise Attack On the first round of combat, any creatures that haven't acted yet are flat-footed to the field agent. Trap Finder The field agent has an intuitive sense that alerts them to the dangers and presence of traps. They gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if they aren't Searching, they still get a check to find traps. They can disable traps that require a proficiency rank of master in Thievery. Siora Qinndove An heir to two wealthy families, Siora grew up used to getting her own way. But Siora wound up becoming interested in archeology and the act of investigating every nook and cranny of an unknown artifact. Seeing that lost cities were hard to find and often contained things money couldn't buy, Siora joined the Pathfinder Society, loaded down with every piece of expensive gear that could prove useful. ",
+ "trait": [
+  "Elf",
+  "Human",
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Elf](/Traits.aspx?ID=58), [Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Elf",
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=973",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 2
+}

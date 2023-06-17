@@ -1,0 +1,114 @@
+{
+ "ac": 27,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Shield Block",
+  "Troop Defenses",
+  "Aim as One",
+  "Form Up",
+  "Raise Shields",
+  "Strike as One",
+  "Troop Movement"
+ ],
+ "creature_family": "Terra-Cotta Warrior",
+ "creature_family_markdown": "[Terra-Cotta Warrior](/MonsterFamilies.aspx?ID=268)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 240,
+ "hp_raw": "240 (16 squares)",
+ "id": "creature-1333",
+ "immunity": [
+  "death  effects",
+  "diseased",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [diseased](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can't speak any language)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Terra-Cotta Garrison](/Monsters.aspx?ID=1333)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese constructed warriors can work together as a trained group to repel intruders.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 31\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 29\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 26\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Terra-Cotta Garrison](/Monsters.aspx?ID=1333)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 263</row>\n\n**Perception** +22\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +26, [Intimidation](/Skills.aspx?ID=7) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +6\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 (29 with shields raised)\r\n\r\n**Fort** +25 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 240\r\n(16 squares)\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [diseased](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\narea damage 15, bludgeoning 10, [splash](/Traits.aspx?ID=150) damage 8\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)**<actions string=\"Reaction\" /> <br />**[Shield Block](/MonsterAbilities.aspx?ID=32)**<actions string=\"Reaction\" /> <br />**[Troop Defenses](/MonsterAbilities.aspx?ID=44)** \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet; troop movement\n\n**Aim as One** <actions string=\"Two Actions\" />  The troop launches a ranged attack in the form of a 10-foot burst within 100 feet that deals 3d8+11 damage (DC 25 [basic](/Rules.aspx?ID=329) Reflex save). When the garrison is reduced to 8 or fewer squares, this area decreases to a 5-foot burst.\r\n\r\n**[Form Up](/MonsterAbilities.aspx?ID=43)** <actions string=\"Single Action\" />  \r\n\r\n**Raise Shields** <actions string=\"Single Action\" />  The troop raises steel shields, with the effects of [Raise a Shield](/Actions.aspx?ID=98).\r\n\r\n**Strike as One** <actions string=\"Single Action to Three Actions\" />  **Frequency** once per round; **Effect** The garrison makes a melee attack against each enemy within 5 feet (DC 30 [basic](/Rules.aspx?ID=329) Reflex save). The damage depends on the number of actions. <br /><actions string=\"Single Action\" /> 2d8 slashing damage <br /><actions string=\"Two Actions\" /> 3d8+10 slashing damage <br /><actions string=\"Three Actions\" /> 4d8+13 slashing damage\r\n\r\n**Troop Movement**   Whenever a troop Strides, it first [Forms Up](/MonsterAbilities.aspx?ID=43) as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square enters difficult terrain, the extra movement cost applies to the whole troop.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-268\" />",
+ "name": "Terra-Cotta Garrison",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 263</row>\r\n\r\n**Creature Family** [Terra-Cotta Warrior](/MonsterFamilies.aspx?ID=268)\r\n\r\n<row gap=\"medium\">\r\n**HP** 240 (16 squares)\r\n\r\n**AC** 27\r\n\r\n**Fort** +25\r\n\r\n**Ref** +19\r\n\r\n**Will** +20\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese constructed warriors can work together as a trained group to repel intruders.\r\n</summary>",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +26",
+  "Intimidation +23"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +26, [Intimidation](/Skills.aspx?ID=7) +23",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 263"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 263</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet; troop movement",
+ "speed_raw": "25 feet; troop movement",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "These constructed warriors can work together as a trained group to repel intruders.",
+ "summary_markdown": "These constructed warriors can work together as a trained group to repel intruders.",
+ "text": " Terra-Cotta Garrison These constructed warriors can work together as a trained group to repel intruders. Recall Knowledge - Construct (Arcana, Crafting): DC 31 Unspecific Lore : DC 29 Specific Lore : DC 26 Terra-Cotta Garrison Source Bestiary 3 pg. 263 Perception +22 Languages Common; (can't speak any language) Skills Athletics +26, Intimidation +23 Str +7 Dex +2 Con +6 Int +2 Wis +3 Cha +4 --- AC 27 (29 with shields raised) Fort +25 Ref +19 Will +20 HP 240 (16 squares) Immunities death effects, diseased, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Weaknesses area damage 15, bludgeoning 10, splash damage 8 Attack of Opportunity Reaction Shield Block Reaction Troop Defenses --- Speed 25 feet; troop movement Aim as One Two Actions The troop launches a ranged attack in the form of a 10-foot burst within 100 feet that deals 3d8+11 damage (DC 25 basic Reflex save). When the garrison is reduced to 8 or fewer squares, this area decreases to a 5-foot burst. Form Up Single Action Raise Shields Single Action The troop raises steel shields, with the effects of Raise a Shield. Strike as One Single Action to Three Actions Frequency once per round; Effect The garrison makes a melee attack against each enemy within 5 feet (DC 30 basic Reflex save). The damage depends on the number of actions. Single Action 2d8 slashing damage Two Actions 3d8+10 slashing damage Three Actions 4d8+13 slashing damage Troop Movement Whenever a troop Strides, it first Forms Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to its Speed. This works just like a Gargantuan creature moving; for instance, if any square enters difficult terrain, the extra movement cost applies to the whole troop. ",
+ "trait": [
+  "Construct",
+  "Troop",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Troop](/Traits.aspx?ID=367)",
+ "trait_raw": [
+  "Construct",
+  "Troop"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1333",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "area": 15,
+  "bludgeoning": 10
+ },
+ "weakness_markdown": "area damage 15, bludgeoning 10, [splash](/Traits.aspx?ID=150) damage 8",
+ "weakness_raw": "area damage 15, bludgeoning 10,  splash  damage 8",
+ "will_save": 20,
+ "wisdom": 3
+}

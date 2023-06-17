@@ -1,0 +1,126 @@
+{
+ "ac": 43,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 6,
+ "creature_ability": [
+  "Planar Acclimation",
+  "Splintering Death",
+  "Lightning-Struck Curse",
+  "Sard Venom",
+  "Thorn Volley",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 35,
+ "hp": 400,
+ "hp_raw": "400",
+ "id": "creature-792",
+ "image": [
+  "/Images/Monsters/Sard.png"
+ ],
+ "immunity": [
+  "electricity"
+ ],
+ "immunity_markdown": "electricity",
+ "intelligence": 2,
+ "language": [
+  "Aklo",
+  "Arboreal",
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 19,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Sard](/Monsters.aspx?ID=792)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn immense, gnarled, tree awoken with raw, primal power by one of the fey Eldest of the First World, this monster—one of the legendary Tane—skitters on huge, spidery roots and thrashes its branches as fiery lightning courses within its blackened bark, a living manifestation of the violent clash between ancient forest and stormy sky.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 44\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 42\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 39\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Sard.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 19\">[Sard](/Monsters.aspx?ID=792)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n<trait label=\"Tane\" url=\"/Traits.aspx?ID=312\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 231 <sup>2.0</sup></row>\n\n**Perception** +35; [low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense 120 feet](/MonsterAbilities.aspx?ID=40)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +33, [Athletics](/Skills.aspx?ID=3) +37, [Nature](/Skills.aspx?ID=10) +31\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +6\r\n\r\n**Con** +6\r\n\r\n**Int** +2\r\n\r\n**Wis** +6\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Planar Acclimation** The sard treats the plane it is located on as its home plane.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 43 \r\n\r\n**Fort** +35 \r\n\r\n**Ref** +31 \r\n\r\n**Will** +33 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 400\n\n**Immunities**\r\nelectricity\r\n\r\n**Resistances**\r\nfire 15, physical 15 (except slashing)\r\n\r\n**Weaknesses**\r\ncold iron 15\r\n\r\n**Splintering Death** ([electricity](/Traits.aspx?ID=56), [evocation](/Traits.aspx?ID=65), [primal](/Traits.aspx?ID=134)) When the sard dies, its body explodes in a 30-foot emanation. All creatures in the area take 10d6 electricity damage and 10d6 piercing damage (DC 43 basic Reflex save). Any creature that takes piercing damage is also exposed to sard venom.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntrunk +37 ([fatal d12](/Traits.aspx?ID=178), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d6+18 bludgeoning plus 3d6 persistent electricity\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbranch +37 ([Agile](/Traits.aspx?ID=170), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+18 piercing plus sard venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nroot +37 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d6+18 bludgeoning plus 1d6 electricity\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthorn +35 ([deadly d10](/Traits.aspx?ID=174), [Primal](/Traits.aspx?ID=134), [Propulsive](/Traits.aspx?ID=191), [range 180 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d4+16 piercing plus sard venom\r\n\r\n**Primal Innate Spells** DC 41\r\n- **7th**\r\n[Chain Lightning](/Spells.aspx?ID=33) (×3)\r\n- **8th**\r\n[Punishing Winds](/Spells.aspx?ID=240), [Tree Stride](/Spells.aspx?ID=343)\r\n- **9th**\r\n[Storm of Vengeance](/Spells.aspx?ID=313)\r\n\r\n**Rituals** DC 39\r\n\r\n- **8th**\r\n[Control Weather](/Rituals.aspx?ID=9) (doesn't require secondary casters)\r\n\r\n**Lightning-Struck Curse** <actions string=\"Reaction\" /> ([Curse](/Traits.aspx?ID=38), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)) **Trigger** The sard is about to damage a creature that has electricity resistance; **Effect** An instant before the target takes the electricity damage from the triggering event, the sard's electrical sparks glow red. The target must succeed at a DC 41 Will save or lose any electricity resistance it has until this curse is lifted.\r\n\r\n**Sard Venom**  ([Poison](/Traits.aspx?ID=126), [Primal](/Traits.aspx?ID=134), [Virulent](/Traits.aspx?ID=162)) **Saving Throw** DC 41 Fortitude; **Maximum Duration** 10 rounds; **Stage 1** 2d6 electricity damage, 2d6 poison damage, and [clumsy 2](/Conditions.aspx?ID=3) (1 round); **Stage 2** 3d6 electricity damage, 3d6 poison damage, clumsy 2, and [slowed 1](/Conditions.aspx?ID=35) (1 round); **Stage 3** 4d6 electricity damage, 4d6 poison damage, clumsy 2, and slowed 2 (1 round)\r\n\r\n**Thorn Volley** <actions string=\"Two Actions\" />  The sard makes up to four thorn Strikes, each against a different target. The sard's multiple attack penalty doesn't increase until after all the attacks have been made.\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Huge or smaller, root, DC 39\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">The Witch-Tree</title>\r\n\r\nThe first sard was created when the Eldest known as [the Green Mother](/Deities.aspx?ID=93) beckoned the sky's rage to strike the eldest oak in her domain, transforming the tree into a living siege engine. This original sard still stands sentinel in the Hanging Bower of the [First World](/Planes.aspx?ID=10).\r\n</aside>",
+ "name": "Sard",
+ "npc": false,
+ "perception": 35,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 31,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 15,
+  "fire": 15,
+  "physical": 15,
+  "piercing": 15
+ },
+ "resistance_markdown": "fire 15, physical 15 (except slashing)",
+ "resistance_raw": "fire 15, physical 15 (except slashing)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n<trait label=\"Tane\" url=\"/Traits.aspx?ID=312\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 231 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 400\r\n\r\n**AC** 43\r\n\r\n**Fort** +35\r\n\r\n**Ref** +31\r\n\r\n**Will** +33\r\n\r\n**Perception** +35\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn immense, gnarled, tree awoken with raw, primal power by one of the fey Eldest of the First World, this monster—one of the legendary Tane—skitters …\r\n</summary>",
+ "sense": " low-light vision ,  tremorsense 120 feet ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense 120 feet](/MonsterAbilities.aspx?ID=40)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +33",
+  "Athletics +37",
+  "Nature +31"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +33, [Athletics](/Skills.aspx?ID=3) +37, [Nature](/Skills.aspx?ID=10) +31",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 231"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 231 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 25,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 25 feet",
+ "speed_raw": "40 feet, climb 25 feet",
+ "spell": [
+  "Storm of Vengeance",
+  "Punishing Winds",
+  "Tree Stride",
+  "Chain Lightning"
+ ],
+ "spell_markdown": "[Chain Lightning](/Spells.aspx?ID=33), [Punishing Winds](/Spells.aspx?ID=240), [Storm of Vengeance](/Spells.aspx?ID=313), [Tree Stride](/Spells.aspx?ID=343)",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "An immense, gnarled, tree awoken with raw, primal power by one of the fey Eldest of the First World, this monster—one of the legendary Tane—skitters …",
+ "summary_markdown": "An immense, gnarled, tree awoken with raw, primal power by one of the fey Eldest of the First World, this monster—one of the legendary Tane—skitters …",
+ "text": " Sard An immense, gnarled, tree awoken with raw, primal power by one of the fey Eldest of the First World, this monster—one of the legendary Tane—skitters on huge, spidery roots and thrashes its branches as fiery lightning courses within its blackened bark, a living manifestation of the violent clash between ancient forest and stormy sky. Recall Knowledge - Plant (Nature): DC 44 Unspecific Lore : DC 42 Specific Lore : DC 39 Sard Source Bestiary 2 pg. 231 2.0 Perception +35; low-light vision, tremorsense 120 feet Languages Aklo, Arboreal, Common, Sylvan Skills Acrobatics +33, Athletics +37, Nature +31 Str +10 Dex +6 Con +6 Int +2 Wis +6 Cha +6 Planar Acclimation The sard treats the plane it is located on as its home plane. --- AC 43 Fort +35 Ref +31 Will +33 +1 status to all saves vs. magic HP 400 Immunities electricity Resistances fire 15, physical 15 (except slashing) Weaknesses cold iron 15 Splintering Death (electricity, evocation, primal) When the sard dies, its body explodes in a 30-foot emanation. All creatures in the area take 10d6 electricity damage and 10d6 piercing damage (DC 43 basic Reflex save). Any creature that takes piercing damage is also exposed to sard venom. --- Speed 40 feet, climb 25 feet Melee Single Action trunk +37 (fatal d12, reach 20 feet), Damage 4d6+18 bludgeoning plus 3d6 persistent electricity Melee Single Action branch +37 (Agile, reach 20 feet), Damage 4d8+18 piercing plus sard venom Melee Single Action root +37 (reach 10 feet), Damage 4d6+18 bludgeoning plus 1d6 electricity Ranged Single Action thorn +35 (deadly d10, Primal, Propulsive, range 180 feet), Damage 4d4+16 piercing plus sard venom Primal Innate Spells DC 41 - 7th Chain Lightning (×3) - 8th Punishing Winds, Tree Stride - 9th Storm of Vengeance Rituals DC 39 - 8th Control Weather (doesn't require secondary casters) Lightning-Struck Curse Reaction (Curse, Necromancy, Primal) Trigger The sard is about to damage a creature that has electricity resistance; Effect An instant before the target takes the electricity damage from the triggering event, the sard's electrical sparks glow red. The target must succeed at a DC 41 Will save or lose any electricity resistance it has until this curse is lifted. Sard Venom (Poison, Primal, Virulent) Saving Throw DC 41 Fortitude; Maximum Duration 10 rounds; Stage 1 2d6 electricity damage, 2d6 poison damage, and clumsy 2 (1 round); Stage 2 3d6 electricity damage, 3d6 poison damage, clumsy 2, and slowed 1 (1 round); Stage 3 4d6 electricity damage, 4d6 poison damage, clumsy 2, and slowed 2 (1 round) Thorn Volley Two Actions The sard makes up to four thorn Strikes, each against a different target. The sard's multiple attack penalty doesn't increase until after all the attacks have been made. Trample Three Actions Huge or smaller, root, DC 39 The Witch-Tree The first sard was created when the Eldest known as the Green Mother beckoned the sky's rage to strike the eldest oak in her domain, transforming the tree into a living siege engine. This original sard still stands sentinel in the Hanging Bower of the First World. ",
+ "trait": [
+  "Electricity",
+  "Plant",
+  "Rare",
+  "Tane",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Electricity](/Traits.aspx?ID=56), [Plant](/Traits.aspx?ID=125), [Rare](/Traits.aspx?ID=137), [Tane](/Traits.aspx?ID=312)",
+ "trait_raw": [
+  "Electricity",
+  "Plant",
+  "Rare",
+  "Tane"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=792",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold_iron": 15
+ },
+ "weakness_markdown": "cold iron 15",
+ "weakness_raw": "cold iron 15",
+ "will_save": 33,
+ "wisdom": 6
+}

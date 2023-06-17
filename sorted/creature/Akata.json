@@ -1,0 +1,106 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Hibernation",
+  "No Hearing",
+  "No Breath",
+  "Salt Water Vulnerability",
+  "Void Death"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 15,
+ "hp_raw": "15",
+ "id": "creature-541",
+ "image": [
+  "/Images/Monsters/Akata.png"
+ ],
+ "immunity": [
+  "disease"
+ ],
+ "immunity_markdown": "disease",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Akata](/Monsters.aspx?ID=541)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a strangely silent beast, as it lacks the lungs and vocal chords necessary to vocalize. It also lacks ears, but it has heightened visual and olfactory senses.\n\nWhen food is scarce, an akata secretes a resin from its pores that forms into a sturdy cocoon of pale green crystal—the skymetal noqual. An akata can hibernate in this cocoon without needing to eat or drink for centuries, though it retains a rudimentary sense of its surroundings and can break out in only a few minutes' time. These cocoons allow the creatures to travel through the void of space, seeking new worlds where they can infect suitable humanoid hosts with their larval young. Once a victim succumbs to this infection, the offspring fight among themselves until one proves the strongest. The surviving akata then animates the corpse—now a [void zombie](/Monsters.aspx?ID=855)—which shambles about of its own accord.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Akata.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Akata](/Monsters.aspx?ID=541)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 13 <sup>2.0</sup></row>\n\n**Perception** +6; [darkvision](/MonsterAbilities.aspx?ID=12), no hearing, [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +7, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Hibernation** After 3 or more days without eating, an akata can secrete resin that encases it in a noqual cocoon. The cocoon has Hardness 9, 40 HP, and a Broken Threshold of 18. It has resistance 5 to damage from magical sources. As long as the cocoon remains intact, the akata can't be harmed, and it doesn't need to eat or drink. While inside the cocoon, the akata gains [lifesense 30 feet](/MonsterAbilities.aspx?ID=21). The akata remains in a state of hibernation until it is exposed to extreme heat or senses a living creature, at which point it can burst free of its cocoon in 1d4 minutes.<br />**No Hearing** An akata has no auditory senses. It is immune to [auditory](/Traits.aspx?ID=16) effects, automatically critically fails Perception checks that require it to hear, and takes a –2 status penalty to Perception checks (but not initiative rolls) that involve sound but also rely on other senses.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 15\n\n**Immunities**\r\ndisease\r\n\r\n**Resistances**\r\nfire 5, poison 5\r\n\r\n**Weaknesses**\r\nsalt water 5\r\n\r\n**No Breath** An akata doesn't breathe and is immune to effects that require breathing (such as an [inhaled](/Traits.aspx?ID=96) poison).<br />**Salt Water Vulnerability** Salt water acts as an extremely strong acid to an akata. Full immersion in salt water deals 4d6 acid damage per round.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +9 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+4 piercing plus void death\n\n**Void Death**  ([Disease](/Traits.aspx?ID=46)) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease; **Saving Throw** DC 17 Fortitude; **Stage 1** carrier with no ill effect 1 (1 day); **Stage 2** [drained 1](/Conditions.aspx?ID=10) (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** drained 2 and [fatigued](/Conditions.aspx?ID=15) (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead and corpse rises as a void zombie in 2d4 hours\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Noqual Cocoons</title>\r\n\r\nAn akata's noqual cocoon, despite its crystalline appearance, is in fact made of a rare skymetal with a glassy green sheen. Noqual is as easy to work as iron but much lighter, and it is valued for its magic-resistant qualities, but the noqual from an akata's cocoon is very low quality and can't be used as a crafting material.\r\n</aside>",
+ "name": "Akata",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 5,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "fire": 5,
+  "poison": 5
+ },
+ "resistance_markdown": "fire 5, poison 5",
+ "resistance_raw": "fire 5, poison 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 13 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 15\r\n\r\n**AC** 16\r\n\r\n**Fort** +9\r\n\r\n**Ref** +5\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a …\r\n</summary>",
+ "sense": " darkvision , no hearing,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), no hearing, [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +7",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +7, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 13"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 13 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 15,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 15 feet",
+ "speed_raw": "30 feet, climb 15 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "An akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a …",
+ "summary_markdown": "An akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a …",
+ "text": " Akata An akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing eyes, a pair of thin tails, and a mane of writhing tentacles. It is a strangely silent beast, as it lacks the lungs and vocal chords necessary to vocalize. It also lacks ears, but it has heightened visual and olfactory senses. When food is scarce, an akata secretes a resin from its pores that forms into a sturdy cocoon of pale green crystal—the skymetal noqual. An akata can hibernate in this cocoon without needing to eat or drink for centuries, though it retains a rudimentary sense of its surroundings and can break out in only a few minutes' time. These cocoons allow the creatures to travel through the void of space, seeking new worlds where they can infect suitable humanoid hosts with their larval young. Once a victim succumbs to this infection, the offspring fight among themselves until one proves the strongest. The surviving akata then animates the corpse—now a void zombie—which shambles about of its own accord. Recall Knowledge - Aberration (Occultism): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Akata Source Bestiary 2 pg. 13 2.0 Perception +6; darkvision, no hearing, scent (imprecise) 30 feet Languages Skills Acrobatics +7, Athletics +7, Stealth +7 Str +4 Dex +2 Con +4 Int -4 Wis +3 Cha +0 Hibernation After 3 or more days without eating, an akata can secrete resin that encases it in a noqual cocoon. The cocoon has Hardness 9, 40 HP, and a Broken Threshold of 18. It has resistance 5 to damage from magical sources. As long as the cocoon remains intact, the akata can't be harmed, and it doesn't need to eat or drink. While inside the cocoon, the akata gains lifesense 30 feet. The akata remains in a state of hibernation until it is exposed to extreme heat or senses a living creature, at which point it can burst free of its cocoon in 1d4 minutes. No Hearing An akata has no auditory senses. It is immune to auditory effects, automatically critically fails Perception checks that require it to hear, and takes a –2 status penalty to Perception checks (but not initiative rolls) that involve sound but also rely on other senses. --- AC 16 Fort +9 Ref +5 Will +6 HP 15 Immunities disease Resistances fire 5, poison 5 Weaknesses salt water 5 No Breath An akata doesn't breathe and is immune to effects that require breathing (such as an inhaled poison). Salt Water Vulnerability Salt water acts as an extremely strong acid to an akata. Full immersion in salt water deals 4d6 acid damage per round. --- Speed 30 feet, climb 15 feet Melee Single Action jaws +9 (Agile), Damage 1d6+4 piercing plus void death Void Death (Disease) An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease; Saving Throw DC 17 Fortitude; Stage 1 carrier with no ill effect 1 (1 day); Stage 2 drained 1 (1 day); Stage 3 as stage 2 (1 day); Stage 4 drained 2 and fatigued (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead and corpse rises as a void zombie in 2d4 hours Noqual Cocoons An akata's noqual cocoon, despite its crystalline appearance, is in fact made of a rare skymetal with a glassy green sheen. Noqual is as easy to work as iron but much lighter, and it is valued for its magic-resistant qualities, but the noqual from an akata's cocoon is very low quality and can't be used as a crafting material. ",
+ "trait": [
+  "Aberration",
+  "Rare",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Aberration",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=541",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "weakness_markdown": "salt water 5",
+ "weakness_raw": "salt water 5",
+ "will_save": 6,
+ "wisdom": 3
+}

@@ -1,0 +1,40 @@
+{
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 30  Diplomacy  (master) to talk the spirit out of gouging its eyes or DC 32  Religion  (trained) to ease the spirit's sorrows",
+ "exclude_from_search": false,
+ "hazard_type": "Haunt",
+ "id": "hazard-146",
+ "level": 10,
+ "markdown": "<title level=\"1\" right=\"Hazard 10\" pfs=\"\">[Blood Tears](/Hazards.aspx?ID=146)</title>\r\n\r\n<traits>\r\n<trait label=\"Haunt\" url=\"/Traits.aspx?ID=88\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 66</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA wailing spirit appears and gouges their own eyes. As they do, blood seeps from the eyes of those who witness the act, obscuring their vision.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 32 (master) to notice your vision tint red\r\n\r\n**Disable**\r\nDC 30 [Diplomacy](/Skills.aspx?ID=6) (master) to talk the spirit out of gouging its eyes or DC 32 [Religion](/Skills.aspx?ID=13) (trained) to ease the spirit's sorrows\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Weep Blood** <actions string=\"Reaction\" /> ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) **Trigger** A creature approaches within 15 feet; **Effect** Blood seeps from the eyes of all creatures within 30 feet, dealing [persistent bleed damage](/Conditions.aspx?ID=29). Each creature in the area must attempt a DC 33 Fortitude save.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes 2d8+3 persistent bleed damage and is [dazzled](/Conditions.aspx?ID=7) for 1 round.<br />\r\n**Failure** The creature takes 4d8+6 persistent bleed damage and is dazzled for as long as the persistent damage lasts.<br />\r\n**Critical Failure** The creature takes 8d8+12 persistent bleed damage and is [blinded](/Conditions.aspx?ID=1) for as long as the persistent damage lasts.\n\n---\r\n**Reset**\r\n1 day",
+ "name": "Blood Tears",
+ "rarity": "common",
+ "release_date": "2022-04-27",
+ "reset": "1 day",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Haunt\" url=\"/Traits.aspx?ID=88\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 66</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA wailing spirit appears and gouges their own eyes. As they do, blood seeps from the eyes of those who witness the act, obscuring their vision.\r\n</summary>",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 66"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 66</row>",
+ "speed": {},
+ "stealth": "DC 32 (master) to notice your vision tint red",
+ "summary": "A wailing spirit appears and gouges their own eyes. As they do, blood seeps from the eyes of those who witness the act, obscuring their vision.",
+ "summary_markdown": "A wailing spirit appears and gouges their own eyes. As they do, blood seeps from the eyes of those who witness the act, obscuring their vision.",
+ "text": " Blood Tears Source Book of the Dead pg. 66 Complexity Simple A wailing spirit appears and gouges their own eyes. As they do, blood seeps from the eyes of those who witness the act, obscuring their vision. --- Stealth DC 32 (master) to notice your vision tint red Disable DC 30 Diplomacy (master) to talk the spirit out of gouging its eyes or DC 32 Religion (trained) to ease the spirit's sorrows Weep Blood Reaction (divine, necromancy) Trigger A creature approaches within 15 feet; Effect Blood seeps from the eyes of all creatures within 30 feet, dealing persistent bleed damage. Each creature in the area must attempt a DC 33 Fortitude save. Critical Success The creature is unaffected. Success The creature takes 2d8+3 persistent bleed damage and is dazzled for 1 round. Failure The creature takes 4d8+6 persistent bleed damage and is dazzled for as long as the persistent damage lasts. Critical Failure The creature takes 8d8+12 persistent bleed damage and is blinded for as long as the persistent damage lasts. --- Reset 1 day",
+ "trait": [
+  "Haunt"
+ ],
+ "trait_markdown": "[Haunt](/Traits.aspx?ID=88)",
+ "trait_raw": [
+  "Haunt"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=146",
+ "weakness": {}
+}

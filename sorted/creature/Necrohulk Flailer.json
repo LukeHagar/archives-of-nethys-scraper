@@ -1,0 +1,111 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Alchemical Cartridge",
+  "Alchemical Amplification",
+  "Constrict",
+  "Tentacle Storm"
+ ],
+ "creature_family": "Necrohulk",
+ "creature_family_markdown": "[Necrohulk](/MonsterFamilies.aspx?ID=328)",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 295,
+ "hp_raw": "295 ( negative healing )",
+ "id": "creature-2364",
+ "image": [
+  "/Images/Monsters/Necrohulk_Flailer.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Necrohulk Flailer](/Monsters.aspx?ID=2364)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAdditional limbs, failing tentacles, and rubbery bodies are common among Mana Wastes mutants, and aspiring necrohulk creators like to combine flesh from more than one of these kinds of mutants to create gangly but powerful warriors.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Necrohulk_Flailer.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Necrohulk Flailer](/Monsters.aspx?ID=2364)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 86</row>\n\n**Perception** +23; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +8\r\n\r\n**Con** +5\r\n\r\n**Int** -4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 295\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\r\n, regeneration 15 (deactivated by [acid](/Traits.aspx?ID=3))\r\n\r\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\nslashing 15\r\n\r\n**Alchemical Cartridge** ([alchemical](/Traits.aspx?ID=6)) Critical hits rupture the necrohulk's alchemical cartridge. The first time the necrohulk takes a critical hit, it loses its regeneration. The second time it takes a critical hit, it takes 15 [persistent acid damage](/Conditions.aspx?ID=29) that it can't heal unless the cartridge is stitched back into place.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +27 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+13 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +26 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+13 bludgeoning\n\n**Alchemical Amplification** <actions string=\"Free Action\" /> ([Alchemical](/Traits.aspx?ID=6)) **Frequency** once per hour; **Effect** The necrohulk draws upon alchemical stores to push its body into overdrive. It becomes [quickened](/Conditions.aspx?ID=32) for 1d4 rounds. It can use this extra action to Step, Stride, or Strike.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)**   6d6 bludgeoning, DC 32\r\n\r\n**Tentacle Storm** <actions string=\"Two Actions\" />  The necrohulk flailer makes up to four tentacle Strikes, each against a different target. These attacks count toward its multiple attack penalty, but the penalty doesn't increase until after the necrohulk makes all of these attacks.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Eerie Infiltrators</title>\r\n\r\nNecrohulk flailers can fit into shockingly small spaces and are often commanded to wriggle up storm drains or through narrow crevices to attack foes. As they don't possess much independent initiative, however, necrohulk flailers can get confused or stuck, posing a danger to anyone who happens to come across them, even months or years later.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-328\" />",
+ "name": "Necrohulk Flailer",
+ "npc": false,
+ "perception": 23,
+ "rarity": "uncommon",
+ "reflex_save": 26,
+ "release_date": "2022-11-16",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 86</row>\r\n\r\n**Creature Family** [Necrohulk](/MonsterFamilies.aspx?ID=328)\r\n\r\n<row gap=\"medium\">\r\n**HP** 295 ( negative healing )\r\n\r\n**AC** 32\r\n\r\n**Fort** +23\r\n\r\n**Ref** +26\r\n\r\n**Will** +20\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAdditional limbs, failing tentacles, and rubbery bodies are common among Mana Wastes mutants, and aspiring necrohulk creators like to combine flesh …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +27",
+  "Athletics +26"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +27, [Athletics](/Skills.aspx?ID=3) +26",
+ "source": [
+  "Pathfinder #185: A Taste of Ashes"
+ ],
+ "source_raw": [
+  "Pathfinder #185: A Taste of Ashes pg. 86"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 86</row>",
+ "speed": {
+  "climb": 25,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 25 feet",
+ "speed_raw": "30 feet, climb 25 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Additional limbs, failing tentacles, and rubbery bodies are common among Mana Wastes mutants, and aspiring necrohulk creators like to combine flesh …",
+ "summary_markdown": "Additional limbs, failing tentacles, and rubbery bodies are common among Mana Wastes mutants, and aspiring necrohulk creators like to combine flesh …",
+ "text": " Necrohulk Flailer Additional limbs, failing tentacles, and rubbery bodies are common among Mana Wastes mutants, and aspiring necrohulk creators like to combine flesh from more than one of these kinds of mutants to create gangly but powerful warriors. Recall Knowledge - Undead (Religion): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Necrohulk Flailer Source Pathfinder #185: A Taste of Ashes pg. 86 Perception +23; darkvision Languages Common, Necril Skills Acrobatics +27, Athletics +26 Str +7 Dex +8 Con +5 Int -4 Wis +4 Cha +0 --- AC 32 Fort +23 Ref +26 Will +20 HP 295 (negative healing) , regeneration 15 (deactivated by acid) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses slashing 15 Alchemical Cartridge (alchemical) Critical hits rupture the necrohulk's alchemical cartridge. The first time the necrohulk takes a critical hit, it loses its regeneration. The second time it takes a critical hit, it takes 15 persistent acid damage that it can't heal unless the cartridge is stitched back into place. --- Speed 30 feet, climb 25 feet Melee Single Action tentacle +27 (Agile, reach 15 feet), Damage 3d8+13 bludgeoning plus Grab Melee Single Action fist +26 (reach 10 feet), Damage 3d12+13 bludgeoning Alchemical Amplification Free Action (Alchemical) Frequency once per hour; Effect The necrohulk draws upon alchemical stores to push its body into overdrive. It becomes quickened for 1d4 rounds. It can use this extra action to Step, Stride, or Strike. Constrict 6d6 bludgeoning, DC 32 Tentacle Storm Two Actions The necrohulk flailer makes up to four tentacle Strikes, each against a different target. These attacks count toward its multiple attack penalty, but the penalty doesn't increase until after the necrohulk makes all of these attacks. Eerie Infiltrators Necrohulk flailers can fit into shockingly small spaces and are often commanded to wriggle up storm drains or through narrow crevices to attack foes. As they don't possess much independent initiative, however, necrohulk flailers can get confused or stuck, posing a danger to anyone who happens to come across them, even months or years later. ",
+ "trait": [
+  "Mutant",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Mutant](/Traits.aspx?ID=229), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mutant",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2364",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "slashing": 15
+ },
+ "weakness_markdown": "slashing 15",
+ "weakness_raw": "slashing 15",
+ "will_save": 20,
+ "wisdom": 4
+}

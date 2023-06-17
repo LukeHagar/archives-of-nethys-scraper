@@ -1,0 +1,111 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 2,
+ "creature_ability": [
+  "Recall Reflection",
+  "Shell Block",
+  "Freeze Shell",
+  "Hold Still"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-1217",
+ "image": [
+  "/Images/Monsters/Ledalusca.png"
+ ],
+ "immunity": [
+  "cold",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "cold, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 0,
+ "language": [
+  "Aquan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Ledalusca](/Monsters.aspx?ID=1217)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLedaluscas are reflective water elementals that can bring forth images previously reflected on their surfaces and wholly freeze themselves in the shapes of what they reflected. They explore and protect the calmest boundaries of the icy regions of the [Plane of Water](/Planes.aspx?ID=7), where ice forms in shiny, flawless sheets.\n\n Insatiably curious, their eagerness propels some ledaluscas to pickpocket interesting-looking objects to play with. Others travel to different planes to locate, observe, and reflect a wider variety of creatures than those on their home plane. They pretend to be ice sculptures or still pools for this purpose, especially if they can find a spot in a high-traffic area to inhabit. Despite their perfect mimicry, ledaluscas are unable to create an appearance from scratch, nor can they adjust the appearance they take on or combine elements of different reflections. Some of them find this disheartening, like artists vexed by a lack of creativity.\n\n One of the strangest encounters a ledalusca can experience is with a creature or object that has no reflection. A ledalusca can see a [vampire](/MonsterFamilies.aspx?ID=97), for example, but is unable to reproduce its image. For a creature that effectively has an unlimited memory for images, this proves utterly confusing. The vague memory of the encounter sticks in the ledalusca's mind like a splintering a humanoid's finger.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Ledalusca.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Ledalusca](/Monsters.aspx?ID=1217)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 159</row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +5, [Stealth](/Skills.aspx?ID=15) +9, [Thievery](/Skills.aspx?ID=17) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Recall Reflection** ([illusion](/Traits.aspx?ID=92), [primal](/Traits.aspx?ID=134)) A ledalusca can recall and replay any reflection ever cast on its surface, although it must still [Seek](/Actions.aspx?ID=84) to consciously notice fine or significant details.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 40\n\n**Immunities**\r\ncold, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n**Weaknesses**\r\nfire 5\r\n\r\n**Shell Block** <actions string=\"Reaction\" /> **Trigger** The ledalusca takes physical damage from an attack; **Requirements** The ledalusca's shell is frozen (see Freeze Shell); **Effect** The ledalusca angles their shell to absorb the blow, gaining resistance 5 to the triggering damage. If they takes bludgeoning or fire damage after applying this resistance, their frozen shell shatters until they freezes a new one.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwave +10,\r\n**Damage** 1d6+4 bludgeoning plus [Push](/MonsterAbilities.aspx?ID=25) 5 feet\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nice shard +9 ([deadly d6](/Traits.aspx?ID=174), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+4 piercing plus 1d4 cold\n\n**Freeze Shell** <actions string=\"Single Action\" /> ([Cold](/Traits.aspx?ID=27), [Manipulate](/Traits.aspx?ID=104)) The ledalusca freezes their surface into a translucent, faintly colored ice sculpture matching the mirror image of a Medium creature or object they have seen before. While in this form, instead of a wave, they have the following Strike: <br />**Melee** <actions string=\"Single Action\" /> ice shell +10, **Damage** 1d6+4 physical plus 1d4 cold <br />The physical damage is a type that matches the new shape of the ledalusca's frozen shell. The ledalusca can revert to their liquid form by taking this action again.\r\n\r\n**Hold Still** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) Until the next time they act, the ledalusca appears to be either an ice sculpture (if under the effects of Freeze Shell) or a pool of still water (if not). They have an automatic result of 28 on [Deception](/Skills.aspx?ID=5) checks and DCs to pass as what they appear to be.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Treasured Reflections</title>\r\n\r\nA ledalusca must bring forth an old reflection to closely observe its details, much like a reader would need to reread text. Ledaluscas can't store reflections of reflections, but they enjoy studying interesting reflections from their kin. Some of these elementals accept novel reflections as suitable payment for favors or information.\r\n</aside>",
+ "name": "Ledalusca",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 159</row>\n\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 17\r\n\r\n**Fort** +8\r\n\r\n**Ref** +9\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLedaluscas are reflective water elementals that can bring forth images previously reflected on their surfaces and wholly freeze themselves in the …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +8",
+  "Deception +5",
+  "Stealth +9",
+  "Thievery +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +5, [Stealth](/Skills.aspx?ID=15) +9, [Thievery](/Skills.aspx?ID=17) +7",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 159"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 159</row>",
+ "speed": {
+  "land": 25,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "25 feet, swim 30 feet",
+ "speed_raw": "25 feet, swim 30 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Ledaluscas are reflective water elementals that can bring forth images previously reflected on their surfaces and wholly freeze themselves in the …",
+ "summary_markdown": "Ledaluscas are reflective water elementals that can bring forth images previously reflected on their surfaces and wholly freeze themselves in the …",
+ "text": " Ledalusca Ledaluscas are reflective water elementals that can bring forth images previously reflected on their surfaces and wholly freeze themselves in the shapes of what they reflected. They explore and protect the calmest boundaries of the icy regions of the Plane of Water, where ice forms in shiny, flawless sheets. Insatiably curious, their eagerness propels some ledaluscas to pickpocket interesting-looking objects to play with. Others travel to different planes to locate, observe, and reflect a wider variety of creatures than those on their home plane. They pretend to be ice sculptures or still pools for this purpose, especially if they can find a spot in a high-traffic area to inhabit. Despite their perfect mimicry, ledaluscas are unable to create an appearance from scratch, nor can they adjust the appearance they take on or combine elements of different reflections. Some of them find this disheartening, like artists vexed by a lack of creativity. One of the strangest encounters a ledalusca can experience is with a creature or object that has no reflection. A ledalusca can see a vampire, for example, but is unable to reproduce its image. For a creature that effectively has an unlimited memory for images, this proves utterly confusing. The vague memory of the encounter sticks in the ledalusca's mind like a splintering a humanoid's finger. Recall Knowledge - Elemental (Arcana, Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Ledalusca Source Bestiary 3 pg. 159 Perception +8; darkvision Languages Aquan Skills Acrobatics +7, Athletics +8, Deception +5, Stealth +9, Thievery +7 Str +4 Dex +3 Con +2 Int +0 Wis +2 Cha +1 Recall Reflection (illusion, primal) A ledalusca can recall and replay any reflection ever cast on its surface, although it must still Seek to consciously notice fine or significant details. --- AC 17 Fort +8 Ref +9 Will +6 HP 40 Immunities cold, paralyzed, poison, sleep Weaknesses fire 5 Shell Block Reaction Trigger The ledalusca takes physical damage from an attack; Requirements The ledalusca's shell is frozen (see Freeze Shell); Effect The ledalusca angles their shell to absorb the blow, gaining resistance 5 to the triggering damage. If they takes bludgeoning or fire damage after applying this resistance, their frozen shell shatters until they freezes a new one. --- Speed 25 feet, swim 30 feet Melee Single Action wave +10, Damage 1d6+4 bludgeoning plus Push 5 feet Ranged Single Action ice shard +9 (deadly d6, thrown 20 feet), Damage 1d6+4 piercing plus 1d4 cold Freeze Shell Single Action (Cold, Manipulate) The ledalusca freezes their surface into a translucent, faintly colored ice sculpture matching the mirror image of a Medium creature or object they have seen before. While in this form, instead of a wave, they have the following Strike: Melee Single Action ice shell +10, Damage 1d6+4 physical plus 1d4 cold The physical damage is a type that matches the new shape of the ledalusca's frozen shell. The ledalusca can revert to their liquid form by taking this action again. Hold Still Single Action (Concentrate) Until the next time they act, the ledalusca appears to be either an ice sculpture (if under the effects of Freeze Shell) or a pool of still water (if not). They have an automatic result of 28 on Deception checks and DCs to pass as what they appear to be. Treasured Reflections A ledalusca must bring forth an old reflection to closely observe its details, much like a reader would need to reread text. Ledaluscas can't store reflections of reflections, but they enjoy studying interesting reflections from their kin. Some of these elementals accept novel reflections as suitable payment for favors or information. ",
+ "trait": [
+  "Cold",
+  "Elemental",
+  "Water",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Cold](/Traits.aspx?ID=27), [Elemental](/Traits.aspx?ID=57), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Cold",
+  "Elemental",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1217",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 6,
+ "wisdom": 2
+}

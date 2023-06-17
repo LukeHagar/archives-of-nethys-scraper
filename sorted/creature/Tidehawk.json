@@ -1,0 +1,118 @@
+{
+ "ac": 32,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 5,
+ "creature_ability": [
+  "Self-Resurrection",
+  "Oceanic Armor",
+  "Typhoon Dive"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 213,
+ "hp_raw": "213 (self-resurrection)",
+ "id": "creature-1337",
+ "image": [
+  "/Images/Monsters/Tidehawk.png"
+ ],
+ "intelligence": 4,
+ "language": [
+  "Aquan",
+  "Auran",
+  "Common"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Auran](/Languages.aspx?ID=15), [Common](/Languages.aspx?ID=1)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tidehawk](/Monsters.aspx?ID=1337)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTidehawks, avian embodiments of the sea and rain, nest in deep underwater crevasses and glide among waves. They feed mostly on large sea life and rise above the surface during or in the aftermath of a rainstorm to bask in the fresh moisture of the air.\n\n Though tidehawks hail from the same mystical family as the legendary [phoenix](/Monsters.aspx?ID=330), the two rarely interact due to their different outlooks and elemental affiliations. Phoenixes see tidehawks as flighty and unreliable, while tidehawks view their fiery kin as self-righteous do-gooders who can't resist meddling in mortal affairs. Only particularly evil threats to natural environments can bring them together.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 35\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 33\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 30\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Tidehawk.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Tidehawk](/Monsters.aspx?ID=1337)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 266</row>\n\n**Perception** +24; [darkvision](/MonsterAbilities.aspx?ID=12), [wavesense](/MonsterAbilities.aspx?ID=41) (imprecise) 120 feet\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Auran](/Languages.aspx?ID=15), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +23, [Athletics](/Skills.aspx?ID=3) +21, [Nature](/Skills.aspx?ID=10) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +7\r\n\r\n**Con** +5\r\n\r\n**Int** +4\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 213\r\n(self-resurrection)\r\n, regeneration 20 (deactivated by fire)\n\n**Resistances**\r\ncold 10\r\n\r\n**Weaknesses**\r\nfire 15\r\n\r\n**Self-Resurrection** ([healing](/Traits.aspx?ID=89), [necromancy](/Traits.aspx?ID=117), [primal](/Traits.aspx?ID=134)) When a tidehawk dies, it melts into a torrent of rainwater. If this rain falls into a body of water, such as an ocean or lake, the tidehawk returns to life fully healed 1d4 rounds later, as if subject to a 6th-level [resurrect](/Rituals.aspx?ID=20) ritual. Self-resurrection happens only if there are remains to resurrect; for instance, a tidehawk killed by a [_disintegrate_](/Spells.aspx?ID=76) spell can't use this ability. A tidehawk that dies while above land must wait until its rainwater runs or seeps into an appropriate body of water to self-resurrect. A tidehawk can self-resurrect only once per year.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 50 feet, swim 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +26 ([Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+11 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +26 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+11 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nbreak swell +26 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+11 bludgeoning plus [Knockdown](/MonsterAbilities.aspx?ID=20)\r\n\r\n**Primal Innate Spells** DC 32\r\n- **Cantrips (6th)**\r\n[Detect Magic](/Spells.aspx?ID=66)\r\n- **6th**\r\n[Cone of Cold](/Spells.aspx?ID=47), [Control Water](/Spells.aspx?ID=51), [Heal](/Spells.aspx?ID=148) (×2), [Hydraulic Torrent](/Spells.aspx?ID=155), [Mariner's Curse](/Spells.aspx?ID=184)\r\n\r\n**Oceanic Armor** <actions string=\"Single Action\" /> ([Abjuration](/Traits.aspx?ID=2), [Primal](/Traits.aspx?ID=134), [Water](/Traits.aspx?ID=165)) **Requirements** The tidehawk is within 120 feet of a body of water at least as large as it is; **Effect** The tidehawk draws water to itself, wrapping its feathers like a suit of armor. The tidehawk gains a +2 circumstance bonus to AC until the start of its next turn. If the tidehawk takes damage from a melee Strike while under this effect, this water armor explodes outward, dealing 4d8 bludgeoning damage (DC 32 [basic](/Rules.aspx?ID=329) Reflex save) to the attacking creature and ending the circumstance bonus to AC.\r\n\r\n**Typhoon Dive** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134), [Water](/Traits.aspx?ID=165)) **Requirements** The tidehawk is [Flying](/Actions.aspx?ID=94); **Effect** The tidehawk Flies up to its Speed, diving below the surface of deep water (such as a sea or ocean), causing a surging wave that deals 6d6 bludgeoning damage (DC 32 [basic](/Rules.aspx?ID=329) Reflex save) to each creature within a 60-foot emanation of where the tidehawk entered the water. The area becomes difficult terrain until the start of the tidehawk's next turn while the water surges and runs off.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Wind and Wave</title>\r\n\r\nAs dwellers of both water and air, tidehawks are viewed by many to be favored creatures of [Gozreh](/Deities.aspx?ID=8), deity of wind and wave. Sailors argue whether a tidehawk sighting is a good or ill omen, as Gozreh can turn quickly from calm to wrathful. Tidehawks themselves rarely attack vessels on the water, but when they do, they leave few survivors.\r\n</aside>",
+ "name": "Tidehawk",
+ "npc": false,
+ "perception": 24,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 25,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "cold": 10
+ },
+ "resistance_markdown": "cold 10",
+ "resistance_raw": "cold 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 266</row>\n\n<row gap=\"medium\">\r\n**HP** 213 (self-resurrection)\r\n\r\n**AC** 32\r\n\r\n**Fort** +21\r\n\r\n**Ref** +25\r\n\r\n**Will** +22\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTidehawks, avian embodiments of the sea and rain, nest in deep underwater crevasses and glide among waves. They feed mostly on large sea life and …\r\n</summary>",
+ "sense": " darkvision ,  wavesense  (imprecise) 120 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [wavesense](/MonsterAbilities.aspx?ID=41) (imprecise) 120 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +23",
+  "Athletics +21",
+  "Nature +24"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +23, [Athletics](/Skills.aspx?ID=3) +21, [Nature](/Skills.aspx?ID=10) +24",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 266"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 266</row>",
+ "speed": {
+  "fly": 50,
+  "land": 25,
+  "max": 50,
+  "swim": 50
+ },
+ "speed_markdown": "25 feet, fly 50 feet, swim 50 feet",
+ "speed_raw": "25 feet, fly 50 feet, swim 50 feet",
+ "spell": [
+  "Cone of Cold",
+  "Control Water",
+  "Heal",
+  "Hydraulic Torrent",
+  "Mariner's Curse",
+  "Detect Magic"
+ ],
+ "spell_markdown": "[Cone of Cold](/Spells.aspx?ID=47), [Control Water](/Spells.aspx?ID=51), [Detect Magic](/Spells.aspx?ID=66), [Heal](/Spells.aspx?ID=148), [Hydraulic Torrent](/Spells.aspx?ID=155), [Mariner's Curse](/Spells.aspx?ID=184)",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Tidehawks, avian embodiments of the sea and rain, nest in deep underwater crevasses and glide among waves. They feed mostly on large sea life and …",
+ "summary_markdown": "Tidehawks, avian embodiments of the sea and rain, nest in deep underwater crevasses and glide among waves. They feed mostly on large sea life and …",
+ "text": " Tidehawk Tidehawks, avian embodiments of the sea and rain, nest in deep underwater crevasses and glide among waves. They feed mostly on large sea life and rise above the surface during or in the aftermath of a rainstorm to bask in the fresh moisture of the air. Though tidehawks hail from the same mystical family as the legendary phoenix, the two rarely interact due to their different outlooks and elemental affiliations. Phoenixes see tidehawks as flighty and unreliable, while tidehawks view their fiery kin as self-righteous do-gooders who can't resist meddling in mortal affairs. Only particularly evil threats to natural environments can bring them together. Recall Knowledge - Beast (Arcana, Nature): DC 35 Unspecific Lore : DC 33 Specific Lore : DC 30 Tidehawk Source Bestiary 3 pg. 266 Perception +24; darkvision, wavesense (imprecise) 120 feet Languages Aquan, Auran, Common Skills Acrobatics +23, Athletics +21, Nature +24 Str +5 Dex +7 Con +5 Int +4 Wis +6 Cha +4 --- AC 32 Fort +21 Ref +25 Will +22 HP 213 (self-resurrection) , regeneration 20 (deactivated by fire) Resistances cold 10 Weaknesses fire 15 Self-Resurrection (healing, necromancy, primal) When a tidehawk dies, it melts into a torrent of rainwater. If this rain falls into a body of water, such as an ocean or lake, the tidehawk returns to life fully healed 1d4 rounds later, as if subject to a 6th-level resurrect ritual. Self-resurrection happens only if there are remains to resurrect; for instance, a tidehawk killed by a disintegrate spell can't use this ability. A tidehawk that dies while above land must wait until its rainwater runs or seeps into an appropriate body of water to self-resurrect. A tidehawk can self-resurrect only once per year. --- Speed 25 feet, fly 50 feet, swim 50 feet Melee Single Action beak +26 (Finesse, Magical, reach 15 feet), Damage 3d12+11 piercing Melee Single Action talon +26 (Agile, Finesse, Magical, reach 15 feet), Damage 3d8+11 slashing Ranged Single Action break swell +26 (range increment 30 feet), Damage 3d8+11 bludgeoning plus Knockdown Primal Innate Spells DC 32 - Cantrips (6th) Detect Magic - 6th Cone of Cold, Control Water, Heal (×2), Hydraulic Torrent, Mariner's Curse Oceanic Armor Single Action (Abjuration, Primal, Water) Requirements The tidehawk is within 120 feet of a body of water at least as large as it is; Effect The tidehawk draws water to itself, wrapping its feathers like a suit of armor. The tidehawk gains a +2 circumstance bonus to AC until the start of its next turn. If the tidehawk takes damage from a melee Strike while under this effect, this water armor explodes outward, dealing 4d8 bludgeoning damage (DC 32 basic Reflex save) to the attacking creature and ending the circumstance bonus to AC. Typhoon Dive Two Actions (Evocation, Primal, Water) Requirements The tidehawk is Flying; Effect The tidehawk Flies up to its Speed, diving below the surface of deep water (such as a sea or ocean), causing a surging wave that deals 6d6 bludgeoning damage (DC 32 basic Reflex save) to each creature within a 60-foot emanation of where the tidehawk entered the water. The area becomes difficult terrain until the start of the tidehawk's next turn while the water surges and runs off. Wind and Wave As dwellers of both water and air, tidehawks are viewed by many to be favored creatures of Gozreh, deity of wind and wave. Sailors argue whether a tidehawk sighting is a good or ill omen, as Gozreh can turn quickly from calm to wrathful. Tidehawks themselves rarely attack vessels on the water, but when they do, they leave few survivors. ",
+ "trait": [
+  "Amphibious",
+  "Beast",
+  "Rare",
+  "Water",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Beast](/Traits.aspx?ID=20), [Rare](/Traits.aspx?ID=137), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Amphibious",
+  "Beast",
+  "Rare",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1337",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "fire": 15
+ },
+ "weakness_markdown": "fire 15",
+ "weakness_raw": "fire 15",
+ "will_save": 22,
+ "wisdom": 6
+}

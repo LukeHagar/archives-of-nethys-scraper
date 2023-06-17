@@ -1,0 +1,95 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Feign Death",
+  "Revived Retaliation",
+  "Grasping Tail"
+ ],
+ "creature_family": "Opossum",
+ "creature_family_markdown": "[Opossum](/MonsterFamilies.aspx?ID=252)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 35,
+ "hp_raw": "35",
+ "id": "creature-1253",
+ "image": [
+  "/Images/Monsters/Opossum_GiantOpossum.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Opossum](/Monsters.aspx?ID=1253)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLarger species of opossum can eat nearly anything human-sized or smaller.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Opossum_GiantOpossum.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Giant Opossum](/Monsters.aspx?ID=1253)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 192</row>\n\n**Perception** +8; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +3\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +5 \r\n\r\n+2 circumstance to all saves vs. [disease](/Traits.aspx?ID=46)\r\n</row>\r\n\r\n**HP** 35\n\n**Resistances**\r\n[poison](/Traits.aspx?ID=126) 3\n\n**Feign Death** <actions string=\"Reaction\" /> **Trigger** The opossum is reduced below 15 HP; **Effect** The opossum collapses. It is [flat-footed](/Conditions.aspx?ID=16) and can use actions that require only its mind, but any other action ends the ruse. A successful DC 18 Perception check to [Seek](/Actions.aspx?ID=84) or [Medicine](/Skills.aspx?ID=9) check to [Recall Knowledge](/Actions.aspx?ID=26) is required to determine that the animal is not, in fact, dead.<br />**Revived Retaliation** <actions string=\"Reaction\" /> **Trigger** The opossum is attacked or disturbed by a creature within reach while Feigning Death; **Effect** The opossum Strikes the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10 ([deadly d10](/Traits.aspx?ID=174)),\r\n**Damage** 1d10+4 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +10 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+4 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +10 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d4+4 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Grasping Tail**   A giant opossum can drag a Small or Tiny creature it has [grabbed](/Conditions.aspx?ID=20) with its tail along with it when it Strides.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-252\" />",
+ "name": "Giant Opossum",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "poison": 3
+ },
+ "resistance_markdown": "[poison](/Traits.aspx?ID=126) 3",
+ "resistance_raw": " poison  3",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 192</row>\r\n\r\n**Creature Family** [Opossum](/MonsterFamilies.aspx?ID=252)\r\n\r\n<row gap=\"medium\">\r\n**HP** 35\r\n\r\n**AC** 17\r\n\r\n**Fort** +11\r\n\r\n**Ref** +8\r\n\r\n**Will** +5\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLarger species of opossum can eat nearly anything human-sized or smaller.\r\n</summary>",
+ "sense": " low-light vision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +10",
+  "Stealth +8",
+  "Survival +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +6",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 192"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 192</row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Larger species of opossum can eat nearly anything human-sized or smaller.",
+ "summary_markdown": "Larger species of opossum can eat nearly anything human-sized or smaller.",
+ "text": " Giant Opossum Larger species of opossum can eat nearly anything human-sized or smaller. Recall Knowledge - Animal (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Giant Opossum Source Bestiary 3 pg. 192 Perception +8; low-light vision, scent (imprecise) 30 feet Languages Skills Athletics +10, Stealth +8, Survival +6 Str +4 Dex +2 Con +3 Int -4 Wis +2 Cha +0 --- AC 17 Fort +11 Ref +8 Will +5 +2 circumstance to all saves vs. disease HP 35 Resistances poison 3 Feign Death Reaction Trigger The opossum is reduced below 15 HP; Effect The opossum collapses. It is flat-footed and can use actions that require only its mind, but any other action ends the ruse. A successful DC 18 Perception check to Seek or Medicine check to Recall Knowledge is required to determine that the animal is not, in fact, dead. Revived Retaliation Reaction Trigger The opossum is attacked or disturbed by a creature within reach while Feigning Death; Effect The opossum Strikes the triggering creature. --- Speed 30 feet, climb 20 feet Melee Single Action jaws +10 (deadly d10), Damage 1d10+4 piercing Melee Single Action claw +10 (Agile), Damage 1d6+4 slashing Melee Single Action tail +10 (reach 15 feet), Damage 1d4+4 bludgeoning plus Grab Grasping Tail A giant opossum can drag a Small or Tiny creature it has grabbed with its tail along with it when it Strides. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1253",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 5,
+ "wisdom": 2
+}

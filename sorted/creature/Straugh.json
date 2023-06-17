@@ -1,0 +1,110 @@
+{
+ "ac": 29,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 7,
+ "creature_ability": [
+  "Consume Flesh",
+  "Fetid Screech",
+  "Ghoul Fever",
+  "Paralysis",
+  "Rock Tunneler",
+  "Tunneling Strike"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 220,
+ "hp_raw": "220 ( negative healing )",
+ "id": "creature-2158",
+ "image": [
+  "/Images/Monsters/Straugh.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Straugh](/Monsters.aspx?ID=2158)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen skirmishes break out between tunneling [ghouls](/MonsterFamilies.aspx?ID=52) and creatures that dwell beneath the surface of Golarion, there's a chance that ghoul fever could infect such animals, producing strange new variants of ghoul beasts. However, letting the natural corruption run its course sometimes results in unsatisfying monsters, so some necromancers speed the process. This is the situation that led to the creation of the first straugh. A priest of [Kabriri](/Deities.aspx?ID=76) made the monstrosity to defend a claimed cemetery from another sect of ghouls who were preying upon the interred bodies. In some places, ghouls use straughs to tunnel into rival warrens or highly fortified mausoleums.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Straugh.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Straugh](/Monsters.aspx?ID=2158)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 88</row>\n\n**Perception** +17; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +22, [Intimidation](/Skills.aspx?ID=7) +17, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +3\r\n\r\n**Con** +7\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 220\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +23,\r\n**Damage** 2d12+12 piercing plus ghoul fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +23, ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+12 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27) and paralysis\n\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The straugh is adjacent to the corpse of a creature that died within the last hour; **Effect** The straugh devours a chunk of the corpse and regains 7d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Fetid Screech** <actions string=\"Single Action\" /> ([Olfactory](/Traits.aspx?ID=246)) Unaware that its vocal organs have withered and decayed, the straugh instinctively but ineffectively attempts to screech, instead releasing malodorous gas, half-digested corpse flesh, and small swarms of maggots from its open beak. The straugh releases a disgusting cloud of gas and decaying detritus in a 15-foot cone; any creature within the area must attempt a DC 28 Fortitude save. On a failure, the creature is [sickened 2](/Conditions.aspx?ID=34). On a critical failure, the creature also takes a –5 foot status penalty to its Speeds for 1 round. Any creature that succeeds at the save is temporarily immune to Fetid Screech for 24 hours.\r\n\r\n**Ghoul Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** Fortitude DC 28; **Stage 1** carrier with no effect (1 day); **Stage 2** 4d8 negative damage and regains half as many hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 4d8 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [ghoul](/MonsterFamilies.aspx?ID=52) the next midnight\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living, non-[elf](/Traits.aspx?ID=58) creature hit by a ghoul antipaladin's attack must succeed at a DC 26 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**Rock Tunneler**   A straugh can burrow through solid stone at a Speed of 10 feet. It can leave a tunnel if it desires, and it usually does.\r\n\r\n**Tunneling Strike** <actions string=\"Two Actions\" /> ([Earth](/Traits.aspx?ID=55)) **Requirements** The straugh has [Burrowed](/Actions.aspx?ID=93) underground and remains [undetected](/Conditions.aspx?ID=39) by the creature it plans to attack; **Effect** The straugh Burrows twice to emerge from the ground adjacent to at least one enemy and immediately makes a Strike against that foe.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Hungry Beasts</title>\r\n\r\nSome creatures are especially engineered by foul necromancers to have traits like that of ghouls. [Skavelings](/Monsters.aspx?ID=803) and straughs are examples of this. As a GM you can create your own ghoul variants if you wish. _Pathfinder Book of the Dead_ (see [Undead Adjustments](/Rules.aspx?ID=1700)) provides advice on how to accomplish this on the fly with nearly any creature, though some make more sense than others. The best creatures to receive the ghoul treatment are those normally associated with being ravenous and dangerous. When you want a creature that is significantly more powerful than the base creature, it's sometimes best to be your own necromancer and design a ghoul-like undead beast from the ground up to reflect their increased threat level.\r\n</aside>",
+ "name": "Straugh",
+ "npc": false,
+ "perception": 17,
+ "rarity": "uncommon",
+ "reflex_save": 16,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 88</row>\n\n<row gap=\"medium\">\r\n**HP** 220 ( negative healing )\r\n\r\n**AC** 29\r\n\r\n**Fort** +22\r\n\r\n**Ref** +16\r\n\r\n**Will** +16\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen skirmishes break out between tunneling  ghouls  and creatures that dwell beneath the surface of Golarion, there's a chance that ghoul fever …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +22",
+  "Intimidation +17",
+  "Stealth +22",
+  "Survival +22"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +22, [Intimidation](/Skills.aspx?ID=7) +17, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +22",
+ "source": [
+  "Pathfinder #184: The Ghouls Hunger"
+ ],
+ "source_raw": [
+  "Pathfinder #184: The Ghouls Hunger pg. 88"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #184: The Ghouls Hunger](/Sources.aspx?ID=147) pg. 88</row>",
+ "speed": {
+  "burrow": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 20 feet",
+ "speed_raw": "30 feet, burrow 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "22",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "When skirmishes break out between tunneling  ghouls  and creatures that dwell beneath the surface of Golarion, there's a chance that ghoul fever …",
+ "summary_markdown": "When skirmishes break out between tunneling  ghouls  and creatures that dwell beneath the surface of Golarion, there's a chance that ghoul fever …",
+ "text": " Straugh When skirmishes break out between tunneling ghouls and creatures that dwell beneath the surface of Golarion, there's a chance that ghoul fever could infect such animals, producing strange new variants of ghoul beasts. However, letting the natural corruption run its course sometimes results in unsatisfying monsters, so some necromancers speed the process. This is the situation that led to the creation of the first straugh. A priest of Kabriri made the monstrosity to defend a claimed cemetery from another sect of ghouls who were preying upon the interred bodies. In some places, ghouls use straughs to tunnel into rival warrens or highly fortified mausoleums. Recall Knowledge - Undead (Religion): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Straugh Source Pathfinder #184: The Ghouls Hunger pg. 88 Perception +17; darkvision, scent (imprecise) 30 feet Languages Skills Acrobatics +17, Athletics +22, Intimidation +17, Stealth +22, Survival +22 Str +8 Dex +3 Con +7 Int -4 Wis +3 Cha +0 --- AC 29 Fort +22 Ref +16 Will +16 HP 220 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 30 feet, burrow 20 feet Melee Single Action beak +23, Damage 2d12+12 piercing plus ghoul fever and paralysis Melee Single Action talon +23, (Agile, reach 10 feet), Damage 2d8+12 piercing plus Improved Grab and paralysis Consume Flesh Single Action (Manipulate) Requirements The straugh is adjacent to the corpse of a creature that died within the last hour; Effect The straugh devours a chunk of the corpse and regains 7d6 Hit Points. It can regain Hit Points from any given corpse only once. Fetid Screech Single Action (Olfactory) Unaware that its vocal organs have withered and decayed, the straugh instinctively but ineffectively attempts to screech, instead releasing malodorous gas, half-digested corpse flesh, and small swarms of maggots from its open beak. The straugh releases a disgusting cloud of gas and decaying detritus in a 15-foot cone; any creature within the area must attempt a DC 28 Fortitude save. On a failure, the creature is sickened 2. On a critical failure, the creature also takes a –5 foot status penalty to its Speeds for 1 round. Any creature that succeeds at the save is temporarily immune to Fetid Screech for 24 hours. Ghoul Fever (Disease) Saving Throw Fortitude DC 28; Stage 1 carrier with no effect (1 day); Stage 2 4d8 negative damage and regains half as many hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 4d8 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghoul the next midnight Paralysis (Incapacitation, Occult, Necromancy) Any living, non-elf creature hit by a ghoul antipaladin's attack must succeed at a DC 26 Fortitude save or become paralyzed. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Rock Tunneler A straugh can burrow through solid stone at a Speed of 10 feet. It can leave a tunnel if it desires, and it usually does. Tunneling Strike Two Actions (Earth) Requirements The straugh has Burrowed underground and remains undetected by the creature it plans to attack; Effect The straugh Burrows twice to emerge from the ground adjacent to at least one enemy and immediately makes a Strike against that foe. Hungry Beasts Some creatures are especially engineered by foul necromancers to have traits like that of ghouls. Skavelings and straughs are examples of this. As a GM you can create your own ghoul variants if you wish. Pathfinder Book of the Dead (see Undead Adjustments) provides advice on how to accomplish this on the fly with nearly any creature, though some make more sense than others. The best creatures to receive the ghoul treatment are those normally associated with being ravenous and dangerous. When you want a creature that is significantly more powerful than the base creature, it's sometimes best to be your own necromancer and design a ghoul-like undead beast from the ground up to reflect their increased threat level. ",
+ "trait": [
+  "Ghoul",
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Ghoul",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2158",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 3
+}

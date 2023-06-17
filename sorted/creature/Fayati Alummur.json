@@ -1,0 +1,97 @@
+{
+ "ac": 27,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 1,
+ "creature_ability": [
+  "Nimble Dodge",
+  "Opportune Backstab",
+  "Deepen the Wound",
+  "Guildmaster's Lead",
+  "Sneak Attack"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 150,
+ "hp_raw": "150",
+ "id": "creature-2488",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Vudrani"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Vudrani](/Languages.aspx?ID=45)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Fayati Alummur](/NPCs.aspx?ID=2488)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 34\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 32\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 29\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Fayati Alummur](/NPCs.aspx?ID=2488)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 26</row>\n\n**Perception** +19\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Vudrani](/Languages.aspx?ID=45)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Deception](/Skills.aspx?ID=5) +18, [Diplomacy](/Skills.aspx?ID=6) +16, [Stealth](/Skills.aspx?ID=15) +18, [Thievery](/Skills.aspx?ID=17) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +6\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+1 [daggers](/Weapons.aspx?ID=3)_ (3), [moderate darkvision elixir](/Equipment.aspx?ID=89), [_jade bauble talisman_](/Equipment.aspx?ID=222) (affixed to main-gauche), [Leather Armor](/Armor.aspx?ID=4), _+1 [striking](/Equipment.aspx?ID=280) [main-gauche](/Weapons.aspx?ID=32)_, _+1 [striking](/Equipment.aspx?ID=280) [rapier](/Weapons.aspx?ID=36)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 150\n\n**Nimble Dodge** <actions string=\"Reaction\" /> **Trigger** A creature targets Fayati with an attack and she can see the attacker; **Effect** Fayati dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.<br />**Opportune Backstab** <actions string=\"Reaction\" /> **Trigger** A creature within Fayati's reach is hit by a melee Strike from one of her allies; **Effect** Fayati makes a Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_rapier_ +20 ([deadly d8](/Traits.aspx?ID=174), [Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+5 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_main-gauche_ +20 ([Agile](/Traits.aspx?ID=170), [Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [Parry](/Traits.aspx?ID=190), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 2d4+5 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_dagger_ +20 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+5 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_dagger_ +20 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+5 piercing\n\n**Deepen the Wound** <actions string=\"Single Action\" />  **Requirements** Fayati's last attack was a successful melee Strike with her rapier; **Effect** Fayati makes a main-gauche Strike against the same creature that she just hit. This Strike deals an additional 4d6 precision damage.\r\n\r\n**Guildmaster's Lead**   Whenever Fayati critically succeeds at a Strike against a creature, until the start of her next turn, the first time that another member of the Copper Hand deals damage to that creature during their turn, they deal an additional 1d6 precision damage to it.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   Fayati deals 2d6 extra precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n</column>",
+ "name": "Fayati Alummur",
+ "npc": true,
+ "perception": 19,
+ "rarity": "unique",
+ "reflex_save": 18,
+ "release_date": "2020-08-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 26</row>\n\n<row gap=\"medium\">\r\n**HP** 150\r\n\r\n**AC** 27\r\n\r\n**Fort** +15\r\n\r\n**Ref** +18\r\n\r\n**Will** +16\r\n\r\n**Perception** +19\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Deception +18",
+  "Diplomacy +16",
+  "Stealth +18",
+  "Thievery +18"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Deception](/Skills.aspx?ID=5) +18, [Diplomacy](/Skills.aspx?ID=6) +16, [Stealth](/Skills.aspx?ID=15) +18, [Thievery](/Skills.aspx?ID=17) +18",
+ "source": [
+  "Pathfinder #158: Sixty Feet Under"
+ ],
+ "source_raw": [
+  "Pathfinder #158: Sixty Feet Under pg. 26"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Agents of Edgewatch",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 26</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Agents of Edgewatch",
+ "stealth": "18",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "",
+ "summary_markdown": "",
+ "text": " Fayati Alummur Recall Knowledge - Humanoid (Society): DC 34 Unspecific Lore : DC 32 Specific Lore : DC 29 Fayati Alummur Source Pathfinder #158: Sixty Feet Under pg. 26 Perception +19 Languages Common, Vudrani Skills Acrobatics +18, Deception +18, Diplomacy +16, Stealth +18, Thievery +18 Str +1 Dex +6 Con +1 Int +0 Wis +2 Cha +4 Items +1 daggers (3), moderate darkvision elixir, jade bauble talisman (affixed to main-gauche), Leather Armor, +1 striking main-gauche , +1 striking rapier --- AC 27 Fort +15 Ref +18 Will +16 HP 150 Nimble Dodge Reaction Trigger A creature targets Fayati with an attack and she can see the attacker; Effect Fayati dodges out of the way, gaining a +2 circumstance bonus to AC against the triggering attack. Opportune Backstab Reaction Trigger A creature within Fayati's reach is hit by a melee Strike from one of her allies; Effect Fayati makes a Strike against the triggering creature. --- Speed 25 feet Melee Single Action rapier +20 (deadly d8, Disarm, Finesse), Damage 2d6+5 piercing Melee Single Action main-gauche +20 (Agile, Disarm, Finesse, Magical, Parry, versatile S), Damage 2d4+5 piercing Melee Single Action dagger +20 (Agile, Finesse, thrown 10 feet, versatile S), Damage 1d4+5 piercing Ranged Single Action dagger +20 (Agile, Finesse, thrown 10 feet, versatile S), Damage 1d4+5 piercing Deepen the Wound Single Action Requirements Fayati's last attack was a successful melee Strike with her rapier; Effect Fayati makes a main-gauche Strike against the same creature that she just hit. This Strike deals an additional 4d6 precision damage. Guildmaster's Lead Whenever Fayati critically succeeds at a Strike against a creature, until the start of her next turn, the first time that another member of the Copper Hand deals damage to that creature during their turn, they deal an additional 1d6 precision damage to it. Sneak Attack Fayati deals 2d6 extra precision damage to flat-footed creatures. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Unique",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2488",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 2
+}

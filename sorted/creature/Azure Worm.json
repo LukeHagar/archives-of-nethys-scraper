@@ -1,0 +1,100 @@
+{
+ "ac": 35,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 8,
+ "creature_ability": [
+  "Inexorable",
+  "Shake It Off",
+  "Azure Worm Venom",
+  "Breach",
+  "Fast Swallow",
+  "Swallow Whole",
+  "Thrash"
+ ],
+ "creature_family": "Cave Worm",
+ "creature_family_markdown": "[Cave Worm](/MonsterFamilies.aspx?ID=21)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 32,
+ "hp": 320,
+ "hp_raw": "320",
+ "id": "creature-74",
+ "image": [
+  "/Images/Monsters/CaveWorm_AzureWorm.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Azure Worm](/Monsters.aspx?ID=74)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe azure worm is a deep-blue creature that is more at home in flooded tunnels than dry caves. While an azure worm is a strong swimmer, it prefers to lie in wait within the walls, door, or even ceiling of flooded caverns, ready to spring out and ambush creatures swimming past its hiding spot. The azure worm is particularly hated and feared by Darklands-dwelling cultures, due to the fact that an azure worm that burrows into a tunnel often brings with it waters from the submerged river or lake it calls home. When it becomes obvious that an azure worm is near a Darklands settlement, the inhabitants quickly establishing a hunting party to deal with the menace before it can bring ruin.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CaveWorm_AzureWorm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Azure Worm](/Monsters.aspx?ID=74)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 57</row>\n\n**Perception** +22; darkvision, tremorsense (imprecise) 100 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +33, [Stealth](/Skills.aspx?ID=15) +20\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** -1\r\n\r\n**Con** +8\r\n\r\n**Int** -5\r\n\r\n**Wis** -1\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +32 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 320\n\n**Inexorable** The azure worm recovers from the paralyzed, slowed, and stunned conditions at the end of its turn. It’s also immune to penalties to its Speeds and the immobilized condition, and it ignores difficult terrain and greater difficult terrain.<br /> **Shake It Off** <actions string=\"Reaction\" /> **Frequency** once per day; **Trigger** The azure worm would be affected by a condition or adverse effect (such as [_baleful polymorph_](/Spells.aspx?ID=17)). **Effect** The azure worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can’t be avoided in this way.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, burrow 40 feet, swim 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaw +31 ([deadly 2d10](/Traits.aspx?ID=174), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+16 piercing plus Improved Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstinger +31 ([Agile](/Traits.aspx?ID=170), [Poison](/Traits.aspx?ID=126), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d6+16 piercing plus azure worm venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbody +29 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+14 bludgeoning\n\n**Azure Worm Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 37 Fortitude, **Maximum Duration** 6 rounds; **Stage 1** 3d6 poison damage and clumsy 2 (1 round); **Stage 2** 4d6 poison damage and clumsy 2 (1 round); **Stage 3** 6d6 poison damage and clumsy 2 (1 round)\r\n\r\n**Breach** <actions string=\"Two Actions\" />  The azure worm Swims up to its swim Speed, then Leaps vertically out of the water up to 30 feet, making a Strike against a creature at the apex of the jump (this lets it attack a creature within 45 feet of the water’s surface). After the Strike, the worm splashes back down. It can use Improved Grab on this Strike and follow it up with Fast Swallow.\r\n\r\n**Fast Swallow** <actions string=\"Reaction\" />  **Trigger** The worm Grabs a creature. **Effect** The worm uses Swallow Whole.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" />  Huge, 3d8+10 bludgeoning, Rupture 27\r\n\r\n**Thrash** <actions string=\"Two Actions\" />  The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all the attacks.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-21\" />",
+ "name": "Azure Worm",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 20,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 57</row>\r\n\r\n**Creature Family** [Cave Worm](/MonsterFamilies.aspx?ID=21)\r\n\r\n<row gap=\"medium\">\r\n**HP** 320\r\n\r\n**AC** 35\r\n\r\n**Fort** +32\r\n\r\n**Ref** +20\r\n\r\n**Will** +23\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe azure worm is a deep-blue creature that is more at home in flooded tunnels than dry caves. While an azure worm is a strong swimmer, it prefers to …\r\n</summary>",
+ "sense": "darkvision, tremorsense (imprecise) 100 feet",
+ "sense_markdown": "darkvision, tremorsense (imprecise) 100 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +33",
+  "Stealth +20"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +33, [Stealth](/Skills.aspx?ID=15) +20",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 57"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 57</row>",
+ "speed": {
+  "burrow": 40,
+  "land": 40,
+  "max": 60,
+  "swim": 60
+ },
+ "speed_markdown": "40 feet, burrow 40 feet, swim 60 feet",
+ "speed_raw": "40 feet, burrow 40 feet, swim 60 feet",
+ "spell_markdown": "",
+ "stealth": "20",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The azure worm is a deep-blue creature that is more at home in flooded tunnels than dry caves. While an azure worm is a strong swimmer, it prefers to …",
+ "summary_markdown": "The azure worm is a deep-blue creature that is more at home in flooded tunnels than dry caves. While an azure worm is a strong swimmer, it prefers to …",
+ "text": " Azure Worm The azure worm is a deep-blue creature that is more at home in flooded tunnels than dry caves. While an azure worm is a strong swimmer, it prefers to lie in wait within the walls, door, or even ceiling of flooded caverns, ready to spring out and ambush creatures swimming past its hiding spot. The azure worm is particularly hated and feared by Darklands-dwelling cultures, due to the fact that an azure worm that burrows into a tunnel often brings with it waters from the submerged river or lake it calls home. When it becomes obvious that an azure worm is near a Darklands settlement, the inhabitants quickly establishing a hunting party to deal with the menace before it can bring ruin. Recall Knowledge - Animal (Nature): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Azure Worm Source Bestiary pg. 57 Perception +22; darkvision, tremorsense (imprecise) 100 feet Languages Skills Athletics +33, Stealth +20 Str +10 Dex -1 Con +8 Int -5 Wis -1 Cha -1 --- AC 35 Fort +32 Ref +20 Will +23 HP 320 Inexorable The azure worm recovers from the paralyzed, slowed, and stunned conditions at the end of its turn. It’s also immune to penalties to its Speeds and the immobilized condition, and it ignores difficult terrain and greater difficult terrain. Shake It Off Reaction Frequency once per day; Trigger The azure worm would be affected by a condition or adverse effect (such as baleful polymorph ). Effect The azure worm negates the triggering condition or effect. Effects from artifacts, deities, or a similarly powerful source can’t be avoided in this way. --- Speed 40 feet, burrow 40 feet, swim 60 feet Melee Single Action jaw +31 (deadly 2d10, reach 15 feet), Damage 3d12+16 piercing plus Improved Grab Melee Single Action stinger +31 (Agile, Poison, reach 15 feet), Damage 4d6+16 piercing plus azure worm venom Melee Single Action body +29 (reach 15 feet), Damage 2d8+14 bludgeoning Azure Worm Venom (Poison) Saving Throw DC 37 Fortitude, Maximum Duration 6 rounds; Stage 1 3d6 poison damage and clumsy 2 (1 round); Stage 2 4d6 poison damage and clumsy 2 (1 round); Stage 3 6d6 poison damage and clumsy 2 (1 round) Breach Two Actions The azure worm Swims up to its swim Speed, then Leaps vertically out of the water up to 30 feet, making a Strike against a creature at the apex of the jump (this lets it attack a creature within 45 feet of the water’s surface). After the Strike, the worm splashes back down. It can use Improved Grab on this Strike and follow it up with Fast Swallow. Fast Swallow Reaction Trigger The worm Grabs a creature. Effect The worm uses Swallow Whole. Swallow Whole Single Action Huge, 3d8+10 bludgeoning, Rupture 27 Thrash Two Actions The worm makes a Strike once against each creature in its reach. It can Strike up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all the attacks. ",
+ "trait": [
+  "Amphibious",
+  "Animal",
+  "Uncommon",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Animal](/Traits.aspx?ID=9), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Amphibious",
+  "Animal",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=74",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": -1
+}

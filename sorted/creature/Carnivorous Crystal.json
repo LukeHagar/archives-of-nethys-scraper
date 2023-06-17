@@ -1,0 +1,114 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 5,
+ "creature_ability": [
+  "Motion Sense",
+  "Split",
+  "Subsonic Hum",
+  "Crystallize",
+  "Engulf",
+  "Freeze",
+  "Razor Sharp"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": -5,
+ "exclude_from_search": false,
+ "fortitude_save": 20,
+ "hp": 300,
+ "hp_raw": "300",
+ "id": "creature-464",
+ "image": [
+  "/Images/Monsters/CarnivorousCrystal.png"
+ ],
+ "immunity": [
+  "acid",
+  "critical hits (except bludgeoning or sonic)",
+  "mental",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "acid, critical hits (except bludgeoning or sonic), mental, precision, unconscious, visual",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Carnivorous Crystal](/Monsters.aspx?ID=464)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCarnivorous crystals are strange ooze creatures native to the Plane of Earth. Unlike most oozes, their bodies are not homogeneously fluid; rather, interspersed within their glassy, viscous resin are thousands of sharp mineral formations that nevertheless possess some of the same flexibility and mobility as the rest of the creature’s gooey body.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/CarnivorousCrystal.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Carnivorous Crystal](/Monsters.aspx?ID=464)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 76</row>\n\n**Perception** +15; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** -5\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A carnivorous crystal can sense nearby motion through vibration and air movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +20 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 300\n\n**Immunities**\r\nacid, critical hits (except bludgeoning or sonic), mental, precision, unconscious, visual\r\n\r\n**Resistances**\r\npiercing 10, slashing 10\r\n\r\n**Weaknesses**\r\nsonic 10\r\n\r\n**Split** Whenever the carnivorous crystal takes a critical hit from an attack that deals bludgeoning or sonic damage, or it critically fails its saving throw against an effect that deals bludgeoning or sonic damage, it might split. If the carnivorous crystal has at least 15 HP remaining after taking the damage, it splits into two identical crystals, each with half the original’s Hit Points. When the carnivorous crystal splits, one crystal remains in the same space and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, the crystal automatically pushes creatures out of the way to fill a space.<br /> **Subsonic Hum** ([auditory](/Traits.aspx?ID=16), [aura](/Traits.aspx?ID=206), [mental](/Traits.aspx?ID=106)) 60 feet. A creature that enters or starts its turn within the aura must succeed at a DC 28 Will save or become [stunned 1](/Conditions.aspx?ID=36).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, climb 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +24 ([versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 4d8+7 piercing\n\n**Crystallize** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) **Requirement** The crystal has a creature engulfed. **Effect** The engulfed creature must succeed at a DC 28 Fortitude save or become slowed 1 until it is no longer engulfed. If the creature is already slowed, it becomes petrified as it is turned into crystal and expelled by the carnivorous crystal onto the ground. In 1d4 hours, the petrified victim shatters and a new carnivorous crystal emerges from the remains.\r\n\r\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Two Actions\" />  DC 28, 2d6 slashing, Escape DC 28, Rupture 25 (bludgeoning only).\r\n\r\n**Freeze** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32)) Until the next time it acts, the carnivorous crystal appears to be a mundane crystal formation. It has an automatic result of 40 on [Deception](/Skills.aspx?ID=5) and [Stealth](/Skills.aspx?ID=15) checks and DCs to pass as a crystal formation.\r\n\r\n**Razor Sharp**   If a carnivorous crystal hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Crystal Copies</title>\r\n\r\nCarnivorous crystals reproduce in two ways. Their preferred method is by infecting their victims with magical enzymes that cause living flesh to rapidly petrify and transform into immobile crystal. At the end of this process, the crystallized victim shatters as a newly born carnivorous crystal emerges from its cocoon. Like other oozes, however, they are also capable of reproducing by splitting, though they typically do so only under extreme duress.\r\n</aside>",
+ "name": "Carnivorous Crystal",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2019-10-16",
+ "resistance": {
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "piercing 10, slashing 10",
+ "resistance_raw": "piercing 10, slashing 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 76</row>\n\n<row gap=\"medium\">\r\n**HP** 300\r\n\r\n**AC** 20\r\n\r\n**Fort** +20\r\n\r\n**Ref** +10\r\n\r\n**Will** +15\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCarnivorous crystals are strange ooze creatures native to the Plane of Earth. Unlike most oozes, their bodies are not homogeneously fluid; rather, …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +24"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +24",
+ "source": [
+  "Pathfinder #148: Fires of the Haunted City"
+ ],
+ "source_raw": [
+  "Pathfinder #148: Fires of the Haunted City pg. 76"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 76</row>",
+ "speed": {
+  "climb": 10,
+  "land": 10,
+  "max": 10
+ },
+ "speed_markdown": "10 feet, climb 10 feet",
+ "speed_raw": "10 feet, climb 10 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Carnivorous crystals are strange ooze creatures native to the Plane of Earth. Unlike most oozes, their bodies are not homogeneously fluid; rather, …",
+ "summary_markdown": "Carnivorous crystals are strange ooze creatures native to the Plane of Earth. Unlike most oozes, their bodies are not homogeneously fluid; rather, …",
+ "text": " Carnivorous Crystal Carnivorous crystals are strange ooze creatures native to the Plane of Earth. Unlike most oozes, their bodies are not homogeneously fluid; rather, interspersed within their glassy, viscous resin are thousands of sharp mineral formations that nevertheless possess some of the same flexibility and mobility as the rest of the creature’s gooey body. Recall Knowledge - Ooze (Occultism): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Carnivorous Crystal Source Pathfinder #148: Fires of the Haunted City pg. 76 Perception +15; motion sense 60 feet, no vision Languages Skills Athletics +24 Str +7 Dex -5 Con +5 Int -5 Wis +0 Cha -5 Motion Sense A carnivorous crystal can sense nearby motion through vibration and air movement. --- AC 20 Fort +20 Ref +10 Will +15 HP 300 Immunities acid, critical hits (except bludgeoning or sonic), mental, precision, unconscious, visual Resistances piercing 10, slashing 10 Weaknesses sonic 10 Split Whenever the carnivorous crystal takes a critical hit from an attack that deals bludgeoning or sonic damage, or it critically fails its saving throw against an effect that deals bludgeoning or sonic damage, it might split. If the carnivorous crystal has at least 15 HP remaining after taking the damage, it splits into two identical crystals, each with half the original’s Hit Points. When the carnivorous crystal splits, one crystal remains in the same space and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, the crystal automatically pushes creatures out of the way to fill a space. Subsonic Hum (auditory, aura, mental) 60 feet. A creature that enters or starts its turn within the aura must succeed at a DC 28 Will save or become stunned 1. --- Speed 10 feet, climb 10 feet Melee Single Action pseudopod +24 (versatile S), Damage 4d8+7 piercing Crystallize Single Action (Attack) Requirement The crystal has a creature engulfed. Effect The engulfed creature must succeed at a DC 28 Fortitude save or become slowed 1 until it is no longer engulfed. If the creature is already slowed, it becomes petrified as it is turned into crystal and expelled by the carnivorous crystal onto the ground. In 1d4 hours, the petrified victim shatters and a new carnivorous crystal emerges from the remains. Engulf Two Actions DC 28, 2d6 slashing, Escape DC 28, Rupture 25 (bludgeoning only). Freeze Two Actions (Concentrate) Until the next time it acts, the carnivorous crystal appears to be a mundane crystal formation. It has an automatic result of 40 on Deception and Stealth checks and DCs to pass as a crystal formation. Razor Sharp If a carnivorous crystal hits with an attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure. Crystal Copies Carnivorous crystals reproduce in two ways. Their preferred method is by infecting their victims with magical enzymes that cause living flesh to rapidly petrify and transform into immobile crystal. At the end of this process, the crystallized victim shatters as a newly born carnivorous crystal emerges from its cocoon. Like other oozes, however, they are also capable of reproducing by splitting, though they typically do so only under extreme duress. ",
+ "trait": [
+  "Earth",
+  "Mindless",
+  "Ooze",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Earth",
+  "Mindless",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=464",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "sonic": 10
+ },
+ "weakness_markdown": "sonic 10",
+ "weakness_raw": "sonic 10",
+ "will_save": 15,
+ "wisdom": 0
+}

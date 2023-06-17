@@ -1,0 +1,101 @@
+{
+ "ac": 37,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 4,
+ "creature_ability": [
+  "Ravenous Tracker",
+  "Selective Scent",
+  "Predator's Leap",
+  "Swallow Whole"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 275,
+ "hp_raw": "275",
+ "id": "creature-981",
+ "image": [
+  "/Images/Monsters/Viskithrel.png"
+ ],
+ "immunity": [
+  "sickened"
+ ],
+ "immunity_markdown": "[sickened](/Conditions.aspx?ID=34)",
+ "intelligence": -3,
+ "language": [
+  "Abyssal",
+  "(can't speak any languages)"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12); (can't speak any languages)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Viskithrel](/Monsters.aspx?ID=981)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nOne of the many horrid life-forms native to [Zevgavizeb's](/Deities.aspx?ID=82) Abyssal realm of Gluttondark, viskithrels—or “gluttonraptors”—are tireless hunters resembling tentacled theropods. They are social creatures by nature and prefer to hunt in large packs, chasing down prey and tearing them apart to share with their fellow hunters. A lone viskithrel forgoes hunting to frantically seek out others of its kind, starving to death if it cannot do so. Although viskithrels attack nearly any other creatures they encounter, they virtually never fight other viskithrels; even beasts in rival packs give each other space rather than fight over territory or prey.\n\n Other, smarter denizens of Gluttondark, such as [xilvireks](/Monsters.aspx?ID=534)  herd and train viskithrels, working to convince the viskithrels that the trainer is one of their pack. This not only protects the trainer from attacks by the viskithrels, but also enables the trainer to easily direct them.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Viskithrel.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Viskithrel](/Monsters.aspx?ID=981)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 84</row>\n\n**Perception** +27; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (precise) 100 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12); (can't speak any languages)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +31, [Survival](/Skills.aspx?ID=16) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +6\r\n\r\n**Con** +4\r\n\r\n**Int** -3\r\n\r\n**Wis** +4\r\n\r\n**Cha** -1\r\n</row>\r\n\r\n**Ravenous Tracker** A viskithrel can detect a creature's scent up to a week after the creature has passed through or left an area, and it gains a +4 circumstance bonus to [Track](/Actions.aspx?ID=66) a creature whose scent it has detected.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 37 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +27 \r\n\r\n**Will** +23 \r\n\r\nselective scent\r\n</row>\r\n\r\n**HP** 275\n\n**Immunities**\r\n[sickened](/Conditions.aspx?ID=34)\n\n**Selective Scent** A viskithrel's many-chambered snout allows it to partition and ignore scents. The creature can choose to critically succeed at any saving throw against an inhaled threat (such as [inhaled](/Traits.aspx?ID=96) poison) or [olfactory](/Traits.aspx?ID=246) effects, regardless of its roll.<br />**Predator's Leap** <actions string=\"Reaction\" /> **Trigger** A creature within 10 feet of the viskithrel makes a melee Strike against it; **Effect** The viskithrel Steps up to 15 feet, ignoring difficult terrain as it leaps over obstacles. If this movement takes the viskithrel out of range of the triggering Strike, the Strike is disrupted. It then makes a jaws Strike against a [bleeding](/Conditions.aspx?ID=29) creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +30 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+14 piercing plus 1d10 acid and Grab\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +30 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+14 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +30 ([reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d10+14 slashing plus 2d10 [persistent bleed](/Conditions.aspx?ID=29)\n\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 3d10 bludgeoning plus 2d10 acid, Rupture 25\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Summoning Viskithrels</title>\r\n\r\nLong ago, [xulgath](/MonsterFamilies.aspx?ID=102) priests deep in the Darklands learned that summoning a single viskithrel doesn't do much good; the lone creature resists any commands, instead seeking out other viskithrels to form a new pack. Summoning multiple viskithrels at once requires more powerful magic, and is usually performed only by the most powerful xulgath priests or by Darklands denizens who live near stable gates to Gluttondark.\r\n\r\n</aside>",
+ "name": "Viskithrel",
+ "npc": false,
+ "perception": 27,
+ "rarity": "uncommon",
+ "reflex_save": 27,
+ "release_date": "2020-06-24",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 84</row>\n\n<row gap=\"medium\">\r\n**HP** 275\r\n\r\n**AC** 37\r\n\r\n**Fort** +25\r\n\r\n**Ref** +27\r\n\r\n**Will** +23\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOne of the many horrid life-forms native to  Zevgavizeb's  Abyssal realm of Gluttondark, viskithrels—or “gluttonraptors”—are tireless hunters …\r\n</summary>",
+ "sense": " darkvision ,  scent (precise) 100 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (precise) 100 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +25",
+  "Athletics +31",
+  "Survival +27"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +31, [Survival](/Skills.aspx?ID=16) +27",
+ "source": [
+  "Pathfinder #156: The Apocalypse Prophet"
+ ],
+ "source_raw": [
+  "Pathfinder #156: The Apocalypse Prophet pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 84</row>",
+ "speed": {
+  "land": 40,
+  "max": 40,
+  "swim": 20
+ },
+ "speed_markdown": "40 feet, swim 20 feet",
+ "speed_raw": "40 feet, swim 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "strength": 8,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "One of the many horrid life-forms native to  Zevgavizeb's  Abyssal realm of Gluttondark, viskithrels—or “gluttonraptors”—are tireless hunters …",
+ "summary_markdown": "One of the many horrid life-forms native to  Zevgavizeb's  Abyssal realm of Gluttondark, viskithrels—or “gluttonraptors”—are tireless hunters …",
+ "text": " Viskithrel One of the many horrid life-forms native to Zevgavizeb's Abyssal realm of Gluttondark, viskithrels—or “gluttonraptors”—are tireless hunters resembling tentacled theropods. They are social creatures by nature and prefer to hunt in large packs, chasing down prey and tearing them apart to share with their fellow hunters. A lone viskithrel forgoes hunting to frantically seek out others of its kind, starving to death if it cannot do so. Although viskithrels attack nearly any other creatures they encounter, they virtually never fight other viskithrels; even beasts in rival packs give each other space rather than fight over territory or prey. Other, smarter denizens of Gluttondark, such as xilvireks herd and train viskithrels, working to convince the viskithrels that the trainer is one of their pack. This not only protects the trainer from attacks by the viskithrels, but also enables the trainer to easily direct them. Recall Knowledge - Beast (Arcana, Nature): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Viskithrel Source Pathfinder #156: The Apocalypse Prophet pg. 84 Perception +27; darkvision, scent (precise) 100 feet Languages Abyssal; (can't speak any languages) Skills Acrobatics +25, Athletics +31, Survival +27 Str +8 Dex +6 Con +4 Int -3 Wis +4 Cha -1 Ravenous Tracker A viskithrel can detect a creature's scent up to a week after the creature has passed through or left an area, and it gains a +4 circumstance bonus to Track a creature whose scent it has detected. --- AC 37 Fort +25 Ref +27 Will +23 selective scent HP 275 Immunities sickened Selective Scent A viskithrel's many-chambered snout allows it to partition and ignore scents. The creature can choose to critically succeed at any saving throw against an inhaled threat (such as inhaled poison) or olfactory effects, regardless of its roll. Predator's Leap Reaction Trigger A creature within 10 feet of the viskithrel makes a melee Strike against it; Effect The viskithrel Steps up to 15 feet, ignoring difficult terrain as it leaps over obstacles. If this movement takes the viskithrel out of range of the triggering Strike, the Strike is disrupted. It then makes a jaws Strike against a bleeding creature. --- Speed 40 feet, swim 20 feet Melee Single Action jaws +30 (reach 15 feet), Damage 3d10+14 piercing plus 1d10 acid and Grab Melee Single Action talon +30 (Agile, reach 10 feet), Damage 3d10+14 slashing Melee Single Action tentacle +30 (reach 20 feet), Damage 1d10+14 slashing plus 2d10 persistent bleed Swallow Whole Single Action (Attack) Large, 3d10 bludgeoning plus 2d10 acid, Rupture 25 Summoning Viskithrels Long ago, xulgath priests deep in the Darklands learned that summoning a single viskithrel doesn't do much good; the lone creature resists any commands, instead seeking out other viskithrels to form a new pack. Summoning multiple viskithrels at once requires more powerful magic, and is usually performed only by the most powerful xulgath priests or by Darklands denizens who live near stable gates to Gluttondark. ",
+ "trait": [
+  "Beast",
+  "Uncommon",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=981",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": 4
+}

@@ -1,0 +1,95 @@
+{
+ "ac": 28,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 4,
+ "creature_ability": [
+  "Constrict",
+  "Jet",
+  "Ravenous Embrace"
+ ],
+ "creature_family": "Squid",
+ "creature_family_markdown": "[Squid](/MonsterFamilies.aspx?ID=155)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 155,
+ "hp_raw": "155",
+ "id": "creature-820",
+ "image": [
+  "/Images/Monsters/Squid_GiantSquid.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Squid](/Monsters.aspx?ID=820)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDwelling deep within the oceans, this huge cephalopod grows up to 45 feet in length and can weigh up to 600 pounds. Its arms and tentacles are lined with hundreds of hooks and suckers, allowing it to seize its prey with ease.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Squid_GiantSquid.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Giant Squid](/Monsters.aspx?ID=820)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 254 <sup>2.0</sup></row>\n\n**Perception** +21; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +20, [Stealth](/Skills.aspx?ID=15) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +6\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 155\n\n**Resistances**\r\ncold 10\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** swim 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +21,\r\n**Damage** 2d12+11 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbarbed tentacles +21 ([Agile](/Traits.aspx?ID=170), [reach 25 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+11 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\narm +21 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+11 bludgeoning plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d10+10 bludgeoning, DC 25\r\n\r\n**Jet** <actions string=\"Two Actions\" /> ([Move](/Traits.aspx?ID=114)) The giant squid moves up to 200 feet in a straight line through the water without triggering any reactions.\r\n\r\n**Ravenous Embrace** <actions string=\"Two Actions\" />  The giant squid makes up to four arm Strikes, each with a different arm and against a different target. The giant squid then makes a beak Strike against one creature that it [grabbed](/Conditions.aspx?ID=20) during Ravenous Embrace. Each arm Strike counts separately for the squid's multiple attack penalty, but the penalty doesn't increase until the squid has made all of its arm Strikes; the beak Strike uses the multiple attack penalty as normal.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Giant Squid Tactics</title>\r\n\r\nThe giant squid attacks by lashing out with its longest tentacles and then rapidly pulling the prey toward itself. While closing the distance between them, it attacks again, this time closing its smaller arms around the prey. Once it has the prey thoroughly trapped, the giant squid tears and cuts with its beak and the teeth-lined saw it has in the place of a tongue.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-155\" />",
+ "name": "Giant Squid",
+ "npc": false,
+ "perception": 21,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 18,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "cold": 10
+ },
+ "resistance_markdown": "cold 10",
+ "resistance_raw": "cold 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 254 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Squid](/MonsterFamilies.aspx?ID=155)\r\n\r\n<row gap=\"medium\">\r\n**HP** 155\r\n\r\n**AC** 28\r\n\r\n**Fort** +15\r\n\r\n**Ref** +18\r\n\r\n**Will** +21\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDwelling deep within the oceans, this huge cephalopod grows up to 45 feet in length and can weigh up to 600 pounds. Its arms and tentacles are lined …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +20",
+  "Stealth +18"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +20, [Stealth](/Skills.aspx?ID=15) +18",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 254"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 254 <sup>2.0</sup></row>",
+ "speed": {
+  "max": 40,
+  "swim": 40
+ },
+ "speed_markdown": "swim 40 feet",
+ "speed_raw": "swim 40 feet",
+ "spell_markdown": "",
+ "stealth": "18",
+ "strength": 7,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Dwelling deep within the oceans, this huge cephalopod grows up to 45 feet in length and can weigh up to 600 pounds. Its arms and tentacles are lined …",
+ "summary_markdown": "Dwelling deep within the oceans, this huge cephalopod grows up to 45 feet in length and can weigh up to 600 pounds. Its arms and tentacles are lined …",
+ "text": " Giant Squid Dwelling deep within the oceans, this huge cephalopod grows up to 45 feet in length and can weigh up to 600 pounds. Its arms and tentacles are lined with hundreds of hooks and suckers, allowing it to seize its prey with ease. Recall Knowledge - Animal (Nature): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Giant Squid Source Bestiary 2 pg. 254 2.0 Perception +21; darkvision Languages Skills Athletics +20, Stealth +18 Str +7 Dex +3 Con +4 Int -4 Wis +6 Cha -2 --- AC 28 Fort +15 Ref +18 Will +21 HP 155 Resistances cold 10 --- Speed swim 40 feet Melee Single Action beak +21, Damage 2d12+11 piercing Melee Single Action barbed tentacles +21 (Agile, reach 25 feet), Damage 2d10+11 slashing plus Grab Melee Single Action arm +21 (Agile, reach 10 feet), Damage 2d8+11 bludgeoning plus Improved Grab Constrict Single Action 1d10+10 bludgeoning, DC 25 Jet Two Actions (Move) The giant squid moves up to 200 feet in a straight line through the water without triggering any reactions. Ravenous Embrace Two Actions The giant squid makes up to four arm Strikes, each with a different arm and against a different target. The giant squid then makes a beak Strike against one creature that it grabbed during Ravenous Embrace. Each arm Strike counts separately for the squid's multiple attack penalty, but the penalty doesn't increase until the squid has made all of its arm Strikes; the beak Strike uses the multiple attack penalty as normal. Giant Squid Tactics The giant squid attacks by lashing out with its longest tentacles and then rapidly pulling the prey toward itself. While closing the distance between them, it attacks again, this time closing its smaller arms around the prey. Once it has the prey thoroughly trapped, the giant squid tears and cuts with its beak and the teeth-lined saw it has in the place of a tongue. ",
+ "trait": [
+  "Animal",
+  "Aquatic",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Aquatic](/Traits.aspx?ID=168)",
+ "trait_raw": [
+  "Animal",
+  "Aquatic"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=820",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 6
+}

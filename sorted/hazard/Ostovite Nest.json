@@ -1,0 +1,65 @@
+{
+ "ac": 18,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 18  Athletics  (trained) to topple the mound and destroy it",
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hardness": 7,
+ "hardness_raw": "7",
+ "hazard_type": "Environmental",
+ "hp": 30,
+ "hp_raw": "30 (BT 15)",
+ "id": "hazard-198",
+ "immunity": [
+  "acid",
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "[acid](/Traits.aspx?ID=3), critical hits, object immunities, precision damage",
+ "level": 2,
+ "markdown": "<title level=\"1\" right=\"Hazard 2\" pfs=\"\">[Ostovite Nest](/Hazards.aspx?ID=198)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 26</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nA nest of bones resembling an ant hill contains countless miniscule scavenger vermin with vicious, acid-dripping mandibles.\r\n\r\n---\r\n\r\n**Stealth**\r\n+11 (trained)\r\n\r\n**Disable**\r\nDC 18 [Athletics](/Skills.aspx?ID=3) (trained) to topple the mound and destroy it\n\n<column gap=\"tiny\">\r\n\r\n**AC** 18, **Fort** +11, **Ref** +5\r\n\r\n**Hardness**\r\n7\r\n\r\n**HP**\r\n30 (BT 15)\r\n\r\n**Immunities**\r\n[acid](/Traits.aspx?ID=3), critical hits, object immunities, precision damage\r\n\r\n**Weaknesses**\r\narea damage 5, bludgeoning 5, [splash](/Traits.aspx?ID=150) damage 5\n\n</column>\r\n\r\n**Skittering Surge** <actions string=\"Reaction\" /> **Trigger** A creature comes within 15 feet of the nest; **Effect** A mass of skittering ostovite hatchlings crawls all over the nest, spewing acid in all directions. Each creature within 30 feet of the nest takes 1d10+4 acid damage (DC 18 [basic](/Rules.aspx?ID=329) Reflex save). A creature who fails the save also takes 1 [persistent acid damage](/Conditions.aspx?ID=29). The hazard then rolls initiative.\n\n---\r\n**Routine**\r\n(1 action) The hazard makes an acid spew Strike against the nearest creature.<br />**Ranged** <actions string=\"Single Action\" /> acid spew +11 (range increment 30 feet), **Damage** 1d10+4 acid\r\n\r\n---\r\n**Reset**\r\nThe hazard deactivates if there are no targets for its acid spew at the start of its turn. The hatchlings return to the nest, and the hazard resets. If damaged but not destroyed, the nest recovers 1d6 Hit Points per hour as the hatchlings repair it.",
+ "name": "Ostovite Nest",
+ "rarity": "rare",
+ "reflex_save": 5,
+ "release_date": "2022-07-27",
+ "reset": "The hazard deactivates if there are no targets for its acid spew at the start of its turn. The hatchlings return to the nest, and the hazard resets. If damaged but not destroyed, the nest recovers 1d6 Hit Points per hour as the hatchlings repair it.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 26</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA nest of bones resembling an ant hill contains countless miniscule scavenger vermin with vicious, acid-dripping mandibles.\r\n</summary>",
+ "source": [
+  "Pathfinder #181: Zombie Feast"
+ ],
+ "source_raw": [
+  "Pathfinder #181: Zombie Feast pg. 26"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 26</row>",
+ "speed": {},
+ "spoilers": "Blood Lords",
+ "stealth": "+11 (trained)",
+ "summary": "A nest of bones resembling an ant hill contains countless miniscule scavenger vermin with vicious, acid-dripping mandibles.",
+ "summary_markdown": "A nest of bones resembling an ant hill contains countless miniscule scavenger vermin with vicious, acid-dripping mandibles.",
+ "text": " Ostovite Nest Source Pathfinder #181: Zombie Feast pg. 26 Complexity Complex A nest of bones resembling an ant hill contains countless miniscule scavenger vermin with vicious, acid-dripping mandibles. --- Stealth +11 (trained) Disable DC 18 Athletics (trained) to topple the mound and destroy it AC 18, Fort +11, Ref +5 Hardness 7 HP 30 (BT 15) Immunities acid, critical hits, object immunities, precision damage Weaknesses area damage 5, bludgeoning 5, splash damage 5 Skittering Surge Reaction Trigger A creature comes within 15 feet of the nest; Effect A mass of skittering ostovite hatchlings crawls all over the nest, spewing acid in all directions. Each creature within 30 feet of the nest takes 1d10+4 acid damage (DC 18 basic Reflex save). A creature who fails the save also takes 1 persistent acid damage. The hazard then rolls initiative. --- Routine (1 action) The hazard makes an acid spew Strike against the nearest creature. Ranged Single Action acid spew +11 (range increment 30 feet), Damage 1d10+4 acid --- Reset The hazard deactivates if there are no targets for its acid spew at the start of its turn. The hatchlings return to the nest, and the hazard resets. If damaged but not destroyed, the nest recovers 1d6 Hit Points per hour as the hatchlings repair it.",
+ "trait": [
+  "Complex",
+  "Environmental",
+  "Rare"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Environmental](/Traits.aspx?ID=62), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Complex",
+  "Environmental",
+  "Rare"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=198",
+ "weakness": {
+  "area": 5,
+  "bludgeoning": 5
+ },
+ "weakness_markdown": "area damage 5, bludgeoning 5, [splash](/Traits.aspx?ID=150) damage 5",
+ "weakness_raw": "area damage 5, bludgeoning 5,  splash  damage 5"
+}

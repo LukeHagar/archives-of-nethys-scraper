@@ -1,0 +1,90 @@
+{
+ "ac": 23,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Cold Adaptation",
+  "Toss",
+  "Pointed Charge",
+  "Rolling Thunder"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 110,
+ "hp_raw": "110",
+ "id": "creature-1773",
+ "image": [
+  "/Images/Monsters/Bison_LongHorned.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Bison, Long-Horned](/Monsters.aspx?ID=1773)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMuch like their smaller [bison](/Monsters.aspx?ID=1080) cousins, long-horned bison are bovines with short faces, two horns, a shaggy coat, and a noticeable hump on their back. Despite their relation to more placid bovines, however, long-horned bison are ill-tempered and territorial. Their tread shakes the ground, while the thunder of their stampedes can be mistaken for an earthquake. Long-horned bison weigh upwards of 4,500 pounds and measure up to 9 feet tall and 16 feet long. Their horns, measured tip to tip, can be almost as wide as the bison are tall.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Bison_LongHorned.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Long-Horned Bison](/Monsters.aspx?ID=1773)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 83</row>\n\n**Perception** +13; [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +16, [Survival](/Skills.aspx?ID=16) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 110\n\n**Cold Adaptation** The bison reduces the effects it suffers from [cold environments](/Rules.aspx?ID=642) by one step.<br />**Toss** <actions string=\"Reaction\" /> **Trigger** A creature ends its movement within reach of the bison's horn Strike; **Effect** The bison attempts to [Shove](/Actions.aspx?ID=38) the triggering creature with its horns. The bison can't Stride after the triggering creature on a success or critical success.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhoof +16 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+8 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhorn +16 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+8 piercing plus [Knockdown](/MonsterAbilities.aspx?ID=20)\n\n**Pointed Charge** <actions string=\"Two Actions\" />  The bison surges toward its foe, horns lowered. It Strides twice. If the bison ends its movement with an enemy within its reach, it makes a horn Strike against that enemy. The strike gains the [fatal d12](/Traits.aspx?ID=178) trait.\r\n\r\n**Rolling Thunder** <actions string=\"Three Actions\" />  The bison kicks up dust and shakes the ground as it charges. The stampeding bison Strides up to twice its Speed in a straight line, dealing 4d8+8 bludgeoning damage (DC 24 [basic](/Rules.aspx?ID=329) Reflex save) to any Large or smaller creature in its path. <br />Multiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of its next turn, a bison can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d8 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Religious Significance</title>\r\n\r\nLong-horned bison play a prominent role in the rituals and ceremonies of many Kellid followings. Bison horns mark the shelters of community leaders, hides and wool are used to create ceremonial dress, and meat is offered to spirits before undertaking dangerous hunts. Among some followings, approaching a long-horned bison is an important coming-of-age ritual, with youths who get closest to the irascible creatures gaining more bragging rights and respect. The rare children who manage to mount a long-horned bison during these ceremonies often become community leaders, respected hunters, or legendary heroes.\r\n</aside>",
+ "name": "Long-Horned Bison",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2022-02-23",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 83</row>\n\n<row gap=\"medium\">\r\n**HP** 110\r\n\r\n**AC** 23\r\n\r\n**Fort** +17\r\n\r\n**Ref** +12\r\n\r\n**Will** +12\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMuch like their smaller  bison  cousins, long-horned bison are bovines with short faces, two horns, a shaggy coat, and a noticeable hump on their …\r\n</summary>",
+ "sense": " scent  (imprecise) 60 feet",
+ "sense_markdown": "[scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +16",
+  "Survival +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +16, [Survival](/Skills.aspx?ID=16) +13",
+ "source": [
+  "Pathfinder #176: Lost Mammoth Valley"
+ ],
+ "source_raw": [
+  "Pathfinder #176: Lost Mammoth Valley pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 83</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Much like their smaller  bison  cousins, long-horned bison are bovines with short faces, two horns, a shaggy coat, and a noticeable hump on their …",
+ "summary_markdown": "Much like their smaller  bison  cousins, long-horned bison are bovines with short faces, two horns, a shaggy coat, and a noticeable hump on their …",
+ "text": " Bison, Long-Horned Much like their smaller bison cousins, long-horned bison are bovines with short faces, two horns, a shaggy coat, and a noticeable hump on their back. Despite their relation to more placid bovines, however, long-horned bison are ill-tempered and territorial. Their tread shakes the ground, while the thunder of their stampedes can be mistaken for an earthquake. Long-horned bison weigh upwards of 4,500 pounds and measure up to 9 feet tall and 16 feet long. Their horns, measured tip to tip, can be almost as wide as the bison are tall. Recall Knowledge - Animal (Nature): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Long-Horned Bison Source Pathfinder #176: Lost Mammoth Valley pg. 83 Perception +13; scent (imprecise) 60 feet Languages Skills Athletics +16, Survival +13 Str +6 Dex +2 Con +5 Int -5 Wis +3 Cha +0 --- AC 23 Fort +17 Ref +12 Will +12 HP 110 Cold Adaptation The bison reduces the effects it suffers from cold environments by one step. Toss Reaction Trigger A creature ends its movement within reach of the bison's horn Strike; Effect The bison attempts to Shove the triggering creature with its horns. The bison can't Stride after the triggering creature on a success or critical success. --- Speed 35 feet Melee Single Action hoof +16 (reach 10 feet), Damage 2d8+8 bludgeoning Melee Single Action horn +16 (reach 10 feet), Damage 2d10+8 piercing plus Knockdown Pointed Charge Two Actions The bison surges toward its foe, horns lowered. It Strides twice. If the bison ends its movement with an enemy within its reach, it makes a horn Strike against that enemy. The strike gains the fatal d12 trait. Rolling Thunder Three Actions The bison kicks up dust and shakes the ground as it charges. The stampeding bison Strides up to twice its Speed in a straight line, dealing 4d8+8 bludgeoning damage (DC 24 basic Reflex save) to any Large or smaller creature in its path. Multiple bison can participate in Rolling Thunder by spending this ability's actions and waiting to charge until the herd is ready. Before the beginning of its next turn, a bison can then charge as a reaction triggered by an adjacent bison beginning its Rolling Thunder charge. All bison in the combined charge must charge in parallel lines, so the areas can't overlap. The combined charge deals an additional 3d8 bludgeoning damage to creatures in the area, and a creature that fails the Reflex saving throw is also knocked prone. Religious Significance Long-horned bison play a prominent role in the rituals and ceremonies of many Kellid followings. Bison horns mark the shelters of community leaders, hides and wool are used to create ceremonial dress, and meat is offered to spirits before undertaking dangerous hunts. Among some followings, approaching a long-horned bison is an important coming-of-age ritual, with youths who get closest to the irascible creatures gaining more bragging rights and respect. The rare children who manage to mount a long-horned bison during these ceremonies often become community leaders, respected hunters, or legendary heroes. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1773",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 3
+}

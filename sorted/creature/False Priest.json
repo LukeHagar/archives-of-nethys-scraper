@@ -1,0 +1,92 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 3,
+ "creature_ability": [
+  "Deceiver's Surprise",
+  "Fickle Prophecy",
+  "Sneak Attack",
+  "The Jig Is Up"
+ ],
+ "creature_family": "Mystics",
+ "creature_family_markdown": "[Mystics](/MonsterFamilies.aspx?ID=191)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 51,
+ "hp_raw": "51",
+ "id": "creature-928",
+ "intelligence": 0,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[False Priest](/NPCs.aspx?ID=928)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBelief is perhaps the strongest force in the universe, driving many to great heights. Instilling a sense of belief and then using that belief against someone, however, is the discipline of a false priest. Combining their gifts of deception, a silver tongue, and an impeccable sense of timing, the false priest can gain influence among the powerful, entice a mark to dispose of all their possessions, and make a believer out of a cynic.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[False Priest](/NPCs.aspx?ID=928)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 229</row>\n\n**Perception** +10\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +12, [Performance](/Skills.aspx?ID=12) +12, [Religion](/Skills.aspx?ID=13) +8, [Society](/Skills.aspx?ID=14) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[alchemical tools](/Equipment.aspx?ID=2) (used as \"blessed items\" to fool marks), [Backpack](/Equipment.aspx?ID=4), cloak, [Hand Crossbow](/Weapons.aspx?ID=69) (20 bolts), collection of fake relics, [wooden religious symbol](/Equipment.aspx?ID=41), [Studded Leather Armor](/Armor.aspx?ID=5), [Rapier](/Weapons.aspx?ID=36)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 51\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nrapier +12 ([deadly 1d8](/Traits.aspx?ID=174), [Disarm](/Traits.aspx?ID=175), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+8 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nhand crossbow +12 ([range increment 60 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 1d6+4 piercing\n\n**Deceiver's Surprise**   On the first round of combat, if the false priest rolls [Deception](/Skills.aspx?ID=5) or [Performance](/Skills.aspx?ID=12) for initiative, creatures that haven't acted yet are [flat-footed](/Conditions.aspx?ID=16) to the false priest.\r\n\r\n**Fickle Prophecy** <actions string=\"Single Action\" /> ([Emotion](/Traits.aspx?ID=60), [Mental](/Traits.aspx?ID=106)) The false priest convinces someone of their omnipotence by attempting a [Deception](/Skills.aspx?ID=5) check compared to the creature's Will DC. If successful, the target gains 1d8+4 temporary Hit Points that last for 1 hour or until the false priest removes them by rebuking the target, whichever occurs first.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The false priest deals an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures. This increases to 2d6 against creatures flat-footed due to the false priest's [Feint](/Actions.aspx?ID=48) or deceiver's surprise.\r\n\r\n**The Jig Is Up** <actions string=\"Reaction\" />  **Frequency** once per hour; **Trigger** The false priest critically fails a [Deception](/Skills.aspx?ID=5) or [Performance](/Skills.aspx?ID=12) check; **Effect** The false priest Strides.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-191\" />",
+ "name": "False Priest",
+ "npc": true,
+ "perception": 10,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 229</row>\r\n\r\n**Creature Family** [Mystics](/MonsterFamilies.aspx?ID=191)\r\n\r\n<row gap=\"medium\">\r\n**HP** 51\r\n\r\n**AC** 21\r\n\r\n**Fort** +11\r\n\r\n**Ref** +12\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBelief is perhaps the strongest force in the universe, driving many to great heights. Instilling a sense of belief and then using that belief against …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Athletics +8",
+  "Deception +12",
+  "Performance +12",
+  "Religion +8",
+  "Society +6"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Athletics](/Skills.aspx?ID=3) +8, [Deception](/Skills.aspx?ID=5) +12, [Performance](/Skills.aspx?ID=12) +12, [Religion](/Skills.aspx?ID=13) +8, [Society](/Skills.aspx?ID=14) +6",
+ "source": [
+  "Gamemastery Guide"
+ ],
+ "source_raw": [
+  "Gamemastery Guide pg. 229"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Gamemastery Guide](/Sources.aspx?ID=22) pg. 229</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Belief is perhaps the strongest force in the universe, driving many to great heights. Instilling a sense of belief and then using that belief against …",
+ "summary_markdown": "Belief is perhaps the strongest force in the universe, driving many to great heights. Instilling a sense of belief and then using that belief against …",
+ "text": " False Priest Belief is perhaps the strongest force in the universe, driving many to great heights. Instilling a sense of belief and then using that belief against someone, however, is the discipline of a false priest. Combining their gifts of deception, a silver tongue, and an impeccable sense of timing, the false priest can gain influence among the powerful, entice a mark to dispose of all their possessions, and make a believer out of a cynic. Recall Knowledge - Humanoid (Society): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 False Priest Source Gamemastery Guide pg. 229 Perception +10 Languages Common Skills Acrobatics +10, Athletics +8, Deception +12, Performance +12, Religion +8, Society +6 Str +0 Dex +4 Con +3 Int +0 Wis +2 Cha +4 Items alchemical tools (used as \"blessed items\" to fool marks), Backpack, cloak, Hand Crossbow (20 bolts), collection of fake relics, wooden religious symbol, Studded Leather Armor, Rapier --- AC 21 Fort +11 Ref +12 Will +10 HP 51 --- Speed 25 feet Melee Single Action rapier +12 (deadly 1d8, Disarm, Finesse), Damage 1d6+8 piercing Ranged Single Action hand crossbow +12 (range increment 60 feet, reload 1), Damage 1d6+4 piercing Deceiver's Surprise On the first round of combat, if the false priest rolls Deception or Performance for initiative, creatures that haven't acted yet are flat-footed to the false priest. Fickle Prophecy Single Action (Emotion, Mental) The false priest convinces someone of their omnipotence by attempting a Deception check compared to the creature's Will DC. If successful, the target gains 1d8+4 temporary Hit Points that last for 1 hour or until the false priest removes them by rebuking the target, whichever occurs first. Sneak Attack The false priest deals an extra 1d6 precision damage to flat-footed creatures. This increases to 2d6 against creatures flat-footed due to the false priest's Feint or deceiver's surprise. The Jig Is Up Reaction Frequency once per hour; Trigger The false priest critically fails a Deception or Performance check; Effect The false priest Strides. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Human",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=928",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

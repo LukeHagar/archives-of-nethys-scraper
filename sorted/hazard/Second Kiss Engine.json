@@ -1,0 +1,58 @@
+{
+ "ac": 27,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 28  Thievery  (expert) to disable the engine, or DC 26  Engineering Lore  to disengage the drive shaft. Either method disables the trap but also shuts down the engine, disabling the  Second Kiss's  propulsion.",
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hardness": 10,
+ "hardness_raw": "10",
+ "hazard_type": "Trap",
+ "hp": 50,
+ "hp_raw": "50 (BT 25)",
+ "id": "hazard-172",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 6,
+ "markdown": "<title level=\"1\" right=\"Hazard 6\" pfs=\"\">[Second Kiss Engine](/Hazards.aspx?ID=172)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 28</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nExposed clockwork gears spin at high speeds.\r\n\r\n---\r\n\r\n**Stealth**\r\n-1\r\n\r\n**Disable**\r\nDC 28 [Thievery](/Skills.aspx?ID=17) (expert) to disable the engine, or DC 26 [Engineering Lore](/Skills.aspx?ID=8) to disengage the drive shaft. Either method disables the trap but also shuts down the engine, disabling the _Second Kiss's_ propulsion.\n\n<column gap=\"tiny\">\r\n\r\n**AC** 27, **Fort** +15, **Ref** +18\r\n\r\n**Hardness**\r\n10\r\n\r\n**HP**\r\n50 (BT 25)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Spinning Gears** <actions string=\"Reaction\" /> **Trigger** A creature Strides in the engine nacelle; **Effect** The creature's clothing or limbs get caught in the spinning gears and axles of the engine. The creature must attempt a DC 24 Reflex save.\r\n\r\n**Critical Success** The creature is unaffected.<br />\r\n**Success** The creature takes 2d8+9 bludgeoning damage.<br />\r\n**Failure** The creature takes 4d8+18 bludgeoning damage.<br />\r\n**Critical Failure** The creature's clothing is pulled into the clockworks. The creature takes 4d8+18 bludgeoning damage and is [restrained](/Conditions.aspx?ID=33). Until the creature [Escapes](/Actions.aspx?ID=79) (DC 24), it takes 2d8+9 bludgeoning damage each round as it's pulled into the spinning rotors. A creature wearing clothing can automatically Escape by doffing its caught clothing; this destroys the doffed clothing.",
+ "name": "Second Kiss Engine",
+ "rarity": "uncommon",
+ "reflex_save": 18,
+ "release_date": "2022-05-25",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 28</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nExposed clockwork gears spin at high speeds.\r\n</summary>",
+ "source": [
+  "Pathfinder #179: Cradle of Quartz"
+ ],
+ "source_raw": [
+  "Pathfinder #179: Cradle of Quartz pg. 28"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 28</row>",
+ "speed": {},
+ "spoilers": "Outlaws of Alkenstar",
+ "stealth": "-1",
+ "summary": "Exposed clockwork gears spin at high speeds.",
+ "summary_markdown": "Exposed clockwork gears spin at high speeds.",
+ "text": " Second Kiss Engine Source Pathfinder #179: Cradle of Quartz pg. 28 Complexity Simple Exposed clockwork gears spin at high speeds. --- Stealth -1 Disable DC 28 Thievery (expert) to disable the engine, or DC 26 Engineering Lore to disengage the drive shaft. Either method disables the trap but also shuts down the engine, disabling the Second Kiss's propulsion. AC 27, Fort +15, Ref +18 Hardness 10 HP 50 (BT 25) Immunities critical hits, object immunities, precision damage Spinning Gears Reaction Trigger A creature Strides in the engine nacelle; Effect The creature's clothing or limbs get caught in the spinning gears and axles of the engine. The creature must attempt a DC 24 Reflex save. Critical Success The creature is unaffected. Success The creature takes 2d8+9 bludgeoning damage. Failure The creature takes 4d8+18 bludgeoning damage. Critical Failure The creature's clothing is pulled into the clockworks. The creature takes 4d8+18 bludgeoning damage and is restrained. Until the creature Escapes (DC 24), it takes 2d8+9 bludgeoning damage each round as it's pulled into the spinning rotors. A creature wearing clothing can automatically Escape by doffing its caught clothing; this destroys the doffed clothing.",
+ "trait": [
+  "Mechanical",
+  "Trap",
+  "Uncommon"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap",
+  "Uncommon"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=172",
+ "weakness": {}
+}

@@ -1,0 +1,104 @@
+{
+ "ac": 28,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Constrict",
+  "Mandibles",
+  "Paralytic Venom",
+  "Tentacle Transfer"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 100,
+ "hp_raw": "100",
+ "id": "creature-81",
+ "image": [
+  "/Images/Monsters/Chuul.png"
+ ],
+ "immunity": [
+  "poison"
+ ],
+ "immunity_markdown": "[poison](/Traits.aspx?ID=126)\r\n",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Common",
+  "(or Undercommon, for Darklands variants)"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1); (or Undercommon, for Darklands variants)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Chuul](/Monsters.aspx?ID=81)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAlso known as chu'ulothis, these large, armor-plated, crustacean predators lurk beneath the surface of pools, mires, and ponds, waiting to snatch up prey with their massive claws before paralyzing them with their tentacles. At that point, they begin to feed, eating their quarry alive.\n\n Chuuls can live in fresh or saltwater, and indeed are found in aquatic environs the world over—even in the subterranean oceans and lakes of the Darklands. While chuuls are good swimmers, they prefer terrestrial prey. Their preferred method of hunting is by lunging out of the water, paralyzing their victims with their poison-coated tentacles, then gleefully dragging their twitching food into the water to drown if they cannot simply eat such morsels alive. Chuuls that dwell aboveground prefer to dine on lizardfolk, while those swimming the subterranean lakes of the Darklands readily eat anything but xulgaths, whose flavor and stink they find off-putting.\n\n Chuuls are capable of speech and reason, but these creatures rarely speak with those outside their species except to taunt their food. Before it begins consuming its prey, a chuul often speaks in a gurgling, nearly incomprehensible dialect about how it will enjoy feasting on the creature's flesh. Perhaps chuuls believe that insults and degradation lead to more tender and tastier food, but the truth will likely never be known; almost all chuuls stubbornly refuse any meaningful conversation, even when imprisoned and compelled by treats or pain.\n\n It is unknown if a chuul society exists beyond their frenzied mating season. Chuuls' intellects seem devoted only toward eating, causing psychological pain to sentient creatures, decorating their lairs with mementos of their favorite meals and victories, and breeding.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Chuul.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Chuul](/Monsters.aspx?ID=81)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 64</row>\n\n**Perception** +15; darkvision, tremorsense (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1); (or Undercommon, for Darklands variants)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +17, [Nature](/Skills.aspx?ID=10) +13, [Stealth](/Skills.aspx?ID=15) +14, [Survival](/Skills.aspx?ID=16) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** -1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 100\n\n**Immunities**\r\n[poison](/Traits.aspx?ID=126)\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet; swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaws +19 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+9 bludgeoning plus Grab\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+9 bludgeoning, DC 25 (grabbed by claws only)\r\n\r\n**Mandibles** <actions string=\"Single Action\" />  **Requirement** A creature is grabbed and paralyzed by the chuul’s tentacles. **Effect** The creature takes 3d6 piercing damage.\r\n\r\n**Paralytic Venom**  ([Incapacitation](/Traits.aspx?ID=93), [Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 25 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** paralyzed (1 round).\r\n\r\n**Tentacle Transfer** <actions string=\"Single Action\" />  **Requirement** The chuul has a creature grabbed. **Effect** The chuul transfers the grabbed creature from its claws to its tentacles, or vice versa. A creature is exposed to the chuul’s paralytic venom when transferred into the tentacles and at the start of each of the chuul’s turns if it remains grabbed by the tentacles.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Chuul Treasure</title>\r\n\r\nWhile chuuls are uninterested in money, gems, tools, or magic of any kind, they have a nearly compulsive need to collect trophies of their victories, perchance to savor the memories of the kill and the meat. What treasure they have are typically such mementos.\r\n</aside>",
+ "name": "Chuul",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 64</row>\n\n<row gap=\"medium\">\r\n**HP** 100\r\n\r\n**AC** 28\r\n\r\n**Fort** +18\r\n\r\n**Ref** +15\r\n\r\n**Will** +12\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAlso known as chu'ulothis, these large, armor-plated, crustacean predators lurk beneath the surface of pools, mires, and ponds, waiting to snatch up …\r\n</summary>",
+ "sense": "darkvision, tremorsense (imprecise) 30 feet",
+ "sense_markdown": "darkvision, tremorsense (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +17",
+  "Nature +13",
+  "Stealth +14",
+  "Survival +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +17, [Nature](/Skills.aspx?ID=10) +13, [Stealth](/Skills.aspx?ID=15) +14, [Survival](/Skills.aspx?ID=16) +13",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 64"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 64</row>",
+ "speed": {
+  "land": 30,
+  "max": 30,
+  "swim": 25
+ },
+ "speed_markdown": "30 feet; swim 25 feet",
+ "speed_raw": "30 feet; swim 25 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Also known as chu'ulothis, these large, armor-plated, crustacean predators lurk beneath the surface of pools, mires, and ponds, waiting to snatch up …",
+ "summary_markdown": "Also known as chu'ulothis, these large, armor-plated, crustacean predators lurk beneath the surface of pools, mires, and ponds, waiting to snatch up …",
+ "text": " Chuul Also known as chu'ulothis, these large, armor-plated, crustacean predators lurk beneath the surface of pools, mires, and ponds, waiting to snatch up prey with their massive claws before paralyzing them with their tentacles. At that point, they begin to feed, eating their quarry alive. Chuuls can live in fresh or saltwater, and indeed are found in aquatic environs the world over—even in the subterranean oceans and lakes of the Darklands. While chuuls are good swimmers, they prefer terrestrial prey. Their preferred method of hunting is by lunging out of the water, paralyzing their victims with their poison-coated tentacles, then gleefully dragging their twitching food into the water to drown if they cannot simply eat such morsels alive. Chuuls that dwell aboveground prefer to dine on lizardfolk, while those swimming the subterranean lakes of the Darklands readily eat anything but xulgaths, whose flavor and stink they find off-putting. Chuuls are capable of speech and reason, but these creatures rarely speak with those outside their species except to taunt their food. Before it begins consuming its prey, a chuul often speaks in a gurgling, nearly incomprehensible dialect about how it will enjoy feasting on the creature's flesh. Perhaps chuuls believe that insults and degradation lead to more tender and tastier food, but the truth will likely never be known; almost all chuuls stubbornly refuse any meaningful conversation, even when imprisoned and compelled by treats or pain. It is unknown if a chuul society exists beyond their frenzied mating season. Chuuls' intellects seem devoted only toward eating, causing psychological pain to sentient creatures, decorating their lairs with mementos of their favorite meals and victories, and breeding. Recall Knowledge - Aberration (Occultism): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Chuul Source Bestiary pg. 64 Perception +15; darkvision, tremorsense (imprecise) 30 feet Languages Aklo, Common; (or Undercommon, for Darklands variants) Skills Athletics +17, Nature +13, Stealth +14, Survival +13 Str +6 Dex +3 Con +4 Int +0 Wis +2 Cha -1 --- AC 28 Fort +18 Ref +15 Will +12 HP 100 Immunities poison Attack of Opportunity Reaction --- Speed 30 feet; swim 25 feet Melee Single Action claws +19 (reach 10 feet), Damage 2d8+9 bludgeoning plus Grab Constrict Single Action 1d8+9 bludgeoning, DC 25 (grabbed by claws only) Mandibles Single Action Requirement A creature is grabbed and paralyzed by the chuul’s tentacles. Effect The creature takes 3d6 piercing damage. Paralytic Venom (Incapacitation, Poison) Saving Throw DC 25 Fortitude; Maximum Duration 6 rounds; Stage 1 paralyzed (1 round). Tentacle Transfer Single Action Requirement The chuul has a creature grabbed. Effect The chuul transfers the grabbed creature from its claws to its tentacles, or vice versa. A creature is exposed to the chuul’s paralytic venom when transferred into the tentacles and at the start of each of the chuul’s turns if it remains grabbed by the tentacles. Chuul Treasure While chuuls are uninterested in money, gems, tools, or magic of any kind, they have a nearly compulsive need to collect trophies of their victories, perchance to savor the memories of the kill and the meat. What treasure they have are typically such mementos. ",
+ "trait": [
+  "Aberration",
+  "Amphibious",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Amphibious](/Traits.aspx?ID=207)",
+ "trait_raw": [
+  "Aberration",
+  "Amphibious"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=81",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 2
+}

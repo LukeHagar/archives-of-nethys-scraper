@@ -1,0 +1,119 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Muddy Field",
+  "Susceptible to Desiccation",
+  "Constrict",
+  "Gory Hydration",
+  "Mud Puddle",
+  "Spew Mud"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 40,
+ "hp_raw": "40",
+ "id": "creature-734",
+ "image": [
+  "/Images/Monsters/Mudwretch.png"
+ ],
+ "immunity": [
+  "bleed",
+  "critical hits",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, critical hits, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -2,
+ "language": [
+  "Terran"
+ ],
+ "language_markdown": "[Terran](/Languages.aspx?ID=22)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mudwretch](/Monsters.aspx?ID=734)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nIn its resting form, a mudwretch looks like a large puddle of thick, dark mud, heaped at the center in a slightly drier patch of loam. When a living creature approaches, though, the mudwretch lurches upward, piling its muddy flesh upon itself to form a roughly humanoid shape, often in vague mockery of the approaching creature's general form in cases where the creature is a humanoid itself.\n\n Mudwretches possess a low level of intellect, and while they do not form societies or cultures of their own, they are attracted to ruins or abandoned settlements. They have little need to eat, but without a constant source of moisture, a mudwretch dries out, suffering from low throbbing aches until it can resaturate. Often, blood from living creatures has to do—a dried mudwretch is more dangerous to intruders than one that's comfortably wallowing on a river bank.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mudwretch.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Mudwretch](/Monsters.aspx?ID=734)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 176 <sup>2.0</sup></row>\n\n**Perception** +9; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Terran](/Languages.aspx?ID=22)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +6\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +0\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Muddy Field** ([aura](/Traits.aspx?ID=206)) 10 feet. The ground in the area is difficult terrain for all non-mudwretch creatures.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +4 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 40\n\n**Immunities**\r\nbleed, critical hits, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\r\n\r\n**Resistances**\r\nacid 3, physical 3 (except bludgeoning)\r\n\r\n**Weaknesses**\r\nfire 5\r\n\r\n**Susceptible to Desiccation** If a mudwretch takes any damage from [_horrid wilting_](/Spells.aspx?ID=152) or a similar effect, takes 10 or more fire damage from a single effect, or spends more than 24 hours outside of a source of sufficient hydration (such as a swamp, river, well, or recent rainfall), it becomes dehydrated. While dehydrated, the mudwretch can't Spew Mud, is [sickened 2](/Conditions.aspx?ID=34), and is [slowed 1](/Conditions.aspx?ID=35) until it either fully immerses in water, spends 1 minute in the rain, or rehydrates in another way (such as via Gory Hydration).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +10 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d8+4 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+2 bludgeoning, DC 18\r\n\r\n**Gory Hydration** <actions string=\"Reaction\" />  **Requirements** The mudwretch is dehydrated; **Trigger** The mudwretch deals Constrict damage to a living creature that has blood; **Effect** The mudwretch squeezes harder, dealing 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) to the target. The mudwretch absorbs this blood, removing any penalties it had as a result of being dehydrated.\r\n\r\n**Mud Puddle** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) Until it next acts, the mudwretch appears to be an ordinary puddle of mud. It has an automatic result of 20 on [Deception](/Skills.aspx?ID=5) checks to pass as a mud puddle and can make a fist Strike against a creature that walks onto the mud puddle as a reaction.\r\n\r\n**Spew Mud** <actions string=\"Two Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Primal](/Traits.aspx?ID=134)) The mudwretch spews a 20-foot line of pressurized mud that deals 2d10 bludgeoning damage (DC 18 basic Reflex save). On a critical failure, a creature also takes a –10-foot status penalty to its Speeds for 1 round. The mudwretch can't Spew Mud again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Mudwretch Lifestyles</title>\r\n\r\nMudwretches are rarely encountered alone. They inhabit swampy patches in small groups, often gathering near the ruins of sites that once held great significance. Mudwretches can remain dormant for centuries, always eager to lurch up to attack passersby. They're usually more interested in defending territory than killing intruders, and they won't pursue victims for long if they flee.\r\n</aside>",
+ "name": "Mudwretch",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 4,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "acid": 3,
+  "physical": 3,
+  "piercing": 3,
+  "slashing": 3
+ },
+ "resistance_markdown": "acid 3, physical 3 (except bludgeoning)",
+ "resistance_raw": "acid 3, physical 3 (except bludgeoning)",
+ "search_markdown": "<traits>\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 176 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 40\r\n\r\n**AC** 16\r\n\r\n**Fort** +11\r\n\r\n**Ref** +4\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn its resting form, a mudwretch looks like a large puddle of thick, dark mud, heaped at the center in a slightly drier patch of loam. When a living …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Stealth +6"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +6",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 176"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 176 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 20,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "20 feet, swim 20 feet",
+ "speed_raw": "20 feet, swim 20 feet",
+ "spell_markdown": "",
+ "stealth": "6",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "In its resting form, a mudwretch looks like a large puddle of thick, dark mud, heaped at the center in a slightly drier patch of loam. When a living …",
+ "summary_markdown": "In its resting form, a mudwretch looks like a large puddle of thick, dark mud, heaped at the center in a slightly drier patch of loam. When a living …",
+ "text": " Mudwretch In its resting form, a mudwretch looks like a large puddle of thick, dark mud, heaped at the center in a slightly drier patch of loam. When a living creature approaches, though, the mudwretch lurches upward, piling its muddy flesh upon itself to form a roughly humanoid shape, often in vague mockery of the approaching creature's general form in cases where the creature is a humanoid itself. Mudwretches possess a low level of intellect, and while they do not form societies or cultures of their own, they are attracted to ruins or abandoned settlements. They have little need to eat, but without a constant source of moisture, a mudwretch dries out, suffering from low throbbing aches until it can resaturate. Often, blood from living creatures has to do—a dried mudwretch is more dangerous to intruders than one that's comfortably wallowing on a river bank. Recall Knowledge - Elemental (Arcana, Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Mudwretch Source Bestiary 2 pg. 176 2.0 Perception +9; darkvision Languages Terran Skills Athletics +8, Stealth +6 Str +4 Dex +0 Con +3 Int -2 Wis +3 Cha +0 Muddy Field (aura) 10 feet. The ground in the area is difficult terrain for all non-mudwretch creatures. --- AC 16 Fort +11 Ref +4 Will +9 HP 40 Immunities bleed, critical hits, paralyzed, poison, sleep Resistances acid 3, physical 3 (except bludgeoning) Weaknesses fire 5 Susceptible to Desiccation If a mudwretch takes any damage from horrid wilting or a similar effect, takes 10 or more fire damage from a single effect, or spends more than 24 hours outside of a source of sufficient hydration (such as a swamp, river, well, or recent rainfall), it becomes dehydrated. While dehydrated, the mudwretch can't Spew Mud, is sickened 2, and is slowed 1 until it either fully immerses in water, spends 1 minute in the rain, or rehydrates in another way (such as via Gory Hydration). --- Speed 20 feet, swim 20 feet Melee Single Action fist +10 (Agile), Damage 1d8+4 bludgeoning plus Grab Constrict Single Action 1d8+2 bludgeoning, DC 18 Gory Hydration Reaction Requirements The mudwretch is dehydrated; Trigger The mudwretch deals Constrict damage to a living creature that has blood; Effect The mudwretch squeezes harder, dealing 1d6 persistent bleed damage to the target. The mudwretch absorbs this blood, removing any penalties it had as a result of being dehydrated. Mud Puddle Single Action (Concentrate) Until it next acts, the mudwretch appears to be an ordinary puddle of mud. It has an automatic result of 20 on Deception checks to pass as a mud puddle and can make a fist Strike against a creature that walks onto the mud puddle as a reaction. Spew Mud Two Actions (Conjuration, Primal) The mudwretch spews a 20-foot line of pressurized mud that deals 2d10 bludgeoning damage (DC 18 basic Reflex save). On a critical failure, a creature also takes a –10-foot status penalty to its Speeds for 1 round. The mudwretch can't Spew Mud again for 1d4 rounds. Mudwretch Lifestyles Mudwretches are rarely encountered alone. They inhabit swampy patches in small groups, often gathering near the ruins of sites that once held great significance. Mudwretches can remain dormant for centuries, always eager to lurch up to attack passersby. They're usually more interested in defending territory than killing intruders, and they won't pursue victims for long if they flee. ",
+ "trait": [
+  "Earth",
+  "Elemental",
+  "Water",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Elemental](/Traits.aspx?ID=57), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Earth",
+  "Elemental",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=734",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 5
+ },
+ "weakness_markdown": "fire 5",
+ "weakness_raw": "fire 5",
+ "will_save": 9,
+ "wisdom": 3
+}

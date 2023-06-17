@@ -1,0 +1,111 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "Light Blindness",
+  "Curse of Darkness"
+ ],
+ "creature_family": "Owb",
+ "creature_family_markdown": "[Owb](/MonsterFamilies.aspx?ID=253)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 90,
+ "hp_raw": "90",
+ "id": "creature-1257",
+ "image": [
+  "/Images/Monsters/Owb.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Caligni",
+  "(can't speak any languages); <%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Caligni](/Languages.aspx?ID=28); (can't speak any languages); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Owb](/Monsters.aspx?ID=1257)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCommonly called owbs, or lesser owbs by more powerful owb prophets, most of these mysterious creatures focus on manipulating caligni culture. Among calignis, an owb hides from mortals they deem beneath them—even including calignis in their charge. An owb prefers to select one caligni leader to control from the shadows, manipulating them using charisma and magic. Through coersion of such agents, owbs maintain a steady hand in the politics of the community, either blessing and breaking pacts with other creatures or acting as intermediaries and ambassadors between calignis and powerful external entities.\n\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Owb.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Owb](/Monsters.aspx?ID=1257)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 196</row>\n\n**Perception** +13; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Caligni](/Languages.aspx?ID=28); (can't speak any languages); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +11, [Occultism](/Skills.aspx?ID=11) +12, [Religion](/Skills.aspx?ID=13) +11, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)** \n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +13 \r\n\r\nImmunities cold\r\n</row>\r\n\r\n**HP** 90\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet, fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +16 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d8+7 slashing plus 1d8 cold\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nburning cold +17 ([Magical](/Traits.aspx?ID=103), [range 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d8 cold plus 1d8 [persistent cold](/Conditions.aspx?ID=29)\r\n\r\n**Occult Innate Spells** DC 23, attack +15\r\n- **Cantrips (3rd)**\r\n[Chill Touch](/Spells.aspx?ID=35), [Daze](/Spells.aspx?ID=61), [Read Aura](/Spells.aspx?ID=246), [Shield](/Spells.aspx?ID=280)\r\n- **3rd**\r\n[Mind Reading](/Spells.aspx?ID=194) (at will)\r\n- **4th**\r\n[Darkness](/Spells.aspx?ID=59) (at will), [Invisibility](/Spells.aspx?ID=164)\r\n- **5th**\r\n[Shadow Walk](/Spells.aspx?ID=275), [Shadow Blast](/Spells.aspx?ID=273)\r\n- **7th**\r\n[Plane Shift](/Spells.aspx?ID=222) (self only; to or from the [Shadow Plane](/Planes.aspx?ID=11) only)\r\n\r\n**Curse of Darkness** <actions string=\"Single Action\" /> ([Curse](/Traits.aspx?ID=38), [Darkness](/Traits.aspx?ID=39), [Evocation](/Traits.aspx?ID=65), [Occult](/Traits.aspx?ID=120)) The owb inflicts a curse on one creature taking [persistent cold damage](/Conditions.aspx?ID=29) from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 23 Fortitude save. On a failure, the creature gains [light blindness](/MonsterAbilities.aspx?ID=22) and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute.<br /> If the owb uses this ability on a [caligni](/MonsterFamilies.aspx?ID=18), the curse can't be removed short of [_wish_](/Spells.aspx?ID=377) or similar powerful magic\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-253\" />",
+ "name": "Owb",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 196</row>\r\n\r\n**Creature Family** [Owb](/MonsterFamilies.aspx?ID=253)\r\n\r\n<row gap=\"medium\">\r\n**HP** 90\r\n\r\n**AC** 24\r\n\r\n**Fort** +14\r\n\r\n**Ref** +15\r\n\r\n**Will** +13\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCommonly called owbs, or lesser owbs by more powerful owb prophets, most of these mysterious creatures focus on manipulating caligni culture. Among …\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Deception +13",
+  "Diplomacy +11",
+  "Occultism +12",
+  "Religion +11",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +11, [Occultism](/Skills.aspx?ID=11) +12, [Religion](/Skills.aspx?ID=13) +11, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 196"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 196</row>",
+ "speed": {
+  "fly": 30,
+  "land": 5,
+  "max": 30
+ },
+ "speed_markdown": "5 feet, fly 30 feet",
+ "speed_raw": "5 feet, fly 30 feet",
+ "spell": [
+  "Plane Shift",
+  "Shadow Walk",
+  "Darkness",
+  "Invisibility",
+  "Mind Reading",
+  "Chill Touch",
+  "Daze",
+  "Read Aura",
+  "Shield",
+  "Shadow Blast"
+ ],
+ "spell_markdown": "[Chill Touch](/Spells.aspx?ID=35), [Darkness](/Spells.aspx?ID=59), [Daze](/Spells.aspx?ID=61), [Invisibility](/Spells.aspx?ID=164), [Mind Reading](/Spells.aspx?ID=194), [Plane Shift](/Spells.aspx?ID=222), [Read Aura](/Spells.aspx?ID=246), [Shadow Blast](/Spells.aspx?ID=273), [Shadow Walk](/Spells.aspx?ID=275), [Shield](/Spells.aspx?ID=280)",
+ "stealth": "15",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Commonly called owbs, or lesser owbs by more powerful owb prophets, most of these mysterious creatures focus on manipulating caligni culture. Among …",
+ "summary_markdown": "Commonly called owbs, or lesser owbs by more powerful owb prophets, most of these mysterious creatures focus on manipulating caligni culture. Among …",
+ "text": " Owb Commonly called owbs, or lesser owbs by more powerful owb prophets, most of these mysterious creatures focus on manipulating caligni culture. Among calignis, an owb hides from mortals they deem beneath them—even including calignis in their charge. An owb prefers to select one caligni leader to control from the shadows, manipulating them using charisma and magic. Through coersion of such agents, owbs maintain a steady hand in the politics of the community, either blessing and breaking pacts with other creatures or acting as intermediaries and ambassadors between calignis and powerful external entities. Owb Source Bestiary 3 pg. 196 Perception +13; greater darkvision Languages Caligni; (can't speak any languages); telepathy 100 feet Skills Acrobatics +15, Deception +13, Diplomacy +11, Occultism +12, Religion +11, Stealth +15 Str +4 Dex +5 Con +4 Int +0 Wis +3 Cha +3 Light Blindness --- AC 24 Fort +14 Ref +15 Will +13 Immunities cold HP 90 --- Speed 5 feet, fly 30 feet Melee Single Action claw +16 (Agile, Magical), Damage 1d8+7 slashing plus 1d8 cold Ranged Single Action burning cold +17 (Magical, range 120 feet), Damage 2d8 cold plus 1d8 persistent cold Occult Innate Spells DC 23, attack +15 - Cantrips (3rd) Chill Touch, Daze, Read Aura, Shield - 3rd Mind Reading (at will) - 4th Darkness (at will), Invisibility - 5th Shadow Walk, Shadow Blast - 7th Plane Shift (self only; to or from the Shadow Plane only) Curse of Darkness Single Action (Curse, Darkness, Evocation, Occult) The owb inflicts a curse on one creature taking persistent cold damage from their burning cold Strike, stealing the victim's vibrancy. The creature must attempt a DC 23 Fortitude save. On a failure, the creature gains light blindness and its coloration turns to washed out shades of gray, along with all equipment it carries, wields, or wears. These effects have an unlimited duration. Regardless of the result of its save, the creature is temporarily immune for 1 minute. If the owb uses this ability on a caligni, the curse can't be removed short of wish or similar powerful magic ",
+ "trait": [
+  "Shadow",
+  "Uncommon",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Shadow](/Traits.aspx?ID=143), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Shadow",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1257",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 3
+}

@@ -1,0 +1,118 @@
+{
+ "ac": 22,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 4,
+ "creature_ability": [
+  "Extinguishing Aversion",
+  "Smoke Vision",
+  "Boiling Blood",
+  "Breath Weapon",
+  "Flaming Weapon",
+  "Fume"
+ ],
+ "creature_family": "Demon",
+ "creature_family_markdown": "[Demon](/MonsterFamilies.aspx?ID=28)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 80,
+ "hp_raw": "80",
+ "id": "creature-1111",
+ "image": [
+  "/Images/Monsters/Demon_Brimorak.png"
+ ],
+ "immunity": [
+  "fire"
+ ],
+ "immunity_markdown": "fire",
+ "intelligence": 1,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Draconic",
+  "Ignan",
+  "<%UMR%37%%>telepathy<%END> 60 feet"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Ignan](/Languages.aspx?ID=18); [telepathy](/MonsterAbilities.aspx?ID=37) 60 feet",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Brimorak (Arson Demon)](/Monsters.aspx?ID=1111)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese goat-headed demons have glowing red eyes and flaming hooves but measure only about 3 feet in height. Born from the souls of arsonists, the fiery brimoraks continue the work they pursued in life, as everything they touch quickly burns.\n\n As a general rule, brimoraks are ill-tempered even for demons, although their spite turns to glee in the face of a growing fire. Those who have survived encounters with these fiends report that they remember the braying sound of the brimoraks' laughter as clearly as the heat of the flames or the choking scent of smoke.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Demon_Brimorak.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Brimorak](/Monsters.aspx?ID=1111)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 62</row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12), smoke vision\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2), [Ignan](/Languages.aspx?ID=18); [telepathy](/MonsterAbilities.aspx?ID=37) 60 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Deception](/Skills.aspx?ID=5) +11, [Religion](/Skills.aspx?ID=13) +10, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +1\r\n\r\n**Wis** +1\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**Extinguishing Aversion** Dousing a brimorak with water, either ordinary water or from a [water](/Traits.aspx?ID=165) effect, causes no physical harm to the fiend but deals 3d6 mental damage. Fully immersing the brimorak in water deals 5d6 mental damage per round.<br />**Smoke Vision** Smoke doesn't impair a brimorak's vision; they ignore the [concealed](/Conditions.aspx?ID=4) condition from smoke.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 80\n\n**Immunities**\r\nfire\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 5, good 5\r\n\r\n**Boiling Blood** Each time an adjacent creature deals slashing or piercing damage to the brimorak, the attacker is sprayed with the brimorak's boiling blood, which deals 2d4 fire damage (DC 19 basic Reflex save).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nflaming sword +15 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+4 slashing plus 1d6 evil and 1d6 fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nhoof +15 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d4+4 bludgeoning plus 1d6 evil and 1d6 fire\r\n\r\n**Divine Innate Spells** DC 21\r\n- **Cantrips (3rd)**\r\n[Produce Flame](/Spells.aspx?ID=236)\r\n- **3rd**\r\n[Dispel Magic](/Spells.aspx?ID=78), [Fireball](/Spells.aspx?ID=119)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69)\r\n\r\n**Rituals** DC 21\r\n\r\n- **1st**\r\n[Abyssal Pact](/Rituals.aspx?ID=21)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 21 basic Reflex save). The brimorak can't use their Breath Weapon again for 1d4 rounds. The ground within this area becomes slippery, with the effects of a [_grease_](/Spells.aspx?ID=140) spell targeting an area until it's cleaned up or the brimorak is able to use their Breath Weapon again, whichever comes first.\r\n\r\n**Flaming Weapon**  ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) A brimorak's hooves and any weapon they wield burst into flame, dealing an extra 1d6 fire damage with each hit. If they don't have a weapon, they can create a flaming sword of fire and steel (see flaming sword Strike in Melee entry above).\r\n\r\n**Fume** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) The brimorak emits a cloud of thick black smoke in a 10-foot burst that remains in place for 1d4 rounds. All creatures within the smoke become [concealed](/Conditions.aspx?ID=4), and all creatures outside the smoke become concealed to creatures within it. A creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (sickened 2 on a critical failure).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">The Smallest Sparks</title>\r\n\r\nMany underestimate brimoraks due to their size, forgetting that tiny embers can blow into raging infernos in the blink of an eye. Brimoraks believe that they grow larger with each fire they set, though larger arson demons have yet to be seen.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-28\" />",
+ "name": "Brimorak",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 62</row>\r\n\r\n**Creature Family** [Demon](/MonsterFamilies.aspx?ID=28)\r\n\r\n<row gap=\"medium\">\r\n**HP** 80\r\n\r\n**AC** 22\r\n\r\n**Fort** +15\r\n\r\n**Ref** +12\r\n\r\n**Will** +10\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese goat-headed demons have glowing red eyes and flaming hooves but measure only about 3 feet in height. Born from the souls of arsonists, the …\r\n</summary>",
+ "sense": " darkvision , smoke vision",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), smoke vision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Deception +11",
+  "Religion +10",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Deception](/Skills.aspx?ID=5) +11, [Religion](/Skills.aspx?ID=13) +10, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 62"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 62</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Dimension Door",
+  "Dispel Magic",
+  "Fireball",
+  "Produce Flame"
+ ],
+ "spell_markdown": "[Dimension Door](/Spells.aspx?ID=69), [Dispel Magic](/Spells.aspx?ID=78), [Fireball](/Spells.aspx?ID=119), [Produce Flame](/Spells.aspx?ID=236)",
+ "stealth": "12",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "These goat-headed demons have glowing red eyes and flaming hooves but measure only about 3 feet in height. Born from the souls of arsonists, the …",
+ "summary_markdown": "These goat-headed demons have glowing red eyes and flaming hooves but measure only about 3 feet in height. Born from the souls of arsonists, the …",
+ "text": " Brimorak (Arson Demon) These goat-headed demons have glowing red eyes and flaming hooves but measure only about 3 feet in height. Born from the souls of arsonists, the fiery brimoraks continue the work they pursued in life, as everything they touch quickly burns. As a general rule, brimoraks are ill-tempered even for demons, although their spite turns to glee in the face of a growing fire. Those who have survived encounters with these fiends report that they remember the braying sound of the brimoraks' laughter as clearly as the heat of the flames or the choking scent of smoke. Recall Knowledge - Fiend (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Brimorak Source Bestiary 3 pg. 62 Perception +12; darkvision, smoke vision Languages Abyssal, Celestial, Draconic, Ignan; telepathy 60 feet Skills Acrobatics +12, Deception +11, Religion +10, Stealth +12 Str +4 Dex +3 Con +4 Int +1 Wis +1 Cha +2 Extinguishing Aversion Dousing a brimorak with water, either ordinary water or from a water effect, causes no physical harm to the fiend but deals 3d6 mental damage. Fully immersing the brimorak in water deals 5d6 mental damage per round. Smoke Vision Smoke doesn't impair a brimorak's vision; they ignore the concealed condition from smoke. --- AC 22 Fort +15 Ref +12 Will +10 HP 80 Immunities fire Weaknesses cold iron 5, good 5 Boiling Blood Each time an adjacent creature deals slashing or piercing damage to the brimorak, the attacker is sprayed with the brimorak's boiling blood, which deals 2d4 fire damage (DC 19 basic Reflex save). --- Speed 30 feet Melee Single Action flaming sword +15 (Magical), Damage 2d8+4 slashing plus 1d6 evil and 1d6 fire Melee Single Action hoof +15 (Agile), Damage 2d4+4 bludgeoning plus 1d6 evil and 1d6 fire Divine Innate Spells DC 21 - Cantrips (3rd) Produce Flame - 3rd Dispel Magic, Fireball - 4th Dimension Door Rituals DC 21 - 1st Abyssal Pact Breath Weapon Two Actions (Divine, Evocation, Fire) The brimorak spits their boiling blood in a 20-foot line that deals 6d6 fire damage (DC 21 basic Reflex save). The brimorak can't use their Breath Weapon again for 1d4 rounds. The ground within this area becomes slippery, with the effects of a grease spell targeting an area until it's cleaned up or the brimorak is able to use their Breath Weapon again, whichever comes first. Flaming Weapon (Divine, Evocation, Fire) A brimorak's hooves and any weapon they wield burst into flame, dealing an extra 1d6 fire damage with each hit. If they don't have a weapon, they can create a flaming sword of fire and steel (see flaming sword Strike in Melee entry above). Fume Two Actions (Divine, Evocation, Fire) The brimorak emits a cloud of thick black smoke in a 10-foot burst that remains in place for 1d4 rounds. All creatures within the smoke become concealed, and all creatures outside the smoke become concealed to creatures within it. A creature that enters or begins its turn within the smoke it must succeed at a DC 21 Fortitude save or become sickened 1 (sickened 2 on a critical failure). The Smallest Sparks Many underestimate brimoraks due to their size, forgetting that tiny embers can blow into raging infernos in the blink of an eye. Brimoraks believe that they grow larger with each fire they set, though larger arson demons have yet to be seen. ",
+ "trait": [
+  "Demon",
+  "Fiend",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Demon](/Traits.aspx?ID=42), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Demon",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1111",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 5,
+  "good": 5
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 5, good 5",
+ "weakness_raw": " cold iron  5, good 5",
+ "will_save": 10,
+ "wisdom": 1
+}

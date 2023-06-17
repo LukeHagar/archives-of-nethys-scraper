@@ -1,0 +1,103 @@
+{
+ "ac": 41,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 6,
+ "creature_ability": [
+  "Weeping Aura",
+  "Axe Vulnerability",
+  "Ripping Disarm",
+  "Dead Tree",
+  "Woodland Ambush"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 400,
+ "hp_raw": "400",
+ "id": "creature-2265",
+ "immunity": [
+  "poison"
+ ],
+ "immunity_markdown": "poison",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Arboreal",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Arboreal](/Languages.aspx?ID=26), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tree That Weeps](/Monsters.aspx?ID=2265)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 43\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 41\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 38\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Tree That Weeps](/Monsters.aspx?ID=2265)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 117</row>\n\n**Perception** +30; [lifesense](/MonsterAbilities.aspx?ID=21) 30 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Arboreal](/Languages.aspx?ID=26), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +35, [Stealth](/Skills.aspx?ID=15) +31\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +5\r\n\r\n**Con** +6\r\n\r\n**Int** +0\r\n\r\n**Wis** +6\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Weeping Aura** ([ &lt;%TRAITS%206%%&gt; aura](/Traits.aspx?ID=206) &lt;%END>, [ &lt;%TRAITS%60%%&gt; emotion](/Traits.aspx?ID=60) &lt;%END>, [ &lt;%TRAITS%93%%&gt; incapacitation](/Traits.aspx?ID=93) &lt;%END>, [ &lt;%TRAITS%106%%&gt; mental](/Traits.aspx?ID=106) &lt;%END>, [ &lt;%TRAITS%134%%&gt; primal](/Traits.aspx?ID=134) 30 feet &lt;%END>) **Requirements** The Tree that Weeps isn't using Dead Tree; **Effect** A creature that begins its turn in the aura is potentially overwhelmed with despair and must attempt a DC 40 Will save.<br />**Critical Success** The creature is unaffected and is temporarily immune for 1 hour.<br />**Success** The creature is [sickened](/Conditions.aspx?ID=34) 1.<br />**Failure** The creature is [paralyzed](/Conditions.aspx?ID=28) for 1 round by despair, and then sickened 2 after recovering from paralysis.<br />**Critical Failure** As failure, but the paralysis doesn't end automatically. A character can attempt a new Will save to end the paralysis at the end of their turn the DC is reduced by 1 each turn that passes.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 41 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 400\n\n**Immunities**\r\npoison\r\n\r\n**Resistances**\r\nbludgeoning 20, piercing 20\n\n**Axe Vulnerability** A Tree that Weeps takes 20 additional damage from axes.<br />**Ripping Disarm** <actions string=\"Reaction\" /> **Trigger** A creature rolls a critical failure on a melee weapon Strike against the Tree that Weeps** **Effect** The Tree that Weeps attempts to [Disarm](/Traits.aspx?ID=175) the creature of the weapon used to attempt the Strike.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nscythe branch +35 ([Backswing](/Traits.aspx?ID=173), [deadly d10](/Traits.aspx?ID=174), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+17 slashing plus 2d8 poison\n\n**Dead Tree** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) Until the Tree that Weeps acts, it appears to be a dead tree. It automatically takes 43 as the result of its Deception checks and has a Deception DC of 43 to pass as a dead tree.\r\n\r\n**Woodland Ambush** <actions string=\"Single Action\" />  **Requirements** The Tree that Weeps is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet; **Effect** The Tree that Weeps Strides with a +10-foot circumstance bonus to its Speed in the direction of the triggering creature. Once the creature is in reach, the Tree that Weeps makes a scythe branch Strike against it. The creature is flat-footed against this Strike.\r\n\r\n</column>",
+ "name": "Tree That Weeps",
+ "npc": false,
+ "perception": 30,
+ "rarity": "rare",
+ "reflex_save": 8,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "bludgeoning": 20,
+  "piercing": 20
+ },
+ "resistance_markdown": "bludgeoning 20, piercing 20",
+ "resistance_raw": "bludgeoning 20, piercing 20",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 117</row>\n\n<row gap=\"medium\">\r\n**HP** 400\r\n\r\n**AC** 41\r\n\r\n**Fort** +17\r\n\r\n**Ref** +8\r\n\r\n**Will** +9\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " lifesense  30 feet,  low-light vision ",
+ "sense_markdown": "[lifesense](/MonsterAbilities.aspx?ID=21) 30 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +35",
+  "Stealth +31"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +35, [Stealth](/Skills.aspx?ID=15) +31",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 117"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 117</row>",
+ "speed": {
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet",
+ "speed_raw": "15 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "31",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Tree That Weeps Recall Knowledge - Plant (Nature): DC 43 Unspecific Lore : DC 41 Specific Lore : DC 38 Tree That Weeps Source Kingmaker Adventure Path pg. 117 Perception +30; lifesense 30 feet, low-light vision Languages Aklo, Arboreal, Sylvan Skills Athletics +35, Stealth +31 Str +9 Dex +5 Con +6 Int +0 Wis +6 Cha +0 Weeping Aura ( &lt;%TRAITS%206%%&gt; aura &lt;%END>, &lt;%TRAITS%60%%&gt; emotion &lt;%END>, &lt;%TRAITS%93%%&gt; incapacitation &lt;%END>, &lt;%TRAITS%106%%&gt; mental &lt;%END>, &lt;%TRAITS%134%%&gt; primal 30 feet &lt;%END>) Requirements The Tree that Weeps isn't using Dead Tree; Effect A creature that begins its turn in the aura is potentially overwhelmed with despair and must attempt a DC 40 Will save. Critical Success The creature is unaffected and is temporarily immune for 1 hour. Success The creature is sickened 1. Failure The creature is paralyzed for 1 round by despair, and then sickened 2 after recovering from paralysis. Critical Failure As failure, but the paralysis doesn't end automatically. A character can attempt a new Will save to end the paralysis at the end of their turn the DC is reduced by 1 each turn that passes. --- AC 41 Fort +17 Ref +8 Will +9 HP 400 Immunities poison Resistances bludgeoning 20, piercing 20 Axe Vulnerability A Tree that Weeps takes 20 additional damage from axes. Ripping Disarm Reaction Trigger A creature rolls a critical failure on a melee weapon Strike against the Tree that Weeps Effect The Tree that Weeps attempts to Disarm the creature of the weapon used to attempt the Strike. --- Speed 15 feet Melee Single Action scythe branch +35 (Backswing, deadly d10, reach 15 feet), Damage 3d8+17 slashing plus 2d8 poison Dead Tree Single Action (Concentrate) Until the Tree that Weeps acts, it appears to be a dead tree. It automatically takes 43 as the result of its Deception checks and has a Deception DC of 43 to pass as a dead tree. Woodland Ambush Single Action Requirements The Tree that Weeps is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet; Effect The Tree that Weeps Strides with a +10-foot circumstance bonus to its Speed in the direction of the triggering creature. Once the creature is in reach, the Tree that Weeps makes a scythe branch Strike against it. The creature is flat-footed against this Strike. ",
+ "trait": [
+  "Plant",
+  "Rare",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Plant",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2265",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 6
+}

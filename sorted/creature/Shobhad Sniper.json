@@ -1,0 +1,99 @@
+{
+ "ac": 40,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 5,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Ferocity",
+  "Sniping Shot",
+  "Sniper's Devastation"
+ ],
+ "creature_family": "Shobhad",
+ "creature_family_markdown": "[Shobhad](/MonsterFamilies.aspx?ID=296)",
+ "dexterity": 9,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 320,
+ "hp_raw": "320",
+ "id": "creature-1679",
+ "image": [
+  "/Images/Monsters/Shobhad_Sniper.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Akitonian",
+  "Shobhad"
+ ],
+ "language_markdown": "[Akitonian](/Languages.aspx?ID=94), [Shobhad](/Languages.aspx?ID=97)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"\">[Shobhad Sniper](/Monsters.aspx?ID=1679)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nEnemies rarely see a shobhad sniper before the deadly blast of their powerful rifles snatches away the offender's life. Selected from among the most talented enforcers after proving themselves in combat, shobhad snipers learn how to cross the desert sands undetected, combine their powerful ranged weapons with close-combat techniques, and survive Akiton's freezing nights for weeks on end while scouting potential settlements or enemy strongholds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 38\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 36\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 33\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Shobhad_Sniper.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Shobhad Sniper](/Monsters.aspx?ID=1679)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #173: Doorway to the Red Star](/Sources.aspx?ID=103) pg. 89</row>\n\n**Perception** +30; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Akitonian](/Languages.aspx?ID=94), [Shobhad](/Languages.aspx?ID=97)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +31, [Intimidation](/Skills.aspx?ID=7) +30, [Stealth](/Skills.aspx?ID=15) +34, [Survival](/Skills.aspx?ID=16) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +9\r\n\r\n**Con** +5\r\n\r\n**Int** +2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n_+2 [greater striking](/Equipment.aspx?ID=280) [shobhad longrifle](/Weapons.aspx?ID=251)_, _+2 [striking](/Equipment.aspx?ID=280) [handwraps of mighty blows](/Equipment.aspx?ID=441), _ _+1 [resilient](/Equipment.aspx?ID=279) [leather armor](/Armor.aspx?ID=4)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 40 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +32 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 320\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**[Ferocity](/MonsterAbilities.aspx?ID=16)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_fist_ +31 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [Nonlethal](/Traits.aspx?ID=188), [reach 10 feet](/Traits.aspx?ID=192), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 2d10+14 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_longrifle_ +34 ([Backstabber](/Traits.aspx?ID=172), [Concussive](/Traits.aspx?ID=401), [fatal d12](/Traits.aspx?ID=178), [Kickback](/Traits.aspx?ID=409), [volley](/Traits.aspx?ID=201), [reload 1](/Traits.aspx?ID=254), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+9 bludgeoning; this includes the additional damage from kickback\n\n**Sniping Shot** <actions string=\"Two Actions\" />  The shobhad sniper makes a Strike with their longrifle, gaining a +2 circumstance bonus to this Strike's attack roll and ignoring the target's [concealment](/Conditions.aspx?ID=4).\r\n\r\n**Sniper's Devastation** <actions string=\"Three Actions\" />  The shobhad sniper makes a fist Strike against a Medium or smaller creature. If this attack is successful, the shobhad sniper deals no damage, but they immediately [Grab](/MonsterAbilities.aspx?ID=18) and throw their target up to 30 feet in a direction of their choice and then make a ranged Strike with their longrifle against the target, after which the target falls [prone](/Conditions.aspx?ID=31) in the designated location. As normal, the creature doesn't take any additional falling damage from the throw.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-296\" />",
+ "name": "Shobhad Sniper",
+ "npc": false,
+ "perception": 30,
+ "rarity": "uncommon",
+ "reflex_save": 32,
+ "release_date": "2021-11-10",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #173: Doorway to the Red Star](/Sources.aspx?ID=103) pg. 89</row>\r\n\r\n**Creature Family** [Shobhad](/MonsterFamilies.aspx?ID=296)\r\n\r\n<row gap=\"medium\">\r\n**HP** 320\r\n\r\n**AC** 40\r\n\r\n**Fort** +28\r\n\r\n**Ref** +32\r\n\r\n**Will** +26\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEnemies rarely see a shobhad sniper before the deadly blast of their powerful rifles snatches away the offender's life. Selected from among the most …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +31",
+  "Intimidation +30",
+  "Stealth +34",
+  "Survival +30"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +31, [Intimidation](/Skills.aspx?ID=7) +30, [Stealth](/Skills.aspx?ID=15) +34, [Survival](/Skills.aspx?ID=16) +30",
+ "source": [
+  "Pathfinder #173: Doorway to the Red Star"
+ ],
+ "source_raw": [
+  "Pathfinder #173: Doorway to the Red Star pg. 89"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #173: Doorway to the Red Star](/Sources.aspx?ID=103) pg. 89</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "stealth": "34",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Enemies rarely see a shobhad sniper before the deadly blast of their powerful rifles snatches away the offender's life. Selected from among the most …",
+ "summary_markdown": "Enemies rarely see a shobhad sniper before the deadly blast of their powerful rifles snatches away the offender's life. Selected from among the most …",
+ "text": " Shobhad Sniper Enemies rarely see a shobhad sniper before the deadly blast of their powerful rifles snatches away the offender's life. Selected from among the most talented enforcers after proving themselves in combat, shobhad snipers learn how to cross the desert sands undetected, combine their powerful ranged weapons with close-combat techniques, and survive Akiton's freezing nights for weeks on end while scouting potential settlements or enemy strongholds. Recall Knowledge - Humanoid (Society): DC 38 Unspecific Lore : DC 36 Specific Lore : DC 33 Shobhad Sniper Source Pathfinder #173: Doorway to the Red Star pg. 89 Perception +30; darkvision Languages Akitonian, Shobhad Skills Athletics +31, Intimidation +30, Stealth +34, Survival +30 Str +6 Dex +9 Con +5 Int +2 Wis +5 Cha +2 Items +2 greater striking shobhad longrifle , +2 striking handwraps of mighty blows, +1 resilient leather armor --- AC 40 Fort +28 Ref +32 Will +26 HP 320 Attack of Opportunity Reaction Ferocity Reaction --- Speed 30 feet Melee Single Action fist +31 (Agile, Finesse, Magical, Nonlethal, reach 10 feet, Unarmed), Damage 2d10+14 bludgeoning Ranged Single Action longrifle +34 (Backstabber, Concussive, fatal d12, Kickback, volley, reload 1, range increment 120 feet), Damage 3d8+9 bludgeoning; this includes the additional damage from kickback Sniping Shot Two Actions The shobhad sniper makes a Strike with their longrifle, gaining a +2 circumstance bonus to this Strike's attack roll and ignoring the target's concealment. Sniper's Devastation Three Actions The shobhad sniper makes a fist Strike against a Medium or smaller creature. If this attack is successful, the shobhad sniper deals no damage, but they immediately Grab and throw their target up to 30 feet in a direction of their choice and then make a ranged Strike with their longrifle against the target, after which the target falls prone in the designated location. As normal, the creature doesn't take any additional falling damage from the throw. ",
+ "trait": [
+  "Humanoid",
+  "Uncommon",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1679",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 26,
+ "wisdom": 5
+}

@@ -1,0 +1,97 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Hardscale Shield Stance",
+  "Powerful Stench",
+  "Shield Warden",
+  "Aggressive Block",
+  "Attack of Opportunity",
+  "Shield Block",
+  "Hammer Mastery"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 215,
+ "hp_raw": "215",
+ "id": "creature-2123",
+ "intelligence": 0,
+ "language": [
+  "Draconic",
+  "Undercommon"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"\">[Xulgath Hardscale](/Monsters.aspx?ID=2123)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Xulgath Hardscale](/Monsters.aspx?ID=2123)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 53</row>\n\n**Perception** +21; (23 when using  for initiative)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +23, [Diplomacy](/Skills.aspx?ID=6) +19, [Intimidation](/Skills.aspx?ID=7) +21, [Nature](/Skills.aspx?ID=10) +19, [Stealth](/Skills.aspx?ID=15) +19, [Survival](/Skills.aspx?ID=16) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n_+1 [resilient](/Equipment.aspx?ID=279) [breastplate](/Armor.aspx?ID=10)_, [moderate elixir of life](/Equipment.aspx?ID=91), [javelins](/Weapons.aspx?ID=71) (3), necklace of bone and gems worth 100 gp, _[lesser sturdy shield](/Equipment.aspx?ID=327)_ (Hardness 10, HP 80, BT 40), _+1 [striking](/Equipment.aspx?ID=280) [warhammer](/Weapons.aspx?ID=47)_\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 (34 with shield raised)\r\n\r\n**Fort** +25 \r\n\r\n**Ref** +22 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 215\n\n**Hardscale Shield Stance** A hardscale always has their shield raised as if they had used the Raise a Shield action, as long as they meet that action's requirements.<br />**Powerful Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature that enters the area must attempt a DC 32 Fortitude save. On a failure, the creature is [sickened 2](/Conditions.aspx?ID=34), and on a critical failure, the creature is also [slowed 1](/Conditions.aspx?ID=35) for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all [xulgaths'](/MonsterFamilies.aspx?ID=102) stenches for 1 minute.<br />**Shield Warden** If the hardscale has their shield raised, they can Shield Block when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of the hardscale.<br />**Aggressive Block** <actions string=\"Free Action\" /> **Trigger** The hardscale uses the Shield Block reaction, and the opponent that triggered Shield Block is adjacent to the hardscale and is not more than one size larger than it; **Effect** The hardscale makes an [Athletics](/Skills.aspx?ID=3) check to [Shove](/Actions.aspx?ID=38) the opponent. This Shove doesn't increase the hardscale's multiple attack penalty. If they roll a critical failure, they get a failure instead. If they roll a success, they get a critical success instead.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**[Shield Block](/MonsterAbilities.aspx?ID=32)** <actions string=\"Reaction\" /> At the beginning of each of their turns, the hardscale receives an additional reaction that they can use only for Shield Block.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_warhammer_ +24 ([deadly 2d8](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [Shove](/Traits.aspx?ID=193)),\r\n**Damage** 3d8+11 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23,\r\n**Damage** 3d6+11 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d4+11 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\njavelin +21 ([thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+11 piercing\n\n**Hammer Mastery**   The hardscale deals an extra 1d8 damage with weapons with the [shove](/Traits.aspx?ID=193) trait, and weapons with the shove trait gain the [deadly 2d8](/Traits.aspx?ID=174) trait when the hardscale uses them (both the extra weapon damage die and the deadly trait have already been included in the hardscale's _warhammer_ Strike above).\r\n\r\n</column>",
+ "name": "Xulgath Hardscale",
+ "npc": false,
+ "perception": 21,
+ "rarity": "common",
+ "reflex_save": 22,
+ "release_date": "2020-04-29",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 53</row>\n\n<row gap=\"medium\">\r\n**HP** 215\r\n\r\n**AC** 32\r\n\r\n**Fort** +25\r\n\r\n**Ref** +22\r\n\r\n**Will** +19\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": "(23 when using  for initiative)",
+ "sense_markdown": "(23 when using  for initiative)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +23",
+  "Diplomacy +19",
+  "Intimidation +21",
+  "Nature +19",
+  "Stealth +19",
+  "Survival +21"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +23, [Diplomacy](/Skills.aspx?ID=6) +19, [Intimidation](/Skills.aspx?ID=7) +21, [Nature](/Skills.aspx?ID=10) +19, [Stealth](/Skills.aspx?ID=15) +19, [Survival](/Skills.aspx?ID=16) +21",
+ "source": [
+  "Pathfinder #154: Siege of the Dinosaurs"
+ ],
+ "source_raw": [
+  "Pathfinder #154: Siege of the Dinosaurs pg. 53"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 53</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "19",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Xulgath Hardscale Recall Knowledge - Humanoid (Society): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Xulgath Hardscale Source Pathfinder #154: Siege of the Dinosaurs pg. 53 Perception +21; (23 when using for initiative) Languages Draconic, Undercommon Skills Acrobatics +19, Athletics +23, Diplomacy +19, Intimidation +21, Nature +19, Stealth +19, Survival +21 Str +5 Dex +3 Con +4 Int +0 Wis +3 Cha +1 Items +1 resilient breastplate , moderate elixir of life, javelins (3), necklace of bone and gems worth 100 gp, lesser sturdy shield (Hardness 10, HP 80, BT 40), +1 striking warhammer --- AC 32 (34 with shield raised) Fort +25 Ref +22 Will +19 HP 215 Hardscale Shield Stance A hardscale always has their shield raised as if they had used the Raise a Shield action, as long as they meet that action's requirements. Powerful Stench (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 32 Fortitude save. On a failure, the creature is sickened 2, and on a critical failure, the creature is also slowed 1 for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute. Shield Warden If the hardscale has their shield raised, they can Shield Block when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of the hardscale. Aggressive Block Free Action Trigger The hardscale uses the Shield Block reaction, and the opponent that triggered Shield Block is adjacent to the hardscale and is not more than one size larger than it; Effect The hardscale makes an Athletics check to Shove the opponent. This Shove doesn't increase the hardscale's multiple attack penalty. If they roll a critical failure, they get a failure instead. If they roll a success, they get a critical success instead. Attack of Opportunity Reaction Shield Block Reaction At the beginning of each of their turns, the hardscale receives an additional reaction that they can use only for Shield Block. --- Speed 25 feet Melee Single Action warhammer +24 (deadly 2d8, Magical, Shove), Damage 3d8+11 bludgeoning Melee Single Action jaws +23, Damage 3d6+11 piercing Melee Single Action claw +23 (Agile), Damage 3d4+11 slashing Ranged Single Action javelin +21 (thrown 20 feet), Damage 1d6+11 piercing Hammer Mastery The hardscale deals an extra 1d8 damage with weapons with the shove trait, and weapons with the shove trait gain the deadly 2d8 trait when the hardscale uses them (both the extra weapon damage die and the deadly trait have already been included in the hardscale's warhammer Strike above). ",
+ "trait": [
+  "Humanoid",
+  "Xulgath",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Xulgath](/Traits.aspx?ID=244)",
+ "trait_raw": [
+  "Humanoid",
+  "Xulgath"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2123",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 3
+}

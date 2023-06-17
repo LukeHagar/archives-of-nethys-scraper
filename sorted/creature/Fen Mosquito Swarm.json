@@ -1,0 +1,106 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 3,
+ "creature_ability": [
+  "Pyrexic Malaria",
+  "Swarming Bites"
+ ],
+ "creature_family": "Mosquito",
+ "creature_family_markdown": "[Mosquito](/MonsterFamilies.aspx?ID=142)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 25,
+ "hp_raw": "25",
+ "id": "creature-732",
+ "image": [
+  "/Images/Monsters/Mosquito_MosquitoSwarm.png"
+ ],
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, [swarm mind](/MonsterAbilities.aspx?ID=36)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Fen Mosquito Swarm](/Monsters.aspx?ID=732)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhen deadly fen mosquitoes gather in large numbers, they form into lethal swarms capable of draining blood at a truly alarming rate. Fen mosquito swarms are typically encountered only in tropical swamps or bogs, but during humid months in spring or summer they can drift into riverine areas or even through the waterfront reaches of settlements.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mosquito_MosquitoSwarm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Fen Mosquito Swarm](/Monsters.aspx?ID=732)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 175 <sup>2.0</sup></row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +6, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 25\n\n**Immunities**\r\nprecision, [swarm mind](/MonsterAbilities.aspx?ID=36)\r\n\r\n**Resistances**\r\nbludgeoning 2, piercing 5, slashing 5\r\n\r\n**Weaknesses**\r\narea damage 5, [splash](/Traits.aspx?ID=150) damage 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet, fly 25 feet\n\n**Pyrexic Malaria**  ([Disease](/Traits.aspx?ID=46)) The victim can't reduce its [sickened](/Conditions.aspx?ID=34) condition while it's affected by pyrexic malaria; **Saving Throw** DC 20 Fortitude; **Onset** 4 days; **Stage 1** sickened 1 (1 day); **Stage 2** [enfeebled 1](/Conditions.aspx?ID=13) and sickened 1 (1 day); **Stage 3** as stage 2 (1 day); Stage 4 [unconscious](/Conditions.aspx?ID=38) (1 day); Stage 5 dead\r\n\r\n**Swarming Bites** <actions string=\"Single Action\" />  Each enemy in the swarm's space takes 1d6 piercing damage (DC 20 basic Reflex save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1d4 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-142\" />",
+ "name": "Fen Mosquito Swarm",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 2,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "bludgeoning 2, piercing 5, slashing 5",
+ "resistance_raw": "bludgeoning 2, piercing 5, slashing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 175 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Mosquito](/MonsterFamilies.aspx?ID=142)\r\n\r\n<row gap=\"medium\">\r\n**HP** 25\r\n\r\n**AC** 19\r\n\r\n**Fort** +8\r\n\r\n**Ref** +11\r\n\r\n**Will** +5\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen deadly fen mosquitoes gather in large numbers, they form into lethal swarms capable of draining blood at a truly alarming rate. Fen mosquito …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +6",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +6, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 175"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 175 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 25,
+  "land": 5,
+  "max": 25
+ },
+ "speed_markdown": "5 feet, fly 25 feet",
+ "speed_raw": "5 feet, fly 25 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "When deadly fen mosquitoes gather in large numbers, they form into lethal swarms capable of draining blood at a truly alarming rate. Fen mosquito …",
+ "summary_markdown": "When deadly fen mosquitoes gather in large numbers, they form into lethal swarms capable of draining blood at a truly alarming rate. Fen mosquito …",
+ "text": " Fen Mosquito Swarm When deadly fen mosquitoes gather in large numbers, they form into lethal swarms capable of draining blood at a truly alarming rate. Fen mosquito swarms are typically encountered only in tropical swamps or bogs, but during humid months in spring or summer they can drift into riverine areas or even through the waterfront reaches of settlements. Recall Knowledge - Animal (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Fen Mosquito Swarm Source Bestiary 2 pg. 175 2.0 Perception +8; darkvision Languages Skills Acrobatics +6, Stealth +8 Str +0 Dex +4 Con +3 Int -5 Wis +0 Cha -5 --- AC 19 Fort +8 Ref +11 Will +5 HP 25 Immunities precision, swarm mind Resistances bludgeoning 2, piercing 5, slashing 5 Weaknesses area damage 5, splash damage 5 --- Speed 5 feet, fly 25 feet Pyrexic Malaria (Disease) The victim can't reduce its sickened condition while it's affected by pyrexic malaria; Saving Throw DC 20 Fortitude; Onset 4 days; Stage 1 sickened 1 (1 day); Stage 2 enfeebled 1 and sickened 1 (1 day); Stage 3 as stage 2 (1 day); Stage 4 unconscious (1 day); Stage 5 dead Swarming Bites Single Action Each enemy in the swarm's space takes 1d6 piercing damage (DC 20 basic Reflex save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1d4 persistent bleed damage. ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=732",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 5
+ },
+ "weakness_markdown": "area damage 5, [splash](/Traits.aspx?ID=150) damage 5",
+ "weakness_raw": "area damage 5,  splash  damage 5",
+ "will_save": 5,
+ "wisdom": 0
+}

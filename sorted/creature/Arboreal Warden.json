@@ -1,0 +1,105 @@
+{
+ "ac": 20,
+ "alignment": "NG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Axe Vulnerability",
+  "Attack of Opportunity",
+  "Shield Block",
+  "Shield Push"
+ ],
+ "creature_family": "Arboreal",
+ "creature_family_markdown": "[Arboreal](/MonsterFamilies.aspx?ID=8)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 75,
+ "hp_raw": "75",
+ "id": "creature-27",
+ "image": [
+  "/Images/Monsters/Arboreal_ArborealWarden.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Arboreal",
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Arboreal Warden](/Monsters.aspx?ID=27)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nArboreal wardens are the rangers of arboreal society. These itinerant folk have an innate curiosity about the woodlands in which they dwell, and rarely stop to take root and rest in the same part of the forest twice. This wanderlust makes wardens ideal forest patrollers and scouts. While they are robust combatants, they know better than to confront dangerous foes on their own. Instead, they report any dangers to arboreal regents. In rare cases, large groups of arboreal wardens congregate to form a copse. Copses travel beyond the boundaries of a forest to investigate the hinterlands and gather intelligence on potential threats before returning to report their findings. Arboreal wardens do not pretend to understand to other creatures’ motives—like most forces of the natural world, they are ambivalent about mortal affairs that do not involve their forest.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Arboreal_ArborealWarden.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Arboreal Warden](/Monsters.aspx?ID=27)</title>\r\n\r\n<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 24</row>\n\n**Perception** +11; low-light vision\r\n\r\n**Languages**\r\n[Arboreal](/Languages.aspx?ID=26), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\nlarge bark shield (Hardness 3, Hit Points 20, BT 10), [stone longsword](/Weapons.aspx?ID=31)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 (22 with shield raised)\r\n\r\n**Fort** +13 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 75\n\n**Resistances**\r\nbludgeoning 5, piercing 5\r\n\r\n**Weaknesses**\r\naxe vulnerability, fire 10\r\n\r\n**Axe Vulnerability** An arboreal warden takes 5 additional damage from axes.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)**<actions string=\"Reaction\" /><br />**[Shield Block](/MonsterAbilities.aspx?ID=32)**<actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstone longsword +13 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+10 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshield bash +13,\r\n**Damage** 1d6+10 bludgeoning\n\n**Shield Push** <actions string=\"Two Actions\" />  The arboreal warden Strides and then makes a shield bash Strike. If the attack hits, the target is pushed 10 feet.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-8\" />",
+ "name": "Arboreal Warden",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "bludgeoning": 5,
+  "piercing": 5
+ },
+ "resistance_markdown": "bludgeoning 5, piercing 5",
+ "resistance_raw": "bludgeoning 5, piercing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 24</row>\r\n\r\n**Creature Family** [Arboreal](/MonsterFamilies.aspx?ID=8)\r\n\r\n<row gap=\"medium\">\r\n**HP** 75\r\n\r\n**AC** 20\r\n\r\n**Fort** +13\r\n\r\n**Ref** +9\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nArboreal wardens are the rangers of arboreal society. These itinerant folk have an innate curiosity about the woodlands in which they dwell, and …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 24"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 24</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Arboreal wardens are the rangers of arboreal society. These itinerant folk have an innate curiosity about the woodlands in which they dwell, and …",
+ "summary_markdown": "Arboreal wardens are the rangers of arboreal society. These itinerant folk have an innate curiosity about the woodlands in which they dwell, and …",
+ "text": " Arboreal Warden Arboreal wardens are the rangers of arboreal society. These itinerant folk have an innate curiosity about the woodlands in which they dwell, and rarely stop to take root and rest in the same part of the forest twice. This wanderlust makes wardens ideal forest patrollers and scouts. While they are robust combatants, they know better than to confront dangerous foes on their own. Instead, they report any dangers to arboreal regents. In rare cases, large groups of arboreal wardens congregate to form a copse. Copses travel beyond the boundaries of a forest to investigate the hinterlands and gather intelligence on potential threats before returning to report their findings. Arboreal wardens do not pretend to understand to other creatures’ motives—like most forces of the natural world, they are ambivalent about mortal affairs that do not involve their forest. Recall Knowledge - Plant (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Arboreal Warden Source Bestiary pg. 24 Perception +11; low-light vision Languages Arboreal, Common, Sylvan Skills Athletics +13, Stealth +9 Str +5 Dex +1 Con +3 Int +1 Wis +3 Cha +1 Items large bark shield (Hardness 3, Hit Points 20, BT 10), stone longsword --- AC 20 (22 with shield raised) Fort +13 Ref +9 Will +11 HP 75 Resistances bludgeoning 5, piercing 5 Weaknesses axe vulnerability, fire 10 Axe Vulnerability An arboreal warden takes 5 additional damage from axes. Attack of Opportunity Reaction Shield Block Reaction --- Speed 25 feet Melee Single Action stone longsword +13 (reach 10 feet), Damage 1d8+10 bludgeoning Melee Single Action shield bash +13, Damage 1d6+10 bludgeoning Shield Push Two Actions The arboreal warden Strides and then makes a shield bash Strike. If the attack hits, the target is pushed 10 feet. ",
+ "trait": [
+  "Plant",
+  "NG",
+  "Large"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=27",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "axe vulnerability, fire 10",
+ "weakness_raw": "axe vulnerability, fire 10",
+ "will_save": 11,
+ "wisdom": 3
+}

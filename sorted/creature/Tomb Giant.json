@@ -1,0 +1,107 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Catch Rock",
+  "Dooming Touch",
+  "Font of Death",
+  "Throw Rock"
+ ],
+ "creature_family": "Giant",
+ "creature_family_markdown": "[Giant](/MonsterFamilies.aspx?ID=53)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 255,
+ "hp_raw": "255 ( negative healing )",
+ "id": "creature-1168",
+ "image": [
+  "/Images/Monsters/Giant_TombGIant.png"
+ ],
+ "immunity": [
+  "death  effects"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects",
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Jotun",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8), [Necril](/Languages.aspx?ID=20)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tomb Giant](/Monsters.aspx?ID=1168)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMasters of mausoleums and keepers of crypts, the dread creatures called tomb giants are anathema to all living beings, but especially so to other types of giants. Long ago, so the legends say, tomb giants sold their souls in exchange for unfathomable necromantic powers. With whom they made this foul bargain remains a mystery—if the rumors hold any truth at all. Still, tomb giants' power over undeath remains undeniable, and nearly all of them embrace a fervent passion for necromancy.\n\n Tomb giants construct massive gothic settlements in haunted valleys and on forsaken hillsides, far enough away from the societies of smaller people that they remain relatively undisturbed, but close enough that they can raid the graveyards of nearby villages with impunity.\n\n Elder tomb giants—those who have animated countless hordes of humanoid [zombies](/MonsterFamilies.aspx?ID=103) and [skeletons](/MonsterFamilies.aspx?ID=92) and yearn for even greater challenges—enjoy the thrill of subduing, slaying, and reanimating their fellow giants. [Taiga giants](/Monsters.aspx?ID=680) in particular are choice prey to an experienced tomb giant, as their larger cousins make formidable undead guardians and warriors.\n\n A tomb giant views its mortal life as only one part of its existence. After death, most tomb giants are themselves reanimated as undead, who then continue to practice their necromantic arts.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Giant_TombGIant.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Tomb Giant](/Monsters.aspx?ID=1168)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 110</row>\n\n**Perception** +25; [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Medicine](/Skills.aspx?ID=9) +25, [Religion](/Skills.aspx?ID=13) +25, [Stealth](/Skills.aspx?ID=15) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +6\r\n\r\n**Int** +3\r\n\r\n**Wis** +7\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+1 [striking](/Equipment.aspx?ID=280) [scythe](/Weapons.aspx?ID=39)_, black onyx gems worth 300 gp\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 255\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects\n\n**[Catch Rock](/MonsterAbilities.aspx?ID=7)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_scythe_ +27 ([deadly d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 2d10+13 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +26 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+13 slashing plus dooming touch\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +24 ([Brutal](/Traits.aspx?ID=249), [range increment 120 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+13 bludgeoning\r\n\r\n**Divine Innate Spells** DC 32\r\n- **5th**\r\n[Bind Undead](/Spells.aspx?ID=22) (×3), [Harm](/Spells.aspx?ID=146) (×3)\r\n\r\n**Rituals** DC 32\r\n\r\n- **2nd**\r\n[Create Undead](/Rituals.aspx?ID=10)\r\n\r\n**Dooming Touch**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes [doomed 1](/Conditions.aspx?ID=9).\r\n\r\n**Font of Death** <actions string=\"Three Actions\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118)) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of negative energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with negative energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this negative energy from the corpse in an explosion that deals 10d8 negative energy in a 15-foot burst (DC 32 basic Fortitude save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Generals of the Underworld</title>\r\n\r\nThe most powerful tomb giants amass literal armies of undead minions to serve them and wage wars on their behalf. Woe to any sleepy hamlet caught in the crossfire of two warring tomb giants, whose campaigns of doom can transform an idyllic vale into a forsaken boneyard overnight.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-53\" />",
+ "name": "Tomb Giant",
+ "npc": false,
+ "perception": 25,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 110</row>\r\n\r\n**Creature Family** [Giant](/MonsterFamilies.aspx?ID=53)\r\n\r\n<row gap=\"medium\">\r\n**HP** 255 ( negative healing )\r\n\r\n**AC** 32\r\n\r\n**Fort** +22\r\n\r\n**Ref** +19\r\n\r\n**Will** +25\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMasters of mausoleums and keepers of crypts, the dread creatures called tomb giants are anathema to all living beings, but especially so to other …\r\n</summary>",
+ "sense": " darkvision ,  lifesense  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Medicine +25",
+  "Religion +25",
+  "Stealth +21"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Medicine](/Skills.aspx?ID=9) +25, [Religion](/Skills.aspx?ID=13) +25, [Stealth](/Skills.aspx?ID=15) +21",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 110"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 110</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Bind Undead",
+  "Harm"
+ ],
+ "spell_markdown": "[Bind Undead](/Spells.aspx?ID=22), [Harm](/Spells.aspx?ID=146)",
+ "stealth": "21",
+ "strength": 7,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Masters of mausoleums and keepers of crypts, the dread creatures called tomb giants are anathema to all living beings, but especially so to other …",
+ "summary_markdown": "Masters of mausoleums and keepers of crypts, the dread creatures called tomb giants are anathema to all living beings, but especially so to other …",
+ "text": " Tomb Giant Masters of mausoleums and keepers of crypts, the dread creatures called tomb giants are anathema to all living beings, but especially so to other types of giants. Long ago, so the legends say, tomb giants sold their souls in exchange for unfathomable necromantic powers. With whom they made this foul bargain remains a mystery—if the rumors hold any truth at all. Still, tomb giants' power over undeath remains undeniable, and nearly all of them embrace a fervent passion for necromancy. Tomb giants construct massive gothic settlements in haunted valleys and on forsaken hillsides, far enough away from the societies of smaller people that they remain relatively undisturbed, but close enough that they can raid the graveyards of nearby villages with impunity. Elder tomb giants—those who have animated countless hordes of humanoid zombies and skeletons and yearn for even greater challenges—enjoy the thrill of subduing, slaying, and reanimating their fellow giants. Taiga giants in particular are choice prey to an experienced tomb giant, as their larger cousins make formidable undead guardians and warriors. A tomb giant views its mortal life as only one part of its existence. After death, most tomb giants are themselves reanimated as undead, who then continue to practice their necromantic arts. Recall Knowledge - Humanoid (Society): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Tomb Giant Source Bestiary 3 pg. 110 Perception +25; darkvision, lifesense (imprecise) 60 feet Languages Common, Jotun, Necril Skills Athletics +25, Medicine +25, Religion +25, Stealth +21 Str +7 Dex +3 Con +6 Int +3 Wis +7 Cha +4 Items +1 striking scythe , black onyx gems worth 300 gp --- AC 32 Fort +22 Ref +19 Will +25 HP 255 (negative healing) Immunities death effects Catch Rock Reaction --- Speed 30 feet Melee Single Action scythe +27 (deadly d10, Magical, reach 10 feet, Trip), Damage 2d10+13 slashing Melee Single Action claw +26 (Agile, reach 10 feet), Damage 3d6+13 slashing plus dooming touch Ranged Single Action rock +24 (Brutal, range increment 120 feet), Damage 3d8+13 bludgeoning Divine Innate Spells DC 32 - 5th Bind Undead (×3), Harm (×3) Rituals DC 32 - 2nd Create Undead Dooming Touch (Divine, Necromancy) The tomb giant's claws carry the accursed power of their foul gods. A creature hit by the tomb giant's claw Strike becomes doomed 1. Font of Death Three Actions (Divine, Necromancy, Negative) The tomb giant turns the spiritual tide on a creature that has just died, temporarily transforming it into a volatile vessel of negative energy. The tomb giant touches a creature that died in the past 24 hours, infusing its flesh and bone with negative energy. Once during the next hour, the tomb giant can spend a single action (from any distance) to release this negative energy from the corpse in an explosion that deals 10d8 negative energy in a 15-foot burst (DC 32 basic Fortitude save); if not released before the end of the hour, the energy dissipates harmlessly. The tomb giant can't use Font of Death while a previous corpse remains infused. Throw Rock Single Action Generals of the Underworld The most powerful tomb giants amass literal armies of undead minions to serve them and wage wars on their behalf. Woe to any sleepy hamlet caught in the crossfire of two warring tomb giants, whose campaigns of doom can transform an idyllic vale into a forsaken boneyard overnight. ",
+ "trait": [
+  "Giant",
+  "Humanoid",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Giant",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1168",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 7
+}

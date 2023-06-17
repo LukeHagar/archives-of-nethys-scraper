@@ -1,0 +1,101 @@
+{
+ "ac": 25,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 1,
+ "creature_ability": [
+  "Infused Items",
+  "Powerful Stench",
+  "Concentrated Xulgath Bile",
+  "Quick Bomber"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 115,
+ "hp_raw": "115",
+ "id": "creature-2105",
+ "intelligence": 4,
+ "language": [
+  "Draconic",
+  "Undercommon"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Xulgath Bomber](/Monsters.aspx?ID=2105)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Xulgath Bomber](/Monsters.aspx?ID=2105)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 28</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +14, [Crafting](/Skills.aspx?ID=4) +17, [Stealth](/Skills.aspx?ID=15) +15, [Thievery](/Skills.aspx?ID=17) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +4\r\n\r\n**Con** +1\r\n\r\n**Int** +4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Infused Items** A xulgath bomber carries the following infused items: 2 doses of concentrated xulgath bile, 2 [moderate acid flasks](/Equipment.aspx?ID=74), and 2 [moderate alchemist's fire](/Equipment.aspx?ID=75). These items last for 24 hours, or until the next time they make their daily preparations.\r\n\r\n**Items**\r\n[Alchemist's Tools](/Equipment.aspx?ID=2), [Greatpick](/Weapons.aspx?ID=23), [Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 115\n\n**Resistances**\r\n[poison](/Traits.aspx?ID=126) 5\n\n**Powerful Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature that enters the area must attempt a DC 24 Fortitude save. On a failure, the creature is [sickened 2](/Conditions.aspx?ID=34), and on a critical failure, the creature is also [slowed 1](/Conditions.aspx?ID=35) for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ngreatpick +16 ([fatal d12](/Traits.aspx?ID=178)),\r\n**Damage** 1d12+5 piercing plus concentrated xulgath bile\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +16,\r\n**Damage** 2d6+5 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +16 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d4+5 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nacid flask +17 ([range increment 20 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 5 acid damage plus 2d6+2 persistent acid and 4 acid splash\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nalchemist's fire +17 ([range increment 20 feet](/Traits.aspx?ID=248), [Splash](/Traits.aspx?ID=150)),\r\n**Damage** 2d8+2 fire plus 4 persistent fire and 4 fire splash\n\n**Concentrated Xulgath Bile**  ([Poison](/Traits.aspx?ID=126)) The [sickened](/Conditions.aspx?ID=34) condition from concentrated xulgath bile doesn't improve on its own until the target recovers from the poison. A target who recovers from concentrated xulgath bile is immune to being sickened by this poison for 1 minute; **Saving Throw** Fortitude DC 22; **Maximum Duration** 6 rounds; **Stage 1** 1d10 poison damage and [sickened 1](/Conditions.aspx?ID=34) (1 round); **Stage 2** 2d10 poison damage and sickened 2 (1 round); **Stage 3** 2d10 poison damage and sickened 3 (1 round).\r\n\r\n**Quick Bomber** <actions string=\"Single Action\" />  The bomber Interacts to draw a bomb, then Strikes with it.\r\n\r\n</column>",
+ "name": "Xulgath Bomber",
+ "npc": false,
+ "perception": 15,
+ "rarity": "uncommon",
+ "reflex_save": 17,
+ "release_date": "2020-03-26",
+ "resistance": {
+  "poison": 5
+ },
+ "resistance_markdown": "[poison](/Traits.aspx?ID=126) 5",
+ "resistance_raw": " poison  5",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Xulgath\" url=\"/Traits.aspx?ID=244\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 28</row>\n\n<row gap=\"medium\">\r\n**HP** 115\r\n\r\n**AC** 25\r\n\r\n**Fort** +12\r\n\r\n**Ref** +17\r\n\r\n**Will** +15\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +14",
+  "Crafting +17",
+  "Stealth +15",
+  "Thievery +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +14, [Crafting](/Skills.aspx?ID=4) +17, [Stealth](/Skills.aspx?ID=15) +15, [Thievery](/Skills.aspx?ID=17) +15",
+ "source": [
+  "Pathfinder #153: Life's Long Shadows"
+ ],
+ "source_raw": [
+  "Pathfinder #153: Life's Long Shadows pg. 28"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #153: Life's Long Shadows](/Sources.aspx?ID=29) pg. 28</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "stealth": "15",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Xulgath Bomber Recall Knowledge - Humanoid (Society): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Xulgath Bomber Source Pathfinder #153: Life's Long Shadows pg. 28 Perception +15; darkvision Languages Draconic, Undercommon Skills Acrobatics +17, Athletics +14, Crafting +17, Stealth +15, Thievery +15 Str +3 Dex +4 Con +1 Int +4 Wis +2 Cha +0 Infused Items A xulgath bomber carries the following infused items: 2 doses of concentrated xulgath bile, 2 moderate acid flasks, and 2 moderate alchemist's fire. These items last for 24 hours, or until the next time they make their daily preparations. Items Alchemist's Tools, Greatpick, Studded Leather Armor --- AC 25 Fort +12 Ref +17 Will +15 HP 115 Resistances poison 5 Powerful Stench (aura, olfactory) 30 feet. A creature that enters the area must attempt a DC 24 Fortitude save. On a failure, the creature is sickened 2, and on a critical failure, the creature is also slowed 1 for as long as it is sickened. While within the aura, the creature takes a –2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all xulgaths' stenches for 1 minute. --- Speed 25 feet Melee Single Action greatpick +16 (fatal d12), Damage 1d12+5 piercing plus concentrated xulgath bile Melee Single Action jaws +16, Damage 2d6+5 piercing Melee Single Action claw +16 (Agile, Finesse), Damage 2d4+5 slashing Ranged Single Action acid flask +17 (range increment 20 feet, Splash), Damage 5 acid damage plus 2d6+2 persistent acid and 4 acid splash Ranged Single Action alchemist's fire +17 (range increment 20 feet, Splash), Damage 2d8+2 fire plus 4 persistent fire and 4 fire splash Concentrated Xulgath Bile (Poison) The sickened condition from concentrated xulgath bile doesn't improve on its own until the target recovers from the poison. A target who recovers from concentrated xulgath bile is immune to being sickened by this poison for 1 minute; Saving Throw Fortitude DC 22; Maximum Duration 6 rounds; Stage 1 1d10 poison damage and sickened 1 (1 round); Stage 2 2d10 poison damage and sickened 2 (1 round); Stage 3 2d10 poison damage and sickened 3 (1 round). Quick Bomber Single Action The bomber Interacts to draw a bomb, then Strikes with it. ",
+ "trait": [
+  "Humanoid",
+  "Uncommon",
+  "Xulgath",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159), [Xulgath](/Traits.aspx?ID=244)",
+ "trait_raw": [
+  "Humanoid",
+  "Uncommon",
+  "Xulgath"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2105",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 2
+}

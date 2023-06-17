@@ -1,0 +1,124 @@
+{
+ "ac": 39,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 5,
+ "creature_ability": [
+  "Sudden Stitch",
+  "Mend Soul",
+  "Seize Soul",
+  "Shred Soul",
+  "Spirit Grasp",
+  "Spirit Touch"
+ ],
+ "creature_family": "Psychopomp",
+ "creature_family_markdown": "[Psychopomp](/MonsterFamilies.aspx?ID=83)",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 290,
+ "hp_raw": "290",
+ "id": "creature-2422",
+ "image": [
+  "/Images/Monsters/Psychopomp_Eseneth.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46)",
+ "intelligence": 6,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Infernal",
+  "Requian"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Infernal](/Languages.aspx?ID=19), [Requian](/Languages.aspx?ID=34)",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"\">[Eseneth](/Monsters.aspx?ID=2422)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nEseneths, commonly known as soul-stitchers, are dispassionate surgeons who repair damaged souls.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Monitor](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Psychopomp_Eseneth.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Eseneth](/Monsters.aspx?ID=2422)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Monitor\" url=\"/Traits.aspx?ID=111\" />\r\n<trait label=\"Psychopomp\" url=\"/Traits.aspx?ID=232\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 83</row>\n\n**Perception** +29; [darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 120 feet\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Infernal](/Languages.aspx?ID=19), [Requian](/Languages.aspx?ID=34)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +33, [Athletics](/Skills.aspx?ID=3) +33, [Boneyard Lore](/Skills.aspx?ID=8) +29, [Medicine](/Skills.aspx?ID=9) +31, [Sewing Lore](/Skills.aspx?ID=8) +35, [Stealth](/Skills.aspx?ID=15) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +8\r\n\r\n**Con** +5\r\n\r\n**Int** +6\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 39 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +32 \r\n\r\n**Will** +27 \n\n</row>\r\n\r\n**HP** 290\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46)\r\n\r\n**Resistances**\r\n[negative](/Traits.aspx?ID=118) 15, [poison](/Traits.aspx?ID=126) 15\n\n**Sudden Stitch** <actions string=\"Reaction\" /> **Trigger** A creature within the eseneth's reach successfully Strikes the eseneth; **Effect** The eseneth attempts to [Grapple](/Actions.aspx?ID=35) the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nspirit needle +33,\r\n**Damage** 3d10+14 piercing plus spirit touch and [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspirit needle +33 ([thrown 30 feet](/Traits.aspx?ID=195)),\r\n**Damage** 3d10+14 piercing plus spirit touch\r\n\r\n**Divine Innate Spells** DC 38, attack +30\r\n- **2nd**\r\n[Invisibility](/Spells.aspx?ID=164) (at will; self only)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **8th**\r\n[Spirit Blast](/Spells.aspx?ID=301) (×3)\r\n- **Constant (4th)**\r\n[Freedom of Movement](/Spells.aspx?ID=128)\r\n\r\n**Mend Soul** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Frequency** once per round; **Effect** The eseneth restores 25 HP to itself or an [incorporeal](/Traits.aspx?ID=222) creature it has [grabbed](/Conditions.aspx?ID=20).\r\n\r\n**Seize Soul** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15), [Incapacitation](/Traits.aspx?ID=93)) The eseneth tries to yank the soul out of the body of a creature they've [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33). The eseneth attempts an [Athletics](/Skills.aspx?ID=3) check against the target's Fortitude DC. <br />**Critical Success** The eseneth grabs the target's soul. The body is released and is [paralyzed](/Conditions.aspx?ID=28) for 2 rounds. When the body ceases being paralyzed, its soul returns instantly and the target wakes. The soul—grabbed by the eseneth—is [incorporeal](/Traits.aspx?ID=222), is [invisible](/Conditions.aspx?ID=26), has a fly Speed equal to the creature's Speed, and otherwise has all the same statistics. It can't attack, cast spells, or attempt any skill checks that require a physical body other than checks to [Escape](/Actions.aspx?ID=79), and it must always maintain line of effect to its body. <br />**Success** As critical success, but the paralysis ends after 1 round.<br /> **Failure** The target remains grabbed or restrained, but its soul remains in its body.<br /> **Critical Failure** The grab ends.\r\n\r\n**Shred Soul** <actions string=\"Single Action\" />  **Frequency** once per round; **Effect** The eseneth deals 3d10+14 force damage to an [incorporeal](/Traits.aspx?ID=222) creature they've [grabbed](/Conditions.aspx?ID=20).\r\n\r\n**Spirit Grasp**   An eseneth can [Grapple](/Actions.aspx?ID=35) [incorporeal](/Traits.aspx?ID=222) creatures despite being corporeal. The eseneth uses their [Athletics](/Skills.aspx?ID=3) check to Grapple incorporeal creatures as normal but can't use Athletics for other actions against incorporeal creatures, like [Shove](/Actions.aspx?ID=38) or [Trip](/Actions.aspx?ID=40).\r\n\r\n**Spirit Touch**   A eseneth's Strikes affect [incorporeal](/Traits.aspx?ID=222) creatures with the effects of a [_ghost touch_](/Equipment.aspx?ID=297) property rune and deal 2d6 negative damage to living creatures and 2d6 positive damage to [undead](/Traits.aspx?ID=160).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Soul Needles</title>\r\n\r\nAn eseneth's spirit needles are composed of the psychopomp's essence. The needles form and dissipate at the eseneth's will and exist only as long as the eseneth does. \r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-83\" />",
+ "name": "Eseneth",
+ "npc": false,
+ "perception": 29,
+ "rarity": "rare",
+ "reflex_save": 32,
+ "release_date": "2022-12-14",
+ "resistance": {
+  "negative": 15,
+  "poison": 15
+ },
+ "resistance_markdown": "[negative](/Traits.aspx?ID=118) 15, [poison](/Traits.aspx?ID=126) 15",
+ "resistance_raw": " negative  15,  poison  15",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Monitor\" url=\"/Traits.aspx?ID=111\" />\r\n<trait label=\"Psychopomp\" url=\"/Traits.aspx?ID=232\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 83</row>\r\n\r\n**Creature Family** [Psychopomp](/MonsterFamilies.aspx?ID=83)\r\n\r\n<row gap=\"medium\">\r\n**HP** 290\r\n\r\n**AC** 39\r\n\r\n**Fort** +28\r\n\r\n**Ref** +32\r\n\r\n**Will** +27\r\n\r\n**Perception** +29\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEseneths, commonly known as soul-stitchers, are dispassionate surgeons who repair damaged souls.\r\n</summary>",
+ "sense": " darkvision ,  lifesense  120 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [lifesense](/MonsterAbilities.aspx?ID=21) 120 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +33",
+  "Athletics +33",
+  "Boneyard Lore +29",
+  "Medicine +31",
+  "Sewing Lore +35",
+  "Stealth +33"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +33, [Athletics](/Skills.aspx?ID=3) +33, [Boneyard Lore](/Skills.aspx?ID=8) +29, [Medicine](/Skills.aspx?ID=9) +31, [Sewing Lore](/Skills.aspx?ID=8) +35, [Stealth](/Skills.aspx?ID=15) +33",
+ "source": [
+  "Pathfinder #186: Ghost King's Rage"
+ ],
+ "source_raw": [
+  "Pathfinder #186: Ghost King's Rage pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #186: Ghost King's Rage](/Sources.aspx?ID=189) pg. 83</row>",
+ "speed": {
+  "fly": 40,
+  "land": 25,
+  "max": 40
+ },
+ "speed_markdown": "25 feet, fly 40 feet",
+ "speed_raw": "25 feet, fly 40 feet",
+ "spell": [
+  "Spirit Blast",
+  "Dimension Door",
+  "Invisibility",
+  "Freedom of Movement"
+ ],
+ "spell_markdown": "[Dimension Door](/Spells.aspx?ID=69), [Freedom of Movement](/Spells.aspx?ID=128), [Invisibility](/Spells.aspx?ID=164), [Spirit Blast](/Spells.aspx?ID=301)",
+ "spoilers": "Blood Lords",
+ "stealth": "33",
+ "strength": 8,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Eseneths, commonly known as soul-stitchers, are dispassionate surgeons who repair damaged souls.",
+ "summary_markdown": "Eseneths, commonly known as soul-stitchers, are dispassionate surgeons who repair damaged souls.",
+ "text": " Eseneth Eseneths, commonly known as soul-stitchers, are dispassionate surgeons who repair damaged souls. Recall Knowledge - Monitor (Religion): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Eseneth Source Pathfinder #186: Ghost King's Rage pg. 83 Perception +29; darkvision, lifesense 120 feet Languages Abyssal, Celestial, Infernal, Requian Skills Acrobatics +33, Athletics +33, Boneyard Lore +29, Medicine +31, Sewing Lore +35, Stealth +33 Str +8 Dex +8 Con +5 Int +6 Wis +4 Cha +2 --- AC 39 Fort +28 Ref +32 Will +27 HP 290 Immunities death effects, disease Resistances negative 15, poison 15 Sudden Stitch Reaction Trigger A creature within the eseneth's reach successfully Strikes the eseneth; Effect The eseneth attempts to Grapple the triggering creature. --- Speed 25 feet, fly 40 feet Melee Single Action spirit needle +33, Damage 3d10+14 piercing plus spirit touch and Improved Grab Ranged Single Action spirit needle +33 (thrown 30 feet), Damage 3d10+14 piercing plus spirit touch Divine Innate Spells DC 38, attack +30 - 2nd Invisibility (at will; self only) - 4th Dimension Door (at will) - 8th Spirit Blast (×3) - Constant (4th) Freedom of Movement Mend Soul Single Action (Manipulate) Frequency once per round; Effect The eseneth restores 25 HP to itself or an incorporeal creature it has grabbed. Seize Soul Single Action (Attack, Incapacitation) The eseneth tries to yank the soul out of the body of a creature they've grabbed or restrained. The eseneth attempts an Athletics check against the target's Fortitude DC. Critical Success The eseneth grabs the target's soul. The body is released and is paralyzed for 2 rounds. When the body ceases being paralyzed, its soul returns instantly and the target wakes. The soul—grabbed by the eseneth—is incorporeal, is invisible, has a fly Speed equal to the creature's Speed, and otherwise has all the same statistics. It can't attack, cast spells, or attempt any skill checks that require a physical body other than checks to Escape, and it must always maintain line of effect to its body. Success As critical success, but the paralysis ends after 1 round. Failure The target remains grabbed or restrained, but its soul remains in its body. Critical Failure The grab ends. Shred Soul Single Action Frequency once per round; Effect The eseneth deals 3d10+14 force damage to an incorporeal creature they've grabbed. Spirit Grasp An eseneth can Grapple incorporeal creatures despite being corporeal. The eseneth uses their Athletics check to Grapple incorporeal creatures as normal but can't use Athletics for other actions against incorporeal creatures, like Shove or Trip. Spirit Touch A eseneth's Strikes affect incorporeal creatures with the effects of a ghost touch property rune and deal 2d6 negative damage to living creatures and 2d6 positive damage to undead. Soul Needles An eseneth's spirit needles are composed of the psychopomp's essence. The needles form and dissipate at the eseneth's will and exist only as long as the eseneth does. ",
+ "trait": [
+  "Monitor",
+  "Psychopomp",
+  "Rare",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Monitor](/Traits.aspx?ID=111), [Psychopomp](/Traits.aspx?ID=232), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Monitor",
+  "Psychopomp",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2422",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 27,
+ "wisdom": 4
+}

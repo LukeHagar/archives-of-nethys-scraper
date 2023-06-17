@@ -1,0 +1,100 @@
+{
+ "ac": 13,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 1,
+ "creature_ability": [
+  "Immunities  negative",
+  "Attack of Opportunity",
+  "Death Feast",
+  "Grave Breath",
+  "Rend"
+ ],
+ "creature_family": "Troll",
+ "creature_family_markdown": "[Troll](/MonsterFamilies.aspx?ID=96)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 25,
+ "hp_raw": "25",
+ "id": "creature-2035",
+ "image": [
+  "/Images/Monsters/Troll_Tombstone.png"
+ ],
+ "intelligence": -3,
+ "language": [
+  "Jotun"
+ ],
+ "language_markdown": "[Jotun](/Languages.aspx?ID=8)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"\">[Troll, Tombstone](/Monsters.aspx?ID=2035)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSometimes, when a troll is regenerating from life-threatening wounds inflicted by necromancy or negative energy, the vile energy takes hold in the troll's supernaturally resilient regeneration. The force that should have killed the troll instead becomes a part of the troll's strange physiology. These trolls are not undead, but the force inside them eats at their bodies and souls, turning them into shrunken mockeries of their former selves. These so-called “tombstone trolls” resemble withered, diminutive trolls, bloated with starvation and obviously sickly. Their teeth, hair, and fingernails rot, fall out, and regenerate every few days in an endless cycle that is both painful to experience and sickening to see.\n\n Other trolls shun and despise tombstone trolls, who earn their name from their habit of digging up graves in their search for an easy meal that can't fight back. Tombstone trolls shun confrontation of any kind, especially in areas where their grave-robbing might put them at odds with powerful undead. They often lair underground, safe in their graveyard burrows for days at a time, gradually tunneling through the earth to devour nearby corpses. If the tombstone troll is clever, the surface might not bear any evidence of their presence except for a few divots or soft spots in the soil. Once a tombstone troll has run out of easy pickings in a cemetery, it moves on in the dead of night to find a new hunting ground. If their travel is lengthy or difficult, their hunger might drive them to attack the living.\r\n\r\n<column gap=\"tiny\">\n\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 15\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 12\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Troll_Tombstone.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Tombstone Troll](/Monsters.aspx?ID=2035)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 88</row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +7, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +2\r\n\r\n**Con** +1\r\n\r\n**Int** -3\r\n\r\n**Wis** +0\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 13 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 25\r\n\r\n, regeneration 5 (deactivated by [acid](/Traits.aspx?ID=3), [fire](/Traits.aspx?ID=72), or [positive](/Traits.aspx?ID=128))\n\n**Immunities [negative](/Traits.aspx?ID=118)** Weaknesses fire 5, positive 5<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, burrow 5 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +9,\r\n**Damage** 1d6+3 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +9 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d4+3 slashing\n\n**Death Feast** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The troll's last action was a jaws Strike that damaged a living creature or a corpse; **Effect** The troll deals 1d6 bleed damage to the target as it swallows a mouthful of meat and converts it into negative energy. Its jaws and claw Strikes deal 1 additional negative damage for 1 minute or until it uses its Grave Breath, whichever comes first.\r\n\r\n**Grave Breath** <actions string=\"Two Actions\" /> ([Death](/Traits.aspx?ID=40), [Negative](/Traits.aspx?ID=118), [Occult](/Traits.aspx?ID=120)) **Requirements** The troll is bloated with negative energy from a Death Feast; **Effect** The troll breathes a 15-foot cone of putrid, soul-chilling gas. Each living creature in the area takes 2d6 negative damage (DC 14 [basic](/Rules.aspx?ID=329) Fortitude save). On a failure, the creature also becomes [sickened 1](/Conditions.aspx?ID=34). The troll can't use Grave Breath until it uses Death Feast again.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Stolen Family</title>\r\n\r\nOther trolls who encounter tombstone trolls pity these creatures for mere moments before disgust takes over and they try to slaughter their sickly kin. Tombstone trolls breed by stealing infant trolls and nearly killing them, then exposing them to their grave breath, hoping that the energy might take root in their victims\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-96\" />",
+ "name": "Tombstone Troll",
+ "npc": false,
+ "perception": 7,
+ "rarity": "uncommon",
+ "reflex_save": 9,
+ "release_date": "2022-07-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Giant\" url=\"/Traits.aspx?ID=79\" />\r\n<trait label=\"Troll\" url=\"/Traits.aspx?ID=241\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 88</row>\r\n\r\n**Creature Family** [Troll](/MonsterFamilies.aspx?ID=96)\r\n\r\n<row gap=\"medium\">\r\n**HP** 25\r\n\r\n**AC** 13\r\n\r\n**Fort** +6\r\n\r\n**Ref** +9\r\n\r\n**Will** +5\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes, when a troll is regenerating from life-threatening wounds inflicted by necromancy or negative energy, the vile energy takes hold in the …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +7",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +7, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Pathfinder #181: Zombie Feast"
+ ],
+ "source_raw": [
+  "Pathfinder #181: Zombie Feast pg. 88"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #181: Zombie Feast](/Sources.aspx?ID=139) pg. 88</row>",
+ "speed": {
+  "burrow": 5,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, burrow 5 feet",
+ "speed_raw": "25 feet, burrow 5 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "7",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Sometimes, when a troll is regenerating from life-threatening wounds inflicted by necromancy or negative energy, the vile energy takes hold in the …",
+ "summary_markdown": "Sometimes, when a troll is regenerating from life-threatening wounds inflicted by necromancy or negative energy, the vile energy takes hold in the …",
+ "text": " Troll, Tombstone Sometimes, when a troll is regenerating from life-threatening wounds inflicted by necromancy or negative energy, the vile energy takes hold in the troll's supernaturally resilient regeneration. The force that should have killed the troll instead becomes a part of the troll's strange physiology. These trolls are not undead, but the force inside them eats at their bodies and souls, turning them into shrunken mockeries of their former selves. These so-called “tombstone trolls” resemble withered, diminutive trolls, bloated with starvation and obviously sickly. Their teeth, hair, and fingernails rot, fall out, and regenerate every few days in an endless cycle that is both painful to experience and sickening to see. Other trolls shun and despise tombstone trolls, who earn their name from their habit of digging up graves in their search for an easy meal that can't fight back. Tombstone trolls shun confrontation of any kind, especially in areas where their grave-robbing might put them at odds with powerful undead. They often lair underground, safe in their graveyard burrows for days at a time, gradually tunneling through the earth to devour nearby corpses. If the tombstone troll is clever, the surface might not bear any evidence of their presence except for a few divots or soft spots in the soil. Once a tombstone troll has run out of easy pickings in a cemetery, it moves on in the dead of night to find a new hunting ground. If their travel is lengthy or difficult, their hunger might drive them to attack the living. Unspecific Lore : DC 15 Specific Lore : DC 12 Tombstone Troll Source Pathfinder #181: Zombie Feast pg. 88 Perception +7; darkvision Languages Jotun Skills Athletics +7, Stealth +7 Str +3 Dex +2 Con +1 Int -3 Wis +0 Cha -2 --- AC 13 Fort +6 Ref +9 Will +5 HP 25 , regeneration 5 (deactivated by acid, fire, or positive) Immunities negative Weaknesses fire 5, positive 5 Attack of Opportunity Reaction --- Speed 25 feet, burrow 5 feet Melee Single Action jaws +9, Damage 1d6+3 piercing Melee Single Action claw +9 (Agile), Damage 1d4+3 slashing Death Feast Single Action (Manipulate) Requirements The troll's last action was a jaws Strike that damaged a living creature or a corpse; Effect The troll deals 1d6 bleed damage to the target as it swallows a mouthful of meat and converts it into negative energy. Its jaws and claw Strikes deal 1 additional negative damage for 1 minute or until it uses its Grave Breath, whichever comes first. Grave Breath Two Actions (Death, Negative, Occult) Requirements The troll is bloated with negative energy from a Death Feast; Effect The troll breathes a 15-foot cone of putrid, soul-chilling gas. Each living creature in the area takes 2d6 negative damage (DC 14 basic Fortitude save). On a failure, the creature also becomes sickened 1. The troll can't use Grave Breath until it uses Death Feast again. Rend Single Action claw Stolen Family Other trolls who encounter tombstone trolls pity these creatures for mere moments before disgust takes over and they try to slaughter their sickly kin. Tombstone trolls breed by stealing infant trolls and nearly killing them, then exposing them to their grave breath, hoping that the energy might take root in their victims ",
+ "trait": [
+  "Giant",
+  "Troll",
+  "Uncommon",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Giant](/Traits.aspx?ID=79), [Troll](/Traits.aspx?ID=241), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Giant",
+  "Troll",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2035",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 5,
+ "wisdom": 0
+}

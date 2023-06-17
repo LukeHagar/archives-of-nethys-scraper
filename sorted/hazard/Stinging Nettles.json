@@ -1,0 +1,51 @@
+{
+ "ac": 13,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 17  Survival  to carefully navigate the plant and pull aside or cut away the nettles",
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hazard_type": "Environmental",
+ "id": "hazard-274",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 1,
+ "markdown": "<title level=\"1\" right=\"Hazard 1\" pfs=\"\">[Stinging Nettles](/Hazards.aspx?ID=274)</title>\r\n\r\n<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 77</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThis bright green plant has long triangular leaves covered with fine hair-like stingers.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 17\r\n\r\n**Disable**\r\nDC 17 [Survival](/Skills.aspx?ID=16) to carefully navigate the plant and pull aside or cut away the nettles\n\n<column gap=\"tiny\">\r\n\r\n**AC** 13, **Fort** +10, **Ref** +4\n\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Sting** <actions string=\"Reaction\" /> ([poison](/Traits.aspx?ID=126)) **Trigger** A creature touches the stinging nettles or moves through a square containing stinging nettles; **Effect** The triggering creature must attempt a DC 17 Fortitude save if they're walking through the square or a DC 20 Fortitude save if they touched the nettles.\r\n\r\n**Critical Success** The creature avoids being stung by the plant's nettles.<br />\r\n**Success** The creature is [sickened 1](/Conditions.aspx?ID=34) by the pain caused by brief contact with the nettles.<br />\r\n**Failure** The creature is sickened 1 by the pain caused by contact with the nettles and is also [clumsy 1](/Conditions.aspx?ID=3) for 8 hours from the lingering pain.<br />\r\n**Critical Failure** The creature is sickened 2 by the pain caused by contact with the nettles and is also clumsy 1 for 24 hours from the lingering pain.",
+ "name": "Stinging Nettles",
+ "rarity": "common",
+ "reflex_save": 4,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 77</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis bright green plant has long triangular leaves covered with fine hair-like stingers.\r\n</summary>",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 77"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 77</row>",
+ "speed": {},
+ "stealth": "DC 17",
+ "summary": "This bright green plant has long triangular leaves covered with fine hair-like stingers.",
+ "summary_markdown": "This bright green plant has long triangular leaves covered with fine hair-like stingers.",
+ "text": " Stinging Nettles Source Kingmaker Adventure Path pg. 77 Complexity Simple This bright green plant has long triangular leaves covered with fine hair-like stingers. --- Stealth DC 17 Disable DC 17 Survival to carefully navigate the plant and pull aside or cut away the nettles AC 13, Fort +10, Ref +4 Immunities critical hits, object immunities, precision damage Sting Reaction (poison) Trigger A creature touches the stinging nettles or moves through a square containing stinging nettles; Effect The triggering creature must attempt a DC 17 Fortitude save if they're walking through the square or a DC 20 Fortitude save if they touched the nettles. Critical Success The creature avoids being stung by the plant's nettles. Success The creature is sickened 1 by the pain caused by brief contact with the nettles. Failure The creature is sickened 1 by the pain caused by contact with the nettles and is also clumsy 1 for 8 hours from the lingering pain. Critical Failure The creature is sickened 2 by the pain caused by contact with the nettles and is also clumsy 1 for 24 hours from the lingering pain.",
+ "trait": [
+  "Environmental",
+  "Plant"
+ ],
+ "trait_markdown": "[Environmental](/Traits.aspx?ID=62), [Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Environmental",
+  "Plant"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=274",
+ "weakness": {}
+}

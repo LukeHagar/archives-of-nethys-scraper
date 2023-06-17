@@ -1,0 +1,93 @@
+{
+ "ac": 22,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Motionsense",
+  "Spill Venom",
+  "Negate Levitation",
+  "Skrik Nettle Venom"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 130,
+ "hp_raw": "130 ( fast healing 5 )",
+ "id": "creature-804",
+ "image": [
+  "/Images/Monsters/SkrikNettle.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Skrik Nettle](/Monsters.aspx?ID=804)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe expansive skies of the [First World](/Planes.aspx?ID=10) are home to skrik nettles—delicate, bizarre-looking creatures that resemble large jellyfishes. A fringe of brightly colored feathers circles their bodies, and long tendrils trail from their center, each ending in a snapping beak. Known for their eerie, chirping melodies, skrik nettles soar above the First World in flocks of a dozen or more, diligently scavenging for food in the fey realm's cutthroat ecosystem. When hunting or provoked, skrik nettles attack their foes by injecting them with a magical poison that causes the victim to float helplessly up into the sky. Skrik nettles continuously inject this poison into their helpless prey until it dies or is so high up that the skrik nettle needs only wait for the poison to end, its meal crashing helplessly to the ground below.\n\n Skrik nettles that find their way to the Material Plane (or any plane other than the First World, for that matter) tend to be much more aggressive, for the planar energies that they find comforting and soothing on the First World are conspicuously absent. The first few minutes after a skrik nettle arrives on any plane but the First World tend to be filled with violence and fear, as the panicking creature lashes out at any nearby creatures (including other skrik nettles) in the mistaken notion that these others are somehow responsible for the discomforting change. After 10 minutes or so, assuming the skrik nettle survives its bout of violence, the creature calms down somewhat and does its best to acclimate to its new home. Yet even skrik nettles who find themselves marooned beyond the First World for years never lose their longing for home, and they instinctively seek out portals to this plane for the rest of their lives.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SkrikNettle.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Skrik Nettle](/Monsters.aspx?ID=804)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 242 <sup>2.0</sup></row>\n\n**Perception** +16; motionsense 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +2\r\n\r\n**Int** -4\r\n\r\n**Wis** +4\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Motionsense** A flying skrik nettle can detect the movement of nearby creatures and objects from the tiny gusts of wind created by their movements. This is a precise sense at the listed range, but it works only against creatures and objects that moved through air in the previous round.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 130\r\n([fast healing 5](/MonsterAbilities.aspx?ID=15))\n\n**Weaknesses**\r\npiercing 5, slashing 5\r\n\r\n**Spill Venom** <actions string=\"Reaction\" /> **Trigger** The skrik nettle takes piercing or slashing damage; **Effect** The skrik nettle ejects its venom onto an adjacent creature. That creature is exposed to skrik nettle venom.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, fly 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +17 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+6 piercing plus skrik nettle venom\n\n**Negate Levitation** <actions string=\"Single Action\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The skrik nettle attempts to [counteract](/Rules.aspx?ID=371) (with a modifier of +17) a single effect currently levitating a creature it can detect with its motionsense.\r\n\r\n**Skrik Nettle Venom**  ([Evocation](/Traits.aspx?ID=65), [Poison](/Traits.aspx?ID=126), [Primal](/Traits.aspx?ID=134)) **Saving Throw** DC 27 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** [clumsy 1](/Conditions.aspx?ID=3) and levitate upward 5 feet (1 round); **Stage 2** clumsy 2 and levitate upward 10 feet (1 round)<br /> A levitating creature takes a –2 circumstance penalty to attack rolls. It can spend an Interact action to stabilize itself and negate this penalty for the remainder of its turn. If it's adjacent to a fixed object or stable terrain, it can move across the surface by climbing (if the surface is vertical) or crawling (if the surface is horizontal, such as a ceiling). A flying creature can move normally but still increases its altitude as appropriate from the venom. A creature that can't fly falls as soon as it recovers from skrik nettle venom.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Skrik Nettle Harvesting</title>\r\n\r\nSkrik nettle venom is magical in nature and deteriorates swiftly. A character with alchemist's tools can harvest a single dose of skrik nettle venom from a skrik nettle that has been dead no longer than an hour with a successful DC 24 [Crafting](/Skills.aspx?ID=4) check, which transforms the fluid into a standard [_potion of flying_](/Equipment.aspx?ID=189).\r\n</aside>",
+ "name": "Skrik Nettle",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 242 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 130 ( fast healing 5 )\r\n\r\n**AC** 22\r\n\r\n**Fort** +10\r\n\r\n**Ref** +17\r\n\r\n**Will** +14\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe expansive skies of the  First World  are home to skrik nettles—delicate, bizarre-looking creatures that resemble large jellyfishes. A fringe of …\r\n</summary>",
+ "sense": "motionsense 30 feet",
+ "sense_markdown": "motionsense 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +16"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 242"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 242 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 25,
+  "land": 10,
+  "max": 25
+ },
+ "speed_markdown": "10 feet, fly 25 feet",
+ "speed_raw": "10 feet, fly 25 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The expansive skies of the  First World  are home to skrik nettles—delicate, bizarre-looking creatures that resemble large jellyfishes. A fringe of …",
+ "summary_markdown": "The expansive skies of the  First World  are home to skrik nettles—delicate, bizarre-looking creatures that resemble large jellyfishes. A fringe of …",
+ "text": " Skrik Nettle The expansive skies of the First World are home to skrik nettles—delicate, bizarre-looking creatures that resemble large jellyfishes. A fringe of brightly colored feathers circles their bodies, and long tendrils trail from their center, each ending in a snapping beak. Known for their eerie, chirping melodies, skrik nettles soar above the First World in flocks of a dozen or more, diligently scavenging for food in the fey realm's cutthroat ecosystem. When hunting or provoked, skrik nettles attack their foes by injecting them with a magical poison that causes the victim to float helplessly up into the sky. Skrik nettles continuously inject this poison into their helpless prey until it dies or is so high up that the skrik nettle needs only wait for the poison to end, its meal crashing helplessly to the ground below. Skrik nettles that find their way to the Material Plane (or any plane other than the First World, for that matter) tend to be much more aggressive, for the planar energies that they find comforting and soothing on the First World are conspicuously absent. The first few minutes after a skrik nettle arrives on any plane but the First World tend to be filled with violence and fear, as the panicking creature lashes out at any nearby creatures (including other skrik nettles) in the mistaken notion that these others are somehow responsible for the discomforting change. After 10 minutes or so, assuming the skrik nettle survives its bout of violence, the creature calms down somewhat and does its best to acclimate to its new home. Yet even skrik nettles who find themselves marooned beyond the First World for years never lose their longing for home, and they instinctively seek out portals to this plane for the rest of their lives. Recall Knowledge - Aberration (Occultism): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Skrik Nettle Source Bestiary 2 pg. 242 2.0 Perception +16; motionsense 30 feet Languages Skills Acrobatics +16 Str +4 Dex +5 Con +2 Int -4 Wis +4 Cha +0 Motionsense A flying skrik nettle can detect the movement of nearby creatures and objects from the tiny gusts of wind created by their movements. This is a precise sense at the listed range, but it works only against creatures and objects that moved through air in the previous round. --- AC 22 Fort +10 Ref +17 Will +14 HP 130 (fast healing 5) Weaknesses piercing 5, slashing 5 Spill Venom Reaction Trigger The skrik nettle takes piercing or slashing damage; Effect The skrik nettle ejects its venom onto an adjacent creature. That creature is exposed to skrik nettle venom. --- Speed 10 feet, fly 25 feet Melee Single Action beak +17 (Agile, Finesse, reach 10 feet), Damage 2d8+6 piercing plus skrik nettle venom Negate Levitation Single Action (Evocation, Primal) The skrik nettle attempts to counteract (with a modifier of +17) a single effect currently levitating a creature it can detect with its motionsense. Skrik Nettle Venom (Evocation, Poison, Primal) Saving Throw DC 27 Fortitude; Maximum Duration 6 rounds; Stage 1 clumsy 1 and levitate upward 5 feet (1 round); Stage 2 clumsy 2 and levitate upward 10 feet (1 round) A levitating creature takes a –2 circumstance penalty to attack rolls. It can spend an Interact action to stabilize itself and negate this penalty for the remainder of its turn. If it's adjacent to a fixed object or stable terrain, it can move across the surface by climbing (if the surface is vertical) or crawling (if the surface is horizontal, such as a ceiling). A flying creature can move normally but still increases its altitude as appropriate from the venom. A creature that can't fly falls as soon as it recovers from skrik nettle venom. Skrik Nettle Harvesting Skrik nettle venom is magical in nature and deteriorates swiftly. A character with alchemist's tools can harvest a single dose of skrik nettle venom from a skrik nettle that has been dead no longer than an hour with a successful DC 24 Crafting check, which transforms the fluid into a standard potion of flying . ",
+ "trait": [
+  "Aberration",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=804",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "piercing": 5,
+  "slashing": 5
+ },
+ "weakness_markdown": "piercing 5, slashing 5",
+ "weakness_raw": "piercing 5, slashing 5",
+ "will_save": 14,
+ "wisdom": 4
+}

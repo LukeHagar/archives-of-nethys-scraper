@@ -1,0 +1,91 @@
+{
+ "ac": 17,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 3,
+ "creature_ability": [
+  "Blood Drain"
+ ],
+ "creature_family": "Leech",
+ "creature_family_markdown": "[Leech](/MonsterFamilies.aspx?ID=141)",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 32,
+ "hp_raw": "32",
+ "id": "creature-711",
+ "image": [
+  "/Images/Monsters/Leech_GiantLeech.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Leech](/Monsters.aspx?ID=711)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCapable of growing to lengths of nearly 5 feet, giant leeches have circular maws filled with hook-like teeth. They prefer to dwell in stagnant or slow-moving shallow water or in damp, moist undergrowth. Horses and larger animals are their favorite prey, but they won't balk at a chance to latch onto a human- or halfling-sized meal.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Leech_GiantLeech.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Giant Leech](/Monsters.aspx?ID=711)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 156 <sup>2.0</sup></row>\n\n**Perception** +5; [tremorsense 30 feet](/MonsterAbilities.aspx?ID=40)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 32\n\n**Weaknesses**\r\nsalt 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nmouth +10,\r\n**Damage** 1d4+6 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Blood Drain** <actions string=\"Single Action\" />  **Requirements** The giant leech has a creature [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33); **Effect** The giant leech drains blood from the creature it has grabbed. This deals 2d4 damage. A creature that has its blood drained by a giant leech is [drained 1](/Conditions.aspx?ID=10) until it receives any kind or amount of healing.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-141\" />",
+ "name": "Giant Leech",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 156 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Leech](/MonsterFamilies.aspx?ID=141)\r\n\r\n<row gap=\"medium\">\r\n**HP** 32\r\n\r\n**AC** 17\r\n\r\n**Fort** +9\r\n\r\n**Ref** +7\r\n\r\n**Will** +5\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCapable of growing to lengths of nearly 5 feet, giant leeches have circular maws filled with hook-like teeth. They prefer to dwell in stagnant or …\r\n</summary>",
+ "sense": " tremorsense 30 feet ",
+ "sense_markdown": "[tremorsense 30 feet](/MonsterAbilities.aspx?ID=40)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +8",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +8, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 156"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 156 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 5,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "5 feet, swim 20 feet",
+ "speed_raw": "5 feet, swim 20 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Capable of growing to lengths of nearly 5 feet, giant leeches have circular maws filled with hook-like teeth. They prefer to dwell in stagnant or …",
+ "summary_markdown": "Capable of growing to lengths of nearly 5 feet, giant leeches have circular maws filled with hook-like teeth. They prefer to dwell in stagnant or …",
+ "text": " Giant Leech Capable of growing to lengths of nearly 5 feet, giant leeches have circular maws filled with hook-like teeth. They prefer to dwell in stagnant or slow-moving shallow water or in damp, moist undergrowth. Horses and larger animals are their favorite prey, but they won't balk at a chance to latch onto a human- or halfling-sized meal. Recall Knowledge - Animal (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Giant Leech Source Bestiary 2 pg. 156 2.0 Perception +5; tremorsense 30 feet Languages Skills Athletics +8, Stealth +7 Str +4 Dex +1 Con +3 Int -5 Wis +1 Cha -5 --- AC 17 Fort +9 Ref +7 Will +5 HP 32 Weaknesses salt 5 --- Speed 5 feet, swim 20 feet Melee Single Action mouth +10, Damage 1d4+6 piercing plus Grab Blood Drain Single Action Requirements The giant leech has a creature grabbed or restrained; Effect The giant leech drains blood from the creature it has grabbed. This deals 2d4 damage. A creature that has its blood drained by a giant leech is drained 1 until it receives any kind or amount of healing. ",
+ "trait": [
+  "Amphibious",
+  "Animal",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Amphibious",
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=711",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "weakness_markdown": "salt 5",
+ "weakness_raw": "salt 5",
+ "will_save": 5,
+ "wisdom": 1
+}

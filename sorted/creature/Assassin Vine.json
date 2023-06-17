@@ -1,0 +1,96 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Camouflage",
+  "Grasping Foliage",
+  "Constrict"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 68,
+ "hp_raw": "68",
+ "id": "creature-555",
+ "image": [
+  "/Images/Monsters/AssassinVine.png"
+ ],
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Assassin Vine](/Monsters.aspx?ID=555)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe assassin vine is a carnivorous plant with a voracious appetite. Rather than consuming creatures directly, it creates its own fertilizer by entangling prey and squeezing the life from it. Once the plant has killed a creature, it pulls the carcass over to its roots to feed from the decaying flesh. Although an assassin vine lacks eyes, it can detect and track prey through a combination of using its root systems to detect vibrations through topsoil and its leaves to detect heat changes in the vicinity. Although the assassin vine has no real intelligence, its learned behaviors mimic those of cunning ambush hunters.\n\nAs it is slow moving, the assassin vine typically remains rooted in a single area for as long as it has sufficient prey. Though most often found along woodland trails or swamps, these plants can also be encountered in more rural settlements, poorly tended fields, and vineyards. While assassin vines can't be trained in the classical sense, they can be used as defenses, and woodland-dwelling creatures like goblins and fey have been known to cultivate assassin vines as guardians for less-used routes into their lairs. In such cases, the tenders often seek to make the path more obvious than its disuse would otherwise suggest, while simultaneously working to ensure the bones of the vines' victims are removed to keep their presence a secret, resulting in what appears to be an easy approach to the den but is actually an organic ambush.\n\nMature assassin vines grow to 20 feet long and have smaller vines extending off the main trunk that reach from to 5 to 10 feet in length. The smallest of these vines sprout every 6 inches or so; they tend to grow clusters of full leaves and occasionally bear small berries. A recently fed assassin vine can have bunches of plump, blood-red berries that are juicy and tart but leave a slightly unpleasant iron aftertaste, as if from the faint taste of blood from a bitten lip.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/AssassinVine.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Assassin Vine](/Monsters.aspx?ID=555)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 26 <sup>2.0</sup></row>\n\n**Perception** +10; [tremorsense 30 feet](/MonsterAbilities.aspx?ID=40), [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +0\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Camouflage** The assassin vine can [Hide](/Actions.aspx?ID=62) in natural environments even if it doesn't have cover.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +7 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 68\n\n**Weaknesses**\r\nfire 5, slashing 5\r\n\r\n**Grasping Foliage** <actions string=\"Reaction\" /> ([primal](/Traits.aspx?ID=134), [transmutation](/Traits.aspx?ID=157)) **Trigger** The assassin vine detects a creature within 20 feet via [tremorsense](/MonsterAbilities.aspx?ID=40); **Effect** The assassin vine causes vegetation within a 20-foot emanation to writhe for 1 round, turning this area into difficult terrain. When a creature starts its turn in this area, it must attempt a DC 20 Reflex save. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure it is also [immobilized](/Conditions.aspx?ID=24) for 1 round. A creature can attempt to [Escape](/Actions.aspx?ID=79) to remove these effects. Assassin vines are immune to Grasping Foliage.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nvine +12 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+6 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+4 bludgeoning, DC 20\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Assassin Wine</title>\r\n\r\nThe berries of an assassin vine are something of an acquired taste to most, but the process of aging the berries into wine can remove the unpleasant aftertaste—provided the berries are harvested from a living vine. After the vine's death, toxins in the plant quickly seep into its berries, making them unsuitable for harvest, and as a result, assassin vine wine is a dangerous delicacy to prepare. Those who master the art, though, find that the proceeds can more than cover the cost of having to periodically hire adventures to help curtail an unruly— and—hungry vineyard.\r\n</aside>",
+ "name": "Assassin Vine",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 7,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 26 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 68\r\n\r\n**AC** 18\r\n\r\n**Fort** +10\r\n\r\n**Ref** +7\r\n\r\n**Will** +8\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe assassin vine is a carnivorous plant with a voracious appetite. Rather than consuming creatures directly, it creates its own fertilizer by …\r\n</summary>",
+ "sense": " tremorsense 30 feet ,  low-light vision ",
+ "sense_markdown": "[tremorsense 30 feet](/MonsterAbilities.aspx?ID=40), [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +9",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +9, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 26"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 26 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 5,
+  "max": 5
+ },
+ "speed_markdown": "5 feet",
+ "speed_raw": "5 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The assassin vine is a carnivorous plant with a voracious appetite. Rather than consuming creatures directly, it creates its own fertilizer by …",
+ "summary_markdown": "The assassin vine is a carnivorous plant with a voracious appetite. Rather than consuming creatures directly, it creates its own fertilizer by …",
+ "text": " Assassin Vine The assassin vine is a carnivorous plant with a voracious appetite. Rather than consuming creatures directly, it creates its own fertilizer by entangling prey and squeezing the life from it. Once the plant has killed a creature, it pulls the carcass over to its roots to feed from the decaying flesh. Although an assassin vine lacks eyes, it can detect and track prey through a combination of using its root systems to detect vibrations through topsoil and its leaves to detect heat changes in the vicinity. Although the assassin vine has no real intelligence, its learned behaviors mimic those of cunning ambush hunters. As it is slow moving, the assassin vine typically remains rooted in a single area for as long as it has sufficient prey. Though most often found along woodland trails or swamps, these plants can also be encountered in more rural settlements, poorly tended fields, and vineyards. While assassin vines can't be trained in the classical sense, they can be used as defenses, and woodland-dwelling creatures like goblins and fey have been known to cultivate assassin vines as guardians for less-used routes into their lairs. In such cases, the tenders often seek to make the path more obvious than its disuse would otherwise suggest, while simultaneously working to ensure the bones of the vines' victims are removed to keep their presence a secret, resulting in what appears to be an easy approach to the den but is actually an organic ambush. Mature assassin vines grow to 20 feet long and have smaller vines extending off the main trunk that reach from to 5 to 10 feet in length. The smallest of these vines sprout every 6 inches or so; they tend to grow clusters of full leaves and occasionally bear small berries. A recently fed assassin vine can have bunches of plump, blood-red berries that are juicy and tart but leave a slightly unpleasant iron aftertaste, as if from the faint taste of blood from a bitten lip. Recall Knowledge - Plant (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Assassin Vine Source Bestiary 2 pg. 26 2.0 Perception +10; tremorsense 30 feet, low-light vision Languages Skills Athletics +9, Stealth +9 Str +4 Dex +0 Con +3 Int -5 Wis +3 Cha +0 Camouflage The assassin vine can Hide in natural environments even if it doesn't have cover. --- AC 18 Fort +10 Ref +7 Will +8 HP 68 Weaknesses fire 5, slashing 5 Grasping Foliage Reaction (primal, transmutation) Trigger The assassin vine detects a creature within 20 feet via tremorsense; Effect The assassin vine causes vegetation within a 20-foot emanation to writhe for 1 round, turning this area into difficult terrain. When a creature starts its turn in this area, it must attempt a DC 20 Reflex save. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure it is also immobilized for 1 round. A creature can attempt to Escape to remove these effects. Assassin vines are immune to Grasping Foliage. --- Speed 5 feet Melee Single Action vine +12 (reach 10 feet), Damage 1d8+6 bludgeoning plus Grab Constrict Single Action 1d8+4 bludgeoning, DC 20 Assassin Wine The berries of an assassin vine are something of an acquired taste to most, but the process of aging the berries into wine can remove the unpleasant aftertaste—provided the berries are harvested from a living vine. After the vine's death, toxins in the plant quickly seep into its berries, making them unsuitable for harvest, and as a result, assassin vine wine is a dangerous delicacy to prepare. Those who master the art, though, find that the proceeds can more than cover the cost of having to periodically hire adventures to help curtail an unruly— and—hungry vineyard. ",
+ "trait": [
+  "Mindless",
+  "Plant",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Mindless",
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=555",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 5,
+  "slashing": 5
+ },
+ "weakness_markdown": "fire 5, slashing 5",
+ "weakness_raw": "fire 5, slashing 5",
+ "will_save": 8,
+ "wisdom": 3
+}

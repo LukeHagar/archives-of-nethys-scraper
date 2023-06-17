@@ -1,0 +1,107 @@
+{
+ "ac": 27,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 7,
+ "creature_ability": [
+  "Tumultuous Flash",
+  "Blinding Breath",
+  "Infectious Visions"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 215,
+ "hp_raw": "215 ( negative healing )",
+ "id": "creature-1862",
+ "image": [
+  "/Images/Monsters/Gholdako.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 2,
+ "language": [
+  "Cyclops",
+  "Jotun"
+ ],
+ "language_markdown": "[Cyclops](/Languages.aspx?ID=30), [Jotun](/Languages.aspx?ID=8)",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Gholdako](/Monsters.aspx?ID=1862)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n[Cyclops](/MonsterFamilies.aspx?ID=25) necromancers created gholdakos untold ages ago by performing foul rituals over the corpses of their fellow cyclopes. Although these rituals varied through the history of Ghol-Gan, each involved the sacrifice of numerous humanoids whose blood was used to write the runes scribed upon a gholdako's linens. Rarely, a cyclops initiated their own transformation into a gholdako, scribing runes glimpsed from oracular visions and fevered dreams on their clothes or carving them into their bare flesh. Regardless of their origin, gholdakos are guardians, bound beyond death to protect a location, relic, or person—often the same thing they once defended in life.\n\n Despite their death and subsequent reanimation, gholdakos retain many of the quirks of living cyclopes, including their ceaseless hunger, volatile temper, single-mindedness, and great strength.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gholdako.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Gholdako](/Monsters.aspx?ID=1862)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 97</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Cyclops](/Languages.aspx?ID=30), [Jotun](/Languages.aspx?ID=8)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +21, [Intimidation](/Skills.aspx?ID=7) +19, [Religion](/Skills.aspx?ID=13) +16, [Soothsaying Lore](/Skills.aspx?ID=8) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +3\r\n\r\n**Con** +7\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +5\r\n</row>\n\n**Items**\r\n[Javelin](/Weapons.aspx?ID=71) (4)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 215\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 10\r\n\r\n**Tumultuous Flash** <actions string=\"Free Action\" /> ([divination](/Traits.aspx?ID=47), [occult](/Traits.aspx?ID=120), [fortune](/Traits.aspx?ID=76)) **Frequency** once per day; **Trigger** The gholdako is about to roll a d20; **Effect** Instead of rolling normally, the gholdako attempts a DC 11 flat check, getting a critical success on the triggering roll if the flat check succeeds or a critical failure if it fails.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +23 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+10 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d10+10 slashing plus 1d6 mental and Infectious Visions\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\njavelin +19 ([range increment 30 feet](/Traits.aspx?ID=248), [Thrown](/Traits.aspx?ID=195)),\r\n**Damage** 3d6+10 piercing\n\n**Blinding Breath** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117), [Negative](/Traits.aspx?ID=118)) The gholdako exhales a 60-foot cone of noxious breath that deals 7d8 negative damage (DC 29 [basic](/Rules.aspx?ID=329) Reflex save). A creature that fails its save is also [blinded](/Conditions.aspx?ID=1) until the end of its next turn (or for 1 minute on a critical failure) as a milky film coats its eyes. The gholdako can't use Blinding Breath again for 1d4 rounds.\r\n\r\n**Infectious Visions**  ([Divine](/Traits.aspx?ID=48), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Poison](/Traits.aspx?ID=126)) The first time each round the gholdako damages a creature with a claw Strike, the creature must attempt a DC 27 Will save, as its mind is assaulted by horrifying visions. On a failure, the creature is [confused](/Conditions.aspx?ID=5) until the end of its next turn. On a critical success, the creature is immune for 24 hours.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Forgotten Faith</title>\r\n\r\nThroughout the time of fallen Ghol-Gan, the [cyclopes](/MonsterFamilies.aspx?ID=25) worshipped numerous gods, from the sun and moon to alien beings, interdimensional horrors, nightmarish monsters, and worse. Although many of these gods were forgotten in the ensuing millennia, some gholdakos carry their faith forward into the present, performing profane, blood-soaked rituals to their cruel gods even now.\r\n</aside>",
+ "name": "Gholdako",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 17,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 97</row>\n\n<row gap=\"medium\">\r\n**HP** 215 ( negative healing )\r\n\r\n**AC** 27\r\n\r\n**Fort** +21\r\n\r\n**Ref** +17\r\n\r\n**Will** +14\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCyclops  necromancers created gholdakos untold ages ago by performing foul rituals over the corpses of their fellow cyclopes. Although these rituals …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +21",
+  "Intimidation +19",
+  "Religion +16",
+  "Soothsaying Lore +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +21, [Intimidation](/Skills.aspx?ID=7) +19, [Religion](/Skills.aspx?ID=13) +16, [Soothsaying Lore](/Skills.aspx?ID=8) +16",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 97"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 97</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Cyclops  necromancers created gholdakos untold ages ago by performing foul rituals over the corpses of their fellow cyclopes. Although these rituals …",
+ "summary_markdown": "Cyclops  necromancers created gholdakos untold ages ago by performing foul rituals over the corpses of their fellow cyclopes. Although these rituals …",
+ "text": " Gholdako Cyclops necromancers created gholdakos untold ages ago by performing foul rituals over the corpses of their fellow cyclopes. Although these rituals varied through the history of Ghol-Gan, each involved the sacrifice of numerous humanoids whose blood was used to write the runes scribed upon a gholdako's linens. Rarely, a cyclops initiated their own transformation into a gholdako, scribing runes glimpsed from oracular visions and fevered dreams on their clothes or carving them into their bare flesh. Regardless of their origin, gholdakos are guardians, bound beyond death to protect a location, relic, or person—often the same thing they once defended in life. Despite their death and subsequent reanimation, gholdakos retain many of the quirks of living cyclopes, including their ceaseless hunger, volatile temper, single-mindedness, and great strength. Recall Knowledge - Undead (Religion): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Gholdako Source Book of the Dead pg. 97 Perception +16; darkvision Languages Cyclops, Jotun Skills Athletics +21, Intimidation +19, Religion +16, Soothsaying Lore +16 Str +7 Dex +3 Con +7 Int +2 Wis +2 Cha +5 Items Javelin (4) --- AC 27 Fort +21 Ref +17 Will +14 HP 215 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses fire 10 Tumultuous Flash Free Action (divination, occult, fortune) Frequency once per day; Trigger The gholdako is about to roll a d20; Effect Instead of rolling normally, the gholdako attempts a DC 11 flat check, getting a critical success on the triggering roll if the flat check succeeds or a critical failure if it fails. --- Speed 30 feet Melee Single Action jaws +23 (reach 10 feet), Damage 3d10+10 piercing Melee Single Action claw +23 (Agile, reach 10 feet), Damage 1d10+10 slashing plus 1d6 mental and Infectious Visions Ranged Single Action javelin +19 (range increment 30 feet, Thrown), Damage 3d6+10 piercing Blinding Breath Two Actions (Concentrate, Divine, Necromancy, Negative) The gholdako exhales a 60-foot cone of noxious breath that deals 7d8 negative damage (DC 29 basic Reflex save). A creature that fails its save is also blinded until the end of its next turn (or for 1 minute on a critical failure) as a milky film coats its eyes. The gholdako can't use Blinding Breath again for 1d4 rounds. Infectious Visions (Divine, Enchantment, Mental, Poison) The first time each round the gholdako damages a creature with a claw Strike, the creature must attempt a DC 27 Will save, as its mind is assaulted by horrifying visions. On a failure, the creature is confused until the end of its next turn. On a critical success, the creature is immune for 24 hours. Forgotten Faith Throughout the time of fallen Ghol-Gan, the cyclopes worshipped numerous gods, from the sun and moon to alien beings, interdimensional horrors, nightmarish monsters, and worse. Although many of these gods were forgotten in the ensuing millennia, some gholdakos carry their faith forward into the present, performing profane, blood-soaked rituals to their cruel gods even now. ",
+ "trait": [
+  "Rare",
+  "Undead",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Rare",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1862",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 10",
+ "weakness_raw": " fire  10",
+ "will_save": 14,
+ "wisdom": 2
+}

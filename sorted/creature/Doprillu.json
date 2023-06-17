@@ -1,0 +1,110 @@
+{
+ "ac": 36,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 7,
+ "creature_ability": [
+  "Mask of Power",
+  "Volcanic Veins",
+  "Deflect Arrow",
+  "Body Strike",
+  "Whirlwind Throw"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 260,
+ "hp_raw": "260",
+ "id": "creature-620",
+ "image": [
+  "/Images/Monsters/Doprillu.png"
+ ],
+ "immunity": [
+  "enfeebled  (while wearing its mask)",
+  "slowed  (while wearing its mask)"
+ ],
+ "immunity_markdown": "[enfeebled](/Conditions.aspx?ID=13) (while wearing its mask), [slowed](/Conditions.aspx?ID=35) (while wearing its mask)",
+ "intelligence": 1,
+ "language": [
+  "Aklo",
+  "Common",
+  "Undercommon"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Doprillu](/Monsters.aspx?ID=620)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe aberrations known as doprillus are hulks with banded muscles who wear ornate masks at all times that fill their wearers with magical strength and fighting spirit. Doprillus love to battle, especially by grappling, and are eager to start brawls. On neutral ground, a doprillu offers to duel the strongest-looking opponent, but when a doprillu's home turf is invaded, no rules apply to the confrontation. As befits the superheated blood that fuels them, doprillus make their homes in warm locations: hot jungles, sunny deserts, and underground caverns near sulfur vents.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Doprillu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Doprillu](/Monsters.aspx?ID=620)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 85 <sup>2.0</sup></row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12), [_see invisibility_](/Spells.aspx?ID=271)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +26, [Athletics](/Skills.aspx?ID=3) +30, [Intimidation](/Skills.aspx?ID=7) +22, [Stealth](/Skills.aspx?ID=15) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +6\r\n\r\n**Con** +7\r\n\r\n**Int** +1\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +28 \r\n\r\n**Will** +24 \r\n\r\n+2 status to all saves vs. fear\r\n</row>\r\n\r\n**HP** 260\r\n\r\n, regeneration 20 (deactivated by cold)\r\n\r\n**Immunities**\r\n[enfeebled](/Conditions.aspx?ID=13) (while wearing its mask), [slowed](/Conditions.aspx?ID=35) (while wearing its mask)\r\n\r\n**Resistances**\r\nfire 15\n\n**Mask of Power** A doprillu's unique wooden mask is the source of its power. A doprillu deprived of its mask loses its regeneration and its immunity to [enfeebled](/Conditions.aspx?ID=13) and [slowed](/Conditions.aspx?ID=35), and it immediately becomes enfeebled 1. The enfeebled value increases by 1 at the start of each of the doprillu's turns, to a maximum of enfeebled 4. If the mask is put back on, the doprillu immediately regains its abilities and loses the enfeebled condition. A creature can pull off the mask with a successful DC 34 [Athletics](/Skills.aspx?ID=3) check to [Force Open](/Actions.aspx?ID=34).<br />**Volcanic Veins** ([fire](/Traits.aspx?ID=72)) Fiery magma runs through the doprillu's veins. A creature that starts its turn [grabbed](/Conditions.aspx?ID=20) by the doprillu takes 7d6 fire damage.<br />**Deflect Arrow** <actions string=\"Reaction\" /> **Trigger** The doprillu is the target of a physical ranged attack; **Requirements** The doprillu is aware of the attack, isn't [flat-footed](/Conditions.aspx?ID=16) against it, and has a hand free; **Effect** The doprillu gains a +4 circumstance bonus to its AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +30 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d8+16 plus 2d6 fire and [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Occult Innate Spells** DC 28\r\n- **Constant (6th)**\r\n[See Invisibility](/Spells.aspx?ID=271)\r\n\r\n**Body Strike** <actions string=\"Single Action\" />  **Requirements** The doprillu has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The doprillu swings the grabbed creature as a weapon. This Strike has a +30 attack modifier and deals 3d8+16 bludgeoning damage. The Strike is magical and has a reach of 10 feet. On a hit, the grabbed creature takes half the damage dealt to the target.\r\n\r\n**Whirlwind Throw** <actions string=\"Two Actions\" />  **Requirements** The doprillu has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The doprillu whirls the grabbed creature about, making a Body Strike against each creature in reach. After that Strike, the doprillu can hurl the grabbed creature up to 50 feet as a ranged Strike. This Strike has the same attack modifier and damage as Body Strike, but has the [thrown 20 feet](/Traits.aspx?ID=195) weapon trait.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Doprillu Masks</title>\r\n\r\nA doprillu's stylized mask isn't a part of the creature itself, though doprillus inherently understand the mask's purpose and power. When born, doprillus start out weak and small. Once one matures and gains sufficient intelligence and manual dexterity, it carves its personal mask. The first time it dons the mask, the doprillu rushes out to seek a fight. This mask is never replaced, and it might be marred from hundreds of battles.\r\n</aside>",
+ "name": "Doprillu",
+ "npc": false,
+ "perception": 22,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 28,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "fire": 15
+ },
+ "resistance_markdown": "fire 15",
+ "resistance_raw": "fire 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 85 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 260\r\n\r\n**AC** 36\r\n\r\n**Fort** +27\r\n\r\n**Ref** +28\r\n\r\n**Will** +24\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe aberrations known as doprillus are hulks with banded muscles who wear ornate masks at all times that fill their wearers with magical strength and …\r\n</summary>",
+ "sense": " darkvision ,   see invisibility  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_see invisibility_](/Spells.aspx?ID=271)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +26",
+  "Athletics +30",
+  "Intimidation +22",
+  "Stealth +24"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +26, [Athletics](/Skills.aspx?ID=3) +30, [Intimidation](/Skills.aspx?ID=7) +22, [Stealth](/Skills.aspx?ID=15) +24",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 85"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 85 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 40,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 40 feet",
+ "speed_raw": "40 feet, climb 40 feet",
+ "spell": [
+  "See Invisibility"
+ ],
+ "spell_markdown": "[See Invisibility](/Spells.aspx?ID=271)",
+ "stealth": "24",
+ "strength": 8,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The aberrations known as doprillus are hulks with banded muscles who wear ornate masks at all times that fill their wearers with magical strength and …",
+ "summary_markdown": "The aberrations known as doprillus are hulks with banded muscles who wear ornate masks at all times that fill their wearers with magical strength and …",
+ "text": " Doprillu The aberrations known as doprillus are hulks with banded muscles who wear ornate masks at all times that fill their wearers with magical strength and fighting spirit. Doprillus love to battle, especially by grappling, and are eager to start brawls. On neutral ground, a doprillu offers to duel the strongest-looking opponent, but when a doprillu's home turf is invaded, no rules apply to the confrontation. As befits the superheated blood that fuels them, doprillus make their homes in warm locations: hot jungles, sunny deserts, and underground caverns near sulfur vents. Recall Knowledge - Aberration (Occultism): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Doprillu Source Bestiary 2 pg. 85 2.0 Perception +22; darkvision, see invisibility Languages Aklo, Common, Undercommon Skills Acrobatics +26, Athletics +30, Intimidation +22, Stealth +24 Str +8 Dex +6 Con +7 Int +1 Wis +4 Cha +2 --- AC 36 Fort +27 Ref +28 Will +24 +2 status to all saves vs. fear HP 260 , regeneration 20 (deactivated by cold) Immunities enfeebled (while wearing its mask), slowed (while wearing its mask) Resistances fire 15 Mask of Power A doprillu's unique wooden mask is the source of its power. A doprillu deprived of its mask loses its regeneration and its immunity to enfeebled and slowed, and it immediately becomes enfeebled 1. The enfeebled value increases by 1 at the start of each of the doprillu's turns, to a maximum of enfeebled 4. If the mask is put back on, the doprillu immediately regains its abilities and loses the enfeebled condition. A creature can pull off the mask with a successful DC 34 Athletics check to Force Open. Volcanic Veins (fire) Fiery magma runs through the doprillu's veins. A creature that starts its turn grabbed by the doprillu takes 7d6 fire damage. Deflect Arrow Reaction Trigger The doprillu is the target of a physical ranged attack; Requirements The doprillu is aware of the attack, isn't flat-footed against it, and has a hand free; Effect The doprillu gains a +4 circumstance bonus to its AC against the triggering attack. --- Speed 40 feet, climb 40 feet Melee Single Action fist +30 (Agile, Magical), Damage 3d8+16 plus 2d6 fire and Improved Grab Occult Innate Spells DC 28 - Constant (6th) See Invisibility Body Strike Single Action Requirements The doprillu has a creature grabbed; Effect The doprillu swings the grabbed creature as a weapon. This Strike has a +30 attack modifier and deals 3d8+16 bludgeoning damage. The Strike is magical and has a reach of 10 feet. On a hit, the grabbed creature takes half the damage dealt to the target. Whirlwind Throw Two Actions Requirements The doprillu has a creature grabbed; Effect The doprillu whirls the grabbed creature about, making a Body Strike against each creature in reach. After that Strike, the doprillu can hurl the grabbed creature up to 50 feet as a ranged Strike. This Strike has the same attack modifier and damage as Body Strike, but has the thrown 20 feet weapon trait. Doprillu Masks A doprillu's stylized mask isn't a part of the creature itself, though doprillus inherently understand the mask's purpose and power. When born, doprillus start out weak and small. Once one matures and gains sufficient intelligence and manual dexterity, it carves its personal mask. The first time it dons the mask, the doprillu rushes out to seek a fight. This mask is never replaced, and it might be marred from hundreds of battles. ",
+ "trait": [
+  "Aberration",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=620",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 24,
+ "wisdom": 4
+}

@@ -1,0 +1,106 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 8,
+ "constitution": 5,
+ "creature_ability": [
+  "Kaiju Blood",
+  "Cimurlian",
+  "Kujiba",
+  "Igroon",
+  "Mogaru",
+  "Yorak",
+  "Eviscerate",
+  "Kaiju Ray"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 220,
+ "hp_raw": "220",
+ "id": "creature-1407",
+ "image": [
+  "/Images/Monsters/Rivka.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Common"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Rivka](/Monsters.aspx?ID=1407)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRivkas are parasitic monsters that cling to the sides of kaiju. In their natural form, they resemble giant cockroaches with eight razor-like legs and two mouths—one between two vicious pincers plus a second, much larger mouth on their abdomen. With this secondary mouth they feed off the primordial energy of whichever kaiju they've latched onto.\n\n In the wake of a kaiju attack, a rivka detaches from its host and wades into the disaster zone to prey on the unsuspecting populace by presenting itself as an emissary of the kaiju and demanding tribute. According to this cruel charlatan, only sacrifices of blood and gold can appease their master—though of course the rivka absconds with these offerings before the gifts ever reach the kaiju (such tributes would mean little to the kaiju anyway). Particularly heinous rivkas search the rubble for dead victims to impersonate, magically adopting the visage of a beloved city elder or priest in order to stoke the citizens' paranoia.\n\n Drinking kaiju blood has a strange effect on a rivka's anatomy, enriching both its defensive and offensive capabilities with the primal energy of its host. Other creatures have attempted to drink kaiju blood and replicate this phenomenon, always to terrible effect. Clearly rivkas have coevolved with kaiju in order to metabolize their ancient blood.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Rivka.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Rivka](/Monsters.aspx?ID=1407)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 83</row>\n\n**Perception** +21\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +26, [Athletics](/Skills.aspx?ID=3) +22, [Deception](/Skills.aspx?ID=5) +27, [Stealth](/Skills.aspx?ID=15) +26, [Survival](/Skills.aspx?ID=16) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +7\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +0\r\n\r\n**Cha** +8\r\n</row>\r\n\r\n**Kaiju Blood** Each rivka gains resistances and offensive powers by feasting on the primordial blood of a kaiju. The type of damage the rivka resists and the type of damage dealt by its Kaiju Ray depend on the kaiju it last fed upon. Some of the most typical rivkas include those that feed on **Cimurlian** (cold), **Kujiba** (negative), **Igroon** (acid), **Mogaru** (fire), or **Yorak** (electricity).\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 220\n\n**Resistances**\r\none type 10 (see above)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +26 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d6+11 slashing\r\n\r\n**Innate Primal Spells** DC 33\r\n- **5th**\r\n[Charm](/Spells.aspx?ID=34) (at will), [Illusory Disguise](/Spells.aspx?ID=159) (×3)\r\n\r\n**Eviscerate** <actions string=\"Two Actions\" />  **Requirements** The rivka has not attacked yet this turn; **Effect** The rivka lashes out with four of its razor-like claws. It makes four Strikes: the first at its highest attack bonus, the next two with a –4 penalty to their attack rolls, and the last one with a –8 penalty. This ability counts as four Strikes for the purpose of its multiple attack penalty.\r\n\r\n**Kaiju Ray** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The rivka opens its maw and projects a 60-foot line of primal energy that deals 14d6 damage (DC 32 [basic](/Rules.aspx?ID=329) Reflex save). The type of damage dealt by the ray depends on which kaiju the rivka has most recently fed from (see above). The rivka can't use Kaiju Ray again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Blending In</title>\r\n\r\nWhile rivkas generally don't use the same illusory disguise more than once during their forays into civilization, some rivkas become eerily attached to one particular guise. Such a rivka uses the same disguise wherever it goes, at most changing clothes, and might develop a reputation or even cult following as a speaker for a particular kaiju. Such deceptions rarely end well for the cocky rivka when their treachery is inevitably discovered.\r\n</aside>",
+ "name": "Rivka",
+ "npc": false,
+ "perception": 21,
+ "rarity": "rare",
+ "reflex_save": 26,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "resistance_markdown": "one type 10 (see above)",
+ "resistance_raw": "one type 10 (see above)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 83</row>\n\n<row gap=\"medium\">\r\n**HP** 220\r\n\r\n**AC** 32\r\n\r\n**Fort** +24\r\n\r\n**Ref** +26\r\n\r\n**Will** +17\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRivkas are parasitic monsters that cling to the sides of kaiju. In their natural form, they resemble giant cockroaches with eight razor-like legs and …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +26",
+  "Athletics +22",
+  "Deception +27",
+  "Stealth +26",
+  "Survival +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +26, [Athletics](/Skills.aspx?ID=3) +22, [Deception](/Skills.aspx?ID=5) +27, [Stealth](/Skills.aspx?ID=15) +26, [Survival](/Skills.aspx?ID=16) +19",
+ "source": [
+  "Pathfinder #167: Ready? Fight!"
+ ],
+ "source_raw": [
+  "Pathfinder #167: Ready? Fight! pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 83</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Charm",
+  "Illusory Disguise"
+ ],
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Illusory Disguise](/Spells.aspx?ID=159)",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "26",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Rivkas are parasitic monsters that cling to the sides of kaiju. In their natural form, they resemble giant cockroaches with eight razor-like legs and …",
+ "summary_markdown": "Rivkas are parasitic monsters that cling to the sides of kaiju. In their natural form, they resemble giant cockroaches with eight razor-like legs and …",
+ "text": " Rivka Rivkas are parasitic monsters that cling to the sides of kaiju. In their natural form, they resemble giant cockroaches with eight razor-like legs and two mouths—one between two vicious pincers plus a second, much larger mouth on their abdomen. With this secondary mouth they feed off the primordial energy of whichever kaiju they've latched onto. In the wake of a kaiju attack, a rivka detaches from its host and wades into the disaster zone to prey on the unsuspecting populace by presenting itself as an emissary of the kaiju and demanding tribute. According to this cruel charlatan, only sacrifices of blood and gold can appease their master—though of course the rivka absconds with these offerings before the gifts ever reach the kaiju (such tributes would mean little to the kaiju anyway). Particularly heinous rivkas search the rubble for dead victims to impersonate, magically adopting the visage of a beloved city elder or priest in order to stoke the citizens' paranoia. Drinking kaiju blood has a strange effect on a rivka's anatomy, enriching both its defensive and offensive capabilities with the primal energy of its host. Other creatures have attempted to drink kaiju blood and replicate this phenomenon, always to terrible effect. Clearly rivkas have coevolved with kaiju in order to metabolize their ancient blood. Recall Knowledge - Aberration (Occultism): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Rivka Source Pathfinder #167: Ready? Fight! pg. 83 Perception +21 Languages Aklo, Common Skills Acrobatics +26, Athletics +22, Deception +27, Stealth +26, Survival +19 Str +5 Dex +7 Con +5 Int +0 Wis +0 Cha +8 Kaiju Blood Each rivka gains resistances and offensive powers by feasting on the primordial blood of a kaiju. The type of damage the rivka resists and the type of damage dealt by its Kaiju Ray depend on the kaiju it last fed upon. Some of the most typical rivkas include those that feed on Cimurlian (cold), Kujiba (negative), Igroon (acid), Mogaru (fire), or Yorak (electricity). --- AC 32 Fort +24 Ref +26 Will +17 HP 220 Resistances one type 10 (see above) --- Speed 30 feet Melee Single Action claw +26 (Agile, Finesse), Damage 3d6+11 slashing Innate Primal Spells DC 33 - 5th Charm (at will), Illusory Disguise (×3) Eviscerate Two Actions Requirements The rivka has not attacked yet this turn; Effect The rivka lashes out with four of its razor-like claws. It makes four Strikes: the first at its highest attack bonus, the next two with a –4 penalty to their attack rolls, and the last one with a –8 penalty. This ability counts as four Strikes for the purpose of its multiple attack penalty. Kaiju Ray Two Actions (Evocation, Primal) The rivka opens its maw and projects a 60-foot line of primal energy that deals 14d6 damage (DC 32 basic Reflex save). The type of damage dealt by the ray depends on which kaiju the rivka has most recently fed from (see above). The rivka can't use Kaiju Ray again for 1d4 rounds. Blending In While rivkas generally don't use the same illusory disguise more than once during their forays into civilization, some rivkas become eerily attached to one particular guise. Such a rivka uses the same disguise wherever it goes, at most changing clothes, and might develop a reputation or even cult following as a speaker for a particular kaiju. Such deceptions rarely end well for the cocky rivka when their treachery is inevitably discovered. ",
+ "trait": [
+  "Aberration",
+  "Rare",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Aberration",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1407",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 0
+}

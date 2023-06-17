@@ -1,0 +1,107 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 2,
+ "creature_ability": [
+  "Light Blindness",
+  "Partially Technological",
+  "Defensive Needle",
+  "Needle Spray",
+  "Swarming Stance"
+ ],
+ "creature_family": "Fleshwarp",
+ "creature_family_markdown": "[Fleshwarp](/MonsterFamilies.aspx?ID=47)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 72,
+ "hp_raw": "72",
+ "id": "creature-1043",
+ "image": [
+  "/Images/Monsters/Fleshwarp_Dreshkan.png"
+ ],
+ "immunity": [
+  "electricity"
+ ],
+ "immunity_markdown": "electricity",
+ "intelligence": -2,
+ "language": [
+  "Undercommon"
+ ],
+ "language_markdown": "[Undercommon](/Languages.aspx?ID=11)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Dreshkan](/Monsters.aspx?ID=1043)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBecause [morlocks](/MonsterFamilies.aspx?ID=211) are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a [grothlut](/Monsters.aspx?ID=206). Skilled fleshwarpers, however, can tease out a morlock's genetic differences to make an entirely different creature. Creating a dreshkan involves replacing the morlock's bones with a metal skeleton. This new skeleton is often heavily augmented, such as with spiderlike limbs protruding from the spine or magazines of tiny, deadly needles. Arcane electricity courses through the dreshkan thereafter, making it jumpy and irritable.\n\n Morlocks view dreshkans as impressive fusions of flesh and technology and gladly fight alongside these creatures, whom they view as paragons of morlock potential.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 21\r\n\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Fleshwarp_Dreshkan.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Dreshkan](/Monsters.aspx?ID=1043)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 78</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +10, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +2\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +2\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)** \n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +11 \r\n\r\n+2 status to all saves vs. bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [fatigued](/Conditions.aspx?ID=15), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), and [sickened](/Conditions.aspx?ID=34)\r\n</row>\r\n\r\n**HP** 72\n\n**Immunities**\r\nelectricity\n\n**Partially Technological** A dreshkan is partially technological. [Positive](/Traits.aspx?ID=128) [healing](/Traits.aspx?ID=89) effects only heal a dreshkan half as much as normal.<br />**Defensive Needle** <actions string=\"Reaction\" /> **Trigger** A creature critically fails a melee Strike against the dreshkan; **Effect** The dreshkan makes a needle Strike against that creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +13 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+4 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nneedle +13 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d4 piercing plus 2d8 electricity\n\n**Needle Spray** <actions string=\"Three Actions\" />  The dreshkan braces itself on all four limbs and sprays needles at as many creatures as it would like in a 30-foot cone, dealing 2d4 piercing plus 2d8 electricity damage. Each targeted creature in the area must attempt a basic Reflex save.\r\n\r\n**Swarming Stance**   A dreshkan can share the same space as a [morlock](/MonsterFamilies.aspx?ID=211) or another dreshkan, but no more than two such creatures can occupy the same space. When these creatures share the same space, they gain a +1 circumstance bonus to attack rolls.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Dreshkan Variations</title>\r\n\r\nThough most dreshkans fire electrified needles from the metal limbs on their backs, some are built with even stranger abilities. Seugathi masters looking to perfect their craft will sometimes “upgrade” dreshkans' artificial limbs to gout steam, hammer through stone, or launch hooks at the end of long cables.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-47\" />",
+ "name": "Dreshkan",
+ "npc": false,
+ "perception": 11,
+ "rarity": "uncommon",
+ "reflex_save": 13,
+ "release_date": "2021-02-24",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 78</row>\r\n\r\n**Creature Family** [Fleshwarp](/MonsterFamilies.aspx?ID=47)\r\n\r\n<row gap=\"medium\">\r\n**HP** 72\r\n\r\n**AC** 20\r\n\r\n**Fort** +10\r\n\r\n**Ref** +13\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBecause  morlocks  are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a  grothlut . Skilled …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +11",
+  "Athletics +12",
+  "Intimidation +10",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +10, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Pathfinder #164: Hands of the Devil"
+ ],
+ "source_raw": [
+  "Pathfinder #164: Hands of the Devil pg. 78"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #164: Hands of the Devil](/Sources.aspx?ID=75) pg. 78</row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "spoilers": "Abomination Vaults",
+ "stealth": "13",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Because  morlocks  are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a  grothlut . Skilled …",
+ "summary_markdown": "Because  morlocks  are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a  grothlut . Skilled …",
+ "text": " Dreshkan Because morlocks are descended from distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces a grothlut. Skilled fleshwarpers, however, can tease out a morlock's genetic differences to make an entirely different creature. Creating a dreshkan involves replacing the morlock's bones with a metal skeleton. This new skeleton is often heavily augmented, such as with spiderlike limbs protruding from the spine or magazines of tiny, deadly needles. Arcane electricity courses through the dreshkan thereafter, making it jumpy and irritable. Morlocks view dreshkans as impressive fusions of flesh and technology and gladly fight alongside these creatures, whom they view as paragons of morlock potential. Recall Knowledge - Aberration (Occultism): DC 21 Recall Knowledge - Construct (Arcana, Crafting): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Dreshkan Source Pathfinder #164: Hands of the Devil pg. 78 Perception +11; darkvision Languages Undercommon Skills Acrobatics +11, Athletics +12, Intimidation +10, Stealth +13 Str +4 Dex +5 Con +2 Int -2 Wis +3 Cha +2 Light Blindness --- AC 20 Fort +10 Ref +13 Will +11 +2 status to all saves vs. bleed, death effects, disease, doomed, fatigued, paralyzed, poison, and sickened HP 72 Immunities electricity Partially Technological A dreshkan is partially technological. Positive healing effects only heal a dreshkan half as much as normal. Defensive Needle Reaction Trigger A creature critically fails a melee Strike against the dreshkan; Effect The dreshkan makes a needle Strike against that creature. --- Speed 30 feet, climb 30 feet Melee Single Action claw +13 (Agile, Finesse), Damage 2d6+4 slashing Ranged Single Action needle +13 (range increment 30 feet), Damage 1d4 piercing plus 2d8 electricity Needle Spray Three Actions The dreshkan braces itself on all four limbs and sprays needles at as many creatures as it would like in a 30-foot cone, dealing 2d4 piercing plus 2d8 electricity damage. Each targeted creature in the area must attempt a basic Reflex save. Swarming Stance A dreshkan can share the same space as a morlock or another dreshkan, but no more than two such creatures can occupy the same space. When these creatures share the same space, they gain a +1 circumstance bonus to attack rolls. Dreshkan Variations Though most dreshkans fire electrified needles from the metal limbs on their backs, some are built with even stranger abilities. Seugathi masters looking to perfect their craft will sometimes “upgrade” dreshkans' artificial limbs to gout steam, hammer through stone, or launch hooks at the end of long cables. ",
+ "trait": [
+  "Aberration",
+  "Construct",
+  "Uncommon",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Construct](/Traits.aspx?ID=35), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Construct",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1043",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 3
+}

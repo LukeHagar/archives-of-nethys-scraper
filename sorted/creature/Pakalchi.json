@@ -1,0 +1,121 @@
+{
+ "ac": 26,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 4,
+ "creature_ability": [
+  "Easy to Call",
+  "Entangling Train",
+  "Betrayal Toxin",
+  "Skip Between"
+ ],
+ "creature_family": "Sahkil",
+ "creature_family_markdown": "[Sahkil](/MonsterFamilies.aspx?ID=208)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 140,
+ "hp_raw": "140",
+ "id": "creature-1283",
+ "image": [
+  "/Images/Monsters/Sahkil_Pakalchi.png"
+ ],
+ "immunity": [
+  "fear",
+  "poison"
+ ],
+ "immunity_markdown": "[fear](/Traits.aspx?ID=68), [poison](/Traits.aspx?ID=126)",
+ "intelligence": 2,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Infernal",
+  "Requian",
+  "<%UMR%37%%>telepathy<%END> 100 feet, <%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Infernal](/Languages.aspx?ID=19), [Requian](/Languages.aspx?ID=34); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet, [_tongues_](/Spells.aspx?ID=340)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Pakalchi](/Monsters.aspx?ID=1283)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nPakalchis strive to intensify their preys' inherent insecurity over personal and emotional bonds, playing on the threat of those relationships falling into ruin. These sahkils are among the most manipulative of their kind, pulling strings both literal and figurative on their victims over stretched-out periods of time, exhilarating in the despair and fear for as long as possible.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Sahkil_Pakalchi.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Pakalchi](/Monsters.aspx?ID=1283)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Sahkil\" url=\"/Traits.aspx?ID=333\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 220</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Infernal](/Languages.aspx?ID=19), [Requian](/Languages.aspx?ID=34); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet, [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +18, [Deception](/Skills.aspx?ID=5) +21, [Diplomacy](/Skills.aspx?ID=6) +21, [Intimidation](/Skills.aspx?ID=7) +21, [Stealth](/Skills.aspx?ID=15) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +6\r\n</row>\r\n\r\n**Easy to Call** A sahkil's level is considered 2 lower for the purpose of being conjured by the [_planar binding_](/Rituals.aspx?ID=17) ritual (and potentially other rituals, at the GM's discretion), but it is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 140\n\n**Immunities**\r\n[fear](/Traits.aspx?ID=68), [poison](/Traits.aspx?ID=126)\n\n**Weaknesses**\r\ngood 5\r\n\r\n**Entangling Train** <actions string=\"Reaction\" /> **Trigger** A creature moves adjacent to the pakalchi; **Effect** Writhing, pitch-black vines wrap around the creature. The creature takes 1d6 slashing damage and takes a –15-foot circumstance penalty to its Speeds until the end of its next turn.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nvine +18 ([Finesse](/Traits.aspx?ID=179), [Reach](/Traits.aspx?ID=192), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 2d10+6 slashing plus 1d6 evil, 1d6 [persistent bleed](/Conditions.aspx?ID=29), and betrayal toxin\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d10+6 slashing plus 1d6 evil\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nthorn +18 ([Agile](/Traits.aspx?ID=170), [range increment 50 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d4+6 piercing plus 1d6 evil, 1d6 [persistent bleed](/Conditions.aspx?ID=29), and betrayal toxin\r\n\r\n**Divine Innate Spells** DC 30\r\n- **Cantrips (5th)**\r\n[Detect Magic](/Spells.aspx?ID=66)\r\n- **5th**\r\n[Charm](/Spells.aspx?ID=34), [Calm Emotions](/Spells.aspx?ID=31), [Suggestion](/Spells.aspx?ID=315) (at will)\r\n- **6th**\r\n[Dominate](/Spells.aspx?ID=87)\r\n- **7th**\r\n[Mask of Terror](/Spells.aspx?ID=185) (self only)\r\n- **Constant (6th)**\r\n[Tongues](/Spells.aspx?ID=340), [True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Betrayal Toxin**  ([Divine](/Traits.aspx?ID=48), [Enchantment](/Traits.aspx?ID=61), [Mental](/Traits.aspx?ID=106), [Poison](/Traits.aspx?ID=126)) A creature affected by betrayal toxin hears whispers of incessant doubt in their head and can't treat any creature as their ally; **Saving Throw** DC 28 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** [stupefied 1](/Conditions.aspx?ID=37) (1 round); **Stage 2** stupefied 2 (1 round)\r\n\r\n**Skip Between** <actions string=\"Single Action\" /> ([Conjuration](/Traits.aspx?ID=33), [Divine](/Traits.aspx?ID=48), [Teleportation](/Traits.aspx?ID=156)) The sahkil moves from the [Material Plane](/Planes.aspx?ID=1) to the [Ethereal Plane](/Planes.aspx?ID=9) or vice-versa, with the effects of [_ethereal jaunt_](/Spells.aspx?ID=105) except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-208\" />",
+ "name": "Pakalchi",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 18,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Sahkil\" url=\"/Traits.aspx?ID=333\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 220</row>\r\n\r\n**Creature Family** [Sahkil](/MonsterFamilies.aspx?ID=208)\r\n\r\n<row gap=\"medium\">\r\n**HP** 140\r\n\r\n**AC** 26\r\n\r\n**Fort** +17\r\n\r\n**Ref** +18\r\n\r\n**Will** +20\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPakalchis strive to intensify their preys' inherent insecurity over personal and emotional bonds, playing on the threat of those relationships …\r\n</summary>",
+ "sense": " darkvision ,   true seeing  ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +18",
+  "Deception +21",
+  "Diplomacy +21",
+  "Intimidation +21",
+  "Stealth +18"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +18, [Deception](/Skills.aspx?ID=5) +21, [Diplomacy](/Skills.aspx?ID=6) +21, [Intimidation](/Skills.aspx?ID=7) +21, [Stealth](/Skills.aspx?ID=15) +18",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 220"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 220</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell": [
+  "Mask of Terror",
+  "Dominate",
+  "Charm",
+  "Calm Emotions",
+  "Suggestion",
+  "Detect Magic",
+  "Tongues",
+  "True Seeing"
+ ],
+ "spell_markdown": "[Calm Emotions](/Spells.aspx?ID=31), [Charm](/Spells.aspx?ID=34), [Detect Magic](/Spells.aspx?ID=66), [Dominate](/Spells.aspx?ID=87), [Mask of Terror](/Spells.aspx?ID=185), [Suggestion](/Spells.aspx?ID=315), [Tongues](/Spells.aspx?ID=340), [True Seeing](/Spells.aspx?ID=344)",
+ "stealth": "18",
+ "strength": 4,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Pakalchis strive to intensify their preys' inherent insecurity over personal and emotional bonds, playing on the threat of those relationships …",
+ "summary_markdown": "Pakalchis strive to intensify their preys' inherent insecurity over personal and emotional bonds, playing on the threat of those relationships …",
+ "text": " Pakalchi Pakalchis strive to intensify their preys' inherent insecurity over personal and emotional bonds, playing on the threat of those relationships falling into ruin. These sahkils are among the most manipulative of their kind, pulling strings both literal and figurative on their victims over stretched-out periods of time, exhilarating in the despair and fear for as long as possible. Recall Knowledge - Fiend (Religion): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Pakalchi Source Bestiary 3 pg. 220 Perception +18; darkvision, true seeing Languages Abyssal, Celestial, Infernal, Requian; telepathy 100 feet, tongues Skills Acrobatics +18, Deception +21, Diplomacy +21, Intimidation +21, Stealth +18 Str +4 Dex +5 Con +4 Int +2 Wis +3 Cha +6 Easy to Call A sahkil's level is considered 2 lower for the purpose of being conjured by the planar binding ritual (and potentially other rituals, at the GM's discretion), but it is always free to attack or leave instead of negotiate unless the primary caster's check is a critical success. --- AC 26 Fort +17 Ref +18 Will +20 HP 140 Immunities fear, poison Weaknesses good 5 Entangling Train Reaction Trigger A creature moves adjacent to the pakalchi; Effect Writhing, pitch-black vines wrap around the creature. The creature takes 1d6 slashing damage and takes a –15-foot circumstance penalty to its Speeds until the end of its next turn. --- Speed 30 feet Melee Single Action vine +18 (Finesse, Reach, versatile P), Damage 2d10+6 slashing plus 1d6 evil, 1d6 persistent bleed, and betrayal toxin Melee Single Action claw +18 (Agile, Finesse), Damage 2d10+6 slashing plus 1d6 evil Ranged Single Action thorn +18 (Agile, range increment 50 feet), Damage 2d4+6 piercing plus 1d6 evil, 1d6 persistent bleed, and betrayal toxin Divine Innate Spells DC 30 - Cantrips (5th) Detect Magic - 5th Charm, Calm Emotions, Suggestion (at will) - 6th Dominate - 7th Mask of Terror (self only) - Constant (6th) Tongues, True Seeing Betrayal Toxin (Divine, Enchantment, Mental, Poison) A creature affected by betrayal toxin hears whispers of incessant doubt in their head and can't treat any creature as their ally; Saving Throw DC 28 Fortitude; Maximum Duration 6 rounds; Stage 1 stupefied 1 (1 round); Stage 2 stupefied 2 (1 round) Skip Between Single Action (Conjuration, Divine, Teleportation) The sahkil moves from the Material Plane to the Ethereal Plane or vice-versa, with the effects of ethereal jaunt except that the effect has an unlimited duration and can be Dismissed. A summoned sahkil can't use Skip Between. ",
+ "trait": [
+  "Fiend",
+  "Sahkil",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fiend](/Traits.aspx?ID=70), [Sahkil](/Traits.aspx?ID=333)",
+ "trait_raw": [
+  "Fiend",
+  "Sahkil"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1283",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "good": 5
+ },
+ "weakness_markdown": "good 5",
+ "weakness_raw": "good 5",
+ "will_save": 20,
+ "wisdom": 3
+}

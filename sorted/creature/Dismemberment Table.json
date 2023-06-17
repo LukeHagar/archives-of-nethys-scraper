@@ -1,0 +1,106 @@
+{
+ "ac": 22,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 4,
+ "creature_ability": [
+  "Construct Armor",
+  "Haunted",
+  "Disabling Strike"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hardness": 8,
+ "hardness_raw": "8",
+ "hp": 56,
+ "hp_raw": "56",
+ "id": "creature-2175",
+ "immunity": [
+  "bleed",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Dismemberment Table](/Monsters.aspx?ID=2175)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Dismemberment Table](/Monsters.aspx?ID=2175)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 104</row>\n\n**Perception** +11; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 (18 when broken, construct armor)\r\n\r\n**Fort** +13 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 56\n\n**Immunities**\r\nbleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 8\r\n\r\n**Construct Armor** Like normal objects, an animated object has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an animated object is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 18.<br />**Haunted** The dismemberment table is powered by unquiet spirits, and it takes damage from positive energy as if it were [undead](/Traits.aspx?ID=160). Positive energy bypasses the table's hardness.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nblade +14 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d8+7 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstrap +14,\r\n**Damage** 2d4+7 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Disabling Strike** <actions string=\"Single Action\" />  The dismemberment table attempts a blade Strike on a single target that it has [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33). If this Strike hits, the blade cuts deep into one of the target's limbs. The target must attempt a DC 22 Fortitude save. <br />**Critical Success** The creature suffers no additional effect. <br />**Success** The creature takes 1d6 [persistent bleed damage](/Conditions.aspx?ID=29). <br />**Failure** The creature takes 2d6 persistent bleed damage and is [clumsy 1](/Conditions.aspx?ID=3). This clumsy condition ends once the creature is restored to full Hit Points. <br />**Critical Failure** As failure, but clumsy 2.\r\n\r\n</column>",
+ "name": "Dismemberment Table",
+ "npc": false,
+ "perception": 11,
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2022-10-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 104</row>\n\n<row gap=\"medium\">\r\n**HP** 56\r\n\r\n**AC** 22\r\n\r\n**Fort** +13\r\n\r\n**Ref** +11\r\n\r\n**Will** +9\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13",
+ "source": [
+  "Crown of the Kobold King"
+ ],
+ "source_raw": [
+  "Crown of the Kobold King pg. 104"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Crown of the Kobold King",
+ "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 104</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Dismemberment Table Recall Knowledge - Construct (Arcana, Crafting): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Dismemberment Table Source Crown of the Kobold King pg. 104 Perception +11; darkvision Languages Skills Athletics +13 Str +5 Dex +2 Con +4 Int -5 Wis +0 Cha -5 --- AC 22 (18 when broken, construct armor) Fort +13 Ref +11 Will +9 HP 56 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Weaknesses positive 8 Construct Armor Like normal objects, an animated object has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once an animated object is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 18. Haunted The dismemberment table is powered by unquiet spirits, and it takes damage from positive energy as if it were undead. Positive energy bypasses the table's hardness. --- Speed 25 feet Melee Single Action blade +14 (Magical), Damage 2d8+7 slashing Melee Single Action strap +14, Damage 2d4+7 bludgeoning plus Grab Disabling Strike Single Action The dismemberment table attempts a blade Strike on a single target that it has grabbed or restrained. If this Strike hits, the blade cuts deep into one of the target's limbs. The target must attempt a DC 22 Fortitude save. Critical Success The creature suffers no additional effect. Success The creature takes 1d6 persistent bleed damage. Failure The creature takes 2d6 persistent bleed damage and is clumsy 1. This clumsy condition ends once the creature is restored to full Hit Points. Critical Failure As failure, but clumsy 2. ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108)",
+ "trait_raw": [
+  "Construct",
+  "Mindless"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2175",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "positive": 8
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 8",
+ "weakness_raw": " positive  8",
+ "will_save": 9,
+ "wisdom": 0
+}

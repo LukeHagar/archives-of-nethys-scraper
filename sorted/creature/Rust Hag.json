@@ -1,0 +1,107 @@
+{
+ "ac": 26,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Coven",
+  "Change Shape",
+  "Hagshot",
+  "Rusting Touch"
+ ],
+ "creature_family": "Hag",
+ "creature_family_markdown": "[Hag](/MonsterFamilies.aspx?ID=59)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 135,
+ "hp_raw": "135",
+ "id": "creature-2054",
+ "image": [
+  "/Images/Monsters/Hag_RustHag.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Aklo",
+  "Common",
+  "Jotun",
+  "Terran"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8), [Terran](/Languages.aspx?ID=22)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Rust Hag](/Monsters.aspx?ID=2054)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nRust hags have a knack for technology. They make their homes in hollowedout factories, abandoned tenements, and other sites of urban decay.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Hag_RustHag.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Rust Hag](/Monsters.aspx?ID=2054)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Hag\" url=\"/Traits.aspx?ID=84\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 84</row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Jotun](/Languages.aspx?ID=8), [Terran](/Languages.aspx?ID=22)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +18, [Crafting](/Skills.aspx?ID=4) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Occultism](/Skills.aspx?ID=11) +16, [Survival](/Skills.aspx?ID=16) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** +3\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\r\n\r\n**[Coven](/MonsterAbilities.aspx?ID=11)** A rust hag adds [_curse of lost time_](/Spells.aspx?ID=683), [_rusting grasp_](/Spells.aspx?ID=711), and [_summon construct_](/Spells.aspx?ID=318) to her coven's spells.\r\n\r\n**Items**\r\n[Arquebus](/Weapons.aspx?ID=195) (10 rounds), [Flintlock Pistol](/Weapons.aspx?ID=192) (20 rounds)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +18 \r\n\r\n+1 status to all saves vs. [magic](/Traits.aspx?ID=103)\r\n</row>\r\n\r\n**HP** 135\n\n**Weaknesses**\r\n[cold iron](/Rules.aspx?ID=375) 10\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+10 slashing plus rusting touch\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_ghost touch arquebus_ +20 ([Concussive](/Traits.aspx?ID=401), [fatal d12](/Traits.aspx?ID=178), [Kickback](/Traits.aspx?ID=409), [Magical](/Traits.aspx?ID=103), [range increment 150 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 2d8+11 piercing plus hagshot\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_ghost touch flintlock pistol_ +20 ([Concussive](/Traits.aspx?ID=401), [fatal d8](/Traits.aspx?ID=178), [Magical](/Traits.aspx?ID=103), [range increment 40 feet](/Traits.aspx?ID=248), [reload 1](/Traits.aspx?ID=254)),\r\n**Damage** 2d4+11 piercing plus hagshot\n\n**Change Shape** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Occult](/Traits.aspx?ID=120), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The rust hag can take on the appearance of any Medium female [humanoid](/Traits.aspx?ID=91). This doesn't change her Speed or her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning).\r\n\r\n**Hagshot**   Any firearm wielded by a rust hag gains the benefits of _+1 [striking](/Equipment.aspx?ID=280)_ and [_ghost touch_](/Equipment.aspx?ID=297) runes, and it functions properly no matter how rusty it gets. In addition, when a rust hag critically hits a target with a firearm, the target must succeed at a DC 26 Fortitude save or be [stunned 1](/Conditions.aspx?ID=36).\r\n\r\n**Rusting Touch**   A rust hag's touch causes metal to rapidly rust and corrode. If the hag succeeds at a Strike with her claw, she deals 2d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If the hag hits an unattended metal item, the item takes this damage automatically. If a creature uses the [Shield Block](/Feats.aspx?ID=839) reaction with a metal shield against the hag's claw attack, the shield is automatically [broken](/Conditions.aspx?ID=2), but no other item is rusted on that attack. Objects made of skymetal, such as [adamantine](/Equipment.aspx?ID=271) and [orichalcum](/Equipment.aspx?ID=276), are immune to rusting touch.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Rust Hag Guns</title>\r\n\r\nRust hags use guns presented in _Pathfinder Guns &amp; Gears_. The [concussive](/Traits.aspx?ID=401) and [kickback](/Traits.aspx?ID=409) weapon traits appear on page 150 of that book. If you don't want to use firearms in your campaign, then a rust hag's guns are so corroded they're valueless.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-59\" />",
+ "name": "Rust Hag",
+ "npc": false,
+ "perception": 16,
+ "rarity": "uncommon",
+ "reflex_save": 15,
+ "release_date": "2022-08-31",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Hag\" url=\"/Traits.aspx?ID=84\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 84</row>\r\n\r\n**Creature Family** [Hag](/MonsterFamilies.aspx?ID=59)\r\n\r\n<row gap=\"medium\">\r\n**HP** 135\r\n\r\n**AC** 26\r\n\r\n**Fort** +16\r\n\r\n**Ref** +15\r\n\r\n**Will** +18\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRust hags have a knack for technology. They make their homes in hollowedout factories, abandoned tenements, and other sites of urban decay.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +18",
+  "Crafting +16",
+  "Intimidation +16",
+  "Occultism +16",
+  "Survival +16"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +18, [Crafting](/Skills.aspx?ID=4) +16, [Intimidation](/Skills.aspx?ID=7) +16, [Occultism](/Skills.aspx?ID=11) +16, [Survival](/Skills.aspx?ID=16) +16",
+ "source": [
+  "Pathfinder #182: Graveclaw"
+ ],
+ "source_raw": [
+  "Pathfinder #182: Graveclaw pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 84</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "strength": 6,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Rust hags have a knack for technology. They make their homes in hollowedout factories, abandoned tenements, and other sites of urban decay.",
+ "summary_markdown": "Rust hags have a knack for technology. They make their homes in hollowedout factories, abandoned tenements, and other sites of urban decay.",
+ "text": " Rust Hag Rust hags have a knack for technology. They make their homes in hollowedout factories, abandoned tenements, and other sites of urban decay. Recall Knowledge - Humanoid (Society): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Rust Hag Source Pathfinder #182: Graveclaw pg. 84 Perception +16; darkvision Languages Aklo, Common, Jotun, Terran Skills Athletics +18, Crafting +16, Intimidation +16, Occultism +16, Survival +16 Str +6 Dex +5 Con +4 Int +3 Wis +4 Cha +4 Coven A rust hag adds curse of lost time , rusting grasp , and summon construct to her coven's spells. Items Arquebus (10 rounds), Flintlock Pistol (20 rounds) --- AC 26 Fort +16 Ref +15 Will +18 +1 status to all saves vs. magic HP 135 Weaknesses cold iron 10 --- Speed 25 feet Melee Single Action claw +20 (Agile, Magical), Damage 2d6+10 slashing plus rusting touch Ranged Single Action ghost touch arquebus +20 (Concussive, fatal d12, Kickback, Magical, range increment 150 feet, reload 1), Damage 2d8+11 piercing plus hagshot Ranged Single Action ghost touch flintlock pistol +20 (Concussive, fatal d8, Magical, range increment 40 feet, reload 1), Damage 2d4+11 piercing plus hagshot Change Shape Single Action (Concentrate, Occult, Polymorph, Transmutation) The rust hag can take on the appearance of any Medium female humanoid. This doesn't change her Speed or her Strikes, but might change the damage type her Strikes deal (typically to bludgeoning). Hagshot Any firearm wielded by a rust hag gains the benefits of +1 striking and ghost touch runes, and it functions properly no matter how rusty it gets. In addition, when a rust hag critically hits a target with a firearm, the target must succeed at a DC 26 Fortitude save or be stunned 1. Rusting Touch A rust hag's touch causes metal to rapidly rust and corrode. If the hag succeeds at a Strike with her claw, she deals 2d6 damage (doubled on a critical hit) to a metal item the target is wearing or holding, ignoring its Hardness. If the hag hits an unattended metal item, the item takes this damage automatically. If a creature uses the Shield Block reaction with a metal shield against the hag's claw attack, the shield is automatically broken, but no other item is rusted on that attack. Objects made of skymetal, such as adamantine and orichalcum, are immune to rusting touch. Rust Hag Guns Rust hags use guns presented in Pathfinder Guns &amp; Gears . The concussive and kickback weapon traits appear on page 150 of that book. If you don't want to use firearms in your campaign, then a rust hag's guns are so corroded they're valueless. ",
+ "trait": [
+  "Hag",
+  "Humanoid",
+  "Uncommon",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Hag](/Traits.aspx?ID=84), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Hag",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2054",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold_iron": 10
+ },
+ "weakness_markdown": "[cold iron](/Rules.aspx?ID=375) 10",
+ "weakness_raw": " cold iron  10",
+ "will_save": 18,
+ "wisdom": 4
+}

@@ -1,0 +1,112 @@
+{
+ "ac": 20,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 0,
+ "creature_ability": [
+  "Master of the Granary",
+  "Shy",
+  "Raise Grain Cloud"
+ ],
+ "creature_family": "House Spirit",
+ "creature_family_markdown": "[House Spirit](/MonsterFamilies.aspx?ID=242)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 59,
+ "hp_raw": "59",
+ "id": "creature-1196",
+ "image": [
+  "/Images/Monsters/HouseSpirit_Ovinnik.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Ovinnik](/Monsters.aspx?ID=1196)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe ovinnik is the most ferocious of house spirits, and the only one that will kill if sufficiently angered. They live in granaries, storage rooms, and sheds where food—particularly grain—is kept. Ovinniks resemble bipedal cats but bark like a dog to scare away thieves, and they often demand gifts of milk, pancakes, and dead roosters.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/HouseSpirit_Ovinnik.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Ovinnik](/Monsters.aspx?ID=1196)</title>\r\n\r\n<traits>\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 137</row>\n\n**Perception** +14; [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) within their entire bound granary or storeroom\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Household Lore](/Skills.aspx?ID=8) +12, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +5\r\n\r\n**Con** +0\r\n\r\n**Int** +2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Master of the Granary** A granary with a friendly ovinnik is blessed, as the preserves food from vermin and mold and does a hundred other small tasks. A granary so blessed never suffers from random accidents such as fires, and any checks to [Craft](/Actions.aspx?ID=43), [Earn Income](/Actions.aspx?ID=23), [Repair](/Actions.aspx?ID=42), or [Subsist](/Actions.aspx?ID=27) in the granary receive a +2 circumstance bonus. If the ovinnik is unfriendly, such checks take a –2 circumstance penalty instead, as the ovinnik causes devastating fires and infestations and otherwise makes life a misery. A ovinnik must spend a week in a place before these benefits occur.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 59\n\n**Resistances**\r\nfire 5\r\n\r\n**Weaknesses**\r\ncold iron 5\r\n\r\n**Shy** A ovinnik is naturally [invisible](/Conditions.aspx?ID=26) while within sight of their bound granary. The ovinnik can become visible, or even selectively visible—allowing some people to see them.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +13 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+2 slashing\r\n\r\n**Primal Innate Spells** DC 21\r\n- **Cantrips (2nd)**\r\n[Daze](/Spells.aspx?ID=61), [Produce Flame](/Spells.aspx?ID=236)\r\n- **2nd**\r\n[Augury](/Spells.aspx?ID=15), [Burning Hands](/Spells.aspx?ID=30), [Flaming Sphere](/Spells.aspx?ID=121), [Purify Food and Drink](/Spells.aspx?ID=241) (at will)\r\n- **4th**\r\n[Read Omens](/Spells.aspx?ID=247)\r\n\r\n**Raise Grain Cloud** <actions string=\"Two Actions\" />  While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in an 20-foot emanation. Within this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire resistance against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Ovinnik's Foretelling</title>\r\n\r\nOvinniks, on certain days, might deign to tell the future. Peasants approach the window of the fey's domain and present their bare palms. If the ovinnik touches them with a furred paw, then their family lives will be good. A smooth hand, however, signals brewing strife.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-242\" />",
+ "name": "Ovinnik",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "fire": 5
+ },
+ "resistance_markdown": "fire 5",
+ "resistance_raw": "fire 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 137</row>\r\n\r\n**Creature Family** [House Spirit](/MonsterFamilies.aspx?ID=242)\r\n\r\n<row gap=\"medium\">\r\n**HP** 59\r\n\r\n**AC** 20\r\n\r\n**Fort** +8\r\n\r\n**Ref** +13\r\n\r\n**Will** +11\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ovinnik is the most ferocious of house spirits, and the only one that will kill if sufficiently angered. They live in granaries, storage rooms, …\r\n</summary>",
+ "sense": " tremorsense  (imprecise) within their entire bound granary or storeroom",
+ "sense_markdown": "[tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) within their entire bound granary or storeroom",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Household Lore +12",
+  "Intimidation +11",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Household Lore](/Skills.aspx?ID=8) +12, [Intimidation](/Skills.aspx?ID=7) +11, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 137"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 137</row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell": [
+  "Read Omens",
+  "Augury",
+  "Burning Hands",
+  "Flaming Sphere",
+  "Purify Food and Drink",
+  "Daze",
+  "Produce Flame"
+ ],
+ "spell_markdown": "[Augury](/Spells.aspx?ID=15), [Burning Hands](/Spells.aspx?ID=30), [Daze](/Spells.aspx?ID=61), [Flaming Sphere](/Spells.aspx?ID=121), [Produce Flame](/Spells.aspx?ID=236), [Purify Food and Drink](/Spells.aspx?ID=241), [Read Omens](/Spells.aspx?ID=247)",
+ "stealth": "13",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The ovinnik is the most ferocious of house spirits, and the only one that will kill if sufficiently angered. They live in granaries, storage rooms, …",
+ "summary_markdown": "The ovinnik is the most ferocious of house spirits, and the only one that will kill if sufficiently angered. They live in granaries, storage rooms, …",
+ "text": " Ovinnik The ovinnik is the most ferocious of house spirits, and the only one that will kill if sufficiently angered. They live in granaries, storage rooms, and sheds where food—particularly grain—is kept. Ovinniks resemble bipedal cats but bark like a dog to scare away thieves, and they often demand gifts of milk, pancakes, and dead roosters. Recall Knowledge - Fey (Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Ovinnik Source Bestiary 3 pg. 137 Perception +14; tremorsense (imprecise) within their entire bound granary or storeroom Languages Common, Sylvan Skills Household Lore +12, Intimidation +11, Stealth +13 Str +0 Dex +5 Con +0 Int +2 Wis +5 Cha +3 Master of the Granary A granary with a friendly ovinnik is blessed, as the preserves food from vermin and mold and does a hundred other small tasks. A granary so blessed never suffers from random accidents such as fires, and any checks to Craft, Earn Income, Repair, or Subsist in the granary receive a +2 circumstance bonus. If the ovinnik is unfriendly, such checks take a –2 circumstance penalty instead, as the ovinnik causes devastating fires and infestations and otherwise makes life a misery. A ovinnik must spend a week in a place before these benefits occur. --- AC 20 Fort +8 Ref +13 Will +11 HP 59 Resistances fire 5 Weaknesses cold iron 5 Shy A ovinnik is naturally invisible while within sight of their bound granary. The ovinnik can become visible, or even selectively visible—allowing some people to see them. --- Speed 30 feet, climb 20 feet Melee Single Action claw +13 (Agile, Finesse, Magical), Damage 2d6+2 slashing Primal Innate Spells DC 21 - Cantrips (2nd) Daze, Produce Flame - 2nd Augury, Burning Hands, Flaming Sphere, Purify Food and Drink (at will) - 4th Read Omens Raise Grain Cloud Two Actions While in their bound storeroom or granary, the ovinnik slams a paw against the ground, stirring up a cloud of grain dust in an 20-foot emanation. Within this cloud, they gain a +4 status bonus to any fire damage they deal. The ovinnik doubles their fire resistance against this increased damage. The grain cloud dissipates after the first such effect or after 1 minute if no such effects occur. Ovinnik's Foretelling Ovinniks, on certain days, might deign to tell the future. Peasants approach the window of the fey's domain and present their bare palms. If the ovinnik touches them with a furred paw, then their family lives will be good. A smooth hand, however, signals brewing strife. ",
+ "trait": [
+  "Fey",
+  "CN",
+  "Tiny"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69)",
+ "trait_raw": [
+  "Fey"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1196",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold_iron": 5
+ },
+ "weakness_markdown": "cold iron 5",
+ "weakness_raw": "cold iron 5",
+ "will_save": 11,
+ "wisdom": 5
+}

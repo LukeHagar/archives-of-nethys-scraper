@@ -1,0 +1,102 @@
+{
+ "ac": 22,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 1,
+ "creature_ability": [
+  "Bite Back",
+  "Incessant Goading"
+ ],
+ "creature_family": "Beheaded",
+ "creature_family_markdown": "[Beheaded](/MonsterFamilies.aspx?ID=220)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 80,
+ "hp_raw": "80 ( negative healing )",
+ "id": "creature-1840",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Taunting Skull](/Monsters.aspx?ID=1840)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSome beheaded are raised with their mental faculties mostly intact. These clever undead often provoke their victims into foolishly giving chase or harming themselves.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Taunting Skull](/Monsters.aspx?ID=1840)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 74</row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Intimidation](/Skills.aspx?ID=7) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +5\r\n\r\n**Con** +1\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 80\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 5\r\n\r\n**Bite Back** <actions string=\"Reaction\" /> **Trigger** The taunting skull is attacked by a creature within their reach; **Effect** The taunting skull makes a jaws Strike against that creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [reach 0 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+3 piercing\n\n**Incessant Goading** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Emotion](/Traits.aspx?ID=60), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106)) The skull chooses one creature within 60 feet and antagonizes it mercilessly. The target must attempt a DC 22 Will save to resist the effect.<br /> **Critical Success** The target is unaffected and is temporarily immune for 1 minute.<br /> **Success** The target is unaffected.<br /> **Failure** The target is [flat-footed](/Conditions.aspx?ID=16) for 1 round. On its next turn, if the taunting skull is within the target's reach, the target wildly attacks the taunting skull as many times as possible.<br /> **Critical Failure** As failure, but the target also immediately performs a Strike against itself; this Strike doesn't take any actions.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-220\" />",
+ "name": "Taunting Skull",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 14,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 74</row>\r\n\r\n**Creature Family** [Beheaded](/MonsterFamilies.aspx?ID=220)\r\n\r\n<row gap=\"medium\">\r\n**HP** 80 ( negative healing )\r\n\r\n**AC** 22\r\n\r\n**Fort** +10\r\n\r\n**Ref** +14\r\n\r\n**Will** +11\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome beheaded are raised with their mental faculties mostly intact. These clever undead often provoke their victims into foolishly giving chase or …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Intimidation +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Intimidation](/Skills.aspx?ID=7) +12",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 74"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 74</row>",
+ "speed": {
+  "fly": 40,
+  "land": 15,
+  "max": 40
+ },
+ "speed_markdown": "15 feet, fly 40 feet",
+ "speed_raw": "15 feet, fly 40 feet",
+ "spell_markdown": "",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Some beheaded are raised with their mental faculties mostly intact. These clever undead often provoke their victims into foolishly giving chase or …",
+ "summary_markdown": "Some beheaded are raised with their mental faculties mostly intact. These clever undead often provoke their victims into foolishly giving chase or …",
+ "text": " Taunting Skull Some beheaded are raised with their mental faculties mostly intact. These clever undead often provoke their victims into foolishly giving chase or harming themselves. Recall Knowledge - Undead (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Taunting Skull Source Book of the Dead pg. 74 Perception +13; darkvision Languages Common, Necril Skills Acrobatics +12, Intimidation +12 Str +1 Dex +5 Con +1 Int +0 Wis +4 Cha +1 --- AC 22 Fort +10 Ref +14 Will +11 HP 80 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses positive 5 Bite Back Reaction Trigger The taunting skull is attacked by a creature within their reach; Effect The taunting skull makes a jaws Strike against that creature. --- Speed 15 feet, fly 40 feet Melee Single Action jaws +14 (Agile, Finesse, reach 0 feet), Damage 2d10+3 piercing Incessant Goading Single Action (Auditory, Emotion, Incapacitation, Mental) The skull chooses one creature within 60 feet and antagonizes it mercilessly. The target must attempt a DC 22 Will save to resist the effect. Critical Success The target is unaffected and is temporarily immune for 1 minute. Success The target is unaffected. Failure The target is flat-footed for 1 round. On its next turn, if the taunting skull is within the target's reach, the target wildly attacks the taunting skull as many times as possible. Critical Failure As failure, but the target also immediately performs a Strike against itself; this Strike doesn't take any actions. ",
+ "trait": [
+  "Undead",
+  "NE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1840",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "positive": 5
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 5",
+ "weakness_raw": " positive  5",
+ "will_save": 11,
+ "wisdom": 4
+}

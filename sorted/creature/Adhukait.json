@@ -1,0 +1,108 @@
+{
+ "ac": 25,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Dual Mind",
+  "Dual Opportunity",
+  "Dance of Destruction"
+ ],
+ "creature_family": "Asura",
+ "creature_family_markdown": "[Asura](/MonsterFamilies.aspx?ID=218)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 130,
+ "hp_raw": "130",
+ "id": "creature-1070",
+ "image": [
+  "/Images/Monsters/Asura_Adhukait.png"
+ ],
+ "immunity": [
+  "curses"
+ ],
+ "immunity_markdown": "[curses](/Traits.aspx?ID=38)",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Infernal",
+  "<%UMR%37%%>telepathy<%END> 30 feet"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19); [telepathy](/MonsterAbilities.aspx?ID=37) 30 feet",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Adhukait](/Monsters.aspx?ID=1070)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTwice as disciplined as a monk and twice as deadly as a warrior, an adhukait is the ultimate perversion of duality, two spiked asura warriors impaled together to form one ferocious, incredibly efficient killing machine. An adhukait's two heads, two hearts, and two minds rarely work as one—except to maim or kill.\n\n Even adhukaits' origin contains not one but two stories. Some believe they were created when two godlike brigands attempted to raid a celestial hall and had their bodies crushed together and thrown down from the heavens. Another legend states two asura twins once challenged a great warrior to duel them in turn. When they attacked him together, he was so enraged he slammed one into the other so hard that they were fused together from that day forth.\n\n Adhukaits are among the most elite asura warriors, making up for what they lack in spellcraft with sheer viciousness and single-minded pursuit of inflicting pain.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Asura_Adhukait.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Adhukait](/Monsters.aspx?ID=1070)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Asura\" url=\"/Traits.aspx?ID=350\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 22</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Infernal](/Languages.aspx?ID=19); [telepathy](/MonsterAbilities.aspx?ID=37) 30 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +19, [Intimidation](/Skills.aspx?ID=7) +15, [Performance](/Skills.aspx?ID=12) +15, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Kukri](/Weapons.aspx?ID=56) (4)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +15 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 130\n\n**Immunities**\r\n[curses](/Traits.aspx?ID=38)\n\n**Weaknesses**\r\ngood 5\r\n\r\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**Dual Mind** <actions string=\"Reaction\" /> **Trigger** The adhukait fails a saving throw against a [mental](/Traits.aspx?ID=106) effect; **Effect** The adhukait shunts the effect into one of their minds, rendering them temporarily insensible. They change their result to a success, but one of their bodies hangs limply until the end of their next turn. During this time, the adhukait is [clumsy 2](/Conditions.aspx?ID=3); takes a –10- foot circumstance penalty to their Speed; and can't use Dual Mind, Dual Opportunity, or Dance of Destruction.<br />**Dual Opportunity** The adhukait gains a second reaction each round they can use only to make an Attack of Opportunity.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nkukri +18 ([Agile](/Traits.aspx?ID=170), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 1d6+9 slashing plus 2d6 [persistent bleed](/Conditions.aspx?ID=29) and 1d4 evil\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +18 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+9 slashing and 1d4 evil\n\n**Dance of Destruction** <actions string=\"Single Action\" />  **Requirements** The adhukait's last action was a Strike that dealt damage; **Effect** The adhukait Strides up to 10 feet and Strikes.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-218\" />",
+ "name": "Adhukait",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Asura\" url=\"/Traits.aspx?ID=350\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 22</row>\r\n\r\n**Creature Family** [Asura](/MonsterFamilies.aspx?ID=218)\r\n\r\n<row gap=\"medium\">\r\n**HP** 130\r\n\r\n**AC** 25\r\n\r\n**Fort** +15\r\n\r\n**Ref** +17\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTwice as disciplined as a monk and twice as deadly as a warrior, an adhukait is the ultimate perversion of duality, two spiked asura warriors impaled …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Athletics +19",
+  "Intimidation +15",
+  "Performance +15",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +19, [Intimidation](/Skills.aspx?ID=7) +15, [Performance](/Skills.aspx?ID=12) +15, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 22"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 22</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "stealth": "15",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Twice as disciplined as a monk and twice as deadly as a warrior, an adhukait is the ultimate perversion of duality, two spiked asura warriors impaled …",
+ "summary_markdown": "Twice as disciplined as a monk and twice as deadly as a warrior, an adhukait is the ultimate perversion of duality, two spiked asura warriors impaled …",
+ "text": " Adhukait Twice as disciplined as a monk and twice as deadly as a warrior, an adhukait is the ultimate perversion of duality, two spiked asura warriors impaled together to form one ferocious, incredibly efficient killing machine. An adhukait's two heads, two hearts, and two minds rarely work as one—except to maim or kill. Even adhukaits' origin contains not one but two stories. Some believe they were created when two godlike brigands attempted to raid a celestial hall and had their bodies crushed together and thrown down from the heavens. Another legend states two asura twins once challenged a great warrior to duel them in turn. When they attacked him together, he was so enraged he slammed one into the other so hard that they were fused together from that day forth. Adhukaits are among the most elite asura warriors, making up for what they lack in spellcraft with sheer viciousness and single-minded pursuit of inflicting pain. Recall Knowledge - Fiend (Religion): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Adhukait Source Bestiary 3 pg. 22 Perception +15; darkvision Languages Common, Infernal; telepathy 30 feet Skills Acrobatics +15, Athletics +19, Intimidation +15, Performance +15, Stealth +15 Str +6 Dex +4 Con +4 Int +2 Wis +2 Cha +4 Items Kukri (4) --- AC 25 all-around vision Fort +15 Ref +17 Will +13 HP 130 Immunities curses Weaknesses good 5 Attack of Opportunity Reaction Dual Mind Reaction Trigger The adhukait fails a saving throw against a mental effect; Effect The adhukait shunts the effect into one of their minds, rendering them temporarily insensible. They change their result to a success, but one of their bodies hangs limply until the end of their next turn. During this time, the adhukait is clumsy 2; takes a –10- foot circumstance penalty to their Speed; and can't use Dual Mind, Dual Opportunity, or Dance of Destruction. Dual Opportunity The adhukait gains a second reaction each round they can use only to make an Attack of Opportunity. --- Speed 40 feet Melee Single Action kukri +18 (Agile, Trip), Damage 1d6+9 slashing plus 2d6 persistent bleed and 1d4 evil Melee Single Action claw +18 (Agile), Damage 1d6+9 slashing and 1d4 evil Dance of Destruction Single Action Requirements The adhukait's last action was a Strike that dealt damage; Effect The adhukait Strides up to 10 feet and Strikes. ",
+ "trait": [
+  "Asura",
+  "Fiend",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Asura](/Traits.aspx?ID=350), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Asura",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1070",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "good": 5
+ },
+ "weakness_markdown": "good 5",
+ "weakness_raw": "good 5",
+ "will_save": 13,
+ "wisdom": 2
+}

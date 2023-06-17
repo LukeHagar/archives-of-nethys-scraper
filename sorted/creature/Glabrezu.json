@@ -1,0 +1,121 @@
+{
+ "ac": 34,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 7,
+ "creature_ability": [
+  "Truth Vulnerability",
+  "Captive Rake",
+  "Steady Spellcasting",
+  "Sudden Betrayal",
+  "Treacherous Veil",
+  "Twisted Desires"
+ ],
+ "creature_family": "Demon",
+ "creature_family_markdown": "[Demon](/MonsterFamilies.aspx?ID=28)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 26,
+ "hp": 280,
+ "hp_raw": "280",
+ "id": "creature-101",
+ "image": [
+  "/Images/Monsters/Demon_Glabrezu.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Draconic",
+  "telepathy 100 feet, <%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); telepathy 100 feet, [_tongues_](/Spells.aspx?ID=340)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Glabrezu (Treachery Demon)](/Monsters.aspx?ID=101)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGlabrezus are looming behemoths who revel in the act of twisting mortal desires into their ultimate ruin, betraying and manipulating as easily as they breathe. Desires granted by a glabrezu always come to fruition in the most destructive way possible, turning a wish or hope into a potent and devastating act of betrayal—although the long-term repercussions are not always immediately apparent. For example, a struggling weapon smith might wish for fame and skill at their craft, only to find that their best patron is a cruel and sadistic murderer who uses the weapons in bloody sprees. Or a lonely widower might have his desire granted in the form of a lost love returned to “life” as a vampire. Glabrezus are nothing if not creative in addressing a mortal’s needs.\n\n These massive demons have enormous pincers and a pair of smaller humanoid arms sprouting from their chests, but their size belies their skill at magic, and they possess formidable innate spells. Treachery demons arise from the souls of mortals engaged in treason and deception.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 31\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 29\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 26\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Demon_Glabrezu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Glabrezu](/Monsters.aspx?ID=101)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 79</row>\n\n**Perception** +24; darkvision, [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); telepathy 100 feet, [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Deception](/Skills.aspx?ID=5) +28, [Diplomacy](/Skills.aspx?ID=6) +26, [Intimidation](/Skills.aspx?ID=7) +26, [Religion](/Skills.aspx?ID=13) +22, [Society](/Skills.aspx?ID=14) +22, [Stealth](/Skills.aspx?ID=15) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +7\r\n\r\n**Int** +3\r\n\r\n**Wis** +3\r\n\r\n**Cha** +7\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 34 \r\n\r\n**Fort** +26 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +24 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 280\n\n**Weaknesses**\r\ncold iron 10, good 10\r\n\r\n**Truth Vulnerability** A glabrezu’s lies sustain them, and the truth can destroy them. Whenever a revelation effect counteracts or reveals the glabrezu’s illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as [_zone of truth_](/Spells.aspx?ID=379)), the demon takes 3d6 mental damage. They take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npincer +27 ([deadly 2d10](/Traits.aspx?ID=174), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+13 bludgeoning plus 1d6 evil and [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +27 ([Agile](/Traits.aspx?ID=170), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+13 slashing plus 1d6 evil\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +27 ([Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+13 piercing plus 1d6 evil\r\n\r\n**Divine Innate Spells** DC 34\r\n- **Cantrips (7th)**\r\n[Telekinetic Projectile](/Spells.aspx?ID=334)\r\n- **2nd**\r\n[Mirror Image](/Spells.aspx?ID=197) (at will)\r\n- **4th**\r\n[Confusion](/Spells.aspx?ID=48) (at will), [Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **5th**\r\n[Dimension Door](/Spells.aspx?ID=69)\r\n- **6th**\r\n[Dispel Magic](/Spells.aspx?ID=78) (at will)\r\n- **7th**\r\n[Illusory Disguise](/Spells.aspx?ID=159) (at will), [Reverse Gravity](/Spells.aspx?ID=261)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n- **Constant (6th)**\r\n[True Seeing](/Spells.aspx?ID=344)\r\n\r\n**Divine Rituals** DC 34\r\n\r\n- **1st**\r\n[Abyssal Pact](/Rituals.aspx?ID=21)\r\n\r\n**Captive Rake** <actions string=\"Single Action\" />  **Requirements** A creature is grabbed in the glabrezu’s pincer. **Effect** The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon’s multiple attack penalty, and the penalty doesn’t increase until after both Strikes.\r\n\r\n**Steady Spellcasting**   When a reaction would disrupt a glabrezu’s spell, the demon can attempt a DC 15 flat check, avoiding the disruption on a success.\r\n\r\n**Sudden Betrayal**   A glabrezu can always use [Deception](/Skills.aspx?ID=5) when rolling initiative as long as they’re aware of at least one opponent before initiative is rolled. When using [Deception](/Skills.aspx?ID=5) for initiative, the demon gains a +2 circumstance bonus to [Deception](/Skills.aspx?ID=5).\r\n\r\n**Treacherous Veil**   A glabrezu’s _[illusory disguise](/Spells.aspx?ID=159)_ can allow it to appear as a creature of any size.\r\n\r\n**Twisted Desires**  ([Divination](/Traits.aspx?ID=47), [Divine](/Traits.aspx?ID=48)) Once per month, a glabrezu can grant a mortal humanoid the effects of a _[miracle](/Spells.aspx?ID=196)_ spell granted by an Abyssal patron, though the glabrezu always perverts the _[miracle](/Spells.aspx?ID=196)_ according to their own treacherous nature.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-28\" />",
+ "name": "Glabrezu",
+ "npc": false,
+ "perception": 24,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 79</row>\r\n\r\n**Creature Family** [Demon](/MonsterFamilies.aspx?ID=28)\r\n\r\n<row gap=\"medium\">\r\n**HP** 280\r\n\r\n**AC** 34\r\n\r\n**Fort** +26\r\n\r\n**Ref** +19\r\n\r\n**Will** +24\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGlabrezus are looming behemoths who revel in the act of twisting mortal desires into their ultimate ruin, betraying and manipulating as easily as …\r\n</summary>",
+ "sense": "darkvision,   true seeing  ",
+ "sense_markdown": "darkvision, [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Deception +28",
+  "Diplomacy +26",
+  "Intimidation +26",
+  "Religion +22",
+  "Society +22",
+  "Stealth +21"
+ ],
+ "skill_markdown": "[Deception](/Skills.aspx?ID=5) +28, [Diplomacy](/Skills.aspx?ID=6) +26, [Intimidation](/Skills.aspx?ID=7) +26, [Religion](/Skills.aspx?ID=13) +22, [Society](/Skills.aspx?ID=14) +22, [Stealth](/Skills.aspx?ID=15) +21",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 79"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 79</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Illusory Disguise",
+  "Reverse Gravity",
+  "Dispel Magic",
+  "Dimension Door",
+  "Confusion",
+  "Mirror Image",
+  "Telekinetic Projectile",
+  "True Seeing",
+  "Tongues"
+ ],
+ "spell_markdown": "[Confusion](/Spells.aspx?ID=48), [Dimension Door](/Spells.aspx?ID=69), [Dispel Magic](/Spells.aspx?ID=78), [Illusory Disguise](/Spells.aspx?ID=159), [Mirror Image](/Spells.aspx?ID=197), [Reverse Gravity](/Spells.aspx?ID=261), [Telekinetic Projectile](/Spells.aspx?ID=334), [Tongues](/Spells.aspx?ID=340), [True Seeing](/Spells.aspx?ID=344)",
+ "stealth": "21",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Glabrezus are looming behemoths who revel in the act of twisting mortal desires into their ultimate ruin, betraying and manipulating as easily as …",
+ "summary_markdown": "Glabrezus are looming behemoths who revel in the act of twisting mortal desires into their ultimate ruin, betraying and manipulating as easily as …",
+ "text": " Glabrezu (Treachery Demon) Glabrezus are looming behemoths who revel in the act of twisting mortal desires into their ultimate ruin, betraying and manipulating as easily as they breathe. Desires granted by a glabrezu always come to fruition in the most destructive way possible, turning a wish or hope into a potent and devastating act of betrayal—although the long-term repercussions are not always immediately apparent. For example, a struggling weapon smith might wish for fame and skill at their craft, only to find that their best patron is a cruel and sadistic murderer who uses the weapons in bloody sprees. Or a lonely widower might have his desire granted in the form of a lost love returned to “life” as a vampire. Glabrezus are nothing if not creative in addressing a mortal’s needs. These massive demons have enormous pincers and a pair of smaller humanoid arms sprouting from their chests, but their size belies their skill at magic, and they possess formidable innate spells. Treachery demons arise from the souls of mortals engaged in treason and deception. Recall Knowledge - Fiend (Religion): DC 31 Unspecific Lore : DC 29 Specific Lore : DC 26 Glabrezu Source Bestiary pg. 79 Perception +24; darkvision, true seeing Languages Abyssal, Celestial, Draconic; telepathy 100 feet, tongues Skills Deception +28, Diplomacy +26, Intimidation +26, Religion +22, Society +22, Stealth +21 Str +7 Dex +2 Con +7 Int +3 Wis +3 Cha +7 --- AC 34 Fort +26 Ref +19 Will +24 +1 status to all saves vs. magic HP 280 Weaknesses cold iron 10, good 10 Truth Vulnerability A glabrezu’s lies sustain them, and the truth can destroy them. Whenever a revelation effect counteracts or reveals the glabrezu’s illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as zone of truth ), the demon takes 3d6 mental damage. They take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies. --- Speed 35 feet Melee Single Action pincer +27 (deadly 2d10, Evil, Magical, reach 15 feet), Damage 3d10+13 bludgeoning plus 1d6 evil and Grab Melee Single Action claw +27 (Agile, Evil, Magical, reach 10 feet), Damage 3d6+13 slashing plus 1d6 evil Melee Single Action jaws +27 (Evil, Magical, reach 10 feet), Damage 3d12+13 piercing plus 1d6 evil Divine Innate Spells DC 34 - Cantrips (7th) Telekinetic Projectile - 2nd Mirror Image (at will) - 4th Confusion (at will), Dimension Door (at will) - 5th Dimension Door - 6th Dispel Magic (at will) - 7th Illusory Disguise (at will), Reverse Gravity - Constant (5th) Tongues - Constant (6th) True Seeing Divine Rituals DC 34 - 1st Abyssal Pact Captive Rake Single Action Requirements A creature is grabbed in the glabrezu’s pincer. Effect The glabrezu pulls the grabbed creature up to 5 feet closer, then makes two claw Strikes against it. Those Strikes count as one attack when determining a treachery demon’s multiple attack penalty, and the penalty doesn’t increase until after both Strikes. Steady Spellcasting When a reaction would disrupt a glabrezu’s spell, the demon can attempt a DC 15 flat check, avoiding the disruption on a success. Sudden Betrayal A glabrezu can always use Deception when rolling initiative as long as they’re aware of at least one opponent before initiative is rolled. When using Deception for initiative, the demon gains a +2 circumstance bonus to Deception. Treacherous Veil A glabrezu’s illusory disguise can allow it to appear as a creature of any size. Twisted Desires (Divination, Divine) Once per month, a glabrezu can grant a mortal humanoid the effects of a miracle spell granted by an Abyssal patron, though the glabrezu always perverts the miracle according to their own treacherous nature. ",
+ "trait": [
+  "Demon",
+  "Fiend",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Demon](/Traits.aspx?ID=42), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Demon",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=101",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold_iron": 10,
+  "good": 10
+ },
+ "weakness_markdown": "cold iron 10, good 10",
+ "weakness_raw": "cold iron 10, good 10",
+ "will_save": 24,
+ "wisdom": 3
+}

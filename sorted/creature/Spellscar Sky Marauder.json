@@ -1,0 +1,113 @@
+{
+ "ac": 22,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 5,
+ "creature_ability": [
+  "Acidic Pustules",
+  "Runic Resistance",
+  "Paired Strike",
+  "Mana Fever",
+  "Powerful Scimitars",
+  "Raptor Dive"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 85,
+ "hp_raw": "85",
+ "id": "creature-1967",
+ "immunity": [
+  "disease"
+ ],
+ "immunity_markdown": "[disease](/Traits.aspx?ID=46)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Sphinx"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Sphinx](/Languages.aspx?ID=35)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Spellscar Sky Marauder](/Monsters.aspx?ID=1967)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Spellscar Sky Marauder](/Monsters.aspx?ID=1967)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 30</row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Sphinx](/Languages.aspx?ID=35)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Arcana](/Skills.aspx?ID=2) +11, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +10, [Spellscar Desert Lore](/Skills.aspx?ID=8) +13, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\n\n**Items**\r\n[Scimitar](/Weapons.aspx?ID=38) (2)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 85\n\n**Immunities**\r\n[disease](/Traits.aspx?ID=46)\r\n\r\n**Resistances**\r\n[acid](/Traits.aspx?ID=3) 5\n\n**Acidic Pustules** The marauder's skin is covered with necrotic boils that burst when struck. Whenever a creature deals slashing or piercing damage to the marauder, each creature within 5 feet takes 2d6 acid damage (DC 22 [basic](/Rules.aspx?ID=329) Reflex save). On a critically failed save, a creature also takes 1d4 [persistent acid damage](/Conditions.aspx?ID=29).<br />**Runic Resistance** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [abjuration](/Traits.aspx?ID=2)) **Trigger** The maftet takes damage from a Strike or spell effect; **Effect** The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack. This resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_scimitar_ +15 ([Forceful](/Traits.aspx?ID=180), [Magical](/Traits.aspx?ID=103), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 2d6+6 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +15 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d4+6 plus mana fever\r\n\r\n**Arcane Innate Spells** DC 22\r\n- **Cantrips (3rd)**\r\n[Sigil](/Spells.aspx?ID=286)\r\n- **1st**\r\n[Sanctuary](/Spells.aspx?ID=266) (×3), [True Strike](/Spells.aspx?ID=345)\r\n\r\n**Paired Strike** <actions string=\"Two Actions\" />  **Requirements** The maftet is wielding two [scimitars](/Weapons.aspx?ID=38); **Effect** The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty.\r\n\r\n**Mana Fever**  ([Disease](/Traits.aspx?ID=46)) A creature can't remove the [fatigued](/Conditions.aspx?ID=15) condition while infected; **Saving Throw** DC 22 Fortitude; **Onset** 1 day; **Stage 1** fatigued and [stupefied 1](/Conditions.aspx?ID=37) (1 day); **Stage 2** fatigued and stupefied 2 (1 day); **Stage 3** fatigued and stupefied 3 (1 day); **Stage 4** gain immunity to mana fever and become a [Mana Wastes mutant](/MonsterFamilies.aspx?ID=315)\r\n\r\n**Powerful Scimitars**  ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65)) Any non-magical scimitar becomes a _+1 [striking](/Equipment.aspx?ID=280) scimitar_ while a maftet wields it.\r\n\r\n**Raptor Dive** <actions string=\"Three Actions\" />  **Requirements** The maftet is flying at least 10 feet above the target; **Effect** The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>",
+ "name": "Spellscar Sky Marauder",
+ "npc": false,
+ "perception": 12,
+ "rarity": "uncommon",
+ "reflex_save": 13,
+ "release_date": "2022-05-25",
+ "resistance": {
+  "acid": 5
+ },
+ "resistance_markdown": "[acid](/Traits.aspx?ID=3) 5",
+ "resistance_raw": " acid  5",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mutant\" url=\"/Traits.aspx?ID=229\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 30</row>\n\n<row gap=\"medium\">\r\n**HP** 85\r\n\r\n**AC** 22\r\n\r\n**Fort** +12\r\n\r\n**Ref** +13\r\n\r\n**Will** +10\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Arcana +11",
+  "Athletics +13",
+  "Intimidation +10",
+  "Spellscar Desert Lore +13",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Arcana](/Skills.aspx?ID=2) +11, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +10, [Spellscar Desert Lore](/Skills.aspx?ID=8) +13, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Pathfinder #179: Cradle of Quartz"
+ ],
+ "source_raw": [
+  "Pathfinder #179: Cradle of Quartz pg. 30"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 30</row>",
+ "speed": {
+  "fly": 40,
+  "land": 30,
+  "max": 40
+ },
+ "speed_markdown": "30 feet, fly 40 feet",
+ "speed_raw": "30 feet, fly 40 feet",
+ "spell": [
+  "Sanctuary",
+  "True Strike",
+  "Sigil"
+ ],
+ "spell_markdown": "[Sanctuary](/Spells.aspx?ID=266), [Sigil](/Spells.aspx?ID=286), [True Strike](/Spells.aspx?ID=345)",
+ "spoilers": "Outlaws of Alkenstar",
+ "stealth": "13",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Spellscar Sky Marauder Recall Knowledge - Humanoid (Society): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Spellscar Sky Marauder Source Pathfinder #179: Cradle of Quartz pg. 30 Perception +12; darkvision Languages Common, Sphinx Skills Acrobatics +13, Arcana +11, Athletics +13, Intimidation +10, Spellscar Desert Lore +13, Stealth +13 Str +4 Dex +4 Con +5 Int +0 Wis +3 Cha -1 Items Scimitar (2) --- AC 22 Fort +12 Ref +13 Will +10 HP 85 Immunities disease Resistances acid 5 Acidic Pustules The marauder's skin is covered with necrotic boils that burst when struck. Whenever a creature deals slashing or piercing damage to the marauder, each creature within 5 feet takes 2d6 acid damage (DC 22 basic Reflex save). On a critically failed save, a creature also takes 1d4 persistent acid damage. Runic Resistance Reaction (arcane, abjuration) Trigger The maftet takes damage from a Strike or spell effect; Effect The maftet's protective runic tattoos glow, granting them resistance 5 to one damage type dealt by the triggering attack. This resistance applies against the triggering effect and lasts for 1 minute or until the maftet uses this ability again, whichever comes first. If the triggering effect deals multiple damage types, the maftet chooses which type to resist. --- Speed 30 feet, fly 40 feet Melee Single Action scimitar +15 (Forceful, Magical, Sweep), Damage 2d6+6 slashing Melee Single Action talon +15 (Agile, Finesse), Damage 2d4+6 plus mana fever Arcane Innate Spells DC 22 - Cantrips (3rd) Sigil - 1st Sanctuary (×3), True Strike Paired Strike Two Actions Requirements The maftet is wielding two scimitars; Effect The maftet makes two Strikes against the same target, one with each of their scimitars. The maftet combines the damage of any attacks that hit and applies resistances and weaknesses only once. This counts as one attack when calculating the maftet's multiple attack penalty. Mana Fever (Disease) A creature can't remove the fatigued condition while infected; Saving Throw DC 22 Fortitude; Onset 1 day; Stage 1 fatigued and stupefied 1 (1 day); Stage 2 fatigued and stupefied 2 (1 day); Stage 3 fatigued and stupefied 3 (1 day); Stage 4 gain immunity to mana fever and become a Mana Wastes mutant Powerful Scimitars (Arcane, Evocation) Any non-magical scimitar becomes a +1 striking scimitar while a maftet wields it. Raptor Dive Three Actions Requirements The maftet is flying at least 10 feet above the target; Effect The maftet Flies up to twice their fly Speed and makes a Paired Strike at the end of the movement. If both Strikes hit, the target is also knocked prone. ",
+ "trait": [
+  "Humanoid",
+  "Mutant",
+  "Uncommon",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Mutant](/Traits.aspx?ID=229), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Mutant",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1967",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 3
+}

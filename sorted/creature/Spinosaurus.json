@@ -1,0 +1,92 @@
+{
+ "ac": 30,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 6,
+ "creature_ability": [
+  "Deep Breath",
+  "Rip and Tear",
+  "Staggering Sail",
+  "Swallow Whole"
+ ],
+ "creature_family": "Dinosaur",
+ "creature_family_markdown": "[Dinosaur](/MonsterFamilies.aspx?ID=32)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 23,
+ "hp": 200,
+ "hp_raw": "200",
+ "id": "creature-617",
+ "image": [
+  "/Images/Monsters/Dinosaur_Spinosaurus.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Spinosaurus](/Monsters.aspx?ID=617)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe spinosaurus is more than just one of the largest carnivorous dinosaurs—it's also one of the most unusual in appearance, with a large, sail-like fin running along its spine. Often quite colorful, this sail allows the spinosaurus to attract mates, aids in swimming, and makes it appear to be even larger than it actually is. A swimming spinosaurus can also use the sail as part of a unique means of staggering prey by slapping the water with it to make a crushing wave.\n\nThe spinosaurus is equally at home in water as it is on land, and its long, toothy maw is well-adapted to catching swimming prey. Attempts by giants to capture spinosauruses to serve as guardians typically go poorly, for these headstrong dinosaurs do not domesticate well. Their surly attitudes and striking appearances make them better suited for bloodsports, and they are popular prizes for those who run arenas specializing in battles that pit gladiators against hungry animals or beasts. Of course, an angry dinosaur forced to fight for the amusement of others won't discriminate between potential meals on the battleground and ones seated in the surrounding stands.\n\nThe spinosaurus's appearance and strength make it attractive to more than just giants and bloodsport organizers. Spellcasters who mutate and transform animals into magical guardians have long been intrigued by the spinosaurus's potential. More so than any other dinosaurs, spinosauruses have been subjected to fleshwarping procedures, crossbreeding with monsters, and other magical techniques to enhance the creatures' viability as effective guardians.\n\nA spinosaurus can measure up to 60 feet in length and weighs 25,000 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Dinosaur_Spinosaurus.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Spinosaurus](/Monsters.aspx?ID=617)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Dinosaur\" url=\"/Traits.aspx?ID=45\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 82 <sup>2.0</sup></row>\n\n**Perception** +21; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Deep Breath** A spinosaurus can hold its breath for 2 hours.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +23 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 200\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +23 ([deadly d12](/Traits.aspx?ID=174), [reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+14 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +23 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+14 slashing\n\n**Rip and Tear** <actions string=\"Single Action\" />  **Requirements** The spinosaurus has a creature [grabbed](/Conditions.aspx?ID=20) in its jaws; **Effect** The spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 4d8 slashing damage (DC 30 basic Reflex save) and 1d6 [persistent bleed damage](/Conditions.aspx?ID=29).\r\n\r\n**Staggering Sail** <actions string=\"Two Actions\" /> ([Incapacitation](/Traits.aspx?ID=93)) **Requirements** The spinosaurus is swimming on the surface of water; **Effect** With a powerful lunge to the side, the spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals 6d6 bludgeoning damage in a 30-foot cone. Each creature in the water in the area must attempt a DC 30 Reflex save. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature takes half damage. <br />**Failure** The creature takes full damage and is [slowed 1](/Conditions.aspx?ID=35) until the end of its next turn. <br />**Critical Failure** The creature takes double damage and is [stunned 3](/Conditions.aspx?ID=36).\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Medium, 2d12+12 bludgeoning, Rupture 19\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-32\" />",
+ "name": "Spinosaurus",
+ "npc": false,
+ "perception": 21,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 21,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Dinosaur\" url=\"/Traits.aspx?ID=45\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 82 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Dinosaur](/MonsterFamilies.aspx?ID=32)\r\n\r\n<row gap=\"medium\">\r\n**HP** 200\r\n\r\n**AC** 30\r\n\r\n**Fort** +23\r\n\r\n**Ref** +21\r\n\r\n**Will** +19\r\n\r\n**Perception** +21\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe spinosaurus is more than just one of the largest carnivorous dinosaurs—it's also one of the most unusual in appearance, with a large, sail-like …\r\n</summary>",
+ "sense": " low-light vision ,  scent (imprecise) 30 feet ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent (imprecise) 30 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +23"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +23",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 82"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 82 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 40,
+  "max": 40,
+  "swim": 30
+ },
+ "speed_markdown": "40 feet, swim 30 feet",
+ "speed_raw": "40 feet, swim 30 feet",
+ "spell_markdown": "",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The spinosaurus is more than just one of the largest carnivorous dinosaurs—it's also one of the most unusual in appearance, with a large, sail-like …",
+ "summary_markdown": "The spinosaurus is more than just one of the largest carnivorous dinosaurs—it's also one of the most unusual in appearance, with a large, sail-like …",
+ "text": " Spinosaurus The spinosaurus is more than just one of the largest carnivorous dinosaurs—it's also one of the most unusual in appearance, with a large, sail-like fin running along its spine. Often quite colorful, this sail allows the spinosaurus to attract mates, aids in swimming, and makes it appear to be even larger than it actually is. A swimming spinosaurus can also use the sail as part of a unique means of staggering prey by slapping the water with it to make a crushing wave. The spinosaurus is equally at home in water as it is on land, and its long, toothy maw is well-adapted to catching swimming prey. Attempts by giants to capture spinosauruses to serve as guardians typically go poorly, for these headstrong dinosaurs do not domesticate well. Their surly attitudes and striking appearances make them better suited for bloodsports, and they are popular prizes for those who run arenas specializing in battles that pit gladiators against hungry animals or beasts. Of course, an angry dinosaur forced to fight for the amusement of others won't discriminate between potential meals on the battleground and ones seated in the surrounding stands. The spinosaurus's appearance and strength make it attractive to more than just giants and bloodsport organizers. Spellcasters who mutate and transform animals into magical guardians have long been intrigued by the spinosaurus's potential. More so than any other dinosaurs, spinosauruses have been subjected to fleshwarping procedures, crossbreeding with monsters, and other magical techniques to enhance the creatures' viability as effective guardians. A spinosaurus can measure up to 60 feet in length and weighs 25,000 pounds. Recall Knowledge - Animal (Nature): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Spinosaurus Source Bestiary 2 pg. 82 2.0 Perception +21; low-light vision, scent (imprecise) 30 feet Languages Skills Acrobatics +19, Athletics +23 Str +8 Dex +4 Con +6 Int -4 Wis +2 Cha +1 Deep Breath A spinosaurus can hold its breath for 2 hours. --- AC 30 Fort +23 Ref +21 Will +19 HP 200 --- Speed 40 feet, swim 30 feet Melee Single Action bite +23 (deadly d12, reach 20 feet), Damage 2d12+14 piercing plus Grab Melee Single Action claw +23 (Agile, reach 15 feet), Damage 2d8+14 slashing Rip and Tear Single Action Requirements The spinosaurus has a creature grabbed in its jaws; Effect The spinosaurus reaches up and slashes with its claws at the creature it has grabbed, dealing 4d8 slashing damage (DC 30 basic Reflex save) and 1d6 persistent bleed damage. Staggering Sail Two Actions (Incapacitation) Requirements The spinosaurus is swimming on the surface of water; Effect With a powerful lunge to the side, the spinosaurus uses its sail to slap the surface of the water, creating a crushing wave of water that deals 6d6 bludgeoning damage in a 30-foot cone. Each creature in the water in the area must attempt a DC 30 Reflex save. Critical Success The creature is unaffected. Success The creature takes half damage. Failure The creature takes full damage and is slowed 1 until the end of its next turn. Critical Failure The creature takes double damage and is stunned 3. Swallow Whole Single Action (Attack) Medium, 2d12+12 bludgeoning, Rupture 19 ",
+ "trait": [
+  "Animal",
+  "Dinosaur",
+  "N",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Dinosaur](/Traits.aspx?ID=45)",
+ "trait_raw": [
+  "Animal",
+  "Dinosaur"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=617",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 19,
+ "wisdom": 2
+}

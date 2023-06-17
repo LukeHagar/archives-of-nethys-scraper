@@ -1,0 +1,126 @@
+{
+ "ac": 37,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 9,
+ "constitution": 8,
+ "creature_ability": [
+  "Enormous",
+  "Eat Portal",
+  "Reflect Spell",
+  "Swallow Whole",
+  "Unfurl Realities"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 34,
+ "hp": 420,
+ "hp_raw": "420",
+ "id": "creature-1510",
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 18,
+ "markdown": "<title level=\"1\" pfs=\"\">[Portal Eater](/Monsters.aspx?ID=1510)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Astral](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 43\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 41\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 38\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 18\">[Portal Eater](/Monsters.aspx?ID=1510)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Astral\" url=\"/Traits.aspx?ID=14\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 56</row>\n\n**Perception** +30; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +36, [Intimidation](/Skills.aspx?ID=7) +35\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +5\r\n\r\n**Con** +8\r\n\r\n**Int** +0\r\n\r\n**Wis** +6\r\n\r\n**Cha** +9\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 37 \r\n\r\n**Fort** +34 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +32 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 420\n\n**Resistances**\r\nall damage 10 (except [force](/Traits.aspx?ID=75) and physical)\r\n\r\n**Weaknesses**\r\nforce 20\r\n\r\n**Enormous** A portal eater is a massive creature and takes up a space of 10 squares by 10 squares (50 feet by 50 feet).<br />**Eat Portal** <actions string=\"Reaction\" /> ([abjuration](/Traits.aspx?ID=2), [occult](/Traits.aspx?ID=120)) **Requirements** The portal eater's beak is not [grabbing](/Conditions.aspx?ID=20) a creature; **Trigger** A creature teleports or is summoned within 50 feet of the portal eater; **Effect** The portal eater attempts to eat the portal. It makes a [counteract](/Rules.aspx?ID=371) check against the effect (counteract modifier +33, counteract level 9th). If the effect is counteracted, the creature arrives in the portal eater's beak and the portal eater [Grabs](/MonsterAbilities.aspx?ID=18) it.<br />**Reflect Spell** <actions string=\"Reaction\" /> ([abjuration](/Traits.aspx?ID=2), [occult](/Traits.aspx?ID=120)) **Trigger** A creature Casts a Spell that targets the portal eater; **Effect** The portal eater attempts to [counteract](/Rules.aspx?ID=371) the spell (counteract modifier +32, counteract level 9th). If the spell is counteracted, it targets the caster instead.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet, fly 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +34 ([reach 25 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+20 piercing and [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +34 ([Agile](/Traits.aspx?ID=170), [reach 30 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+20 slashing plus [Improved Push](/MonsterAbilities.aspx?ID=29) 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ncloak +34 ([reach 40 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+20 bludgeoning plus Pull 20 feet\n\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Gargantuan, 17d6+8 force, Rupture 33\r\n\r\n**Unfurl Realities** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Light](/Traits.aspx?ID=100), [Occult](/Traits.aspx?ID=120)) The portal eater unfurls its crystalline cloak of stolen realities, releasing a wave of cosmic energy and casting [_prismatic spray_](/Spells.aspx?ID=233) (DC 39) in a 60-foot emanation. The portal eater can't Unfurl Realities again for 1d4 rounds.\r\n\r\n</column>",
+ "name": "Portal Eater",
+ "npc": false,
+ "perception": 30,
+ "rarity": "rare",
+ "reflex_save": 29,
+ "release_date": "2021-07-07",
+ "resistance": {
+  "acid": 10,
+  "all": 10,
+  "area": 10,
+  "bleed": 10,
+  "bludgeoning": 10,
+  "chaotic": 10,
+  "cold": 10,
+  "cold_iron": 10,
+  "electricity": 10,
+  "evil": 10,
+  "fire": 10,
+  "force": 10,
+  "good": 10,
+  "lawful": 10,
+  "mental": 10,
+  "negative": 10,
+  "orichalcum": 10,
+  "physical": 10,
+  "piercing": 10,
+  "poison": 10,
+  "positive": 10,
+  "precision": 10,
+  "silver": 10,
+  "slashing": 10,
+  "sonic": 10,
+  "splash": 10
+ },
+ "resistance_markdown": "all damage 10 (except [force](/Traits.aspx?ID=75) and physical)",
+ "resistance_raw": "all damage 10 (except  force  and physical)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Astral\" url=\"/Traits.aspx?ID=14\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 56</row>\n\n<row gap=\"medium\">\r\n**HP** 420\r\n\r\n**AC** 37\r\n\r\n**Fort** +34\r\n\r\n**Ref** +29\r\n\r\n**Will** +32\r\n\r\n**Perception** +30\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +36",
+  "Intimidation +35"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +36, [Intimidation](/Skills.aspx?ID=7) +35",
+ "source": [
+  "Pathfinder #167: Ready? Fight!"
+ ],
+ "source_raw": [
+  "Pathfinder #167: Ready? Fight! pg. 56"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 56</row>",
+ "speed": {
+  "fly": 35,
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet, fly 35 feet",
+ "speed_raw": "35 feet, fly 35 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Portal Eater Recall Knowledge - Astral (Occultism): DC 43 Unspecific Lore : DC 41 Specific Lore : DC 38 Portal Eater Source Pathfinder #167: Ready? Fight! pg. 56 Perception +30; greater darkvision Languages Aklo; telepathy 100 feet Skills Athletics +36, Intimidation +35 Str +10 Dex +5 Con +8 Int +0 Wis +6 Cha +9 --- AC 37 Fort +34 Ref +29 Will +32 +1 status to all saves vs. magic HP 420 Resistances all damage 10 (except force and physical) Weaknesses force 20 Enormous A portal eater is a massive creature and takes up a space of 10 squares by 10 squares (50 feet by 50 feet). Eat Portal Reaction (abjuration, occult) Requirements The portal eater's beak is not grabbing a creature; Trigger A creature teleports or is summoned within 50 feet of the portal eater; Effect The portal eater attempts to eat the portal. It makes a counteract check against the effect (counteract modifier +33, counteract level 9th). If the effect is counteracted, the creature arrives in the portal eater's beak and the portal eater Grabs it. Reflect Spell Reaction (abjuration, occult) Trigger A creature Casts a Spell that targets the portal eater; Effect The portal eater attempts to counteract the spell (counteract modifier +32, counteract level 9th). If the spell is counteracted, it targets the caster instead. --- Speed 35 feet, fly 35 feet Melee Single Action beak +34 (reach 25 feet), Damage 3d12+20 piercing and Improved Grab Melee Single Action claw +34 (Agile, reach 30 feet), Damage 3d8+20 slashing plus Improved Push 20 feet Melee Single Action cloak +34 (reach 40 feet), Damage 3d8+20 bludgeoning plus Pull 20 feet Swallow Whole Single Action (Attack) Gargantuan, 17d6+8 force, Rupture 33 Unfurl Realities Two Actions (Evocation, Light, Occult) The portal eater unfurls its crystalline cloak of stolen realities, releasing a wave of cosmic energy and casting prismatic spray (DC 39) in a 60-foot emanation. The portal eater can't Unfurl Realities again for 1d4 rounds. ",
+ "trait": [
+  "Astral",
+  "Rare",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Astral](/Traits.aspx?ID=14), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Astral",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1510",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "force": 20
+ },
+ "weakness_markdown": "force 20",
+ "weakness_raw": "force 20",
+ "will_save": 32,
+ "wisdom": 6
+}

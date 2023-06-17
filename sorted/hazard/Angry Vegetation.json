@@ -1,0 +1,60 @@
+{
+ "ac": 37,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 48  Nature  (master) or DC 48  Performance  (legendary) to calm a flower, closing it",
+ "exclude_from_search": false,
+ "fortitude_save": 33,
+ "hazard_type": "Environmental",
+ "hp": 120,
+ "hp_raw": "120 per flower",
+ "id": "hazard-242",
+ "immunity": [
+  "mental"
+ ],
+ "immunity_markdown": "[mental](/Traits.aspx?ID=106)",
+ "level": 20,
+ "markdown": "<title level=\"1\" right=\"Hazard 20\" pfs=\"\">[Angry Vegetation](/Hazards.aspx?ID=242)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 41</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nFive large flowers in the weed-choked field unfurl, each dusting pollen onto vines that animate into wemmuths.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 42 (master) to notice massive buds beneath the other foliage before they open\r\n\r\n**Disable**\r\nDC 48 [Nature](/Skills.aspx?ID=10) (master) or DC 48 [Performance](/Skills.aspx?ID=12) (legendary) to calm a flower, closing it\n\n<column gap=\"tiny\">\r\n\r\n**AC** 37, **Fort** +33, **Ref** +30, **Will** +30\n\n**HP**\r\n120 per flower\r\n\r\n**Immunities**\r\n[mental](/Traits.aspx?ID=106)\r\n\r\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 20\n\n</column>\r\n\r\n**Bloom** <actions string=\"Reaction\" /> **Trigger** A non-plant creature enters the garden; **Effect** The blooms open, spawning a single [wemmuth](/Monsters.aspx?ID=408) that acts on the hazard's initiative, and the hazard rolls for initiative.\n\n---\r\n**Routine**\r\n(2 actions) If there are fewer wemmuths than open flowers, the flowers create more wemmuths (so there as many wemmuths as open flowers) as their first action. For their second action, the flowers produce a mind-addling pollen. Each non-[plant](/Traits.aspx?ID=125) creature within 30 feet of a flower must succeed at a DC 41 Fortitude save or become [slowed 1](/Conditions.aspx?ID=35) for 1 round (or [confused](/Conditions.aspx?ID=5) for 1 round, on a critical failure). The pollen is an [emotion](/Traits.aspx?ID=60), [mental](/Traits.aspx?ID=106), and [olfactory](/Traits.aspx?ID=246) effect.\r\n\r\n---\r\n**Reset**\r\nWemmuths collapse into ordinary vines and the trap resets if the area is left alone for 1 minute.",
+ "name": "Angry Vegetation",
+ "rarity": "unique",
+ "reflex_save": 30,
+ "release_date": "2020-06-24",
+ "reset": "Wemmuths collapse into ordinary vines and the trap resets if the area is left alone for 1 minute.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 41</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFive large flowers in the weed-choked field unfurl, each dusting pollen onto vines that animate into wemmuths.\r\n</summary>",
+ "source": [
+  "Pathfinder #156: The Apocalypse Prophet"
+ ],
+ "source_raw": [
+  "Pathfinder #156: The Apocalypse Prophet pg. 41"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #156: The Apocalypse Prophet](/Sources.aspx?ID=36) pg. 41</row>",
+ "speed": {},
+ "spoilers": "Extinction Curse",
+ "stealth": "DC 42 (master) to notice massive buds beneath the other foliage before they open",
+ "summary": "Five large flowers in the weed-choked field unfurl, each dusting pollen onto vines that animate into wemmuths.",
+ "summary_markdown": "Five large flowers in the weed-choked field unfurl, each dusting pollen onto vines that animate into wemmuths.",
+ "text": " Angry Vegetation Source Pathfinder #156: The Apocalypse Prophet pg. 41 Complexity Complex Five large flowers in the weed-choked field unfurl, each dusting pollen onto vines that animate into wemmuths. --- Stealth DC 42 (master) to notice massive buds beneath the other foliage before they open Disable DC 48 Nature (master) or DC 48 Performance (legendary) to calm a flower, closing it AC 37, Fort +33, Ref +30, Will +30 HP 120 per flower Immunities mental Weaknesses fire 20 Bloom Reaction Trigger A non-plant creature enters the garden; Effect The blooms open, spawning a single wemmuth that acts on the hazard's initiative, and the hazard rolls for initiative. --- Routine (2 actions) If there are fewer wemmuths than open flowers, the flowers create more wemmuths (so there as many wemmuths as open flowers) as their first action. For their second action, the flowers produce a mind-addling pollen. Each non-plant creature within 30 feet of a flower must succeed at a DC 41 Fortitude save or become slowed 1 for 1 round (or confused for 1 round, on a critical failure). The pollen is an emotion, mental, and olfactory effect. --- Reset Wemmuths collapse into ordinary vines and the trap resets if the area is left alone for 1 minute.",
+ "trait": [
+  "Complex",
+  "Environmental",
+  "Unique"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Environmental](/Traits.aspx?ID=62), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Complex",
+  "Environmental",
+  "Unique"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=242",
+ "weakness": {
+  "fire": 20
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 20",
+ "weakness_raw": " fire  20",
+ "will_save": 30
+}

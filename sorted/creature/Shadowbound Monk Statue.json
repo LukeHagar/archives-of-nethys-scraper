@@ -1,0 +1,109 @@
+{
+ "ac": 28,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 6,
+ "creature_ability": [
+  "Construct Armor",
+  "Clinging Gloom  The statue pulls a creature it has  grabbed  into its grasping shadows. The target takes 3d8 negative damage and 1d8  persistent negative damage .",
+  "Cowl of Shadow"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hardness": 10,
+ "hardness_raw": "10",
+ "hp": 120,
+ "hp_raw": "120",
+ "id": "creature-2095",
+ "immunity": [
+  "bleed",
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"\">[Shadowbound Monk Statue](/Monsters.aspx?ID=2095)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 29\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 27\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 24\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Shadowbound Monk Statue](/Monsters.aspx?ID=2095)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 56</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** -1\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 (24 when broken, construct armor)\r\n\r\n**Fort** +19 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 120\n\n**Immunities**\r\nbleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Construct Armor** Like normal objects, the statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once the statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, and its Armor Class is reduced to 24.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nstone fist +21 ([Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d12+8 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndarkness mote +14 ([Magical](/Traits.aspx?ID=103), [range increment 80 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d8 negative\n\n**Clinging Gloom  The statue pulls a creature it has [grabbed](/Conditions.aspx?ID=20) into its grasping shadows. The target takes 3d8 negative damage and 1d8 [persistent negative damage](/Conditions.aspx?ID=29).** <actions string=\"Single Action\" />  \r\n\r\n**Cowl of Shadow**   Shifting shadows cover the statue. If the statue is dealt at least 15 positive damage or brought within an area of magical light, the shadows recede, and the statue can't make darkness mote attacks or use Clinging Gloom.\r\n\r\n</column>",
+ "name": "Shadowbound Monk Statue",
+ "npc": false,
+ "perception": 15,
+ "rarity": "rare",
+ "reflex_save": 12,
+ "release_date": "2022-09-21",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 56</row>\n\n<row gap=\"medium\">\r\n**HP** 120\r\n\r\n**AC** 28\r\n\r\n**Fort** +19\r\n\r\n**Ref** +12\r\n\r\n**Will** +11\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +19"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +19",
+ "source": [
+  "Pathfinder #183: Field of Maidens"
+ ],
+ "source_raw": [
+  "Pathfinder #183: Field of Maidens pg. 56"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 56</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Shadowbound Monk Statue Recall Knowledge - Construct (Arcana, Crafting): DC 29 Unspecific Lore : DC 27 Specific Lore : DC 24 Shadowbound Monk Statue Source Pathfinder #183: Field of Maidens pg. 56 Perception +15; darkvision Languages Skills Athletics +19 Str +6 Dex -1 Con +6 Int -5 Wis +0 Cha -5 --- AC 28 (24 when broken, construct armor) Fort +19 Ref +12 Will +11 HP 120 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Construct Armor Like normal objects, the statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once the statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, and its Armor Class is reduced to 24. --- Speed 30 feet Melee Single Action stone fist +21 (Magical, reach 10 feet), Damage 2d12+8 bludgeoning plus Grab Ranged Single Action darkness mote +14 (Magical, range increment 80 feet), Damage 4d8 negative Clinging Gloom The statue pulls a creature it has grabbed into its grasping shadows. The target takes 3d8 negative damage and 1d8 persistent negative damage. Single Action Cowl of Shadow Shifting shadows cover the statue. If the statue is dealt at least 15 positive damage or brought within an area of magical light, the shadows recede, and the statue can't make darkness mote attacks or use Clinging Gloom. ",
+ "trait": [
+  "Construct",
+  "Earth",
+  "Mindless",
+  "Rare",
+  "Shadow",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Earth](/Traits.aspx?ID=55), [Mindless](/Traits.aspx?ID=108), [Rare](/Traits.aspx?ID=137), [Shadow](/Traits.aspx?ID=143)",
+ "trait_raw": [
+  "Construct",
+  "Earth",
+  "Mindless",
+  "Rare",
+  "Shadow"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2095",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 0
+}

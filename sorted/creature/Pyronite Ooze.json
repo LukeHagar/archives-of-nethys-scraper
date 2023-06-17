@@ -1,0 +1,105 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 7,
+ "creature_ability": [
+  "Constant Explosions",
+  "Rejoin",
+  "Split",
+  "Exploding Split"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": -5,
+ "exclude_from_search": false,
+ "fortitude_save": 24,
+ "hp": 350,
+ "hp_raw": "350",
+ "id": "creature-1983",
+ "immunity": [
+  "bludgeoning",
+  "critical hits",
+  "fire",
+  "mental",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "bludgeoning, critical hits, [fire](/Traits.aspx?ID=72), [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ooze, Pyronite](/Monsters.aspx?ID=1983)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWith the discovery of the incredible gelatinous explosive called pyronite, it was perhaps inevitable alchemical monstrosities made of the stuff would soon follow. So-called pyronite oozes sometimes spontaneously manifest from stockpiles of pyronite or other powerful explosives, typically amid mana storms or when affected by powerful magic.\n\n Pyronite oozes have an extremely unstable life cycle and are defined by their ability to continuously explode and reform themselves. A pyronite ooze's violent explosions hinder observations, making it difficult to learn anything from the volatile jelly. To complicate matters further, pyronite oozes seem drawn to other unstable alchemical concoctions. Test subjects brought to the Spellscar Desert have been observed bathing themselves in pools of magic-polluted effluvia. Although they typically reform into a single entity after exploding, pyronite oozes bathed in chemicals sometimes remain apart after splitting, creating two independent oozes. Some speculate that an as yet unknown reagent must be essential for the oozes to reproduce on their own.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Pyronite Ooze](/Monsters.aspx?ID=1983)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 83</row>\n\n**Perception** +14; no vision, [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** -5\r\n\r\n**Con** +7\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +24 \r\n\r\n**Ref** +14 \r\n\r\n**Will** +19 \n\n</row>\r\n\r\n**HP** 350\n\n**Immunities**\r\nbludgeoning, critical hits, [fire](/Traits.aspx?ID=72), [mental](/Traits.aspx?ID=106), precision, [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Weaknesses**\r\n[cold](/Traits.aspx?ID=27) 15\r\n\r\n**Constant Explosions** ([aura](/Traits.aspx?ID=206), [fire](/Traits.aspx?ID=72)) 5 feet. 4d6 fire, DC 29 [basic](/Rules.aspx?ID=329) Reflex save. This aura can't cause other pyronite oozes to split.<br />**Rejoin** If two or more Medium pyronite oozes end their turn in adjacent spaces, they merge into a Large pyronite ooze, combining their current Hit Points.<br />**Split** When a Large pyronite ooze is hit by an attack that would deal bludgeoning or fire damage and it has 10 or more HP, it explodes, dealing 6d6 fire damage to creatures in a 10-foot radius (DC 29 [basic](/Rules.aspx?ID=329) Reflex save). This explosion can't cause other pyronite oozes to split. After exploding, the ooze splits into two Medium pyronite oozes, each with half the original's HP, which each fly through the air and land 15 feet from the original ooze in a random direction. If no space is unoccupied where the ooze would land, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +23 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+10 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nblast +21 ([Fire](/Traits.aspx?ID=72), [range increment 40 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d8+3 fire; this can't cause other pyronite oozes to split\n\n**Exploding Split** <actions string=\"Two Actions\" />  **Requirements** The pyronite ooze is Large; **Effect** The pyronite ooze explodes in a violent conflagration, dealing 3d6 fire and 3d6 bludgeoning damage to all creatures in a 30-foot radius (DC 29 [basic](/Rules.aspx?ID=329) Reflex save). This explosion can't cause other pyronite oozes to split. After exploding, the ooze splits into two Medium pyronite oozes (see above), but this splitting doesn't deal additional damage.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Unstable Hibernation</title>\r\n\r\nAfter crawling on the ceiling or into some other darkened corner, pyronite oozes sometimes go into a dormant state for days or months. While in this torpor, they become even more dangerous as unstable chemicals seep from the ooze and form into crystals on its surface. These crystals are highly explosive. The ooze's hibernation ends when a slight movement or small spark ignites the crystals, triggering its Exploding Split ability and dealing twice the usual amount of damage.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Pyronite Ooze",
+ "npc": false,
+ "perception": 14,
+ "rarity": "rare",
+ "reflex_save": 14,
+ "release_date": "2022-06-29",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 83</row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 350\r\n\r\n**AC** 19\r\n\r\n**Fort** +24\r\n\r\n**Ref** +14\r\n\r\n**Will** +19\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith the discovery of the incredible gelatinous explosive called pyronite, it was perhaps inevitable alchemical monstrosities made of the stuff would …\r\n</summary>",
+ "sense": "no vision,  tremorsense  (imprecise) 60 feet",
+ "sense_markdown": "no vision, [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +22"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +22",
+ "source": [
+  "Pathfinder #180: The Smoking Gun"
+ ],
+ "source_raw": [
+  "Pathfinder #180: The Smoking Gun pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 83</row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, climb 20 feet",
+ "speed_raw": "20 feet, climb 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Outlaws of Alkenstar",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "With the discovery of the incredible gelatinous explosive called pyronite, it was perhaps inevitable alchemical monstrosities made of the stuff would …",
+ "summary_markdown": "With the discovery of the incredible gelatinous explosive called pyronite, it was perhaps inevitable alchemical monstrosities made of the stuff would …",
+ "text": " Ooze, Pyronite With the discovery of the incredible gelatinous explosive called pyronite, it was perhaps inevitable alchemical monstrosities made of the stuff would soon follow. So-called pyronite oozes sometimes spontaneously manifest from stockpiles of pyronite or other powerful explosives, typically amid mana storms or when affected by powerful magic. Pyronite oozes have an extremely unstable life cycle and are defined by their ability to continuously explode and reform themselves. A pyronite ooze's violent explosions hinder observations, making it difficult to learn anything from the volatile jelly. To complicate matters further, pyronite oozes seem drawn to other unstable alchemical concoctions. Test subjects brought to the Spellscar Desert have been observed bathing themselves in pools of magic-polluted effluvia. Although they typically reform into a single entity after exploding, pyronite oozes bathed in chemicals sometimes remain apart after splitting, creating two independent oozes. Some speculate that an as yet unknown reagent must be essential for the oozes to reproduce on their own. Recall Knowledge - Ooze (Occultism): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Pyronite Ooze Source Pathfinder #180: The Smoking Gun pg. 83 Perception +14; no vision, tremorsense (imprecise) 60 feet Languages Skills Athletics +22 Str +7 Dex -5 Con +7 Int -5 Wis +0 Cha -5 --- AC 19 Fort +24 Ref +14 Will +19 HP 350 Immunities bludgeoning, critical hits, fire, mental, precision, unconscious, visual Weaknesses cold 15 Constant Explosions (aura, fire) 5 feet. 4d6 fire, DC 29 basic Reflex save. This aura can't cause other pyronite oozes to split. Rejoin If two or more Medium pyronite oozes end their turn in adjacent spaces, they merge into a Large pyronite ooze, combining their current Hit Points. Split When a Large pyronite ooze is hit by an attack that would deal bludgeoning or fire damage and it has 10 or more HP, it explodes, dealing 6d6 fire damage to creatures in a 10-foot radius (DC 29 basic Reflex save). This explosion can't cause other pyronite oozes to split. After exploding, the ooze splits into two Medium pyronite oozes, each with half the original's HP, which each fly through the air and land 15 feet from the original ooze in a random direction. If no space is unoccupied where the ooze would land, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push). --- Speed 20 feet, climb 20 feet Melee Single Action pseudopod +23 (reach 10 feet), Damage 3d10+10 bludgeoning Ranged Single Action blast +21 (Fire, range increment 40 feet), Damage 3d8+3 fire; this can't cause other pyronite oozes to split Exploding Split Two Actions Requirements The pyronite ooze is Large; Effect The pyronite ooze explodes in a violent conflagration, dealing 3d6 fire and 3d6 bludgeoning damage to all creatures in a 30-foot radius (DC 29 basic Reflex save). This explosion can't cause other pyronite oozes to split. After exploding, the ooze splits into two Medium pyronite oozes (see above), but this splitting doesn't deal additional damage. Unstable Hibernation After crawling on the ceiling or into some other darkened corner, pyronite oozes sometimes go into a dormant state for days or months. While in this torpor, they become even more dangerous as unstable chemicals seep from the ooze and form into crystals on its surface. These crystals are highly explosive. The ooze's hibernation ends when a slight movement or small spark ignites the crystals, triggering its Exploding Split ability and dealing twice the usual amount of damage. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "Rare",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1983",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold": 15
+ },
+ "weakness_markdown": "[cold](/Traits.aspx?ID=27) 15",
+ "weakness_raw": " cold  15",
+ "will_save": 19,
+ "wisdom": 0
+}

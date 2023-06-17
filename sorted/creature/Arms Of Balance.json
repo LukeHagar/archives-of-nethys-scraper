@@ -1,0 +1,102 @@
+{
+ "ac": 35,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Flurry of Blows",
+  "Breath of Energy Technique"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 300,
+ "hp_raw": "300",
+ "id": "creature-1487",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Goblin",
+  "Tien"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Tien](/Languages.aspx?ID=43)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Arms Of Balance](/NPCs.aspx?ID=1487)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nEach competitor on this team of elementalists has a unique special ability that only they can use; a fighter's ability is denoted by the individual's name in the traits parenthetical in the stat block below. Only that individual can use the ability (so, for instance, the Arms of Balance can't use Breath of the Volcano four times per round, since only Usvani knows that ability). Each fighter has a different rune on their _[handwraps of mighty blows](/Equipment.aspx?ID=441)_, allowing each to deal a different type of energy damage with their fist Strikes.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Arms Of Balance](/NPCs.aspx?ID=1487)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 33</row>\n\n**Perception** +27\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Tien](/Languages.aspx?ID=43)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +29, [Athletics](/Skills.aspx?ID=3) +30, [Performance](/Skills.aspx?ID=12) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[_bracers of armor II_](/Equipment.aspx?ID=416), _+2 [greater striking](/Equipment.aspx?ID=280) [handwraps of mighty blows](/Equipment.aspx?ID=441)_ (with [_corrosive_](/Equipment.aspx?ID=292), [_flaming_](/Equipment.aspx?ID=295), [_frost_](/Equipment.aspx?ID=296), or [_shock_](/Equipment.aspx?ID=303) rune)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 (37 vs. ranged attacks)\r\n\r\n**Fort** +27 \r\n\r\n**Ref** +27 \r\n\r\n**Will** +27 \n\n</row>\r\n\r\n**HP** 300\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 45 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +27 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 3d6+13 bludgeoning plus 1d6 acid, cold, electricity, or fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntornado lunge +27 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 3d8+13 bludgeoning plus 1d6 acid, cold, electricity, or fire plus [Improved Knockdown](/MonsterAbilities.aspx?ID=28)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nwind crash +27 ([Agile](/Traits.aspx?ID=170), [Nonlethal](/Traits.aspx?ID=188), [Propulsive](/Traits.aspx?ID=191), [range 30 feet](/Traits.aspx?ID=248), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 3d6+13 bludgeoning plus 1d6 acid, cold, electricity, or fire\r\n\r\n**Monk Ki Spells** DC 34,  2 Focus Points\r\n- **8th**\r\n[Wild Winds Stance](/Spells.aspx?ID=489), [Wind Jump](/Spells.aspx?ID=490)\r\n\r\n**Flurry of Blows** <actions string=\"Single Action\" /> ([Flourish](/Traits.aspx?ID=73)) The monk makes two Strikes with their fists. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses.\r\n\r\n**Breath of Energy Technique** <actions string=\"Two Actions\" />  The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds. <br />_Breath of the Glacier_ (Pravan Majinapti; cold) Pravan blows icy winds in a 30-foot cone, dealing 10d6 cold damage. Creatures in the area must attempt a DC 33 Reflex save as ice forms around them. The Speed penalty or [immobilized](/Conditions.aspx?ID=24) condition caused by this ability persist until a creature either Breaks Open the ice or [Escapes](/Actions.aspx?ID=79) (DC 37 in either case), or if the creature takes at least 30 fire damage. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature takes half damage and takes a –5- foot status penalty to its Speeds. <br />**Failure** The creature takes full damage and takes a –15-foot status penalty to its Speeds. <br />**Critical Failure** The creature takes double damage and is immobilized. <br />_Breath of the Volcano_ (Usvani; acid) Usvani exhales a miasma of acidic fumes in a 15-foot emanation. A creature that starts its turn in the area takes 12d6 acid damage and must attempt a DC 33 Fortitude save. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature takes half damage and is [sickened 1](/Conditions.aspx?ID=34). <br />**Failure** The creature takes full damage and is sickened 2. <br />**Critical Failure** The creature takes double damage and is sickened 3.<br />_Draw of the Aurora_ (Ranya Shibhatesh; electricity) Ranya looses four lightning bolts, electrifying creatures and magnetizing them closer to her. Four 60-foot lines of electricity stretch out from Ranya's space, one in each cardinal direction, dealing 4d12 electricity damage. Each creature in an affected area must attempt a DC 33 Reflex save. If this ability causes an [undetected](/Conditions.aspx?ID=39) creature to glow, that creature becomes [hidden](/Conditions.aspx?ID=22) instead to creatures that can see any part of its space (even if it is [invisible](/Conditions.aspx?ID=26) or [Sneaks](/Actions.aspx?ID=63)). <br />**Critical Success** The creature is unaffected. <br />**Success** The creature takes half damage, glows until the end of the monk's next turn, and is [pulled](/Rules.aspx?ID=451) 5 feet toward Ranya. <br />**Failure** The creature takes full damage, glows until the end of the monk's next turn, and is pulled 15 feet toward Ranya. <br />**Critical Failure** The creature takes double damage, glows for 1 minute, and is pulled 30 feet toward Ranya. <br />_Magma's Gasp_ (Jivati Rovat; fire) Jivati's breath ignites a fire in the spirit of each creature within 10 feet of Jivati, dealing 8d6 fire damage. Each creature in the area must attempt a DC 33 Will save. **Critical Success** The creature is unaffected. **Success** The creature takes half damage. **Failure** The creature takes full damage and 1d6 [persistent fire damage](/Conditions.aspx?ID=29) and loses 1 Focus Point. If it has no Focus Points, the creature instead loses a random prepared spell or spell slot from the highest level it has left (maximum 6th level). **Critical Failure** As failure, but the creature takes double damage and 2d6 persistent fire damage.\r\n\r\n</column>",
+ "name": "Arms Of Balance",
+ "npc": true,
+ "perception": 27,
+ "rarity": "uncommon",
+ "reflex_save": 27,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 33</row>\n\n<row gap=\"medium\">\r\n**HP** 300\r\n\r\n**AC** 35\r\n\r\n**Fort** +27\r\n\r\n**Ref** +27\r\n\r\n**Will** +27\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEach competitor on this team of elementalists has a unique special ability that only they can use; a fighter's ability is denoted by the individual's …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +29",
+  "Athletics +30",
+  "Performance +26"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +29, [Athletics](/Skills.aspx?ID=3) +30, [Performance](/Skills.aspx?ID=12) +26",
+ "source": [
+  "Pathfinder #167: Ready? Fight!"
+ ],
+ "source_raw": [
+  "Pathfinder #167: Ready? Fight! pg. 33"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 33</row>",
+ "speed": {
+  "land": 45,
+  "max": 45
+ },
+ "speed_markdown": "45 feet",
+ "speed_raw": "45 feet",
+ "spell": [
+  "Wild Winds Stance",
+  "Wind Jump"
+ ],
+ "spell_markdown": "[Wild Winds Stance](/Spells.aspx?ID=489), [Wind Jump](/Spells.aspx?ID=490)",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "summary": "Each competitor on this team of elementalists has a unique special ability that only they can use; a fighter's ability is denoted by the individual's …",
+ "summary_markdown": "Each competitor on this team of elementalists has a unique special ability that only they can use; a fighter's ability is denoted by the individual's …",
+ "text": " Arms Of Balance Each competitor on this team of elementalists has a unique special ability that only they can use; a fighter's ability is denoted by the individual's name in the traits parenthetical in the stat block below. Only that individual can use the ability (so, for instance, the Arms of Balance can't use Breath of the Volcano four times per round, since only Usvani knows that ability). Each fighter has a different rune on their handwraps of mighty blows , allowing each to deal a different type of energy damage with their fist Strikes. Recall Knowledge - Humanoid (Society): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Arms Of Balance Source Pathfinder #167: Ready? Fight! pg. 33 Perception +27 Languages Common, Goblin, Tien Skills Acrobatics +29, Athletics +30, Performance +26 Str +5 Dex +4 Con +4 Int +0 Wis +4 Cha +1 Items bracers of armor II , +2 greater striking handwraps of mighty blows (with corrosive , flaming , frost , or shock rune) --- AC 35 (37 vs. ranged attacks) Fort +27 Ref +27 Will +27 HP 300 --- Speed 45 feet Melee Single Action fist +27 (Agile, Magical, Unarmed), Damage 3d6+13 bludgeoning plus 1d6 acid, cold, electricity, or fire Melee Single Action tornado lunge +27 (Agile, reach 10 feet, Unarmed), Damage 3d8+13 bludgeoning plus 1d6 acid, cold, electricity, or fire plus Improved Knockdown Ranged Single Action wind crash +27 (Agile, Nonlethal, Propulsive, range 30 feet, Unarmed), Damage 3d6+13 bludgeoning plus 1d6 acid, cold, electricity, or fire Monk Ki Spells DC 34, 2 Focus Points - 8th Wild Winds Stance, Wind Jump Flurry of Blows Single Action (Flourish) The monk makes two Strikes with their fists. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Breath of Energy Technique Two Actions The monk lets loose a powerful breath of air, whose effect depends on the type of energy to which the monk is attuned. The monk can't use this ability again for 1d4 rounds. Breath of the Glacier (Pravan Majinapti; cold) Pravan blows icy winds in a 30-foot cone, dealing 10d6 cold damage. Creatures in the area must attempt a DC 33 Reflex save as ice forms around them. The Speed penalty or immobilized condition caused by this ability persist until a creature either Breaks Open the ice or Escapes (DC 37 in either case), or if the creature takes at least 30 fire damage. Critical Success The creature is unaffected. Success The creature takes half damage and takes a –5- foot status penalty to its Speeds. Failure The creature takes full damage and takes a –15-foot status penalty to its Speeds. Critical Failure The creature takes double damage and is immobilized. Breath of the Volcano (Usvani; acid) Usvani exhales a miasma of acidic fumes in a 15-foot emanation. A creature that starts its turn in the area takes 12d6 acid damage and must attempt a DC 33 Fortitude save. Critical Success The creature is unaffected. Success The creature takes half damage and is sickened 1. Failure The creature takes full damage and is sickened 2. Critical Failure The creature takes double damage and is sickened 3. Draw of the Aurora (Ranya Shibhatesh; electricity) Ranya looses four lightning bolts, electrifying creatures and magnetizing them closer to her. Four 60-foot lines of electricity stretch out from Ranya's space, one in each cardinal direction, dealing 4d12 electricity damage. Each creature in an affected area must attempt a DC 33 Reflex save. If this ability causes an undetected creature to glow, that creature becomes hidden instead to creatures that can see any part of its space (even if it is invisible or Sneaks). Critical Success The creature is unaffected. Success The creature takes half damage, glows until the end of the monk's next turn, and is pulled 5 feet toward Ranya. Failure The creature takes full damage, glows until the end of the monk's next turn, and is pulled 15 feet toward Ranya. Critical Failure The creature takes double damage, glows for 1 minute, and is pulled 30 feet toward Ranya. Magma's Gasp (Jivati Rovat; fire) Jivati's breath ignites a fire in the spirit of each creature within 10 feet of Jivati, dealing 8d6 fire damage. Each creature in the area must attempt a DC 33 Will save. Critical Success The creature is unaffected. Success The creature takes half damage. Failure The creature takes full damage and 1d6 persistent fire damage and loses 1 Focus Point. If it has no Focus Points, the creature instead loses a random prepared spell or spell slot from the highest level it has left (maximum 6th level). Critical Failure As failure, but the creature takes double damage and 2d6 persistent fire damage. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Uncommon",
+  "LN",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=1487",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 27,
+ "wisdom": 4
+}

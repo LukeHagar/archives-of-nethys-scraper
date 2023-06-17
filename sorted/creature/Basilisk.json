@@ -1,0 +1,89 @@
+{
+ "ac": 22,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 5,
+ "creature_ability": [
+  "Petrifying Glance",
+  "Petrifying Gaze"
+ ],
+ "creature_family": "Basilisk",
+ "creature_family_markdown": "[Basilisk](/MonsterFamilies.aspx?ID=124)",
+ "dexterity": -1,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 75,
+ "hp_raw": "75",
+ "id": "creature-44",
+ "image": [
+  "/Images/Monsters/Basilisk.png"
+ ],
+ "intelligence": -3,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Basilisk](/Monsters.aspx?ID=44)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe basilisk is an eight-legged reptile with a nasty disposition and the ability to turn creatures to stone with its gaze. Folklore holds that, much like for the cockatrice, the first basilisks hatched from leathery eggs laid by snakes and incubated by roosters, but little in the basilisk’s physiology lends any credence to this claim.\n\n A basilisk prefers to eat petrified flesh. Once a victim has been turned to stone, the basilisk crunches the fossilized corpse with its powerful jaws and lets its potent stomach acids do the rest. This digestive process is extremely slow and inefficient, causing the basilisk to move so lethargically that it appears as if in mid-petrification itself. This has even led to the saying “as slow as a well-fed basilisk.” Certainly basilisks are well-known for their slow gait and slothful nature, but a predator that can turn its prey to stone with a glance hardly has much need for speed.\n\n An adult basilisk is 13 feet long from head to tail and weighs roughly 300 pounds. These reptiles make hissing sounds when moving about that turns to a guttural gurgle when they’re agitated. Though they are normally solitary creatures that come together only to mate and lay eggs, there are periodic reports of regions being infested with unusual numbers of basilisks. What causes these unusual congregations of basilisk activity is unknown.\n\n For unknown reasons, weasels and ferrets are immune to the basilisk’s stare, and they sometimes sneak into basilisk lairs while a parent is hunting in order to consume eggs or freshly hatched young. Some legends suggest that a basilisk’s blood can transmute common stones into other material, but this is likely a case of witnesses misinterpreting the magical restoration of previously petrified creatures or body parts.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Basilisk.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Basilisk](/Monsters.aspx?ID=44)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 38</row>\n\n**Perception** +11; darkvision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** -1\r\n\r\n**Con** +5\r\n\r\n**Int** -3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 75\n\n**Petrifying Glance** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [aura](/Traits.aspx?ID=206), [transmutation](/Traits.aspx?ID=157), [visual](/Traits.aspx?ID=163)); **Trigger** A creature within 30 feet that the basilisk can see starts its turn. **Effect** The target must attempt a DC 20 Fortitude save. If it fails, it’s slow 1 for 1 minute as its body slowly stiffens.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +15,\r\n**Damage** 2d8+4 piercing\n\n**Petrifying Gaze** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Concentrate](/Traits.aspx?ID=32), [Incapacitation](/Traits.aspx?ID=93), [Transmutation](/Traits.aspx?ID=157), [Visual](/Traits.aspx?ID=163)) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes [slowed 1](/Conditions.aspx?ID=35). If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be petrified permanently.<br />A creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Basilisk Lairs</title>\r\n\r\nBasilisks can be found in almost any terrestrial environment, including forests, hills, mountains, plains, and swamps. They tend to dwell in caves or sheltered areas, and their hides often bear complexions that allow them to more easily blend with their environments. As a result, forest-dwelling basilisks may have scales of a verdant emerald color to match surrounding vegetation, while a basilisk that lives in the desert may be a sandy brown or shale color.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-124\" />",
+ "name": "Basilisk",
+ "npc": false,
+ "perception": 11,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 38</row>\r\n\r\n**Creature Family** [Basilisk](/MonsterFamilies.aspx?ID=124)\r\n\r\n<row gap=\"medium\">\r\n**HP** 75\r\n\r\n**AC** 22\r\n\r\n**Fort** +14\r\n\r\n**Ref** +8\r\n\r\n**Will** +11\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe basilisk is an eight-legged reptile with a nasty disposition and the ability to turn creatures to stone with its gaze. Folklore holds that, much …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 38"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 38</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The basilisk is an eight-legged reptile with a nasty disposition and the ability to turn creatures to stone with its gaze. Folklore holds that, much …",
+ "summary_markdown": "The basilisk is an eight-legged reptile with a nasty disposition and the ability to turn creatures to stone with its gaze. Folklore holds that, much …",
+ "text": " Basilisk The basilisk is an eight-legged reptile with a nasty disposition and the ability to turn creatures to stone with its gaze. Folklore holds that, much like for the cockatrice, the first basilisks hatched from leathery eggs laid by snakes and incubated by roosters, but little in the basilisk’s physiology lends any credence to this claim. A basilisk prefers to eat petrified flesh. Once a victim has been turned to stone, the basilisk crunches the fossilized corpse with its powerful jaws and lets its potent stomach acids do the rest. This digestive process is extremely slow and inefficient, causing the basilisk to move so lethargically that it appears as if in mid-petrification itself. This has even led to the saying “as slow as a well-fed basilisk.” Certainly basilisks are well-known for their slow gait and slothful nature, but a predator that can turn its prey to stone with a glance hardly has much need for speed. An adult basilisk is 13 feet long from head to tail and weighs roughly 300 pounds. These reptiles make hissing sounds when moving about that turns to a guttural gurgle when they’re agitated. Though they are normally solitary creatures that come together only to mate and lay eggs, there are periodic reports of regions being infested with unusual numbers of basilisks. What causes these unusual congregations of basilisk activity is unknown. For unknown reasons, weasels and ferrets are immune to the basilisk’s stare, and they sometimes sneak into basilisk lairs while a parent is hunting in order to consume eggs or freshly hatched young. Some legends suggest that a basilisk’s blood can transmute common stones into other material, but this is likely a case of witnesses misinterpreting the magical restoration of previously petrified creatures or body parts. Recall Knowledge - Beast (Arcana, Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Basilisk Source Bestiary pg. 38 Perception +11; darkvision Languages Skills Athletics +13, Stealth +8 Str +4 Dex -1 Con +5 Int -3 Wis +2 Cha +1 --- AC 22 Fort +14 Ref +8 Will +11 HP 75 Petrifying Glance Reaction (arcane, aura, transmutation, visual); Trigger A creature within 30 feet that the basilisk can see starts its turn. Effect The target must attempt a DC 20 Fortitude save. If it fails, it’s slow 1 for 1 minute as its body slowly stiffens. --- Speed 20 feet Melee Single Action jaws +15, Damage 2d8+4 piercing Petrifying Gaze Two Actions (Arcane, Concentrate, Incapacitation, Transmutation, Visual) The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude save. If it fails and has not already been slowed by Petrifying Glance or this ability, it becomes slowed 1. If the creature was already slowed by this ability or Petrifying Glance, a failed save causes the creature to be petrified permanently. A creature petrified in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner. Basilisk Lairs Basilisks can be found in almost any terrestrial environment, including forests, hills, mountains, plains, and swamps. They tend to dwell in caves or sheltered areas, and their hides often bear complexions that allow them to more easily blend with their environments. As a result, forest-dwelling basilisks may have scales of a verdant emerald color to match surrounding vegetation, while a basilisk that lives in the desert may be a sandy brown or shale color. ",
+ "trait": [
+  "Beast",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=44",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 2
+}

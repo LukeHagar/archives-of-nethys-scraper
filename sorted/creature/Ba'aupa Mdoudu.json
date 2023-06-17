@@ -1,0 +1,102 @@
+{
+ "ac": 33,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 5,
+ "creature_ability": [
+  "Skeleton Sense",
+  "Reactive",
+  "Slime Squirt",
+  "Efiect",
+  "Caustic Acid",
+  "Caustic Rain",
+  "Stone Tunneler"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 26,
+ "hp": 245,
+ "hp_raw": "245",
+ "id": "creature-1661",
+ "image": [
+  "/Images/Monsters/BaaupaMdoudu.png"
+ ],
+ "immunity": [
+  "acid"
+ ],
+ "immunity_markdown": "[acid](/Traits.aspx?ID=3)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ba'aupa Mdoudu](/Monsters.aspx?ID=1661)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBa'aupa mdoudus are solitary, bone-eating creatures that prefer to feed on remains found on battlefields or within necropolises—the more ancient, the better. When unable to locate buried remains, ba'aupa mdoudus are drawn reluctantly to the surface in search of bones from the living; living bones can sustain a ba'aupa mdoudu, but the flavor (particularly the temperature of warm bones fresh from the flesh) unsettles them a bit.\n\n Ba'aupa mdoudus produce a slimy acid that liquefies minerals, allowing them to burrow though even solid stone and strip natural deposits of calcium from nearby rocks. In doing so, they leave smooth tunnels in their wake. When provoked, ba'aupa mdoudus secrete this acid through numerous pores along their length as a defensive response and accelerate this secretion under extreme circumstances.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 31\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 29\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 26\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/BaaupaMdoudu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Ba'aupa Mdoudu](/Monsters.aspx?ID=1661)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 80</row>\n\n**Perception** +23; [darkvision](/MonsterAbilities.aspx?ID=12), skeleton sense 60 feet, tremorsense (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +27, [Stealth](/Skills.aspx?ID=15) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** -4\r\n\r\n**Wis** +4\r\n\r\n**Cha** -2\r\n</row>\r\n\r\n**Skeleton Sense** A ba'aupa mdoudu can sense the presence of bones and skeletons within 60 feet; this is a precise sense when detecting dead bones but an imprecise one when detecting living bones.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +26 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 245\n\n**Immunities**\r\n[acid](/Traits.aspx?ID=3)\r\n\r\n**Resistances**\r\nbludgeoning 15\n\n**Reactive** A ba'aupa mdoudu gains an additional reaction at the start of its turn but can use this reaction only to Slime Squirt.<br />**Slime Squirt** <actions string=\"Reaction\" /> **Trigger** A creature infiicts slashing or piercing damage on the ba'aupa mdoudu with a melee Strike; **Efiect** The attacking creature takes 2d10 acid damage.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +27 ([deadly d12](/Traits.aspx?ID=174)),\r\n**Damage** 3d8+14 piercing plus 1d10 [persistent acid](/Conditions.aspx?ID=29)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspit +23 ([Acid](/Traits.aspx?ID=3), [range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 6d6 acid\n\n**Caustic Acid**   Whenever a creature takes acid damage from any of a ba'aupa mdoudu's abilities or Strikes, it must succeed at a DC 30 Fortitude save or become [drained 1](/Conditions.aspx?ID=10) (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4.\r\n\r\n**Caustic Rain** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Primal](/Traits.aspx?ID=134)) The ba'aupa mdoudu spews copious amounts of acid into the air, creating a cascading rain to fall in a 10- foot radius around itself. All creatures in the area take 14d6 acid damage (DC 33 [basic](/Rules.aspx?ID=329) Reflex save). The ba'aupa mdoudu can't use Caustic Rain again for 1d4 rounds.\r\n\r\n**Stone Tunneler**   A ba'aupa mdoudu can leave a tunnel when it burrows through earth or stone, and it usually does.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Inorganic Treasure</title>\r\n\r\nThe caustic acid of the ba'aupa mdoudu is extremely corrosive to organic material and stone but has minimal effect on metal and gems. Tombs raided by the ba'aupa mdoudu are thus typically devoid of any remains or organic materials; however, armor, weapons, and other inorganic artifacts are normally found intact.\r\n</aside>",
+ "name": "Ba'aupa Mdoudu",
+ "npc": false,
+ "perception": 23,
+ "rarity": "common",
+ "reflex_save": 21,
+ "release_date": "2021-10-13",
+ "resistance": {
+  "bludgeoning": 15
+ },
+ "resistance_markdown": "bludgeoning 15",
+ "resistance_raw": "bludgeoning 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 80</row>\n\n<row gap=\"medium\">\r\n**HP** 245\r\n\r\n**AC** 33\r\n\r\n**Fort** +26\r\n\r\n**Ref** +21\r\n\r\n**Will** +23\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBa'aupa mdoudus are solitary, bone-eating creatures that prefer to feed on remains found on battlefields or within necropolises—the more ancient, the …\r\n</summary>",
+ "sense": " darkvision , skeleton sense 60 feet, tremorsense (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), skeleton sense 60 feet, tremorsense (imprecise) 30 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +27",
+  "Stealth +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +27, [Stealth](/Skills.aspx?ID=15) +25",
+ "source": [
+  "Pathfinder #172: Secrets of the Temple City"
+ ],
+ "source_raw": [
+  "Pathfinder #172: Secrets of the Temple City pg. 80"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 80</row>",
+ "speed": {
+  "burrow": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 20 feet",
+ "speed_raw": "30 feet, burrow 20 feet",
+ "spell_markdown": "",
+ "stealth": "25",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Ba'aupa mdoudus are solitary, bone-eating creatures that prefer to feed on remains found on battlefields or within necropolises—the more ancient, the …",
+ "summary_markdown": "Ba'aupa mdoudus are solitary, bone-eating creatures that prefer to feed on remains found on battlefields or within necropolises—the more ancient, the …",
+ "text": " Ba'aupa Mdoudu Ba'aupa mdoudus are solitary, bone-eating creatures that prefer to feed on remains found on battlefields or within necropolises—the more ancient, the better. When unable to locate buried remains, ba'aupa mdoudus are drawn reluctantly to the surface in search of bones from the living; living bones can sustain a ba'aupa mdoudu, but the flavor (particularly the temperature of warm bones fresh from the flesh) unsettles them a bit. Ba'aupa mdoudus produce a slimy acid that liquefies minerals, allowing them to burrow though even solid stone and strip natural deposits of calcium from nearby rocks. In doing so, they leave smooth tunnels in their wake. When provoked, ba'aupa mdoudus secrete this acid through numerous pores along their length as a defensive response and accelerate this secretion under extreme circumstances. Recall Knowledge - Beast (Arcana, Nature): DC 31 Unspecific Lore : DC 29 Specific Lore : DC 26 Ba'aupa Mdoudu Source Pathfinder #172: Secrets of the Temple City pg. 80 Perception +23; darkvision, skeleton sense 60 feet, tremorsense (imprecise) 30 feet Languages Skills Athletics +27, Stealth +25 Str +8 Dex +4 Con +5 Int -4 Wis +4 Cha -2 Skeleton Sense A ba'aupa mdoudu can sense the presence of bones and skeletons within 60 feet; this is a precise sense when detecting dead bones but an imprecise one when detecting living bones. --- AC 33 Fort +26 Ref +21 Will +23 HP 245 Immunities acid Resistances bludgeoning 15 Reactive A ba'aupa mdoudu gains an additional reaction at the start of its turn but can use this reaction only to Slime Squirt. Slime Squirt Reaction Trigger A creature infiicts slashing or piercing damage on the ba'aupa mdoudu with a melee Strike; Efiect The attacking creature takes 2d10 acid damage. --- Speed 30 feet, burrow 20 feet Melee Single Action jaws +27 (deadly d12), Damage 3d8+14 piercing plus 1d10 persistent acid Ranged Single Action spit +23 (Acid, range increment 60 feet), Damage 6d6 acid Caustic Acid Whenever a creature takes acid damage from any of a ba'aupa mdoudu's abilities or Strikes, it must succeed at a DC 30 Fortitude save or become drained 1 (drained 2 on a critical failure). On each subsequent failure, the drained condition value increases by 1 (or by 2 on a critical failure), to a maximum of drained 4. Caustic Rain Two Actions (Evocation, Primal) The ba'aupa mdoudu spews copious amounts of acid into the air, creating a cascading rain to fall in a 10- foot radius around itself. All creatures in the area take 14d6 acid damage (DC 33 basic Reflex save). The ba'aupa mdoudu can't use Caustic Rain again for 1d4 rounds. Stone Tunneler A ba'aupa mdoudu can leave a tunnel when it burrows through earth or stone, and it usually does. Inorganic Treasure The caustic acid of the ba'aupa mdoudu is extremely corrosive to organic material and stone but has minimal effect on metal and gems. Tombs raided by the ba'aupa mdoudu are thus typically devoid of any remains or organic materials; however, armor, weapons, and other inorganic artifacts are normally found intact. ",
+ "trait": [
+  "Beast",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1661",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 23,
+ "wisdom": 4
+}

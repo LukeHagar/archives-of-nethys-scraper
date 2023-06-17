@@ -1,0 +1,117 @@
+{
+ "ac": 32,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 5,
+ "creature_ability": [
+  "Wind-Up",
+  "Vulnerable to Shatter",
+  "Spell Reflection",
+  "Dual Tusks",
+  "Grabbing Trunk",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 245,
+ "hp_raw": "245",
+ "id": "creature-1991",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poisoned",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poisoned](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"\">[Glass Elephant](/Monsters.aspx?ID=1991)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 40\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 38\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 35\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Glass Elephant](/Monsters.aspx?ID=1991)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 50</row>\n\n**Perception** +22; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +0\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +3\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**[Wind-Up](/MonsterFamilies.aspx?ID=223)** 24 hours, DC 29, standby\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 245\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poisoned](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nphysical 10 (except adamantine or bludgeoning)\r\n\r\n**Weaknesses**\r\n[sonic](/Traits.aspx?ID=147) 15\r\n\r\n**Vulnerable to Shatter** The glass elephant is affected by the [_shatter_](/Spells.aspx?ID=279) spell as though it were an unattended object.<br />**Spell Reflection** <actions string=\"Reaction\" /> ([abjuration](/Traits.aspx?ID=2), [arcane](/Traits.aspx?ID=11)) **Trigger** The glass elephant is targeted by a spell; **Effect** The elephant positions its reflective magical surfaces to turn the spell back on the caster. It tries to [counteract](/Rules.aspx?ID=371) the spell, making an [Athletics](/Skills.aspx?ID=3) check for its counteract check. If it successfully counteracts the spell, the effect is turned back on the caster.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 45 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntusk +21 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+15 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntrunk +21 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** grabbing trunk\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfoot +21 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+15 bludgeoning\n\n**Dual Tusks** <actions string=\"Single Action\" />  The glass elephant makes two tusk Strikes, each against a different creature. This counts as one attack for the elephant's multiple attack penalty, and the penalty doesn't increase until after both attacks.\r\n\r\n**Grabbing Trunk**   A Medium or smaller creature hit by the glass elephant's trunk is [grabbed](/Conditions.aspx?ID=20). If the elephant moves, it can bring the grabbed creature along with it.\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Large or smaller, foot, DC 32\r\n\r\n</column>",
+ "name": "Glass Elephant",
+ "npc": false,
+ "perception": 22,
+ "rarity": "unique",
+ "reflex_save": 19,
+ "release_date": "2022-06-29",
+ "resistance": {
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10 (except adamantine or bludgeoning)",
+ "resistance_raw": "physical 10 (except adamantine or bludgeoning)",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 50</row>\n\n<row gap=\"medium\">\r\n**HP** 245\r\n\r\n**AC** 32\r\n\r\n**Fort** +25\r\n\r\n**Ref** +19\r\n\r\n**Will** +17\r\n\r\n**Perception** +22\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25",
+ "source": [
+  "Pathfinder #180: The Smoking Gun"
+ ],
+ "source_raw": [
+  "Pathfinder #180: The Smoking Gun pg. 50"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 50</row>",
+ "speed": {
+  "land": 45,
+  "max": 45
+ },
+ "speed_markdown": "45 feet",
+ "speed_raw": "45 feet",
+ "spell_markdown": "",
+ "spoilers": "Outlaws of Alkenstar",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Glass Elephant Recall Knowledge - Construct (Arcana, Crafting): DC 40 Unspecific Lore : DC 38 Specific Lore : DC 35 Glass Elephant Source Pathfinder #180: The Smoking Gun pg. 50 Perception +22; darkvision Languages Skills Athletics +25 Str +8 Dex +0 Con +5 Int -5 Wis +3 Cha -5 Wind-Up 24 hours, DC 29, standby --- AC 32 Fort +25 Ref +19 Will +17 HP 245 Immunities death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poisoned, sickened, unconscious Resistances physical 10 (except adamantine or bludgeoning) Weaknesses sonic 15 Vulnerable to Shatter The glass elephant is affected by the shatter spell as though it were an unattended object. Spell Reflection Reaction (abjuration, arcane) Trigger The glass elephant is targeted by a spell; Effect The elephant positions its reflective magical surfaces to turn the spell back on the caster. It tries to counteract the spell, making an Athletics check for its counteract check. If it successfully counteracts the spell, the effect is turned back on the caster. --- Speed 45 feet Melee Single Action tusk +21 (reach 15 feet), Damage 3d8+15 piercing Melee Single Action trunk +21 (reach 15 feet), Damage grabbing trunk Melee Single Action foot +21 (reach 10 feet), Damage 3d10+15 bludgeoning Dual Tusks Single Action The glass elephant makes two tusk Strikes, each against a different creature. This counts as one attack for the elephant's multiple attack penalty, and the penalty doesn't increase until after both attacks. Grabbing Trunk A Medium or smaller creature hit by the glass elephant's trunk is grabbed. If the elephant moves, it can bring the grabbed creature along with it. Trample Three Actions Large or smaller, foot, DC 32 ",
+ "trait": [
+  "Clockwork",
+  "Construct",
+  "Mindless",
+  "Unique",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Clockwork](/Traits.aspx?ID=331), [Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Clockwork",
+  "Construct",
+  "Mindless",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1991",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "sonic": 15
+ },
+ "weakness_markdown": "[sonic](/Traits.aspx?ID=147) 15",
+ "weakness_raw": " sonic  15",
+ "will_save": 17,
+ "wisdom": 3
+}

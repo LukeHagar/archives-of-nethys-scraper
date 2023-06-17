@@ -1,0 +1,103 @@
+{
+ "ac": 27,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "Echolocation",
+  "Destructive Harmonics",
+  "Painful Harmonics",
+  "Shattering Harmonics"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 135,
+ "hp_raw": "135",
+ "id": "creature-605",
+ "image": [
+  "/Images/Monsters/Destrachan.png"
+ ],
+ "immunity": [
+  "blinded",
+  "visual"
+ ],
+ "immunity_markdown": "[blinded](/Conditions.aspx?ID=1), [visual](/Traits.aspx?ID=163)",
+ "intelligence": 3,
+ "language": [
+  "Destrachan",
+  "Undercommon",
+  "can speak only Destrachan"
+ ],
+ "language_markdown": "[Destrachan](/Languages.aspx?ID=57), [Undercommon](/Languages.aspx?ID=11); can speak only Destrachan",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Destrachan](/Monsters.aspx?ID=605)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis underground reptilian horror walks on two powerful hind legs. Its forelimbs are armed with sharp curving claws, and its toothy, eyeless, tubular head has three hypersensitive frilled ears that turn toward any sound made in its vicinity. This cruel monster's true weapon, however, is an amplified version of the sonic cry that it uses to navigate, communicate, and hunt. It communicates with others of its kind through a complex series of clicks, shrieks, and whistles, but it is intelligent enough to understand other languages. Most destrachans understand at least one other language—usually Undercommon—and can often be reasoned with.\n\nAn obligate carnivore, the destrachan relishes fresh meat but won't hesitate to make a meal of carrion it finds in its path. When traveling in packs, the creatures take great delight in stalking travelers through miles of tunnels before attacking and subduing them, then devouring them alive.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Destrachan.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Destrachan](/Monsters.aspx?ID=605)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 71 <sup>2.0</sup></row>\n\n**Perception** +20; echolocation 120 feet, no vision\r\n\r\n**Languages**\r\n[Destrachan](/Languages.aspx?ID=57), [Undercommon](/Languages.aspx?ID=11); can speak only Destrachan\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +15, [Survival](/Skills.aspx?ID=16) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +3\r\n\r\n**Wis** +6\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Echolocation** A destrachan can use its hearing as a [precise sense](/Rules.aspx?ID=411) at the listed range.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +18 \r\n\r\n+4 status bonus to all saves vs. sonic\r\n</row>\r\n\r\n**HP** 135\n\n**Immunities**\r\n[blinded](/Conditions.aspx?ID=1), [visual](/Traits.aspx?ID=163)\r\n\r\n**Resistances**\r\nsonic 15\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +20,\r\n**Damage** 2d8+10 piercing plus 1d8 sonic\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+10 slashing\n\n**Destructive Harmonics** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Evocation](/Traits.aspx?ID=65), [Occult](/Traits.aspx?ID=120), [Sonic](/Traits.aspx?ID=147)) The destrachan emits a harsh sonic cry that deals 9d6 sonic damage (DC 26 basic Reflex save) in either a 60-foot cone or a 30-foot burst. It can't use Destructive Harmonics again for 1d4 rounds.\r\n\r\n**Painful Harmonics** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Evocation](/Traits.aspx?ID=65), [Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120)) The destrachan emits a sonic cry in either a 60-foot cone or a 30-foot burst. This discordant ululation resonates along the nerves and bones of living creatures in the area, manifesting as waves of incapacitating pain washing over the victims. Each living creature in the area must attempt a DC 26 Fortitude save. The destrachan can't use Painful Harmonics again for 1d4 rounds. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature is [sickened 1](/Conditions.aspx?ID=34) for 1 round. <br />**Failure** The creature is [deafened](/Conditions.aspx?ID=8) for 3 rounds and [stunned 2](/Conditions.aspx?ID=36). <br />**Critical Failure** The creature is deafened for 1 minute and stunned 3.\r\n\r\n**Shattering Harmonics** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Occult](/Traits.aspx?ID=120), [Sonic](/Traits.aspx?ID=147)) The destrachan focuses its harmonics against a single item within 60 feet that is made of crystal, metal, stone, or wood. The target object takes 7d8 sonic damage. If the item is attended, its bearer can attempt a DC 26 basic Reflex save for the item. The destrachan can't use Shattering Harmonics again for 1d4 rounds.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Destrachan Language</title>\r\n\r\nThe [Destrachan](/Languages.aspx?ID=57) language can be learned by other creatures, but without a destrachan's unique vocal organs, non-destrachans can convey only basic notions and concepts with it. In most cases, it's better to speak [Undercommon](/Languages.aspx?ID=11) to a destrachan than attempt to use its own language.\r\n</aside>",
+ "name": "Destrachan",
+ "npc": false,
+ "perception": 20,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "sonic": 15
+ },
+ "resistance_markdown": "sonic 15",
+ "resistance_raw": "sonic 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 71 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 135\r\n\r\n**AC** 27\r\n\r\n**Fort** +16\r\n\r\n**Ref** +13\r\n\r\n**Will** +18\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis underground reptilian horror walks on two powerful hind legs. Its forelimbs are armed with sharp curving claws, and its toothy, eyeless, tubular …\r\n</summary>",
+ "sense": "echolocation 120 feet, no vision",
+ "sense_markdown": "echolocation 120 feet, no vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +18",
+  "Stealth +15",
+  "Survival +18"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +18, [Stealth](/Skills.aspx?ID=15) +15, [Survival](/Skills.aspx?ID=16) +18",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 71"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 71 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "15",
+ "strength": 6,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "This underground reptilian horror walks on two powerful hind legs. Its forelimbs are armed with sharp curving claws, and its toothy, eyeless, tubular …",
+ "summary_markdown": "This underground reptilian horror walks on two powerful hind legs. Its forelimbs are armed with sharp curving claws, and its toothy, eyeless, tubular …",
+ "text": " Destrachan This underground reptilian horror walks on two powerful hind legs. Its forelimbs are armed with sharp curving claws, and its toothy, eyeless, tubular head has three hypersensitive frilled ears that turn toward any sound made in its vicinity. This cruel monster's true weapon, however, is an amplified version of the sonic cry that it uses to navigate, communicate, and hunt. It communicates with others of its kind through a complex series of clicks, shrieks, and whistles, but it is intelligent enough to understand other languages. Most destrachans understand at least one other language—usually Undercommon—and can often be reasoned with. An obligate carnivore, the destrachan relishes fresh meat but won't hesitate to make a meal of carrion it finds in its path. When traveling in packs, the creatures take great delight in stalking travelers through miles of tunnels before attacking and subduing them, then devouring them alive. Recall Knowledge - Aberration (Occultism): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Destrachan Source Bestiary 2 pg. 71 2.0 Perception +20; echolocation 120 feet, no vision Languages Destrachan, Undercommon; can speak only Destrachan Skills Athletics +18, Stealth +15, Survival +18 Str +6 Dex +3 Con +4 Int +3 Wis +6 Cha +3 Echolocation A destrachan can use its hearing as a precise sense at the listed range. --- AC 27 Fort +16 Ref +13 Will +18 +4 status bonus to all saves vs. sonic HP 135 Immunities blinded, visual Resistances sonic 15 --- Speed 25 feet Melee Single Action jaws +20, Damage 2d8+10 piercing plus 1d8 sonic Melee Single Action claw +20 (Agile), Damage 2d8+10 slashing Destructive Harmonics Two Actions (Auditory, Evocation, Occult, Sonic) The destrachan emits a harsh sonic cry that deals 9d6 sonic damage (DC 26 basic Reflex save) in either a 60-foot cone or a 30-foot burst. It can't use Destructive Harmonics again for 1d4 rounds. Painful Harmonics Two Actions (Auditory, Evocation, Incapacitation, Occult) The destrachan emits a sonic cry in either a 60-foot cone or a 30-foot burst. This discordant ululation resonates along the nerves and bones of living creatures in the area, manifesting as waves of incapacitating pain washing over the victims. Each living creature in the area must attempt a DC 26 Fortitude save. The destrachan can't use Painful Harmonics again for 1d4 rounds. Critical Success The creature is unaffected. Success The creature is sickened 1 for 1 round. Failure The creature is deafened for 3 rounds and stunned 2. Critical Failure The creature is deafened for 1 minute and stunned 3. Shattering Harmonics Two Actions (Evocation, Occult, Sonic) The destrachan focuses its harmonics against a single item within 60 feet that is made of crystal, metal, stone, or wood. The target object takes 7d8 sonic damage. If the item is attended, its bearer can attempt a DC 26 basic Reflex save for the item. The destrachan can't use Shattering Harmonics again for 1d4 rounds. Destrachan Language The Destrachan language can be learned by other creatures, but without a destrachan's unique vocal organs, non-destrachans can convey only basic notions and concepts with it. In most cases, it's better to speak Undercommon to a destrachan than attempt to use its own language. ",
+ "trait": [
+  "Aberration",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=605",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 18,
+ "wisdom": 6
+}

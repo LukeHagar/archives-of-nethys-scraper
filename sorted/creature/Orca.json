@@ -1,0 +1,91 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 5,
+ "creature_ability": [
+  "Aquatic Echolocation",
+  "Deep Breath",
+  "Aquatic Ambush",
+  "Breach"
+ ],
+ "creature_family": "Dolphin",
+ "creature_family_markdown": "[Dolphin](/MonsterFamilies.aspx?ID=131)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 75,
+ "hp_raw": "75",
+ "id": "creature-619",
+ "image": [
+  "/Images/Monsters/Dolphin_Orca.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Orca](/Monsters.aspx?ID=619)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhile many know orcas as “killer whales,” they are actually the largest species of dolphin. These powerful animals hunt together in pods to take down seals, sharks, and even true whales. Adult orcas are typically 15–25 feet long and weigh 8,000–12,000 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Dolphin_Orca.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Orca](/Monsters.aspx?ID=619)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 84 <sup>2.0</sup></row>\n\n**Perception** +12; aquatic echolocation 120 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Aquatic Echolocation** An orca can use its hearing as a [precise sense](/Rules.aspx?ID=411) at the listed range, but only underwater.<br />**Deep Breath** An orca can hold its breath for 2 hours.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +12 \n\n</row>\r\n\r\n**HP** 75\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** swim 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +13,\r\n**Damage** 2d8+9 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Aquatic Ambush](/MonsterAbilities.aspx?ID=2)** <actions string=\"Single Action\" />  30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it is [prone](/Conditions.aspx?ID=31) until it [Crawls](/Actions.aspx?ID=76) to return to the water.\r\n\r\n**Breach** <actions string=\"Two Actions\" />  The orca [Swims](/Actions.aspx?ID=39) up to its swim Speed, then [Leaps](/Actions.aspx?ID=81) vertically out of the water up to 25 feet in the air, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the Strike, the orca splashes back down into the water.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-131\" />",
+ "name": "Orca",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 84 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Dolphin](/MonsterFamilies.aspx?ID=131)\r\n\r\n<row gap=\"medium\">\r\n**HP** 75\r\n\r\n**AC** 21\r\n\r\n**Fort** +14\r\n\r\n**Ref** +11\r\n\r\n**Will** +12\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile many know orcas as “killer whales,” they are actually the largest species of dolphin. These powerful animals hunt together in pods to take down …\r\n</summary>",
+ "sense": "aquatic echolocation 120 feet,  low-light vision ",
+ "sense_markdown": "aquatic echolocation 120 feet, [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +14",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 84"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 84 <sup>2.0</sup></row>",
+ "speed": {
+  "max": 60,
+  "swim": 60
+ },
+ "speed_markdown": "swim 60 feet",
+ "speed_raw": "swim 60 feet",
+ "spell_markdown": "",
+ "stealth": "13",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "While many know orcas as “killer whales,” they are actually the largest species of dolphin. These powerful animals hunt together in pods to take down …",
+ "summary_markdown": "While many know orcas as “killer whales,” they are actually the largest species of dolphin. These powerful animals hunt together in pods to take down …",
+ "text": " Orca While many know orcas as “killer whales,” they are actually the largest species of dolphin. These powerful animals hunt together in pods to take down seals, sharks, and even true whales. Adult orcas are typically 15–25 feet long and weigh 8,000–12,000 pounds. Recall Knowledge - Animal (Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Orca Source Bestiary 2 pg. 84 2.0 Perception +12; aquatic echolocation 120 feet, low-light vision Languages Skills Athletics +14, Stealth +13 Str +7 Dex +2 Con +5 Int -4 Wis +3 Cha +0 Aquatic Echolocation An orca can use its hearing as a precise sense at the listed range, but only underwater. Deep Breath An orca can hold its breath for 2 hours. --- AC 21 Fort +14 Ref +11 Will +12 HP 75 --- Speed swim 60 feet Melee Single Action jaws +13, Damage 2d8+9 piercing plus Grab Aquatic Ambush Single Action 30 feet. An orca can travel no further than 5 feet onto land as part of an Aquatic Ambush. After it does so, it is prone until it Crawls to return to the water. Breach Two Actions The orca Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet in the air, making a Strike against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the Strike, the orca splashes back down into the water. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=619",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 12,
+ "wisdom": 3
+}

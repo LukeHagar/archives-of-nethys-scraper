@@ -1,0 +1,116 @@
+{
+ "ac": 18,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 3,
+ "creature_ability": [
+  "Soften Stone",
+  "Eat Rocks",
+  "Lurk",
+  "Rubble Stride",
+  "Stomp Around",
+  "Wrecker"
+ ],
+ "creature_family": "Gremlin",
+ "creature_family_markdown": "[Gremlin](/MonsterFamilies.aspx?ID=58)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 35,
+ "hp_raw": "35",
+ "id": "creature-1613",
+ "image": [
+  "/Images/Monsters/Gremlin_Gnagrif.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Undercommon"
+ ],
+ "language_markdown": "[Undercommon](/Languages.aspx?ID=11)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"\">[Gnagrif](/Monsters.aspx?ID=1613)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSquat, surly, and perpetually covered in wet mud, gnagrifs are gremlins that infest and destroy homes. They possess sharklike faces and two sets of jaws, allowing them to open their mouths 180 degrees and clamp onto flat rocks and walls. They delight in keeping their presence hidden, chewing holes into walls and foundations that weaken structures but don't bring them down until their inhabitants slam their doors too hard or step in the wrong place. Soon as the unwitting victims spring the trap, the building collapses around them.\n\n Like all fey, gnagrifs detest iron. Gnagrifs become obsessively vengeful if they accidentally swallow an iron nail or hinge, terrorizing families or whole villages for generations over the slight.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 18\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 16\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 13\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gremlin_Gnagrif.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Gnagrif](/Monsters.aspx?ID=1613)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Gremlin\" url=\"/Traits.aspx?ID=221\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #169: Kindled Magic](/Sources.aspx?ID=94) pg. 83</row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +6, [Intimidation](/Skills.aspx?ID=7) +6, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +5\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** -1\r\n\r\n**Cha** +2\r\n</row>\n\n**Items**\r\n[light hammer](/Weapons.aspx?ID=29)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 35\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 3\r\n\r\n**Soften Stone** <actions string=\"Reaction\" /> **Trigger** A creature Strides or Steps into difficult terrain adjacent to the gnagrif; **Effect** The gnagrif gives the ground a hearty pound and it shifts beneath the triggering creature's feet. The triggering creature must succeed on a DC 18 Reflex save or fall [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, burrow 10 feet, climb 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nlight hammer +10 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d6+4 bludgeoning\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nlight hammer +10 ([Agile](/Traits.aspx?ID=170), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 1d6+4 bludgeoning\r\n\r\n**Primal Innate Spells** DC 16\r\n- **Cantrips (1st)**\r\n[Prestidigitation](/Spells.aspx?ID=229)\r\n- **1st**\r\n[Ant Haul](/Spells.aspx?ID=13), [Feather Fall](/Spells.aspx?ID=111)\r\n- **2nd**\r\n[Shatter](/Spells.aspx?ID=279), [Speak with Animals](/Spells.aspx?ID=293) (at will)\r\n\r\n**Eat Rocks** <actions string=\"Single Action\" />  The gnagrif gnashes and tears at an object or structure, dealing 2d4+2 piercing damage and ignoring Hardness 2 or lower.\r\n\r\n**Lurk** <actions string=\"Two Actions\" />  **Requirements** A structure made from stone or earth is within the gnagrif's reach; **Effect** The gnagrif partially melds with the stone. It [Take Cover](/Actions.aspx?ID=90) in the stone and makes a [Stealth](/Skills.aspx?ID=15) check to [Hide](/Actions.aspx?ID=62).\r\n\r\n**Rubble Stride**   A gnagrif ignores difficult terrain caused by rocks or rubble, including squares affected by their Stomp Around.\r\n\r\n**Stomp Around** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The gnagrif huffs and stamps its feet, churning the ground around it. The square it is in and all unoccupied adjacent squares become difficult terrain.\r\n\r\n**Wrecker**   Whenever two or more gnagrifs use Eat Rocks on the same object or structure, the value of Hardness they can ignore increases by 1 for every gnagrif, to a maximum of Hardness 10.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-58\" />",
+ "name": "Gnagrif",
+ "npc": false,
+ "perception": 7,
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2021-08-05",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Gremlin\" url=\"/Traits.aspx?ID=221\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #169: Kindled Magic](/Sources.aspx?ID=94) pg. 83</row>\r\n\r\n**Creature Family** [Gremlin](/MonsterFamilies.aspx?ID=58)\r\n\r\n<row gap=\"medium\">\r\n**HP** 35\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +10\r\n\r\n**Will** +5\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSquat, surly, and perpetually covered in wet mud, gnagrifs are gremlins that infest and destroy homes. They possess sharklike faces and two sets of …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +6",
+  "Intimidation +6",
+  "Stealth +8",
+  "Survival +5"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +6, [Intimidation](/Skills.aspx?ID=7) +6, [Stealth](/Skills.aspx?ID=15) +8, [Survival](/Skills.aspx?ID=16) +5",
+ "source": [
+  "Pathfinder #169: Kindled Magic"
+ ],
+ "source_raw": [
+  "Pathfinder #169: Kindled Magic pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #169: Kindled Magic](/Sources.aspx?ID=94) pg. 83</row>",
+ "speed": {
+  "burrow": 10,
+  "climb": 10,
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet, burrow 10 feet, climb 10 feet",
+ "speed_raw": "20 feet, burrow 10 feet, climb 10 feet",
+ "spell": [
+  "Shatter",
+  "Speak with Animals",
+  "Ant Haul",
+  "Feather Fall",
+  "Prestidigitation"
+ ],
+ "spell_markdown": "[Ant Haul](/Spells.aspx?ID=13), [Feather Fall](/Spells.aspx?ID=111), [Prestidigitation](/Spells.aspx?ID=229), [Shatter](/Spells.aspx?ID=279), [Speak with Animals](/Spells.aspx?ID=293)",
+ "spoilers": "Strength of Thousands",
+ "stealth": "8",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Squat, surly, and perpetually covered in wet mud, gnagrifs are gremlins that infest and destroy homes. They possess sharklike faces and two sets of …",
+ "summary_markdown": "Squat, surly, and perpetually covered in wet mud, gnagrifs are gremlins that infest and destroy homes. They possess sharklike faces and two sets of …",
+ "text": " Gnagrif Squat, surly, and perpetually covered in wet mud, gnagrifs are gremlins that infest and destroy homes. They possess sharklike faces and two sets of jaws, allowing them to open their mouths 180 degrees and clamp onto flat rocks and walls. They delight in keeping their presence hidden, chewing holes into walls and foundations that weaken structures but don't bring them down until their inhabitants slam their doors too hard or step in the wrong place. Soon as the unwitting victims spring the trap, the building collapses around them. Like all fey, gnagrifs detest iron. Gnagrifs become obsessively vengeful if they accidentally swallow an iron nail or hinge, terrorizing families or whole villages for generations over the slight. Recall Knowledge - Fey (Nature): DC 18 Unspecific Lore : DC 16 Specific Lore : DC 13 Gnagrif Source Pathfinder #169: Kindled Magic pg. 83 Perception +7; darkvision Languages Undercommon Skills Acrobatics +8, Athletics +6, Intimidation +6, Stealth +8, Survival +5 Str +2 Dex +4 Con +3 Int -1 Wis -1 Cha +2 Items light hammer --- AC 18 Fort +9 Ref +10 Will +5 HP 35 Weaknesses cold iron 3 Soften Stone Reaction Trigger A creature Strides or Steps into difficult terrain adjacent to the gnagrif; Effect The gnagrif gives the ground a hearty pound and it shifts beneath the triggering creature's feet. The triggering creature must succeed on a DC 18 Reflex save or fall prone. --- Speed 20 feet, burrow 10 feet, climb 10 feet Melee Single Action light hammer +10 (Agile), Damage 1d6+4 bludgeoning Ranged Single Action light hammer +10 (Agile, thrown 20 feet), Damage 1d6+4 bludgeoning Primal Innate Spells DC 16 - Cantrips (1st) Prestidigitation - 1st Ant Haul, Feather Fall - 2nd Shatter, Speak with Animals (at will) Eat Rocks Single Action The gnagrif gnashes and tears at an object or structure, dealing 2d4+2 piercing damage and ignoring Hardness 2 or lower. Lurk Two Actions Requirements A structure made from stone or earth is within the gnagrif's reach; Effect The gnagrif partially melds with the stone. It Take Cover in the stone and makes a Stealth check to Hide. Rubble Stride A gnagrif ignores difficult terrain caused by rocks or rubble, including squares affected by their Stomp Around. Stomp Around Single Action (Move) The gnagrif huffs and stamps its feet, churning the ground around it. The square it is in and all unoccupied adjacent squares become difficult terrain. Wrecker Whenever two or more gnagrifs use Eat Rocks on the same object or structure, the value of Hardness they can ignore increases by 1 for every gnagrif, to a maximum of Hardness 10. ",
+ "trait": [
+  "Fey",
+  "Gremlin",
+  "Uncommon",
+  "NE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Gremlin](/Traits.aspx?ID=221), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Fey",
+  "Gremlin",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1613",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 3
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 3",
+ "weakness_raw": " cold iron  3",
+ "will_save": 5,
+ "wisdom": -1
+}

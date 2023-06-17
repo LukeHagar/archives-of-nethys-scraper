@@ -1,0 +1,112 @@
+{
+ "ac": 25,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Snow Vision",
+  "Retaliatory Strike",
+  "Draconic Frenzy",
+  "Freezing Mist Breath",
+  "Ice Climb",
+  "Speed Surge"
+ ],
+ "creature_family": "Drake",
+ "creature_family_markdown": "[Drake](/MonsterFamilies.aspx?ID=36)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 115,
+ "hp_raw": "115",
+ "id": "creature-163",
+ "image": [
+  "/Images/Monsters/Drake_FrostDrake.png"
+ ],
+ "immunity": [
+  "cold",
+  "paralyzed",
+  "unconscious"
+ ],
+ "immunity_markdown": "cold, paralyzed, unconscious",
+ "intelligence": -1,
+ "language": [
+  "Draconic"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Frost Drake](/Monsters.aspx?ID=163)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFrost drakes pose an immense danger in the frozen reaches they call home, where they roam far and wide to hunt for prey such as caribou, wolves, small bears, and tundra-dwelling people. Related as they are to white dragons, these drakes share many habits and facets of their disposition with their draconic cousins. Indeed, just as white dragons are among the most bestial and craven of dragonkind, frost drakes are among the most depraved and openly malicious of the drakes. They are also especially insolent, and are less likely to back down from a flight compared to other drakes. Many frost drakes have met their ends trying to enact cruelties beyond their means, such as singly taking on an entire castle or well-fortified township. Although a frost drake can wreak much destruction on its own, tales of village-dwelling northerners banding together to defend their homes from these rogue menaces are fairly common.\n\n A frost drake’s hunting grounds are quite large. Those frost drakes that live upon the permanently frozen peaks of high mountains have been known to swoop down to snatch up prey from the lowlands, leaving frozen swaths of earth from their breath as the only sign of their passing. Their frost-covered scales range from deep royal blue to crisp cyan and sometimes feature sporadic patches of violet. Their hides are thinner than most drakes’; when a frost drake is inhaling in preparation to launch its signature frozen breath, the monster’s ice-blue blood can be seen beneath its scales.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Drake_FrostDrake.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Frost Drake](/Monsters.aspx?ID=163)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 134</row>\n\n**Perception** +14; darkvision, scent (imprecise) 30 feet, snow vision\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +14, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Snow Vision** Snow doesn’t impair a frost drake’s vision; it ignores concealment from snowfall.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 25 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 115\n\n**Immunities**\r\ncold, paralyzed, unconscious\n\n**Weaknesses**\r\nfire 10\r\n\r\n**Retaliatory Strike** <actions string=\"Reaction\" /> **Trigger** A creature within reach of the frost drake’s tail successfully damages the frost drake with a Strike. **Effect** The frost drake attempts to Strike with its tail. If the Strike hits, it deals an additional 1d6 damage.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, burrow 20 feet (snow only), fly 50 feet, ice climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +17,\r\n**Damage** 2d12+8 piercing plus 1d6 cold\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +17 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+8 bludgeoning\n\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The frost drake makes two Fangs Strikes and one Tail Strike in any order.\r\n\r\n**Freezing Mist Breath** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65)) The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst cloud of freezing mist. Those in the burst take 8d6 cold damage (DC 25 [basic](/Rules.aspx?ID=329) Reflex save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds. It can't use Freezing Mist Breath again for 1d6 rounds.\r\n\r\n**Ice Climb**   A frost drake can climb on ice as though it had the listed climb Speed. It ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice.\r\n\r\n**Speed Surge** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The frost drake moves up to twice its Speed. It can do this three times per day.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-36\" />",
+ "name": "Frost Drake",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 134</row>\r\n\r\n**Creature Family** [Drake](/MonsterFamilies.aspx?ID=36)\r\n\r\n<row gap=\"medium\">\r\n**HP** 115\r\n\r\n**AC** 25\r\n\r\n**Fort** +17\r\n\r\n**Ref** +15\r\n\r\n**Will** +14\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFrost drakes pose an immense danger in the frozen reaches they call home, where they roam far and wide to hunt for prey such as caribou, wolves, …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 30 feet, snow vision",
+ "sense_markdown": "darkvision, scent (imprecise) 30 feet, snow vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Athletics +17",
+  "Intimidation +14",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +17, [Intimidation](/Skills.aspx?ID=7) +14, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 134"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 134</row>",
+ "speed": {
+  "burrow": 20,
+  "climb": 20,
+  "fly": 50,
+  "land": 20,
+  "max": 50
+ },
+ "speed_markdown": "20 feet, burrow 20 feet (snow only), fly 50 feet, ice climb 20 feet",
+ "speed_raw": "20 feet, burrow 20 feet (snow only), fly 50 feet, ice climb 20 feet",
+ "spell_markdown": "",
+ "stealth": "15",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Frost drakes pose an immense danger in the frozen reaches they call home, where they roam far and wide to hunt for prey such as caribou, wolves, …",
+ "summary_markdown": "Frost drakes pose an immense danger in the frozen reaches they call home, where they roam far and wide to hunt for prey such as caribou, wolves, …",
+ "text": " Frost Drake Frost drakes pose an immense danger in the frozen reaches they call home, where they roam far and wide to hunt for prey such as caribou, wolves, small bears, and tundra-dwelling people. Related as they are to white dragons, these drakes share many habits and facets of their disposition with their draconic cousins. Indeed, just as white dragons are among the most bestial and craven of dragonkind, frost drakes are among the most depraved and openly malicious of the drakes. They are also especially insolent, and are less likely to back down from a flight compared to other drakes. Many frost drakes have met their ends trying to enact cruelties beyond their means, such as singly taking on an entire castle or well-fortified township. Although a frost drake can wreak much destruction on its own, tales of village-dwelling northerners banding together to defend their homes from these rogue menaces are fairly common. A frost drake’s hunting grounds are quite large. Those frost drakes that live upon the permanently frozen peaks of high mountains have been known to swoop down to snatch up prey from the lowlands, leaving frozen swaths of earth from their breath as the only sign of their passing. Their frost-covered scales range from deep royal blue to crisp cyan and sometimes feature sporadic patches of violet. Their hides are thinner than most drakes’; when a frost drake is inhaling in preparation to launch its signature frozen breath, the monster’s ice-blue blood can be seen beneath its scales. Recall Knowledge - Dragon (Arcana): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Frost Drake Source Bestiary pg. 134 Perception +14; darkvision, scent (imprecise) 30 feet, snow vision Languages Draconic Skills Acrobatics +15, Athletics +17, Intimidation +14, Stealth +15 Str +6 Dex +2 Con +4 Int -1 Wis +3 Cha +1 Snow Vision Snow doesn’t impair a frost drake’s vision; it ignores concealment from snowfall. --- AC 25 Fort +17 Ref +15 Will +14 HP 115 Immunities cold, paralyzed, unconscious Weaknesses fire 10 Retaliatory Strike Reaction Trigger A creature within reach of the frost drake’s tail successfully damages the frost drake with a Strike. Effect The frost drake attempts to Strike with its tail. If the Strike hits, it deals an additional 1d6 damage. --- Speed 20 feet, burrow 20 feet (snow only), fly 50 feet, ice climb 20 feet Melee Single Action fangs +17, Damage 2d12+8 piercing plus 1d6 cold Melee Single Action tail +17 (reach 10 feet), Damage 2d10+8 bludgeoning Draconic Frenzy Two Actions The frost drake makes two Fangs Strikes and one Tail Strike in any order. Freezing Mist Breath Two Actions (Arcane, Cold, Evocation) The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot burst cloud of freezing mist. Those in the burst take 8d6 cold damage (DC 25 basic Reflex save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into difficult terrain for 2d4 rounds. It can't use Freezing Mist Breath again for 1d6 rounds. Ice Climb A frost drake can climb on ice as though it had the listed climb Speed. It ignores difficult terrain and greater difficult terrain from ice and snow and doesn't risk falling when crossing ice. Speed Surge Single Action (Move) The frost drake moves up to twice its Speed. It can do this three times per day. ",
+ "trait": [
+  "Cold",
+  "Dragon",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Cold](/Traits.aspx?ID=27), [Dragon](/Traits.aspx?ID=50)",
+ "trait_raw": [
+  "Cold",
+  "Dragon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=163",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 14,
+ "wisdom": 3
+}

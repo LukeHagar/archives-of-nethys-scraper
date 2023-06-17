@@ -1,0 +1,105 @@
+{
+ "ac": 24,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Shield Block",
+  "Double Slash",
+  "Implant",
+  "Xill Eggs",
+  "Xill Paralysis"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 100,
+ "hp_raw": "100",
+ "id": "creature-866",
+ "image": [
+  "/Images/Monsters/Xill.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Aklo"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Xill](/Monsters.aspx?ID=866)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nXills visit the [Material Plane](/Planes.aspx?ID=1), where they're often known as ethereal stalkers, primarily to maraud and to kidnap creatures back to their native [Ethereal Plane](/Planes.aspx?ID=9). These four-armed, warmongering monsters paralyze their victims before implanting them with eggs using an ovipositor normally kept retracted behind their mandibles. Their single-minded drive to expand and conquer is so all-encompassing that while they work together dutifully and without dissent, there is little else in their lives.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 24\r\n\r\n**[Recall Knowledge - Ethereal](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Xill.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Xill](/Monsters.aspx?ID=866)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Ethereal\" url=\"/Traits.aspx?ID=63\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 299 <sup>2.0</sup></row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +14, [Deception](/Skills.aspx?ID=5) +12, [Intimidation](/Skills.aspx?ID=7) +14, [Stealth](/Skills.aspx?ID=15) +15, [Warfare Lore](/Skills.aspx?ID=8) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n**Items**\r\n[Breastplate](/Armor.aspx?ID=10), _+1 [longbow](/Weapons.aspx?ID=76)_ (40 arrows), [Scimitar](/Weapons.aspx?ID=38) (2), [Steel Shield](/Shields.aspx?ID=3) (Hardness 5, HP 20, BT 10)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 (26 with shield raised)\r\n\r\n**Fort** +15 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 100\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> <br />**[Shield Block](/MonsterAbilities.aspx?ID=32)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nscimitar +16 ([Forceful](/Traits.aspx?ID=180), [Sweep](/Traits.aspx?ID=194)),\r\n**Damage** 2d6+7 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +16,\r\n**Damage** 2d8+7 piercing plus xill paralysis\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_longbow_ +17 ([deadly 1d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [range 100 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [volley 30 feet](/Traits.aspx?ID=201)),\r\n**Damage** 2d8 piercing\r\n\r\n**Occult Innate Spells** DC 24\r\n- **7th**\r\n[Plane Shift](/Spells.aspx?ID=222) (to [Ethereal Plane](/Planes.aspx?ID=9) or [Material Plane](/Planes.aspx?ID=1) only; self only)\r\n\r\n**Double Slash** <actions string=\"Single Action\" /> ([Flourish](/Traits.aspx?ID=73)) The xill makes two scimitar Strikes against a single target. If both hit, combine their damage for the purpose of the target's resistances and weaknesses. The xill applies its multiple attack penalty to each strike normally.\r\n\r\n**Implant** <actions string=\"Two Actions\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The xill is adjacent to a [unconscious](/Conditions.aspx?ID=38), willing, or [paralyzed](/Conditions.aspx?ID=28) creature; **Effect** The xill implants xill eggs in the creature's flesh.\r\n\r\n**Xill Eggs**  ([Disease](/Traits.aspx?ID=46)) The [sickened](/Conditions.aspx?ID=34) condition from xill eggs doesn't improve on its own until the disease is cured or runs its course. It can be cured with a 10-minute operation that requires a successful DC 26 [Medicine](/Skills.aspx?ID=9) check and deals 4d6 slashing damage to the host; **Saving Throw** DC 24 Fortitude; **Maximum Duration** 24 hours; **Stage 1** infested with no ill effect (8 hours); **Stage 2** sickened 1 (8 hours); **Stage 3** sickened 2 (4 hours); **Stage 4** sickened 2 and 2d6 [persistent bleed damage](/Conditions.aspx?ID=29) as larval xills burrow out of the body and immediately fade away into the [Ethereal Plane](/Planes.aspx?ID=9) (1 hour)\r\n\r\n**Xill Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120)) A creature hit by the xill's bite Strike must attempt a DC 24 Fortitude save. <br />**Critical Success** The creature is unaffected and is immune to xill paralysis for 1 minute. <br />**Success** The creature is [slowed 1](/Conditions.aspx?ID=35) for 1 round. <br />**Failure** The creature is [paralyzed](/Conditions.aspx?ID=28) for 1 round. <br />**Critical Failure** The creature is paralyzed. It can attempt a new save at the end of each of its turns to recover, and the save DC decreases by 1 each round.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">The Ether War</title>\r\n\r\nXills see [Material Plane](/Planes.aspx?ID=1) creatures as little more than incubators, but the need for fresh hosts never abates, for on their home plane, xills are constantly at war. Only the relative emptiness of the [Ethereal Plane](/Planes.aspx?ID=9) keeps their conflict with creatures like [ether spiders](/Monsters.aspx?ID=203) from becoming too overwhelming and outpacing the speed at which new ranks of soldiers can replace those who have fallen.\r\n</aside>",
+ "name": "Xill",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 17,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Ethereal\" url=\"/Traits.aspx?ID=63\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 299 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 100\r\n\r\n**AC** 24\r\n\r\n**Fort** +15\r\n\r\n**Ref** +17\r\n\r\n**Will** +11\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nXills visit the  Material Plane , where they're often known as ethereal stalkers, primarily to maraud and to kidnap creatures back to their native  …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +15",
+  "Athletics +14",
+  "Deception +12",
+  "Intimidation +14",
+  "Stealth +15",
+  "Warfare Lore +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +15, [Athletics](/Skills.aspx?ID=3) +14, [Deception](/Skills.aspx?ID=5) +12, [Intimidation](/Skills.aspx?ID=7) +14, [Stealth](/Skills.aspx?ID=15) +15, [Warfare Lore](/Skills.aspx?ID=8) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 299"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 299 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Plane Shift"
+ ],
+ "spell_markdown": "[Plane Shift](/Spells.aspx?ID=222)",
+ "stealth": "15",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Xills visit the  Material Plane , where they're often known as ethereal stalkers, primarily to maraud and to kidnap creatures back to their native  …",
+ "summary_markdown": "Xills visit the  Material Plane , where they're often known as ethereal stalkers, primarily to maraud and to kidnap creatures back to their native  …",
+ "text": " Xill Xills visit the Material Plane, where they're often known as ethereal stalkers, primarily to maraud and to kidnap creatures back to their native Ethereal Plane. These four-armed, warmongering monsters paralyze their victims before implanting them with eggs using an ovipositor normally kept retracted behind their mandibles. Their single-minded drive to expand and conquer is so all-encompassing that while they work together dutifully and without dissent, there is little else in their lives. Recall Knowledge - Aberration (Occultism): DC 24 Recall Knowledge - Ethereal (Occultism): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Xill Source Bestiary 2 pg. 299 2.0 Perception +15; darkvision Languages Aklo Skills Acrobatics +15, Athletics +14, Deception +12, Intimidation +14, Stealth +15, Warfare Lore +12 Str +4 Dex +5 Con +3 Int +0 Wis +3 Cha +0 Items Breastplate, +1 longbow (40 arrows), Scimitar (2), Steel Shield (Hardness 5, HP 20, BT 10) --- AC 24 (26 with shield raised) Fort +15 Ref +17 Will +11 HP 100 Attack of Opportunity Reaction Shield Block Reaction --- Speed 35 feet Melee Single Action scimitar +16 (Forceful, Sweep), Damage 2d6+7 slashing Melee Single Action bite +16, Damage 2d8+7 piercing plus xill paralysis Ranged Single Action longbow +17 (deadly 1d10, Magical, range 100 feet, reload 0, volley 30 feet), Damage 2d8 piercing Occult Innate Spells DC 24 - 7th Plane Shift (to Ethereal Plane or Material Plane only; self only) Double Slash Single Action (Flourish) The xill makes two scimitar Strikes against a single target. If both hit, combine their damage for the purpose of the target's resistances and weaknesses. The xill applies its multiple attack penalty to each strike normally. Implant Two Actions (Manipulate) Requirements The xill is adjacent to a unconscious, willing, or paralyzed creature; Effect The xill implants xill eggs in the creature's flesh. Xill Eggs (Disease) The sickened condition from xill eggs doesn't improve on its own until the disease is cured or runs its course. It can be cured with a 10-minute operation that requires a successful DC 26 Medicine check and deals 4d6 slashing damage to the host; Saving Throw DC 24 Fortitude; Maximum Duration 24 hours; Stage 1 infested with no ill effect (8 hours); Stage 2 sickened 1 (8 hours); Stage 3 sickened 2 (4 hours); Stage 4 sickened 2 and 2d6 persistent bleed damage as larval xills burrow out of the body and immediately fade away into the Ethereal Plane (1 hour) Xill Paralysis (Incapacitation, Occult) A creature hit by the xill's bite Strike must attempt a DC 24 Fortitude save. Critical Success The creature is unaffected and is immune to xill paralysis for 1 minute. Success The creature is slowed 1 for 1 round. Failure The creature is paralyzed for 1 round. Critical Failure The creature is paralyzed. It can attempt a new save at the end of each of its turns to recover, and the save DC decreases by 1 each round. The Ether War Xills see Material Plane creatures as little more than incubators, but the need for fresh hosts never abates, for on their home plane, xills are constantly at war. Only the relative emptiness of the Ethereal Plane keeps their conflict with creatures like ether spiders from becoming too overwhelming and outpacing the speed at which new ranks of soldiers can replace those who have fallen. ",
+ "trait": [
+  "Aberration",
+  "Ethereal",
+  "Uncommon",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Ethereal](/Traits.aspx?ID=63), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Ethereal",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=866",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 3
+}

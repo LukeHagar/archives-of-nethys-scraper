@@ -1,0 +1,102 @@
+{
+ "ac": 20,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 3,
+ "creature_ability": [
+  "Corpse Scent",
+  "Aquatic Ambush",
+  "Consume Flesh",
+  "Death Roll",
+  "Ghoul Fever",
+  "Paralysis"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 60,
+ "hp_raw": "60 ( negative healing )",
+ "id": "creature-2062",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ghoul Crocodile](/Monsters.aspx?ID=2062)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 21\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 19\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 16\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Ghoul Crocodile](/Monsters.aspx?ID=2062)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 32</row>\n\n**Perception** +11; corpse scent (imprecise), [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +12, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -4\r\n</row>\r\n\r\n**Corpse Scent** The ghoul crocodile can smell humanoid corpses in the water up to 1 mile away.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 60\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14,\r\n**Damage** 2d8+6 piercing plus ghoul fever and [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +14 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+6 bludgeoning and paralysis\n\n**[Aquatic Ambush](/MonsterAbilities.aspx?ID=2)** <actions string=\"Single Action\" />  35 feet\r\n\r\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ghoul crocodile is adjacent to the corpse of a creature that died within the last hour; **Effect** The ghoul crocodile devours a chunk of the corpse and regains 2d6 Hit Points. It can regain HP from any given corpse only once.\r\n\r\n**Death Roll** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) **Requirements** The ghoul crocodile must have a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The ghoul crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature [prone](/Conditions.aspx?ID=31). If it fails, it releases the creature.\r\n\r\n**Ghoul Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** DC 19 Fortitude; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 2d6 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 2d6 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a [ghoul](/Monsters.aspx?ID=218) the next midnight\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living non-[elf](/Traits.aspx?ID=58) creature hit by a ghoul crocodile's tail must succeed at a DC 20 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n</column>",
+ "name": "Ghoul Crocodile",
+ "npc": false,
+ "perception": 11,
+ "rarity": "uncommon",
+ "reflex_save": 11,
+ "release_date": "2022-08-31",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 32</row>\n\n<row gap=\"medium\">\r\n**HP** 60 ( negative healing )\r\n\r\n**AC** 20\r\n\r\n**Fort** +14\r\n\r\n**Ref** +11\r\n\r\n**Will** +8\r\n\r\n**Perception** +11\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": "corpse scent (imprecise),  darkvision ",
+ "sense_markdown": "corpse scent (imprecise), [darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +12",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +12, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Pathfinder #182: Graveclaw"
+ ],
+ "source_raw": [
+  "Pathfinder #182: Graveclaw pg. 32"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #182: Graveclaw](/Sources.aspx?ID=143) pg. 32</row>",
+ "speed": {
+  "land": 20,
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "20 feet, swim 25 feet",
+ "speed_raw": "20 feet, swim 25 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "9",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Ghoul Crocodile Recall Knowledge - Undead (Religion): DC 21 Unspecific Lore : DC 19 Specific Lore : DC 16 Ghoul Crocodile Source Pathfinder #182: Graveclaw pg. 32 Perception +11; corpse scent (imprecise), darkvision Languages Skills Athletics +12, Stealth +9 Str +4 Dex +1 Con +3 Int -5 Wis +1 Cha -4 Corpse Scent The ghoul crocodile can smell humanoid corpses in the water up to 1 mile away. --- AC 20 Fort +14 Ref +11 Will +8 HP 60 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious --- Speed 20 feet, swim 25 feet Melee Single Action jaws +14, Damage 2d8+6 piercing plus ghoul fever and Grab Melee Single Action tail +14 (Agile), Damage 2d6+6 bludgeoning and paralysis Aquatic Ambush Single Action 35 feet Consume Flesh Single Action (Manipulate) Requirements The ghoul crocodile is adjacent to the corpse of a creature that died within the last hour; Effect The ghoul crocodile devours a chunk of the corpse and regains 2d6 Hit Points. It can regain HP from any given corpse only once. Death Roll Single Action (Attack) Requirements The ghoul crocodile must have a creature grabbed; Effect The ghoul crocodile tucks its legs and rolls rapidly, twisting its victim. It makes a jaws Strike with a +2 circumstance bonus to the attack roll against the grabbed creature. If it hits, it also knocks the creature prone. If it fails, it releases the creature. Ghoul Fever (Disease) Saving Throw DC 19 Fortitude; Stage 1 carrier with no ill effect (1 day); Stage 2 2d6 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 2d6 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghoul the next midnight Paralysis (Incapacitation, Occult, Necromancy) Any living non-elf creature hit by a ghoul crocodile's tail must succeed at a DC 20 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. ",
+ "trait": [
+  "Amphibious",
+  "Ghoul",
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Ghoul](/Traits.aspx?ID=218), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Amphibious",
+  "Ghoul",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2062",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 1
+}

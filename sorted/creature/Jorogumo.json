@@ -1,0 +1,122 @@
+{
+ "ac": 33,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 5,
+ "creature_ability": [
+  "Darting Legs",
+  "Change Shape",
+  "Jorogumo Venom",
+  "Spider Legs",
+  "Web Trap"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 270,
+ "hp_raw": "270",
+ "id": "creature-1200",
+ "image": [
+  "/Images/Monsters/Jorogumo.png"
+ ],
+ "intelligence": 3,
+ "language": [
+  "Aklo",
+  "Common",
+  "Sylvan",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Jorogumo](/Monsters.aspx?ID=1200)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAppearing as beautiful, well-dressed humans, jorogumo lurk in the high mountains and prey on travelers. These evil creatures can fully change into a giant spider or sprout spider legs from their backs, and they often keep giant spiders as pets. Jorogumo usually eat their prey, but some humanoids meet an even more gruesome fate as living incubators for jorogumo eggs. Though most jorogumos are solitary creatures, some have taken up worship of [Norgorber](/Deities.aspx?ID=13) and serve as valuable allies to thieves' guilds following that god's guise as the Gray Master.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Jorogumo.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Jorogumo](/Monsters.aspx?ID=1200)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 141, [Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 83</row>\n\n**Perception** +26; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Common](/Languages.aspx?ID=1), [Sylvan](/Languages.aspx?ID=10); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +23, [Crafting](/Skills.aspx?ID=4) +22, [Deception](/Skills.aspx?ID=5) +28, [Diplomacy](/Skills.aspx?ID=6) +26, [Performance](/Skills.aspx?ID=12) +24, [Stealth](/Skills.aspx?ID=15) +23, [Survival](/Skills.aspx?ID=16) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** +3\r\n\r\n**Wis** +5\r\n\r\n**Cha** +7\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +26 \n\n</row>\r\n\r\n**HP** 270\n\n**Resistances**\r\npoison 15\r\n\r\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 10\r\n\r\n**Darting Legs** <actions string=\"Reaction\" /> **Requirements** The jorogumo has their spider legs extended or has Changed Shape; **Trigger** The jorogumo is targeted with an attack; **Effect** The jorogumo raises a leg, gaining a +2 circumstance bonus to AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +27,\r\n**Damage** 3d12+14 piercing plus jorogumo venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +27 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d8+14 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nweb +23 ([range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** Web Trap\r\n\r\n**Occult Innate Spells** DC 34\r\n- **1st**\r\n[Charm](/Spells.aspx?ID=34) (at will)\r\n- **3rd**\r\n[Mind Reading](/Spells.aspx?ID=194) (at will)\r\n- **4th**\r\n[Outcast's Curse](/Spells.aspx?ID=211) (×3), [Suggestion](/Spells.aspx?ID=315) (×3)\r\n- **7th**\r\n[Summon Animal](/Spells.aspx?ID=316) (spiders only)\r\n- **Constant (2nd)**\r\n[Speak with Animals](/Spells.aspx?ID=293) (spiders only)\r\n- **Constant (5th)**\r\n[Tongues](/Spells.aspx?ID=340)\r\n\r\n**[Change Shape](/MonsterAbilities.aspx?ID=8)** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Occult](/Traits.aspx?ID=120), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) The jorogumo takes on the appearance of any Small or Medium spider. This doesn't change their Speed or Strikes.\r\n\r\n**Jorogumo Venom**  ([Incapacitation](/Traits.aspx?ID=93), [Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 32 Fortitude; **Maximum Duration** 4 hours; **Stage 1** 3d6 poison damage and [stupefied 1](/Conditions.aspx?ID=37) (1 round); **Stage 2** 3d6 poison damage and stupefied 2 (1 round); **Stage 3** 4d6 poison damage and stupefied 2 (1 round); **Stage 4** [paralyzed](/Conditions.aspx?ID=28) for 1d4 hours.\r\n\r\n**Spider Legs** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32), [Occult](/Traits.aspx?ID=120), [Polymorph](/Traits.aspx?ID=127), [Transmutation](/Traits.aspx?ID=157)) **Requirement** The jorogumo is in humanoid form; **Effect** Eight large spider legs sprout from the jorogumo's back, granting them a 40-foot climb Speed and allowing them to use the Darting Legs reaction.\r\n\r\n**Web Trap**   A creature hit by the jorogumo's web attack is [immobilized](/Conditions.aspx?ID=24) and stuck to the nearest surface, preventing the creature from moving. The DC to [Escape](/Actions.aspx?ID=79) or [Force Open](/Actions.aspx?ID=34) the web trap is 32.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Jorogumo Animosity</title>\r\n\r\nRather than attempting to manipulate a [tengu](/Ancestries.aspx?ID=21) traveler, jorogumos usually fly into a rage and attempt to murder them as quickly as possible. The source of this single-minded hatred isn't clear, but some jorogumos insist, without any factual support, that tengus can see through their trickery with a mere glance and are immune to their venom.\r\n\r\n</aside>",
+ "name": "Jorogumo",
+ "npc": false,
+ "perception": 26,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 23,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "poison": 15
+ },
+ "resistance_markdown": "poison 15",
+ "resistance_raw": "poison 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Bestiary 3](/Sources.aspx?ID=66) pg. 141, [Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 83</row>\n\n<row gap=\"medium\">\r\n**HP** 270\r\n\r\n**AC** 33\r\n\r\n**Fort** +22\r\n\r\n**Ref** +23\r\n\r\n**Will** +26\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAppearing as beautiful, well-dressed humans, jorogumo lurk in the high mountains and prey on travelers. These evil creatures can fully change into a …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +25",
+  "Athletics +23",
+  "Crafting +22",
+  "Deception +28",
+  "Diplomacy +26",
+  "Performance +24",
+  "Stealth +23",
+  "Survival +24"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +23, [Crafting](/Skills.aspx?ID=4) +22, [Deception](/Skills.aspx?ID=5) +28, [Diplomacy](/Skills.aspx?ID=6) +26, [Performance](/Skills.aspx?ID=12) +24, [Stealth](/Skills.aspx?ID=15) +23, [Survival](/Skills.aspx?ID=16) +24",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 141"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 141, [Pathfinder #160: Assault on Hunting Lodge Seven](/Sources.aspx?ID=49) pg. 83</row>",
+ "speed": {
+  "land": 30,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "30 feet, swim 30 feet",
+ "speed_raw": "30 feet, swim 30 feet",
+ "spell": [
+  "Summon Animal",
+  "Outcast's Curse",
+  "Suggestion",
+  "Mind Reading",
+  "Charm",
+  "Tongues",
+  "Speak with Animals"
+ ],
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Mind Reading](/Spells.aspx?ID=194), [Outcast's Curse](/Spells.aspx?ID=211), [Speak with Animals](/Spells.aspx?ID=293), [Suggestion](/Spells.aspx?ID=315), [Summon Animal](/Spells.aspx?ID=316), [Tongues](/Spells.aspx?ID=340)",
+ "stealth": "23",
+ "strength": 6,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "Appearing as beautiful, well-dressed humans, jorogumo lurk in the high mountains and prey on travelers. These evil creatures can fully change into a …",
+ "summary_markdown": "Appearing as beautiful, well-dressed humans, jorogumo lurk in the high mountains and prey on travelers. These evil creatures can fully change into a …",
+ "text": " Jorogumo Appearing as beautiful, well-dressed humans, jorogumo lurk in the high mountains and prey on travelers. These evil creatures can fully change into a giant spider or sprout spider legs from their backs, and they often keep giant spiders as pets. Jorogumo usually eat their prey, but some humanoids meet an even more gruesome fate as living incubators for jorogumo eggs. Though most jorogumos are solitary creatures, some have taken up worship of Norgorber and serve as valuable allies to thieves' guilds following that god's guise as the Gray Master. Recall Knowledge - Humanoid (Society): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Jorogumo Source Bestiary 3 pg. 141, Pathfinder #160: Assault on Hunting Lodge Seven pg. 83 Perception +26; darkvision Languages Aklo, Common, Sylvan; tongues Skills Acrobatics +25, Athletics +23, Crafting +22, Deception +28, Diplomacy +26, Performance +24, Stealth +23, Survival +24 Str +6 Dex +4 Con +5 Int +3 Wis +5 Cha +7 --- AC 33 Fort +22 Ref +23 Will +26 HP 270 Resistances poison 15 Weaknesses cold iron 10 Darting Legs Reaction Requirements The jorogumo has their spider legs extended or has Changed Shape; Trigger The jorogumo is targeted with an attack; Effect The jorogumo raises a leg, gaining a +2 circumstance bonus to AC against the triggering attack. --- Speed 30 feet, swim 30 feet Melee Single Action jaws +27, Damage 3d12+14 piercing plus jorogumo venom Melee Single Action claw +27 (Agile), Damage 3d8+14 slashing Ranged Single Action web +23 (range increment 60 feet), Damage Web Trap Occult Innate Spells DC 34 - 1st Charm (at will) - 3rd Mind Reading (at will) - 4th Outcast's Curse (×3), Suggestion (×3) - 7th Summon Animal (spiders only) - Constant (2nd) Speak with Animals (spiders only) - Constant (5th) Tongues Change Shape Single Action (Concentrate, Occult, Polymorph, Transmutation) The jorogumo takes on the appearance of any Small or Medium spider. This doesn't change their Speed or Strikes. Jorogumo Venom (Incapacitation, Poison) Saving Throw DC 32 Fortitude; Maximum Duration 4 hours; Stage 1 3d6 poison damage and stupefied 1 (1 round); Stage 2 3d6 poison damage and stupefied 2 (1 round); Stage 3 4d6 poison damage and stupefied 2 (1 round); Stage 4 paralyzed for 1d4 hours. Spider Legs Single Action (Concentrate, Occult, Polymorph, Transmutation) Requirement The jorogumo is in humanoid form; Effect Eight large spider legs sprout from the jorogumo's back, granting them a 40-foot climb Speed and allowing them to use the Darting Legs reaction. Web Trap A creature hit by the jorogumo's web attack is immobilized and stuck to the nearest surface, preventing the creature from moving. The DC to Escape or Force Open the web trap is 32. Jorogumo Animosity Rather than attempting to manipulate a tengu traveler, jorogumos usually fly into a rage and attempt to murder them as quickly as possible. The source of this single-minded hatred isn't clear, but some jorogumos insist, without any factual support, that tengus can see through their trickery with a mere glance and are immune to their venom. ",
+ "trait": [
+  "Humanoid",
+  "Uncommon",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1200",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold_iron": 10
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 10",
+ "weakness_raw": " cold iron  10",
+ "will_save": 26,
+ "wisdom": 5
+}

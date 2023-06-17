@@ -1,0 +1,108 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Water-Bound",
+  "Vortex",
+  "Drench"
+ ],
+ "creature_family": "Elemental, Water",
+ "creature_family_markdown": "[Elemental, Water](/MonsterFamilies.aspx?ID=45)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 90,
+ "hp_raw": "90",
+ "id": "creature-197",
+ "image": [
+  "/Images/Monsters/ElementalWater_LivingWaterfall.png"
+ ],
+ "immunity": [
+  "bleed",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, paralyzed, poison, sleep",
+ "intelligence": -2,
+ "language": [
+  "Aquan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Living Waterfall](/Monsters.aspx?ID=197)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLiving waterfalls are humanoid-shaped columns of churning water.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ElementalWater_LivingWaterfall.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Living Waterfall](/Monsters.aspx?ID=197)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 152</row>\n\n**Perception** +10; darkvision\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Water-Bound** When not touching water, the living waterfall is slowed 1 and can’t use reactions.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 90\n\n**Immunities**\r\nbleed, paralyzed, poison, sleep\r\n\r\n**Resistances**\r\nfire 5\n\n**Vortex** ([aura](/Traits.aspx?ID=206), [water](/Traits.aspx?ID=165)) 30 feet. Water in the area that is in the same body of water as the living waterfall is difficult terrain for Swimming creatures that don’t have the water trait.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwave +15 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+7 bludgeoning plus Push or Pull 5 feet\n\n**Drench** <actions string=\"Single Action\" /> ([Abjuration](/Traits.aspx?ID=2), [Primal](/Traits.aspx?ID=134), [Water](/Traits.aspx?ID=165)) The elemental puts out all fires in a 5-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-45\" />",
+ "name": "Living Waterfall",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "fire": 5
+ },
+ "resistance_markdown": "fire 5",
+ "resistance_raw": "fire 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 152</row>\r\n\r\n**Creature Family** [Elemental, Water](/MonsterFamilies.aspx?ID=45)\r\n\r\n<row gap=\"medium\">\r\n**HP** 90\r\n\r\n**AC** 20\r\n\r\n**Fort** +14\r\n\r\n**Ref** +12\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLiving waterfalls are humanoid-shaped columns of churning water.\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 152"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 152</row>",
+ "speed": {
+  "land": 20,
+  "max": 60,
+  "swim": 60
+ },
+ "speed_markdown": "20 feet, swim 60 feet",
+ "speed_raw": "20 feet, swim 60 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Living waterfalls are humanoid-shaped columns of churning water.",
+ "summary_markdown": "Living waterfalls are humanoid-shaped columns of churning water.",
+ "text": " Living Waterfall Living waterfalls are humanoid-shaped columns of churning water. Recall Knowledge - Elemental (Arcana, Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Living Waterfall Source Bestiary pg. 152 Perception +10; darkvision Languages Aquan Skills Athletics +13, Stealth +12 Str +4 Dex +3 Con +3 Int -2 Wis +1 Cha +0 Water-Bound When not touching water, the living waterfall is slowed 1 and can’t use reactions. --- AC 20 Fort +14 Ref +12 Will +10 HP 90 Immunities bleed, paralyzed, poison, sleep Resistances fire 5 Vortex (aura, water) 30 feet. Water in the area that is in the same body of water as the living waterfall is difficult terrain for Swimming creatures that don’t have the water trait. --- Speed 20 feet, swim 60 feet Melee Single Action wave +15 (reach 10 feet), Damage 2d8+7 bludgeoning plus Push or Pull 5 feet Drench Single Action (Abjuration, Primal, Water) The elemental puts out all fires in a 5-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+14 counteract modifier). ",
+ "trait": [
+  "Aquatic",
+  "Elemental",
+  "Water",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Aquatic](/Traits.aspx?ID=168), [Elemental](/Traits.aspx?ID=57), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Aquatic",
+  "Elemental",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=197",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 1
+}

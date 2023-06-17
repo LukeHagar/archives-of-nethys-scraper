@@ -1,0 +1,98 @@
+{
+ "ac": 17,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 1,
+ "creature_ability": [
+  "Light Blindness",
+  "Instinctual Tinker",
+  "Leap Attack",
+  "Sneak Attack",
+  "Swarming Stance"
+ ],
+ "creature_family": "Morlock",
+ "creature_family_markdown": "[Morlock](/MonsterFamilies.aspx?ID=211)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 38,
+ "hp_raw": "38",
+ "id": "creature-731",
+ "image": [
+  "/Images/Monsters/Morlock.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Undercommon"
+ ],
+ "language_markdown": "[Undercommon](/Languages.aspx?ID=11)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Morlock](/Monsters.aspx?ID=731)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nOriginating from humans long lost from the world of light, morlocks are brutal monsters that dwell in the tangled tunnels of the upper reaches of the Darklands. Their wiry frames mask the strength of their limbs and their swift reactions, and their arms are long enough that they can drop into an uncanny, four-limbed shuffle for speed or stealth. They no longer remember the lives their ancestors led on the surface, although many morlocks still dwell in the shattered ruins of their ancient homes. Some morlocks worship the statues of humans from these bygone eras as gods, but others now worship [Lamashtu](/Deities.aspx?ID=11), [Rovagug](/Deities.aspx?ID=15), or other violent deities.\n\n Morlock young are insatiable and clamor for even the slightest morsel of food, even consuming their siblings if no other meal presents itself. Most morlocks encourage the practice to ensure their ancestral group as a whole grows stronger.\n\n A typical morlock stands just over 5 feet tall and weighs roughly 150 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Morlock.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Morlock](/Monsters.aspx?ID=731)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 174 <sup>2.0</sup></row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +8, [Crafting](/Skills.aspx?ID=4) +8, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)** \r\n\r\n**Items**\r\n[Club](/Weapons.aspx?ID=2)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +9 \r\n\r\n+2 status to all saves vs. [disease](/Traits.aspx?ID=46) and [poison](/Traits.aspx?ID=126)\r\n</row>\r\n\r\n**HP** 38\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclub +9,\r\n**Damage** 1d6+4 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +9 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d4+4 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nclub +8 ([range increment 10 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d6+4 bludgeoning\n\n**Instinctual Tinker** <actions string=\"Two Actions\" />  The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a [Crafting](/Skills.aspx?ID=4) check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's. <br />**Critical Success** The target gains 4d6 HP and a +1 circumstance bonus to attack rolls for 1 minute. <br />**Success** The target gains 2d6 HP. <br />**Critical Failure** The morlock injures itself, taking 2d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\r\n\r\n**Leap Attack** <actions string=\"Two Actions\" />  The morlock Strides up to twice its Speed, during which it attempts a [High Jump](/Actions.aspx?ID=36) or a [Long Jump](/Actions.aspx?ID=37). At any point during its movement, the morlock can make a melee Strike against an enemy in its reach. The morlock then can't use Leap Attack for 1 round.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   A morlock's Strikes deal an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Swarming Stance**   A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Morlock Machinery</title>\r\n\r\nMorlocks tend toward brutish actions and violent traditions and have little interest in bettering their societies or creating art. However, they have a strange obsession with ancient machinery and magical items, particularly clockwork constructions. Their knack for tinkering helps keep ancient guardians and traps functional, even if their work backfires now and then.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-211\" />",
+ "name": "Morlock",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 174 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Morlock](/MonsterFamilies.aspx?ID=211)\r\n\r\n<row gap=\"medium\">\r\n**HP** 38\r\n\r\n**AC** 17\r\n\r\n**Fort** +7\r\n\r\n**Ref** +11\r\n\r\n**Will** +9\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOriginating from humans long lost from the world of light, morlocks are brutal monsters that dwell in the tangled tunnels of the upper reaches of the …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +8",
+  "Crafting +8",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +8, [Crafting](/Skills.aspx?ID=4) +8, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 174"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 174 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell_markdown": "",
+ "stealth": "9",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Originating from humans long lost from the world of light, morlocks are brutal monsters that dwell in the tangled tunnels of the upper reaches of the …",
+ "summary_markdown": "Originating from humans long lost from the world of light, morlocks are brutal monsters that dwell in the tangled tunnels of the upper reaches of the …",
+ "text": " Morlock Originating from humans long lost from the world of light, morlocks are brutal monsters that dwell in the tangled tunnels of the upper reaches of the Darklands. Their wiry frames mask the strength of their limbs and their swift reactions, and their arms are long enough that they can drop into an uncanny, four-limbed shuffle for speed or stealth. They no longer remember the lives their ancestors led on the surface, although many morlocks still dwell in the shattered ruins of their ancient homes. Some morlocks worship the statues of humans from these bygone eras as gods, but others now worship Lamashtu, Rovagug, or other violent deities. Morlock young are insatiable and clamor for even the slightest morsel of food, even consuming their siblings if no other meal presents itself. Most morlocks encourage the practice to ensure their ancestral group as a whole grows stronger. A typical morlock stands just over 5 feet tall and weighs roughly 150 pounds. Recall Knowledge - Humanoid (Society): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Morlock Source Bestiary 2 pg. 174 2.0 Perception +7; darkvision Languages Undercommon Skills Acrobatics +7, Athletics +8, Crafting +8, Stealth +9 Str +4 Dex +3 Con +1 Int -2 Wis +3 Cha +1 Light Blindness Items Club --- AC 17 Fort +7 Ref +11 Will +9 +2 status to all saves vs. disease and poison HP 38 --- Speed 30 feet, climb 20 feet Melee Single Action club +9, Damage 1d6+4 bludgeoning Melee Single Action jaws +9 (Agile), Damage 1d4+4 piercing Ranged Single Action club +8 (range increment 10 feet), Damage 1d6+4 bludgeoning Instinctual Tinker Two Actions The morlock tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check against the construct's or hazard's Fortitude DC. The morlock can't succeed if the target's level is more than double the morlock's. Critical Success The target gains 4d6 HP and a +1 circumstance bonus to attack rolls for 1 minute. Success The target gains 2d6 HP. Critical Failure The morlock injures itself, taking 2d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion). Leap Attack Two Actions The morlock Strides up to twice its Speed, during which it attempts a High Jump or a Long Jump. At any point during its movement, the morlock can make a melee Strike against an enemy in its reach. The morlock then can't use Leap Attack for 1 round. Sneak Attack A morlock's Strikes deal an extra 1d6 precision damage to flat-footed creatures. Swarming Stance A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls. Morlock Machinery Morlocks tend toward brutish actions and violent traditions and have little interest in bettering their societies or creating art. However, they have a strange obsession with ancient machinery and magical items, particularly clockwork constructions. Their knack for tinkering helps keep ancient guardians and traps functional, even if their work backfires now and then. ",
+ "trait": [
+  "Humanoid",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=731",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 3
+}

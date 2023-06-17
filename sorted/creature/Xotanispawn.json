@@ -1,0 +1,109 @@
+{
+ "ac": 40,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 8,
+ "creature_ability": [
+  "Frightful Presence",
+  "Explosion",
+  "Light Blindness",
+  "Internal Furnace",
+  "Breath Weapon",
+  "Heat Surge"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 31,
+ "hp": 340,
+ "hp_raw": "340",
+ "id": "creature-487",
+ "image": [
+  "/Images/Monsters/Xotanispawn.png"
+ ],
+ "immunity": [
+  "chaotic",
+  "evil",
+  "fire"
+ ],
+ "immunity_markdown": "chaotic, evil, fire",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 17,
+ "markdown": "<title level=\"1\" pfs=\"\">[Xotanispawn](/Monsters.aspx?ID=487)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nXotanispawn are monstrous versions of scavenging beetle larvae that have been corrupted and mutated by feeding on the remains of Xotani the Firebleeder, a slain Spawn of Rovagug buried beneath Pale Mountain in Katapesh. These creatures look vaguely like the minute insects they once were, with a sclerotized head and chitinous body plates, six legs, and numerous dorsal spines lining the joints and edges of each segment. However, by feeding on the unholy remains of Xotani, the spawn have manifested many of the traits of the infamous Firebleeder, most notably a blisteringly hot internal temperature and powerful fire attacks—to say nothing of their monstrous size.\n\n Internal heat radiates from every surface of a Xotanispawn, even from its mouth. Any contact with a Xotanispawn results in burns and the risk of catching on fire. Thankfully, Xotanispawn have also inherited Xotani’s weaknesses to cold and sunlight. They are rarely encountered on the surface during the day, opting to emerge from their subterranean lairs only at night.\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 41\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 39\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 36\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Xotanispawn.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 17\">[Xotanispawn](/Monsters.aspx?ID=487)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 91</row>\n\n**Perception** +29; darkvision, tremorsense (imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +34, [Stealth](/Skills.aspx?ID=15) +31, [Survival](/Skills.aspx?ID=16) +29\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +6\r\n\r\n**Con** +8\r\n\r\n**Int** -5\r\n\r\n**Wis** +4\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n[**Frightful Presence**](/MonsterAbilities.aspx?ID=17) ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 60 feet, DC 36\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 40 \r\n\r\n**Fort** +31 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 340\n\n**Immunities**\r\nchaotic, evil, fire\n\n**Weaknesses**\r\ncold 20\r\n\r\n**Explosion** ([fire](/Traits.aspx?ID=72)) When a Xotanispawn dies, it explodes, dealing 15d8 fire damage to creatures in a 30-foot emanation (DC 39 basic Reflex save).<br />[**Light Blindness**](/MonsterAbilities.aspx?ID=22)<br /> **Internal Furnace** <actions string=\"Reaction\" /> ([fire](/Traits.aspx?ID=72)) **Trigger** A creature adjacent to the Xotanispawn touches it or hits it with a physical attack; **Effect** The triggering creature takes 5d8 [persistent](/Conditions.aspx?ID=29) fire damage (DC 37 Reflex save to negate).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, burrow 40 feet, climb 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +30 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d8+9 piercing plus 2d8 [persistent](/Conditions.aspx?ID=29) fire and [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +30 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 4d6+9 slashing plus 2d8 [persistent](/Conditions.aspx?ID=29) fire\n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Arcane](/Traits.aspx?ID=11), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) The Xotanispawn sprays a 60-foot cone of magma that deals 10d10 fire damage and 2d6 [persistent](/Conditions.aspx?ID=29) fire damage to all creatures in the area (DC 39 basic Reflex save). The Xotanispawn can’t use its Breath Weapon again for 1d4 rounds.\r\n\r\n**Heat Surge**   When the Xotanispawn critically hits, its body surges with heat, increasing the damage of its Internal Furnace to 10d8 until the start of its next turn.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">The Firebleeder's Mark</title>\r\n\r\nTerrible rumors speak of other monsters that have emerged from the Firebleeder’s corpse in the centuries since the Legion of Wands put the beast to rest. Reports of massive clouds of noxious black sand, gray-blooded gnoll zombies with spider-like limbs, and guttural, otherworldly howls during harvest moons have long fueled local rumors that more terrors lurk in the valleys of the Brazen Peaks than a single dead god-spawn.\r\n</aside>",
+ "name": "Xotanispawn",
+ "npc": false,
+ "perception": 29,
+ "rarity": "rare",
+ "reflex_save": 29,
+ "release_date": "2019-11-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 91</row>\n\n<row gap=\"medium\">\r\n**HP** 340\r\n\r\n**AC** 40\r\n\r\n**Fort** +31\r\n\r\n**Ref** +29\r\n\r\n**Will** +23\r\n\r\n**Perception** +29\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nXotanispawn are monstrous versions of scavenging beetle larvae that have been corrupted and mutated by feeding on the remains of Xotani the …\r\n</summary>",
+ "sense": "darkvision, tremorsense (imprecise) 60 feet",
+ "sense_markdown": "darkvision, tremorsense (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +34",
+  "Stealth +31",
+  "Survival +29"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +34, [Stealth](/Skills.aspx?ID=15) +31, [Survival](/Skills.aspx?ID=16) +29",
+ "source": [
+  "Pathfinder #149: Against the Scarlet Triad"
+ ],
+ "source_raw": [
+  "Pathfinder #149: Against the Scarlet Triad pg. 91"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #149: Against the Scarlet Triad](/Sources.aspx?ID=14) pg. 91</row>",
+ "speed": {
+  "burrow": 40,
+  "climb": 40,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, burrow 40 feet, climb 40 feet",
+ "speed_raw": "40 feet, burrow 40 feet, climb 40 feet",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "stealth": "31",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Xotanispawn are monstrous versions of scavenging beetle larvae that have been corrupted and mutated by feeding on the remains of Xotani the …",
+ "summary_markdown": "Xotanispawn are monstrous versions of scavenging beetle larvae that have been corrupted and mutated by feeding on the remains of Xotani the …",
+ "text": " Xotanispawn Xotanispawn are monstrous versions of scavenging beetle larvae that have been corrupted and mutated by feeding on the remains of Xotani the Firebleeder, a slain Spawn of Rovagug buried beneath Pale Mountain in Katapesh. These creatures look vaguely like the minute insects they once were, with a sclerotized head and chitinous body plates, six legs, and numerous dorsal spines lining the joints and edges of each segment. However, by feeding on the unholy remains of Xotani, the spawn have manifested many of the traits of the infamous Firebleeder, most notably a blisteringly hot internal temperature and powerful fire attacks—to say nothing of their monstrous size. Internal heat radiates from every surface of a Xotanispawn, even from its mouth. Any contact with a Xotanispawn results in burns and the risk of catching on fire. Thankfully, Xotanispawn have also inherited Xotani’s weaknesses to cold and sunlight. They are rarely encountered on the surface during the day, opting to emerge from their subterranean lairs only at night. Recall Knowledge - Animal (Nature): DC 41 Unspecific Lore : DC 39 Specific Lore : DC 36 Xotanispawn Source Pathfinder #149: Against the Scarlet Triad pg. 91 Perception +29; darkvision, tremorsense (imprecise) 60 feet Languages Skills Athletics +34, Stealth +31, Survival +29 Str +9 Dex +6 Con +8 Int -5 Wis +4 Cha +5 Frightful Presence (aura, emotion, fear, mental) 60 feet, DC 36 --- AC 40 Fort +31 Ref +29 Will +23 HP 340 Immunities chaotic, evil, fire Weaknesses cold 20 Explosion (fire) When a Xotanispawn dies, it explodes, dealing 15d8 fire damage to creatures in a 30-foot emanation (DC 39 basic Reflex save). Light Blindness Internal Furnace Reaction (fire) Trigger A creature adjacent to the Xotanispawn touches it or hits it with a physical attack; Effect The triggering creature takes 5d8 persistent fire damage (DC 37 Reflex save to negate). --- Speed 40 feet, burrow 40 feet, climb 40 feet Melee Single Action jaws +30 (reach 10 feet), Damage 4d8+9 piercing plus 2d8 persistent fire and Grab Melee Single Action claw +30 (Agile, reach 10 feet), Damage 4d6+9 slashing plus 2d8 persistent fire Breath Weapon Two Actions (Arcane, Evocation, Fire) The Xotanispawn sprays a 60-foot cone of magma that deals 10d10 fire damage and 2d6 persistent fire damage to all creatures in the area (DC 39 basic Reflex save). The Xotanispawn can’t use its Breath Weapon again for 1d4 rounds. Heat Surge When the Xotanispawn critically hits, its body surges with heat, increasing the damage of its Internal Furnace to 10d8 until the start of its next turn. The Firebleeder's Mark Terrible rumors speak of other monsters that have emerged from the Firebleeder’s corpse in the centuries since the Legion of Wands put the beast to rest. Reports of massive clouds of noxious black sand, gray-blooded gnoll zombies with spider-like limbs, and guttural, otherworldly howls during harvest moons have long fueled local rumors that more terrors lurk in the valleys of the Brazen Peaks than a single dead god-spawn. ",
+ "trait": [
+  "Animal",
+  "Fire",
+  "Rare",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Fire](/Traits.aspx?ID=72), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Animal",
+  "Fire",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=487",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold": 20
+ },
+ "weakness_markdown": "cold 20",
+ "weakness_raw": "cold 20",
+ "will_save": 23,
+ "wisdom": 4
+}

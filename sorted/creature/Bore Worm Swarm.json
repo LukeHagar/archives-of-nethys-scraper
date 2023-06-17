@@ -1,0 +1,105 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 4,
+ "creature_ability": [
+  "Swarming Bites"
+ ],
+ "creature_family": "Bore Worm",
+ "creature_family_markdown": "[Bore Worm](/MonsterFamilies.aspx?ID=221)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 60,
+ "hp_raw": "60",
+ "id": "creature-1083",
+ "image": [
+  "/Images/Monsters/BoreWorm_BoreWormSwarm.png"
+ ],
+ "immunity": [
+  "acid",
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "acid, precision, [swarm mind](/MonsterAbilities.aspx?ID=36)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Bore Worm Swarm](/Monsters.aspx?ID=1083)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA single finger-length bore worm is unpleasant but mostly innocuous. Ten thousand bore worms, on the other hand, pose a formidable threat to even seasoned adventurers. The countless worms form a roiling, rancid mass of acid and pain, capable of delivering a hideous death to any person or beast unable to escape them. Unfortunately for any creature other than a bore worm, most encounters involve swarms.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/BoreWorm_BoreWormSwarm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Bore Worm Swarm](/Monsters.aspx?ID=1083)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 36</row>\n\n**Perception** +12; [tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +10, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** -1\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 60\n\n**Immunities**\r\nacid, precision, [swarm mind](/MonsterAbilities.aspx?ID=36)\r\n\r\n**Resistances**\r\nbludgeoning 4, piercing 8, slashing 8\r\n\r\n**Weaknesses**\r\narea damage 4, [splash](/Traits.aspx?ID=150) damage 4, water 8\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet, burrow 30 feet\n\n**Swarming Bites** <actions string=\"Single Action\" />  Each enemy in the swarm's space takes 3d6 acid damage (DC 22 basic Reflex save). Creatures that fail this save become [sickened 1](/Conditions.aspx?ID=34) from the swarm's painful bites.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-221\" />",
+ "name": "Bore Worm Swarm",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "bludgeoning": 4,
+  "piercing": 8,
+  "slashing": 8
+ },
+ "resistance_markdown": "bludgeoning 4, piercing 8, slashing 8",
+ "resistance_raw": "bludgeoning 4, piercing 8, slashing 8",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 36</row>\r\n\r\n**Creature Family** [Bore Worm](/MonsterFamilies.aspx?ID=221)\r\n\r\n<row gap=\"medium\">\r\n**HP** 60\r\n\r\n**AC** 20\r\n\r\n**Fort** +15\r\n\r\n**Ref** +12\r\n\r\n**Will** +8\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA single finger-length bore worm is unpleasant but mostly innocuous. Ten thousand bore worms, on the other hand, pose a formidable threat to even …\r\n</summary>",
+ "sense": " tremorsense  (imprecise) 60 feet",
+ "sense_markdown": "[tremorsense](/MonsterAbilities.aspx?ID=40) (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +10",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +10, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 36"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 36</row>",
+ "speed": {
+  "burrow": 30,
+  "land": 15,
+  "max": 30
+ },
+ "speed_markdown": "15 feet, burrow 30 feet",
+ "speed_raw": "15 feet, burrow 30 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": -1,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A single finger-length bore worm is unpleasant but mostly innocuous. Ten thousand bore worms, on the other hand, pose a formidable threat to even …",
+ "summary_markdown": "A single finger-length bore worm is unpleasant but mostly innocuous. Ten thousand bore worms, on the other hand, pose a formidable threat to even …",
+ "text": " Bore Worm Swarm A single finger-length bore worm is unpleasant but mostly innocuous. Ten thousand bore worms, on the other hand, pose a formidable threat to even seasoned adventurers. The countless worms form a roiling, rancid mass of acid and pain, capable of delivering a hideous death to any person or beast unable to escape them. Unfortunately for any creature other than a bore worm, most encounters involve swarms. Recall Knowledge - Animal (Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Bore Worm Swarm Source Bestiary 3 pg. 36 Perception +12; tremorsense (imprecise) 60 feet Languages Skills Acrobatics +10, Stealth +12 Str -1 Dex +3 Con +4 Int -5 Wis +1 Cha -4 --- AC 20 Fort +15 Ref +12 Will +8 HP 60 Immunities acid, precision, swarm mind Resistances bludgeoning 4, piercing 8, slashing 8 Weaknesses area damage 4, splash damage 4, water 8 --- Speed 15 feet, burrow 30 feet Swarming Bites Single Action Each enemy in the swarm's space takes 3d6 acid damage (DC 22 basic Reflex save). Creatures that fail this save become sickened 1 from the swarm's painful bites. ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1083",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 4
+ },
+ "weakness_markdown": "area damage 4, [splash](/Traits.aspx?ID=150) damage 4, water 8",
+ "weakness_raw": "area damage 4,  splash  damage 4, water 8",
+ "will_save": 8,
+ "wisdom": 1
+}

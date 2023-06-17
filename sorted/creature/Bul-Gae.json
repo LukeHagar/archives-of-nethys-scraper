@@ -1,0 +1,108 @@
+{
+ "ac": 33,
+ "alignment": "LN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 7,
+ "creature_ability": [
+  "Eclipse Aura",
+  "Solar Flare",
+  "Lunar Burst",
+  "Shadow Leap",
+  "Thermal Mastery"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 255,
+ "hp_raw": "255",
+ "id": "creature-1411",
+ "image": [
+  "/Images/Monsters/Bulgae.png"
+ ],
+ "intelligence": 5,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Bul-Gae](/Monsters.aspx?ID=1411)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBul-gaes are manifestations of the eclipsed sun and moon. They resemble large canines, though their coloration and features change as they exercise their powers over heat and cold. Depending on whether they have most recently unleashed their lunar or solar powers, a bul-gae resembles either a crimson hound wreathed in flames or a cerulean, frostbitten fox, respectively.\n\n Legends say that the first bul-gae attempted to steal the sun from the sky. As they bit down on the burning sphere, though, the bul-gae was badly burned. Having failed, they then tried to retrieve the moon, but when they touched the moon the bul-gae froze solid and fell to the ground. The descendants of that bul-gae forever hone their powers of flame and ice so that they may one day succeed where their ancestor failed.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 34\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 32\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 29\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Bulgae.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Bul-Gae](/Monsters.aspx?ID=1411)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"LN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 79</row>\n\n**Perception** +26; [greater darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +28, [Intimidation](/Skills.aspx?ID=7) +23, [Stealth](/Skills.aspx?ID=15) +23, [Survival](/Skills.aspx?ID=16) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +7\r\n\r\n**Int** +5\r\n\r\n**Wis** +6\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +22 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 255\n\n**Resistances**\r\ncold 15, fire 15\n\n**Eclipse Aura** ([aura](/Traits.aspx?ID=206), [darkness](/Traits.aspx?ID=39), [occult](/Traits.aspx?ID=120)) 100 feet. Light and shadows morph strangely around the bul-gae. A creature attempting to create a [light](/Traits.aspx?ID=100) effect within the aura must attempt a DC 5 flat check. On a failure, the attempt fails, the effect is lost, and the DC to [counteract](/Rules.aspx?ID=371) [darkness](/Traits.aspx?ID=39) effects within the aura is increased by 1.<br />**Solar Flare** <actions string=\"Reaction\" /> ([evocation](/Traits.aspx?ID=65), [fire](/Traits.aspx?ID=72), [occult](/Traits.aspx?ID=120)) **Trigger** The bul-gae takes damage; **Effect** The bul-gae releases a solar flare in a 30-foot emanation. Each creature in the area takes 6d8 fire damage (DC 34 [basic](/Rules.aspx?ID=329) Reflex save). On a critical failure, a creature also takes 2d10 [persistent fire damage](/Conditions.aspx?ID=29). After using this ability, the bul-gae's flames cool and they can't use Solar Flare again until after they have used Lunar Burst.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +27 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+12 piercing plus 2d6 cold or fire and [Knockdown](/MonsterAbilities.aspx?ID=20)\n\n**Lunar Burst** <actions string=\"Two Actions\" /> ([Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65), [Occult](/Traits.aspx?ID=120)) The bul-gae releases a blast of otherworldly frost that deals 6d8 cold damage to each creature in a 10-foot emanation (DC 34 [basic](/Rules.aspx?ID=329) Reflex save). On a critical failure, a creature also becomes [slowed 2](/Conditions.aspx?ID=35). After using this ability, the bul-gae's flames heat up and they can't use Lunar Burst again until after they have used Solar Flare.\r\n\r\n**Shadow Leap** <actions string=\"Single Action\" /> ([Conjuration](/Traits.aspx?ID=33), [Occult](/Traits.aspx?ID=120), [Shadow](/Traits.aspx?ID=143), [Teleportation](/Traits.aspx?ID=156)) **Requirement** The bul-gae is in dim light or darkness; **Effect** The bul-gae dives into a shadow and reappears from a shadow within 40 feet.\r\n\r\n**Thermal Mastery**   The bul-gae has total control over the powers of cold and fire. Each time it attacks with its jaws, it can choose to have the additional damage be either cold damage or fire damage.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Eclipsed Light</title>\r\n\r\nBul-gae bring with them the distorted light of an eclipse wherever they go. This distorted light favors blue hues and skews the spectrum of visible colors, giving the world an eerie, muted ambiance. Tales say that bul-gae serve as faithful companions to the ancient, shadowy master of the first bul-gae. These tales purport that the shadow master can see through the distorted light of all bul-gae and uses the hounds as a means to watch the [Material Plane](/Planes.aspx?ID=1) for unknown purposes. \r\n</aside>",
+ "name": "Bul-Gae",
+ "npc": false,
+ "perception": 26,
+ "rarity": "uncommon",
+ "reflex_save": 22,
+ "release_date": "2021-07-07",
+ "resistance": {
+  "cold": 15,
+  "fire": 15
+ },
+ "resistance_markdown": "cold 15, fire 15",
+ "resistance_raw": "cold 15, fire 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 79</row>\n\n<row gap=\"medium\">\r\n**HP** 255\r\n\r\n**AC** 33\r\n\r\n**Fort** +28\r\n\r\n**Ref** +22\r\n\r\n**Will** +25\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBul-gaes are manifestations of the eclipsed sun and moon. They resemble large canines, though their coloration and features change as they exercise …\r\n</summary>",
+ "sense": " greater darkvision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +28",
+  "Intimidation +23",
+  "Stealth +23",
+  "Survival +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +28, [Intimidation](/Skills.aspx?ID=7) +23, [Stealth](/Skills.aspx?ID=15) +23, [Survival](/Skills.aspx?ID=16) +25",
+ "source": [
+  "Pathfinder #168: King of the Mountain"
+ ],
+ "source_raw": [
+  "Pathfinder #168: King of the Mountain pg. 79"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 79</row>",
+ "speed": {
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet",
+ "speed_raw": "40 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "stealth": "23",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Bul-gaes are manifestations of the eclipsed sun and moon. They resemble large canines, though their coloration and features change as they exercise …",
+ "summary_markdown": "Bul-gaes are manifestations of the eclipsed sun and moon. They resemble large canines, though their coloration and features change as they exercise …",
+ "text": " Bul-Gae Bul-gaes are manifestations of the eclipsed sun and moon. They resemble large canines, though their coloration and features change as they exercise their powers over heat and cold. Depending on whether they have most recently unleashed their lunar or solar powers, a bul-gae resembles either a crimson hound wreathed in flames or a cerulean, frostbitten fox, respectively. Legends say that the first bul-gae attempted to steal the sun from the sky. As they bit down on the burning sphere, though, the bul-gae was badly burned. Having failed, they then tried to retrieve the moon, but when they touched the moon the bul-gae froze solid and fell to the ground. The descendants of that bul-gae forever hone their powers of flame and ice so that they may one day succeed where their ancestor failed. Recall Knowledge - Beast (Arcana, Nature): DC 34 Unspecific Lore : DC 32 Specific Lore : DC 29 Bul-Gae Source Pathfinder #168: King of the Mountain pg. 79 Perception +26; greater darkvision, scent (imprecise) 60 feet Languages Common Skills Athletics +28, Intimidation +23, Stealth +23, Survival +25 Str +8 Dex +4 Con +7 Int +5 Wis +6 Cha +4 --- AC 33 Fort +28 Ref +22 Will +25 HP 255 Resistances cold 15, fire 15 Eclipse Aura (aura, darkness, occult) 100 feet. Light and shadows morph strangely around the bul-gae. A creature attempting to create a light effect within the aura must attempt a DC 5 flat check. On a failure, the attempt fails, the effect is lost, and the DC to counteract darkness effects within the aura is increased by 1. Solar Flare Reaction (evocation, fire, occult) Trigger The bul-gae takes damage; Effect The bul-gae releases a solar flare in a 30-foot emanation. Each creature in the area takes 6d8 fire damage (DC 34 basic Reflex save). On a critical failure, a creature also takes 2d10 persistent fire damage. After using this ability, the bul-gae's flames cool and they can't use Solar Flare again until after they have used Lunar Burst. --- Speed 40 feet Melee Single Action jaws +27 (Agile), Damage 2d8+12 piercing plus 2d6 cold or fire and Knockdown Lunar Burst Two Actions (Cold, Evocation, Occult) The bul-gae releases a blast of otherworldly frost that deals 6d8 cold damage to each creature in a 10-foot emanation (DC 34 basic Reflex save). On a critical failure, a creature also becomes slowed 2. After using this ability, the bul-gae's flames heat up and they can't use Lunar Burst again until after they have used Solar Flare. Shadow Leap Single Action (Conjuration, Occult, Shadow, Teleportation) Requirement The bul-gae is in dim light or darkness; Effect The bul-gae dives into a shadow and reappears from a shadow within 40 feet. Thermal Mastery The bul-gae has total control over the powers of cold and fire. Each time it attacks with its jaws, it can choose to have the additional damage be either cold damage or fire damage. Eclipsed Light Bul-gae bring with them the distorted light of an eclipse wherever they go. This distorted light favors blue hues and skews the spectrum of visible colors, giving the world an eerie, muted ambiance. Tales say that bul-gae serve as faithful companions to the ancient, shadowy master of the first bul-gae. These tales purport that the shadow master can see through the distorted light of all bul-gae and uses the hounds as a means to watch the Material Plane for unknown purposes. ",
+ "trait": [
+  "Beast",
+  "Cold",
+  "Fire",
+  "Uncommon",
+  "LN",
+  "Medium"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Cold](/Traits.aspx?ID=27), [Fire](/Traits.aspx?ID=72), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Cold",
+  "Fire",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1411",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 6
+}

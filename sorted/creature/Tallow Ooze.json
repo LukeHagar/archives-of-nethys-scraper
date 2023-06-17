@@ -1,0 +1,111 @@
+{
+ "ac": 19,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 5,
+ "creature_ability": [
+  "Motion Sense",
+  "Congealed",
+  "Greasy Seepage",
+  "Engulf",
+  "Residual Grease"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": -5,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 270,
+ "hp_raw": "270",
+ "id": "creature-533",
+ "image": [
+  "/Images/Monsters/TallowOoze.png"
+ ],
+ "immunity": [
+  "acid",
+  "critical hits",
+  "mental",
+  "piercing",
+  "precision",
+  "slashing",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "acid, critical hits, mental, piercing, precision, slashing, unconscious, visual",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Tallow Ooze](/Monsters.aspx?ID=533)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nPale yellow and smelling of meat, this unnatural, globular monster is composed entirely of rendered animal fat. A tallow ooze typically results from magical mishaps during the creation of enchanted candles or soaps, or while rendering the fat of a magical beast, though occasionally spellcasters create these beings intentionally.\n\n A tallow ooze hunts other creatures to subsume them into its own body and absorb their fat. Since tallow is solid at room temperature, tallow oozes must metabolize their own bodies to produce enough heat to remain gelatinous. A tallow ooze that cannot replenish itself with absorbed fat will either consume itself or solidify, though a tallow ooze exposed to too much heat might melt entirely.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/TallowOoze.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Tallow Ooze](/Monsters.aspx?ID=533)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 83</row>\n\n**Perception** +14; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** -5\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Motion Sense** A tallow ooze can sense nearby motion through vibration and air movement.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 270\n\n**Immunities**\r\nacid, critical hits, mental, piercing, precision, slashing, unconscious, visual\r\n\r\n**Resistances**\r\ncold 10\r\n\r\n**Weaknesses**\r\nfire 10\r\n\r\n**Congealed** Whenever the tallow ooze takes fire damage, it becomes [quickened](/Conditions.aspx?ID=32) for 1 round (it can only Stride or Strike with the extra action). Whenever the tallow ooze is dealt cold damage (even if that damage is prevented by its resistance), it becomes [slowed 1](/Conditions.aspx?ID=35) for 1 round and can’t use its Engulf ability (but creatures already engulfed are still engulfed).<br />**Greasy Seepage** (aura) 10 feet. Any creature that starts its turn in or enters a square in the area must attempt a DC 30 [Acrobatics](/Skills.aspx?ID=1) check to [Balance](/Actions.aspx?ID=28). A creature that takes a Step doesn’t need to roll this check.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +23,\r\n**Damage** 2d10+10 bludgeoning plus residual grease\n\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Two Actions\" />  DC 30, 4d10 bludgeoning, Escape DC 26, Rupture 25\r\n\r\n**Residual Grease**   When the tallow ooze critically succeeds at an attack against a creature or a creature escapes from being engulfed by the ooze, that creature’s hands and gear become slick with grease. For 1d4 rounds, the affected creature must attempt a DC 30 Reflex save whenever it uses any item (including weapons) that must be wielded or held. On a failure, the creature takes a –2 circumstance penalty to any attack roll or check to use the item; on a critical failure, the creature drops the item, which lands in a random adjacent square. The creature (or an adjacent ally) can use 1 Interact action to wipe off the grease from an item or from its hands.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Saponaceous Tallow Ooze</title>\r\n\r\nExposure to a sufficient quantity of alkali (such as from ash) may cause a chemical reaction in a tallow ooze, turning it into a mass of living soap. Such saponaceous tallow oozes leave residual glycerol in their wake instead of grease (though the effects are the same) and gain the following ability. \n\n**Soapy Effluence** When a saponaceous tallow ooze is exposed to at least a gallon of water, takes damage from an ability with the water trait, or fails a saving throw against an effect with the [water](/Traits.aspx?ID=165) trait, it releases a cloud of bubbles that fills a 10-foot burst around the ooze’s current space for 1 minute. Creatures within the area are [dazzled](/Conditions.aspx?ID=7).\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Tallow Ooze",
+ "npc": false,
+ "perception": 14,
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2020-04-29",
+ "resistance": {
+  "cold": 10
+ },
+ "resistance_markdown": "cold 10",
+ "resistance_raw": "cold 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 83</row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 270\r\n\r\n**AC** 19\r\n\r\n**Fort** +22\r\n\r\n**Ref** +10\r\n\r\n**Will** +13\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPale yellow and smelling of meat, this unnatural, globular monster is composed entirely of rendered animal fat. A tallow ooze typically results from …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +23"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23",
+ "source": [
+  "Pathfinder #154: Siege of the Dinosaurs"
+ ],
+ "source_raw": [
+  "Pathfinder #154: Siege of the Dinosaurs pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #154: Siege of the Dinosaurs](/Sources.aspx?ID=31) pg. 83</row>",
+ "speed": {
+  "land": 20,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "20 feet, swim 20 feet",
+ "speed_raw": "20 feet, swim 20 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Pale yellow and smelling of meat, this unnatural, globular monster is composed entirely of rendered animal fat. A tallow ooze typically results from …",
+ "summary_markdown": "Pale yellow and smelling of meat, this unnatural, globular monster is composed entirely of rendered animal fat. A tallow ooze typically results from …",
+ "text": " Tallow Ooze Pale yellow and smelling of meat, this unnatural, globular monster is composed entirely of rendered animal fat. A tallow ooze typically results from magical mishaps during the creation of enchanted candles or soaps, or while rendering the fat of a magical beast, though occasionally spellcasters create these beings intentionally. A tallow ooze hunts other creatures to subsume them into its own body and absorb their fat. Since tallow is solid at room temperature, tallow oozes must metabolize their own bodies to produce enough heat to remain gelatinous. A tallow ooze that cannot replenish itself with absorbed fat will either consume itself or solidify, though a tallow ooze exposed to too much heat might melt entirely. Recall Knowledge - Ooze (Occultism): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Tallow Ooze Source Pathfinder #154: Siege of the Dinosaurs pg. 83 Perception +14; motion sense 60 feet, no vision Languages Skills Athletics +23 Str +6 Dex -5 Con +5 Int -5 Wis +0 Cha -5 Motion Sense A tallow ooze can sense nearby motion through vibration and air movement. --- AC 19 Fort +22 Ref +10 Will +13 HP 270 Immunities acid, critical hits, mental, piercing, precision, slashing, unconscious, visual Resistances cold 10 Weaknesses fire 10 Congealed Whenever the tallow ooze takes fire damage, it becomes quickened for 1 round (it can only Stride or Strike with the extra action). Whenever the tallow ooze is dealt cold damage (even if that damage is prevented by its resistance), it becomes slowed 1 for 1 round and can’t use its Engulf ability (but creatures already engulfed are still engulfed). Greasy Seepage (aura) 10 feet. Any creature that starts its turn in or enters a square in the area must attempt a DC 30 Acrobatics check to Balance. A creature that takes a Step doesn’t need to roll this check. --- Speed 20 feet, swim 20 feet Melee Single Action pseudopod +23, Damage 2d10+10 bludgeoning plus residual grease Engulf Two Actions DC 30, 4d10 bludgeoning, Escape DC 26, Rupture 25 Residual Grease When the tallow ooze critically succeeds at an attack against a creature or a creature escapes from being engulfed by the ooze, that creature’s hands and gear become slick with grease. For 1d4 rounds, the affected creature must attempt a DC 30 Reflex save whenever it uses any item (including weapons) that must be wielded or held. On a failure, the creature takes a –2 circumstance penalty to any attack roll or check to use the item; on a critical failure, the creature drops the item, which lands in a random adjacent square. The creature (or an adjacent ally) can use 1 Interact action to wipe off the grease from an item or from its hands. Saponaceous Tallow Ooze Exposure to a sufficient quantity of alkali (such as from ash) may cause a chemical reaction in a tallow ooze, turning it into a mass of living soap. Such saponaceous tallow oozes leave residual glycerol in their wake instead of grease (though the effects are the same) and gain the following ability. Soapy Effluence When a saponaceous tallow ooze is exposed to at least a gallon of water, takes damage from an ability with the water trait, or fails a saving throw against an effect with the water trait, it releases a cloud of bubbles that fills a 10-foot burst around the ooze’s current space for 1 minute. Creatures within the area are dazzled. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=533",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 13,
+ "wisdom": 0
+}

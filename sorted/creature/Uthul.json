@@ -1,0 +1,103 @@
+{
+ "ac": 36,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "High Winds",
+  "Lightning Crash",
+  "Swiftness",
+  "Whirlwind Form"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 250,
+ "hp_raw": "250",
+ "id": "creature-398",
+ "image": [
+  "/Images/Monsters/Uthul.png"
+ ],
+ "immunity": [
+  "electricity",
+  "paralyze",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "electricity, paralyze, poison, sleep",
+ "intelligence": -1,
+ "language": [
+  "Auran"
+ ],
+ "language_markdown": "[Auran](/Languages.aspx?ID=15)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Uthul](/Monsters.aspx?ID=398)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAn uthul most often appears to be a dark, swirling cloud filled with flying debris and streaked with sudden flashes of lightning. Although they are clearly elemental in nature, uthuls are nearly always found on the Material Plane, where they hide among natural cloud formations, especially thunderstorms.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 32\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 30\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 27\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Uthul.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Uthul](/Monsters.aspx?ID=398)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 317</row>\n\n**Perception** +20; darkvision\r\n\r\n**Languages**\r\n[Auran](/Languages.aspx?ID=15)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +29, [Athletics](/Skills.aspx?ID=3) +27, [Intimidation](/Skills.aspx?ID=7) +23, [Stealth](/Skills.aspx?ID=15) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +7\r\n\r\n**Con** +4\r\n\r\n**Int** -1\r\n\r\n**Wis** -2\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +22 \n\n</row>\r\n\r\n**HP** 250\n\n**Immunities**\r\nelectricity, paralyze, poison, sleep\n\n**High Winds** ([air](/Traits.aspx?ID=5), [aura](/Traits.aspx?ID=206)) 40 feet. Air in the aura is difficult terrain for Flying creatures without the air trait.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 100 feet; swiftness\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +29 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 3d12+11 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndebris +29 ([range increment 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 5d8+15 bludgeoning\n\n**Lightning Crash** <actions string=\"Single Action\" /> ([Electricity](/Traits.aspx?ID=56), [Incapacitation](/Traits.aspx?ID=93), [Sonic](/Traits.aspx?ID=147)) The uthul unleashes a powerful bolt of lightning and a stunning thunderclap. The bolt deals 6d12 electricity damage to all creatures in a 30-foot line, with a DC 34 basic Reflex save, and every creature in a 20-foot emanation must attempt a DC 34 Fortitude save. The uthul can’t use Lightning Crash again for 1d4 rounds.<br />**Critical Success** The creature is unaffected.<br />**Success** The creature is stunned 1.<br />**Failure** The creature is stunned for 1 round.<br />**Critical Failure** The creature is stunned for 1d4 rounds.\r\n\r\n**Swiftness**   An uthul’s movement doesn’t trigger reactions.\r\n\r\n**Whirlwind Form** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32)) The uthul transforms itself into a swirling vortex of storm and fury 10 feet wide and up to 40 feet tall. It stays in this form for 3 rounds or until it Dismisses the effect. While in this form, the uthul gains resistance 10 to physical damage and can move through other creatures. Its aura remains active, but it can’t make debris Strikes nor use Lightning Crash. Instead, any creature the uthul moves through takes 4d6 bludgeoning damage and 2d12 electricity damage. A creature can take this damage only once per round. A Large or smaller creature must also succeed at a DC 32 Reflex save or be picked up and held suspended within the vortex. Suspended creatures move with the uthul. A creature can attempt to escape by spending an action to attempt a DC 32 Reflex save (or a DC 32 Acrobatics check to maneuver in flight if it has a fly Speed). Upon escaping, or when the uthul transforms back into its storm cloud form, a suspended creature is hurled 1d4 × 10 feet in a random direction, then falls unless it can fly or otherwise remain aloft. After returning to its normal form, the uthul must wait 1 minute before it can use Whirlwind Form again.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Outcasts of Air</title>\r\n\r\nUthuls are thought to be an outcast group of beings that once dwelled on the Plane of Air. It is unclear whether their fury was the reason for their expulsion from that plane or if they grew implacable after being banished. Uthuls do not speak of their history to anyone and simply redouble their unending rage on any who dare to ask.\r\n</aside>",
+ "name": "Uthul",
+ "npc": false,
+ "perception": 20,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 29,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 317</row>\n\n<row gap=\"medium\">\r\n**HP** 250\r\n\r\n**AC** 36\r\n\r\n**Fort** +28\r\n\r\n**Ref** +29\r\n\r\n**Will** +22\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn uthul most often appears to be a dark, swirling cloud filled with flying debris and streaked with sudden flashes of lightning. Although they are …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +29",
+  "Athletics +27",
+  "Intimidation +23",
+  "Stealth +25"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +29, [Athletics](/Skills.aspx?ID=3) +27, [Intimidation](/Skills.aspx?ID=7) +23, [Stealth](/Skills.aspx?ID=15) +25",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 317"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 317</row>",
+ "speed": {
+  "fly": 100,
+  "max": 100
+ },
+ "speed_markdown": "fly 100 feet; swiftness",
+ "speed_raw": "fly 100 feet; swiftness",
+ "spell_markdown": "",
+ "stealth": "25",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "An uthul most often appears to be a dark, swirling cloud filled with flying debris and streaked with sudden flashes of lightning. Although they are …",
+ "summary_markdown": "An uthul most often appears to be a dark, swirling cloud filled with flying debris and streaked with sudden flashes of lightning. Although they are …",
+ "text": " Uthul An uthul most often appears to be a dark, swirling cloud filled with flying debris and streaked with sudden flashes of lightning. Although they are clearly elemental in nature, uthuls are nearly always found on the Material Plane, where they hide among natural cloud formations, especially thunderstorms. Recall Knowledge - Elemental (Arcana, Nature): DC 32 Unspecific Lore : DC 30 Specific Lore : DC 27 Uthul Source Bestiary pg. 317 Perception +20; darkvision Languages Auran Skills Acrobatics +29, Athletics +27, Intimidation +23, Stealth +25 Str +7 Dex +7 Con +4 Int -1 Wis -2 Cha +3 --- AC 36 Fort +28 Ref +29 Will +22 HP 250 Immunities electricity, paralyze, poison, sleep High Winds (air, aura) 40 feet. Air in the aura is difficult terrain for Flying creatures without the air trait. --- Speed fly 100 feet; swiftness Melee Single Action claw +29 (Agile), Damage 3d12+11 slashing Ranged Single Action debris +29 (range increment 60 feet), Damage 5d8+15 bludgeoning Lightning Crash Single Action (Electricity, Incapacitation, Sonic) The uthul unleashes a powerful bolt of lightning and a stunning thunderclap. The bolt deals 6d12 electricity damage to all creatures in a 30-foot line, with a DC 34 basic Reflex save, and every creature in a 20-foot emanation must attempt a DC 34 Fortitude save. The uthul can’t use Lightning Crash again for 1d4 rounds. Critical Success The creature is unaffected. Success The creature is stunned 1. Failure The creature is stunned for 1 round. Critical Failure The creature is stunned for 1d4 rounds. Swiftness An uthul’s movement doesn’t trigger reactions. Whirlwind Form Two Actions (Concentrate) The uthul transforms itself into a swirling vortex of storm and fury 10 feet wide and up to 40 feet tall. It stays in this form for 3 rounds or until it Dismisses the effect. While in this form, the uthul gains resistance 10 to physical damage and can move through other creatures. Its aura remains active, but it can’t make debris Strikes nor use Lightning Crash. Instead, any creature the uthul moves through takes 4d6 bludgeoning damage and 2d12 electricity damage. A creature can take this damage only once per round. A Large or smaller creature must also succeed at a DC 32 Reflex save or be picked up and held suspended within the vortex. Suspended creatures move with the uthul. A creature can attempt to escape by spending an action to attempt a DC 32 Reflex save (or a DC 32 Acrobatics check to maneuver in flight if it has a fly Speed). Upon escaping, or when the uthul transforms back into its storm cloud form, a suspended creature is hurled 1d4 × 10 feet in a random direction, then falls unless it can fly or otherwise remain aloft. After returning to its normal form, the uthul must wait 1 minute before it can use Whirlwind Form again. Outcasts of Air Uthuls are thought to be an outcast group of beings that once dwelled on the Plane of Air. It is unclear whether their fury was the reason for their expulsion from that plane or if they grew implacable after being banished. Uthuls do not speak of their history to anyone and simply redouble their unending rage on any who dare to ask. ",
+ "trait": [
+  "Air",
+  "Elemental",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Air](/Traits.aspx?ID=5), [Elemental](/Traits.aspx?ID=57)",
+ "trait_raw": [
+  "Air",
+  "Elemental"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=398",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 22,
+ "wisdom": -2
+}

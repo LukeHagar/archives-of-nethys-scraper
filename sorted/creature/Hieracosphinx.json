@@ -1,0 +1,95 @@
+{
+ "ac": 22,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Buck",
+  "Contingent Glyph",
+  "Pounce",
+  "Shriek"
+ ],
+ "creature_family": "Sphinx",
+ "creature_family_markdown": "[Sphinx](/MonsterFamilies.aspx?ID=209)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 70,
+ "hp_raw": "70",
+ "id": "creature-1317",
+ "image": [
+  "/Images/Monsters/Sphinx_Hieracosphinx.png"
+ ],
+ "intelligence": -2,
+ "language": [
+  "Sphinx"
+ ],
+ "language_markdown": "[Sphinx](/Languages.aspx?ID=35)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Hieracosphinx](/Monsters.aspx?ID=1317)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLacking the intelligence of their kin, falcon-headed hieracosphinxes are cowardly, cruel-hearted creatures. They guard their territory ruthlessly against weaker intruders.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Sphinx_Hieracosphinx.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Hieracosphinx](/Monsters.aspx?ID=1317)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 250</row>\n\n**Perception** +14; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Sphinx](/Languages.aspx?ID=35)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +9, [Survival](/Skills.aspx?ID=16) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +15 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 70\n\n**[Buck](/MonsterAbilities.aspx?ID=6)** <actions string=\"Reaction\" /> DC 23<br />**Contingent Glyph** ([abjuration](/Traits.aspx?ID=2), [occult](/Traits.aspx?ID=120)) A hieracosphinx has an innate magical defense similar to a [_contingency_](/Spells.aspx?ID=49). When they take a specific type of energy damage (varying by the individual sphinx), they can use their reaction to have the glyph cast [_haste_](/Spells.aspx?ID=147) on them. The glyph is then dormant for 1 week. A critical success to [Recall Knowledge](/Actions.aspx?ID=26) about a particular hieracosphinx (30 or higher on the check) reveals which damage type triggers the glyph.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +15,\r\n**Damage** 2d10+4 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +15 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d8+4 slashing\n\n**Pounce** <actions string=\"Single Action\" />  The hieracosphinx Strides and makes a Strike at the end of that movement. If they began this action [hidden](/Conditions.aspx?ID=22), they remain hidden until after the attack.\r\n\r\n**Shriek** <actions string=\"Single Action\" /> ([Auditory](/Traits.aspx?ID=16), [Incapacitation](/Traits.aspx?ID=93)) The hieracosphinx emits a shrill, ear-piercing shriek. Each non-sphinx in a 60-foot emanation must attempt a DC 22 Fortitude save. Any creature that attempts a save is temporarily immune for 24 hours. <br />**Critical Success** The creature is temporarily immune to that hieracosphinx's shriek for 24 hours. <br />**Success** The creature is [deafened](/Conditions.aspx?ID=8) for 1 round. <br />**Failure** The creature is deafened for 1 minute and [stunned 1](/Conditions.aspx?ID=36).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Jealous Predators</title>\r\n\r\nHieracosphinxes share none of the fondness for riddling talk and clever conversation typical of their more intelligent kin. They nonetheless envy their cousins' power, wisdom, and grace, and sometimes gather in flocks to take down stronger rival sphinxes out of sheer spite and jealousy. \r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-209\" />",
+ "name": "Hieracosphinx",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 15,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 250</row>\r\n\r\n**Creature Family** [Sphinx](/MonsterFamilies.aspx?ID=209)\r\n\r\n<row gap=\"medium\">\r\n**HP** 70\r\n\r\n**AC** 22\r\n\r\n**Fort** +12\r\n\r\n**Ref** +15\r\n\r\n**Will** +10\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLacking the intelligence of their kin, falcon-headed hieracosphinxes are cowardly, cruel-hearted creatures. They guard their territory ruthlessly …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +11",
+  "Athletics +13",
+  "Intimidation +9",
+  "Survival +12"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +11, [Athletics](/Skills.aspx?ID=3) +13, [Intimidation](/Skills.aspx?ID=7) +9, [Survival](/Skills.aspx?ID=16) +12",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 250"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 250</row>",
+ "speed": {
+  "fly": 60,
+  "land": 30,
+  "max": 60
+ },
+ "speed_markdown": "30 feet, fly 60 feet",
+ "speed_raw": "30 feet, fly 60 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Lacking the intelligence of their kin, falcon-headed hieracosphinxes are cowardly, cruel-hearted creatures. They guard their territory ruthlessly …",
+ "summary_markdown": "Lacking the intelligence of their kin, falcon-headed hieracosphinxes are cowardly, cruel-hearted creatures. They guard their territory ruthlessly …",
+ "text": " Hieracosphinx Lacking the intelligence of their kin, falcon-headed hieracosphinxes are cowardly, cruel-hearted creatures. They guard their territory ruthlessly against weaker intruders. Recall Knowledge - Beast (Arcana, Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Hieracosphinx Source Bestiary 3 pg. 250 Perception +14; darkvision Languages Sphinx Skills Acrobatics +11, Athletics +13, Intimidation +9, Survival +12 Str +4 Dex +4 Con +3 Int -2 Wis +3 Cha +0 --- AC 22 Fort +12 Ref +15 Will +10 HP 70 Buck Reaction DC 23 Contingent Glyph (abjuration, occult) A hieracosphinx has an innate magical defense similar to a contingency . When they take a specific type of energy damage (varying by the individual sphinx), they can use their reaction to have the glyph cast haste on them. The glyph is then dormant for 1 week. A critical success to Recall Knowledge about a particular hieracosphinx (30 or higher on the check) reveals which damage type triggers the glyph. --- Speed 30 feet, fly 60 feet Melee Single Action beak +15, Damage 2d10+4 slashing Melee Single Action claw +15 (Agile), Damage 2d8+4 slashing Pounce Single Action The hieracosphinx Strides and makes a Strike at the end of that movement. If they began this action hidden, they remain hidden until after the attack. Shriek Single Action (Auditory, Incapacitation) The hieracosphinx emits a shrill, ear-piercing shriek. Each non-sphinx in a 60-foot emanation must attempt a DC 22 Fortitude save. Any creature that attempts a save is temporarily immune for 24 hours. Critical Success The creature is temporarily immune to that hieracosphinx's shriek for 24 hours. Success The creature is deafened for 1 round. Failure The creature is deafened for 1 minute and stunned 1. Jealous Predators Hieracosphinxes share none of the fondness for riddling talk and clever conversation typical of their more intelligent kin. They nonetheless envy their cousins' power, wisdom, and grace, and sometimes gather in flocks to take down stronger rival sphinxes out of sheer spite and jealousy. ",
+ "trait": [
+  "Beast",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1317",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 3
+}

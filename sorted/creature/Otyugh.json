@@ -1,0 +1,98 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 4,
+ "creature_ability": [
+  "Stench",
+  "Constrict",
+  "Reposition",
+  "Filth Fever"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 12,
+ "hp": 70,
+ "hp_raw": "70",
+ "id": "creature-327",
+ "image": [
+  "/Images/Monsters/Otyugh.png"
+ ],
+ "immunity": [
+  "disease"
+ ],
+ "immunity_markdown": "disease",
+ "intelligence": -2,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Otyugh](/Monsters.aspx?ID=327)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nLords of sewers, ditches, and landfllls, otyughs are filthy monstrosities that stomp about on three massive legs in search of tasty garbage and refuse. Using two barbed tentacles to grasp and tear, guided by a third with a proliferation of eyes at the end, the otyugh has perfectly adapted to life in its cramped, disgusting environment, where it uses its appendages to see into tight spaces and grasp hidden prey.\n\n Most assume that otyughs originally evolved in swamps and moved into sewers as civilization encroached on their natural habitats. True or not, they are now one of the larger predators in those dank environs. Otyughs are territorial, but they have been known to form loose collectives, even giving each other important-sounding titles like “king of offal” and “duchess of slime” to indicate their rank and station in their sludgy underworld beneath the streets.\n\n Those who run across an otyugh might be surprised to hear it speak, shouting at intruders to leave its putrid home or demanding tribute in the form of trash or other prizes of dubious nature.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Otyugh.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Otyugh](/Monsters.aspx?ID=327)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 258</row>\n\n**Perception** +10; darkvision, scent (imprecise) 30 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +2\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +12 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 70\n\n**Immunities**\r\ndisease\n\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 40 feet. A creature entering the aura must succeed at a DC 20 Fortitude save or be sickened 1 (plus slowed 1 for the same duration on a critical failure). On a success, the creature is temporarily immune to the sickened and slowed effects of this stench for 1 hour. Regardless of the save, while within the aura, creatures take a –2 circumstance penalty to saves against diseases. An otyugh’s stench is due to the offal and refuse that it wallows in, so cleaning the creature thoroughly (with [_create water_](/Spells.aspx?ID=53) and sufficient scrubbing, for example) deactivates the aura, while a sufficiently plugged nose allows an individual to avoid exposure to the stench.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14,\r\n**Damage** 2d6+6 piercing plus filth fever\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +14 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d6+6 bludgeoning plus Grab\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d6+6 bludgeoning, DC 22\r\n\r\n**Reposition** <actions string=\"Single Action\" />  The otyugh attempts to move all creatures that it has grabbed into other spaces within the reach of its tentacles, rolling a single [Athletics](/Skills.aspx?ID=3) check and comparing the result against each creature’s Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer grabbed.\r\n\r\n**Filth Fever**  ([Disease](/Traits.aspx?ID=46)) The [sickened](/Conditions.aspx?ID=34) and [unconscious](/Conditions.aspx?ID=38) conditions from filth fever don’t improve on their own until the disease is cured. **Saving Throw** DC 20 Fortitude; **Stage 1** carrier with no ill effect (1d4 hours); **Stage 2** [sickened 1](/Conditions.aspx?ID=34) (1 day); **Stage 3** [sickened 1](/Conditions.aspx?ID=34) and [slowed 1](/Conditions.aspx?ID=35) as long as it remains [sickened](/Conditions.aspx?ID=34) (1 day); **Stage 4** [unconscious](/Conditions.aspx?ID=38) (1 day); **Stage 5** dead\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Otyugh \"Pets\"</title>\r\n\r\nOtyughs happily wallow in and consume the garbage of other creatures, making them an efficient (and ecological) disposal system for those bold enough to try such a tack. The problem, though, as such otyugh keepers soon realize, is supplying enough refuse to keep the nigh-insatiable otyugh from wandering off from its miasmic kennel.\r\n</aside>",
+ "name": "Otyugh",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 258</row>\n\n<row gap=\"medium\">\r\n**HP** 70\r\n\r\n**AC** 20\r\n\r\n**Fort** +12\r\n\r\n**Ref** +8\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLords of sewers, ditches, and landfllls, otyughs are filthy monstrosities that stomp about on three massive legs in search of tasty garbage and …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 30 feet",
+ "sense_markdown": "darkvision, scent (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +14",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +14, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 258"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 258</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "8",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Lords of sewers, ditches, and landfllls, otyughs are filthy monstrosities that stomp about on three massive legs in search of tasty garbage and …",
+ "summary_markdown": "Lords of sewers, ditches, and landfllls, otyughs are filthy monstrosities that stomp about on three massive legs in search of tasty garbage and …",
+ "text": " Otyugh Lords of sewers, ditches, and landfllls, otyughs are filthy monstrosities that stomp about on three massive legs in search of tasty garbage and refuse. Using two barbed tentacles to grasp and tear, guided by a third with a proliferation of eyes at the end, the otyugh has perfectly adapted to life in its cramped, disgusting environment, where it uses its appendages to see into tight spaces and grasp hidden prey. Most assume that otyughs originally evolved in swamps and moved into sewers as civilization encroached on their natural habitats. True or not, they are now one of the larger predators in those dank environs. Otyughs are territorial, but they have been known to form loose collectives, even giving each other important-sounding titles like “king of offal” and “duchess of slime” to indicate their rank and station in their sludgy underworld beneath the streets. Those who run across an otyugh might be surprised to hear it speak, shouting at intruders to leave its putrid home or demanding tribute in the form of trash or other prizes of dubious nature. Recall Knowledge - Aberration (Occultism): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Otyugh Source Bestiary pg. 258 Perception +10; darkvision, scent (imprecise) 30 feet Languages Common Skills Acrobatics +8, Athletics +14, Stealth +8 Str +6 Dex +2 Con +4 Int -2 Wis +2 Cha -2 --- AC 20 Fort +12 Ref +8 Will +10 HP 70 Immunities disease Stench (aura, olfactory) 40 feet. A creature entering the aura must succeed at a DC 20 Fortitude save or be sickened 1 (plus slowed 1 for the same duration on a critical failure). On a success, the creature is temporarily immune to the sickened and slowed effects of this stench for 1 hour. Regardless of the save, while within the aura, creatures take a –2 circumstance penalty to saves against diseases. An otyugh’s stench is due to the offal and refuse that it wallows in, so cleaning the creature thoroughly (with create water and sufficient scrubbing, for example) deactivates the aura, while a sufficiently plugged nose allows an individual to avoid exposure to the stench. --- Speed 20 feet Melee Single Action jaws +14, Damage 2d6+6 piercing plus filth fever Melee Single Action tentacle +14 (Agile, reach 10 feet), Damage 1d6+6 bludgeoning plus Grab Constrict Single Action 1d6+6 bludgeoning, DC 22 Reposition Single Action The otyugh attempts to move all creatures that it has grabbed into other spaces within the reach of its tentacles, rolling a single Athletics check and comparing the result against each creature’s Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer grabbed. Filth Fever (Disease) The sickened and unconscious conditions from filth fever don’t improve on their own until the disease is cured. Saving Throw DC 20 Fortitude; Stage 1 carrier with no ill effect (1d4 hours); Stage 2 sickened 1 (1 day); Stage 3 sickened 1 and slowed 1 as long as it remains sickened (1 day); Stage 4 unconscious (1 day); Stage 5 dead Otyugh \"Pets\" Otyughs happily wallow in and consume the garbage of other creatures, making them an efficient (and ecological) disposal system for those bold enough to try such a tack. The problem, though, as such otyugh keepers soon realize, is supplying enough refuse to keep the nigh-insatiable otyugh from wandering off from its miasmic kennel. ",
+ "trait": [
+  "Aberration",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=327",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

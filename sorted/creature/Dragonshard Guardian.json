@@ -1,0 +1,118 @@
+{
+ "ac": 48,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 9,
+ "creature_ability": [
+  "Frightful Presence",
+  "Reverberating Revenge",
+  "Breath Weapon"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 39,
+ "hp": 430,
+ "hp_raw": "430",
+ "id": "creature-489",
+ "image": [
+  "/Images/Monsters/DragonshardGuardian.png"
+ ],
+ "immunity": [
+  "bleed",
+  "death effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 22,
+ "markdown": "<title level=\"1\" pfs=\"\">[Dragonshard Guardian](/Monsters.aspx?ID=489)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCreated by Mengkare and powered by a shard of the _Orb of Gold Dragonkind_, this construct is made of sculpted crystal draped in a beautiful gold filigree frame.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 54\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 52\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 49\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/DragonshardGuardian.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 22\">[Dragonshard Guardian](/Monsters.aspx?ID=489)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 79</row>\n\n**Perception** +39; darkvision, [_true seeing_](/Spells.aspx?ID=344)\r\n\r\n**Languages**\n\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +30\r\n\r\n<row gap=\"medium\">\r\n**Str** +10\r\n\r\n**Dex** +8\r\n\r\n**Con** +9\r\n\r\n**Int** -5\r\n\r\n**Wis** +7\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 48 \r\n\r\n**Fort** +39 \r\n\r\n**Ref** +36 \r\n\r\n**Will** +33 \n\n</row>\r\n\r\n**HP** 430\n\n**Immunities**\r\nbleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious\r\n\r\n**Resistances**\r\nfire 24, physical 24 (except bludgeoning adamantine)\r\n\r\n**Weaknesses**\r\nsonic 24\r\n\r\n**Frightful Presence** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 90 feet, DC 42<br /> **Reverberating Revenge** <actions string=\"Reaction\" /> ([arcane](/Traits.aspx?ID=11), [fire](/Traits.aspx?ID=72)) **Trigger** The dragonshard guardian takes cold, fire, electricity, or sonic damage from a non-dragonshard guardian source; **Effect** The dragonshard guardian’s body absorbs the energy entirely, preventing the damage from harming the construct. Its body reverberates and transforms the absorbed energy before projecting it outward in a 60-foot burst. Each creature within the burst takes an amount of fire damage equal to the amount of energy damage absorbed by the triggering attack, including any damage resisted by the guardian’s resistances and additional damage from its weakness (DC 45 basic Reflex save). This fire damage doesn’t harm objects or constructs.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +41 ([Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 6d10+8 piercing plus 2d10 persistent bleed\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +41 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 9d6+8 slashing\n\n**Breath Weapon** <actions string=\"Two Actions\" />  The construct breathes in one of two ways, then can’t use Breath Weapon again for 1d4 rounds. \n<ul><li>**Flame** ([arcane](/Traits.aspx?ID=11), [evocation](/Traits.aspx?ID=65), [fire](/Traits.aspx?ID=72)) A blast of flame deals 15d10 fire damage to all creatures in a 60-foot cone (DC 45 basic Reflex save). This fire damage does not harm objects or constructs.</li><li>**Weakening Gas** ([arcane](/Traits.aspx?ID=11), [necromancy](/Traits.aspx?ID=117)) A cloud of gold-flecked gas forces each creature in a 60-foot cone to attempt a DC 45 Fortitude save; the effect lasts 1 minute.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature is [enfeebled 2](/Conditions.aspx?ID=13).<br /> **Failure** The creature is [enfeebled 5](/Conditions.aspx?ID=13).<br /> **Critical Failure** The creature is [enfeebled 8](/Conditions.aspx?ID=13).</li></ul>\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Other Guardians</title>\r\n\r\nSimilar guardians may exist, created from fragments of other destroyed artifacts. These guardians should be unique in appearance, each with their own special abilities and purposes, but you can use the guardian presented here as inspiration for creating more.\r\n</aside>",
+ "name": "Dragonshard Guardian",
+ "npc": false,
+ "perception": 39,
+ "rarity": "unique",
+ "reflex_save": 36,
+ "release_date": "2019-12-12",
+ "resistance": {
+  "bludgeoning": 24,
+  "fire": 24,
+  "physical": 24,
+  "piercing": 24,
+  "slashing": 24
+ },
+ "resistance_markdown": "fire 24, physical 24 (except bludgeoning adamantine)",
+ "resistance_raw": "fire 24, physical 24 (except bludgeoning adamantine)",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 79</row>\n\n<row gap=\"medium\">\r\n**HP** 430\r\n\r\n**AC** 48\r\n\r\n**Fort** +39\r\n\r\n**Ref** +36\r\n\r\n**Will** +33\r\n\r\n**Perception** +39\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCreated by Mengkare and powered by a shard of the  Orb of Gold Dragonkind , this construct is made of sculpted crystal draped in a beautiful gold …\r\n</summary>",
+ "sense": "darkvision,   true seeing  ",
+ "sense_markdown": "darkvision, [_true seeing_](/Spells.aspx?ID=344)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Arcana +30"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +30",
+ "source": [
+  "Pathfinder #150: Broken Promises"
+ ],
+ "source_raw": [
+  "Pathfinder #150: Broken Promises pg. 79"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #150: Broken Promises](/Sources.aspx?ID=15) pg. 79</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Age of Ashes",
+ "strength": 10,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Created by Mengkare and powered by a shard of the  Orb of Gold Dragonkind , this construct is made of sculpted crystal draped in a beautiful gold …",
+ "summary_markdown": "Created by Mengkare and powered by a shard of the  Orb of Gold Dragonkind , this construct is made of sculpted crystal draped in a beautiful gold …",
+ "text": " Dragonshard Guardian Created by Mengkare and powered by a shard of the Orb of Gold Dragonkind , this construct is made of sculpted crystal draped in a beautiful gold filigree frame. Recall Knowledge - Construct (Arcana, Crafting): DC 54 Unspecific Lore : DC 52 Specific Lore : DC 49 Dragonshard Guardian Source Pathfinder #150: Broken Promises pg. 79 Perception +39; darkvision, true seeing Languages Skills Arcana +30 Str +10 Dex +8 Con +9 Int -5 Wis +7 Cha -5 --- AC 48 Fort +39 Ref +36 Will +33 HP 430 Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious Resistances fire 24, physical 24 (except bludgeoning adamantine) Weaknesses sonic 24 Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 42 Reverberating Revenge Reaction (arcane, fire) Trigger The dragonshard guardian takes cold, fire, electricity, or sonic damage from a non-dragonshard guardian source; Effect The dragonshard guardian’s body absorbs the energy entirely, preventing the damage from harming the construct. Its body reverberates and transforms the absorbed energy before projecting it outward in a 60-foot burst. Each creature within the burst takes an amount of fire damage equal to the amount of energy damage absorbed by the triggering attack, including any damage resisted by the guardian’s resistances and additional damage from its weakness (DC 45 basic Reflex save). This fire damage doesn’t harm objects or constructs. --- Speed 30 feet Melee Single Action jaws +41 (Magical, reach 15 feet), Damage 6d10+8 piercing plus 2d10 persistent bleed Melee Single Action claw +41 (Agile, Magical, reach 10 feet), Damage 9d6+8 slashing Breath Weapon Two Actions The construct breathes in one of two ways, then can’t use Breath Weapon again for 1d4 rounds. Flame (arcane, evocation, fire) A blast of flame deals 15d10 fire damage to all creatures in a 60-foot cone (DC 45 basic Reflex save). This fire damage does not harm objects or constructs. Weakening Gas (arcane, necromancy) A cloud of gold-flecked gas forces each creature in a 60-foot cone to attempt a DC 45 Fortitude save; the effect lasts 1 minute. Critical Success The creature is unaffected. Success The creature is enfeebled 2. Failure The creature is enfeebled 5. Critical Failure The creature is enfeebled 8. Other Guardians Similar guardians may exist, created from fragments of other destroyed artifacts. These guardians should be unique in appearance, each with their own special abilities and purposes, but you can use the guardian presented here as inspiration for creating more. ",
+ "trait": [
+  "Construct",
+  "Unique",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Construct",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=489",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "sonic": 24
+ },
+ "weakness_markdown": "sonic 24",
+ "weakness_raw": "sonic 24",
+ "will_save": 33,
+ "wisdom": 7
+}

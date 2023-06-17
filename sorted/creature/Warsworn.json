@@ -1,0 +1,105 @@
+{
+ "ac": 37,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 7,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Frightful Presence",
+  "Absorb",
+  "Animated Weapons",
+  "Energy Drain",
+  "Plummet",
+  "Trample"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 350,
+ "hp_raw": "350 ( negative healing )",
+ "id": "creature-404",
+ "image": [
+  "/Images/Monsters/Warsworn.png"
+ ],
+ "immunity": [
+  "death effects",
+  "disease",
+  "paralyze",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "death effects, disease, paralyze, poison, unconscious",
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "(can’t speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can’t speak any language)",
+ "level": 16,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Warsworn](/Monsters.aspx?ID=404)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA warsworn is an animate mass of corpses composed of dozens, sometimes even hundreds, of victims of battle. They are formed by deities of undeath or war or, rarely, spontaneously manifest from the devastation of an especially horrendous battle.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Warsworn.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 16\">[Warsworn](/Monsters.aspx?ID=404)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 323</row>\n\n**Perception** +27; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can’t speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +33\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +5\r\n\r\n**Con** +7\r\n\r\n**Int** -1\r\n\r\n**Wis** +5\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 37 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +27 \r\n\r\n+1 status to all saves vs. positive\r\n</row>\r\n\r\n**HP** 350\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\ndeath effects, disease, paralyze, poison, unconscious\n\n**Attack of Opportunity** <actions string=\"Reaction\" /><br /> **Frightful Presence** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 100 feet, DC 35\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ncorpse wave +32 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 4d12+9 bludgeoning plus energy drain\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nanimated weapon +30 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [reach 100 feet](/Traits.aspx?ID=192), [versatile B](/Traits.aspx?ID=200), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** four of the weapon’s damage dice +9 of the weapon’s damage type\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nscrap ball +28 ([Magical](/Traits.aspx?ID=103), [range increment 100 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d12+9 bludgeoning plus plummet\n\n**Absorb** <actions string=\"Free Action\" /> ([Death](/Traits.aspx?ID=40), [Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) **Trigger** The warsworn moves into a dying creature’s space. **Effect** The warsworn absorbs the dying creature into itself, instantly killing the creature and healing the warsworn for a number of Hit Points equal to the creature’s level. As long as the warsworn still exists, absorbed creatures can’t be resurrected except by wish or a similarly powerful effect.\r\n\r\n**Animated Weapons**  ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65)) The warsworn assumes control of unattended weapons within 100 feet, forcing them to levitate around it. The warsworn can telekinetically wield these weapons to make melee Strikes with a reach of 100 feet.\r\n\r\n**Energy Drain**  ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) When a warsworn hits with a corpse wave Strike or damages a creature with Trample, the target must succeed at a DC 35 Fortitude save or become drained 2 and doomed 1. On a critical success, the target becomes temporarily immune to the warsworn’s energy drain for 24 hours.\r\n\r\n**Plummet**   A creature hit by a warsworn’s scrap ball Strike must attempt a DC 37 Reflex save. On a failure, the target falls prone; if the target was airborne, it falls up to 120 feet, taking damage from the fall and landing prone if the descent brings it to the ground. On a critical failure, the target is also held under a pile of scrap (DC 37 to Escape).\r\n\r\n**[Trample](/MonsterAbilities.aspx?ID=39)** <actions string=\"Three Actions\" />  Huge or smaller, corpse wave, DC 37\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Warsworn</title>\r\n\r\nWhile uniquely terrible, war is not the only tragedy that can lead to mass deaths. Other forms of mass undead, similar to warsworn, can sometimes arise from causes such as famine or disaster. Flamesworn rise from large crowds killed by fire, while plagueborn rise when entire townships or even cities perish to disease.\r\n</aside>",
+ "name": "Warsworn",
+ "npc": false,
+ "perception": 27,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 25,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 323</row>\n\n<row gap=\"medium\">\r\n**HP** 350 ( negative healing )\r\n\r\n**AC** 37\r\n\r\n**Fort** +29\r\n\r\n**Ref** +25\r\n\r\n**Will** +27\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA warsworn is an animate mass of corpses composed of dozens, sometimes even hundreds, of victims of battle. They are formed by deities of undeath or …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +33"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +33",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 323"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 323</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": 9,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A warsworn is an animate mass of corpses composed of dozens, sometimes even hundreds, of victims of battle. They are formed by deities of undeath or …",
+ "summary_markdown": "A warsworn is an animate mass of corpses composed of dozens, sometimes even hundreds, of victims of battle. They are formed by deities of undeath or …",
+ "text": " Warsworn A warsworn is an animate mass of corpses composed of dozens, sometimes even hundreds, of victims of battle. They are formed by deities of undeath or war or, rarely, spontaneously manifest from the devastation of an especially horrendous battle. Recall Knowledge - Undead (Religion): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Warsworn Source Bestiary pg. 323 Perception +27; darkvision Languages Common; (can’t speak any language) Skills Athletics +33 Str +9 Dex +5 Con +7 Int -1 Wis +5 Cha +5 --- AC 37 Fort +29 Ref +25 Will +27 +1 status to all saves vs. positive HP 350 (negative healing) Immunities death effects, disease, paralyze, poison, unconscious Attack of Opportunity Reaction Frightful Presence (aura, emotion, fear, mental) 100 feet, DC 35 --- Speed 30 feet Melee Single Action corpse wave +32 (Magical), Damage 4d12+9 bludgeoning plus energy drain Melee Single Action animated weapon +30 (Agile, Magical, reach 100 feet, versatile B, versatile P), Damage four of the weapon’s damage dice +9 of the weapon’s damage type Ranged Single Action scrap ball +28 (Magical, range increment 100 feet), Damage 4d12+9 bludgeoning plus plummet Absorb Free Action (Death, Divine, Necromancy) Trigger The warsworn moves into a dying creature’s space. Effect The warsworn absorbs the dying creature into itself, instantly killing the creature and healing the warsworn for a number of Hit Points equal to the creature’s level. As long as the warsworn still exists, absorbed creatures can’t be resurrected except by wish or a similarly powerful effect. Animated Weapons (Divine, Evocation) The warsworn assumes control of unattended weapons within 100 feet, forcing them to levitate around it. The warsworn can telekinetically wield these weapons to make melee Strikes with a reach of 100 feet. Energy Drain (Divine, Necromancy) When a warsworn hits with a corpse wave Strike or damages a creature with Trample, the target must succeed at a DC 35 Fortitude save or become drained 2 and doomed 1. On a critical success, the target becomes temporarily immune to the warsworn’s energy drain for 24 hours. Plummet A creature hit by a warsworn’s scrap ball Strike must attempt a DC 37 Reflex save. On a failure, the target falls prone; if the target was airborne, it falls up to 120 feet, taking damage from the fall and landing prone if the descent brings it to the ground. On a critical failure, the target is also held under a pile of scrap (DC 37 to Escape). Trample Three Actions Huge or smaller, corpse wave, DC 37 Warsworn While uniquely terrible, war is not the only tragedy that can lead to mass deaths. Other forms of mass undead, similar to warsworn, can sometimes arise from causes such as famine or disaster. Flamesworn rise from large crowds killed by fire, while plagueborn rise when entire townships or even cities perish to disease. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=404",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 27,
+ "wisdom": 5
+}

@@ -1,0 +1,111 @@
+{
+ "ac": 17,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 2,
+ "creature_ability": [
+  "Vulnerable to Sunlight",
+  "Viscous Choke"
+ ],
+ "creature_family": "Gremlin",
+ "creature_family_markdown": "[Gremlin](/MonsterFamilies.aspx?ID=58)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 5,
+ "hp": 18,
+ "hp_raw": "18",
+ "id": "creature-1179",
+ "image": [
+  "/Images/Monsters/Gremlin_Fuath.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Aquan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Fuath](/Monsters.aspx?ID=1179)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDespite their small size, fuaths are shipwreckers incarnate. In the dark of night, these gremlins sever ratlines, slash sails, smash sextants, and soil provisions. Once the ship founders, the fuaths return to indulge their craving for land-raised flesh. While fuaths prefer to take their prey asleep, they save a terrible doom for sailors who attack them, surrounding the mariners' faces in magically congealed water to drown them where they stand.\n\n Constantly dripping with water, fuaths have seahorse-like faces, seaweed-green fur over yellow skin, and wicked lobster claws for hands. Lacking the Undercommon tongue, they have trouble relating to other gremlins aside from [hanivers](/Monsters.aspx?ID=1178), but revere [sea hags](/Monsters.aspx?ID=254) and evil aquatic fey.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gremlin_Fuath.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Fuath](/Monsters.aspx?ID=1179)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Gremlin\" url=\"/Traits.aspx?ID=221\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 121</row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Deception](/Skills.aspx?ID=5) +4, [Nature](/Skills.aspx?ID=10) +6, [Sailing Lore](/Skills.aspx?ID=8) +6, [Stealth](/Skills.aspx?ID=15) +7, [Thievery](/Skills.aspx?ID=17) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** -1\r\n</row>\n\n**Items**\r\n[darts](/Weapons.aspx?ID=68) (6)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 18\n\n**Weaknesses**\r\n[cold iron](/Equipment.aspx?ID=375) 2, fire 2\r\n\r\n**Vulnerable to Sunlight** A fuath becomes [drained 1](/Conditions.aspx?ID=10) (or increases its drained condition by 1) after every consecutive hour they're exposed to sunlight. Being submerged in more than a foot of water prevents the sunlight from harming the fuath.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +9 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+1 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndart +9 ([Agile](/Traits.aspx?ID=170), [range increment 20 feet](/Traits.aspx?ID=248)),\r\n**Damage** 1d4+1 piercing\r\n\r\n**Primal Innate Spells** DC 17\r\n- **Cantrips (1st)**\r\n[Prestidigitation](/Spells.aspx?ID=229)\r\n- **1st**\r\n[Create Water](/Spells.aspx?ID=53), [Sleep](/Spells.aspx?ID=288)\r\n\r\n**Viscous Choke** <actions string=\"Two Actions\" /> ([Conjuration](/Traits.aspx?ID=33), [Primal](/Traits.aspx?ID=134), [Water](/Traits.aspx?ID=165)) **Frequency** once per day; **Effect** The fuath surrounds the head of one air-breathing creature within 30 feet in a magical film of viscous water for 1 minute. The target must succeed at a DC 17 Reflex save or begin to choke and must hold their breath to avoid [drowning](/Rules.aspx?ID=468). The film can be temporarily wiped away with a total of 3 Interact actions by the choking creature or creatures adjacent to it, allowing a new Reflex save with a +2 circumstance bonus to end the effect. (These actions don't need to be consecutive or made by the same creature.)\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Fuath Guardians</title>\r\n\r\nLone fuaths sometimes appoint themselves guardians of nature, protecting spawning grounds from overfishing or preventing careless cutting of peat bogs. Most, however, are unrepentant saboteurs.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-58\" />",
+ "name": "Fuath",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Gremlin\" url=\"/Traits.aspx?ID=221\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 121</row>\r\n\r\n**Creature Family** [Gremlin](/MonsterFamilies.aspx?ID=58)\r\n\r\n<row gap=\"medium\">\r\n**HP** 18\r\n\r\n**AC** 17\r\n\r\n**Fort** +5\r\n\r\n**Ref** +9\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDespite their small size, fuaths are shipwreckers incarnate. In the dark of night, these gremlins sever ratlines, slash sails, smash sextants, and …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Deception +4",
+  "Nature +6",
+  "Sailing Lore +6",
+  "Stealth +7",
+  "Thievery +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Deception](/Skills.aspx?ID=5) +4, [Nature](/Skills.aspx?ID=10) +6, [Sailing Lore](/Skills.aspx?ID=8) +6, [Stealth](/Skills.aspx?ID=15) +7, [Thievery](/Skills.aspx?ID=17) +7",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 121"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 121</row>",
+ "speed": {
+  "land": 20,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "20 feet, swim 30 feet",
+ "speed_raw": "20 feet, swim 30 feet",
+ "spell": [
+  "Create Water",
+  "Sleep",
+  "Prestidigitation"
+ ],
+ "spell_markdown": "[Create Water](/Spells.aspx?ID=53), [Prestidigitation](/Spells.aspx?ID=229), [Sleep](/Spells.aspx?ID=288)",
+ "stealth": "7",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Despite their small size, fuaths are shipwreckers incarnate. In the dark of night, these gremlins sever ratlines, slash sails, smash sextants, and …",
+ "summary_markdown": "Despite their small size, fuaths are shipwreckers incarnate. In the dark of night, these gremlins sever ratlines, slash sails, smash sextants, and …",
+ "text": " Fuath Despite their small size, fuaths are shipwreckers incarnate. In the dark of night, these gremlins sever ratlines, slash sails, smash sextants, and soil provisions. Once the ship founders, the fuaths return to indulge their craving for land-raised flesh. While fuaths prefer to take their prey asleep, they save a terrible doom for sailors who attack them, surrounding the mariners' faces in magically congealed water to drown them where they stand. Constantly dripping with water, fuaths have seahorse-like faces, seaweed-green fur over yellow skin, and wicked lobster claws for hands. Lacking the Undercommon tongue, they have trouble relating to other gremlins aside from hanivers, but revere sea hags and evil aquatic fey. Recall Knowledge - Fey (Nature): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Fuath Source Bestiary 3 pg. 121 Perception +8; darkvision Languages Aquan Skills Acrobatics +7, Deception +4, Nature +6, Sailing Lore +6, Stealth +7, Thievery +7 Str +1 Dex +4 Con +2 Int +1 Wis +3 Cha -1 Items darts (6) --- AC 17 Fort +5 Ref +9 Will +6 HP 18 Weaknesses cold iron 2, fire 2 Vulnerable to Sunlight A fuath becomes drained 1 (or increases its drained condition by 1) after every consecutive hour they're exposed to sunlight. Being submerged in more than a foot of water prevents the sunlight from harming the fuath. --- Speed 20 feet, swim 30 feet Melee Single Action claw +9 (Agile, Finesse), Damage 1d6+1 slashing Ranged Single Action dart +9 (Agile, range increment 20 feet), Damage 1d4+1 piercing Primal Innate Spells DC 17 - Cantrips (1st) Prestidigitation - 1st Create Water, Sleep Viscous Choke Two Actions (Conjuration, Primal, Water) Frequency once per day; Effect The fuath surrounds the head of one air-breathing creature within 30 feet in a magical film of viscous water for 1 minute. The target must succeed at a DC 17 Reflex save or begin to choke and must hold their breath to avoid drowning. The film can be temporarily wiped away with a total of 3 Interact actions by the choking creature or creatures adjacent to it, allowing a new Reflex save with a +2 circumstance bonus to end the effect. (These actions don't need to be consecutive or made by the same creature.) Fuath Guardians Lone fuaths sometimes appoint themselves guardians of nature, protecting spawning grounds from overfishing or preventing careless cutting of peat bogs. Most, however, are unrepentant saboteurs. ",
+ "trait": [
+  "Amphibious",
+  "Fey",
+  "Gremlin",
+  "CE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Fey](/Traits.aspx?ID=69), [Gremlin](/Traits.aspx?ID=221)",
+ "trait_raw": [
+  "Amphibious",
+  "Fey",
+  "Gremlin"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1179",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "cold_iron": 2,
+  "fire": 2
+ },
+ "weakness_markdown": "[cold iron](/Equipment.aspx?ID=375) 2, fire 2",
+ "weakness_raw": " cold iron  2, fire 2",
+ "will_save": 6,
+ "wisdom": 3
+}

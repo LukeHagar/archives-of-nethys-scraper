@@ -1,0 +1,59 @@
+{
+ "ac": 22,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 22  Thievery  (trained) to disable the trigger, or DC 18  Acrobatics  to squeeze through the partially opened door (this doesn't disable the trap but prevents it from triggering)",
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hardness": 10,
+ "hardness_raw": "10",
+ "hazard_type": "Trap",
+ "hp": 50,
+ "hp_raw": "50 (BT 25)",
+ "id": "hazard-171",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 4,
+ "markdown": "<title level=\"1\" right=\"Hazard 4\" pfs=\"\">[Iron Dart Launcher](/Hazards.aspx?ID=171)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 12</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nA half-dozen iron darts fire from spring-loaded launchers concealed in the desk opposite the front door.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 25 (expert)\r\n\r\n**Disable**\r\nDC 22 [Thievery](/Skills.aspx?ID=17) (trained) to disable the trigger, or DC 18 [Acrobatics](/Skills.aspx?ID=1) to squeeze through the partially opened door (this doesn't disable the trap but prevents it from triggering)\n\n<column gap=\"tiny\">\r\n\r\n**AC** 22, **Fort** +14, **Ref** +8\r\n\r\n**Hardness**\r\n10\r\n\r\n**HP**\r\n50 (BT 25)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Dart** <actions string=\"Reaction\" /> **Trigger** The front door is fully opened, [Forced Open](/Actions.aspx?ID=34), or [broken](/Conditions.aspx?ID=2); **Effect** A hail of iron darts launches along a 20-foot line from the desk through the doorway, dealing 4d8+10 piercing damage to each creature in the area of effect (DC 24 [basic](/Rules.aspx?ID=329) Reflex save).\n\n---\r\n**Reset**\r\nThe trap resets as soon as the door is closed. It has enough darts to trigger three times, after which, it must be reloaded with 20 darts before it can reset again.",
+ "name": "Iron Dart Launcher",
+ "rarity": "uncommon",
+ "reflex_save": 8,
+ "release_date": "2022-05-25",
+ "reset": "The trap resets as soon as the door is closed. It has enough darts to trigger three times, after which, it must be reloaded with 20 darts before it can reset again.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 12</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA half-dozen iron darts fire from spring-loaded launchers concealed in the desk opposite the front door.\r\n</summary>",
+ "source": [
+  "Pathfinder #179: Cradle of Quartz"
+ ],
+ "source_raw": [
+  "Pathfinder #179: Cradle of Quartz pg. 12"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 12</row>",
+ "speed": {},
+ "spoilers": "Outlaws of Alkenstar",
+ "stealth": "DC 25 (expert)",
+ "summary": "A half-dozen iron darts fire from spring-loaded launchers concealed in the desk opposite the front door.",
+ "summary_markdown": "A half-dozen iron darts fire from spring-loaded launchers concealed in the desk opposite the front door.",
+ "text": " Iron Dart Launcher Source Pathfinder #179: Cradle of Quartz pg. 12 Complexity Simple A half-dozen iron darts fire from spring-loaded launchers concealed in the desk opposite the front door. --- Stealth DC 25 (expert) Disable DC 22 Thievery (trained) to disable the trigger, or DC 18 Acrobatics to squeeze through the partially opened door (this doesn't disable the trap but prevents it from triggering) AC 22, Fort +14, Ref +8 Hardness 10 HP 50 (BT 25) Immunities critical hits, object immunities, precision damage Dart Reaction Trigger The front door is fully opened, Forced Open, or broken; Effect A hail of iron darts launches along a 20-foot line from the desk through the doorway, dealing 4d8+10 piercing damage to each creature in the area of effect (DC 24 basic Reflex save). --- Reset The trap resets as soon as the door is closed. It has enough darts to trigger three times, after which, it must be reloaded with 20 darts before it can reset again.",
+ "trait": [
+  "Mechanical",
+  "Trap",
+  "Uncommon"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap",
+  "Uncommon"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=171",
+ "weakness": {}
+}

@@ -1,0 +1,106 @@
+{
+ "ac": 18,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Kneecapper",
+  "Sneak Attack"
+ ],
+ "creature_family": "Gremlin",
+ "creature_family_markdown": "[Gremlin](/MonsterFamilies.aspx?ID=58)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 34,
+ "hp_raw": "34",
+ "id": "creature-689",
+ "image": [
+  "/Images/Monsters/Gremlin_Nuglub.png"
+ ],
+ "intelligence": -1,
+ "language": [
+  "Undercommon"
+ ],
+ "language_markdown": "[Undercommon](/Languages.aspx?ID=11)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Nuglub](/Monsters.aspx?ID=689)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe \"towering\" hunchbacked nuglubs are among the largest gremlins, though they're not quite three feet tall. Nuglubs have three glowing blue eyes and black, oily hair on their head and back that covers them like a cloak. Nuglubs enjoy killing with a glee that other gremlins reserve for sabotage. Indeed, they spend long hours preparing ambushes for unwary travelers or plotting the murders of sleeping villagers. Though less technically inclined than their kin, nuglubs do enjoy building traps. They delight in stealthily constructing traps in places their victims consider familiar, such as front doors and the floors around beds. If someone else gets blamed for the mayhem the nuglub creates, all the better.\n\n In combat, nuglubs focus on targets wearing metal armor. Some attribute this to envy on the part of the nuglubs, who find it difficult to fit armor on their twisted bodies. Nuglubs are particularly talented at causing those nearby to stumble over them and fall prone. Once an enemy falls to the ground, all the nuglubs descend upon the target, biting and scratching until nothing remains.\n\n Nuglubs rarely gather in groups larger than half a dozen, as quarrels often lead to violence and cannibalism. A lone nuglub who bullies a group of smaller gremlins is more likely to get their way, and thus less likely to attack their allies.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Gremlin_Nuglub.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Nuglub](/Monsters.aspx?ID=689)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Gremlin\" url=\"/Traits.aspx?ID=221\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 135 <sup>2.0</sup></row>\n\n**Perception** +5; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Crafting](/Skills.aspx?ID=4) +5, [Intimidation](/Skills.aspx?ID=7) +7, [Stealth](/Skills.aspx?ID=15) +8\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** -1\r\n\r\n**Cha** +1\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +5 \n\n</row>\r\n\r\n**HP** 34\n\n**Weaknesses**\r\ncold iron 2\r\n\r\n**Kneecapper** <actions string=\"Reaction\" /> **Trigger** A Medium creature within the nuglub's reach leaves a square during its [move](/Traits.aspx?ID=114) action; **Effect** The nuglub lashes out at the triggering creature's knees and tries to knock them [prone](/Conditions.aspx?ID=31). The nuglub makes an Acrobatics check against the creature's Reflex DC. On a success, the target falls and lands prone.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +11 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d8+1 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +11 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6+1 slashing\r\n\r\n**Primal Innate Spells** DC 18, attack +8\r\n- **Cantrips (1st)**\r\n[Prestidigitation](/Spells.aspx?ID=229)\r\n- **1st**\r\n[Grease](/Spells.aspx?ID=140), [Shocking Grasp](/Spells.aspx?ID=283)\r\n- **2nd**\r\n[Shatter](/Spells.aspx?ID=279)\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   A nuglub's Strikes deal an additional 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) targets, or 1d10 if the target is [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-58\" />",
+ "name": "Nuglub",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 10,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Gremlin\" url=\"/Traits.aspx?ID=221\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 135 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Gremlin](/MonsterFamilies.aspx?ID=58)\r\n\r\n<row gap=\"medium\">\r\n**HP** 34\r\n\r\n**AC** 18\r\n\r\n**Fort** +9\r\n\r\n**Ref** +10\r\n\r\n**Will** +5\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe \"towering\" hunchbacked nuglubs are among the largest gremlins, though they're not quite three feet tall. Nuglubs have three glowing blue eyes and …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Crafting +5",
+  "Intimidation +7",
+  "Stealth +8"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Crafting](/Skills.aspx?ID=4) +5, [Intimidation](/Skills.aspx?ID=7) +7, [Stealth](/Skills.aspx?ID=15) +8",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 135"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 135 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell": [
+  "Shatter",
+  "Grease",
+  "Shocking Grasp",
+  "Prestidigitation"
+ ],
+ "spell_markdown": "[Grease](/Spells.aspx?ID=140), [Prestidigitation](/Spells.aspx?ID=229), [Shatter](/Spells.aspx?ID=279), [Shocking Grasp](/Spells.aspx?ID=283)",
+ "stealth": "8",
+ "strength": 1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The \"towering\" hunchbacked nuglubs are among the largest gremlins, though they're not quite three feet tall. Nuglubs have three glowing blue eyes and …",
+ "summary_markdown": "The \"towering\" hunchbacked nuglubs are among the largest gremlins, though they're not quite three feet tall. Nuglubs have three glowing blue eyes and …",
+ "text": " Nuglub The \"towering\" hunchbacked nuglubs are among the largest gremlins, though they're not quite three feet tall. Nuglubs have three glowing blue eyes and black, oily hair on their head and back that covers them like a cloak. Nuglubs enjoy killing with a glee that other gremlins reserve for sabotage. Indeed, they spend long hours preparing ambushes for unwary travelers or plotting the murders of sleeping villagers. Though less technically inclined than their kin, nuglubs do enjoy building traps. They delight in stealthily constructing traps in places their victims consider familiar, such as front doors and the floors around beds. If someone else gets blamed for the mayhem the nuglub creates, all the better. In combat, nuglubs focus on targets wearing metal armor. Some attribute this to envy on the part of the nuglubs, who find it difficult to fit armor on their twisted bodies. Nuglubs are particularly talented at causing those nearby to stumble over them and fall prone. Once an enemy falls to the ground, all the nuglubs descend upon the target, biting and scratching until nothing remains. Nuglubs rarely gather in groups larger than half a dozen, as quarrels often lead to violence and cannibalism. A lone nuglub who bullies a group of smaller gremlins is more likely to get their way, and thus less likely to attack their allies. Recall Knowledge - Fey (Nature): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Nuglub Source Bestiary 2 pg. 135 2.0 Perception +5; darkvision Languages Undercommon Skills Acrobatics +8, Crafting +5, Intimidation +7, Stealth +8 Str +1 Dex +4 Con +3 Int -1 Wis -1 Cha +1 --- AC 18 Fort +9 Ref +10 Will +5 HP 34 Weaknesses cold iron 2 Kneecapper Reaction Trigger A Medium creature within the nuglub's reach leaves a square during its move action; Effect The nuglub lashes out at the triggering creature's knees and tries to knock them prone. The nuglub makes an Acrobatics check against the creature's Reflex DC. On a success, the target falls and lands prone. --- Speed 30 feet, climb 20 feet Melee Single Action bite +11 (Finesse), Damage 1d8+1 piercing plus Grab Melee Single Action claw +11 (Agile, Finesse), Damage 1d6+1 slashing Primal Innate Spells DC 18, attack +8 - Cantrips (1st) Prestidigitation - 1st Grease, Shocking Grasp - 2nd Shatter Sneak Attack A nuglub's Strikes deal an additional 1d6 precision damage to flat-footed targets, or 1d10 if the target is prone. ",
+ "trait": [
+  "Fey",
+  "Gremlin",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Gremlin](/Traits.aspx?ID=221)",
+ "trait_raw": [
+  "Fey",
+  "Gremlin"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=689",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold_iron": 2
+ },
+ "weakness_markdown": "cold iron 2",
+ "weakness_raw": "cold iron 2",
+ "will_save": 5,
+ "wisdom": -1
+}

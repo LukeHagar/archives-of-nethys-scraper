@@ -1,0 +1,43 @@
+{
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 43  Athletics  (master),  Crafting  (master), or  Engineering Lore  (master) to brace the structure to reduce the risk of collapse until the end of the creature's next turn. The DC of the flat check for this round (see Routine) is increased by 4 on a success, or by 8 on a critical success. Increasing the flat check DC to 21 or higher stabilizes the structure, ending this hazard.",
+ "exclude_from_search": false,
+ "hazard_type": "Environmental",
+ "id": "hazard-59",
+ "level": 15,
+ "markdown": "<title level=\"1\" right=\"Hazard 15\" pfs=\"\">[Collapsing Structure (Mogaru)](/Hazards.aspx?ID=59)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 88</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nMogaru brushes against a structure, severely compromising the building's stability and possibly causing it to collapse.\r\n\r\n---\r\n\r\n**Stealth**\r\n+20 (master) to notice cracks forming in the walls of the structure as Mogaru approaches\r\n\r\n**Disable**\r\nDC 43 [Athletics](/Skills.aspx?ID=3) (master), [Crafting](/Skills.aspx?ID=4) (master), or [Engineering Lore](/Skills.aspx?ID=8) (master) to brace the structure to reduce the risk of collapse until the end of the creature's next turn. The DC of the flat check for this round (see Routine) is increased by 4 on a success, or by 8 on a critical success. Increasing the flat check DC to 21 or higher stabilizes the structure, ending this hazard.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Shake Apart** <actions string=\"Reaction\" /> **Trigger** Mogaru applies any amount of force to the structure; **Effect** The building trembles. The floors of the building and the streets within 30 feet of the building become difficult terrain; creatures on this difficult terrain take a –2 circumstance penalty to attack rolls, AC, and skill checks. The hazard rolls initiative.\n\n---\r\n**Routine**\r\n(1 action) The GM rolls a DC 9 flat check to determine if the building collapses, increasing the DC as listed above. On a successful check, dust and debris fall within the building and 30 feet around it, providing [concealment](/Conditions.aspx?ID=4) and dealing 6d6 bludgeoning damage to 1d4 randomly chosen targets (DC 35 [basic](/Rules.aspx?ID=329) Reflex save; on a critically failed save, the creature is knocked [prone](/Conditions.aspx?ID=31)). On a critical success, the effect is the same, but the debris deals 12d6 bludgeoning damage to 2d4 randomly chosen targets instead (DC 35 [basic](/Rules.aspx?ID=329) Reflex save; on a critically failed Reflex save, the creature is restrained by rubble until freed [[Force Open](/Actions.aspx?ID=34) DC 38, [Escape](/Actions.aspx?ID=79) DC 35]).\r\n\r\n---\r\n**Reset**\r\nThe building becomes susceptible to Shake Apart again 1d6 rounds after it is stabilized.",
+ "name": "Collapsing Structure (Mogaru)",
+ "rarity": "common",
+ "release_date": "2021-07-07",
+ "reset": "The building becomes susceptible to Shake Apart again 1d6 rounds after it is stabilized.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Environmental\" url=\"/Traits.aspx?ID=62\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 88</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMogaru brushes against a structure, severely compromising the building's stability and possibly causing it to collapse.\r\n</summary>",
+ "source": [
+  "Pathfinder #167: Ready? Fight!"
+ ],
+ "source_raw": [
+  "Pathfinder #167: Ready? Fight! pg. 88"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #167: Ready? Fight!](/Sources.aspx?ID=86) pg. 88</row>",
+ "speed": {},
+ "stealth": "+20 (master) to notice cracks forming in the walls of the structure as Mogaru approaches",
+ "summary": "Mogaru brushes against a structure, severely compromising the building's stability and possibly causing it to collapse.",
+ "summary_markdown": "Mogaru brushes against a structure, severely compromising the building's stability and possibly causing it to collapse.",
+ "text": " Collapsing Structure (Mogaru) Source Pathfinder #167: Ready? Fight! pg. 88 Complexity Complex Mogaru brushes against a structure, severely compromising the building's stability and possibly causing it to collapse. --- Stealth +20 (master) to notice cracks forming in the walls of the structure as Mogaru approaches Disable DC 43 Athletics (master), Crafting (master), or Engineering Lore (master) to brace the structure to reduce the risk of collapse until the end of the creature's next turn. The DC of the flat check for this round (see Routine) is increased by 4 on a success, or by 8 on a critical success. Increasing the flat check DC to 21 or higher stabilizes the structure, ending this hazard. Shake Apart Reaction Trigger Mogaru applies any amount of force to the structure; Effect The building trembles. The floors of the building and the streets within 30 feet of the building become difficult terrain; creatures on this difficult terrain take a –2 circumstance penalty to attack rolls, AC, and skill checks. The hazard rolls initiative. --- Routine (1 action) The GM rolls a DC 9 flat check to determine if the building collapses, increasing the DC as listed above. On a successful check, dust and debris fall within the building and 30 feet around it, providing concealment and dealing 6d6 bludgeoning damage to 1d4 randomly chosen targets (DC 35 basic Reflex save; on a critically failed save, the creature is knocked prone). On a critical success, the effect is the same, but the debris deals 12d6 bludgeoning damage to 2d4 randomly chosen targets instead (DC 35 basic Reflex save; on a critically failed Reflex save, the creature is restrained by rubble until freed [Force Open DC 38, Escape DC 35]). --- Reset The building becomes susceptible to Shake Apart again 1d6 rounds after it is stabilized.",
+ "trait": [
+  "Complex",
+  "Environmental"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Environmental](/Traits.aspx?ID=62)",
+ "trait_raw": [
+  "Complex",
+  "Environmental"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=59",
+ "weakness": {}
+}

@@ -1,0 +1,110 @@
+{
+ "ac": 15,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Smoke Vision",
+  "Consecration Vulnerability",
+  "Death Gasp",
+  "Exhale",
+  "Smoldering Fist"
+ ],
+ "creature_family": "Mortic",
+ "creature_family_markdown": "[Mortic](/MonsterFamilies.aspx?ID=248)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 6,
+ "hp": 21,
+ "hp_raw": "21 ( negative healing )",
+ "id": "creature-1880",
+ "image": [
+  "/Images/Monsters/Mortic_ShadernImmolator.png"
+ ],
+ "immunity": [
+  "fire"
+ ],
+ "immunity_markdown": "[fire](/Traits.aspx?ID=72)",
+ "intelligence": -1,
+ "language": [
+  "Common",
+  "Goblin",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Necril](/Languages.aspx?ID=20)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Shadern](/Monsters.aspx?ID=1880)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\n[Goblin](/Ancestries.aspx?ID=4) mortics have blackened, charred flesh and smoldering burns all over their body, as if they'd been burned alive. They are highly flammable but inured to the pain, and they enjoy lighting themselves (and everything else) on fire.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Mortic_ShadernImmolator.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Shadern Immolator](/Monsters.aspx?ID=1880)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mortic\" url=\"/Traits.aspx?ID=357\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 126</row>\n\n**Perception** +5; [darkvision](/MonsterAbilities.aspx?ID=12), smoke vision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +3\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +4\r\n\r\n**Con** +3\r\n\r\n**Int** -1\r\n\r\n**Wis** +0\r\n\r\n**Cha** +1\r\n</row>\r\n\r\n**Smoke Vision** The shadern ignores the [concealed](/Conditions.aspx?ID=4) condition from smoke.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +6 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +3 \n\n</row>\r\n\r\n**HP** 21\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[fire](/Traits.aspx?ID=72)\n\n**Consecration Vulnerability** A shadern in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by [_sanctified ground_](/Spells.aspx?ID=265), is [slowed 1](/Conditions.aspx?ID=35).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +9 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 1d4+2 bludgeoning plus 1 fire and smoldering fist\n\n**Death Gasp** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Necromancy](/Traits.aspx?ID=117)) The shadern draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The shadern gains the [undead](/Traits.aspx?ID=160) trait and becomes immune to bleed, [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), and [sleep](/Traits.aspx?ID=145). Any such effects the shadern is currently inflicted with are suspended but take effect again once they take a breath. Death Gasp lasts as long as the shadern [holds their breath](/Rules.aspx?ID=468) (up to 8 rounds).\r\n\r\n**Exhale** <actions string=\"Two Actions\" /> ([Divine](/Traits.aspx?ID=48), [Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72)) The shadern exhales a cloud of thick smoke in a 10-foot burst centered on them. The cloud remains in place for 1d4 rounds. All creatures within the smoke become [concealed](/Conditions.aspx?ID=4), and all creatures outside the smoke become concealed to creatures within it. Exhaling ends Death Gasp, as the shadern ceases holding their breath.\r\n\r\n**Smoldering Fist**   On a critical hit, the shadern immolator's fist Strike also deals 1d4 [persistent fire damage.](/Conditions.aspx?ID=29)\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-248\" />",
+ "name": "Shadern Immolator",
+ "npc": false,
+ "perception": 5,
+ "pfs": "Standard",
+ "rarity": "rare",
+ "reflex_save": 9,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Mortic\" url=\"/Traits.aspx?ID=357\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 126</row>\r\n\r\n**Creature Family** [Mortic](/MonsterFamilies.aspx?ID=248)\r\n\r\n<row gap=\"medium\">\r\n**HP** 21 ( negative healing )\r\n\r\n**AC** 15\r\n\r\n**Fort** +6\r\n\r\n**Ref** +9\r\n\r\n**Will** +3\r\n\r\n**Perception** +5\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGoblin  mortics have blackened, charred flesh and smoldering burns all over their body, as if they'd been burned alive. They are highly flammable …\r\n</summary>",
+ "sense": " darkvision , smoke vision",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), smoke vision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +5",
+  "Stealth +7",
+  "Survival +3"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +3",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 126"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 126</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Goblin  mortics have blackened, charred flesh and smoldering burns all over their body, as if they'd been burned alive. They are highly flammable …",
+ "summary_markdown": "Goblin  mortics have blackened, charred flesh and smoldering burns all over their body, as if they'd been burned alive. They are highly flammable …",
+ "text": " Shadern Goblin mortics have blackened, charred flesh and smoldering burns all over their body, as if they'd been burned alive. They are highly flammable but inured to the pain, and they enjoy lighting themselves (and everything else) on fire. Recall Knowledge - Humanoid (Society): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Shadern Immolator Source Book of the Dead pg. 126 Perception +5; darkvision, smoke vision Languages Common, Goblin, Necril Skills Acrobatics +7, Athletics +5, Stealth +7, Survival +3 Str +2 Dex +4 Con +3 Int -1 Wis +0 Cha +1 Smoke Vision The shadern ignores the concealed condition from smoke. --- AC 15 Fort +6 Ref +9 Will +3 HP 21 (negative healing) Immunities fire Consecration Vulnerability A shadern in a place of worship dedicated to a non-evil deity or on sacred ground, such as an area blessed by sanctified ground , is slowed 1. --- Speed 25 feet Melee Single Action fist +9 (Agile, Finesse, Unarmed), Damage 1d4+2 bludgeoning plus 1 fire and smoldering fist Death Gasp Single Action (Divine, Necromancy) The shadern draws in a deep breath and holds it, temporarily suspending their biological processes and becoming undead. The shadern gains the undead trait and becomes immune to bleed, death effects, disease, paralyzed, poison, and sleep. Any such effects the shadern is currently inflicted with are suspended but take effect again once they take a breath. Death Gasp lasts as long as the shadern holds their breath (up to 8 rounds). Exhale Two Actions (Divine, Evocation, Fire) The shadern exhales a cloud of thick smoke in a 10-foot burst centered on them. The cloud remains in place for 1d4 rounds. All creatures within the smoke become concealed, and all creatures outside the smoke become concealed to creatures within it. Exhaling ends Death Gasp, as the shadern ceases holding their breath. Smoldering Fist On a critical hit, the shadern immolator's fist Strike also deals 1d4 persistent fire damage. ",
+ "trait": [
+  "Fire",
+  "Goblin",
+  "Humanoid",
+  "Mortic",
+  "Rare",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Fire](/Traits.aspx?ID=72), [Goblin](/Traits.aspx?ID=81), [Humanoid](/Traits.aspx?ID=91), [Mortic](/Traits.aspx?ID=357), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Fire",
+  "Goblin",
+  "Humanoid",
+  "Mortic",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1880",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 3,
+ "wisdom": 0
+}

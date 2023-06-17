@@ -1,0 +1,100 @@
+{
+ "ac": 22,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 3,
+ "creature_ability": [
+  "Orc Ferocity",
+  "Stand Still",
+  "Flurry of Blows",
+  "Mountain Stance",
+  "Mountain Stronghold"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 115,
+ "hp_raw": "115",
+ "id": "creature-2022",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Hallit"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"\">[Evora Yarket](/NPCs.aspx?ID=2022)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Evora Yarket](/NPCs.aspx?ID=2022)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Orc\" url=\"/Traits.aspx?ID=124\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 52</row>\n\n**Perception** +14; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Hallit](/Languages.aspx?ID=37)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +19, [Acrobatics](/Skills.aspx?ID=1) +11, [Intimidation](/Skills.aspx?ID=7) +10, [Nature](/Skills.aspx?ID=10) +13, [Performance](/Skills.aspx?ID=12) +10, [Survival](/Skills.aspx?ID=16) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +0\r\n\r\n**Con** +3\r\n\r\n**Int** +1\r\n\r\n**Wis** +2\r\n\r\n**Cha** -1\r\n</row>\n\n**Items**\r\n[Bullhook](/Equipment.aspx?ID=583)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +13 \r\n\r\nsuccessful Fortitude saves are critical successes instead\r\n</row>\r\n\r\n**HP** 115\n\n**Orc Ferocity** <actions string=\"Reaction\" /> **Frequency** once per day; **Trigger** Evora would be reduced to 0 Hit Points but not immediately killed; **Effect** Evora avoids being knocked out and remains at 1 Hit Point, and her [wounded](/Conditions.aspx?ID=42) condition increases by 1.<br />**Stand Still** <actions string=\"Reaction\" /> **Trigger** A creature within Evora's reach uses a [move](/Traits.aspx?ID=114) action or leaves a square during a move action it's using; **Effect** Evora makes a melee Strike against the triggering creature. If this attack is a critical hit and the trigger was a move action, she disrupts that action.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfalling stone unarmed attack +18 ([Forceful](/Traits.aspx?ID=180), [Nonlethal](/Traits.aspx?ID=188), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 2d8+6 bludgeoning\n\n**Flurry of Blows** <actions string=\"Single Action\" /> ([Flourish](/Traits.aspx?ID=73)) **Effect** Evora makes two [unarmed](/Traits.aspx?ID=199) Strikes. If both hit the same creature, combine their damage and apply resistances and weaknesses only once. She applies her multiple attack penalty to the Strikes normally. As it has the flourish trait, Evora can use Flurry of Blows only once per turn.\r\n\r\n**Mountain Stance** <actions string=\"Single Action\" /> ([Stance](/Traits.aspx?ID=152)) **Requirements** Evora is unarmored and touching the ground; **Effect** Evora enters the stance of an implacable mountain until she is [knocked out](/Conditions.aspx?ID=38) or the encounter ends. She gains a +4 status bonus to AC and a +2 circumstance bonus to any defenses against being [Shoved](/Actions.aspx?ID=38) or [Tripped](/Actions.aspx?ID=40). Her Speed is reduced by 5 feet.\r\n\r\n**Mountain Stronghold** <actions string=\"Single Action\" />  **Requirements** Evora is in Mountain Stance; **Effect** Evora gains a +2 circumstance bonus to AC until the beginning of her next turn.\r\n\r\n</column>",
+ "name": "Evora Yarket",
+ "npc": true,
+ "perception": 14,
+ "rarity": "unique",
+ "reflex_save": 11,
+ "release_date": "2020-02-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Orc\" url=\"/Traits.aspx?ID=124\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 52</row>\n\n<row gap=\"medium\">\r\n**HP** 115\r\n\r\n**AC** 22\r\n\r\n**Fort** +16\r\n\r\n**Ref** +11\r\n\r\n**Will** +13\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +19",
+  "Acrobatics +11",
+  "Intimidation +10",
+  "Nature +13",
+  "Performance +10",
+  "Survival +13"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +19, [Acrobatics](/Skills.aspx?ID=1) +11, [Intimidation](/Skills.aspx?ID=7) +10, [Nature](/Skills.aspx?ID=10) +13, [Performance](/Skills.aspx?ID=12) +10, [Survival](/Skills.aspx?ID=16) +13",
+ "source": [
+  "Pathfinder #152: Legacy of the Lost God"
+ ],
+ "source_raw": [
+  "Pathfinder #152: Legacy of the Lost God pg. 52"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #152: Legacy of the Lost God](/Sources.aspx?ID=23) pg. 52</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "spoilers": "Extinction Curse",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Evora Yarket Recall Knowledge - Humanoid (Society): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Evora Yarket Source Pathfinder #152: Legacy of the Lost God pg. 52 Perception +14; low-light vision Languages Common, Hallit Skills Athletics +19, Acrobatics +11, Intimidation +10, Nature +13, Performance +10, Survival +13 Str +5 Dex +0 Con +3 Int +1 Wis +2 Cha -1 Items Bullhook --- AC 22 Fort +16 Ref +11 Will +13 successful Fortitude saves are critical successes instead HP 115 Orc Ferocity Reaction Frequency once per day; Trigger Evora would be reduced to 0 Hit Points but not immediately killed; Effect Evora avoids being knocked out and remains at 1 Hit Point, and her wounded condition increases by 1. Stand Still Reaction Trigger A creature within Evora's reach uses a move action or leaves a square during a move action it's using; Effect Evora makes a melee Strike against the triggering creature. If this attack is a critical hit and the trigger was a move action, she disrupts that action. --- Speed 35 feet Melee Single Action falling stone unarmed attack +18 (Forceful, Nonlethal, Unarmed), Damage 2d8+6 bludgeoning Flurry of Blows Single Action (Flourish) Effect Evora makes two unarmed Strikes. If both hit the same creature, combine their damage and apply resistances and weaknesses only once. She applies her multiple attack penalty to the Strikes normally. As it has the flourish trait, Evora can use Flurry of Blows only once per turn. Mountain Stance Single Action (Stance) Requirements Evora is unarmored and touching the ground; Effect Evora enters the stance of an implacable mountain until she is knocked out or the encounter ends. She gains a +4 status bonus to AC and a +2 circumstance bonus to any defenses against being Shoved or Tripped. Her Speed is reduced by 5 feet. Mountain Stronghold Single Action Requirements Evora is in Mountain Stance; Effect Evora gains a +2 circumstance bonus to AC until the beginning of her next turn. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Orc",
+  "Unique",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Orc](/Traits.aspx?ID=124), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Orc",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2022",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 2
+}

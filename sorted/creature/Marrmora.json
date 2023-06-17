@@ -1,0 +1,125 @@
+{
+ "ac": 37,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 8,
+ "constitution": 8,
+ "creature_ability": [
+  "Fascination of Flame",
+  "Absorb Flame",
+  "Igniting Assault"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 29,
+ "hp": 280,
+ "hp_raw": "280",
+ "id": "creature-728",
+ "image": [
+  "/Images/Monsters/Marrmora.png"
+ ],
+ "immunity": [
+  "fire"
+ ],
+ "immunity_markdown": "fire",
+ "intelligence": 4,
+ "language": [
+  "Common",
+  "Elven",
+  "Sylvan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Marrmora](/Monsters.aspx?ID=728)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nOn the [First World](/Planes.aspx?ID=10), marrmoras dwell in ruined wildlands perpetually scourged by fire and rarely, if ever, travel elsewhere. When a wildfire devastates a wilderness region on the Material Plane and results in the death of other fey, marrmoras can be drawn across the planar boundary to revel in the resulting destruction. They seek to reignite the fires that beckoned them, to gather up and feed upon the charred remains of those who perished within (particularly the bodies of dead fey), though they do grow homesick if they spend too much time away from the First World. They are burdened by a capricious but persistent rage and are unfailingly cruel. While they are capable of negotiation and intelligent interaction, they almost never bargain in good faith and typically interact with others only as a means to more efficiently spread their fiery devastation.\n\n A marmorra's twisted appearance evokes the look of an [arboreal](/MonsterFamilies.aspx?ID=8) whose bark has been burnt down to charcoal. They have nearly featureless faces and hands ending in long, sharp claws. Their broken flesh looks like charcoal-burnt wood, riddled with cracks that still glow with an unwholesome heat. They trail ash wherever they walk, and wisps of smoke curl off of their bodies. Though marrmoras enjoy the sight of any woodland and its inhabitants roasting in the flames of their carefully curated fires, there is little that brings more pleasure to a marrmora than the sight of good-aligned plant creatures cooking to a crisp.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 34\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 32\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 29\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Marrmora.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Marrmora](/Monsters.aspx?ID=728)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 171 <sup>2.0</sup></row>\n\n**Perception** +27; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Elven](/Languages.aspx?ID=4), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +25, [Deception](/Skills.aspx?ID=5) +30, [Intimidation](/Skills.aspx?ID=7) +30, [Nature](/Skills.aspx?ID=10) +30, [Stealth](/Skills.aspx?ID=15) +27, [Survival](/Skills.aspx?ID=16) +27\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +8\r\n\r\n**Int** +4\r\n\r\n**Wis** +6\r\n\r\n**Cha** +8\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 37 \r\n\r\n**Fort** +29 \r\n\r\n**Ref** +25 \r\n\r\n**Will** +27 \n\n</row>\r\n\r\n**HP** 280\n\n**Immunities**\r\nfire\r\n\r\n**Resistances**\r\nphysical 10 (except slashing)\r\n\r\n**Weaknesses**\r\ncold iron 15\r\n\r\n**Fascination of Flame** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [mental](/Traits.aspx?ID=106), [primal](/Traits.aspx?ID=134)) 30 feet. A creature that enters or begins its turn in this aura's emanation must attempt a DC 33 Will save. Regardless of the result of the saving throw, the creature is temporarily immune for 1 minute. <br />**Critical Success** The creature is unaffected. <br />**Success** The creature loses any resistance to fire for 1 round. <br />**Failure** The creature loses any resistance to fire for 1 hour. <br />**Critical Failure** The creature loses any resistance to fire for 1 hour and gains weakness 15 to fire for the same duration.<br />**Absorb Flame** <actions string=\"Reaction\" /> **Trigger** The marrmora is targeted by a [fire](/Traits.aspx?ID=72) spell or effect, or is in the area of a fire effect; **Effect** The marrmora is healed by the fire damage, regaining Hit Points equal to half the damage the fire effect would have dealt.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +29,\r\n**Damage** 3d6+14 slashing plus 3d6 fire and 1d6 [persistent fire](/Conditions.aspx?ID=29)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nflame jet +29 ([Fire](/Traits.aspx?ID=72), [range increment 40 feet](/Traits.aspx?ID=248)),\r\n**Damage** 6d6 fire plus 2d6 [persistent fire](/Conditions.aspx?ID=29)\r\n\r\n**Primal Innate Spells** DC 36, attack +28\r\n- **Cantrips (8th)**\r\n[Produce Flame](/Spells.aspx?ID=236)\r\n- **6th**\r\n[Fire Shield](/Spells.aspx?ID=118) (x3), [Fireball](/Spells.aspx?ID=119) (x3), [Tree Shape](/Spells.aspx?ID=342) (at will; appears as a burnt, dead tree)\r\n- **7th**\r\n[Elemental Form](/Spells.aspx?ID=98) ([fire elemental](/MonsterFamilies.aspx?ID=43) only), [Volcanic Eruption](/Spells.aspx?ID=360), [Wall of Fire](/Spells.aspx?ID=362)\r\n- **8th**\r\n[Fire Shield](/Spells.aspx?ID=118), [Fireball](/Spells.aspx?ID=119)\r\n\r\n**Igniting Assault** <actions string=\"Single Action\" />  **Requirement** The marrmora is not under the effect of [_fire shield_](/Spells.aspx?ID=118); **Effect** The marrmora makes a claw Strike. If it hits, it can immediately cast one of its available _fire shield_ innate spells as a free action.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Fey Manipulators</title>\r\n\r\nMarrmoras exert a strange and subtle dominance over other fey. The fey under their control are filled with both horror at the destruction wrought by marrmoras and fascination with their fiery power.\r\n</aside>",
+ "name": "Marrmora",
+ "npc": false,
+ "perception": 27,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 25,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10
+ },
+ "resistance_markdown": "physical 10 (except slashing)",
+ "resistance_raw": "physical 10 (except slashing)",
+ "search_markdown": "<traits>\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 171 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 280\r\n\r\n**AC** 37\r\n\r\n**Fort** +29\r\n\r\n**Ref** +25\r\n\r\n**Will** +27\r\n\r\n**Perception** +27\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOn the  First World , marrmoras dwell in ruined wildlands perpetually scourged by fire and rarely, if ever, travel elsewhere. When a wildfire …\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +25",
+  "Athletics +25",
+  "Deception +30",
+  "Intimidation +30",
+  "Nature +30",
+  "Stealth +27",
+  "Survival +27"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +25, [Deception](/Skills.aspx?ID=5) +30, [Intimidation](/Skills.aspx?ID=7) +30, [Nature](/Skills.aspx?ID=10) +30, [Stealth](/Skills.aspx?ID=15) +27, [Survival](/Skills.aspx?ID=16) +27",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 171"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 171 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, fly 30 feet",
+ "speed_raw": "30 feet, fly 30 feet",
+ "spell": [
+  "Fire Shield",
+  "Fireball",
+  "Elemental Form",
+  "Volcanic Eruption",
+  "Wall of Fire",
+  "Tree Shape",
+  "Produce Flame"
+ ],
+ "spell_markdown": "[Elemental Form](/Spells.aspx?ID=98), [Fire Shield](/Spells.aspx?ID=118), [Fireball](/Spells.aspx?ID=119), [Produce Flame](/Spells.aspx?ID=236), [Tree Shape](/Spells.aspx?ID=342), [Volcanic Eruption](/Spells.aspx?ID=360), [Wall of Fire](/Spells.aspx?ID=362)",
+ "stealth": "27",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "On the  First World , marrmoras dwell in ruined wildlands perpetually scourged by fire and rarely, if ever, travel elsewhere. When a wildfire …",
+ "summary_markdown": "On the  First World , marrmoras dwell in ruined wildlands perpetually scourged by fire and rarely, if ever, travel elsewhere. When a wildfire …",
+ "text": " Marrmora On the First World, marrmoras dwell in ruined wildlands perpetually scourged by fire and rarely, if ever, travel elsewhere. When a wildfire devastates a wilderness region on the Material Plane and results in the death of other fey, marrmoras can be drawn across the planar boundary to revel in the resulting destruction. They seek to reignite the fires that beckoned them, to gather up and feed upon the charred remains of those who perished within (particularly the bodies of dead fey), though they do grow homesick if they spend too much time away from the First World. They are burdened by a capricious but persistent rage and are unfailingly cruel. While they are capable of negotiation and intelligent interaction, they almost never bargain in good faith and typically interact with others only as a means to more efficiently spread their fiery devastation. A marmorra's twisted appearance evokes the look of an arboreal whose bark has been burnt down to charcoal. They have nearly featureless faces and hands ending in long, sharp claws. Their broken flesh looks like charcoal-burnt wood, riddled with cracks that still glow with an unwholesome heat. They trail ash wherever they walk, and wisps of smoke curl off of their bodies. Though marrmoras enjoy the sight of any woodland and its inhabitants roasting in the flames of their carefully curated fires, there is little that brings more pleasure to a marrmora than the sight of good-aligned plant creatures cooking to a crisp. Recall Knowledge - Fey (Nature): DC 34 Unspecific Lore : DC 32 Specific Lore : DC 29 Marrmora Source Bestiary 2 pg. 171 2.0 Perception +27; low-light vision Languages Common, Elven, Sylvan Skills Acrobatics +25, Athletics +25, Deception +30, Intimidation +30, Nature +30, Stealth +27, Survival +27 Str +6 Dex +4 Con +8 Int +4 Wis +6 Cha +8 --- AC 37 Fort +29 Ref +25 Will +27 HP 280 Immunities fire Resistances physical 10 (except slashing) Weaknesses cold iron 15 Fascination of Flame (aura, emotion, enchantment, mental, primal) 30 feet. A creature that enters or begins its turn in this aura's emanation must attempt a DC 33 Will save. Regardless of the result of the saving throw, the creature is temporarily immune for 1 minute. Critical Success The creature is unaffected. Success The creature loses any resistance to fire for 1 round. Failure The creature loses any resistance to fire for 1 hour. Critical Failure The creature loses any resistance to fire for 1 hour and gains weakness 15 to fire for the same duration. Absorb Flame Reaction Trigger The marrmora is targeted by a fire spell or effect, or is in the area of a fire effect; Effect The marrmora is healed by the fire damage, regaining Hit Points equal to half the damage the fire effect would have dealt. --- Speed 30 feet, fly 30 feet Melee Single Action claw +29, Damage 3d6+14 slashing plus 3d6 fire and 1d6 persistent fire Ranged Single Action flame jet +29 (Fire, range increment 40 feet), Damage 6d6 fire plus 2d6 persistent fire Primal Innate Spells DC 36, attack +28 - Cantrips (8th) Produce Flame - 6th Fire Shield (x3), Fireball (x3), Tree Shape (at will; appears as a burnt, dead tree) - 7th Elemental Form (fire elemental only), Volcanic Eruption, Wall of Fire - 8th Fire Shield, Fireball Igniting Assault Single Action Requirement The marrmora is not under the effect of fire shield ; Effect The marrmora makes a claw Strike. If it hits, it can immediately cast one of its available fire shield innate spells as a free action. Fey Manipulators Marrmoras exert a strange and subtle dominance over other fey. The fey under their control are filled with both horror at the destruction wrought by marrmoras and fascination with their fiery power. ",
+ "trait": [
+  "Fey",
+  "Fire",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fey](/Traits.aspx?ID=69), [Fire](/Traits.aspx?ID=72)",
+ "trait_raw": [
+  "Fey",
+  "Fire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=728",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold_iron": 15
+ },
+ "weakness_markdown": "cold iron 15",
+ "weakness_raw": "cold iron 15",
+ "will_save": 27,
+ "wisdom": 6
+}

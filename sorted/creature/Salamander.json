@@ -1,0 +1,107 @@
+{
+ "ac": 26,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 4,
+ "creature_ability": [
+  "Attack of Opportunity",
+  "Armor of Flames",
+  "Constrict"
+ ],
+ "creature_family": "Elemental, Fire",
+ "creature_family_markdown": "[Elemental, Fire](/MonsterFamilies.aspx?ID=43)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 125,
+ "hp_raw": "125",
+ "id": "creature-189",
+ "immunity": [
+  "bleed",
+  "fire",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, fire, paralyzed, poison, sleep",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Ignan"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Ignan](/Languages.aspx?ID=18)",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Salamander](/Monsters.aspx?ID=189)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSalamanders have serpentine lower torsos, but humanoid upper bodies with toothy reptilian snouts. Their affinity for cruelty and violence puts them in close alliance with the demons of the Abyss.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 23\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 21\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 18\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Salamander](/Monsters.aspx?ID=189)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 148</row>\n\n**Perception** +15; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Ignan](/Languages.aspx?ID=18)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +17, [Crafting](/Skills.aspx?ID=4) +15, [Deception](/Skills.aspx?ID=5) +12, [Intimidation](/Skills.aspx?ID=7) +14, [Society](/Skills.aspx?ID=14) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\n[_+1 ranseur_](/Weapons.aspx?ID=35)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 125\n\n**Immunities**\r\nbleed, fire, paralyzed, poison, sleep\n\n**Weaknesses**\r\ncold 10\r\n\r\n**Attack of Opportunity** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_ranseur_ +18 ([Disarm](/Traits.aspx?ID=175), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+7 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +17 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+7 bludgeoning plus 1d6 fire and Grab\n\n**Armor of Flames** <actions string=\"Single Action\" />  The salamander stokes its internal flames. Until the start of its next turn, it gains a +2 circumstance bonus to AC, and when an adjacent creature touches it or hits it with a physical attack, that creature takes 2d6 persistent fire damage unless it succeeds at a DC 25 Reflex save.\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+4 bludgeoning plus 1d6 fire, DC 25\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-43\" />",
+ "name": "Salamander",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 148</row>\r\n\r\n**Creature Family** [Elemental, Fire](/MonsterFamilies.aspx?ID=43)\r\n\r\n<row gap=\"medium\">\r\n**HP** 125\r\n\r\n**AC** 26\r\n\r\n**Fort** +15\r\n\r\n**Ref** +16\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSalamanders have serpentine lower torsos, but humanoid upper bodies with toothy reptilian snouts. Their affinity for cruelty and violence puts them …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +17",
+  "Crafting +15",
+  "Deception +12",
+  "Intimidation +14",
+  "Society +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +17, [Crafting](/Skills.aspx?ID=4) +15, [Deception](/Skills.aspx?ID=5) +12, [Intimidation](/Skills.aspx?ID=7) +14, [Society](/Skills.aspx?ID=14) +13",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 148"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 148</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Salamanders have serpentine lower torsos, but humanoid upper bodies with toothy reptilian snouts. Their affinity for cruelty and violence puts them …",
+ "summary_markdown": "Salamanders have serpentine lower torsos, but humanoid upper bodies with toothy reptilian snouts. Their affinity for cruelty and violence puts them …",
+ "text": " Salamander Salamanders have serpentine lower torsos, but humanoid upper bodies with toothy reptilian snouts. Their affinity for cruelty and violence puts them in close alliance with the demons of the Abyss. Recall Knowledge - Elemental (Arcana, Nature): DC 23 Unspecific Lore : DC 21 Specific Lore : DC 18 Salamander Source Bestiary pg. 148 Perception +15; darkvision Languages Common, Ignan Skills Acrobatics +12, Athletics +17, Crafting +15, Deception +12, Intimidation +14, Society +13 Str +4 Dex +3 Con +4 Int +2 Wis +2 Cha +1 Items +1 ranseur --- AC 26 Fort +15 Ref +16 Will +13 HP 125 Immunities bleed, fire, paralyzed, poison, sleep Weaknesses cold 10 Attack of Opportunity Reaction --- Speed 20 feet Melee Single Action ranseur +18 (Disarm, Magical, reach 10 feet), Damage 2d10+7 piercing Melee Single Action tail +17 (Agile, reach 10 feet), Damage 1d8+7 bludgeoning plus 1d6 fire and Grab Armor of Flames Single Action The salamander stokes its internal flames. Until the start of its next turn, it gains a +2 circumstance bonus to AC, and when an adjacent creature touches it or hits it with a physical attack, that creature takes 2d6 persistent fire damage unless it succeeds at a DC 25 Reflex save. Constrict Single Action 1d8+4 bludgeoning plus 1d6 fire, DC 25 ",
+ "trait": [
+  "Elemental",
+  "Fire",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Elemental](/Traits.aspx?ID=57), [Fire](/Traits.aspx?ID=72)",
+ "trait_raw": [
+  "Elemental",
+  "Fire"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=189",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold": 10
+ },
+ "weakness_markdown": "cold 10",
+ "weakness_raw": "cold 10",
+ "will_save": 13,
+ "wisdom": 2
+}

@@ -1,0 +1,109 @@
+{
+ "ac": 24,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "Light Pulse",
+  "Pod Prison",
+  "Pod Spawn",
+  "Swallow Whole"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 120,
+ "hp_raw": "120 ( fast healing  10)",
+ "id": "creature-730",
+ "image": [
+  "/Images/Monsters/Moonflower.png"
+ ],
+ "immunity": [
+  "electricity"
+ ],
+ "immunity_markdown": "electricity",
+ "intelligence": -2,
+ "language": [
+  "<%UMR%37%%>telepathy 1 mile<%END> (other moonflowers only)"
+ ],
+ "language_markdown": "[telepathy 1 mile](/MonsterAbilities.aspx?ID=37) (other moonflowers only)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Moonflower](/Monsters.aspx?ID=730)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese enormous plants have thick, knotted trunks festooned with fanged blossoms. A gaping mouth sits at the top of the trunk, capable of swallowing most creatures smaller than the moonflower whole. Moonflowers can move slowly on their powerful roots or use them to attack, but usually they dig them deeply into the surrounding ground and remain stationary to await prey.\n\n Though moonflowers can't speak in the conventional sense, they communicate telepathically with other moonflowers. Explorers who encounter a single moonflower can thus be assured that any other moonflowers in the vicinity will be prepared for them. Those who manage to intercept a moonflower's telepathic communications are assaulted by visions of dreadful, primeval jungles ruled over by titanic plant life. Whether this is some vision of the past or a dream of the future shared by all moonflowers is unknown.\n\n Moonflowers are alien life-forms from a long-dead planet, but their proliferation throughout the galaxy has been ensured through the machinations of the Dominion of the Black, a sinister, alien organization from the dark places between the stars.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Moonflower.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Moonflower](/Monsters.aspx?ID=730)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 173 <sup>2.0</sup></row>\n\n**Perception** +16; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[telepathy 1 mile](/MonsterAbilities.aspx?ID=37) (other moonflowers only)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +0\r\n\r\n**Con** +4\r\n\r\n**Int** -2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +10 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 120\r\n([fast healing](/MonsterAbilities.aspx?ID=15) 10)\n\n**Immunities**\r\nelectricity\r\n\r\n**Resistances**\r\nphysical 10 (except slashing)\r\n\r\n**Weaknesses**\r\nfire 10\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbite +20 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+10 piercing plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nroot +20 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+10 bludgeoning\n\n**Light Pulse** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Light](/Traits.aspx?ID=100), [Primal](/Traits.aspx?ID=134), [Visual](/Traits.aspx?ID=163)) 50 feet. The moonflower releases a pulse of bright light. Each non-moonflower creature in the emanation must attempt a DC 23 Fortitude save. The moonflower can't use Light Pulse again for 1d4 rounds. <br />**Success** The creature is unaffected. <br />**Failure** The creature is [dazzled](/Conditions.aspx?ID=7) for 1d4 rounds. <br />**Critical Failure** The creature is [blinded](/Conditions.aspx?ID=1) for 1d4 rounds.\r\n\r\n**Pod Prison** <actions string=\"Reaction\" />  **Trigger** The moonflower has swallowed a creature; **Effect** The swallowed creature is wrapped in a tight cocoon and extruded from the moonflower's body into an adjacent square. The creature continues to be Swallowed Whole. It can't use [Acrobatics](/Skills.aspx?ID=1) to [Escape](/Actions.aspx?ID=79) a pod, but other creatures can attempt to Rupture the pod. The cocooned creature takes half damage from any damage dealt to the cocoon. Once the cocoon is Ruptured, it deflates and decays.\r\n\r\n**Pod Spawn**   Should a Small or larger creature die within a pod prison, the pod transforms into an adult moonflower with full Hit Points after 1d4 hours of growth. The newly formed moonflower has its own consciousness, but some aspect of its trunk or blossoms resembles the creature that died within. The dead creature's equipment remains inside the new moonflower and can be retrieved if the moonflower is slain.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 2d10+10 bludgeoning and 2d6 acid, Rupture 21\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Dominion Seedlings</title>\r\n\r\nMoonflower seeds are tough and fibrous, capable of surviving the fire of reentry into a planet's atmosphere. They are often dropped by agents of the Dominion of the Black in orbit above unsuspecting worlds.\r\n</aside>",
+ "name": "Moonflower",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 10,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10
+ },
+ "resistance_markdown": "physical 10 (except slashing)",
+ "resistance_raw": "physical 10 (except slashing)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 173 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 120 ( fast healing  10)\r\n\r\n**AC** 24\r\n\r\n**Fort** +18\r\n\r\n**Ref** +10\r\n\r\n**Will** +16\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese enormous plants have thick, knotted trunks festooned with fanged blossoms. A gaping mouth sits at the top of the trunk, capable of swallowing …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +19",
+  "Stealth +14"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +19, [Stealth](/Skills.aspx?ID=15) +14",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 173"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 173 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "14",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "These enormous plants have thick, knotted trunks festooned with fanged blossoms. A gaping mouth sits at the top of the trunk, capable of swallowing …",
+ "summary_markdown": "These enormous plants have thick, knotted trunks festooned with fanged blossoms. A gaping mouth sits at the top of the trunk, capable of swallowing …",
+ "text": " Moonflower These enormous plants have thick, knotted trunks festooned with fanged blossoms. A gaping mouth sits at the top of the trunk, capable of swallowing most creatures smaller than the moonflower whole. Moonflowers can move slowly on their powerful roots or use them to attack, but usually they dig them deeply into the surrounding ground and remain stationary to await prey. Though moonflowers can't speak in the conventional sense, they communicate telepathically with other moonflowers. Explorers who encounter a single moonflower can thus be assured that any other moonflowers in the vicinity will be prepared for them. Those who manage to intercept a moonflower's telepathic communications are assaulted by visions of dreadful, primeval jungles ruled over by titanic plant life. Whether this is some vision of the past or a dream of the future shared by all moonflowers is unknown. Moonflowers are alien life-forms from a long-dead planet, but their proliferation throughout the galaxy has been ensured through the machinations of the Dominion of the Black, a sinister, alien organization from the dark places between the stars. Recall Knowledge - Plant (Nature): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Moonflower Source Bestiary 2 pg. 173 2.0 Perception +16; darkvision Languages telepathy 1 mile (other moonflowers only) Skills Athletics +19, Stealth +14 Str +7 Dex +0 Con +4 Int -2 Wis +4 Cha +3 --- AC 24 Fort +18 Ref +10 Will +16 HP 120 (fast healing 10) Immunities electricity Resistances physical 10 (except slashing) Weaknesses fire 10 --- Speed 20 feet Melee Single Action bite +20 (reach 15 feet), Damage 2d10+10 piercing plus Grab Melee Single Action root +20 (Agile, reach 15 feet), Damage 2d8+10 bludgeoning Light Pulse Two Actions (Evocation, Light, Primal, Visual) 50 feet. The moonflower releases a pulse of bright light. Each non-moonflower creature in the emanation must attempt a DC 23 Fortitude save. The moonflower can't use Light Pulse again for 1d4 rounds. Success The creature is unaffected. Failure The creature is dazzled for 1d4 rounds. Critical Failure The creature is blinded for 1d4 rounds. Pod Prison Reaction Trigger The moonflower has swallowed a creature; Effect The swallowed creature is wrapped in a tight cocoon and extruded from the moonflower's body into an adjacent square. The creature continues to be Swallowed Whole. It can't use Acrobatics to Escape a pod, but other creatures can attempt to Rupture the pod. The cocooned creature takes half damage from any damage dealt to the cocoon. Once the cocoon is Ruptured, it deflates and decays. Pod Spawn Should a Small or larger creature die within a pod prison, the pod transforms into an adult moonflower with full Hit Points after 1d4 hours of growth. The newly formed moonflower has its own consciousness, but some aspect of its trunk or blossoms resembles the creature that died within. The dead creature's equipment remains inside the new moonflower and can be retrieved if the moonflower is slain. Swallow Whole Single Action (Attack) Large, 2d10+10 bludgeoning and 2d6 acid, Rupture 21 Dominion Seedlings Moonflower seeds are tough and fibrous, capable of surviving the fire of reentry into a planet's atmosphere. They are often dropped by agents of the Dominion of the Black in orbit above unsuspecting worlds. ",
+ "trait": [
+  "Plant",
+  "Uncommon",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Plant",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=730",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 16,
+ "wisdom": 4
+}

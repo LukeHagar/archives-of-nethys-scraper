@@ -1,0 +1,103 @@
+{
+ "ac": 29,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 5,
+ "creature_ability": [
+  "Quick Capture",
+  "Focused Assault",
+  "Hungry Flurry",
+  "Swallow Whole"
+ ],
+ "creature_family": "Flytrap",
+ "creature_family_markdown": "[Flytrap](/MonsterFamilies.aspx?ID=48)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 185,
+ "hp_raw": "185",
+ "id": "creature-209",
+ "image": [
+  "/Images/Monsters/Flytrap_GiantFlytrap.png"
+ ],
+ "immunity": [
+  "mental"
+ ],
+ "immunity_markdown": "mental",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 10,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Flytrap](/Monsters.aspx?ID=209)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBecause they blend in so well with surrounding foliage, giant flytraps can use the element of surprise to make quick strikes against unsuspecting adventurers and forest travelers.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 27\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 25\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 22\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Flytrap_GiantFlytrap.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 10\">[Giant Flytrap](/Monsters.aspx?ID=209)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 160</row>\n\n**Perception** +17; tremorsense (imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Stealth](/Skills.aspx?ID=15) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +3\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +15 \n\n</row>\r\n\r\n**HP** 185\n\n**Immunities**\r\nmental\r\n\r\n**Resistances**\r\nacid 10\r\n\r\n**Weaknesses**\r\nfire 10\r\n\r\n**Quick Capture** <actions string=\"Reaction\" /> **Trigger** A creature hits or touches the flytrap. **Effect** The flytrap makes a leaf Strike against the triggering creature. If it hits, the creature is grabbed in that leaf.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nleaf +23 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+7 piercing plus 2d6 acid and Improved Grab\n\n**Focused Assault** <actions string=\"Two Actions\" />  The flytrap attacks a single target with all four of its leaves. The flytrap makes one leaf Strike. On a success, the flytrap deals the damage from one leaf Strike plus an additional 1d8 damage for every leaf beyond the first. On a failure, the flytrap deals the damage from one leaf Strike, but it can’t use Improved Grab. It deals no damage on a critical failure. This counts toward the flytrap’s multiple attack penalty as a number of attacks equal to the number of leaves the flytrap has.\r\n\r\n**Hungry Flurry** <actions string=\"Two Actions\" />  The flytrap makes four leaf Strikes at a –2 penalty, each against a different target. These attacks count toward the flytrap’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all its attacks.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 2d8+3 bludgeoning plus 2d6 acid, Rupture 17\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Flytrap Treasure</title>\r\n\r\nGiant flytraps have enough instinctual intellect to effectively ambush prey or to move about to seek out better hunting grounds, but they don’t value treasure. Still, a flytrap tends to accumulate a small wealth of discarded loot from those it has eaten, discarding these shiny baubles in the periphery of its root system once it has finished digesting its meal.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-48\" />",
+ "name": "Giant Flytrap",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2019-08-01",
+ "resistance": {
+  "acid": 10
+ },
+ "resistance_markdown": "acid 10",
+ "resistance_raw": "acid 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 160</row>\r\n\r\n**Creature Family** [Flytrap](/MonsterFamilies.aspx?ID=48)\r\n\r\n<row gap=\"medium\">\r\n**HP** 185\r\n\r\n**AC** 29\r\n\r\n**Fort** +21\r\n\r\n**Ref** +17\r\n\r\n**Will** +15\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBecause they blend in so well with surrounding foliage, giant flytraps can use the element of surprise to make quick strikes against unsuspecting …\r\n</summary>",
+ "sense": "tremorsense (imprecise) 60 feet",
+ "sense_markdown": "tremorsense (imprecise) 60 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Stealth +21"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Stealth](/Skills.aspx?ID=15) +21",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 160"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 160</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "stealth": "21",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Because they blend in so well with surrounding foliage, giant flytraps can use the element of surprise to make quick strikes against unsuspecting …",
+ "summary_markdown": "Because they blend in so well with surrounding foliage, giant flytraps can use the element of surprise to make quick strikes against unsuspecting …",
+ "text": " Giant Flytrap Because they blend in so well with surrounding foliage, giant flytraps can use the element of surprise to make quick strikes against unsuspecting adventurers and forest travelers. Recall Knowledge - Plant (Nature): DC 27 Unspecific Lore : DC 25 Specific Lore : DC 22 Giant Flytrap Source Bestiary pg. 160 Perception +17; tremorsense (imprecise) 60 feet Languages Skills Athletics +23, Stealth +21 Str +7 Dex +5 Con +5 Int -5 Wis +3 Cha -2 --- AC 29 Fort +21 Ref +17 Will +15 HP 185 Immunities mental Resistances acid 10 Weaknesses fire 10 Quick Capture Reaction Trigger A creature hits or touches the flytrap. Effect The flytrap makes a leaf Strike against the triggering creature. If it hits, the creature is grabbed in that leaf. --- Speed 25 feet Melee Single Action leaf +23 (reach 15 feet), Damage 2d8+7 piercing plus 2d6 acid and Improved Grab Focused Assault Two Actions The flytrap attacks a single target with all four of its leaves. The flytrap makes one leaf Strike. On a success, the flytrap deals the damage from one leaf Strike plus an additional 1d8 damage for every leaf beyond the first. On a failure, the flytrap deals the damage from one leaf Strike, but it can’t use Improved Grab. It deals no damage on a critical failure. This counts toward the flytrap’s multiple attack penalty as a number of attacks equal to the number of leaves the flytrap has. Hungry Flurry Two Actions The flytrap makes four leaf Strikes at a –2 penalty, each against a different target. These attacks count toward the flytrap’s multiple attack penalty, but the multiple attack penalty doesn’t increase until after it makes all its attacks. Swallow Whole Single Action (Attack) Large, 2d8+3 bludgeoning plus 2d6 acid, Rupture 17 Flytrap Treasure Giant flytraps have enough instinctual intellect to effectively ambush prey or to move about to seek out better hunting grounds, but they don’t value treasure. Still, a flytrap tends to accumulate a small wealth of discarded loot from those it has eaten, discarding these shiny baubles in the periphery of its root system once it has finished digesting its meal. ",
+ "trait": [
+  "Mindless",
+  "Plant",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Mindless",
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=209",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "fire": 10
+ },
+ "weakness_markdown": "fire 10",
+ "weakness_raw": "fire 10",
+ "will_save": 15,
+ "wisdom": 3
+}

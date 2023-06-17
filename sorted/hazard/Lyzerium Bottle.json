@@ -1,0 +1,55 @@
+{
+ "ac": 13,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "Interact action to pick up one of the five bottles",
+ "exclude_from_search": false,
+ "fortitude_save": 4,
+ "hardness": 1,
+ "hardness_raw": "1 Bottle Hardness",
+ "hazard_type": "Trap",
+ "hp": 4,
+ "hp_raw": "4 (BT 2)",
+ "id": "hazard-165",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 1,
+ "markdown": "<title level=\"1\" right=\"Hazard 1\" pfs=\"\">[Lyzerium Bottle](/Hazards.aspx?ID=165)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 64</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nFive tiny glass bottles, each full of volatile green liquid, are discretely positioned around the room. Each bottle explodes when its glass is broken.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 16\r\n\r\n**Disable**\r\nInteract action to pick up one of the five bottles\n\n<column gap=\"tiny\">\r\n\r\n**AC** 13, **Fort** +4, **Ref** +6\r\n\r\n**Bottle Hardness**\r\n1\r\n\r\n**HP**\r\n4 (BT 2)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Explode** <actions string=\"Reaction\" /> **Trigger** A creature steps on the bottle or the bottle becomes [broken](/Conditions.aspx?ID=2); **Effect** The bottle explodes, dealing 2d8 fire damage plus 2 [persistent fire damage](/Conditions.aspx?ID=29) and 2 fire [splash](/Traits.aspx?ID=150) damage to each creature sharing its square (DC 18 [basic](/Rules.aspx?ID=329) Reflex save).",
+ "name": "Lyzerium Bottle",
+ "rarity": "common",
+ "reflex_save": 6,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 64</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFive tiny glass bottles, each full of volatile green liquid, are discretely positioned around the room. Each bottle explodes when its glass is broken.\r\n</summary>",
+ "source": [
+  "Pathfinder #178: Punks in a Powderkeg"
+ ],
+ "source_raw": [
+  "Pathfinder #178: Punks in a Powderkeg pg. 64"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #178: Punks in a Powderkeg](/Sources.aspx?ID=119) pg. 64</row>",
+ "speed": {},
+ "stealth": "DC 16",
+ "summary": "Five tiny glass bottles, each full of volatile green liquid, are discretely positioned around the room. Each bottle explodes when its glass is broken.",
+ "summary_markdown": "Five tiny glass bottles, each full of volatile green liquid, are discretely positioned around the room. Each bottle explodes when its glass is broken.",
+ "text": " Lyzerium Bottle Source Pathfinder #178: Punks in a Powderkeg pg. 64 Complexity Simple Five tiny glass bottles, each full of volatile green liquid, are discretely positioned around the room. Each bottle explodes when its glass is broken. --- Stealth DC 16 Disable Interact action to pick up one of the five bottles AC 13, Fort +4, Ref +6 Bottle Hardness 1 HP 4 (BT 2) Immunities critical hits, object immunities, precision damage Explode Reaction Trigger A creature steps on the bottle or the bottle becomes broken; Effect The bottle explodes, dealing 2d8 fire damage plus 2 persistent fire damage and 2 fire splash damage to each creature sharing its square (DC 18 basic Reflex save).",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=165",
+ "weakness": {}
+}

@@ -1,0 +1,55 @@
+{
+ "ac": 16,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 18  Thievery  (trained) to safely cut the trip cord",
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hardness": 8,
+ "hardness_raw": "8",
+ "hazard_type": "Trap",
+ "hp": 32,
+ "hp_raw": "32 (BT 16)",
+ "id": "hazard-113",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 2,
+ "markdown": "<title level=\"1\" right=\"Hazard 2\" pfs=\"\">[Hail of Razor Stones](/Hazards.aspx?ID=113)</title>\r\n\r\n<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 44</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nWhen a concealed cord is tripped, several sharp stones fall onto the square containing the cord.\r\n\r\n---\r\n\r\n**Stealth**\r\nStealth DC 21 (trained)\r\n\r\n**Disable**\r\nDC 18 [Thievery](/Skills.aspx?ID=17) (trained) to safely cut the trip cord\n\n<column gap=\"tiny\">\r\n\r\n**AC** 16, **Fort** +9, **Ref** +5\r\n\r\n**Hardness**\r\n8\r\n\r\n**HP**\r\n32 (BT 16)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Deadfall** <actions string=\"Reaction\" /> **Trigger** A creature walks into the square containing the trip cord; **Effect** Falling rocks deal 4d8 slashing damage (DC 19 [basic](/Rules.aspx?ID=329) Reflex save) to any creature in the square, possibly pinning them to the ground. On a failed save, the creature falls [prone](/Conditions.aspx?ID=31); on a critical failure, the creature is [immobilized](/Conditions.aspx?ID=24) (DC 17 to [Escape](/Actions.aspx?ID=79)). An adjacent creature can attempt a DC 19 [Athletics](/Skills.aspx?ID=3) check to shove the rocks aside to free an immobilized creature.",
+ "name": "Hail of Razor Stones",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2022-01-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mechanical\" url=\"/Traits.aspx?ID=105\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 44</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a concealed cord is tripped, several sharp stones fall onto the square containing the cord.\r\n</summary>",
+ "source": [
+  "Pathfinder #175: Broken Tusk Moon"
+ ],
+ "source_raw": [
+  "Pathfinder #175: Broken Tusk Moon pg. 44"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 44</row>",
+ "speed": {},
+ "stealth": "Stealth DC 21 (trained)",
+ "summary": "When a concealed cord is tripped, several sharp stones fall onto the square containing the cord.",
+ "summary_markdown": "When a concealed cord is tripped, several sharp stones fall onto the square containing the cord.",
+ "text": " Hail of Razor Stones Source Pathfinder #175: Broken Tusk Moon pg. 44 Complexity Simple When a concealed cord is tripped, several sharp stones fall onto the square containing the cord. --- Stealth Stealth DC 21 (trained) Disable DC 18 Thievery (trained) to safely cut the trip cord AC 16, Fort +9, Ref +5 Hardness 8 HP 32 (BT 16) Immunities critical hits, object immunities, precision damage Deadfall Reaction Trigger A creature walks into the square containing the trip cord; Effect Falling rocks deal 4d8 slashing damage (DC 19 basic Reflex save) to any creature in the square, possibly pinning them to the ground. On a failed save, the creature falls prone; on a critical failure, the creature is immobilized (DC 17 to Escape). An adjacent creature can attempt a DC 19 Athletics check to shove the rocks aside to free an immobilized creature.",
+ "trait": [
+  "Mechanical",
+  "Trap"
+ ],
+ "trait_markdown": "[Mechanical](/Traits.aspx?ID=105), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Mechanical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=113",
+ "weakness": {}
+}

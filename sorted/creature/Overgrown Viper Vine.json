@@ -1,0 +1,91 @@
+{
+ "ac": 35,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -3,
+ "constitution": 7,
+ "creature_ability": [
+  "Cold Vulnerability",
+  "Captivating Pollen",
+  "Constrict",
+  "Grasping Roots"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 290,
+ "hp_raw": "290",
+ "id": "creature-2325",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Overgrown Viper Vine](/Monsters.aspx?ID=2325)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 37\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 35\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 32\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Overgrown Viper Vine](/Monsters.aspx?ID=2325)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 360</row>\n\n**Perception** +24; [low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (precise in area A7, otherwise imprecise) 60 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +29, [Stealth](/Skills.aspx?ID=15) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +5\r\n\r\n**Con** +7\r\n\r\n**Int** -4\r\n\r\n**Wis** +5\r\n\r\n**Cha** -3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +24 \n\n</row>\r\n\r\n**HP** 290\n\n**Resistances**\r\npoison 15\n\n**Cold Vulnerability** When exposed to a cold effect, the viper vine is overwhelmed by lethargy, becoming slowed 1 for 1d4 rounds.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +29 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+13 piercing plus 3d6 poison\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nvine +29 ([Agile](/Traits.aspx?ID=170), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+13 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Captivating Pollen** <actions string=\"Single Action\" /> ([Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Poison](/Traits.aspx?ID=126)) The viper vine releases a 60-foot emanation of invisible pollen that stays in the air for 5 rounds unless dispersed by a moderate or stronger wind. Each creature that enters or starts its turn in the area must attempt a DC 33 Will save or be captivated. The viper vine can't use Captivating Pollen for 1d4 rounds.<br /> **Critical Success** The creature is unaffected and is temporarily immune to Captivating Pollen for 24 hours.<br /> **Success** The creature is [sickened](/Conditions.aspx?ID=34) 1.<br /> **Failure** The creature is [fascinated](/Conditions.aspx?ID=14), and it must spend each of its actions to move closer to the viper vine as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the viper vine, it stays still and doesn't act. It ceases to be fascinated if it's no longer in the pollen aura at the end of its turn.<br />\r\n\r\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  3d8+10 bludgeoning, DC 35.\r\n\r\n**Grasping Roots** <actions string=\"Reaction\" />  **Trigger** a creature attempts a Move action in area A7; **Requirement** the overgrown viper vine is in area A7; **Effect** The viper vine manipulates its roots to cause foliage around the triggering creature to suddenly seem to spring to life. The triggering creature must attempt a DC 35 Reflex saving throw.<br /> **Critical Success** The target is unaffected. <br />**Success**The target treats the first square of its movement as difficult terrain.<br /> **Failure** The target becomes [immobilized](/Conditions.aspx?ID=24) by the foliage, (escape DC 35).<br /> **Critical Failure** As failure but the target also falls [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>",
+ "name": "Overgrown Viper Vine",
+ "npc": false,
+ "perception": 24,
+ "rarity": "rare",
+ "reflex_save": 26,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "poison": 15
+ },
+ "resistance_markdown": "poison 15",
+ "resistance_raw": "poison 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 360</row>\n\n<row gap=\"medium\">\r\n**HP** 290\r\n\r\n**AC** 35\r\n\r\n**Fort** +28\r\n\r\n**Ref** +26\r\n\r\n**Will** +24\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " low-light vision ,  tremorsense  (precise in area A7, otherwise imprecise) 60 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [tremorsense](/MonsterAbilities.aspx?ID=40) (precise in area A7, otherwise imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +29",
+  "Stealth +26"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +29, [Stealth](/Skills.aspx?ID=15) +26",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 360"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 360</row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "stealth": "26",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "text": " Overgrown Viper Vine Recall Knowledge - Plant (Nature): DC 37 Unspecific Lore : DC 35 Specific Lore : DC 32 Overgrown Viper Vine Source Kingmaker Adventure Path pg. 360 Perception +24; low-light vision, tremorsense (precise in area A7, otherwise imprecise) 60 feet Languages Skills Athletics +29, Stealth +26 Str +8 Dex +5 Con +7 Int -4 Wis +5 Cha -3 --- AC 35 Fort +28 Ref +26 Will +24 HP 290 Resistances poison 15 Cold Vulnerability When exposed to a cold effect, the viper vine is overwhelmed by lethargy, becoming slowed 1 for 1d4 rounds. --- Speed 20 feet Melee Single Action jaws +29 (reach 10 feet), Damage 3d6+13 piercing plus 3d6 poison Melee Single Action vine +29 (Agile, reach 15 feet), Damage 3d10+13 bludgeoning plus Grab Captivating Pollen Single Action (Enchantment, Incapacitation, Mental, Poison) The viper vine releases a 60-foot emanation of invisible pollen that stays in the air for 5 rounds unless dispersed by a moderate or stronger wind. Each creature that enters or starts its turn in the area must attempt a DC 33 Will save or be captivated. The viper vine can't use Captivating Pollen for 1d4 rounds. Critical Success The creature is unaffected and is temporarily immune to Captivating Pollen for 24 hours. Success The creature is sickened 1. Failure The creature is fascinated, and it must spend each of its actions to move closer to the viper vine as expediently as possible while avoiding obvious dangers. If a captivated creature is adjacent to the viper vine, it stays still and doesn't act. It ceases to be fascinated if it's no longer in the pollen aura at the end of its turn. Constrict Single Action 3d8+10 bludgeoning, DC 35. Grasping Roots Reaction Trigger a creature attempts a Move action in area A7; Requirement the overgrown viper vine is in area A7; Effect The viper vine manipulates its roots to cause foliage around the triggering creature to suddenly seem to spring to life. The triggering creature must attempt a DC 35 Reflex saving throw. Critical Success The target is unaffected. Success The target treats the first square of its movement as difficult terrain. Failure The target becomes immobilized by the foliage, (escape DC 35). Critical Failure As failure but the target also falls prone. ",
+ "trait": [
+  "Plant",
+  "Rare",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Plant",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2325",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 24,
+ "wisdom": 5
+}

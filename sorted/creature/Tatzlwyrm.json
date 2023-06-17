@@ -1,0 +1,100 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 3,
+ "creature_ability": [
+  "Natural Camouflage",
+  "Poison Gasp"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hp": 30,
+ "hp_raw": "30",
+ "id": "creature-822",
+ "image": [
+  "/Images/Monsters/Tatzlwyrm.png"
+ ],
+ "immunity": [
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "[paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": -3,
+ "language": [
+  "Draconic"
+ ],
+ "language_markdown": "[Draconic](/Languages.aspx?ID=2)",
+ "level": 2,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Tatzlwyrm](/Monsters.aspx?ID=822)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nTatzlwyrms resemble human-sized snakes with two arms and a dragon's head. Distant relatives of true dragons, tatzlwyrms possess only a meager level of intelligence. They can speak [Draconic](/Languages.aspx?ID=2) (with a thick, hissing accent), but their ability to reason is limited and they can't use magic. They do possess a level of cunning, however, and some have been known to build rudimentary traps and even lairs. They are not treasure-hoarders, though, so don't expect to find a tatzlwyrm sitting atop a bed of coins.\n\n Some tatzlwyrms have managed to forge working relationships with dragons, though it's a rare occurrence. From time to time, dragons have used them as messengers (because they can speak their language, however crudely), scouts (due to their smaller size), guides (when they're familiar with a particular mountain), and even muscle (harassing foes not worthy of a dragon's direct attention).\n\n Tatzlwyrms don't work with [kobolds](/MonsterFamilies.aspx?ID=65), though—tatzlwyrms eat kobolds.\n\n Tatzlwyrms hibernate in cold weather, and when they feel winter approaching they seek out underground lairs, mountain crevices, or even hay lofts. On one notable occasion, townsfolk reported being briefly overrun by tatzlwyrms after a conflict between spellcasters in the nearby hills caused a sudden blizzard. Local scholars still debate whether the cause of the influx was the sudden change in weather or if the creatures were drawn to one of the other magic users staying in town who were part of the same pilgrimage as those doing battle.\n\n When confronted, tatzlwyrms are more likely to attack than retreat. Indeed, they sometimes lie in wait on purpose, taking advantage of their scales' natural camouflage and awaiting the chance to unleash their signature move: belching poisonous vapor into an opponent's face. Since this breath attack doesn't have much range, the wyrms usually need to grab their foes first and bring them close to their mouth.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 16\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 14\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 11\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Tatzlwyrm.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 2\">[Tatzlwyrm](/Monsters.aspx?ID=822)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 256 <sup>2.0</sup></row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Draconic](/Languages.aspx?ID=2)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +8, [Crafting](/Skills.aspx?ID=4) +4, [Intimidation](/Skills.aspx?ID=7) +6, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +1\r\n\r\n**Con** +3\r\n\r\n**Int** -3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Natural Camouflage** A tatzlwyrm's green, gray, and brown scales provide it natural camouflage. In areas of dense undergrowth, a tatzlwyrm can move at its full Speed when [Sneaking](/Actions.aspx?ID=63), and it gains a +4 circumstance bonus to [Hide](/Actions.aspx?ID=62).\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +11 \r\n\r\n**Ref** +5 \r\n\r\n**Will** +8 \n\n</row>\r\n\r\n**HP** 30\n\n**Immunities**\r\n[paralyzed](/Conditions.aspx?ID=28), [sleep](/Traits.aspx?ID=145)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +10 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d8+6 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +10 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 1d6+6 slashing\n\n**Poison Gasp** <actions string=\"Single Action\" />  The tatzlwyrm belches a puff of poisonous vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude save; the creature takes a –2 circumstance penalty to this save if it's [grabbed](/Conditions.aspx?ID=20) or [flat-footed](/Conditions.aspx?ID=16). The tatzlwyrm can't use Poison Gasp again for 2 rounds. <br />**Critical Success** The target is unaffected. <br />**Success** The target is [sickened 1](/Conditions.aspx?ID=34). <br />**Failure** The target takes 2d6 poison damage and is [enfeebled 1](/Conditions.aspx?ID=13) for 1 round. <br />**Critical Failure** The target takes 4d6 poison damage and is enfeebled 1 for 1 minute.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Other Tatzlwyrms</title>\r\n\r\nPeople in some regions claim to have seen creatures that are just like tatzlwyrms in most respects—a long body, two arms, and a head—except that they have traits that are not of reptilian origin. Travelers on a savanna should beware a furry, lion-headed tatzlwyrm protecting its cubs, while those in the mountains might be attacked by a feathered (but wingless) variant with the head of an eagle.\r\n</aside>",
+ "name": "Tatzlwyrm",
+ "npc": false,
+ "perception": 8,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 5,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 256 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 30\r\n\r\n**AC** 18\r\n\r\n**Fort** +11\r\n\r\n**Ref** +5\r\n\r\n**Will** +8\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTatzlwyrms resemble human-sized snakes with two arms and a dragon's head. Distant relatives of true dragons, tatzlwyrms possess only a meager level …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Athletics +8",
+  "Crafting +4",
+  "Intimidation +6",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Athletics](/Skills.aspx?ID=3) +8, [Crafting](/Skills.aspx?ID=4) +4, [Intimidation](/Skills.aspx?ID=7) +6, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 256"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 256 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 30,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 30 feet",
+ "speed_raw": "30 feet, climb 30 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Tatzlwyrms resemble human-sized snakes with two arms and a dragon's head. Distant relatives of true dragons, tatzlwyrms possess only a meager level …",
+ "summary_markdown": "Tatzlwyrms resemble human-sized snakes with two arms and a dragon's head. Distant relatives of true dragons, tatzlwyrms possess only a meager level …",
+ "text": " Tatzlwyrm Tatzlwyrms resemble human-sized snakes with two arms and a dragon's head. Distant relatives of true dragons, tatzlwyrms possess only a meager level of intelligence. They can speak Draconic (with a thick, hissing accent), but their ability to reason is limited and they can't use magic. They do possess a level of cunning, however, and some have been known to build rudimentary traps and even lairs. They are not treasure-hoarders, though, so don't expect to find a tatzlwyrm sitting atop a bed of coins. Some tatzlwyrms have managed to forge working relationships with dragons, though it's a rare occurrence. From time to time, dragons have used them as messengers (because they can speak their language, however crudely), scouts (due to their smaller size), guides (when they're familiar with a particular mountain), and even muscle (harassing foes not worthy of a dragon's direct attention). Tatzlwyrms don't work with kobolds, though—tatzlwyrms eat kobolds. Tatzlwyrms hibernate in cold weather, and when they feel winter approaching they seek out underground lairs, mountain crevices, or even hay lofts. On one notable occasion, townsfolk reported being briefly overrun by tatzlwyrms after a conflict between spellcasters in the nearby hills caused a sudden blizzard. Local scholars still debate whether the cause of the influx was the sudden change in weather or if the creatures were drawn to one of the other magic users staying in town who were part of the same pilgrimage as those doing battle. When confronted, tatzlwyrms are more likely to attack than retreat. Indeed, they sometimes lie in wait on purpose, taking advantage of their scales' natural camouflage and awaiting the chance to unleash their signature move: belching poisonous vapor into an opponent's face. Since this breath attack doesn't have much range, the wyrms usually need to grab their foes first and bring them close to their mouth. Recall Knowledge - Dragon (Arcana): DC 16 Unspecific Lore : DC 14 Specific Lore : DC 11 Tatzlwyrm Source Bestiary 2 pg. 256 2.0 Perception +8; darkvision Languages Draconic Skills Acrobatics +7, Athletics +8, Crafting +4, Intimidation +6, Stealth +7 Str +4 Dex +1 Con +3 Int -3 Wis +2 Cha +0 Natural Camouflage A tatzlwyrm's green, gray, and brown scales provide it natural camouflage. In areas of dense undergrowth, a tatzlwyrm can move at its full Speed when Sneaking, and it gains a +4 circumstance bonus to Hide. --- AC 18 Fort +11 Ref +5 Will +8 HP 30 Immunities paralyzed, sleep --- Speed 30 feet, climb 30 feet Melee Single Action jaws +10 (Magical), Damage 1d8+6 piercing Melee Single Action claw +10 (Agile, Magical), Damage 1d6+6 slashing Poison Gasp Single Action The tatzlwyrm belches a puff of poisonous vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude save; the creature takes a –2 circumstance penalty to this save if it's grabbed or flat-footed. The tatzlwyrm can't use Poison Gasp again for 2 rounds. Critical Success The target is unaffected. Success The target is sickened 1. Failure The target takes 2d6 poison damage and is enfeebled 1 for 1 round. Critical Failure The target takes 4d6 poison damage and is enfeebled 1 for 1 minute. Other Tatzlwyrms People in some regions claim to have seen creatures that are just like tatzlwyrms in most respects—a long body, two arms, and a head—except that they have traits that are not of reptilian origin. Travelers on a savanna should beware a furry, lion-headed tatzlwyrm protecting its cubs, while those in the mountains might be attacked by a feathered (but wingless) variant with the head of an eagle. ",
+ "trait": [
+  "Dragon",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50)",
+ "trait_raw": [
+  "Dragon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=822",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 8,
+ "wisdom": 2
+}

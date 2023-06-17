@@ -1,0 +1,103 @@
+{
+ "ac": 18,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Light Blindness",
+  "Improvised Projectile",
+  "Sneak Attack",
+  "Swarming Stance",
+  "Uncanny Tinker"
+ ],
+ "creature_family": "Morlock",
+ "creature_family_markdown": "[Morlock](/MonsterFamilies.aspx?ID=211)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 7,
+ "hp": 46,
+ "hp_raw": "46",
+ "id": "creature-1038",
+ "image": [
+  "/Images/Monsters/Morlock_MorlockEngineer.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Undercommon"
+ ],
+ "language_markdown": "[Undercommon](/Languages.aspx?ID=11)",
+ "level": 3,
+ "markdown": "<title level=\"1\" pfs=\"\">[Morlock Engineer](/Monsters.aspx?ID=1038)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMost morlocks have little talent for crafting, but a rare few have an uncanny knack for tinkering.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Morlock_MorlockEngineer.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 3\">[Morlock Engineer](/Monsters.aspx?ID=1038)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Morlock\" url=\"/Traits.aspx?ID=302\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #163: Ruins of Gauntlight](/Sources.aspx?ID=71) pg. 84</row>\n\n**Perception** +8; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +9, [Crafting](/Skills.aspx?ID=4) +10, [Stealth](/Skills.aspx?ID=15) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**[Light Blindness](/MonsterAbilities.aspx?ID=22)** \r\n\r\n**Items**\r\nprojectile launcher, [warhammer](/Equipment.aspx?ID=24)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +7 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +10 \r\n\r\n+2 status to all saves vs. [disease](/Traits.aspx?ID=46) and [poison](/Traits.aspx?ID=126)\r\n</row>\r\n\r\n**HP** 46\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nwarhammer +11 ([Shove](/Traits.aspx?ID=193)),\r\n**Damage** 1d8+6 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +11 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 1d4+6 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nprojectile launcher +10 ([deadly d8](/Traits.aspx?ID=174), [range increment 50 feet](/Traits.aspx?ID=248), [versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 1d6+6 bludgeoning\n\n**Improvised Projectile** <actions string=\"Single Action\" />  The morlock engineer quickly crafts an improvised projectile from objects it carries or that are readily accessible in adjacent squares. Where unusual materials are available, an improvised projectile might deal damage other than bludgeoning or piercing—for example, a morlock engineer by a campfire could build a projectile that deals fire damage.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The morlock deals an extra 1d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Swarming Stance**   A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls.\r\n\r\n**Uncanny Tinker** <actions string=\"Two Actions\" />  The morlock engineer tinkers with an adjacent [construct](/Traits.aspx?ID=35) or [mechanical](/Traits.aspx?ID=105) hazard. They attempt a [Crafting](/Skills.aspx?ID=4) check against the construct's or hazard's Fortitude DC. The morlock can't get an outcome better than failure if the target's level is more than double the morlock's. This ability reflects hasty battlefield repairs; once a construct or hazard regains Hit Points from this ability, it can't do so again until it's been [Repaired](/Actions.aspx?ID=42). <br />**Critical Success** The target regains 8d6 Hit Points and a +1 circumstance bonus to attack rolls for 1 minute. Alternately, the morlock can deal 8d6 damage (bludgeoning, piercing, or slashing, as chosen by the morlock engineer) to the construct or hazard. <br />**Success** As critical success, but the target regains 4d6 Hit Points or the morlock deals 4d6 damage. <br />**Critical Failure** The morlock injures themself, taking 3d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-211\" />",
+ "name": "Morlock Engineer",
+ "npc": false,
+ "perception": 8,
+ "rarity": "uncommon",
+ "reflex_save": 12,
+ "release_date": "2021-01-15",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n<trait label=\"Morlock\" url=\"/Traits.aspx?ID=302\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #163: Ruins of Gauntlight](/Sources.aspx?ID=71) pg. 84</row>\r\n\r\n**Creature Family** [Morlock](/MonsterFamilies.aspx?ID=211)\r\n\r\n<row gap=\"medium\">\r\n**HP** 46\r\n\r\n**AC** 18\r\n\r\n**Fort** +7\r\n\r\n**Ref** +12\r\n\r\n**Will** +10\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMost morlocks have little talent for crafting, but a rare few have an uncanny knack for tinkering.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +8",
+  "Athletics +9",
+  "Crafting +10",
+  "Stealth +10"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +8, [Athletics](/Skills.aspx?ID=3) +9, [Crafting](/Skills.aspx?ID=4) +10, [Stealth](/Skills.aspx?ID=15) +10",
+ "source": [
+  "Pathfinder #163: Ruins of Gauntlight"
+ ],
+ "source_raw": [
+  "Pathfinder #163: Ruins of Gauntlight pg. 84"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Abomination Vaults",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #163: Ruins of Gauntlight](/Sources.aspx?ID=71) pg. 84</row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Abomination Vaults",
+ "stealth": "10",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Most morlocks have little talent for crafting, but a rare few have an uncanny knack for tinkering.",
+ "summary_markdown": "Most morlocks have little talent for crafting, but a rare few have an uncanny knack for tinkering.",
+ "text": " Morlock Engineer Most morlocks have little talent for crafting, but a rare few have an uncanny knack for tinkering. Recall Knowledge - Humanoid (Society): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Morlock Engineer Source Pathfinder #163: Ruins of Gauntlight pg. 84 Perception +8; darkvision Languages Undercommon Skills Acrobatics +8, Athletics +9, Crafting +10, Stealth +10 Str +4 Dex +3 Con +2 Int +1 Wis +3 Cha +0 Light Blindness Items projectile launcher, warhammer --- AC 18 Fort +7 Ref +12 Will +10 +2 status to all saves vs. disease and poison HP 46 --- Speed 30 feet, climb 20 feet Melee Single Action warhammer +11 (Shove), Damage 1d8+6 bludgeoning Melee Single Action jaws +11 (Agile), Damage 1d4+6 piercing Ranged Single Action projectile launcher +10 (deadly d8, range increment 50 feet, versatile P), Damage 1d6+6 bludgeoning Improvised Projectile Single Action The morlock engineer quickly crafts an improvised projectile from objects it carries or that are readily accessible in adjacent squares. Where unusual materials are available, an improvised projectile might deal damage other than bludgeoning or piercing—for example, a morlock engineer by a campfire could build a projectile that deals fire damage. Sneak Attack The morlock deals an extra 1d6 precision damage to flat-footed creatures. Swarming Stance A morlock can share the same space as another morlock, but no more than two morlocks can occupy the same space. When morlocks share the same space, they gain a +1 circumstance bonus to attack rolls. Uncanny Tinker Two Actions The morlock engineer tinkers with an adjacent construct or mechanical hazard. They attempt a Crafting check against the construct's or hazard's Fortitude DC. The morlock can't get an outcome better than failure if the target's level is more than double the morlock's. This ability reflects hasty battlefield repairs; once a construct or hazard regains Hit Points from this ability, it can't do so again until it's been Repaired. Critical Success The target regains 8d6 Hit Points and a +1 circumstance bonus to attack rolls for 1 minute. Alternately, the morlock can deal 8d6 damage (bludgeoning, piercing, or slashing, as chosen by the morlock engineer) to the construct or hazard. Success As critical success, but the target regains 4d6 Hit Points or the morlock deals 4d6 damage. Critical Failure The morlock injures themself, taking 3d6 damage (typically bludgeoning, piercing, or slashing, but potentially a different type at the GM's discretion). ",
+ "trait": [
+  "Humanoid",
+  "Morlock",
+  "Uncommon",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Humanoid](/Traits.aspx?ID=91), [Morlock](/Traits.aspx?ID=302), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Humanoid",
+  "Morlock",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1038",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 3
+}

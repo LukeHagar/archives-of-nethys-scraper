@@ -1,0 +1,105 @@
+{
+ "ac": 35,
+ "alignment": "CN",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 5,
+ "creature_ability": [
+  "No Time to Die",
+  "Second Wind",
+  "Attack of Opportunity",
+  "Armag's Rage",
+  "Awesome Blow",
+  "Greatsword Critical Specialization",
+  "Shoulder Slam"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 300,
+ "hp_raw": "300",
+ "id": "creature-2188",
+ "image": [
+  "/Images/Monsters/Armag.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Hallit"
+ ],
+ "language_markdown": "[Hallit](/Languages.aspx?ID=37)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Armag Twice-Born](/NPCs.aspx?ID=2188)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nArmag was not born with that name, but today, he fully believes he is the legendary ancient leader reborn to lead the Tiger Lords back to an age of glory. He has long forgotten his birth name, as well as much of his childhood, as his brief but overwhelming recent experiences forced these memories out of his mind to make room for bloodlust, an addiction to violence, and obsession with mayhem. Only his worship of [Gorum](/Deities.aspx?ID=7) remains today, yet even this has been corrupted—tainted by the fell influence of the Sisters of the Bloodshot Eye. Little remains in Armag's mind today save for a desire to conquer, to wield the mighty greatsword [_Ovinrbaane_](/Equipment.aspx?ID=1748) in battle, and to revel in the glory of war. While he claims to be the reborn ancient hero, his “memories” of this previous life are largely hallucinations and fantasies implanted by the influence of his weapon.\n\nArmag himself appears as a muscular human with unruly brown hair, a full beard, and an expression that seems incapable of any other visage than anger, wrath, or fury.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 42\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 40\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 37\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Armag.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Armag](/NPCs.aspx?ID=2188)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"CN\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 592</row>\n\n**Perception** +24\r\n\r\n**Languages**\r\n[Hallit](/Languages.aspx?ID=37)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +27, [Intimidation](/Skills.aspx?ID=7) +26, [Survival](/Skills.aspx?ID=16) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +2\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n_+1 [resilient](/Equipment.aspx?ID=279) [breastplate](/Armor.aspx?ID=10)_, [_Ovinrbaane_](/Equipment.aspx?ID=1748)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 300\n\n**Resistances**\r\nphysical 10 (weapons only)\n\n**No Time to Die** As long as Armag wields _Ovinrbaane_ and is raging, the combination of the sword's magic and Armag's furious conviction that he is the true Armag protects him from death. His eyes and the sword's blade weep with blood and glow with red light at this time. As long as these conditions persist, he never increases beyond [dying 3](/Conditions.aspx?ID=11) and is not rendered [unconscious](/Conditions.aspx?ID=38). Instead, Armag becomes [confused](/Conditions.aspx?ID=5) and continues to fight. If _Ovinrbaane_ is taken from him (such as via a successful [Disarm](/Actions.aspx?ID=41)), or if his rage ends while he is dying, he immediately dies regardless of his dying condition value. If he's healed to at least 1 Hit Point, the confusion effect immediately ends.<br />**Second Wind** <actions string=\"Reaction\" /> **Trigger** Armag is [fatigued](/Conditions.aspx?ID=15) and scores a critical hit with a melee strike or reduces a creature to 0 Hit Points with a melee Strike; **Effect** Armag draws upon inner reserves of furious energy. He is no longer fatigued.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\n_Ovinrbaane_ +29 ([versatile P](/Traits.aspx?ID=200)),\r\n**Damage** 2d12+13 slashing plus 1d6 bleed\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nshoulder spikes +27,\r\n**Damage** 3d6+13 piercing\n\n**Armag's Rage** <actions string=\"Free Action\" />  **Requirements** Armag is not [fatigued](/Conditions.aspx?ID=15) or raging. **Effect** Armag flies into a rage that lasts 1 minute. While raging, he gains a +6 status bonus to damage rolls and suffers a –1 status penalty to AC. During his rage, Armag gains an additional reaction at the start of his turn, but he can only use this additional reaction for Attacks of Opportunity. After the rage ends, Armag is fatigued.\r\n\r\n**Awesome Blow** <actions string=\"Single Action\" />  **Requirements** Armag's last action was a successful Strike. **Effect** The weight of Armag's previous swing drives his foe back. He attempts an [Athletics](/Skills.aspx?ID=3) check against the target's Fortitude DC. <br />**Critical Success** Armag gains the critical success effects of a [Shove](/Actions.aspx?ID=38), then the critical success effect of a [Trip](/Actions.aspx?ID=40) against the target. <br />**Success** Armag gains the success effect of a Shove, then the success effect of a Trip against the target. <br />**Failure** Armag pushes the foe back 5 feet.\r\n\r\n**Greatsword Critical Specialization**   On a critical hit from a greatsword Strike, the target is made off-balance and becomes [flat-footed](/Conditions.aspx?ID=16) until the start of Armag's next turn.\r\n\r\n**Shoulder Slam** <actions string=\"Single Action\" />  Armag Strides forward and hunkers down to attempt a shoulder spike Strike against a target at the end of that movement. If he critically hits a creature with this Strike, that creature is knocked [prone](/Conditions.aspx?ID=31).\r\n\r\n</column>",
+ "name": "Armag",
+ "npc": true,
+ "perception": 24,
+ "rarity": "unique",
+ "reflex_save": 23,
+ "release_date": "2022-10-26",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10 (weapons only)",
+ "resistance_raw": "physical 10 (weapons only)",
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Human\" url=\"/Traits.aspx?ID=90\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 592</row>\n\n<row gap=\"medium\">\r\n**HP** 300\r\n\r\n**AC** 35\r\n\r\n**Fort** +28\r\n\r\n**Ref** +23\r\n\r\n**Will** +25\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nArmag was not born with that name, but today, he fully believes he is the legendary ancient leader reborn to lead the Tiger Lords back to an age of …\r\n</summary>",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +27",
+  "Intimidation +26",
+  "Survival +24"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +27, [Intimidation](/Skills.aspx?ID=7) +26, [Survival](/Skills.aspx?ID=16) +24",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 592"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 592</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "spoilers": "Kingmaker",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Armag was not born with that name, but today, he fully believes he is the legendary ancient leader reborn to lead the Tiger Lords back to an age of …",
+ "summary_markdown": "Armag was not born with that name, but today, he fully believes he is the legendary ancient leader reborn to lead the Tiger Lords back to an age of …",
+ "text": " Armag Twice-Born Armag was not born with that name, but today, he fully believes he is the legendary ancient leader reborn to lead the Tiger Lords back to an age of glory. He has long forgotten his birth name, as well as much of his childhood, as his brief but overwhelming recent experiences forced these memories out of his mind to make room for bloodlust, an addiction to violence, and obsession with mayhem. Only his worship of Gorum remains today, yet even this has been corrupted—tainted by the fell influence of the Sisters of the Bloodshot Eye. Little remains in Armag's mind today save for a desire to conquer, to wield the mighty greatsword Ovinrbaane in battle, and to revel in the glory of war. While he claims to be the reborn ancient hero, his “memories” of this previous life are largely hallucinations and fantasies implanted by the influence of his weapon. Armag himself appears as a muscular human with unruly brown hair, a full beard, and an expression that seems incapable of any other visage than anger, wrath, or fury. Recall Knowledge - Humanoid (Society): DC 42 Unspecific Lore : DC 40 Specific Lore : DC 37 Armag Source Kingmaker Adventure Path pg. 592 Perception +24 Languages Hallit Skills Athletics +27, Intimidation +26, Survival +24 Str +5 Dex +2 Con +5 Int +0 Wis +2 Cha +4 Items +1 resilient breastplate , Ovinrbaane --- AC 35 Fort +28 Ref +23 Will +25 HP 300 Resistances physical 10 (weapons only) No Time to Die As long as Armag wields Ovinrbaane and is raging, the combination of the sword's magic and Armag's furious conviction that he is the true Armag protects him from death. His eyes and the sword's blade weep with blood and glow with red light at this time. As long as these conditions persist, he never increases beyond dying 3 and is not rendered unconscious. Instead, Armag becomes confused and continues to fight. If Ovinrbaane is taken from him (such as via a successful Disarm), or if his rage ends while he is dying, he immediately dies regardless of his dying condition value. If he's healed to at least 1 Hit Point, the confusion effect immediately ends. Second Wind Reaction Trigger Armag is fatigued and scores a critical hit with a melee strike or reduces a creature to 0 Hit Points with a melee Strike; Effect Armag draws upon inner reserves of furious energy. He is no longer fatigued. Attack of Opportunity Reaction --- Speed 30 feet Melee Single Action Ovinrbaane +29 (versatile P), Damage 2d12+13 slashing plus 1d6 bleed Melee Single Action shoulder spikes +27, Damage 3d6+13 piercing Armag's Rage Free Action Requirements Armag is not fatigued or raging. Effect Armag flies into a rage that lasts 1 minute. While raging, he gains a +6 status bonus to damage rolls and suffers a –1 status penalty to AC. During his rage, Armag gains an additional reaction at the start of his turn, but he can only use this additional reaction for Attacks of Opportunity. After the rage ends, Armag is fatigued. Awesome Blow Single Action Requirements Armag's last action was a successful Strike. Effect The weight of Armag's previous swing drives his foe back. He attempts an Athletics check against the target's Fortitude DC. Critical Success Armag gains the critical success effects of a Shove, then the critical success effect of a Trip against the target. Success Armag gains the success effect of a Shove, then the success effect of a Trip against the target. Failure Armag pushes the foe back 5 feet. Greatsword Critical Specialization On a critical hit from a greatsword Strike, the target is made off-balance and becomes flat-footed until the start of Armag's next turn. Shoulder Slam Single Action Armag Strides forward and hunkers down to attempt a shoulder spike Strike against a target at the end of that movement. If he critically hits a creature with this Strike, that creature is knocked prone. ",
+ "trait": [
+  "Human",
+  "Humanoid",
+  "Unique",
+  "CN",
+  "Medium"
+ ],
+ "trait_markdown": "[Human](/Traits.aspx?ID=90), [Humanoid](/Traits.aspx?ID=91), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Human",
+  "Humanoid",
+  "Unique"
+ ],
+ "type": "Creature",
+ "url": "/NPCs.aspx?ID=2188",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 25,
+ "wisdom": 2
+}

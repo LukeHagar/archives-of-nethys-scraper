@@ -1,0 +1,113 @@
+{
+ "ac": 27,
+ "alignment": "CG",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Frightful Presence",
+  "Twisting Tail",
+  "Breath Weapon",
+  "Climb Stone",
+  "Draconic Frenzy",
+  "Draconic Momentum"
+ ],
+ "creature_family": "Dragon, Copper",
+ "creature_family_markdown": "[Dragon, Copper](/MonsterFamilies.aspx?ID=172)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 16,
+ "hp": 150,
+ "hp_raw": "150",
+ "id": "creature-148",
+ "immunity": [
+  "acid",
+  "paralyzed",
+  "sleep"
+ ],
+ "immunity_markdown": "acid, paralyzed, sleep",
+ "intelligence": 2,
+ "language": [
+  "Common",
+  "Draconic",
+  "Gnomish"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Gnomish](/Languages.aspx?ID=5)",
+ "level": 8,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Young Copper Dragon](/Monsters.aspx?ID=148)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nCapricious and always eager to share a good laugh, copper dragons are among the wiliest of the metallic dragons, but this by no means interferes with their mission to spread freedom in oppressive lands. Copper dragons are hedonists who are quick to indulge in simple pleasures, but they’re also sympathetic to other creatures, slow to pass judgment, and careful to always examine a situation from as many perspectives as possible. This philosophy has its drawbacks, however, as copper dragons are susceptible to negative influences and prone to forgiving the less serious evil acts performed by their chromatic cousins and other cruel creatures. Copper dragons also have a difficult time keeping their temper in check once they are roused to anger.\n\n Copper dragons tend to lair in warm or temperate hills, but due to their nature, they move their lairs every few years. They sometimes live among other people, especially any dwarves who reside nearby. Some copper dragons even worship gods typically worshipped only by humanoids. Among these dragons, worship of Cayden Cailean is most popular, as they see his love of freedom and penchant for alcohol aligning with the typical copper dragon mindset.\n\n A copper dragon’s combat tactics are as unorthodox as its sense of humor, as it is more likely to use mockery and tricks than outright strength to win its battles. As a copper dragon ages, it perfects jokes capable of rendering its foes helpless with laughter.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Dragon](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 8\">[Young Copper Dragon](/Monsters.aspx?ID=148)</title>\r\n\r\n<traits>\r\n<trait label=\"CG\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 121</row>\n\n**Perception** +16; darkvision, scent (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Draconic](/Languages.aspx?ID=2), [Gnomish](/Languages.aspx?ID=5)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +17, [Crafting](/Skills.aspx?ID=4) +14, [Deception](/Skills.aspx?ID=5) +15, [Performance](/Skills.aspx?ID=12) +16, [Society](/Skills.aspx?ID=14) +16, [Stealth](/Skills.aspx?ID=15) +17\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 27 \r\n\r\n**Fort** +16 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +16 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 150\n\n**Immunities**\r\nacid, paralyzed, sleep\n\n**Frightful Presence** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 90 feet, DC 23<br /> **Twisting Tail** <actions string=\"Reaction\" /> **Trigger** A creature within reach of the copper dragon’s tail uses a move action or leaves a square during a move action it’s using. **Effect** The dragon makes a tail Strike at the creature with a –2 penalty. If it hits, the dragon disrupts the triggering action.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 120 feet; climb stone 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +20 ([Acid](/Traits.aspx?ID=3), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+8 piercing plus 1d8 acid\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +20 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+8 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +18 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+7 bludgeoning\r\n\r\n**Arcane Innate Spells** DC 27\r\n- **1st**\r\n[Grease](/Spells.aspx?ID=140) (at will)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" />  The copper dragon breathes in one of two ways. The dragon can’t use Breath Weapon again for 1d4 rounds. \n<ul><li>**Acid** ([acid](/Traits.aspx?ID=3), [arcane](/Traits.aspx?ID=11), [evocation](/Traits.aspx?ID=65)); The dragon breathes acid in a 60-foot line that deals 8d6 acid damage (DC 26 basic Fortitude save).</li><li>**Slowing Gas** ([arcane](/Traits.aspx?ID=11), [transmutation](/Traits.aspx?ID=157)); The dragon breathes a 60-foot line of slowing gas. Each creature in the area must succeed at a DC 26 Fortitude save or be [slowed 1](/Conditions.aspx?ID=35) for 1 round (or [slowed 2](/Conditions.aspx?ID=35) on a critical failure).</li></ul>\r\n\r\n**Climb Stone**   The dragon’s climb speed functions only when climbing stone surfaces.\r\n\r\n**Draconic Frenzy** <actions string=\"Two Actions\" />  The dragon makes two claw Strikes and one tail Strike in any order.\r\n\r\n**Draconic Momentum**   When the dragon scores a critical hit with a Strike, it recharges Breath Weapon.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"\">Copper Dragon Spellcasters</title>\r\n\r\nCopper dragon spellcasters tend to cast the following spells.\n\n**Young Copper Dragon**<br />**Arcane Prepared Spells** DC 27, attack +20; **3rd** [_dispel magic_](/Spells.aspx?ID=78), [_haste_](/Spells.aspx?ID=147), [_meld into stone_](/Spells.aspx?ID=188); **2nd** [_glitterdust_](/Spells.aspx?ID=136), [_invisibility_](/Spells.aspx?ID=164), [_see invisibility_](/Spells.aspx?ID=271); **1st** [_fleet step_](/Spells.aspx?ID=122), [_illusory object_](/Spells.aspx?ID=160), [_magic aura_](/Spells.aspx?ID=178); **Cantrips (3rd)** [_detect magic_](/Spells.aspx?ID=66), [_ghost sound_](/Spells.aspx?ID=132), [_message_](/Spells.aspx?ID=190), [_read aura_](/Spells.aspx?ID=246)\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-172\" />",
+ "name": "Young Copper Dragon",
+ "npc": false,
+ "perception": 16,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 17,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 121</row>\r\n\r\n**Creature Family** [Dragon, Copper](/MonsterFamilies.aspx?ID=172)\r\n\r\n<row gap=\"medium\">\r\n**HP** 150\r\n\r\n**AC** 27\r\n\r\n**Fort** +16\r\n\r\n**Ref** +17\r\n\r\n**Will** +16\r\n\r\n**Perception** +16\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCapricious and always eager to share a good laugh, copper dragons are among the wiliest of the metallic dragons, but this by no means interferes with …\r\n</summary>",
+ "sense": "darkvision, scent (imprecise) 60 feet",
+ "sense_markdown": "darkvision, scent (imprecise) 60 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +17",
+  "Athletics +17",
+  "Crafting +14",
+  "Deception +15",
+  "Performance +16",
+  "Society +16",
+  "Stealth +17"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +17, [Athletics](/Skills.aspx?ID=3) +17, [Crafting](/Skills.aspx?ID=4) +14, [Deception](/Skills.aspx?ID=5) +15, [Performance](/Skills.aspx?ID=12) +16, [Society](/Skills.aspx?ID=14) +16, [Stealth](/Skills.aspx?ID=15) +17",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 121"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 121</row>",
+ "speed": {
+  "fly": 120,
+  "land": 30,
+  "max": 120
+ },
+ "speed_markdown": "30 feet, fly 120 feet; climb stone 30 feet",
+ "speed_raw": "30 feet, fly 120 feet; climb stone 30 feet",
+ "spell": [
+  "Grease"
+ ],
+ "spell_markdown": "[Grease](/Spells.aspx?ID=140)",
+ "stealth": "17",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Capricious and always eager to share a good laugh, copper dragons are among the wiliest of the metallic dragons, but this by no means interferes with …",
+ "summary_markdown": "Capricious and always eager to share a good laugh, copper dragons are among the wiliest of the metallic dragons, but this by no means interferes with …",
+ "text": " Young Copper Dragon Capricious and always eager to share a good laugh, copper dragons are among the wiliest of the metallic dragons, but this by no means interferes with their mission to spread freedom in oppressive lands. Copper dragons are hedonists who are quick to indulge in simple pleasures, but they’re also sympathetic to other creatures, slow to pass judgment, and careful to always examine a situation from as many perspectives as possible. This philosophy has its drawbacks, however, as copper dragons are susceptible to negative influences and prone to forgiving the less serious evil acts performed by their chromatic cousins and other cruel creatures. Copper dragons also have a difficult time keeping their temper in check once they are roused to anger. Copper dragons tend to lair in warm or temperate hills, but due to their nature, they move their lairs every few years. They sometimes live among other people, especially any dwarves who reside nearby. Some copper dragons even worship gods typically worshipped only by humanoids. Among these dragons, worship of Cayden Cailean is most popular, as they see his love of freedom and penchant for alcohol aligning with the typical copper dragon mindset. A copper dragon’s combat tactics are as unorthodox as its sense of humor, as it is more likely to use mockery and tricks than outright strength to win its battles. As a copper dragon ages, it perfects jokes capable of rendering its foes helpless with laughter. Recall Knowledge - Dragon (Arcana): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Young Copper Dragon Source Bestiary pg. 121 Perception +16; darkvision, scent (imprecise) 60 feet Languages Common, Draconic, Gnomish Skills Acrobatics +17, Athletics +17, Crafting +14, Deception +15, Performance +16, Society +16, Stealth +17 Str +5 Dex +3 Con +2 Int +2 Wis +2 Cha +3 --- AC 27 Fort +16 Ref +17 Will +16 +1 status to all saves vs. magic HP 150 Immunities acid, paralyzed, sleep Frightful Presence (aura, emotion, fear, mental) 90 feet, DC 23 Twisting Tail Reaction Trigger A creature within reach of the copper dragon’s tail uses a move action or leaves a square during a move action it’s using. Effect The dragon makes a tail Strike at the creature with a –2 penalty. If it hits, the dragon disrupts the triggering action. --- Speed 30 feet, fly 120 feet; climb stone 30 feet Melee Single Action jaws +20 (Acid, reach 10 feet), Damage 2d8+8 piercing plus 1d8 acid Melee Single Action claw +20 (Agile), Damage 2d6+8 slashing Melee Single Action tail +18 (reach 15 feet), Damage 1d8+7 bludgeoning Arcane Innate Spells DC 27 - 1st Grease (at will) Breath Weapon Two Actions The copper dragon breathes in one of two ways. The dragon can’t use Breath Weapon again for 1d4 rounds. Acid (acid, arcane, evocation); The dragon breathes acid in a 60-foot line that deals 8d6 acid damage (DC 26 basic Fortitude save). Slowing Gas (arcane, transmutation); The dragon breathes a 60-foot line of slowing gas. Each creature in the area must succeed at a DC 26 Fortitude save or be slowed 1 for 1 round (or slowed 2 on a critical failure). Climb Stone The dragon’s climb speed functions only when climbing stone surfaces. Draconic Frenzy Two Actions The dragon makes two claw Strikes and one tail Strike in any order. Draconic Momentum When the dragon scores a critical hit with a Strike, it recharges Breath Weapon. Copper Dragon Spellcasters Copper dragon spellcasters tend to cast the following spells. Young Copper Dragon Arcane Prepared Spells DC 27, attack +20; 3rd dispel magic , haste , meld into stone ; 2nd glitterdust , invisibility , see invisibility ; 1st fleet step , illusory object , magic aura ; Cantrips (3rd) detect magic , ghost sound , message , read aura ",
+ "trait": [
+  "Dragon",
+  "Earth",
+  "CG",
+  "Large"
+ ],
+ "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Earth](/Traits.aspx?ID=55)",
+ "trait_raw": [
+  "Dragon",
+  "Earth"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=148",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 2
+}

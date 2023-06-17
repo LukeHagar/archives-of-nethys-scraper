@@ -1,0 +1,136 @@
+{
+ "ac": 32,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 1,
+ "creature_ability": [
+  "Rejuvenation",
+  "Constrict",
+  "Funereal Touch",
+  "Ghostly Grasp",
+  "Wail"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 19,
+ "hp": 165,
+ "hp_raw": "165 ( negative healing , rejuvenation)",
+ "id": "creature-1879",
+ "image": [
+  "/Images/Monsters/Llorona.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "precision",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 2,
+ "language": [
+  "Common"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Llorona](/Monsters.aspx?ID=1879)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nVengeful spirits called lloronas arise from people who died overcome with the grief and shame that comes with the tragic drowning of a child. In life, a llorona may have contributed to the child's death or simply lost the child to a horrible accident. In death, a llorona's pain manifests as a malevolent desire to drown others, imparting the same grief that they share with the person's loved ones. To this end, lloronas remain along riversides and other bodies of water in hopes of drawing their next victim and compelling them to drown themselves.\n\n Lloronas look much like they did in life, except they wear elegant funeral attire in undeath. Though stories typically describe lloronas as women, reports from seasoned adventurers include accounts of lloronas appearing as different genders and with a variety of appearances.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Spirit](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 30\r\n\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Llorona.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Llorona](/Monsters.aspx?ID=1879)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 125</row>\n\n**Perception** +20; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Deception](/Skills.aspx?ID=5) +25, [Intimidation](/Skills.aspx?ID=7) +23, [Stealth](/Skills.aspx?ID=15) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** -5\r\n\r\n**Dex** +7\r\n\r\n**Con** +1\r\n\r\n**Int** +2\r\n\r\n**Wis** +2\r\n\r\n**Cha** +5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32 \r\n\r\n**Fort** +19 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +20 \n\n</row>\r\n\r\n**HP** 165\r\n([negative healing](/MonsterAbilities.aspx?ID=42), rejuvenation)\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nall damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))\n\n**Rejuvenation** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) When a llorona is destroyed, they re-form after 1d6 days at the site of their death. Resolving the injustice that led to a llorona's death puts them to rest permanently. Alternatively, successfully performing a [_consecrate_](/Rituals.aspx?ID=8) ritual at the site prevents them from re-forming.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nghostly hand +25 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d6+11 negative plus funereal touch and [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d6+12 negative, DC 31\r\n\r\n**Funereal Touch**   A creature touched by a llorona must attempt a DC 29 Fortitude save. On a failure, the creature becomes [drained 1](/Conditions.aspx?ID=10) (drained 2 on a critical failure) or increases their drained value by 1 (2 on a critical failure), up to a maximum of drained 4. Every time a creature becomes drained in this way, the llorona gains 10 temporary Hit Points for 1 hour.\r\n\r\n**Ghostly Grasp**   A llorona can [Grapple](/Actions.aspx?ID=35) corporeal creatures despite being incorporeal. The llorona uses their [Athletics](/Skills.aspx?ID=3) check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like [Force Open](/Actions.aspx?ID=34) or [Trip](/Actions.aspx?ID=40).\r\n\r\n**Wail** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Concentrate](/Traits.aspx?ID=32), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) The llorona unleashes a somber wail. Each living creature within 120 feet must attempt a DC 31 Will save. Regardless of its result, the creature is then temporarily immune for 24 hours.<br /> **Critical Success** The creature is unaffected.<br /> **Success** The creature is [stunned 1](/Conditions.aspx?ID=36).<br /> **Failure** The creature is [fascinated](/Conditions.aspx?ID=14) with the nearest body of water and compelled to move toward the water and drown itself. If there's no nearby body of water, the creature instead remains still. The creature can attempt another DC 31 Will save at the end of each of its turns. On a success, the creature is no longer fascinated. Once the fascinated condition ends, the creature becomes stunned 1.<br /> **Critical Failure** As failure, except the creature receives another Will save only at the end of a round in which it's submerged in water.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Ghost Stories</title>\r\n\r\nStories about lloronas are common in settlements near rivers, lakes, and the sea. These stories are typically aimed at children, intending to keep them from staying out late or venturing near waterways alone.\r\n</aside>",
+ "name": "Llorona",
+ "npc": false,
+ "perception": 20,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 23,
+ "release_date": "2022-04-27",
+ "resistance": {
+  "acid": 10,
+  "all": 10,
+  "area": 10,
+  "bleed": 10,
+  "bludgeoning": 10,
+  "chaotic": 10,
+  "cold": 10,
+  "cold_iron": 10,
+  "electricity": 10,
+  "evil": 10,
+  "fire": 10,
+  "good": 10,
+  "lawful": 10,
+  "mental": 10,
+  "negative": 10,
+  "orichalcum": 10,
+  "physical": 10,
+  "piercing": 10,
+  "poison": 10,
+  "precision": 10,
+  "silver": 10,
+  "slashing": 10,
+  "sonic": 10,
+  "splash": 10
+ },
+ "resistance_markdown": "all damage 10 (except [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), or [positive](/Traits.aspx?ID=128); double resistance vs. non-[magical](/Traits.aspx?ID=103))",
+ "resistance_raw": "all damage 10 (except  force ,   ghost touch  , or  positive ; double resistance vs. non- magical )",
+ "search_markdown": "<traits>\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 125</row>\n\n<row gap=\"medium\">\r\n**HP** 165 ( negative healing , rejuvenation)\r\n\r\n**AC** 32\r\n\r\n**Fort** +19\r\n\r\n**Ref** +23\r\n\r\n**Will** +20\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nVengeful spirits called lloronas arise from people who died overcome with the grief and shame that comes with the tragic drowning of a child. In …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Deception +25",
+  "Intimidation +23",
+  "Stealth +23"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Deception](/Skills.aspx?ID=5) +25, [Intimidation](/Skills.aspx?ID=7) +23, [Stealth](/Skills.aspx?ID=15) +23",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 125"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 125</row>",
+ "speed": {
+  "fly": 60,
+  "max": 60
+ },
+ "speed_markdown": "fly 60 feet",
+ "speed_raw": "fly 60 feet",
+ "spell_markdown": "",
+ "stealth": "23",
+ "strength": -5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Vengeful spirits called lloronas arise from people who died overcome with the grief and shame that comes with the tragic drowning of a child. In …",
+ "summary_markdown": "Vengeful spirits called lloronas arise from people who died overcome with the grief and shame that comes with the tragic drowning of a child. In …",
+ "text": " Llorona Vengeful spirits called lloronas arise from people who died overcome with the grief and shame that comes with the tragic drowning of a child. In life, a llorona may have contributed to the child's death or simply lost the child to a horrible accident. In death, a llorona's pain manifests as a malevolent desire to drown others, imparting the same grief that they share with the person's loved ones. To this end, lloronas remain along riversides and other bodies of water in hopes of drawing their next victim and compelling them to drown themselves. Lloronas look much like they did in life, except they wear elegant funeral attire in undeath. Though stories typically describe lloronas as women, reports from seasoned adventurers include accounts of lloronas appearing as different genders and with a variety of appearances. Recall Knowledge - Spirit (Occultism): DC 30 Recall Knowledge - Undead (Religion): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Llorona Source Book of the Dead pg. 125 Perception +20; darkvision Languages Common Skills Athletics +23, Deception +25, Intimidation +23, Stealth +23 Str -5 Dex +7 Con +1 Int +2 Wis +2 Cha +5 --- AC 32 Fort +19 Ref +23 Will +20 HP 165 (negative healing, rejuvenation) Immunities death effects, disease, paralyzed, poison, precision, unconscious Resistances all damage 10 (except force, ghost touch , or positive; double resistance vs. non-magical) Rejuvenation (divine, necromancy) When a llorona is destroyed, they re-form after 1d6 days at the site of their death. Resolving the injustice that led to a llorona's death puts them to rest permanently. Alternatively, successfully performing a consecrate ritual at the site prevents them from re-forming. --- Speed fly 60 feet Melee Single Action ghostly hand +25 (Agile, Finesse, Magical), Damage 2d6+11 negative plus funereal touch and Grab Constrict Single Action 2d6+12 negative, DC 31 Funereal Touch A creature touched by a llorona must attempt a DC 29 Fortitude save. On a failure, the creature becomes drained 1 (drained 2 on a critical failure) or increases their drained value by 1 (2 on a critical failure), up to a maximum of drained 4. Every time a creature becomes drained in this way, the llorona gains 10 temporary Hit Points for 1 hour. Ghostly Grasp A llorona can Grapple corporeal creatures despite being incorporeal. The llorona uses their Athletics check to Grapple as normal but can't use Athletics for other actions that require corporeal contact, like Force Open or Trip. Wail Two Actions (Auditory, Concentrate, Enchantment, Incapacitation, Mental, Occult) The llorona unleashes a somber wail. Each living creature within 120 feet must attempt a DC 31 Will save. Regardless of its result, the creature is then temporarily immune for 24 hours. Critical Success The creature is unaffected. Success The creature is stunned 1. Failure The creature is fascinated with the nearest body of water and compelled to move toward the water and drown itself. If there's no nearby body of water, the creature instead remains still. The creature can attempt another DC 31 Will save at the end of each of its turns. On a success, the creature is no longer fascinated. Once the fascinated condition ends, the creature becomes stunned 1. Critical Failure As failure, except the creature receives another Will save only at the end of a round in which it's submerged in water. Ghost Stories Stories about lloronas are common in settlements near rivers, lakes, and the sea. These stories are typically aimed at children, intending to keep them from staying out late or venturing near waterways alone. ",
+ "trait": [
+  "Incorporeal",
+  "Spirit",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Incorporeal",
+  "Spirit",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1879",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 20,
+ "wisdom": 2
+}

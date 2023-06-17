@@ -1,0 +1,106 @@
+{
+ "ac": 24,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Vein Walker",
+  "Bloody Handprint",
+  "Vital Transfusion",
+  "Vomit Blood"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 160,
+ "hp_raw": "160 ( negative healing )",
+ "id": "creature-1856",
+ "image": [
+  "/Images/Monsters/Excorion.png"
+ ],
+ "immunity": [
+  "death  effects",
+  "disease",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -3,
+ "language_markdown": "",
+ "level": 7,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Excorion](/Monsters.aspx?ID=1856)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThese hideous undead creatures result from an exquisitely painful necromantic process where flayed humanoids are animated through their exposed blood vessels. Cults of undeath typically punish apostates and renegades with this cruel method of reanimation, though sacrificial victims or unfortunate prisoners might suffer a similar fate. Excorions have supernaturally strong, pulsing veins that extend outward from their bodies like thousands of tiny, bloody cilia.\n\n Excorions move their bulks not with their dead muscles but with heaving contractions of their blood vessels, which pull them along in a swift but jerky manner. Excorions can shift their magical blood easily throughout their bodies, allowing them to squirt blood from their gaping, skinless mouths or to messily mark their foes.\n\n Most excorions are so broken by the process of their creation that they retain few memories of their past lives or identities. This is, typically, a minor blessing in their cursed tale, protecting the excorion's former friends and family from truly realizing their horrific fate.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 25\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 23\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 20\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Excorion.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 7\">[Excorion](/Monsters.aspx?ID=1856)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 91, [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 82</row>\n\n**Perception** +18; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +17, [Stealth](/Skills.aspx?ID=15) +16\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** -3\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +18 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 160\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 10, slashing 5\r\n\r\n**Vein Walker** The excorion moves about by way of hundreds of pulsating blood vessels, which stretch from its body in dozens of tight, ropy bundles and anchor it to the ground. An excorion can't be [Tripped](/Actions.aspx?ID=40), [Shoved](/Actions.aspx?ID=38), or otherwise [forcibly moved](/Rules.aspx?ID=451) except by magic, and the excorion ignores difficult terrain (but not greater difficult terrain).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +18 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d8+8 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nbloody spew +18 ([range 20 feet](/Traits.aspx?ID=248)),\r\n**Damage** 3d6+4 bludgeoning and [dazzled](/Conditions.aspx?ID=7) for 1 round\n\n**Bloody Handprint** <actions string=\"Single Action\" />  The excorion plants a magical handprint on the target, marking them as chosen for death. The excorion makes a fist Strike against an adjacent creature; this doesn't count toward the excorion's multiple attack penalty. On a hit, the attack does no damage, but the creature becomes observed to every excorion within 60 feet, even if an excorion's line of sight would be blocked by a wall or other obstacle. This effect lasts until the handprint is washed off, which requires water and spending 3 actions to fully clean off.\r\n\r\n**Vital Transfusion** <actions string=\"Two Actions\" />  **Requirements** The excorion has at least 70 Hit Points; **Effect** The excorion sacrifices itself and transfers its bloody, vital energy to a willing living creature within 30 feet. The excorion is immediately destroyed, and the targeted living creature heals a number of HP equal to half the excorion's remaining HP at the time that it used this ability. The living creature is [slowed 1](/Conditions.aspx?ID=35) during its next turn as its body adjusts to the newly transfused blood and vital energy; the living creature also counts as an excorion for 1 minute for the purpose of seeing other excorions' Bloody Handprint marks.\r\n\r\n**Vomit Blood** <actions string=\"Single Action\" />  The excorion spews necrotic blood all over a foe it has [grabbed](/Conditions.aspx?ID=20) or [restrained](/Conditions.aspx?ID=33). The grabbed creature must succeed at a DC 25 Fortitude save or become [sickened 2](/Conditions.aspx?ID=34).\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Excorion Behemoths</title>\r\n\r\nSpecialized necromantic rituals are required to make larger excorions, as their blood vessels demand exponentially greater strength to move their larger body masses. These excorion behemoths are usually created from [giants](/MonsterFamilies.aspx?ID=53), [elephants](/Monsters.aspx?ID=201), [dinosaurs](/MonsterFamilies.aspx?ID=32), or even [titans](/MonsterFamilies.aspx?ID=205) in rare instances.\r\n\r\n</aside>",
+ "name": "Excorion",
+ "npc": false,
+ "perception": 18,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 18,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Sources** [Book of the Dead](/Sources.aspx?ID=118) pg. 91, [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 82</row>\n\n<row gap=\"medium\">\r\n**HP** 160 ( negative healing )\r\n\r\n**AC** 24\r\n\r\n**Fort** +17\r\n\r\n**Ref** +18\r\n\r\n**Will** +14\r\n\r\n**Perception** +18\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese hideous undead creatures result from an exquisitely painful necromantic process where flayed humanoids are animated through their exposed blood …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +16",
+  "Athletics +17",
+  "Stealth +16"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +16, [Athletics](/Skills.aspx?ID=3) +17, [Stealth](/Skills.aspx?ID=15) +16",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 91"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 91, [Pathfinder #158: Sixty Feet Under](/Sources.aspx?ID=47) pg. 82</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "stealth": "16",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "These hideous undead creatures result from an exquisitely painful necromantic process where flayed humanoids are animated through their exposed blood …",
+ "summary_markdown": "These hideous undead creatures result from an exquisitely painful necromantic process where flayed humanoids are animated through their exposed blood …",
+ "text": " Excorion These hideous undead creatures result from an exquisitely painful necromantic process where flayed humanoids are animated through their exposed blood vessels. Cults of undeath typically punish apostates and renegades with this cruel method of reanimation, though sacrificial victims or unfortunate prisoners might suffer a similar fate. Excorions have supernaturally strong, pulsing veins that extend outward from their bodies like thousands of tiny, bloody cilia. Excorions move their bulks not with their dead muscles but with heaving contractions of their blood vessels, which pull them along in a swift but jerky manner. Excorions can shift their magical blood easily throughout their bodies, allowing them to squirt blood from their gaping, skinless mouths or to messily mark their foes. Most excorions are so broken by the process of their creation that they retain few memories of their past lives or identities. This is, typically, a minor blessing in their cursed tale, protecting the excorion's former friends and family from truly realizing their horrific fate. Recall Knowledge - Undead (Religion): DC 25 Unspecific Lore : DC 23 Specific Lore : DC 20 Excorion Source Book of the Dead pg. 91, Pathfinder #158: Sixty Feet Under pg. 82 Perception +18; darkvision Languages Skills Acrobatics +16, Athletics +17, Stealth +16 Str +4 Dex +5 Con +4 Int -3 Wis +1 Cha +0 --- AC 24 Fort +17 Ref +18 Will +14 HP 160 (negative healing) Immunities death effects, disease, mental, paralyzed, poison, unconscious Weaknesses positive 10, slashing 5 Vein Walker The excorion moves about by way of hundreds of pulsating blood vessels, which stretch from its body in dozens of tight, ropy bundles and anchor it to the ground. An excorion can't be Tripped, Shoved, or otherwise forcibly moved except by magic, and the excorion ignores difficult terrain (but not greater difficult terrain). --- Speed 35 feet Melee Single Action fist +18 (Agile, Finesse), Damage 2d8+8 bludgeoning plus Grab Ranged Single Action bloody spew +18 (range 20 feet), Damage 3d6+4 bludgeoning and dazzled for 1 round Bloody Handprint Single Action The excorion plants a magical handprint on the target, marking them as chosen for death. The excorion makes a fist Strike against an adjacent creature; this doesn't count toward the excorion's multiple attack penalty. On a hit, the attack does no damage, but the creature becomes observed to every excorion within 60 feet, even if an excorion's line of sight would be blocked by a wall or other obstacle. This effect lasts until the handprint is washed off, which requires water and spending 3 actions to fully clean off. Vital Transfusion Two Actions Requirements The excorion has at least 70 Hit Points; Effect The excorion sacrifices itself and transfers its bloody, vital energy to a willing living creature within 30 feet. The excorion is immediately destroyed, and the targeted living creature heals a number of HP equal to half the excorion's remaining HP at the time that it used this ability. The living creature is slowed 1 during its next turn as its body adjusts to the newly transfused blood and vital energy; the living creature also counts as an excorion for 1 minute for the purpose of seeing other excorions' Bloody Handprint marks. Vomit Blood Single Action The excorion spews necrotic blood all over a foe it has grabbed or restrained. The grabbed creature must succeed at a DC 25 Fortitude save or become sickened 2. Excorion Behemoths Specialized necromantic rituals are required to make larger excorions, as their blood vessels demand exponentially greater strength to move their larger body masses. These excorion behemoths are usually created from giants, elephants, dinosaurs, or even titans in rare instances. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1856",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "positive": 10,
+  "slashing": 5
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 10, slashing 5",
+ "weakness_raw": " positive  10, slashing 5",
+ "will_save": 14,
+ "wisdom": 1
+}

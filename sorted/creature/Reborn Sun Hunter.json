@@ -1,0 +1,117 @@
+{
+ "ac": 30,
+ "alignment": "LE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -1,
+ "constitution": 1,
+ "creature_ability": [
+  "Burning Sacrifice",
+  "Nimble Dodge",
+  "Sneak Attack",
+  "Study Foe"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 195,
+ "hp_raw": "195 ( negative healing )",
+ "id": "creature-1696",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 3,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Reborn Sun Hunter](/Monsters.aspx?ID=1696)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Reborn Sun Hunter](/Monsters.aspx?ID=1696)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 10</row>\n\n**Perception** +24; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +23, [Athletics](/Skills.aspx?ID=3) +21, [Religion](/Skills.aspx?ID=13) +19, [Stealth](/Skills.aspx?ID=15) +23, [Survival](/Skills.aspx?ID=16) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +6\r\n\r\n**Con** +1\r\n\r\n**Int** +3\r\n\r\n**Wis** +2\r\n\r\n**Cha** -1\r\n</row>\n\n**Items**\r\n_+2 [greater striking](/Equipment.aspx?ID=280) [returning](/Equipment.aspx?ID=301) [dagger](/Weapons.aspx?ID=3)_, [religious symbol](/Equipment.aspx?ID=41) of [Walkena](/Deities.aspx?ID=159)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 195\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\n[fire](/Traits.aspx?ID=72) 10, [mental](/Traits.aspx?ID=106) 10\n\n**Burning Sacrifice** ([divine](/Traits.aspx?ID=48), [evocation](/Traits.aspx?ID=65), [fire](/Traits.aspx?ID=72)) When the sun hunter is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a 10-foot emanation (DC 27 [basic](/Rules.aspx?ID=329) Reflex save). Creatures that critically fail their saves are marked with [Walkena's](/Deities.aspx?ID=159) religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of [_scrying_](/Spells.aspx?ID=268), lowering the spell's DC by 2. The sun hunter's gear and treasure are unaffected by the explosion and left in a pile where they die.<br />**Nimble Dodge** <actions string=\"Reaction\" /> **Trigger** The sun hunter is targeted with a melee or ranged attack by an attacker they can see; **Effect** The sun hunter gains a +2 circumstance bonus to AC against the triggering attack.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +22 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Magical](/Traits.aspx?ID=103), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 3d4+6 piercing plus 1d6 fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +22 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Nonlethal](/Traits.aspx?ID=188), [Unarmed](/Traits.aspx?ID=199)),\r\n**Damage** 1d4+6 bludgeoning plus 1d6 fire\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +22 ([Agile](/Traits.aspx?ID=170), [Magical](/Traits.aspx?ID=103), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 3d4+6 piercing plus 1d6 fire\r\n\r\n**Divine Innate Spells** DC 27, attack +19\r\n- **Cantrips (5th)**\r\n[Divine Lance](/Spells.aspx?ID=84) (law or evil), [Message](/Spells.aspx?ID=190), [Shield](/Spells.aspx?ID=280), [Sigil](/Spells.aspx?ID=286)\r\n- **5th**\r\n[Burning Hands](/Spells.aspx?ID=30)\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The sun hunter's Strikes deal an additional 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Study Foe** <actions string=\"Single Action\" />  The sun hunter reads a creature they can see within 30 feet to notice openings. The sun hunter attempts a Perception check against that creature's Deception DC or Will DC, whichever is higher. The target is then temporarily immune for 1 minute. <br />**Critical Success** The sun hunter reads the target like a book. The target is [flat-footed](/Conditions.aspx?ID=16) against the sun hunter's attacks until the end of the sun hunter's next turn. <br />**Success** The sun hunter notices a brief opening. The target is flat-footed against the sun hunter's attacks until the end of the sun hunter's turn. <br />**Failure** The target is unaffected. <br />**Critical Failure** The sun hunter's intense focus opens them up to other attacks. The target is unaffected, and the sun hunter is flat-footed until the start of their next turn.\r\n\r\n</column>",
+ "name": "Reborn Sun Hunter",
+ "npc": false,
+ "perception": 24,
+ "rarity": "rare",
+ "reflex_save": 23,
+ "release_date": "2021-10-13",
+ "resistance": {
+  "fire": 10,
+  "mental": 10
+ },
+ "resistance_markdown": "[fire](/Traits.aspx?ID=72) 10, [mental](/Traits.aspx?ID=106) 10",
+ "resistance_raw": " fire  10,  mental  10",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 10</row>\n\n<row gap=\"medium\">\r\n**HP** 195 ( negative healing )\r\n\r\n**AC** 30\r\n\r\n**Fort** +18\r\n\r\n**Ref** +23\r\n\r\n**Will** +21\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +23",
+  "Athletics +21",
+  "Religion +19",
+  "Stealth +23",
+  "Survival +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +23, [Athletics](/Skills.aspx?ID=3) +21, [Religion](/Skills.aspx?ID=13) +19, [Stealth](/Skills.aspx?ID=15) +23, [Survival](/Skills.aspx?ID=16) +19",
+ "source": [
+  "Pathfinder #172: Secrets of the Temple City"
+ ],
+ "source_raw": [
+  "Pathfinder #172: Secrets of the Temple City pg. 10"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 10</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Burning Hands",
+  "Divine Lance",
+  "Message",
+  "Shield",
+  "Sigil"
+ ],
+ "spell_markdown": "[Burning Hands](/Spells.aspx?ID=30), [Divine Lance](/Spells.aspx?ID=84), [Message](/Spells.aspx?ID=190), [Shield](/Spells.aspx?ID=280), [Sigil](/Spells.aspx?ID=286)",
+ "spoilers": "Strength of Thousands",
+ "stealth": "23",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Reborn Sun Hunter Recall Knowledge - Undead (Religion): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Reborn Sun Hunter Source Pathfinder #172: Secrets of the Temple City pg. 10 Perception +24; darkvision Languages Common, Necril Skills Acrobatics +23, Athletics +21, Religion +19, Stealth +23, Survival +19 Str +4 Dex +6 Con +1 Int +3 Wis +2 Cha -1 Items +2 greater striking returning dagger , religious symbol of Walkena --- AC 30 Fort +18 Ref +23 Will +21 HP 195 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Resistances fire 10, mental 10 Burning Sacrifice (divine, evocation, fire) When the sun hunter is destroyed, they explode in a blast of flame that deals 6d6 fire damage in a 10-foot emanation (DC 27 basic Reflex save). Creatures that critically fail their saves are marked with Walkena's religious symbol on a visible area of their body, which remains for 1 day. This mark allows Walkena to treat the creature as if he knew the creature's identity but not having met them for the purposes of scrying , lowering the spell's DC by 2. The sun hunter's gear and treasure are unaffected by the explosion and left in a pile where they die. Nimble Dodge Reaction Trigger The sun hunter is targeted with a melee or ranged attack by an attacker they can see; Effect The sun hunter gains a +2 circumstance bonus to AC against the triggering attack. --- Speed 35 feet Melee Single Action dagger +22 (Agile, Finesse, Magical, versatile S), Damage 3d4+6 piercing plus 1d6 fire Melee Single Action fist +22 (Agile, Finesse, Nonlethal, Unarmed), Damage 1d4+6 bludgeoning plus 1d6 fire Ranged Single Action dagger +22 (Agile, Magical, thrown 10 feet, versatile S), Damage 3d4+6 piercing plus 1d6 fire Divine Innate Spells DC 27, attack +19 - Cantrips (5th) Divine Lance (law or evil), Message, Shield, Sigil - 5th Burning Hands Sneak Attack The sun hunter's Strikes deal an additional 2d6 precision damage to flat-footed creatures. Study Foe Single Action The sun hunter reads a creature they can see within 30 feet to notice openings. The sun hunter attempts a Perception check against that creature's Deception DC or Will DC, whichever is higher. The target is then temporarily immune for 1 minute. Critical Success The sun hunter reads the target like a book. The target is flat-footed against the sun hunter's attacks until the end of the sun hunter's next turn. Success The sun hunter notices a brief opening. The target is flat-footed against the sun hunter's attacks until the end of the sun hunter's turn. Failure The target is unaffected. Critical Failure The sun hunter's intense focus opens them up to other attacks. The target is unaffected, and the sun hunter is flat-footed until the start of their next turn. ",
+ "trait": [
+  "Fire",
+  "Rare",
+  "Undead",
+  "LE",
+  "Medium"
+ ],
+ "trait_markdown": "[Fire](/Traits.aspx?ID=72), [Rare](/Traits.aspx?ID=137), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Fire",
+  "Rare",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1696",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 2
+}

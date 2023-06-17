@@ -1,0 +1,110 @@
+{
+ "ac": 36,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 6,
+ "creature_ability": [
+  "Golden Sun",
+  "Scorching Gaze",
+  "Fiery Transformation",
+  "Radiant Blast",
+  "Scorch Earth",
+  "Transfixing Sunbeam"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 8,
+ "exclude_from_search": false,
+ "fortitude_save": 26,
+ "hp": 295,
+ "hp_raw": "295",
+ "id": "creature-1417",
+ "image": [
+  "/Images/Monsters/Sanzuwu.png"
+ ],
+ "immunity": [
+  "fire",
+  "light"
+ ],
+ "immunity_markdown": "[fire](/Traits.aspx?ID=72), [light](/Traits.aspx?ID=100)",
+ "intelligence": 4,
+ "language": [
+  "Common",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"\">[Sanzuwu](/Monsters.aspx?ID=1417)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThose who feast on the sun are said to carry its power within them. Sanzuwus are small crows with red plumage and dark throats. According to legend, they stole their burning power from the sun and now fly across the sky as blinding streaks of fire. When they land on the earth, it ignites around them, causing unbound destruction. A handful of people worship these radiant birds and inscribe their three-legged visage on coins, items, and weapons.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Sanzuwu.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Sanzuwu](/Monsters.aspx?ID=1417)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 85</row>\n\n**Perception** +26; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +30, [Athletics](/Skills.aspx?ID=3) +27, [Diplomacy](/Skills.aspx?ID=6) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +8\r\n\r\n**Con** +6\r\n\r\n**Int** +4\r\n\r\n**Wis** +5\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 36 \r\n\r\n**Fort** +26 \r\n\r\n**Ref** +29 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 295\n\n**Immunities**\r\n[fire](/Traits.aspx?ID=72), [light](/Traits.aspx?ID=100)\n\n**Weaknesses**\r\n[cold](/Traits.aspx?ID=27) 15\r\n\r\n**Golden Sun** ([abjuration](/Traits.aspx?ID=2), [aura](/Traits.aspx?ID=206), [primal](/Traits.aspx?ID=134)) 10 feet. A golden aura envelopes the sanzuwu, protecting them from weak magic. Any non-[cold](/Traits.aspx?ID=27) spells of 3rd level or lower burn away and are ineffective. A sanzuwu can deactivate or activate the golden aura as a free action with the [concentrate](/Traits.aspx?ID=32) trait.<br />**Scorching Gaze** <actions string=\"Reaction\" /> ([evocation](/Traits.aspx?ID=65), [fire](/Traits.aspx?ID=72), [primal](/Traits.aspx?ID=134)) **Trigger** A creature within 30 feet targets the sanzuwu or one of their allies with a weapon attack; **Effect** The sanzuwu focuses their gaze on the triggering creature's weapon, heating it to a burning temperature for an instant. The creature takes 4d8 fire damage unless the creature [Releases](/Actions.aspx?ID=83) the weapon as a free action.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 60 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +30 ([Finesse](/Traits.aspx?ID=179), [Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d6+14 piercing plus 3d6 fire\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntalon +30 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [Fire](/Traits.aspx?ID=72), [Magical](/Traits.aspx?ID=103)),\r\n**Damage** 3d4+14 piercing plus 3d6 fire\n\n**Fiery Transformation** <actions string=\"Two Actions\" /> ([Concentrate](/Traits.aspx?ID=32), [Fire](/Traits.aspx?ID=72), [Polymorph](/Traits.aspx?ID=127), [Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157)) The sanzuwu transforms into an enormous bird made of flame. As the sanzuwu begins their transformation, creatures within a 10-foot emanation take 6d8 fire damage (DC 33 [basic](/Rules.aspx?ID=329) Reflex save). While in their flame form, the sanzuwu gains the effects of 4th-level [_enlarge_](/Spells.aspx?ID=102). They can use Fiery Transformation again to revert back to their standard form.\r\n\r\n**Radiant Blast** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Fire](/Traits.aspx?ID=72), [Primal](/Traits.aspx?ID=134)) The sanzuwu opens their mouth to produce a bead of burning energy, hurling it a point within 200 feet. The bead detonates, dealing 7d8 fire damage and 4d10 sonic damage to all creatures in a 30-foot burst (DC 33 [basic](/Rules.aspx?ID=329) Reflex save). Creatures that critically fail become [blinded](/Conditions.aspx?ID=1) for 1 round. The sanzuwu can't use Radiant Blast again for 1d4 rounds.\r\n\r\n**Scorch Earth** <actions string=\"Two Actions\" />  **Requirements** The sanzuwu is standing on the ground; **Effect** The sanzuwu Strides. A 6th-level [_wall of fire_](/Spells.aspx?ID=362) appears in all the spaces the sanzuwu left during this movement, lasting for 1 round. The sanzuwu can't use Scorch Earth again for 1d4 rounds.\r\n\r\n**Transfixing Sunbeam** <actions string=\"Two Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Incapacitation](/Traits.aspx?ID=93), [Light](/Traits.aspx?ID=100), [Primal](/Traits.aspx?ID=134)) **Requirements** The sanzuwu is in their fiery form; **Effect** The sanzuwu spreads their wings, emitting a bright cascade of light in a 30-foot cone. Creatures in the cone must attempt a DC 33 Fortitude save. <br />**Success** The creature is unaffected. <br />**Failure** The creature is [stunned 1](/Conditions.aspx?ID=36). <br />**Critical Failure** The creature is stunned 2.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">A Fiery Murder</title>\r\n\r\nWhen several sanzuwus are together the immense heat radiating from them can cause an inferno of devastation. Legends tell of sanzuwus gathered together as the ground rends into volcanic rifts and uncontrollable blazes. Though they bring destruction in their wake, some stories claim that a brave individual who can follow these cataclysmic rifts for 10 days will reach the sun and earn its blessing\r\n</aside>",
+ "name": "Sanzuwu",
+ "npc": false,
+ "perception": 26,
+ "rarity": "uncommon",
+ "reflex_save": 29,
+ "release_date": "2021-07-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 85</row>\n\n<row gap=\"medium\">\r\n**HP** 295\r\n\r\n**AC** 36\r\n\r\n**Fort** +26\r\n\r\n**Ref** +29\r\n\r\n**Will** +23\r\n\r\n**Perception** +26\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThose who feast on the sun are said to carry its power within them. Sanzuwus are small crows with red plumage and dark throats. According to legend, …\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +30",
+  "Athletics +27",
+  "Diplomacy +25"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +30, [Athletics](/Skills.aspx?ID=3) +27, [Diplomacy](/Skills.aspx?ID=6) +25",
+ "source": [
+  "Pathfinder #168: King of the Mountain"
+ ],
+ "source_raw": [
+  "Pathfinder #168: King of the Mountain pg. 85"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Fists of the Ruby Phoenix",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 85</row>",
+ "speed": {
+  "fly": 60,
+  "land": 25,
+  "max": 60
+ },
+ "speed_markdown": "25 feet, fly 60 feet",
+ "speed_raw": "25 feet, fly 60 feet",
+ "spell_markdown": "",
+ "spoilers": "Fists of the Ruby Phoenix",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Those who feast on the sun are said to carry its power within them. Sanzuwus are small crows with red plumage and dark throats. According to legend, …",
+ "summary_markdown": "Those who feast on the sun are said to carry its power within them. Sanzuwus are small crows with red plumage and dark throats. According to legend, …",
+ "text": " Sanzuwu Those who feast on the sun are said to carry its power within them. Sanzuwus are small crows with red plumage and dark throats. According to legend, they stole their burning power from the sun and now fly across the sky as blinding streaks of fire. When they land on the earth, it ignites around them, causing unbound destruction. A handful of people worship these radiant birds and inscribe their three-legged visage on coins, items, and weapons. Recall Knowledge - Beast (Arcana, Nature): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Sanzuwu Source Pathfinder #168: King of the Mountain pg. 85 Perception +26; greater darkvision Languages Common; telepathy 100 feet Skills Acrobatics +30, Athletics +27, Diplomacy +25 Str +4 Dex +8 Con +6 Int +4 Wis +5 Cha +4 --- AC 36 Fort +26 Ref +29 Will +23 HP 295 Immunities fire, light Weaknesses cold 15 Golden Sun (abjuration, aura, primal) 10 feet. A golden aura envelopes the sanzuwu, protecting them from weak magic. Any non-cold spells of 3rd level or lower burn away and are ineffective. A sanzuwu can deactivate or activate the golden aura as a free action with the concentrate trait. Scorching Gaze Reaction (evocation, fire, primal) Trigger A creature within 30 feet targets the sanzuwu or one of their allies with a weapon attack; Effect The sanzuwu focuses their gaze on the triggering creature's weapon, heating it to a burning temperature for an instant. The creature takes 4d8 fire damage unless the creature Releases the weapon as a free action. --- Speed 25 feet, fly 60 feet Melee Single Action beak +30 (Finesse, Fire, Magical), Damage 3d6+14 piercing plus 3d6 fire Melee Single Action talon +30 (Agile, Finesse, Fire, Magical), Damage 3d4+14 piercing plus 3d6 fire Fiery Transformation Two Actions (Concentrate, Fire, Polymorph, Primal, Transmutation) The sanzuwu transforms into an enormous bird made of flame. As the sanzuwu begins their transformation, creatures within a 10-foot emanation take 6d8 fire damage (DC 33 basic Reflex save). While in their flame form, the sanzuwu gains the effects of 4th-level enlarge . They can use Fiery Transformation again to revert back to their standard form. Radiant Blast Two Actions (Evocation, Fire, Primal) The sanzuwu opens their mouth to produce a bead of burning energy, hurling it a point within 200 feet. The bead detonates, dealing 7d8 fire damage and 4d10 sonic damage to all creatures in a 30-foot burst (DC 33 basic Reflex save). Creatures that critically fail become blinded for 1 round. The sanzuwu can't use Radiant Blast again for 1d4 rounds. Scorch Earth Two Actions Requirements The sanzuwu is standing on the ground; Effect The sanzuwu Strides. A 6th-level wall of fire appears in all the spaces the sanzuwu left during this movement, lasting for 1 round. The sanzuwu can't use Scorch Earth again for 1d4 rounds. Transfixing Sunbeam Two Actions (Evocation, Incapacitation, Light, Primal) Requirements The sanzuwu is in their fiery form; Effect The sanzuwu spreads their wings, emitting a bright cascade of light in a 30-foot cone. Creatures in the cone must attempt a DC 33 Fortitude save. Success The creature is unaffected. Failure The creature is stunned 1. Critical Failure The creature is stunned 2. A Fiery Murder When several sanzuwus are together the immense heat radiating from them can cause an inferno of devastation. Legends tell of sanzuwus gathered together as the ground rends into volcanic rifts and uncontrollable blazes. Though they bring destruction in their wake, some stories claim that a brave individual who can follow these cataclysmic rifts for 10 days will reach the sun and earn its blessing ",
+ "trait": [
+  "Beast",
+  "Fire",
+  "Uncommon",
+  "N",
+  "Tiny"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Fire](/Traits.aspx?ID=72), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Beast",
+  "Fire",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1417",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "cold": 15
+ },
+ "weakness_markdown": "[cold](/Traits.aspx?ID=27) 15",
+ "weakness_raw": " cold  15",
+ "will_save": 23,
+ "wisdom": 5
+}

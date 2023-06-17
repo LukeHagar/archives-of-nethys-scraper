@@ -1,0 +1,106 @@
+{
+ "ac": 15,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 2,
+ "creature_ability": [
+  "Aura of Repose",
+  "Pounce",
+  "Sneak Attack"
+ ],
+ "creature_family": "Mummy",
+ "creature_family_markdown": "[Mummy](/MonsterFamilies.aspx?ID=74)",
+ "dexterity": 0,
+ "exclude_from_search": false,
+ "fortitude_save": 8,
+ "hp": 17,
+ "hp_raw": "17 ( negative healing )",
+ "id": "creature-1883",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mummified Cat](/Monsters.aspx?ID=1883)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSome of the wealthy have their favored pets mummified or wish to use the animal's fractured memories but strong instincts and natural weapons to turn them into formidable tomb guardians. No other animal was so trusted in the afterlife as felines, who were almost without exception buried alongside deceased pharaohs. Though small in stature, a clowder of mummified cats has ended the life of many a would-be tomb robber.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Mummified Cat](/Monsters.aspx?ID=1883)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Mummy\" url=\"/Traits.aspx?ID=228\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 130</row>\n\n**Perception** +7; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +4, [Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** +1\r\n\r\n**Dex** +0\r\n\r\n**Con** +2\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 15 \r\n\r\n**Fort** +8 \r\n\r\n**Ref** +4 \r\n\r\n**Will** +7 \n\n</row>\r\n\r\n**HP** 17\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[fire](/Traits.aspx?ID=72) 2\r\n\r\n**Aura of Repose** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) 60 feet. Corpses within the aura don't decay. This aura also attempts to [counteract](/Rules.aspx?ID=371) any effect that would transform a creature in the aura into [undead](/Traits.aspx?ID=160) (counteract level 2, counteract modifier +5).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +8 ([reach 0 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d6+1 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +8 ([Agile](/Traits.aspx?ID=170), [reach 0 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d4+1 piercing\r\n\r\n**Divine Innate Spells** DC 15\r\n- **1st**\r\n[Fear](/Spells.aspx?ID=110)\r\n\r\n**Pounce** <actions string=\"Single Action\" />  The mummified cat Strides and makes a Strike at the end of its movement. If the mummified cat began this action [hidden](/Conditions.aspx?ID=22), it remains hidden until after this ability's Strike.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The mummified cat deals an additional 1d4 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-74\" />",
+ "name": "Mummified Cat",
+ "npc": false,
+ "perception": 7,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 4,
+ "release_date": "2022-04-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mummy\" url=\"/Traits.aspx?ID=228\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 130</row>\r\n\r\n**Creature Family** [Mummy](/MonsterFamilies.aspx?ID=74)\r\n\r\n<row gap=\"medium\">\r\n**HP** 17 ( negative healing )\r\n\r\n**AC** 15\r\n\r\n**Fort** +8\r\n\r\n**Ref** +4\r\n\r\n**Will** +7\r\n\r\n**Perception** +7\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome of the wealthy have their favored pets mummified or wish to use the animal's fractured memories but strong instincts and natural weapons to turn …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Acrobatics +4",
+  "Athletics +5",
+  "Stealth +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +4, [Athletics](/Skills.aspx?ID=3) +5, [Stealth](/Skills.aspx?ID=15) +9",
+ "source": [
+  "Book of the Dead"
+ ],
+ "source_raw": [
+  "Book of the Dead pg. 130"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Book of the Dead](/Sources.aspx?ID=118) pg. 130</row>",
+ "speed": {
+  "climb": 15,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 15 feet",
+ "speed_raw": "25 feet, climb 15 feet",
+ "spell": [
+  "Fear"
+ ],
+ "spell_markdown": "[Fear](/Spells.aspx?ID=110)",
+ "stealth": "9",
+ "strength": 1,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Some of the wealthy have their favored pets mummified or wish to use the animal's fractured memories but strong instincts and natural weapons to turn …",
+ "summary_markdown": "Some of the wealthy have their favored pets mummified or wish to use the animal's fractured memories but strong instincts and natural weapons to turn …",
+ "text": " Mummified Cat Some of the wealthy have their favored pets mummified or wish to use the animal's fractured memories but strong instincts and natural weapons to turn them into formidable tomb guardians. No other animal was so trusted in the afterlife as felines, who were almost without exception buried alongside deceased pharaohs. Though small in stature, a clowder of mummified cats has ended the life of many a would-be tomb robber. Recall Knowledge - Undead (Religion): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Mummified Cat Source Book of the Dead pg. 130 Perception +7; darkvision, scent (imprecise) 30 feet Languages Skills Acrobatics +4, Athletics +5, Stealth +9 Str +1 Dex +0 Con +2 Int -4 Wis +3 Cha -2 --- AC 15 Fort +8 Ref +4 Will +7 HP 17 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Weaknesses fire 2 Aura of Repose (aura, divine, necromancy) 60 feet. Corpses within the aura don't decay. This aura also attempts to counteract any effect that would transform a creature in the aura into undead (counteract level 2, counteract modifier +5). --- Speed 25 feet, climb 15 feet Melee Single Action jaws +8 (reach 0 feet), Damage 1d6+1 piercing Melee Single Action claw +8 (Agile, reach 0 feet), Damage 1d4+1 piercing Divine Innate Spells DC 15 - 1st Fear Pounce Single Action The mummified cat Strides and makes a Strike at the end of its movement. If the mummified cat began this action hidden, it remains hidden until after this ability's Strike. Sneak Attack The mummified cat deals an additional 1d4 precision damage to flat-footed creatures ",
+ "trait": [
+  "Mummy",
+  "Undead",
+  "NE",
+  "Tiny"
+ ],
+ "trait_markdown": "[Mummy](/Traits.aspx?ID=228), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Mummy",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1883",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "fire": 2
+ },
+ "weakness_markdown": "[fire](/Traits.aspx?ID=72) 2",
+ "weakness_raw": " fire  2",
+ "will_save": 7,
+ "wisdom": 3
+}

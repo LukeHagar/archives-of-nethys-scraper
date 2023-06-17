@@ -1,0 +1,119 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 2,
+ "creature_ability": [
+  "Wind-Up",
+  "Brace Door",
+  "Slam Door"
+ ],
+ "creature_family": "Clockworks",
+ "creature_family_markdown": "[Clockworks](/MonsterFamilies.aspx?ID=223)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 50,
+ "hp_raw": "50",
+ "id": "creature-1946",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poisoned",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poisoned](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Clockwork Door Warden](/Monsters.aspx?ID=1946)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis mechanical humanoid serves the role of a gatekeeper or even a greeter, but its strength also enables it to repel unwanted visitors.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Clockwork Door Warden](/Monsters.aspx?ID=1946)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 80</row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +10\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +4\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Wind-Up** 24 hours, DC 19, standby\r\n\r\n**Items**\r\n[Repeating Hand Crossbow](/Weapons.aspx?ID=160) (5 bolts)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +10 (+12 vs. [Disarm](/Actions.aspx?ID=41))\r\n\r\n**Ref** +8 \r\n\r\n**Will** +14 \n\n</row>\r\n\r\n**HP** 50\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10), [fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poisoned](/Traits.aspx?ID=126), [sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n\r\n**Resistances**\r\nphysical 5 (except [adamantine](/Equipment.aspx?ID=372) or orichalcum)\r\n\r\n**Weaknesses**\r\n[electricity](/Traits.aspx?ID=56) 5, [orichalcum](/Equipment.aspx?ID=378) 5\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +14 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d6+7 bludgeoning plus [Push](/MonsterAbilities.aspx?ID=25)\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrepeating hand crossbow +12 ([range 60 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [Repeating](/Traits.aspx?ID=374)),\r\n**Damage** 1d6+3 piercing\n\n**Brace Door** <actions string=\"Single Action\" />  The door warden holds shut an adjacent door. This ends the door warden's turn. Until the start of its next turn, as long as it remains functional and in the same square, other creatures trying to get through must succeed at a DC 21 [Athletics](/Skills.aspx?ID=3) check to [Force Open](/Actions.aspx?ID=34) the door.\r\n\r\n**Slam Door** <actions string=\"Reaction\" />  **Trigger** The door warden [Pushes](/MonsterAbilities.aspx?ID=25) a creature through an open doorway; **Effect** The door warden slams the door shut on the creature.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-223\" />",
+ "name": "Clockwork Door Warden",
+ "npc": false,
+ "perception": 12,
+ "rarity": "rare",
+ "reflex_save": 8,
+ "release_date": "2022-05-25",
+ "resistance": {
+  "bludgeoning": 5,
+  "physical": 5,
+  "piercing": 5,
+  "slashing": 5
+ },
+ "resistance_markdown": "physical 5 (except [adamantine](/Equipment.aspx?ID=372) or orichalcum)",
+ "resistance_raw": "physical 5 (except  adamantine  or orichalcum)",
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 80</row>\r\n\r\n**Creature Family** [Clockworks](/MonsterFamilies.aspx?ID=223)\r\n\r\n<row gap=\"medium\">\r\n**HP** 50\r\n\r\n**AC** 20\r\n\r\n**Fort** +10\r\n\r\n**Ref** +8\r\n\r\n**Will** +14\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis mechanical humanoid serves the role of a gatekeeper or even a greeter, but its strength also enables it to repel unwanted visitors.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +10"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +10",
+ "source": [
+  "Pathfinder #179: Cradle of Quartz"
+ ],
+ "source_raw": [
+  "Pathfinder #179: Cradle of Quartz pg. 80"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #179: Cradle of Quartz](/Sources.aspx?ID=122) pg. 80</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Outlaws of Alkenstar",
+ "strength": 4,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "This mechanical humanoid serves the role of a gatekeeper or even a greeter, but its strength also enables it to repel unwanted visitors.",
+ "summary_markdown": "This mechanical humanoid serves the role of a gatekeeper or even a greeter, but its strength also enables it to repel unwanted visitors.",
+ "text": " Clockwork Door Warden This mechanical humanoid serves the role of a gatekeeper or even a greeter, but its strength also enables it to repel unwanted visitors. Recall Knowledge - Construct (Arcana, Crafting): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Clockwork Door Warden Source Pathfinder #179: Cradle of Quartz pg. 80 Perception +12; darkvision Languages Skills Athletics +10 Str +4 Dex +2 Con +2 Int -5 Wis +4 Cha -5 Wind-Up 24 hours, DC 19, standby Items Repeating Hand Crossbow (5 bolts) --- AC 20 Fort +10 (+12 vs. Disarm) Ref +8 Will +14 HP 50 Immunities death effects, disease, doomed, drained, fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poisoned, sickened, unconscious Resistances physical 5 (except adamantine or orichalcum) Weaknesses electricity 5, orichalcum 5 --- Speed 25 feet Melee Single Action fist +14 (reach 10 feet), Damage 2d6+7 bludgeoning plus Push Ranged Single Action repeating hand crossbow +12 (range 60 feet, reload 0, Repeating), Damage 1d6+3 piercing Brace Door Single Action The door warden holds shut an adjacent door. This ends the door warden's turn. Until the start of its next turn, as long as it remains functional and in the same square, other creatures trying to get through must succeed at a DC 21 Athletics check to Force Open the door. Slam Door Reaction Trigger The door warden Pushes a creature through an open doorway; Effect The door warden slams the door shut on the creature. ",
+ "trait": [
+  "Clockwork",
+  "Construct",
+  "Mindless",
+  "Rare",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Clockwork](/Traits.aspx?ID=331), [Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108), [Rare](/Traits.aspx?ID=137)",
+ "trait_raw": [
+  "Clockwork",
+  "Construct",
+  "Mindless",
+  "Rare"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1946",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "electricity": 5,
+  "orichalcum": 5
+ },
+ "weakness_markdown": "[electricity](/Traits.aspx?ID=56) 5, [orichalcum](/Equipment.aspx?ID=378) 5",
+ "weakness_raw": " electricity  5,  orichalcum  5",
+ "will_save": 14,
+ "wisdom": 4
+}

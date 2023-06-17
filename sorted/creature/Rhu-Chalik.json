@@ -1,0 +1,105 @@
+{
+ "ac": 23,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 4,
+ "creature_ability": [
+  "No Breath",
+  "Excruciating Enzyme",
+  "Project Terror",
+  "Void Transmission"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 95,
+ "hp_raw": "95",
+ "id": "creature-1276",
+ "image": [
+  "/Images/Monsters/RhuChalik.png"
+ ],
+ "intelligence": 2,
+ "language": [
+  "Aklo",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Rhu-Chalik](/Monsters.aspx?ID=1276)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe alien entities known as rhu-chaliks serve as scouts for a conglomeration of deep-space conquerors called the Dominion of the Black. Their masters use them as spies, tasking them with harvesting the thoughts and memories of sentient creatures into a vast repository of knowledge designed to eventually unravel every secret of existence.\n\n Also called void wanderers, rhu-chaliks can survive the depths of space indefinitely. They are extremely long-lived and capable of traversing the vastness of space between worlds. Rhu-chaliks prefer to work alone in order to reduce potential overlap in their mind predations. The furtive beings are calculating and infinitely patient, seeking only the most exceptional minds to cast beyond the stars to their masters.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/RhuChalik.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Rhu-Chalik](/Monsters.aspx?ID=1276)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 214</row>\n\n**Perception** +17; [greater darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +13, [Intimidation](/Skills.aspx?ID=7) +13, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** +2\r\n\r\n**Wis** +5\r\n\r\n**Cha** +3\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +14 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +17 \n\n</row>\r\n\r\n**HP** 95\n\n**No Breath** A rhu-chalik doesn't breathe and is immune to effects that require breathing<br />(such as [inhaled](/Traits.aspx?ID=96) [poisons](/Traits.aspx?ID=126)).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 5 feet, fly 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntendril +15 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d4+6 bludgeoning plus 1d6 mental and excruciating enzyme\r\n\r\n**Occult Innate Spells** DC 23\r\n- **3rd**\r\n[Invisibility](/Spells.aspx?ID=164) (self only; at will), [Mind Reading](/Spells.aspx?ID=194) (at will)\r\n- **4th**\r\n[Modify Memory](/Spells.aspx?ID=200)\r\n- **5th**\r\n[Mind Probe](/Spells.aspx?ID=193)\r\n\r\n**Excruciating Enzyme**  ([Occult](/Traits.aspx?ID=120), [Poison](/Traits.aspx?ID=126)) A rhu-chalik's tendrils secrete an enzyme that causes intense pain. A living creature hit by a tendril Strike must succeed at a DC 24 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) from the pain.\r\n\r\n**Project Terror** <actions string=\"Two Actions\" /> ([Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Fear](/Traits.aspx?ID=68), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) **Requirements** The rhu-chalik has successfully affected the target with [_mind probe_](/Spells.aspx?ID=193), [_mind reading_](/Spells.aspx?ID=194), or Project Terror in the last minute; **Effect** The rhu-chalik creates nightmarish visions in the target's mind. The target must attempt a DC 24 Will save. <br />**Critical Success** The target creature is unaffected and temporarily immune to Project Terror for 1 minute. <br />**Success** The target is unaffected. <br />**Failure** The target becomes [frightened 2](/Conditions.aspx?ID=19). Failing additional saves against this effect increases the frightened condition value by 2; if this would increase the target's frightened value beyond frightened 4, the target is [fleeing](/Conditions.aspx?ID=17) for 1 round and frightened 4. <br />**Critical Failure** As failure, but the target becomes [unconscious](/Conditions.aspx?ID=38) for 30 minutes instead of fleeing.\r\n\r\n**Void Transmission**  ([Concentrate](/Traits.aspx?ID=32), [Enchantment](/Traits.aspx?ID=61), [Exploration](/Traits.aspx?ID=66), [Mental](/Traits.aspx?ID=106), [Occult](/Traits.aspx?ID=120)) **Requirements** The rhu-chalik is adjacent to an [unconscious](/Conditions.aspx?ID=38) creature; **Effect** The rhu-chalik spends 10 minutes copying the creature's entire consciousness and mentally sends this copied consciousness through the void of space to their waiting masters. The target creature is deeply disoriented by this procedure, becoming [stupefied 2](/Conditions.aspx?ID=37) for 1 day afterward. If the creature is revived or moved away from the rhu-chalik during the process, Void Transmission fails and the target is unaffected.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Connoisseurs of Thoughts</title>\r\n\r\nRhu-chaliks lack both mouths and digestive systems. Instead they gain sustenance from the thoughts and emotions of sentient beings. Each emotion has a distinctive flavor to rhu-chaliks and, as this feeding doesn't harm the food source, rhu-chaliks often dine repeatedly upon their favorite minds. Some rhu-chaliks even incite various emotions in their prey to elicit new tastes for their mental banquets.\r\n</aside>",
+ "name": "Rhu-Chalik",
+ "npc": false,
+ "perception": 17,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 11,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 214</row>\n\n<row gap=\"medium\">\r\n**HP** 95\r\n\r\n**AC** 23\r\n\r\n**Fort** +14\r\n\r\n**Ref** +11\r\n\r\n**Will** +17\r\n\r\n**Perception** +17\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe alien entities known as rhu-chaliks serve as scouts for a conglomeration of deep-space conquerors called the Dominion of the Black. Their masters …\r\n</summary>",
+ "sense": " greater darkvision ",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Deception +13",
+  "Diplomacy +13",
+  "Intimidation +13",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Deception](/Skills.aspx?ID=5) +13, [Diplomacy](/Skills.aspx?ID=6) +13, [Intimidation](/Skills.aspx?ID=7) +13, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 214"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 214</row>",
+ "speed": {
+  "fly": 35,
+  "land": 5,
+  "max": 35
+ },
+ "speed_markdown": "5 feet, fly 35 feet",
+ "speed_raw": "5 feet, fly 35 feet",
+ "spell": [
+  "Mind Probe",
+  "Modify Memory",
+  "Invisibility",
+  "Mind Reading"
+ ],
+ "spell_markdown": "[Invisibility](/Spells.aspx?ID=164), [Mind Probe](/Spells.aspx?ID=193), [Mind Reading](/Spells.aspx?ID=194), [Modify Memory](/Spells.aspx?ID=200)",
+ "stealth": "15",
+ "strength": 3,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The alien entities known as rhu-chaliks serve as scouts for a conglomeration of deep-space conquerors called the Dominion of the Black. Their masters …",
+ "summary_markdown": "The alien entities known as rhu-chaliks serve as scouts for a conglomeration of deep-space conquerors called the Dominion of the Black. Their masters …",
+ "text": " Rhu-Chalik The alien entities known as rhu-chaliks serve as scouts for a conglomeration of deep-space conquerors called the Dominion of the Black. Their masters use them as spies, tasking them with harvesting the thoughts and memories of sentient creatures into a vast repository of knowledge designed to eventually unravel every secret of existence. Also called void wanderers, rhu-chaliks can survive the depths of space indefinitely. They are extremely long-lived and capable of traversing the vastness of space between worlds. Rhu-chaliks prefer to work alone in order to reduce potential overlap in their mind predations. The furtive beings are calculating and infinitely patient, seeking only the most exceptional minds to cast beyond the stars to their masters. Recall Knowledge - Aberration (Occultism): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Rhu-Chalik Source Bestiary 3 pg. 214 Perception +17; greater darkvision Languages Aklo; telepathy 100 feet Skills Athletics +13, Deception +13, Diplomacy +13, Intimidation +13, Stealth +15 Str +3 Dex +3 Con +4 Int +2 Wis +5 Cha +3 --- AC 23 all-around vision Fort +14 Ref +11 Will +17 HP 95 No Breath A rhu-chalik doesn't breathe and is immune to effects that require breathing (such as inhaled poisons). --- Speed 5 feet, fly 35 feet Melee Single Action tendril +15 (Agile), Damage 2d4+6 bludgeoning plus 1d6 mental and excruciating enzyme Occult Innate Spells DC 23 - 3rd Invisibility (self only; at will), Mind Reading (at will) - 4th Modify Memory - 5th Mind Probe Excruciating Enzyme (Occult, Poison) A rhu-chalik's tendrils secrete an enzyme that causes intense pain. A living creature hit by a tendril Strike must succeed at a DC 24 Fortitude save or become sickened 1 from the pain. Project Terror Two Actions (Emotion, Enchantment, Fear, Mental, Occult) Requirements The rhu-chalik has successfully affected the target with mind probe , mind reading , or Project Terror in the last minute; Effect The rhu-chalik creates nightmarish visions in the target's mind. The target must attempt a DC 24 Will save. Critical Success The target creature is unaffected and temporarily immune to Project Terror for 1 minute. Success The target is unaffected. Failure The target becomes frightened 2. Failing additional saves against this effect increases the frightened condition value by 2; if this would increase the target's frightened value beyond frightened 4, the target is fleeing for 1 round and frightened 4. Critical Failure As failure, but the target becomes unconscious for 30 minutes instead of fleeing. Void Transmission (Concentrate, Enchantment, Exploration, Mental, Occult) Requirements The rhu-chalik is adjacent to an unconscious creature; Effect The rhu-chalik spends 10 minutes copying the creature's entire consciousness and mentally sends this copied consciousness through the void of space to their waiting masters. The target creature is deeply disoriented by this procedure, becoming stupefied 2 for 1 day afterward. If the creature is revived or moved away from the rhu-chalik during the process, Void Transmission fails and the target is unaffected. Connoisseurs of Thoughts Rhu-chaliks lack both mouths and digestive systems. Instead they gain sustenance from the thoughts and emotions of sentient beings. Each emotion has a distinctive flavor to rhu-chaliks and, as this feeding doesn't harm the food source, rhu-chaliks often dine repeatedly upon their favorite minds. Some rhu-chaliks even incite various emotions in their prey to elicit new tastes for their mental banquets. ",
+ "trait": [
+  "Aberration",
+  "Uncommon",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1276",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 17,
+ "wisdom": 5
+}

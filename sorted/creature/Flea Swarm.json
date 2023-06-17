@@ -1,0 +1,104 @@
+{
+ "ac": 18,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -4,
+ "constitution": 4,
+ "creature_ability": [
+  "Flea Fever",
+  "Suck Blood",
+  "Swarming Bites"
+ ],
+ "creature_family": "Flea",
+ "creature_family_markdown": "[Flea](/MonsterFamilies.aspx?ID=117)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 55,
+ "hp_raw": "55",
+ "id": "creature-502",
+ "immunity": [
+  "disease",
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "disease, precision, swarm mind",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"\">[Flea Swarm](/Monsters.aspx?ID=502)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nFlea swarms roil across city streets and rural hinterlands in a hissing, scraping scrabble, draining blood from any creatures unfortunate enough to cross their path.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Flea Swarm](/Monsters.aspx?ID=502)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 83</row>\n\n**Perception** +13; low-light vision, scent (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +9\r\n\r\n<row gap=\"medium\">\r\n**Str** -2\r\n\r\n**Dex** +5\r\n\r\n**Con** +4\r\n\r\n**Int** -5\r\n\r\n**Wis** +1\r\n\r\n**Cha** -4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +16 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 55\n\n**Immunities**\r\ndisease, precision, swarm mind\r\n\r\n**Resistances**\r\nphysical 8 (except bludgeoning)\r\n\r\n**Weaknesses**\r\narea damage 4, splash damage 4\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet\n\n**Flea Fever**  ([Disease](/Traits.aspx?ID=46)) Drain from flea fever can’t be reduced or recovered from naturally until the disease is cured. **Saving Throw** DC 19 Fortitude; **Stage 1** [drained 1](/Conditions.aspx?ID=10) (1d4 hours), **Stage 2** drained 1 and [sickened 1](/Conditions.aspx?ID=34) (1 day), **Stage 3** drained 2 and sickened 1 (1 day), **Stage 4** drained 3 and sickened 1 (1 day), **Stage 5** dead\r\n\r\n**Suck Blood** <actions string=\"Single Action\" />  **Requirements** The flea swarm’s last action was Swarming Bites, and it dealt damage to at least one enemy; **Effect** The flea swarm drinks the creatures’ blood. Each victim becomes drained 1 and the swarm regains 3 HP for each victim drained.\r\n\r\n**Swarming Bites** <actions string=\"Single Action\" />  Each enemy in the swarm’s space takes 2d4+7 piercing damage and must attempt a DC 22 basic Reflex save. A creature that fails its save is exposed to flea fever.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-117\" />",
+ "name": "Flea Swarm",
+ "npc": false,
+ "perception": 13,
+ "rarity": "common",
+ "reflex_save": 16,
+ "release_date": "2020-01-30",
+ "resistance": {
+  "physical": 8,
+  "piercing": 8,
+  "slashing": 8
+ },
+ "resistance_markdown": "physical 8 (except bludgeoning)",
+ "resistance_raw": "physical 8 (except bludgeoning)",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 83</row>\r\n\r\n**Creature Family** [Flea](/MonsterFamilies.aspx?ID=117)\r\n\r\n<row gap=\"medium\">\r\n**HP** 55\r\n\r\n**AC** 18\r\n\r\n**Fort** +15\r\n\r\n**Ref** +16\r\n\r\n**Will** +6\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFlea swarms roil across city streets and rural hinterlands in a hissing, scraping scrabble, draining blood from any creatures unfortunate enough to …\r\n</summary>",
+ "sense": "low-light vision, scent (imprecise) 30 feet",
+ "sense_markdown": "low-light vision, scent (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +9"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +9",
+ "source": [
+  "Pathfinder #151: The Show Must Go On"
+ ],
+ "source_raw": [
+  "Pathfinder #151: The Show Must Go On pg. 83"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Extinction Curse",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #151: The Show Must Go On](/Sources.aspx?ID=21) pg. 83</row>",
+ "speed": {
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet",
+ "speed_raw": "30 feet",
+ "spell_markdown": "",
+ "strength": -2,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Flea swarms roil across city streets and rural hinterlands in a hissing, scraping scrabble, draining blood from any creatures unfortunate enough to …",
+ "summary_markdown": "Flea swarms roil across city streets and rural hinterlands in a hissing, scraping scrabble, draining blood from any creatures unfortunate enough to …",
+ "text": " Flea Swarm Flea swarms roil across city streets and rural hinterlands in a hissing, scraping scrabble, draining blood from any creatures unfortunate enough to cross their path. Recall Knowledge - Animal (Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Flea Swarm Source Pathfinder #151: The Show Must Go On pg. 83 Perception +13; low-light vision, scent (imprecise) 30 feet Languages Skills Acrobatics +14, Athletics +9 Str -2 Dex +5 Con +4 Int -5 Wis +1 Cha -4 --- AC 18 Fort +15 Ref +16 Will +6 HP 55 Immunities disease, precision, swarm mind Resistances physical 8 (except bludgeoning) Weaknesses area damage 4, splash damage 4 --- Speed 30 feet Flea Fever (Disease) Drain from flea fever can’t be reduced or recovered from naturally until the disease is cured. Saving Throw DC 19 Fortitude; Stage 1 drained 1 (1d4 hours), Stage 2 drained 1 and sickened 1 (1 day), Stage 3 drained 2 and sickened 1 (1 day), Stage 4 drained 3 and sickened 1 (1 day), Stage 5 dead Suck Blood Single Action Requirements The flea swarm’s last action was Swarming Bites, and it dealt damage to at least one enemy; Effect The flea swarm drinks the creatures’ blood. Each victim becomes drained 1 and the swarm regains 3 HP for each victim drained. Swarming Bites Single Action Each enemy in the swarm’s space takes 2d4+7 piercing damage and must attempt a DC 22 basic Reflex save. A creature that fails its save is exposed to flea fever. ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=502",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 4,
+  "splash": 4
+ },
+ "weakness_markdown": "area damage 4, splash damage 4",
+ "weakness_raw": "area damage 4, splash damage 4",
+ "will_save": 6,
+ "wisdom": 1
+}

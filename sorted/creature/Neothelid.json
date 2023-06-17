@@ -1,0 +1,129 @@
+{
+ "ac": 37,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 8,
+ "constitution": 6,
+ "creature_ability": [
+  "Thoughtsense",
+  "Dimensional Wormhole",
+  "Breath Weapon",
+  "Instant Suggestion",
+  "Lashing Tongues",
+  "Swallow Whole"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 345,
+ "hp_raw": "345",
+ "id": "creature-739",
+ "image": [
+  "/Images/Monsters/Neothelid.png"
+ ],
+ "immunity": [
+  "acid"
+ ],
+ "immunity_markdown": "acid",
+ "intelligence": 8,
+ "language": [
+  "Aklo",
+  "Alghollthu",
+  "Undercommon",
+  "<%UMR%37%%>telepathy 100 feet<%END>"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Alghollthu](/Languages.aspx?ID=24), [Undercommon](/Languages.aspx?ID=11); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)",
+ "level": 15,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Neothelid](/Monsters.aspx?ID=739)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis gigantic, mauve worm has a hooked mouth with multiple circular bands of teeth and four barbed tongues. A wielder of terrible occult powers and a vast alien intellect, the neothelid serves the ageless horrors that dwell in strange dimensions beyond known reality—the Outer Gods and Great Old Ones of the Elder Mythos. Neothelids pass down these mysteries to the eerie wormlike creatures they spawn and create in preparation for a future where the worms below shall rule—a time when all other life is nothing more than food.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Neothelid.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 15\">[Neothelid](/Monsters.aspx?ID=739)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 181 <sup>2.0</sup></row>\n\n**Perception** +29; [greater darkvision](/MonsterAbilities.aspx?ID=12), thoughtsense 100 feet\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Alghollthu](/Languages.aspx?ID=24), [Undercommon](/Languages.aspx?ID=11); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +28, [Deception](/Skills.aspx?ID=5) +29, [Diplomacy](/Skills.aspx?ID=6) +27, [Intimidation](/Skills.aspx?ID=7) +29, [Occultism](/Skills.aspx?ID=11) +29\r\n\r\n<row gap=\"medium\">\r\n**Str** +9\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** +8\r\n\r\n**Wis** +6\r\n\r\n**Cha** +8\r\n</row>\r\n\r\n**Thoughtsense** ([divination](/Traits.aspx?ID=47), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) The neothelid uses its mind as a precise sense at the listed range to notice all non-[mindless](/Traits.aspx?ID=108) creatures.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 37 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +23 \r\n\r\n**Will** +29 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 345\n\n**Immunities**\r\nacid\r\n\r\n**Resistances**\r\nmental 15\r\n\r\n**Weaknesses**\r\ncold iron 15\r\n\r\n**Dimensional Wormhole** <actions string=\"Reaction\" /> ([conjuration](/Traits.aspx?ID=33), [occult](/Traits.aspx?ID=120), [teleportation](/Traits.aspx?ID=156)) **Trigger** A creature the neothelid is aware of uses a [teleportation](/Traits.aspx?ID=156) effect; **Effect** The neothelid creates an extradimensional wormhole at the triggering creature's initial location that persists for up to 1 minute. If the neothelid moves into the wormhole's space, the neothelid teleports to the same destination as the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, fly 50 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +28 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+13 piercing plus [Improved Grab](/MonsterAbilities.aspx?ID=27)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nrasping tongue +28 ([Agile](/Traits.aspx?ID=170), [fatal d10](/Traits.aspx?ID=178), [reach 25 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+13 slashing\r\n\r\n**Occult Innate Spells** DC 38, attack +30\r\n- **Cantrips (8th)**\r\n[Daze](/Spells.aspx?ID=61), [Detect Magic](/Spells.aspx?ID=66), [Mage Hand](/Spells.aspx?ID=177), [Telekinetic Projectile](/Spells.aspx?ID=334)\r\n- **5th**\r\n[Mind Probe](/Spells.aspx?ID=193) (at will), [Telekinetic Haul](/Spells.aspx?ID=332) (at will)\r\n- **6th**\r\n[Scrying](/Spells.aspx?ID=268) (×3), [Suggestion](/Spells.aspx?ID=315) (at will)\r\n- **7th**\r\n[Phantasmal Calamity](/Spells.aspx?ID=218), [Teleport](/Spells.aspx?ID=338)\r\n- **8th**\r\n[Charm](/Spells.aspx?ID=34), [Suggestion](/Spells.aspx?ID=315), [Summon Entity](/Spells.aspx?ID=321)\r\n\r\n**Rituals** DC 38\r\n\r\n- **2nd**\r\n[Inveigle](/Rituals.aspx?ID=14)\r\n- **3rd**\r\n[Geas](/Rituals.aspx?ID=12)\r\n\r\n**Breath Weapon** <actions string=\"Two Actions\" /> ([Acid](/Traits.aspx?ID=3), [Evocation](/Traits.aspx?ID=65), [Occult](/Traits.aspx?ID=120)) The neothelid breathes a spray of acid that deals 16d6 acid damage in a 60-foot cone (DC 38 basic Reflex save). The neothelid can't use Breath Weapon again for 1d4 rounds.\r\n\r\n**Instant Suggestion** <actions string=\"Reaction\" />  **Trigger** A creature fails a Will save against a spell or effect created by the neothelid; **Effect** The neothelid casts a [_suggestion_](/Spells.aspx?ID=315) spell it has available on the creature that failed its Will save.\r\n\r\n**Lashing Tongues** <actions string=\"Two Actions\" />  The neothelid's four tongues lash out in a frenzy at several targets. It makes up to four rasping tongue Strikes, each against a different target. These attacks count toward the neothelid's multiple attack penalty, but the multiple attack penalty doesn't increase until after the neothelid makes all of its attacks.\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" />  Large, 2d12 bludgeoning plus 2d12 acid, Rupture 27\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Denebrum</title>\r\n\r\nMost neothelids on Golarion reside in the Vault of Derebrum, deep within the Darklands. Here, in a vast cavern of fetid pools of stinking swamps and surreal forests of poisonous fungi, neothelid hives nestle among twisted spires of hardened resin that look as horrific as the monstrous worms themselves. Tended by armies of worm-like minions who worship them as gods, they endlessly plot, scheme, and wage war.\r\n</aside>",
+ "name": "Neothelid",
+ "npc": false,
+ "perception": 29,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 23,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "mental": 15
+ },
+ "resistance_markdown": "mental 15",
+ "resistance_raw": "mental 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 181 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 345\r\n\r\n**AC** 37\r\n\r\n**Fort** +27\r\n\r\n**Ref** +23\r\n\r\n**Will** +29\r\n\r\n**Perception** +29\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis gigantic, mauve worm has a hooked mouth with multiple circular bands of teeth and four barbed tongues. A wielder of terrible occult powers and a …\r\n</summary>",
+ "sense": " greater darkvision , thoughtsense 100 feet",
+ "sense_markdown": "[greater darkvision](/MonsterAbilities.aspx?ID=12), thoughtsense 100 feet",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Acrobatics +25",
+  "Athletics +28",
+  "Deception +29",
+  "Diplomacy +27",
+  "Intimidation +29",
+  "Occultism +29"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +25, [Athletics](/Skills.aspx?ID=3) +28, [Deception](/Skills.aspx?ID=5) +29, [Diplomacy](/Skills.aspx?ID=6) +27, [Intimidation](/Skills.aspx?ID=7) +29, [Occultism](/Skills.aspx?ID=11) +29",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 181"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 181 <sup>2.0</sup></row>",
+ "speed": {
+  "fly": 50,
+  "land": 30,
+  "max": 50
+ },
+ "speed_markdown": "30 feet, fly 50 feet",
+ "speed_raw": "30 feet, fly 50 feet",
+ "spell": [
+  "Charm",
+  "Suggestion",
+  "Summon Entity",
+  "Phantasmal Calamity",
+  "Teleport",
+  "Scrying",
+  "Mind Probe",
+  "Telekinetic Haul",
+  "Daze",
+  "Detect Magic",
+  "Mage Hand",
+  "Telekinetic Projectile"
+ ],
+ "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Daze](/Spells.aspx?ID=61), [Detect Magic](/Spells.aspx?ID=66), [Mage Hand](/Spells.aspx?ID=177), [Mind Probe](/Spells.aspx?ID=193), [Phantasmal Calamity](/Spells.aspx?ID=218), [Scrying](/Spells.aspx?ID=268), [Suggestion](/Spells.aspx?ID=315), [Summon Entity](/Spells.aspx?ID=321), [Telekinetic Haul](/Spells.aspx?ID=332), [Telekinetic Projectile](/Spells.aspx?ID=334), [Teleport](/Spells.aspx?ID=338)",
+ "strength": 9,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "This gigantic, mauve worm has a hooked mouth with multiple circular bands of teeth and four barbed tongues. A wielder of terrible occult powers and a …",
+ "summary_markdown": "This gigantic, mauve worm has a hooked mouth with multiple circular bands of teeth and four barbed tongues. A wielder of terrible occult powers and a …",
+ "text": " Neothelid This gigantic, mauve worm has a hooked mouth with multiple circular bands of teeth and four barbed tongues. A wielder of terrible occult powers and a vast alien intellect, the neothelid serves the ageless horrors that dwell in strange dimensions beyond known reality—the Outer Gods and Great Old Ones of the Elder Mythos. Neothelids pass down these mysteries to the eerie wormlike creatures they spawn and create in preparation for a future where the worms below shall rule—a time when all other life is nothing more than food. Recall Knowledge - Aberration (Occultism): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Neothelid Source Bestiary 2 pg. 181 2.0 Perception +29; greater darkvision, thoughtsense 100 feet Languages Aklo, Alghollthu, Undercommon; telepathy 100 feet Skills Acrobatics +25, Athletics +28, Deception +29, Diplomacy +27, Intimidation +29, Occultism +29 Str +9 Dex +4 Con +6 Int +8 Wis +6 Cha +8 Thoughtsense (divination, mental, occult) The neothelid uses its mind as a precise sense at the listed range to notice all non-mindless creatures. --- AC 37 Fort +27 Ref +23 Will +29 +1 status to all saves vs. magic HP 345 Immunities acid Resistances mental 15 Weaknesses cold iron 15 Dimensional Wormhole Reaction (conjuration, occult, teleportation) Trigger A creature the neothelid is aware of uses a teleportation effect; Effect The neothelid creates an extradimensional wormhole at the triggering creature's initial location that persists for up to 1 minute. If the neothelid moves into the wormhole's space, the neothelid teleports to the same destination as the triggering creature. --- Speed 30 feet, fly 50 feet Melee Single Action jaws +28 (reach 15 feet), Damage 3d12+13 piercing plus Improved Grab Melee Single Action rasping tongue +28 (Agile, fatal d10, reach 25 feet), Damage 3d8+13 slashing Occult Innate Spells DC 38, attack +30 - Cantrips (8th) Daze, Detect Magic, Mage Hand, Telekinetic Projectile - 5th Mind Probe (at will), Telekinetic Haul (at will) - 6th Scrying (×3), Suggestion (at will) - 7th Phantasmal Calamity, Teleport - 8th Charm, Suggestion, Summon Entity Rituals DC 38 - 2nd Inveigle - 3rd Geas Breath Weapon Two Actions (Acid, Evocation, Occult) The neothelid breathes a spray of acid that deals 16d6 acid damage in a 60-foot cone (DC 38 basic Reflex save). The neothelid can't use Breath Weapon again for 1d4 rounds. Instant Suggestion Reaction Trigger A creature fails a Will save against a spell or effect created by the neothelid; Effect The neothelid casts a suggestion spell it has available on the creature that failed its Will save. Lashing Tongues Two Actions The neothelid's four tongues lash out in a frenzy at several targets. It makes up to four rasping tongue Strikes, each against a different target. These attacks count toward the neothelid's multiple attack penalty, but the multiple attack penalty doesn't increase until after the neothelid makes all of its attacks. Swallow Whole Single Action Large, 2d12 bludgeoning plus 2d12 acid, Rupture 27 Denebrum Most neothelids on Golarion reside in the Vault of Derebrum, deep within the Darklands. Here, in a vast cavern of fetid pools of stinking swamps and surreal forests of poisonous fungi, neothelid hives nestle among twisted spires of hardened resin that look as horrific as the monstrous worms themselves. Tended by armies of worm-like minions who worship them as gods, they endlessly plot, scheme, and wage war. ",
+ "trait": [
+  "Aberration",
+  "Uncommon",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=739",
+ "vision": "Greater darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold_iron": 15
+ },
+ "weakness_markdown": "cold iron 15",
+ "weakness_raw": "cold iron 15",
+ "will_save": 29,
+ "wisdom": 6
+}

@@ -1,0 +1,109 @@
+{
+ "ac": 35,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 7,
+ "constitution": 8,
+ "creature_ability": [
+  "Light Camouflage",
+  "Blinding Aura",
+  "Darkness Vulnerability",
+  "Constrict",
+  "Nova Burst",
+  "Residual Light"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 1,
+ "exclude_from_search": false,
+ "fortitude_save": 28,
+ "hp": 255,
+ "hp_raw": "255",
+ "id": "creature-1666",
+ "image": [
+  "/Images/Monsters/SunburntCorpse.png"
+ ],
+ "immunity": [
+  "blinded",
+  "dazzled",
+  "fire"
+ ],
+ "immunity_markdown": "[blinded](/Conditions.aspx?ID=1), [dazzled](/Conditions.aspx?ID=7), [fire](/Traits.aspx?ID=72)",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); (can't speak any language)",
+ "level": 14,
+ "markdown": "<title level=\"1\" pfs=\"\">[Sunburst Corpse](/Monsters.aspx?ID=1666)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWarlords and heroes alike often fell their enemies and leave the corpses behind, exposed to the elements. [Undead](/Traits.aspx?ID=160) tend to rise in the dark of night and shun the cleansing rays of the sun, but this isn't the rule for all undead. The corpse of a particularly evil individual left exposed to the constant beating of the sun might become a sunburst corpse. These undead radiate light and wield sunlight as a weapon. Sunburst corpses initially seek revenge for their deaths but thereafter wander with undirected rage.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 34\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 32\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 29\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/SunburntCorpse.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 14\">[Sunburst Corpse](/Monsters.aspx?ID=1666)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 85</row>\n\n**Perception** +25; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); (can't speak any language)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +29, [Occultism](/Skills.aspx?ID=11) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +1\r\n\r\n**Con** +8\r\n\r\n**Int** +1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +7\r\n</row>\r\n\r\n**Light Camouflage** The sunburst corpse is [concealed](/Conditions.aspx?ID=4) in areas of natural bright light, such as due to sunlight or [torches](/Equipment.aspx?ID=60), even to creatures that can see clearly in bright light. Magical bright light and light from the sunburst corpse's blinding aura don't conceal the sunburst corpse.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 35 \r\n\r\n**Fort** +28 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +25 \n\n</row>\r\n\r\n**HP** 255\n\n**Immunities**\r\n[blinded](/Conditions.aspx?ID=1), [dazzled](/Conditions.aspx?ID=7), [fire](/Traits.aspx?ID=72)\n\n**Weaknesses**\r\n[cold](/Traits.aspx?ID=27) 10, darkness vulnerability\r\n\r\n**Blinding Aura** ([aura](/Traits.aspx?ID=206), [evocation](/Traits.aspx?ID=65), [incapacitation](/Traits.aspx?ID=93), [light](/Traits.aspx?ID=100), [occult](/Traits.aspx?ID=120), [visual](/Traits.aspx?ID=163)) 60 feet. The sunburst corpse sheds bright light. Any creature that starts its turn in the emanation must succeed at a DC 31 Fortitude save. If it fails, it's [blinded](/Conditions.aspx?ID=1) for 1 minute, and if it critically fails, it's blinded permanently. A creature that succeeds at its save is temporarily immune to this effect for 24 hours.<br />**Darkness Vulnerability** A sunburst corpse is [sickened 1](/Conditions.aspx?ID=34) while in areas of magical [darkness](/Traits.aspx?ID=39). If the level of the magical darkness effect is at least half of the sunburst corpse's level (a 7th-level effect against most sunburst corpses), the sunburst corpse is also [slowed 1](/Conditions.aspx?ID=35) while in the area.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +29 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 3d6+13 slashing plus 2d8 fire and [Grab](/MonsterAbilities.aspx?ID=18) and residual light\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nsunfire +25 ([range increment 40 feet](/Traits.aspx?ID=248)),\r\n**Damage** 7d6 fire\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  2d6+6 bludgeoning plus 2d8 fire and residual light, DC 34\r\n\r\n**Nova Burst** <actions string=\"Three Actions\" /> ([Evocation](/Traits.aspx?ID=65), [Light](/Traits.aspx?ID=100), [Occult](/Traits.aspx?ID=120)) The sunburst corpse intensifies its light and unleashes a burning blast of energy. It deals 12d8 fire damage to all creatures in a 20-foot emanation (DC 34 [basic](/Rules.aspx?ID=329) Fortitude save). A creature that fails its save becomes [dazzled](/Conditions.aspx?ID=7) until the end of its next turn. The sunburst corpse can't use Nova Burst again for 1d4 rounds, and its blinding aura becomes inactive during this time.\r\n\r\n**Residual Light**  ([Evocation](/Traits.aspx?ID=65), [Light](/Traits.aspx?ID=100), [Occult](/Traits.aspx?ID=120)) When a sunburst corpse Strikes or Grapples a creature, some of the corpse's light clings to the creature for a moment. The creature must attempt a DC 34 Fortitude save. On a failure, the creature is [dazzled](/Conditions.aspx?ID=7) until the end of its next turn. On a critical failure, the creature is dazzled for 1 minute. A dazzled creature can use an Interact action to wick off the light and remove the dazzled condition.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Deathless Light</title>\r\n\r\nA sunburst corpse's dead flesh is a [spell catalyst](/Equipment.aspx?ID=1452).\r\n</aside>",
+ "name": "Sunburst Corpse",
+ "npc": false,
+ "perception": 25,
+ "rarity": "uncommon",
+ "reflex_save": 21,
+ "release_date": "2021-10-13",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 85</row>\n\n<row gap=\"medium\">\r\n**HP** 255\r\n\r\n**AC** 35\r\n\r\n**Fort** +28\r\n\r\n**Ref** +21\r\n\r\n**Will** +25\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWarlords and heroes alike often fell their enemies and leave the corpses behind, exposed to the elements.  Undead  tend to rise in the dark of night …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +23",
+  "Intimidation +29",
+  "Occultism +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +23, [Intimidation](/Skills.aspx?ID=7) +29, [Occultism](/Skills.aspx?ID=11) +25",
+ "source": [
+  "Pathfinder #172: Secrets of the Temple City"
+ ],
+ "source_raw": [
+  "Pathfinder #172: Secrets of the Temple City pg. 85"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Strength of Thousands",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #172: Secrets of the Temple City](/Sources.aspx?ID=102) pg. 85</row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell_markdown": "",
+ "spoilers": "Strength of Thousands",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Warlords and heroes alike often fell their enemies and leave the corpses behind, exposed to the elements.  Undead  tend to rise in the dark of night …",
+ "summary_markdown": "Warlords and heroes alike often fell their enemies and leave the corpses behind, exposed to the elements.  Undead  tend to rise in the dark of night …",
+ "text": " Sunburst Corpse Warlords and heroes alike often fell their enemies and leave the corpses behind, exposed to the elements. Undead tend to rise in the dark of night and shun the cleansing rays of the sun, but this isn't the rule for all undead. The corpse of a particularly evil individual left exposed to the constant beating of the sun might become a sunburst corpse. These undead radiate light and wield sunlight as a weapon. Sunburst corpses initially seek revenge for their deaths but thereafter wander with undirected rage. Recall Knowledge - Undead (Religion): DC 34 Unspecific Lore : DC 32 Specific Lore : DC 29 Sunburst Corpse Source Pathfinder #172: Secrets of the Temple City pg. 85 Perception +25; darkvision Languages Common; (can't speak any language) Skills Athletics +23, Intimidation +29, Occultism +25 Str +5 Dex +1 Con +8 Int +1 Wis +3 Cha +7 Light Camouflage The sunburst corpse is concealed in areas of natural bright light, such as due to sunlight or torches, even to creatures that can see clearly in bright light. Magical bright light and light from the sunburst corpse's blinding aura don't conceal the sunburst corpse. --- AC 35 Fort +28 Ref +21 Will +25 HP 255 Immunities blinded, dazzled, fire Weaknesses cold 10, darkness vulnerability Blinding Aura (aura, evocation, incapacitation, light, occult, visual) 60 feet. The sunburst corpse sheds bright light. Any creature that starts its turn in the emanation must succeed at a DC 31 Fortitude save. If it fails, it's blinded for 1 minute, and if it critically fails, it's blinded permanently. A creature that succeeds at its save is temporarily immune to this effect for 24 hours. Darkness Vulnerability A sunburst corpse is sickened 1 while in areas of magical darkness. If the level of the magical darkness effect is at least half of the sunburst corpse's level (a 7th-level effect against most sunburst corpses), the sunburst corpse is also slowed 1 while in the area. --- Speed 35 feet Melee Single Action claw +29 (Agile, Finesse), Damage 3d6+13 slashing plus 2d8 fire and Grab and residual light Ranged Single Action sunfire +25 (range increment 40 feet), Damage 7d6 fire Constrict Single Action 2d6+6 bludgeoning plus 2d8 fire and residual light, DC 34 Nova Burst Three Actions (Evocation, Light, Occult) The sunburst corpse intensifies its light and unleashes a burning blast of energy. It deals 12d8 fire damage to all creatures in a 20-foot emanation (DC 34 basic Fortitude save). A creature that fails its save becomes dazzled until the end of its next turn. The sunburst corpse can't use Nova Burst again for 1d4 rounds, and its blinding aura becomes inactive during this time. Residual Light (Evocation, Light, Occult) When a sunburst corpse Strikes or Grapples a creature, some of the corpse's light clings to the creature for a moment. The creature must attempt a DC 34 Fortitude save. On a failure, the creature is dazzled until the end of its next turn. On a critical failure, the creature is dazzled for 1 minute. A dazzled creature can use an Interact action to wick off the light and remove the dazzled condition. Deathless Light A sunburst corpse's dead flesh is a spell catalyst. ",
+ "trait": [
+  "Uncommon",
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1666",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold": 10
+ },
+ "weakness_markdown": "[cold](/Traits.aspx?ID=27) 10, darkness vulnerability",
+ "weakness_raw": " cold  10, darkness vulnerability",
+ "will_save": 25,
+ "wisdom": 3
+}

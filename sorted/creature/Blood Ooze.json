@@ -1,0 +1,102 @@
+{
+ "ac": 12,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 5,
+ "creature_ability": [
+  "Infuse Corpse",
+  "Clot",
+  "Blood Pool",
+  "Siphon Vitality"
+ ],
+ "creature_family": "Ooze",
+ "creature_family_markdown": "[Ooze](/MonsterFamilies.aspx?ID=79)",
+ "dexterity": -4,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 90,
+ "hp_raw": "90",
+ "id": "creature-429",
+ "image": [
+  "/Images/Monsters/BloodOoze.png"
+ ],
+ "immunity": [
+  "critical hits",
+  "mental",
+  "precision",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "critical hits, mental, precision, unconscious, visual",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"\">[Blood Ooze](/Monsters.aspx?ID=429)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSwelling like a bubble about to burst, this oozing thing looks like it is made entirely from blood. Its slick, crimson skin is marred only by spots that look like clots formed on the surface.\n\n Created through the foulest of alchemical rituals, the blood ooze seeks only one thing: to increase its mass by consuming blood from the living. The blood ooze hides within the body of its victims, only bursting out to attack when another meal draws near, leaving the body a husk of its former self.\n\n The process by which such an ooze is created involves draining the blood of at least four Medium creatures and feeding all of the collected blood to a fifth creature, along with deadly reagents designed to prevent the blood from coagulating. During this time, the host slowly dies while the blood ooze takes form, emerging 2 to 6 hours later. Blood oozes have no loyalty toward those who created them, but some creators have noted that newly formed blood oozes seem to avoid harming other members of the host creature’s family.\n\n It is not widely known that an existing blood ooze can reproduce by splitting itself in half. It undergoes this division only if it has grown so large that splitting in half would create a pair of normal-sized blood oozes, such as the one listed below.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Ooze](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/BloodOoze.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Blood Ooze](/Monsters.aspx?ID=429)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [The Fall of Plaguestone](/Sources.aspx?ID=3) pg. 63</row>\n\n**Perception** +8; motion sense 60 feet, no vision\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** -4\r\n\r\n**Con** +5\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\r\n\r\n**Infuse Corpse** <actions string=\"Single Action\" /> A blood ooze can seep into a corpse's wounds, displacing its natural blood. It can burst out of the corpse as a free action.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 12 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +6 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 90\n\n**Immunities**\r\ncritical hits, mental, precision, unconscious, visual\n\n**Clot** <actions string=\"Reaction\" /> **Trigger** The blood ooze is damaged by a piercing or slashing attack. **Effect** The blood ooze forms a clot around the wound, reducing the damage taken by 5 (to a minimum of 0).<br />**Blood Pool** Whenever a creature adjacent to a blood ooze takes bleed damage, the blood ooze regains an amount of Hit Points equal to the damage dealt.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, climb 10 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\npseudopod +15 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d12+8 bludgeoning plus 1d6 [persistent bleed](/Conditions.aspx?ID=29)\n\n**Siphon Vitality** <actions string=\"Two Actions\" />  The blood ooze draws forth blood from nearby creatures, causing their flesh to break open and blood to spill out which replenishes the blood ooze. Each living creature within 15 feet takes 3d6 slashing damage (DC 21 basic Fortitude save). The blood ooze regains an amount of Hit Points equal to half the damage Siphon Vitality dealt to the single creature that took the most damage.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Variants</title>\r\n\r\nBlood oozes are sometimes made from creatures with very different types of blood that can occasional impart other powers and abilities to the resulting blood ooze. Blood oozes made from dragon blood often gain some small amount of energy resistance based on the dragon's type (fire resistance 5 for an ooze crafted from a red dragon, for example). Those made from trolls gain a limited form of regeneration. Finally, a blood ooze made from the blood of fiends might gain a cruel and vindictive intelligence drawn from the thoughts and minds of its parent creatures. Such an ooze might even work with others, tricking lesser creatures into thinking it is some sort of deity or engaging in whatever ruse it can contrive to secure a constant source of fresh blood.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-79\" />",
+ "name": "Blood Ooze",
+ "npc": false,
+ "perception": 8,
+ "rarity": "common",
+ "reflex_save": 6,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [The Fall of Plaguestone](/Sources.aspx?ID=3) pg. 63</row>\r\n\r\n**Creature Family** [Ooze](/MonsterFamilies.aspx?ID=79)\r\n\r\n<row gap=\"medium\">\r\n**HP** 90\r\n\r\n**AC** 12\r\n\r\n**Fort** +15\r\n\r\n**Ref** +6\r\n\r\n**Will** +6\r\n\r\n**Perception** +8\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSwelling like a bubble about to burst, this oozing thing looks like it is made entirely from blood. Its slick, crimson skin is marred only by spots …\r\n</summary>",
+ "sense": "motion sense 60 feet, no vision",
+ "sense_markdown": "motion sense 60 feet, no vision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Stealth +4"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +4",
+ "source": [
+  "The Fall of Plaguestone"
+ ],
+ "source_raw": [
+  "The Fall of Plaguestone pg. 63"
+ ],
+ "source_category": "Adventures",
+ "source_group": "The Fall of Plaguestone",
+ "source_markdown": "<row gap=\"tiny\">[The Fall of Plaguestone](/Sources.aspx?ID=3) pg. 63</row>",
+ "speed": {
+  "climb": 10,
+  "land": 10,
+  "max": 10
+ },
+ "speed_markdown": "10 feet, climb 10 feet",
+ "speed_raw": "10 feet, climb 10 feet",
+ "spell_markdown": "",
+ "stealth": "4",
+ "strength": 5,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Swelling like a bubble about to burst, this oozing thing looks like it is made entirely from blood. Its slick, crimson skin is marred only by spots …",
+ "summary_markdown": "Swelling like a bubble about to burst, this oozing thing looks like it is made entirely from blood. Its slick, crimson skin is marred only by spots …",
+ "text": " Blood Ooze Swelling like a bubble about to burst, this oozing thing looks like it is made entirely from blood. Its slick, crimson skin is marred only by spots that look like clots formed on the surface. Created through the foulest of alchemical rituals, the blood ooze seeks only one thing: to increase its mass by consuming blood from the living. The blood ooze hides within the body of its victims, only bursting out to attack when another meal draws near, leaving the body a husk of its former self. The process by which such an ooze is created involves draining the blood of at least four Medium creatures and feeding all of the collected blood to a fifth creature, along with deadly reagents designed to prevent the blood from coagulating. During this time, the host slowly dies while the blood ooze takes form, emerging 2 to 6 hours later. Blood oozes have no loyalty toward those who created them, but some creators have noted that newly formed blood oozes seem to avoid harming other members of the host creature’s family. It is not widely known that an existing blood ooze can reproduce by splitting itself in half. It undergoes this division only if it has grown so large that splitting in half would create a pair of normal-sized blood oozes, such as the one listed below. Recall Knowledge - Ooze (Occultism): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Blood Ooze Source The Fall of Plaguestone pg. 63 Perception +8; motion sense 60 feet, no vision Languages Skills Athletics +13, Stealth +4 Str +5 Dex -4 Con +5 Int -5 Wis +0 Cha -5 Infuse Corpse Single Action A blood ooze can seep into a corpse's wounds, displacing its natural blood. It can burst out of the corpse as a free action. --- AC 12 Fort +15 Ref +6 Will +6 HP 90 Immunities critical hits, mental, precision, unconscious, visual Clot Reaction Trigger The blood ooze is damaged by a piercing or slashing attack. Effect The blood ooze forms a clot around the wound, reducing the damage taken by 5 (to a minimum of 0). Blood Pool Whenever a creature adjacent to a blood ooze takes bleed damage, the blood ooze regains an amount of Hit Points equal to the damage dealt. --- Speed 10 feet, climb 10 feet Melee Single Action pseudopod +15 (reach 10 feet), Damage 1d12+8 bludgeoning plus 1d6 persistent bleed Siphon Vitality Two Actions The blood ooze draws forth blood from nearby creatures, causing their flesh to break open and blood to spill out which replenishes the blood ooze. Each living creature within 15 feet takes 3d6 slashing damage (DC 21 basic Fortitude save). The blood ooze regains an amount of Hit Points equal to half the damage Siphon Vitality dealt to the single creature that took the most damage. Variants Blood oozes are sometimes made from creatures with very different types of blood that can occasional impart other powers and abilities to the resulting blood ooze. Blood oozes made from dragon blood often gain some small amount of energy resistance based on the dragon's type (fire resistance 5 for an ooze crafted from a red dragon, for example). Those made from trolls gain a limited form of regeneration. Finally, a blood ooze made from the blood of fiends might gain a cruel and vindictive intelligence drawn from the thoughts and minds of its parent creatures. Such an ooze might even work with others, tricking lesser creatures into thinking it is some sort of deity or engaging in whatever ruse it can contrive to secure a constant source of fresh blood. ",
+ "trait": [
+  "Mindless",
+  "Ooze",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Mindless](/Traits.aspx?ID=108), [Ooze](/Traits.aspx?ID=122)",
+ "trait_raw": [
+  "Mindless",
+  "Ooze"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=429",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 0
+}

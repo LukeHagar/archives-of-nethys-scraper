@@ -1,0 +1,109 @@
+{
+ "ac": 21,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 2,
+ "creature_ability": [
+  "Electricity Absorption",
+  "Lightning Powered",
+  "Slow"
+ ],
+ "creature_family": "Zombie",
+ "creature_family_markdown": "[Zombie](/MonsterFamilies.aspx?ID=103)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 14,
+ "hp": 140,
+ "hp_raw": "140 (lightning powered,  negative healing )",
+ "id": "creature-1985",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "electricity",
+  "mental",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [electricity](/Traits.aspx?ID=56), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"\">[Zombie, Shock](/Monsters.aspx?ID=1985)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nShock zombies are hideous undead covered with bolts and electrical wiring. Most have two large electric coils mounted on their backs to absorb and project electricity. If uncontrolled, shock zombies often wander far afield in search of inventors' labs or lightning storms to draw power from. In a pinch, the natural electric currents inside living creatures more than suffice. \n\n<title level=\"2\" right=\"\">Zombie Abilities</title> You can modify shock zombies with the following zombie abilities, in addition to those available to all zombies. Most shock zombies have one of these abilities; if you give a shock zombie more, you might want to increase its level and adjust its statistics. \n\n**Arcing Strikes** ([electricity](/Traits.aspx?ID=56)) When a shock zombie hits a creature with a melee attack, an arc of lighting leaps to a second creature, dealing 1d12 electricity damage. This secondary target must be within 10 feet of the shock zombie's original target and must be the creature closest to the original target (if multiple creatures are equidistant, the shock zombie chooses which to affect). \n\n**Breath Weapon** <actions string=\"Two Actions\" /> ([electricity](/Traits.aspx?ID=56), [evocation](/Traits.aspx?ID=65)) The shock zombie breathes lightning, dealing 4d12 electricity damage in a 40-foot line (DC 24 [basic](/Rules.aspx?ID=329) Reflex save). It can't use its Breath Weapon again for 1 minute. \n\n**Electromechanical Phasing** <actions string=\"Two Actions\" /> ([electricity](/Traits.aspx?ID=56)) **Frequency** once per day; **Effect** The shock zombie activates its electromechanical components and begins phasing in and out of reality. The shock zombie casts [_blink_](/Spells.aspx?ID=27) as a 4th-level divine innate spell. \n\n**Lightning Rod** <actions string=\"Reaction\" /> ([electricity](/Traits.aspx?ID=56)) **Trigger** A spell or ability with the electricity trait is used within 30 feet of the shock zombie; **Effect** The shock zombie attempts to [counteract](/Rules.aspx?ID=371) the spell or ability (counteract level 3, counteract modifier +17), harmlessly redirecting the electricity into one of its electricity coils.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 24\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 22\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 19\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Shock Zombie](/Monsters.aspx?ID=1985)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 85</row>\n\n**Perception** +12; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +5\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** -5\r\n\r\n**Wis** +2\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +14 \r\n\r\n**Ref** +17 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 140\r\n(lightning powered, [negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [electricity](/Traits.aspx?ID=56), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Weaknesses**\r\n[positive](/Traits.aspx?ID=128) 5, slashing 5\r\n\r\n**Electricity Absorption** For 1 minute after taking electricity damage, a shock zombie loses its usual [slowed 1](/Conditions.aspx?ID=35) condition, gains the ability to use reactions, and gains a +10-foot status bonus to its Speed.<br />**Lightning Powered** Arcs of restorative electricity jolt between shock zombies. For each shock zombie within 30 feet, the shock zombie gains [fast healing 2](/MonsterAbilities.aspx?ID=15) (to a maximum of fast healing 10).<br />**Slow** A shock zombie is typically [slowed 1](/Conditions.aspx?ID=35) and can't use reactions (but see electricity absorption above).\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +17,\r\n**Damage** 2d6+7 bludgeoning plus 1d12 electricity\n\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Nature Shock</title>\r\n\r\nWhile most shock zombies are created through combined necromancy and engineering, some have more natural origins. Corpses of creatures slain by lightning strikes or lightning magic sometimes arise as shock zombies without the need for mechanical components.\r\n</aside>\r\n\r\n<document level=\"2\" id=\"creature-family-103\" />",
+ "name": "Shock Zombie",
+ "npc": false,
+ "perception": 12,
+ "rarity": "uncommon",
+ "reflex_save": 17,
+ "release_date": "2022-06-29",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Electricity\" url=\"/Traits.aspx?ID=56\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n<trait label=\"Zombie\" url=\"/Traits.aspx?ID=245\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 85</row>\r\n\r\n**Creature Family** [Zombie](/MonsterFamilies.aspx?ID=103)\r\n\r\n<row gap=\"medium\">\r\n**HP** 140 (lightning powered,  negative healing )\r\n\r\n**AC** 21\r\n\r\n**Fort** +14\r\n\r\n**Ref** +17\r\n\r\n**Will** +11\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShock zombies are hideous undead covered with bolts and electrical wiring. Most have two large electric coils mounted on their backs to absorb and …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +14",
+  "Athletics +15"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +14, [Athletics](/Skills.aspx?ID=3) +15",
+ "source": [
+  "Pathfinder #180: The Smoking Gun"
+ ],
+ "source_raw": [
+  "Pathfinder #180: The Smoking Gun pg. 85"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Outlaws of Alkenstar",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #180: The Smoking Gun](/Sources.aspx?ID=125) pg. 85</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Outlaws of Alkenstar",
+ "strength": 5,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Shock zombies are hideous undead covered with bolts and electrical wiring. Most have two large electric coils mounted on their backs to absorb and …",
+ "summary_markdown": "Shock zombies are hideous undead covered with bolts and electrical wiring. Most have two large electric coils mounted on their backs to absorb and …",
+ "text": " Zombie, Shock Shock zombies are hideous undead covered with bolts and electrical wiring. Most have two large electric coils mounted on their backs to absorb and project electricity. If uncontrolled, shock zombies often wander far afield in search of inventors' labs or lightning storms to draw power from. In a pinch, the natural electric currents inside living creatures more than suffice. Zombie Abilities You can modify shock zombies with the following zombie abilities, in addition to those available to all zombies. Most shock zombies have one of these abilities; if you give a shock zombie more, you might want to increase its level and adjust its statistics. Arcing Strikes (electricity) When a shock zombie hits a creature with a melee attack, an arc of lighting leaps to a second creature, dealing 1d12 electricity damage. This secondary target must be within 10 feet of the shock zombie's original target and must be the creature closest to the original target (if multiple creatures are equidistant, the shock zombie chooses which to affect). Breath Weapon Two Actions (electricity, evocation) The shock zombie breathes lightning, dealing 4d12 electricity damage in a 40-foot line (DC 24 basic Reflex save). It can't use its Breath Weapon again for 1 minute. Electromechanical Phasing Two Actions (electricity) Frequency once per day; Effect The shock zombie activates its electromechanical components and begins phasing in and out of reality. The shock zombie casts blink as a 4th-level divine innate spell. Lightning Rod Reaction (electricity) Trigger A spell or ability with the electricity trait is used within 30 feet of the shock zombie; Effect The shock zombie attempts to counteract the spell or ability (counteract level 3, counteract modifier +17), harmlessly redirecting the electricity into one of its electricity coils. Recall Knowledge - Undead (Religion): DC 24 Unspecific Lore : DC 22 Specific Lore : DC 19 Shock Zombie Source Pathfinder #180: The Smoking Gun pg. 85 Perception +12; darkvision Languages Skills Acrobatics +14, Athletics +15 Str +5 Dex +4 Con +2 Int -5 Wis +2 Cha -2 --- AC 21 Fort +14 Ref +17 Will +11 HP 140 (lightning powered, negative healing) Immunities death effects, disease, electricity, mental, paralyzed, poison, unconscious Weaknesses positive 5, slashing 5 Electricity Absorption For 1 minute after taking electricity damage, a shock zombie loses its usual slowed 1 condition, gains the ability to use reactions, and gains a +10-foot status bonus to its Speed. Lightning Powered Arcs of restorative electricity jolt between shock zombies. For each shock zombie within 30 feet, the shock zombie gains fast healing 2 (to a maximum of fast healing 10). Slow A shock zombie is typically slowed 1 and can't use reactions (but see electricity absorption above). --- Speed 25 feet Melee Single Action fist +17, Damage 2d6+7 bludgeoning plus 1d12 electricity Nature Shock While most shock zombies are created through combined necromancy and engineering, some have more natural origins. Corpses of creatures slain by lightning strikes or lightning magic sometimes arise as shock zombies without the need for mechanical components. ",
+ "trait": [
+  "Electricity",
+  "Mindless",
+  "Uncommon",
+  "Undead",
+  "Zombie",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Electricity](/Traits.aspx?ID=56), [Mindless](/Traits.aspx?ID=108), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160), [Zombie](/Traits.aspx?ID=245)",
+ "trait_raw": [
+  "Electricity",
+  "Mindless",
+  "Uncommon",
+  "Undead",
+  "Zombie"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1985",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "positive": 5,
+  "slashing": 5
+ },
+ "weakness_markdown": "[positive](/Traits.aspx?ID=128) 5, slashing 5",
+ "weakness_raw": " positive  5, slashing 5",
+ "will_save": 11,
+ "wisdom": 2
+}

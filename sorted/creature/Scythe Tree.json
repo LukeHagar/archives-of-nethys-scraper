@@ -1,0 +1,100 @@
+{
+ "ac": 24,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Axe Vulnerability",
+  "Ripping Disarm",
+  "Dead Tree",
+  "Woodland Ambush"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 17,
+ "hp": 105,
+ "hp_raw": "105",
+ "id": "creature-797",
+ "image": [
+  "/Images/Monsters/ScytheTree.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Aklo",
+  "Arboreal",
+  "Sylvan"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Arboreal](/Languages.aspx?ID=26), [Sylvan](/Languages.aspx?ID=10)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Scythe Tree](/Monsters.aspx?ID=797)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nMalevolent, vicious, and cruel, scythe trees pose as normal trees near deep forest paths, where they wait to slaughter passersby. Instead of drawing sustenance from light and soil, scythe trees gorge themselves on the flesh, blood, and bone of sapient creatures. Nothing is more delectable to scythe trees than a kind-hearted gnome or an altruistic [dryad](/Monsters.aspx?ID=312) who believes that a scythe tree can be redeemed. The screams and whimpers of these victims are music to these cruel plants and add an extra dimension of flavor to the meal.\n\n Scythe trees are solitary creatures by nature, and their size and power mean that they don't need to compete for food with other carnivorous plants. Once food sources dwindle in an area, scythe trees move on to another location. When a scythe tree dwells in a location for many months or years, it leaves traces of its bark and roots in the soil. Over time, these blood-nourished fragments might grow into a new scythe tree, but the progenitor will most likely have already moved on to new hunting grounds long before the new scythe tree reaches maturity.\n\n Scythe trees appear as dead or dying deciduous trees with long, twisted branches that end in scythe-like blades. These carnivorous plants have dark-brown bark that is nearly black near the bottom of the trunk and rusty brown leaves that remain attached year-round. Scythe trees' disturbing mouths remain closed when not eating, appearing as a jagged gash on the trunk. When scythe trees deign to speak, their voices are rough, deep, and mocking, particularly when discussing arboreals, whom scythe trees universally find to be insufferable and worthy of little more than being hacked to pieces.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Plant](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/ScytheTree.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Scythe Tree](/Monsters.aspx?ID=797)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 235 <sup>2.0</sup></row>\n\n**Perception** +14; [lifesense 30 feet](/MonsterAbilities.aspx?ID=21), [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Arboreal](/Languages.aspx?ID=26), [Sylvan](/Languages.aspx?ID=10)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** +0\r\n\r\n**Wis** +2\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +17 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 105\n\n**Resistances**\r\nbludgeoning 5, piercing 5\n\n**Axe Vulnerability** A scythe tree takes 5 additional damage from [axes](/WeaponGroups.aspx?ID=1).<br />**Ripping Disarm** <actions string=\"Reaction\" /> **Trigger** A creature rolls a critical failure on a melee weapon Strike against the scythe tree; **Effect** The scythe tree attempts to [Disarm](/Actions.aspx?ID=41) the creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nscythe branch +18 ([Backswing](/Traits.aspx?ID=173), [deadly d10](/Traits.aspx?ID=174), [reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+9 slashing\n\n**Dead Tree** <actions string=\"Single Action\" /> ([Concentrate](/Traits.aspx?ID=32)) Until the scythe tree acts, it appears to be a dead tree. It has an automatic result of 35 on [Deception](/Skills.aspx?ID=5) checks and DCs to pass as a dead tree.\r\n\r\n**Woodland Ambush** <actions string=\"Single Action\" />  **Requirements** The scythe tree is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet; **Effect** The scythe tree Strides up to 25 feet toward the triggering creature. Once the creature is in reach, the scythe tree makes a scythe branch Strike against it. The creature is [flat-footed](/Conditions.aspx?ID=16) against this Strike.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Scythewood</title>\r\n\r\nWood harvested from a dead scythe tree is knotted and twisted, and often contains pockets of teeth and bones from long-digested meals embedded in the growth rings. While difficult to obtain and challenging to work with, this wood is sought out by necromancers, as it is a vital component in creating particularly potent necromantic wands and staves. A single scythe tree typically yields about 150 gp worth of viable scythewood for such endeavors\r\n</aside>",
+ "name": "Scythe Tree",
+ "npc": false,
+ "perception": 14,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "bludgeoning": 5,
+  "piercing": 5
+ },
+ "resistance_markdown": "bludgeoning 5, piercing 5",
+ "resistance_raw": "bludgeoning 5, piercing 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Plant\" url=\"/Traits.aspx?ID=125\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 235 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 105\r\n\r\n**AC** 24\r\n\r\n**Fort** +17\r\n\r\n**Ref** +8\r\n\r\n**Will** +9\r\n\r\n**Perception** +14\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMalevolent, vicious, and cruel, scythe trees pose as normal trees near deep forest paths, where they wait to slaughter passersby. Instead of drawing …\r\n</summary>",
+ "sense": " lifesense 30 feet ,  low-light vision ",
+ "sense_markdown": "[lifesense 30 feet](/MonsterAbilities.aspx?ID=21), [low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +15",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +15, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 235"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 235 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet",
+ "speed_raw": "15 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Malevolent, vicious, and cruel, scythe trees pose as normal trees near deep forest paths, where they wait to slaughter passersby. Instead of drawing …",
+ "summary_markdown": "Malevolent, vicious, and cruel, scythe trees pose as normal trees near deep forest paths, where they wait to slaughter passersby. Instead of drawing …",
+ "text": " Scythe Tree Malevolent, vicious, and cruel, scythe trees pose as normal trees near deep forest paths, where they wait to slaughter passersby. Instead of drawing sustenance from light and soil, scythe trees gorge themselves on the flesh, blood, and bone of sapient creatures. Nothing is more delectable to scythe trees than a kind-hearted gnome or an altruistic dryad who believes that a scythe tree can be redeemed. The screams and whimpers of these victims are music to these cruel plants and add an extra dimension of flavor to the meal. Scythe trees are solitary creatures by nature, and their size and power mean that they don't need to compete for food with other carnivorous plants. Once food sources dwindle in an area, scythe trees move on to another location. When a scythe tree dwells in a location for many months or years, it leaves traces of its bark and roots in the soil. Over time, these blood-nourished fragments might grow into a new scythe tree, but the progenitor will most likely have already moved on to new hunting grounds long before the new scythe tree reaches maturity. Scythe trees appear as dead or dying deciduous trees with long, twisted branches that end in scythe-like blades. These carnivorous plants have dark-brown bark that is nearly black near the bottom of the trunk and rusty brown leaves that remain attached year-round. Scythe trees' disturbing mouths remain closed when not eating, appearing as a jagged gash on the trunk. When scythe trees deign to speak, their voices are rough, deep, and mocking, particularly when discussing arboreals, whom scythe trees universally find to be insufferable and worthy of little more than being hacked to pieces. Recall Knowledge - Plant (Nature): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Scythe Tree Source Bestiary 2 pg. 235 2.0 Perception +14; lifesense 30 feet, low-light vision Languages Aklo, Arboreal, Sylvan Skills Athletics +15, Stealth +12 Str +7 Dex +2 Con +4 Int +0 Wis +2 Cha +0 --- AC 24 Fort +17 Ref +8 Will +9 HP 105 Resistances bludgeoning 5, piercing 5 Axe Vulnerability A scythe tree takes 5 additional damage from axes. Ripping Disarm Reaction Trigger A creature rolls a critical failure on a melee weapon Strike against the scythe tree; Effect The scythe tree attempts to Disarm the creature. --- Speed 15 feet Melee Single Action scythe branch +18 (Backswing, deadly d10, reach 15 feet), Damage 2d10+9 slashing Dead Tree Single Action (Concentrate) Until the scythe tree acts, it appears to be a dead tree. It has an automatic result of 35 on Deception checks and DCs to pass as a dead tree. Woodland Ambush Single Action Requirements The scythe tree is using Dead Tree in forested terrain, and a creature that hasn't detected it is within 30 feet; Effect The scythe tree Strides up to 25 feet toward the triggering creature. Once the creature is in reach, the scythe tree makes a scythe branch Strike against it. The creature is flat-footed against this Strike. Scythewood Wood harvested from a dead scythe tree is knotted and twisted, and often contains pockets of teeth and bones from long-digested meals embedded in the growth rings. While difficult to obtain and challenging to work with, this wood is sought out by necromancers, as it is a vital component in creating particularly potent necromantic wands and staves. A single scythe tree typically yields about 150 gp worth of viable scythewood for such endeavors ",
+ "trait": [
+  "Plant",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Plant](/Traits.aspx?ID=125)",
+ "trait_raw": [
+  "Plant"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=797",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 2
+}

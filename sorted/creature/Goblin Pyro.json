@@ -1,0 +1,102 @@
+{
+ "ac": 17,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 2,
+ "creature_ability": [
+  "Goblin Scuttle"
+ ],
+ "creature_family": "Goblin",
+ "creature_family_markdown": "[Goblin](/MonsterFamilies.aspx?ID=55)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 5,
+ "hp": 15,
+ "hp_raw": "15",
+ "id": "creature-234",
+ "image": [
+  "/Images/Monsters/Goblin_GoblinPyro.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Goblin"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6)",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Goblin Pyro](/Monsters.aspx?ID=234)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nSome goblins take their people’s admiration of fire fully into the realm of deadly obsession. These pyromaniacs can be a great boon to a band of goblin raiders eager to torch their enemies and wreak havoc. More often, however, their presence is a double-edged sword; in the heat of the moment, goblin pyros sometimes lose sight of their tribe’s goals and simply set fire to anything that will burn—including their own allies.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Humanoid](/Rules.aspx?ID=563)**\r\n([Society](/Skills.aspx?ID=14)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Goblin_GoblinPyro.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Goblin Pyro](/Monsters.aspx?ID=234)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 181</row>\n\n**Perception** +4; darkvision\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Goblin](/Languages.aspx?ID=6)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Fire Lore](/Skills.aspx?ID=8) +7, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +0\r\n\r\n**Wis** -1\r\n\r\n**Cha** +3\r\n</row>\n\n**Items**\r\n[Torch](/Equipment.aspx?ID=60)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 15\n\n**Goblin Scuttle** <actions string=\"Reaction\" /> **Trigger** A goblin ally ends a move action adjacent to the pyro. **Effect** The goblin pyro Steps.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntorch +7 ([Fire](/Traits.aspx?ID=72)),\r\n**Damage** 1d4 bludgeoning plus 1 fire\r\n\r\n**Arcane Spontaneous Spells** DC 16, attack +6\r\n- **Cantrips (1st)**\r\n[Light](/Spells.aspx?ID=171), [Mage Hand](/Spells.aspx?ID=177), [Produce Flame](/Spells.aspx?ID=236), [Tanglefoot](/Spells.aspx?ID=330)\r\n- **1st**\r\n[Burning Hands](/Spells.aspx?ID=30), [Grease](/Spells.aspx?ID=140) (3 slots)\n\n</column>\n\n<document level=\"2\" id=\"creature-family-55\" />",
+ "name": "Goblin Pyro",
+ "npc": false,
+ "perception": 4,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Goblin\" url=\"/Traits.aspx?ID=81\" />\r\n<trait label=\"Humanoid\" url=\"/Traits.aspx?ID=91\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 181</row>\r\n\r\n**Creature Family** [Goblin](/MonsterFamilies.aspx?ID=55)\r\n\r\n<row gap=\"medium\">\r\n**HP** 15\r\n\r\n**AC** 17\r\n\r\n**Fort** +5\r\n\r\n**Ref** +9\r\n\r\n**Will** +4\r\n\r\n**Perception** +4\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome goblins take their people’s admiration of fire fully into the realm of deadly obsession. These pyromaniacs can be a great boon to a band of …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Small"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Fire Lore +7",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Fire Lore](/Skills.aspx?ID=8) +7, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 181"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 181</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell": [
+  "Burning Hands",
+  "Grease",
+  "Light",
+  "Mage Hand",
+  "Produce Flame",
+  "Tanglefoot"
+ ],
+ "spell_markdown": "[Burning Hands](/Spells.aspx?ID=30), [Grease](/Spells.aspx?ID=140), [Light](/Spells.aspx?ID=171), [Mage Hand](/Spells.aspx?ID=177), [Produce Flame](/Spells.aspx?ID=236), [Tanglefoot](/Spells.aspx?ID=330)",
+ "stealth": "7",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Some goblins take their people’s admiration of fire fully into the realm of deadly obsession. These pyromaniacs can be a great boon to a band of …",
+ "summary_markdown": "Some goblins take their people’s admiration of fire fully into the realm of deadly obsession. These pyromaniacs can be a great boon to a band of …",
+ "text": " Goblin Pyro Some goblins take their people’s admiration of fire fully into the realm of deadly obsession. These pyromaniacs can be a great boon to a band of goblin raiders eager to torch their enemies and wreak havoc. More often, however, their presence is a double-edged sword; in the heat of the moment, goblin pyros sometimes lose sight of their tribe’s goals and simply set fire to anything that will burn—including their own allies. Recall Knowledge - Humanoid (Society): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Goblin Pyro Source Bestiary pg. 181 Perception +4; darkvision Languages Common, Goblin Skills Acrobatics +7, Fire Lore +7, Stealth +7 Str +0 Dex +4 Con +2 Int +0 Wis -1 Cha +3 Items Torch --- AC 17 Fort +5 Ref +9 Will +4 HP 15 Goblin Scuttle Reaction Trigger A goblin ally ends a move action adjacent to the pyro. Effect The goblin pyro Steps. --- Speed 25 feet Melee Single Action torch +7 (Fire), Damage 1d4 bludgeoning plus 1 fire Arcane Spontaneous Spells DC 16, attack +6 - Cantrips (1st) Light, Mage Hand, Produce Flame, Tanglefoot - 1st Burning Hands, Grease (3 slots)\n",
+ "trait": [
+  "Goblin",
+  "Humanoid",
+  "CE",
+  "Small"
+ ],
+ "trait_markdown": "[Goblin](/Traits.aspx?ID=81), [Humanoid](/Traits.aspx?ID=91)",
+ "trait_raw": [
+  "Goblin",
+  "Humanoid"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=234",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 4,
+ "wisdom": -1
+}

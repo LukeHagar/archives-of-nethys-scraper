@@ -1,0 +1,103 @@
+{
+ "ac": 33,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 7,
+ "creature_ability": [
+  "Voice Imitation",
+  "Attack of Opportunity",
+  "Mauling Rush",
+  "Sneak Attack",
+  "Tormented Snarl",
+  "Trackless Step"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 215,
+ "hp_raw": "215",
+ "id": "creature-1210",
+ "image": [
+  "/Images/Monsters/Kokogiak.png"
+ ],
+ "intelligence": 1,
+ "language": [
+  "Aquan",
+  "Common"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Kokogiak](/Monsters.aspx?ID=1210)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAs deadly on land as in the water, kokogiaks are one of the most feared predators of the tundra. From a distance they might be mistaken for a frightfully large [polar bear](/Monsters.aspx?ID=567), but anyone unfortunate enough to see one up close will notice the creature's six additional legs and disturbingly elongated neck before meeting an untimely end. These ursine monstrosities stalk their prey tirelessly across ice and snow; they're also powerful swimmers, lurking under the ice to burst up and ambush unsuspecting creatures on the surface or diving for a marine meal.\n\n As if numerous claws and a brutal bite weren't concerning enough, these nightmare-inducing creatures can be wickedly deceptive, luring their prey out in winter storms. The cunning kokogiak imitates the sounds of a creature in distress, deceiving its target into abandoning the safety of their shelter and embarking on an ill-fated rescue attempt. Those who live in arctic realms have learned to respond with caution upon hearing cries for help during a long winter night.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Beast](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Kokogiak.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Kokogiak](/Monsters.aspx?ID=1210)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 151</row>\n\n**Perception** +25; [darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14), [Common](/Languages.aspx?ID=1)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +27, [Deception](/Skills.aspx?ID=5) +23, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +21\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +5\r\n\r\n**Con** +7\r\n\r\n**Int** +1\r\n\r\n**Wis** +5\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Voice Imitation** Kokogiaks can mimic the sounds of a person in distress by attempting a [Deception](/Skills.aspx?ID=5) check to [Lie](/Actions.aspx?ID=47). The kokogiak has a +4 circumstance bonus to this check.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +21 \n\n</row>\r\n\r\n**HP** 215\n\n**Resistances**\r\ncold 15\n\n**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" />\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, swim 20 feet; trackless step\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +26 ([reach 20 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d10+10 piercing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +26 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d6+10 slashing\n\n**Mauling Rush** <actions string=\"Three Actions\" />  The kokogiak Strides up to its Speed. It can make up to four claw Strikes at any point during this movement, each against a different target. These attacks count toward the kokogiak's multiple attack penalty, but the multiple attack penalty doesn't increase until after the kokogiak makes all of its attacks.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The kokogiak's Strikes deal an additional 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Tormented Snarl** <actions string=\"Two Actions\" /> ([Auditory](/Traits.aspx?ID=16), [Illusion](/Traits.aspx?ID=92), [Mental](/Traits.aspx?ID=106), [Primal](/Traits.aspx?ID=134)) Using their voice imitation abilities, a kokogiak emits the horrific wails of its former victims. Each creature within 120 feet takes 4d6 mental damage and must attempt a DC 32 Will save. A creature [frightened](/Conditions.aspx?ID=19) by this ability is [flat-footed](/Conditions.aspx?ID=16) to the kokogiak. <br />**Critical Success** The creature is unaffected and is temporarily immune for 1 minute. <br />**Success** The creature takes half damage and becomes frightened 1. <br />**Failure** The creature takes full damage and becomes frightened 2. <br />**Critical Failure** The creature takes double damage, becomes frightened 3, and is [fleeing](/Conditions.aspx?ID=17) until the end of its next turn.\r\n\r\n**Trackless Step**   The kokogiak always gains the benefits of [Cover Tracks](/Actions.aspx?ID=65) in natural surroundings, even while moving at full speed.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_2_AdditionalLore.png\">Calls in the Night</title>\r\n\r\nLegends tell of a visiting merchant caravan whose guards began vanishing one by one; each night, another was lured outside, claiming to hear the calls of their missing companions. After three nights, the remaining guards banded together and set out to find a horrifying scene: a 10-legged bear with its white fur drenched in blood, its long neck extended toward them as it crooned in their lost companions' horrified voices. \r\n</aside>",
+ "name": "Kokogiak",
+ "npc": false,
+ "perception": 25,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 19,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "cold": 15
+ },
+ "resistance_markdown": "cold 15",
+ "resistance_raw": "cold 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 151</row>\n\n<row gap=\"medium\">\r\n**HP** 215\r\n\r\n**AC** 33\r\n\r\n**Fort** +25\r\n\r\n**Ref** +19\r\n\r\n**Will** +21\r\n\r\n**Perception** +25\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs deadly on land as in the water, kokogiaks are one of the most feared predators of the tundra. From a distance they might be mistaken for a …\r\n</summary>",
+ "sense": " darkvision ,  scent  (imprecise) 60 feet",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 60 feet",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +27",
+  "Deception +23",
+  "Stealth +21",
+  "Survival +21"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +27, [Deception](/Skills.aspx?ID=5) +23, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +21",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 151"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 151</row>",
+ "speed": {
+  "land": 40,
+  "max": 40,
+  "swim": 20
+ },
+ "speed_markdown": "40 feet, swim 20 feet; trackless step",
+ "speed_raw": "40 feet, swim 20 feet; trackless step",
+ "spell_markdown": "",
+ "stealth": "21",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "As deadly on land as in the water, kokogiaks are one of the most feared predators of the tundra. From a distance they might be mistaken for a …",
+ "summary_markdown": "As deadly on land as in the water, kokogiaks are one of the most feared predators of the tundra. From a distance they might be mistaken for a …",
+ "text": " Kokogiak As deadly on land as in the water, kokogiaks are one of the most feared predators of the tundra. From a distance they might be mistaken for a frightfully large polar bear, but anyone unfortunate enough to see one up close will notice the creature's six additional legs and disturbingly elongated neck before meeting an untimely end. These ursine monstrosities stalk their prey tirelessly across ice and snow; they're also powerful swimmers, lurking under the ice to burst up and ambush unsuspecting creatures on the surface or diving for a marine meal. As if numerous claws and a brutal bite weren't concerning enough, these nightmare-inducing creatures can be wickedly deceptive, luring their prey out in winter storms. The cunning kokogiak imitates the sounds of a creature in distress, deceiving its target into abandoning the safety of their shelter and embarking on an ill-fated rescue attempt. Those who live in arctic realms have learned to respond with caution upon hearing cries for help during a long winter night. Recall Knowledge - Beast (Arcana, Nature): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Kokogiak Source Bestiary 3 pg. 151 Perception +25; darkvision, scent (imprecise) 60 feet Languages Aquan, Common Skills Athletics +27, Deception +23, Stealth +21, Survival +21 Str +7 Dex +5 Con +7 Int +1 Wis +5 Cha +5 Voice Imitation Kokogiaks can mimic the sounds of a person in distress by attempting a Deception check to Lie. The kokogiak has a +4 circumstance bonus to this check. --- AC 33 Fort +25 Ref +19 Will +21 HP 215 Resistances cold 15 Attack of Opportunity Reaction --- Speed 40 feet, swim 20 feet; trackless step Melee Single Action jaws +26 (reach 20 feet), Damage 3d10+10 piercing Melee Single Action claw +26 (reach 15 feet), Damage 3d6+10 slashing Mauling Rush Three Actions The kokogiak Strides up to its Speed. It can make up to four claw Strikes at any point during this movement, each against a different target. These attacks count toward the kokogiak's multiple attack penalty, but the multiple attack penalty doesn't increase until after the kokogiak makes all of its attacks. Sneak Attack The kokogiak's Strikes deal an additional 2d6 precision damage to flat-footed creatures. Tormented Snarl Two Actions (Auditory, Illusion, Mental, Primal) Using their voice imitation abilities, a kokogiak emits the horrific wails of its former victims. Each creature within 120 feet takes 4d6 mental damage and must attempt a DC 32 Will save. A creature frightened by this ability is flat-footed to the kokogiak. Critical Success The creature is unaffected and is temporarily immune for 1 minute. Success The creature takes half damage and becomes frightened 1. Failure The creature takes full damage and becomes frightened 2. Critical Failure The creature takes double damage, becomes frightened 3, and is fleeing until the end of its next turn. Trackless Step The kokogiak always gains the benefits of Cover Tracks in natural surroundings, even while moving at full speed. Calls in the Night Legends tell of a visiting merchant caravan whose guards began vanishing one by one; each night, another was lured outside, claiming to hear the calls of their missing companions. After three nights, the remaining guards banded together and set out to find a horrifying scene: a 10-legged bear with its white fur drenched in blood, its long neck extended toward them as it crooned in their lost companions' horrified voices. ",
+ "trait": [
+  "Beast",
+  "NE",
+  "Huge"
+ ],
+ "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+ "trait_raw": [
+  "Beast"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1210",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 21,
+ "wisdom": 5
+}

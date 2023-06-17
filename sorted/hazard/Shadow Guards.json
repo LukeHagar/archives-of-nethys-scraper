@@ -1,0 +1,63 @@
+{
+ "ac": 18,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 16  Acrobatics  to move through the room without touching any of the runes, followed by DC 18  Thievery  (trained) to carve them out of the wood without triggering them; or   dispel magic   (1st level; counteract DC 16) to counteract the runes",
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hardness": 8,
+ "hardness_raw": "8",
+ "hazard_type": "Trap",
+ "hp": 32,
+ "hp_raw": "32",
+ "id": "hazard-354",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 2,
+ "markdown": "<title level=\"1\" right=\"Hazard 2\" pfs=\"\">[Shadow Guards](/Hazards.aspx?ID=354)</title>\r\n\r\n<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 38</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nShadowy caricatures of elves peel themselves from the foor and attack everyone in the room.\r\n\r\n---\r\n\r\n**Stealth**\r\n+11 (trained) to notice the runes concealed among the drawings\r\n\r\n**Disable**\r\nDC 16 [Acrobatics](/Skills.aspx?ID=1) to move through the room without touching any of the runes, followed by DC 18 [Thievery](/Skills.aspx?ID=17) (trained) to carve them out of the wood without triggering them; or [_dispel magic_](/Spells.aspx?ID=78) (1st level; counteract DC 16) to counteract the runes\n\n<column gap=\"tiny\">\r\n\r\n**AC** 18, **Fort** +11, **Ref** +11\r\n\r\n**Hardness**\r\n8\r\n\r\n**HP**\r\n32\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Shadow Rush** <actions string=\"Reaction\" /> **Trigger** A creature enters the room; **Effect** After waiting 1 round, the trap animates its shadowy stick figures and makes a painted spear Strike against each creature in the room. The trap rolls initiative.\n\n---\r\n**Routine**\r\nRoutine (1 action) The drawings stab at each character in the room with spears drawn from sharp lines.<br /> Melee <actions string=\"Single Action\" /> painted spear +11, Damage 1d10+4 piercing\r\n\r\n---\r\n**Reset**\r\nThe trap deactivates and resets after 1 minute. The drawings cannot pursue characters out of the room.",
+ "name": "Shadow Guards",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2023-01-25",
+ "reset": "The trap deactivates and resets after 1 minute. The drawings cannot pursue characters out of the room.",
+ "resistance": {},
+ "school": "evocation",
+ "search_markdown": "<traits>\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 38</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShadowy caricatures of elves peel themselves from the foor and attack everyone in the room.\r\n</summary>",
+ "source": [
+  "Pathfinder #187: The Seventh Arch"
+ ],
+ "source_raw": [
+  "Pathfinder #187: The Seventh Arch pg. 38"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Gatewalkers",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #187: The Seventh Arch](/Sources.aspx?ID=192) pg. 38</row>",
+ "speed": {},
+ "stealth": "+11 (trained) to notice the runes concealed among the drawings",
+ "summary": "Shadowy caricatures of elves peel themselves from the foor and attack everyone in the room.",
+ "summary_markdown": "Shadowy caricatures of elves peel themselves from the foor and attack everyone in the room.",
+ "text": " Shadow Guards Source Pathfinder #187: The Seventh Arch pg. 38 Complexity Complex Shadowy caricatures of elves peel themselves from the foor and attack everyone in the room. --- Stealth +11 (trained) to notice the runes concealed among the drawings Disable DC 16 Acrobatics to move through the room without touching any of the runes, followed by DC 18 Thievery (trained) to carve them out of the wood without triggering them; or dispel magic (1st level; counteract DC 16) to counteract the runes AC 18, Fort +11, Ref +11 Hardness 8 HP 32 Immunities critical hits, object immunities, precision damage Shadow Rush Reaction Trigger A creature enters the room; Effect After waiting 1 round, the trap animates its shadowy stick figures and makes a painted spear Strike against each creature in the room. The trap rolls initiative. --- Routine Routine (1 action) The drawings stab at each character in the room with spears drawn from sharp lines. Melee Single Action painted spear +11, Damage 1d10+4 piercing --- Reset The trap deactivates and resets after 1 minute. The drawings cannot pursue characters out of the room.",
+ "trait": [
+  "Complex",
+  "Evocation",
+  "Magical",
+  "Shadow",
+  "Trap"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [Shadow](/Traits.aspx?ID=143), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Complex",
+  "Evocation",
+  "Magical",
+  "Shadow",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=354",
+ "weakness": {}
+}

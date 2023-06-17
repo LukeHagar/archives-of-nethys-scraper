@@ -1,0 +1,97 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 1,
+ "creature_ability": [
+  "Blue-Ringed Octopus Venom",
+  "Camouflage",
+  "Jet",
+  "Toxic Bite"
+ ],
+ "creature_family": "Octopus",
+ "creature_family_markdown": "[Octopus](/MonsterFamilies.aspx?ID=143)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 3,
+ "hp": 15,
+ "hp_raw": "15",
+ "id": "creature-744",
+ "image": [
+  "/Images/Monsters/Octopus_BlueringOctopus.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 0,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Blue-Ringed Octopus](/Monsters.aspx?ID=744)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nWhile relatively small, the blue-ringed octopus is particularly venomous for its size.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 14\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 12\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 9\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Octopus_BlueringOctopus.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 0\">[Blue-Ringed Octopus](/Monsters.aspx?ID=744)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Tiny\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 187 <sup>2.0</sup></row>\n\n**Perception** +6; [low-light vision](/MonsterAbilities.aspx?ID=23)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +6, [Stealth](/Skills.aspx?ID=15) +7\r\n\r\n<row gap=\"medium\">\r\n**Str** +0\r\n\r\n**Dex** +3\r\n\r\n**Con** +1\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +3 \r\n\r\n**Ref** +9 \r\n\r\n**Will** +6 \n\n</row>\r\n\r\n**HP** 15\n\n**Resistances**\r\ncold 2\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** swim 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nbeak +7 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 1d6 piercing plus blue-ringed octopus venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\narms +6,\r\n**Damage** [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Blue-Ringed Octopus Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 17 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d4 poison damage (1 round); **Stage 2** 1d6 poison damage (1 round); **Stage 3** 1d6 poison damage and [paralyzed](/Conditions.aspx?ID=28) (1 round)\r\n\r\n**Camouflage**   The blue-ringed octopus can change the color of its skin to [Hide](/Actions.aspx?ID=62) even if it doesn't have cover.\r\n\r\n**Jet** <actions string=\"Two Actions\" />  The blue-ringed octopus moves up to 60 feet in a straight line through the water without triggering reactions.\r\n\r\n**Toxic Bite** <actions string=\"Single Action\" />  **Requirements** The blue-ringed octopus has a creature [grabbed](/Conditions.aspx?ID=20); **Effect** The blue-ringed octopus makes a beak Strike against the grabbed creature. If it hits, it injects additional poison, causing its venom to gain the [virulent](/Traits.aspx?ID=162) trait.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-143\" />",
+ "name": "Blue-Ringed Octopus",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 9,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "cold": 2
+ },
+ "resistance_markdown": "cold 2",
+ "resistance_raw": "cold 2",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Aquatic\" url=\"/Traits.aspx?ID=168\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 187 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Octopus](/MonsterFamilies.aspx?ID=143)\r\n\r\n<row gap=\"medium\">\r\n**HP** 15\r\n\r\n**AC** 16\r\n\r\n**Fort** +3\r\n\r\n**Ref** +9\r\n\r\n**Will** +6\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile relatively small, the blue-ringed octopus is particularly venomous for its size.\r\n</summary>",
+ "sense": " low-light vision ",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23)",
+ "size": [
+  "Tiny"
+ ],
+ "skill": [
+  "Athletics +6",
+  "Stealth +7"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +6, [Stealth](/Skills.aspx?ID=15) +7",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 187"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 187 <sup>2.0</sup></row>",
+ "speed": {
+  "max": 25,
+  "swim": 25
+ },
+ "speed_markdown": "swim 25 feet",
+ "speed_raw": "swim 25 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": 0,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "While relatively small, the blue-ringed octopus is particularly venomous for its size.",
+ "summary_markdown": "While relatively small, the blue-ringed octopus is particularly venomous for its size.",
+ "text": " Blue-Ringed Octopus While relatively small, the blue-ringed octopus is particularly venomous for its size. Recall Knowledge - Animal (Nature): DC 14 Unspecific Lore : DC 12 Specific Lore : DC 9 Blue-Ringed Octopus Source Bestiary 2 pg. 187 2.0 Perception +6; low-light vision Languages Skills Athletics +6, Stealth +7 Str +0 Dex +3 Con +1 Int -4 Wis +3 Cha +0 --- AC 16 Fort +3 Ref +9 Will +6 HP 15 Resistances cold 2 --- Speed swim 25 feet Melee Single Action beak +7 (Finesse), Damage 1d6 piercing plus blue-ringed octopus venom Melee Single Action arms +6, Damage Grab Blue-Ringed Octopus Venom (Poison) Saving Throw DC 17 Fortitude; Maximum Duration 6 rounds; Stage 1 1d4 poison damage (1 round); Stage 2 1d6 poison damage (1 round); Stage 3 1d6 poison damage and paralyzed (1 round) Camouflage The blue-ringed octopus can change the color of its skin to Hide even if it doesn't have cover. Jet Two Actions The blue-ringed octopus moves up to 60 feet in a straight line through the water without triggering reactions. Toxic Bite Single Action Requirements The blue-ringed octopus has a creature grabbed; Effect The blue-ringed octopus makes a beak Strike against the grabbed creature. If it hits, it injects additional poison, causing its venom to gain the virulent trait. ",
+ "trait": [
+  "Animal",
+  "Aquatic",
+  "N",
+  "Tiny"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Aquatic](/Traits.aspx?ID=168)",
+ "trait_raw": [
+  "Animal",
+  "Aquatic"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=744",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 6,
+ "wisdom": 3
+}

@@ -1,0 +1,98 @@
+{
+ "ac": 22,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Pus Burst",
+  "Mark Quarry"
+ ],
+ "creature_family": "Crawling Hand",
+ "creature_family_markdown": "[Crawling Hand](/MonsterFamilies.aspx?ID=130)",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 75,
+ "hp_raw": "75 ( negative healing )",
+ "id": "creature-590",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious",
+  "visual"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)",
+ "intelligence": -4,
+ "language": [
+  "Common",
+  "can't speak any language"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1); can't speak any language",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Giant Crawling Hand](/Monsters.aspx?ID=590)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nA giant crawling hand is the appendage of a very large creature, such as a giant.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Giant Crawling Hand](/Monsters.aspx?ID=590)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 56 <sup>2.0</sup></row>\n\n**Perception** +12; [lifesense 30 feet](/MonsterAbilities.aspx?ID=21), [tremorsense (imprecise) 30 feet](/MonsterAbilities.aspx?ID=40)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1); can't speak any language\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 75\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38), [visual](/Traits.aspx?ID=163)\n\n**Pus Burst** <actions string=\"Reaction\" /> **Trigger** The giant crawling hand takes piercing or slashing damage; **Effect** A random creature adjacent to the giant crawling hand is sprayed with vile pus that deals 4d6 negative damage. The affected creature must attempt a DC 21 Reflex save. <br />**Critical Success** The creature takes no damage. <br />**Success** The creature takes half damage and becomes [sickened 1](/Conditions.aspx?ID=34). <br />**Failure** The creature takes full damage and becomes sickened 2. <br />**Critical Failure** The creature takes double damage and becomes sickened 3.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +15,\r\n**Damage** 2d6+7 slashing plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**Mark Quarry**   A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it [Seeks](/Actions.aspx?ID=84) its quarry, to [Survival](/Skills.aspx?ID=16) checks when it [Tracks](/Actions.aspx?ID=66) its quarry, and damage rolls when it Strikes its quarry.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-130\" />",
+ "name": "Giant Crawling Hand",
+ "npc": false,
+ "perception": 12,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 56 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Crawling Hand](/MonsterFamilies.aspx?ID=130)\r\n\r\n<row gap=\"medium\">\r\n**HP** 75 ( negative healing )\r\n\r\n**AC** 22\r\n\r\n**Fort** +13\r\n\r\n**Ref** +11\r\n\r\n**Will** +10\r\n\r\n**Perception** +12\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA giant crawling hand is the appendage of a very large creature, such as a giant.\r\n</summary>",
+ "sense": " lifesense 30 feet ,  tremorsense (imprecise) 30 feet ",
+ "sense_markdown": "[lifesense 30 feet](/MonsterAbilities.aspx?ID=21), [tremorsense (imprecise) 30 feet](/MonsterAbilities.aspx?ID=40)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +13",
+  "Stealth +11",
+  "Survival +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +13, [Stealth](/Skills.aspx?ID=15) +11, [Survival](/Skills.aspx?ID=16) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 56"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 56 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 20,
+  "max": 20
+ },
+ "speed_markdown": "20 feet",
+ "speed_raw": "20 feet",
+ "spell_markdown": "",
+ "stealth": "11",
+ "strength": 4,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "A giant crawling hand is the appendage of a very large creature, such as a giant.",
+ "summary_markdown": "A giant crawling hand is the appendage of a very large creature, such as a giant.",
+ "text": " Giant Crawling Hand A giant crawling hand is the appendage of a very large creature, such as a giant. Recall Knowledge - Undead (Religion): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Giant Crawling Hand Source Bestiary 2 pg. 56 2.0 Perception +12; lifesense 30 feet, tremorsense (imprecise) 30 feet Languages Common; can't speak any language Skills Athletics +13, Stealth +11, Survival +12 Str +4 Dex +2 Con +4 Int -4 Wis +3 Cha +0 --- AC 22 Fort +13 Ref +11 Will +10 HP 75 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious, visual Pus Burst Reaction Trigger The giant crawling hand takes piercing or slashing damage; Effect A random creature adjacent to the giant crawling hand is sprayed with vile pus that deals 4d6 negative damage. The affected creature must attempt a DC 21 Reflex save. Critical Success The creature takes no damage. Success The creature takes half damage and becomes sickened 1. Failure The creature takes full damage and becomes sickened 2. Critical Failure The creature takes double damage and becomes sickened 3. --- Speed 20 feet Melee Single Action claw +15, Damage 2d6+7 slashing plus Grab Mark Quarry A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to Perception checks when it Seeks its quarry, to Survival checks when it Tracks its quarry, and damage rolls when it Strikes its quarry. ",
+ "trait": [
+  "Undead",
+  "NE",
+  "Medium"
+ ],
+ "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=590",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 3
+}

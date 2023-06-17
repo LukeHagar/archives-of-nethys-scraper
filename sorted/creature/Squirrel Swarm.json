@@ -1,0 +1,103 @@
+{
+ "ac": 16,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Nibble",
+  "Scrabbling Swarm"
+ ],
+ "creature_family": "Squirrel",
+ "creature_family_markdown": "[Squirrel](/MonsterFamilies.aspx?ID=265)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 5,
+ "hp": 16,
+ "hp_raw": "16",
+ "id": "creature-1325",
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, [swarm mind](/MonsterAbilities.aspx?ID=36)",
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 1,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Squirrel Swarm](/Monsters.aspx?ID=1325)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDescending with a shriek, a swarm of squirrels is a menace to foes, crawling in and out of pockets and clothing, biting and scratching as it goes. Though squirrels are usually independent, they might form into swarms when cornered or if a predator creates enough of a recurring threat that the little creatures need to gang up.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 15\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 13\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 10\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 1\">[Squirrel Swarm](/Monsters.aspx?ID=1325)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 257</row>\n\n**Perception** +6; [low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +7, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +4\r\n\r\n<row gap=\"medium\">\r\n**Str** -1\r\n\r\n**Dex** +3\r\n\r\n**Con** +2\r\n\r\n**Int** -4\r\n\r\n**Wis** +1\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16 \r\n\r\n**Fort** +5 \r\n\r\n**Ref** +8 \r\n\r\n**Will** +4 \n\n</row>\r\n\r\n**HP** 16\n\n**Immunities**\r\nprecision, [swarm mind](/MonsterAbilities.aspx?ID=36)\r\n\r\n**Resistances**\r\npiercing 3, slashing 3\r\n\r\n**Weaknesses**\r\narea damage 3, [splash](/Traits.aspx?ID=150) damage 3\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, climb 15 feet\n\n**Nibble** <actions string=\"Single Action\" />  Each enemy in the squirrel swarm's space takes 1d6 piercing damage (DC 15 [basic](/Rules.aspx?ID=329) Reflex save).\r\n\r\n**Scrabbling Swarm** <actions string=\"Single Action\" />  The squirrels clamber over the creatures in their space. Each such creature must succeed at a DC 17 Reflex save or become [clumsy 1](/Conditions.aspx?ID=3) as long as it remains in the swarm's space.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-265\" />",
+ "name": "Squirrel Swarm",
+ "npc": false,
+ "perception": 6,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 8,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "piercing": 3,
+  "slashing": 3
+ },
+ "resistance_markdown": "piercing 3, slashing 3",
+ "resistance_raw": "piercing 3, slashing 3",
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 257</row>\r\n\r\n**Creature Family** [Squirrel](/MonsterFamilies.aspx?ID=265)\r\n\r\n<row gap=\"medium\">\r\n**HP** 16\r\n\r\n**AC** 16\r\n\r\n**Fort** +5\r\n\r\n**Ref** +8\r\n\r\n**Will** +4\r\n\r\n**Perception** +6\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDescending with a shriek, a swarm of squirrels is a menace to foes, crawling in and out of pockets and clothing, biting and scratching as it goes. …\r\n</summary>",
+ "sense": " low-light vision ,  scent  (imprecise) 30 feet",
+ "sense_markdown": "[low-light vision](/MonsterAbilities.aspx?ID=23), [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +7",
+  "Stealth +7",
+  "Survival +4"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +7, [Stealth](/Skills.aspx?ID=15) +7, [Survival](/Skills.aspx?ID=16) +4",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 257"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 257</row>",
+ "speed": {
+  "climb": 15,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, climb 15 feet",
+ "speed_raw": "25 feet, climb 15 feet",
+ "spell_markdown": "",
+ "stealth": "7",
+ "strength": -1,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Descending with a shriek, a swarm of squirrels is a menace to foes, crawling in and out of pockets and clothing, biting and scratching as it goes. …",
+ "summary_markdown": "Descending with a shriek, a swarm of squirrels is a menace to foes, crawling in and out of pockets and clothing, biting and scratching as it goes. …",
+ "text": " Squirrel Swarm Descending with a shriek, a swarm of squirrels is a menace to foes, crawling in and out of pockets and clothing, biting and scratching as it goes. Though squirrels are usually independent, they might form into swarms when cornered or if a predator creates enough of a recurring threat that the little creatures need to gang up. Recall Knowledge - Animal (Nature): DC 15 Unspecific Lore : DC 13 Specific Lore : DC 10 Squirrel Swarm Source Bestiary 3 pg. 257 Perception +6; low-light vision, scent (imprecise) 30 feet Languages Skills Acrobatics +7, Stealth +7, Survival +4 Str -1 Dex +3 Con +2 Int -4 Wis +1 Cha +0 --- AC 16 Fort +5 Ref +8 Will +4 HP 16 Immunities precision, swarm mind Resistances piercing 3, slashing 3 Weaknesses area damage 3, splash damage 3 --- Speed 25 feet, climb 15 feet Nibble Single Action Each enemy in the squirrel swarm's space takes 1d6 piercing damage (DC 15 basic Reflex save). Scrabbling Swarm Single Action The squirrels clamber over the creatures in their space. Each such creature must succeed at a DC 17 Reflex save or become clumsy 1 as long as it remains in the swarm's space. ",
+ "trait": [
+  "Animal",
+  "Swarm",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9), [Swarm](/Traits.aspx?ID=239)",
+ "trait_raw": [
+  "Animal",
+  "Swarm"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1325",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 3
+ },
+ "weakness_markdown": "area damage 3, [splash](/Traits.aspx?ID=150) damage 3",
+ "weakness_raw": "area damage 3,  splash  damage 3",
+ "will_save": 4,
+ "wisdom": 1
+}

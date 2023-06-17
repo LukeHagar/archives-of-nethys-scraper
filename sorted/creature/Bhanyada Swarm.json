@@ -1,0 +1,113 @@
+{
+ "ac": 30,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 6,
+ "creature_ability": [
+  "Extraneous Flesh",
+  "Odor of Rot",
+  "Swarming Bites"
+ ],
+ "creature_family": "Bhanyada",
+ "creature_family_markdown": "[Bhanyada](/MonsterFamilies.aspx?ID=335)",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 175,
+ "hp_raw": "175",
+ "id": "creature-2517",
+ "immunity": [
+  "precision",
+  "swarm mind"
+ ],
+ "immunity_markdown": "precision, [swarm mind](/MonsterAbilities.aspx?ID=36)",
+ "intelligence": -1,
+ "language": [
+  "Aklo",
+  "(can't speak any language)"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); (can't speak any language)",
+ "level": 11,
+ "markdown": "<title level=\"1\" pfs=\"\">[Bhanyada Swarm](/Monsters.aspx?ID=2517)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nBhanyadas without much cohesion between their fleshy components roil around one another in a ghastly swarm of malodorous gobs of flesh.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 11\">[Bhanyada Swarm](/Monsters.aspx?ID=2517)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #190: The Choosing](/Sources.aspx?ID=198) pg. 85</row>\n\n**Perception** +20; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); (can't speak any language)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +22, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +18\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +5\r\n\r\n**Con** +6\r\n\r\n**Int** -1\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 [all-around vision](/MonsterAbilities.aspx?ID=1)\r\n\r\n**Fort** +21 \r\n\r\n**Ref** +22 \r\n\r\n**Will** +18 \n\n</row>\r\n\r\n**HP** 175\n\n**Immunities**\r\nprecision, [swarm mind](/MonsterAbilities.aspx?ID=36)\r\n\r\n**Resistances**\r\nphysical 10\r\n\r\n**Weaknesses**\r\narea damage 10, [splash](/Traits.aspx?ID=150) damage 10\r\n\r\n**Extraneous Flesh** <actions string=\"Free Action\" /> **Frequency** three times per day; **Trigger** A Strike scores a critical hit on the bhanyada swarm; **Effect** A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada swarm attempts a DC 11 flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as [critical specialization effects](/Rules.aspx?ID=235)).<br />**Odor of Rot** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 10 feet. Creatures other than [aberration](/Traits.aspx?ID=1) that enter or start their turn in the bhanyada's aura must succeed at a DC 27 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (sickened 2 on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, burrow 20 feet\n\n**Swarming Bites** <actions string=\"Single Action\" />  Each enemy in the bhanyada swarm's space takes 2d6 bludgeoning damage (DC 30 [basic](/Rules.aspx?ID=329) Reflex save). On a failed save, a creature is also [slowed 1](/Conditions.aspx?ID=35) for 1 round.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-335\" />",
+ "name": "Bhanyada Swarm",
+ "npc": false,
+ "perception": 20,
+ "rarity": "uncommon",
+ "reflex_save": 22,
+ "release_date": "2023-04-26",
+ "resistance": {
+  "bludgeoning": 10,
+  "physical": 10,
+  "piercing": 10,
+  "slashing": 10
+ },
+ "resistance_markdown": "physical 10",
+ "resistance_raw": "physical 10",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Swarm\" url=\"/Traits.aspx?ID=239\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #190: The Choosing](/Sources.aspx?ID=198) pg. 85</row>\r\n\r\n**Creature Family** [Bhanyada](/MonsterFamilies.aspx?ID=335)\r\n\r\n<row gap=\"medium\">\r\n**HP** 175\r\n\r\n**AC** 30\r\n\r\n**Fort** +21\r\n\r\n**Ref** +22\r\n\r\n**Will** +18\r\n\r\n**Perception** +20\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBhanyadas without much cohesion between their fleshy components roil around one another in a ghastly swarm of malodorous gobs of flesh.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +22",
+  "Stealth +22",
+  "Survival +18"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +22, [Stealth](/Skills.aspx?ID=15) +22, [Survival](/Skills.aspx?ID=16) +18",
+ "source": [
+  "Pathfinder #190: The Choosing"
+ ],
+ "source_raw": [
+  "Pathfinder #190: The Choosing pg. 85"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Stolen Fate",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #190: The Choosing](/Sources.aspx?ID=198) pg. 85</row>",
+ "speed": {
+  "burrow": 20,
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet, burrow 20 feet",
+ "speed_raw": "25 feet, burrow 20 feet",
+ "spell_markdown": "",
+ "spoilers": "Stolen Fate",
+ "stealth": "22",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Bhanyadas without much cohesion between their fleshy components roil around one another in a ghastly swarm of malodorous gobs of flesh.",
+ "summary_markdown": "Bhanyadas without much cohesion between their fleshy components roil around one another in a ghastly swarm of malodorous gobs of flesh.",
+ "text": " Bhanyada Swarm Bhanyadas without much cohesion between their fleshy components roil around one another in a ghastly swarm of malodorous gobs of flesh. Recall Knowledge - Aberration (Occultism): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Bhanyada Swarm Source Pathfinder #190: The Choosing pg. 85 Perception +20; darkvision Languages Aklo; (can't speak any language) Skills Acrobatics +22, Stealth +22, Survival +18 Str +4 Dex +5 Con +6 Int -1 Wis +3 Cha +0 --- AC 30 all-around vision Fort +21 Ref +22 Will +18 HP 175 Immunities precision, swarm mind Resistances physical 10 Weaknesses area damage 10, splash damage 10 Extraneous Flesh Free Action Frequency three times per day; Trigger A Strike scores a critical hit on the bhanyada swarm; Effect A critical hit might simply sever a component chunk that the bhanyada can lose without much harm. The bhanyada swarm attempts a DC 11 flat check. On a success, it doesn't take any extra damage from the critical hit (although it takes other effects normally, such as critical specialization effects). Odor of Rot (aura, olfactory) 10 feet. Creatures other than aberration that enter or start their turn in the bhanyada's aura must succeed at a DC 27 Fortitude save or become sickened 1 (sickened 2 on a critical failure). A creature that succeeds at its save is temporarily immune for 1 minute. --- Speed 25 feet, burrow 20 feet Swarming Bites Single Action Each enemy in the bhanyada swarm's space takes 2d6 bludgeoning damage (DC 30 basic Reflex save). On a failed save, a creature is also slowed 1 for 1 round. ",
+ "trait": [
+  "Aberration",
+  "Swarm",
+  "Uncommon",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Swarm](/Traits.aspx?ID=239), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Swarm",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2517",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "area": 10
+ },
+ "weakness_markdown": "area damage 10, [splash](/Traits.aspx?ID=150) damage 10",
+ "weakness_raw": "area damage 10,  splash  damage 10",
+ "will_save": 18,
+ "wisdom": 3
+}

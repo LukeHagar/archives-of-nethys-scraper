@@ -1,0 +1,61 @@
+{
+ "ac": 18,
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Complex",
+ "disable": "DC 18  Thievery  to unhook the pressure plates from the trap, or   dispel magic   (2nd level,  counteract  DC 18) to counteract the trap",
+ "exclude_from_search": false,
+ "fortitude_save": 11,
+ "hardness": 8,
+ "hardness_raw": "8",
+ "hazard_type": "Trap",
+ "hp": 30,
+ "hp_raw": "30 (BT 15)",
+ "id": "hazard-247",
+ "immunity": [
+  "critical hits",
+  "object immunities",
+  "precision damage"
+ ],
+ "immunity_markdown": "critical hits, object immunities, precision damage",
+ "level": 2,
+ "markdown": "<title level=\"1\" right=\"Hazard 2\" pfs=\"\">[Lodestone Trap](/Hazards.aspx?ID=247)</title>\r\n\r\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 46</row>\n\n**Complexity** Complex\r\n\r\n</column>\r\n\r\nThe magical lodestone discharges bolts of electricity that also magnetize metal in the room.\r\n\r\n---\r\n\r\n**Stealth**\r\n+8\r\n\r\n**Disable**\r\nDC 18 [Thievery](/Skills.aspx?ID=17) to unhook the pressure plates from the trap, or [_dispel magic_](/Spells.aspx?ID=78) (2nd level, [counteract](/Rules.aspx?ID=371) DC 18) to counteract the trap\n\n<column gap=\"tiny\">\r\n\r\n**AC** 18, **Fort** +11, **Ref** +5\r\n\r\n**Hardness**\r\n8\r\n\r\n**HP**\r\n30 (BT 15)\r\n\r\n**Immunities**\r\ncritical hits, object immunities, precision damage\n\n</column>\r\n\r\n**Magneto-Electric Pulse** <actions string=\"Reaction\" /> **Trigger** A single Medium or two or more Small creatures end their turn inside the room. **Effect** A pulse of electricity discharges from the lodestone to strike all four doors, with smaller arcs of electricity lancing out to strike all creatures in the room. The south and east doors slam shut, while the north and west doors fly open, releasing two [vargouilles](/Monsters.aspx?ID=2186) into the room. All creatures in the room take 2d6 electricity damage (DC 18 [basic](/Rules.aspx?ID=329) Reflex save). The trap then rolls initiative.\n\n---\r\n**Routine**\r\n(1 action) On its initiative, the trap exerts a strong magnetic pull on the doors, causing the north and west doors to open if they're closed, or causing the south and east doors to close if they're open. A character can open or close a door against this pull with a successful DC 18 [Athletics](/Skills.aspx?ID=3) check to [Force Open](/Actions.aspx?ID=34) the door. At the same time, any character in the room who wears primarily metal armor must attempt a DC 18 Reflex save (characters in medium metal armor suffer a –1 circumstance penalty to this save, and characters in heavy metal armor suffer a –2 circumstance penalty). <br />**Critical Success** The PC is unaffected. <br />**Success** The PC resists the pull but treats the room as difficult terrain. <br />**Failure** The PC treats the room as difficult terrain and is knocked [prone](/Conditions.aspx?ID=31). A PC who's already prone suffers a critical failure instead. <br />**Critical Failure** As failure, but the PC is also [pulled](/Rules.aspx?ID=451) 5 feet toward the lodestone. A PC who is adjacent to the lodestone instead becomes stuck to it and is [restrained](/Conditions.aspx?ID=33) as long as the trap continues its routine ([Escape](/Actions.aspx?ID=79) DC 18).\r\n\r\n---\r\n**Reset**\r\nAt the end of a round in which there are no creatures standing on the floor or stuck to the lodestone, the trap deactivates. The vargouilles return to their alcoves, and the doors close. The trap resets automatically after 1 minute.",
+ "name": "Lodestone Trap",
+ "rarity": "unique",
+ "reflex_save": 5,
+ "release_date": "2022-10-26",
+ "reset": "At the end of a round in which there are no creatures standing on the floor or stuck to the lodestone, the trap deactivates. The vargouilles return to their alcoves, and the doors close. The trap resets automatically after 1 minute.",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Complex\" url=\"/Traits.aspx?ID=30\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Crown of the Kobold King](/Sources.aspx?ID=148) pg. 46</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe magical lodestone discharges bolts of electricity that also magnetize metal in the room.\r\n</summary>",
+ "source": [
+  "Crown of the Kobold King"
+ ],
+ "source_raw": [
+  "Crown of the Kobold King pg. 46"
+ ],
+ "source_category": "Adventures",
+ "source_group": "Crown of the Kobold King",
+ "source_markdown": "<row gap=\"tiny\">[Crown of the Kobold King](/Sources.aspx?ID=148) pg. 46</row>",
+ "speed": {},
+ "spoilers": "Crown of the Kobold King",
+ "stealth": "+8",
+ "summary": "The magical lodestone discharges bolts of electricity that also magnetize metal in the room.",
+ "summary_markdown": "The magical lodestone discharges bolts of electricity that also magnetize metal in the room.",
+ "text": " Lodestone Trap Source Crown of the Kobold King pg. 46 Complexity Complex The magical lodestone discharges bolts of electricity that also magnetize metal in the room. --- Stealth +8 Disable DC 18 Thievery to unhook the pressure plates from the trap, or dispel magic (2nd level, counteract DC 18) to counteract the trap AC 18, Fort +11, Ref +5 Hardness 8 HP 30 (BT 15) Immunities critical hits, object immunities, precision damage Magneto-Electric Pulse Reaction Trigger A single Medium or two or more Small creatures end their turn inside the room. Effect A pulse of electricity discharges from the lodestone to strike all four doors, with smaller arcs of electricity lancing out to strike all creatures in the room. The south and east doors slam shut, while the north and west doors fly open, releasing two vargouilles into the room. All creatures in the room take 2d6 electricity damage (DC 18 basic Reflex save). The trap then rolls initiative. --- Routine (1 action) On its initiative, the trap exerts a strong magnetic pull on the doors, causing the north and west doors to open if they're closed, or causing the south and east doors to close if they're open. A character can open or close a door against this pull with a successful DC 18 Athletics check to Force Open the door. At the same time, any character in the room who wears primarily metal armor must attempt a DC 18 Reflex save (characters in medium metal armor suffer a –1 circumstance penalty to this save, and characters in heavy metal armor suffer a –2 circumstance penalty). Critical Success The PC is unaffected. Success The PC resists the pull but treats the room as difficult terrain. Failure The PC treats the room as difficult terrain and is knocked prone. A PC who's already prone suffers a critical failure instead. Critical Failure As failure, but the PC is also pulled 5 feet toward the lodestone. A PC who is adjacent to the lodestone instead becomes stuck to it and is restrained as long as the trap continues its routine (Escape DC 18). --- Reset At the end of a round in which there are no creatures standing on the floor or stuck to the lodestone, the trap deactivates. The vargouilles return to their alcoves, and the doors close. The trap resets automatically after 1 minute.",
+ "trait": [
+  "Complex",
+  "Magical",
+  "Trap",
+  "Unique"
+ ],
+ "trait_markdown": "[Complex](/Traits.aspx?ID=30), [Magical](/Traits.aspx?ID=103), [Trap](/Traits.aspx?ID=158), [Unique](/Traits.aspx?ID=161)",
+ "trait_raw": [
+  "Complex",
+  "Magical",
+  "Trap",
+  "Unique"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=247",
+ "weakness": {}
+}

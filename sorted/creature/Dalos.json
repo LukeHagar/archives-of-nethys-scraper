@@ -1,0 +1,126 @@
+{
+ "ac": 34,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 2,
+ "constitution": 6,
+ "creature_ability": [
+  "Volcanic Heat",
+  "Magma Splash",
+  "Belch Smoke",
+  "Heat Rock",
+  "Lava Bomb",
+  "Throw Rock"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 27,
+ "hp": 240,
+ "hp_raw": "240",
+ "id": "creature-465",
+ "image": [
+  "/Images/Monsters/Dalos.png"
+ ],
+ "immunity": [
+  "fire"
+ ],
+ "immunity_markdown": "fire",
+ "intelligence": 2,
+ "language": [
+  "Ignan",
+  "Sylvan",
+  "Terran"
+ ],
+ "language_markdown": "[Ignan](/Languages.aspx?ID=18), [Sylvan](/Languages.aspx?ID=10), [Terran](/Languages.aspx?ID=22)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Dalos](/Monsters.aspx?ID=465)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDalos are reclusive fey that dwell within or near remote volcanoes and volcanic vents and resemble the massive calderas they call home. They more often dwell within the superheated confines of these locales than in the “cold wastelands” beyond their warmth and are therefore rarely encountered outside such environments. Like most fey, dalos are capricious and vengeful. They hate being disturbed above all else and will often warn away intruders with only the throw of a red-hot boulder before attacking outright.\n\n A dalos stands 25 feet tall and weighs in excess of 20,000 pounds.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fey](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Dalos.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Dalos](/Monsters.aspx?ID=465)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 77</row>\n\n**Perception** +23; low-light vision\r\n\r\n**Languages**\r\n[Ignan](/Languages.aspx?ID=18), [Sylvan](/Languages.aspx?ID=10), [Terran](/Languages.aspx?ID=22)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +29, [Nature](/Skills.aspx?ID=10) +23, [Survival](/Skills.aspx?ID=16) +23\r\n\r\n<row gap=\"medium\">\r\n**Str** +8\r\n\r\n**Dex** +4\r\n\r\n**Con** +6\r\n\r\n**Int** +2\r\n\r\n**Wis** +4\r\n\r\n**Cha** +2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 34 \r\n\r\n**Fort** +27 \r\n\r\n**Ref** +19 \r\n\r\n**Will** +23 \n\n</row>\r\n\r\n**HP** 240\n\n**Immunities**\r\nfire\r\n\r\n**Resistances**\r\nphysical 15 (except bludgeoning)\r\n\r\n**Weaknesses**\r\ncold 10, cold iron 10\r\n\r\n**Volcanic Heat** ([aura](/Traits.aspx?ID=206), [fire](/Traits.aspx?ID=72)) 10 feet, 3d6 fire damage (DC 29 basic Reflex save)<br /> **Magma Splash** ([fire](/Traits.aspx?ID=72)) Whenever the dalos takes damage from a melee Strike, magma splashes from its open wound and sticks to nearby creatures. Each creature in a 10-foot emanation must attempt a DC 31 Reflex save. On a failure, the creature takes 3d6 persistent fire damage as the superheated rock sticks to them and cools. The DC to end this persistent damage decreases by 5 each turn after the first as the magma cools.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 20 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfist +27 ([reach 15 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+11 bludgeoning plus 2d6 fire\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nrock +25 ([range increment 150 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d10+11 bludgeoning\r\n\r\n**Primal Innate Spells** DC 31\r\n- **7th**\r\n[Earthbind](/Spells.aspx?ID=94) (x3), [Slow](/Spells.aspx?ID=289), [Stinking Cloud](/Spells.aspx?ID=309)\r\n\r\n**Belch Smoke** <actions string=\"Three Actions\" />  The dalos blasts smoke from its head, creating a 20-foot-radius cloud of smoke that drifts to a location within 120 feet. This has the effects of [_obscuring mist_](/Spells.aspx?ID=210).\r\n\r\n**Heat Rock** <actions string=\"Single Action\" /> ([Fire](/Traits.aspx?ID=72)) The dalos uses an Interact action to pluck a rock from its body or the nearby environment, then uses its internal fires to heat a rock it’s holding until the rock is red hot. A heated rock that hits a target on a ranged Strike deals an additional 4d6 fire damage. Once the dalos heats a rock, that rock retains its heat for 2 rounds before cooling.\r\n\r\n**Lava Bomb** <actions string=\"Two Actions\" /> ([Earth](/Traits.aspx?ID=55), [Fire](/Traits.aspx?ID=72)) The dalos causes a volcanic explosion to erupt from its head, lobbing a mass of molten rock up to 100 feet. This lava bomb deals 6d8 fire damage and 6d8 bludgeoning damage to each creature in a 20-foot radius of its impact point, with a DC 33 basic Reflex save. The dalos can’t use Lava Bomb again for 1d4 rounds.\r\n\r\n**[Throw Rock](/MonsterAbilities.aspx?ID=38)** <actions string=\"Single Action\" />  \r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Dalos Allies</title>\r\n\r\nBecause of their reclusiveness, dalos are unlikely to be encountered in the company of other creatures, though on occasion they may serve as begrudging guardians for powerful magma dragons or tribes of fire giants.\r\n</aside>",
+ "name": "Dalos",
+ "npc": false,
+ "perception": 23,
+ "rarity": "uncommon",
+ "reflex_save": 19,
+ "release_date": "2019-10-16",
+ "resistance": {
+  "physical": 15,
+  "piercing": 15,
+  "slashing": 15
+ },
+ "resistance_markdown": "physical 15 (except bludgeoning)",
+ "resistance_raw": "physical 15 (except bludgeoning)",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Fey\" url=\"/Traits.aspx?ID=69\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=72\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 77</row>\n\n<row gap=\"medium\">\r\n**HP** 240\r\n\r\n**AC** 34\r\n\r\n**Fort** +27\r\n\r\n**Ref** +19\r\n\r\n**Will** +23\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDalos are reclusive fey that dwell within or near remote volcanoes and volcanic vents and resemble the massive calderas they call home. They more …\r\n</summary>",
+ "sense": "low-light vision",
+ "sense_markdown": "low-light vision",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +29",
+  "Nature +23",
+  "Survival +23"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +29, [Nature](/Skills.aspx?ID=10) +23, [Survival](/Skills.aspx?ID=16) +23",
+ "source": [
+  "Pathfinder #148: Fires of the Haunted City"
+ ],
+ "source_raw": [
+  "Pathfinder #148: Fires of the Haunted City pg. 77"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Age of Ashes",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #148: Fires of the Haunted City](/Sources.aspx?ID=13) pg. 77</row>",
+ "speed": {
+  "burrow": 20,
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 20 feet, climb 20 feet",
+ "speed_raw": "30 feet, burrow 20 feet, climb 20 feet",
+ "spell": [
+  "Earthbind",
+  "Slow",
+  "Stinking Cloud"
+ ],
+ "spell_markdown": "[Earthbind](/Spells.aspx?ID=94), [Slow](/Spells.aspx?ID=289), [Stinking Cloud](/Spells.aspx?ID=309)",
+ "spoilers": "Age of Ashes",
+ "strength": 8,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Dalos are reclusive fey that dwell within or near remote volcanoes and volcanic vents and resemble the massive calderas they call home. They more …",
+ "summary_markdown": "Dalos are reclusive fey that dwell within or near remote volcanoes and volcanic vents and resemble the massive calderas they call home. They more …",
+ "text": " Dalos Dalos are reclusive fey that dwell within or near remote volcanoes and volcanic vents and resemble the massive calderas they call home. They more often dwell within the superheated confines of these locales than in the “cold wastelands” beyond their warmth and are therefore rarely encountered outside such environments. Like most fey, dalos are capricious and vengeful. They hate being disturbed above all else and will often warn away intruders with only the throw of a red-hot boulder before attacking outright. A dalos stands 25 feet tall and weighs in excess of 20,000 pounds. Recall Knowledge - Fey (Nature): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Dalos Source Pathfinder #148: Fires of the Haunted City pg. 77 Perception +23; low-light vision Languages Ignan, Sylvan, Terran Skills Athletics +29, Nature +23, Survival +23 Str +8 Dex +4 Con +6 Int +2 Wis +4 Cha +2 --- AC 34 Fort +27 Ref +19 Will +23 HP 240 Immunities fire Resistances physical 15 (except bludgeoning) Weaknesses cold 10, cold iron 10 Volcanic Heat (aura, fire) 10 feet, 3d6 fire damage (DC 29 basic Reflex save) Magma Splash (fire) Whenever the dalos takes damage from a melee Strike, magma splashes from its open wound and sticks to nearby creatures. Each creature in a 10-foot emanation must attempt a DC 31 Reflex save. On a failure, the creature takes 3d6 persistent fire damage as the superheated rock sticks to them and cools. The DC to end this persistent damage decreases by 5 each turn after the first as the magma cools. --- Speed 30 feet, burrow 20 feet, climb 20 feet Melee Single Action fist +27 (reach 15 feet), Damage 3d8+11 bludgeoning plus 2d6 fire Ranged Single Action rock +25 (range increment 150 feet), Damage 2d10+11 bludgeoning Primal Innate Spells DC 31 - 7th Earthbind (x3), Slow, Stinking Cloud Belch Smoke Three Actions The dalos blasts smoke from its head, creating a 20-foot-radius cloud of smoke that drifts to a location within 120 feet. This has the effects of obscuring mist . Heat Rock Single Action (Fire) The dalos uses an Interact action to pluck a rock from its body or the nearby environment, then uses its internal fires to heat a rock it’s holding until the rock is red hot. A heated rock that hits a target on a ranged Strike deals an additional 4d6 fire damage. Once the dalos heats a rock, that rock retains its heat for 2 rounds before cooling. Lava Bomb Two Actions (Earth, Fire) The dalos causes a volcanic explosion to erupt from its head, lobbing a mass of molten rock up to 100 feet. This lava bomb deals 6d8 fire damage and 6d8 bludgeoning damage to each creature in a 20-foot radius of its impact point, with a DC 33 basic Reflex save. The dalos can’t use Lava Bomb again for 1d4 rounds. Throw Rock Single Action Dalos Allies Because of their reclusiveness, dalos are unlikely to be encountered in the company of other creatures, though on occasion they may serve as begrudging guardians for powerful magma dragons or tribes of fire giants. ",
+ "trait": [
+  "Earth",
+  "Fey",
+  "Fire",
+  "Uncommon",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Fey](/Traits.aspx?ID=69), [Fire](/Traits.aspx?ID=72), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Earth",
+  "Fey",
+  "Fire",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=465",
+ "vision": "Low-light vision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {
+  "cold": 10,
+  "cold_iron": 10
+ },
+ "weakness_markdown": "cold 10, cold iron 10",
+ "weakness_raw": "cold 10, cold iron 10",
+ "will_save": 23,
+ "wisdom": 4
+}

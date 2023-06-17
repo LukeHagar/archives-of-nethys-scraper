@@ -1,0 +1,116 @@
+{
+ "ac": 33,
+ "alignment": "NE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 6,
+ "constitution": 5,
+ "creature_ability": [
+  "Derghodaemon's Stare",
+  "Rend",
+  "Savage Assault",
+  "Swarming Infestation"
+ ],
+ "creature_family": "Daemon",
+ "creature_family_markdown": "[Daemon](/MonsterFamilies.aspx?ID=26)",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hp": 240,
+ "hp_raw": "240",
+ "id": "creature-594",
+ "image": [
+  "/Images/Monsters/Daemon_Derghodaemon.png"
+ ],
+ "immunity": [
+  "confusion",
+  "death  effects",
+  "swarm  attacks"
+ ],
+ "immunity_markdown": "[confusion](/Conditions.aspx?ID=5), [death](/Traits.aspx?ID=40) effects, [swarm](/Traits.aspx?ID=239) attacks",
+ "intelligence": 1,
+ "language": [
+  "Common",
+  "Daemonic",
+  "<%UMR%37%%>telepathy 100 feet<%END>"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Daemonic](/Languages.aspx?ID=31); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)",
+ "level": 12,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Derghodaemon (Ravager Daemon)](/Monsters.aspx?ID=594)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nDerghodaemons represent death through unfathomable violence and being eaten alive. Whether in life a ravenous murderer hacked them to bits for stew, a werewolf tore them limb from limb, or they simply succumbed to the elements and became worm meat, derghodaemons seek to inflict the same twisted and bloody ends upon any they come across. Unlike some daemons, derghodaemons derive little pleasure from prolonged deaths—to these fiends, the quicker they can enact a gory demise, the sooner they can turn their attentions to their next victim and repeat the violent cycle.\n\nDerghodaemons look like walking masses of razor-sharp insect claws connected to equally menacing chitinous limbs, but few linger on their appearance for long— the gaze of a derghodaemon is enough to cause others in the vicinity to experience severe visual warping. The derghodaemon's appearance becomes more and more twisted as those who stare at it experience vicious hallucinations and ravenous urges to inflict harm on and devour others. Perhaps the most horrific attack derghodaemons can unleash upon their victims, though, is their swarming infestation—the daemons cough up a crawling, buzzing cloud of ravenous insects that cling to those targeted and chew them to death, provided the mind-numbing, half-whispered threats made by the rasp of the insects' bodies don't drive them to violent fury first!\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 30\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 28\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 25\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Daemon_Derghodaemon.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 12\">[Derghodaemon](/Monsters.aspx?ID=594)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Daemon\" url=\"/Traits.aspx?ID=213\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 59 <sup>2.0</sup></row>\n\n**Perception** +24; [darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 60 feet](/MonsterAbilities.aspx?ID=33)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Daemonic](/Languages.aspx?ID=31); [telepathy 100 feet](/MonsterAbilities.aspx?ID=37)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +22, [Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +24, [Stealth](/Skills.aspx?ID=15) +24\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** +6\r\n\r\n**Con** +5\r\n\r\n**Int** +1\r\n\r\n**Wis** +6\r\n\r\n**Cha** +6\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +21 \r\n\r\n**Ref** +24 \r\n\r\n**Will** +22 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 240\n\n**Immunities**\r\n[confusion](/Conditions.aspx?ID=5), [death](/Traits.aspx?ID=40) effects, [swarm](/Traits.aspx?ID=239) attacks\n\n**Weaknesses**\r\ngood 10\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 35 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +25 ([deadly 1d12](/Traits.aspx?ID=174), [Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+10 slashing plus 1d6 evil\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nswarm spit +25 ([Evil](/Traits.aspx?ID=64), [Magical](/Traits.aspx?ID=103), [range 60 feet](/Traits.aspx?ID=248)),\r\n**Damage** 2d6+13 piercing plus 1d6 evil\r\n\r\n**Divine Innate Spells** DC 32\r\n- **1st**\r\n[Detect Alignment](/Spells.aspx?ID=65) (good only; at will)\r\n- **4th**\r\n[Dimension Door](/Spells.aspx?ID=69) (at will)\r\n- **5th**\r\n[Dimension Door](/Spells.aspx?ID=69)\r\n- **6th**\r\n[Blade Barrier](/Spells.aspx?ID=24), [Feeblemind](/Spells.aspx?ID=112) (×3)\r\n\r\n**Derghodaemon's Stare** <actions string=\"Single Action\" /> ([Divine](/Traits.aspx?ID=48), [Emotion](/Traits.aspx?ID=60), [Enchantment](/Traits.aspx?ID=61), [Incapacitation](/Traits.aspx?ID=93), [Mental](/Traits.aspx?ID=106), [Visual](/Traits.aspx?ID=163)) A non-evil target must succeed at a DC 32 Will save or become [confused](/Conditions.aspx?ID=5) for 1 round, or 1 minute on a critical failure. It is temporarily immune for 10 minutes.\r\n\r\n**[Rend](/MonsterAbilities.aspx?ID=30)** <actions string=\"Single Action\" />  claw\r\n\r\n**Savage Assault** <actions string=\"Two Actions\" />  The derghodaemon makes up to five claw Strikes, each against a different target. These attacks count toward the derghodaemon's multiple attack penalty, but the penalty doesn't increase until after all the attacks.\r\n\r\n**Swarming Infestation** <actions string=\"Two Actions\" />  The derghodaemon spews a large swarm, making a swarm spit Strike against up to two adjacent targets within range. Whether or not the targets are hit, each must attempt a DC 31 Reflex save (at a –2 circumstance penalty if it was actually hit by the swarm spit). [Persistent damage](/Conditions.aspx?ID=29) caused by the swarming infestation ends as soon as the creature takes any amount of damage from an area effect. The derghodaemon can't use this ability for 1d4 rounds. <br />**Critical Success** The swarm disperses as soon as it deals its swarm spit Strike damage. <br />**Success** The swarm clings to the target and infests it, dealing 1d6 persistent piercing damage. <br />**Failure** The swarm clings to the target and infests it, dealing 2d6 persistent piercing damage. <br />**Critical Failure** As failure, but the hissing sounds caused by the infestation also cause the target to become [confused](/Conditions.aspx?ID=5) for 1 round; this additional effect has the [auditory](/Traits.aspx?ID=16), [emotion](/Traits.aspx?ID=60), and [mental](/Traits.aspx?ID=106) traits.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-26\" />",
+ "name": "Derghodaemon",
+ "npc": false,
+ "perception": 24,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 24,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Daemon\" url=\"/Traits.aspx?ID=213\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 59 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Daemon](/MonsterFamilies.aspx?ID=26)\r\n\r\n<row gap=\"medium\">\r\n**HP** 240\r\n\r\n**AC** 33\r\n\r\n**Fort** +21\r\n\r\n**Ref** +24\r\n\r\n**Will** +22\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDerghodaemons represent death through unfathomable violence and being eaten alive. Whether in life a ravenous murderer hacked them to bits for stew, …\r\n</summary>",
+ "sense": " darkvision ,  scent (imprecise) 60 feet ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [scent (imprecise) 60 feet](/MonsterAbilities.aspx?ID=33)",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Acrobatics +22",
+  "Athletics +25",
+  "Intimidation +24",
+  "Stealth +24"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +22, [Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +24, [Stealth](/Skills.aspx?ID=15) +24",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 59"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 59 <sup>2.0</sup></row>",
+ "speed": {
+  "land": 35,
+  "max": 35
+ },
+ "speed_markdown": "35 feet",
+ "speed_raw": "35 feet",
+ "spell": [
+  "Blade Barrier",
+  "Feeblemind",
+  "Dimension Door",
+  "Detect Alignment"
+ ],
+ "spell_markdown": "[Blade Barrier](/Spells.aspx?ID=24), [Detect Alignment](/Spells.aspx?ID=65), [Dimension Door](/Spells.aspx?ID=69), [Feeblemind](/Spells.aspx?ID=112)",
+ "stealth": "24",
+ "strength": 7,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Derghodaemons represent death through unfathomable violence and being eaten alive. Whether in life a ravenous murderer hacked them to bits for stew, …",
+ "summary_markdown": "Derghodaemons represent death through unfathomable violence and being eaten alive. Whether in life a ravenous murderer hacked them to bits for stew, …",
+ "text": " Derghodaemon (Ravager Daemon) Derghodaemons represent death through unfathomable violence and being eaten alive. Whether in life a ravenous murderer hacked them to bits for stew, a werewolf tore them limb from limb, or they simply succumbed to the elements and became worm meat, derghodaemons seek to inflict the same twisted and bloody ends upon any they come across. Unlike some daemons, derghodaemons derive little pleasure from prolonged deaths—to these fiends, the quicker they can enact a gory demise, the sooner they can turn their attentions to their next victim and repeat the violent cycle. Derghodaemons look like walking masses of razor-sharp insect claws connected to equally menacing chitinous limbs, but few linger on their appearance for long— the gaze of a derghodaemon is enough to cause others in the vicinity to experience severe visual warping. The derghodaemon's appearance becomes more and more twisted as those who stare at it experience vicious hallucinations and ravenous urges to inflict harm on and devour others. Perhaps the most horrific attack derghodaemons can unleash upon their victims, though, is their swarming infestation—the daemons cough up a crawling, buzzing cloud of ravenous insects that cling to those targeted and chew them to death, provided the mind-numbing, half-whispered threats made by the rasp of the insects' bodies don't drive them to violent fury first! Recall Knowledge - Fiend (Religion): DC 30 Unspecific Lore : DC 28 Specific Lore : DC 25 Derghodaemon Source Bestiary 2 pg. 59 2.0 Perception +24; darkvision, scent (imprecise) 60 feet Languages Common, Daemonic; telepathy 100 feet Skills Acrobatics +22, Athletics +25, Intimidation +24, Stealth +24 Str +7 Dex +6 Con +5 Int +1 Wis +6 Cha +6 --- AC 33 Fort +21 Ref +24 Will +22 +1 status to all saves vs. magic HP 240 Immunities confusion, death effects, swarm attacks Weaknesses good 10 --- Speed 35 feet Melee Single Action claw +25 (deadly 1d12, Evil, Magical, reach 10 feet), Damage 3d8+10 slashing plus 1d6 evil Ranged Single Action swarm spit +25 (Evil, Magical, range 60 feet), Damage 2d6+13 piercing plus 1d6 evil Divine Innate Spells DC 32 - 1st Detect Alignment (good only; at will) - 4th Dimension Door (at will) - 5th Dimension Door - 6th Blade Barrier, Feeblemind (×3) Derghodaemon's Stare Single Action (Divine, Emotion, Enchantment, Incapacitation, Mental, Visual) A non-evil target must succeed at a DC 32 Will save or become confused for 1 round, or 1 minute on a critical failure. It is temporarily immune for 10 minutes. Rend Single Action claw Savage Assault Two Actions The derghodaemon makes up to five claw Strikes, each against a different target. These attacks count toward the derghodaemon's multiple attack penalty, but the penalty doesn't increase until after all the attacks. Swarming Infestation Two Actions The derghodaemon spews a large swarm, making a swarm spit Strike against up to two adjacent targets within range. Whether or not the targets are hit, each must attempt a DC 31 Reflex save (at a –2 circumstance penalty if it was actually hit by the swarm spit). Persistent damage caused by the swarming infestation ends as soon as the creature takes any amount of damage from an area effect. The derghodaemon can't use this ability for 1d4 rounds. Critical Success The swarm disperses as soon as it deals its swarm spit Strike damage. Success The swarm clings to the target and infests it, dealing 1d6 persistent piercing damage. Failure The swarm clings to the target and infests it, dealing 2d6 persistent piercing damage. Critical Failure As failure, but the hissing sounds caused by the infestation also cause the target to become confused for 1 round; this additional effect has the auditory, emotion, and mental traits. ",
+ "trait": [
+  "Daemon",
+  "Fiend",
+  "NE",
+  "Large"
+ ],
+ "trait_markdown": "[Daemon](/Traits.aspx?ID=213), [Fiend](/Traits.aspx?ID=70)",
+ "trait_raw": [
+  "Daemon",
+  "Fiend"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=594",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {
+  "good": 10
+ },
+ "weakness_markdown": "good 10",
+ "weakness_raw": "good 10",
+ "will_save": 22,
+ "wisdom": 6
+}

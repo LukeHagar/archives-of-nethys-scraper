@@ -1,0 +1,48 @@
+{
+ "breadcrumbs_spa": [],
+ "category": "hazard",
+ "complexity": "Simple",
+ "disable": "DC 33 (master) to adjust the wheel's mechanisms so that it won't trigger the Test of Endurance, or   dispel magic   (7th level, counteract DC 31) to counteract the trap's magic.",
+ "exclude_from_search": false,
+ "hazard_type": "Trap",
+ "id": "hazard-287",
+ "level": 13,
+ "markdown": "<title level=\"1\" right=\"Hazard 13\" pfs=\"\">[Test of Endurance](/Hazards.aspx?ID=287)</title>\r\n\r\n<traits>\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 324</row>\n\n**Complexity** Simple\r\n\r\n</column>\r\n\r\nThe room fills with swirling vortexes of freezing wind that swiftly freeze flesh and chill the bones.\r\n\r\n---\r\n\r\n**Stealth**\r\nDC 40 (master)\r\n\r\n**Disable**\r\nDC 33 (master) to adjust the wheel's mechanisms so that it won't trigger the Test of Endurance, or [_dispel magic_](/Spells.aspx?ID=78) (7th level, counteract DC 31) to counteract the trap's magic.\n\n<column gap=\"tiny\">\n\n</column>\r\n\r\n**Freezing Wind** <actions string=\"Reaction\" /> ([cold](/Traits.aspx?ID=27), [evocation](/Equipment.aspx?ID=1671)) **Trigger** A creature critically fails at an attempt to Rotate the Wheel or releases their grip on the wheel once they've started to rotate it; **Effect** A vortex of freezing wind howls through the room—all creatures in the room must attempt a DC 33 Fortitude save.\r\n\r\n**Critical Success** The creature takes no damage.<br />\r\n**Success** The creature takes 1d6 cold damage for each revolution the wheel has been rotated (max 7d6).<br />\r\n**Failure** The creature takes 2d6 cold damage for each revolution the wheel has been rotated (max 14d6) and becomes [fatigued](/Conditions.aspx?ID=15).<br />\r\n**Critical Failure** The creature takes 3d6 cold damage for each revolution the wheel has been rotated (max 21d6), becomes [drained](/Conditions.aspx?ID=10) 1, and becomes fatigued.\n\n---\r\n**Reset**\r\n The trap resets automatically.",
+ "name": "Test of Endurance",
+ "rarity": "common",
+ "release_date": "2022-10-26",
+ "reset": " The trap resets automatically.",
+ "resistance": {},
+ "school": "evocation",
+ "search_markdown": "<traits>\r\n<trait label=\"Cold\" url=\"/Traits.aspx?ID=27\" />\r\n<trait label=\"Evocation\" url=\"/Traits.aspx?ID=65\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Trap\" url=\"/Traits.aspx?ID=158\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 324</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe room fills with swirling vortexes of freezing wind that swiftly freeze flesh and chill the bones.\r\n</summary>",
+ "source": [
+  "Kingmaker Adventure Path"
+ ],
+ "source_raw": [
+  "Kingmaker Adventure Path pg. 324"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Kingmaker",
+ "source_markdown": "<row gap=\"tiny\">[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 324</row>",
+ "speed": {},
+ "stealth": "DC 40 (master)",
+ "summary": "The room fills with swirling vortexes of freezing wind that swiftly freeze flesh and chill the bones.",
+ "summary_markdown": "The room fills with swirling vortexes of freezing wind that swiftly freeze flesh and chill the bones.",
+ "text": " Test of Endurance Source Kingmaker Adventure Path pg. 324 Complexity Simple The room fills with swirling vortexes of freezing wind that swiftly freeze flesh and chill the bones. --- Stealth DC 40 (master) Disable DC 33 (master) to adjust the wheel's mechanisms so that it won't trigger the Test of Endurance, or dispel magic (7th level, counteract DC 31) to counteract the trap's magic. Freezing Wind Reaction (cold, evocation) Trigger A creature critically fails at an attempt to Rotate the Wheel or releases their grip on the wheel once they've started to rotate it; Effect A vortex of freezing wind howls through the room—all creatures in the room must attempt a DC 33 Fortitude save. Critical Success The creature takes no damage. Success The creature takes 1d6 cold damage for each revolution the wheel has been rotated (max 7d6). Failure The creature takes 2d6 cold damage for each revolution the wheel has been rotated (max 14d6) and becomes fatigued. Critical Failure The creature takes 3d6 cold damage for each revolution the wheel has been rotated (max 21d6), becomes drained 1, and becomes fatigued. --- Reset The trap resets automatically.",
+ "trait": [
+  "Cold",
+  "Evocation",
+  "Magical",
+  "Trap"
+ ],
+ "trait_markdown": "[Cold](/Traits.aspx?ID=27), [Evocation](/Traits.aspx?ID=65), [Magical](/Traits.aspx?ID=103), [Trap](/Traits.aspx?ID=158)",
+ "trait_raw": [
+  "Cold",
+  "Evocation",
+  "Magical",
+  "Trap"
+ ],
+ "type": "Hazard",
+ "url": "/Hazards.aspx?ID=287",
+ "weakness": {}
+}

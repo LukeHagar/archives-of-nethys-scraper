@@ -1,0 +1,128 @@
+{
+ "ac": 34,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 5,
+ "constitution": 5,
+ "creature_ability": [
+  "Greater Web Sense",
+  "Create Web Weaponry",
+  "Descend on a Web",
+  "Lay Web Trap",
+  "Leng Spider Venom",
+  "Ranged Trip"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 7,
+ "exclude_from_search": false,
+ "fortitude_save": 22,
+ "hp": 235,
+ "hp_raw": "235 ( fast healing  10)",
+ "id": "creature-713",
+ "image": [
+  "/Images/Monsters/LengSpider.png"
+ ],
+ "immunity": [
+  "cold",
+  "confused"
+ ],
+ "immunity_markdown": "cold, [confused](/Conditions.aspx?ID=5)",
+ "intelligence": 7,
+ "language": [
+  "Aklo",
+  "<%SPELLS%340%%><i>tongues</i><%END>"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13); [_tongues_](/Spells.aspx?ID=340)",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Leng Spider](/Monsters.aspx?ID=713)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe monstrous, bloated spiders from the windswept realm of Leng build eerie, dangerous lairs with the aid of magically compelled slaves. Leng spiders have anywhere from five to 13 legs, but never an even number.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 33\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 31\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 28\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/LengSpider.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Leng Spider](/Monsters.aspx?ID=713)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Dream\" url=\"/Traits.aspx?ID=299\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 157 <sup>2.0</sup></row>\n\n**Perception** +24; [darkvision](/MonsterAbilities.aspx?ID=12), [_detect magic_](/Spells.aspx?ID=66), greater web sense\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13); [_tongues_](/Spells.aspx?ID=340)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +24, [Athletics](/Skills.aspx?ID=3) +27, [Crafting](/Skills.aspx?ID=4) +22, [Deception](/Skills.aspx?ID=5) +22, [Religion](/Skills.aspx?ID=13) +24, [Occultism](/Skills.aspx?ID=11) +26, [Stealth](/Skills.aspx?ID=15) +26\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +7\r\n\r\n**Con** +5\r\n\r\n**Int** +7\r\n\r\n**Wis** +5\r\n\r\n**Cha** +5\r\n</row>\r\n\r\n**Greater Web Sense** While touching its webs, the Leng spider has precise [tremorsense](/MonsterAbilities.aspx?ID=40) to detect the vibrations of creatures touching its web.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 34 \r\n\r\n**Fort** +22 \r\n\r\n**Ref** +26 \r\n\r\n**Will** +24 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 235\r\n([fast healing](/MonsterAbilities.aspx?ID=15) 10)\n\n**Immunities**\r\ncold, [confused](/Conditions.aspx?ID=5)\r\n\r\n**Resistances**\r\npoison 15, sonic 15\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 40 feet, climb 40 feet; [_air walk_](/Spells.aspx?ID=6)\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nweb war flail +27 ([Disarm](/Traits.aspx?ID=175), [Magical](/Traits.aspx?ID=103), [reach 15 feet](/Traits.aspx?ID=192), [Sweep](/Traits.aspx?ID=194), [Trip](/Traits.aspx?ID=196)),\r\n**Damage** 3d10+14 bludgeoning\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +27 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d12+14 piercing plus Leng spider venom\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nleg +27 ([Agile](/Traits.aspx?ID=170), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 3d8+14 slashing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nweb bola +28 ([Magical](/Traits.aspx?ID=103), [Nonlethal](/Traits.aspx?ID=188), [Ranged Trip](/Traits.aspx?ID=251), [thrown 20 feet](/Traits.aspx?ID=195)),\r\n**Damage** 2d6+14 bludgeoning\r\n\r\n**Occult Innate Spells** DC 33\r\n- **Cantrips (7th)**\r\n[Detect Magic](/Spells.aspx?ID=66)\r\n- **4th**\r\n[Charm](/Spells.aspx?ID=34) (×3), [Freedom of Movement](/Spells.aspx?ID=128)\r\n- **6th**\r\n[Illusory Scene](/Spells.aspx?ID=161), [Mislead](/Spells.aspx?ID=199)\r\n- **7th**\r\n[Dispel Magic](/Spells.aspx?ID=78), [Veil](/Spells.aspx?ID=355), [Warp Mind](/Spells.aspx?ID=369)\r\n- **Constant (7th)**\r\n[Air Walk](/Spells.aspx?ID=6), [Tongues](/Spells.aspx?ID=340)\r\n\r\n**Create Web Weaponry** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) The Leng spider creates a weapon by applying a cord of webbing to heavy objects, such as rocks or chunks of metal, either attaching two heavy objects together to create a web [bola](/Weapons.aspx?ID=92) or fastening one to its leg to create a web [war flail](/Weapons.aspx?ID=46).\r\n\r\n**Descend on a Web** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The Leng spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count when calculating falling damage. The web can be severed by a Strike that deals slashing damage (AC 30, Hardness 15, 25 HP), causing the Leng spider to fall.\r\n\r\n**Lay Web Trap** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Frequency** three times per day; **Effect** The Leng spider spins a web within 20 feet of itself to create a [grasping snare](/Equipment.aspx?ID=334), [stunning snare](/Equipment.aspx?ID=346), or [warning snare](/Equipment.aspx?ID=348). The Leng spider's web provides all the raw materials it needs. All save and [Escape](/Actions.aspx?ID=79) DCs associated with web traps use the Leng spider's [Crafting](/Skills.aspx?ID=4) DC for traps (DC 36). A web trap decays after 24 hours.\r\n\r\n**Leng Spider Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 33 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 2d6 poison damage and [drained 1](/Conditions.aspx?ID=10) (1 round); **Stage 2** 2d6 poison damage, [confused](/Conditions.aspx?ID=5), and drained 2 (1 round); the confused effect has the [emotion](/Traits.aspx?ID=60) and [mental](/Traits.aspx?ID=106) traits.\r\n\r\n**Ranged Trip**   A Leng spider can use a web bola to [Trip](/Traits.aspx?ID=196) a target with the [Athletics](/Skills.aspx?ID=3) skill. The skill check takes a –2 circumstance penalty. A web bola deals no damage when used to Trip.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Web Temples</title>\r\n\r\nLeng spiders build complex lairs out of their webs, many of which serve a dual purpose as temples to the eldritch gods they venerate. Most Leng spiders worship deities of the Elder Mythos, such as [Hastur](/Deities.aspx?ID=162), [Nyarlathotep](/Deities.aspx?ID=164), or [Yog-Sothoth](/Deities.aspx?ID=166), among others.\r\n</aside>",
+ "name": "Leng Spider",
+ "npc": false,
+ "perception": 24,
+ "pfs": "Standard",
+ "rarity": "uncommon",
+ "reflex_save": 26,
+ "release_date": "2020-05-27",
+ "resistance": {
+  "poison": 15,
+  "sonic": 15
+ },
+ "resistance_markdown": "poison 15, sonic 15",
+ "resistance_raw": "poison 15, sonic 15",
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n<trait label=\"Dream\" url=\"/Traits.aspx?ID=299\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 157 <sup>2.0</sup></row>\n\n<row gap=\"medium\">\r\n**HP** 235 ( fast healing  10)\r\n\r\n**AC** 34\r\n\r\n**Fort** +22\r\n\r\n**Ref** +26\r\n\r\n**Will** +24\r\n\r\n**Perception** +24\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe monstrous, bloated spiders from the windswept realm of Leng build eerie, dangerous lairs with the aid of magically compelled slaves. Leng spiders …\r\n</summary>",
+ "sense": " darkvision ,   detect magic  , greater web sense",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), [_detect magic_](/Spells.aspx?ID=66), greater web sense",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Acrobatics +24",
+  "Athletics +27",
+  "Crafting +22",
+  "Deception +22",
+  "Religion +24",
+  "Occultism +26",
+  "Stealth +26"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +24, [Athletics](/Skills.aspx?ID=3) +27, [Crafting](/Skills.aspx?ID=4) +22, [Deception](/Skills.aspx?ID=5) +22, [Religion](/Skills.aspx?ID=13) +24, [Occultism](/Skills.aspx?ID=11) +26, [Stealth](/Skills.aspx?ID=15) +26",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 157"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 157 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 40,
+  "land": 40,
+  "max": 40
+ },
+ "speed_markdown": "40 feet, climb 40 feet; [_air walk_](/Spells.aspx?ID=6)",
+ "speed_raw": "40 feet, climb 40 feet;   air walk  ",
+ "spell": [
+  "Dispel Magic",
+  "Veil",
+  "Warp Mind",
+  "Illusory Scene",
+  "Mislead",
+  "Charm",
+  "Freedom of Movement",
+  "Detect Magic",
+  "Air Walk",
+  "Tongues"
+ ],
+ "spell_markdown": "[Air Walk](/Spells.aspx?ID=6), [Charm](/Spells.aspx?ID=34), [Detect Magic](/Spells.aspx?ID=66), [Dispel Magic](/Spells.aspx?ID=78), [Freedom of Movement](/Spells.aspx?ID=128), [Illusory Scene](/Spells.aspx?ID=161), [Mislead](/Spells.aspx?ID=199), [Tongues](/Spells.aspx?ID=340), [Veil](/Spells.aspx?ID=355), [Warp Mind](/Spells.aspx?ID=369)",
+ "stealth": "26",
+ "strength": 6,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The monstrous, bloated spiders from the windswept realm of Leng build eerie, dangerous lairs with the aid of magically compelled slaves. Leng spiders …",
+ "summary_markdown": "The monstrous, bloated spiders from the windswept realm of Leng build eerie, dangerous lairs with the aid of magically compelled slaves. Leng spiders …",
+ "text": " Leng Spider The monstrous, bloated spiders from the windswept realm of Leng build eerie, dangerous lairs with the aid of magically compelled slaves. Leng spiders have anywhere from five to 13 legs, but never an even number. Recall Knowledge - Aberration (Occultism): DC 33 Unspecific Lore : DC 31 Specific Lore : DC 28 Leng Spider Source Bestiary 2 pg. 157 2.0 Perception +24; darkvision, detect magic , greater web sense Languages Aklo; tongues Skills Acrobatics +24, Athletics +27, Crafting +22, Deception +22, Religion +24, Occultism +26, Stealth +26 Str +6 Dex +7 Con +5 Int +7 Wis +5 Cha +5 Greater Web Sense While touching its webs, the Leng spider has precise tremorsense to detect the vibrations of creatures touching its web. --- AC 34 Fort +22 Ref +26 Will +24 +1 status to all saves vs. magic HP 235 (fast healing 10) Immunities cold, confused Resistances poison 15, sonic 15 --- Speed 40 feet, climb 40 feet; air walk Melee Single Action web war flail +27 (Disarm, Magical, reach 15 feet, Sweep, Trip), Damage 3d10+14 bludgeoning Melee Single Action fangs +27 (reach 10 feet), Damage 3d12+14 piercing plus Leng spider venom Melee Single Action leg +27 (Agile, reach 10 feet), Damage 3d8+14 slashing Ranged Single Action web bola +28 (Magical, Nonlethal, Ranged Trip, thrown 20 feet), Damage 2d6+14 bludgeoning Occult Innate Spells DC 33 - Cantrips (7th) Detect Magic - 4th Charm (×3), Freedom of Movement - 6th Illusory Scene, Mislead - 7th Dispel Magic, Veil, Warp Mind - Constant (7th) Air Walk, Tongues Create Web Weaponry Single Action (Manipulate) The Leng spider creates a weapon by applying a cord of webbing to heavy objects, such as rocks or chunks of metal, either attaching two heavy objects together to create a web bola or fastening one to its leg to create a web war flail. Descend on a Web Single Action (Move) The Leng spider moves straight down up to 120 feet, suspended by a web line. It can hang from the web or drop off. The distance it Descends on a Web doesn't count when calculating falling damage. The web can be severed by a Strike that deals slashing damage (AC 30, Hardness 15, 25 HP), causing the Leng spider to fall. Lay Web Trap Single Action (Manipulate) Frequency three times per day; Effect The Leng spider spins a web within 20 feet of itself to create a grasping snare, stunning snare, or warning snare. The Leng spider's web provides all the raw materials it needs. All save and Escape DCs associated with web traps use the Leng spider's Crafting DC for traps (DC 36). A web trap decays after 24 hours. Leng Spider Venom (Poison) Saving Throw DC 33 Fortitude; Maximum Duration 6 rounds; Stage 1 2d6 poison damage and drained 1 (1 round); Stage 2 2d6 poison damage, confused, and drained 2 (1 round); the confused effect has the emotion and mental traits. Ranged Trip A Leng spider can use a web bola to Trip a target with the Athletics skill. The skill check takes a –2 circumstance penalty. A web bola deals no damage when used to Trip. Web Temples Leng spiders build complex lairs out of their webs, many of which serve a dual purpose as temples to the eldritch gods they venerate. Most Leng spiders worship deities of the Elder Mythos, such as Hastur, Nyarlathotep, or Yog-Sothoth, among others. ",
+ "trait": [
+  "Aberration",
+  "Dream",
+  "Uncommon",
+  "CE",
+  "Huge"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1), [Dream](/Traits.aspx?ID=299), [Uncommon](/Traits.aspx?ID=159)",
+ "trait_raw": [
+  "Aberration",
+  "Dream",
+  "Uncommon"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=713",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 24,
+ "wisdom": 5
+}

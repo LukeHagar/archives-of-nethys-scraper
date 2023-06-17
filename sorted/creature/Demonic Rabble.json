@@ -1,0 +1,114 @@
+{
+ "ac": 33,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 5,
+ "creature_ability": [
+  "Frightful Presence",
+  "Serenity Vulnerability",
+  "Troop Defenses",
+  "Claws, Fangs, and Horns",
+  "Demonic Tide",
+  "Form Up",
+  "Hurl Debris",
+  "Troop Movement"
+ ],
+ "creature_family": "Demon Throng",
+ "creature_family_markdown": "[Demon Throng](/MonsterFamilies.aspx?ID=337)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 25,
+ "hp": 260,
+ "hp_raw": "260 (16 squares)",
+ "id": "creature-2525",
+ "image": [
+  "/Images/Monsters/DemonThrong_DemonicRabble.png"
+ ],
+ "intelligence": 0,
+ "language": [
+  "Abyssal",
+  "Celestial",
+  "Draconic",
+  "<%UMR%37%%>telepathy<%END> 100 feet"
+ ],
+ "language_markdown": "[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet",
+ "level": 13,
+ "markdown": "<title level=\"1\" pfs=\"\">[Demonic Rabble](/Monsters.aspx?ID=2525)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe typical demon throng consists of a chaotic mix of less powerful demons— typically [abrikandilus](/Monsters.aspx?ID=1110), [dretches](/Monsters.aspx?ID=1109), and [quasits](/Monsters.aspx?ID=97), with a few [brimoraks](/Monsters.aspx?ID=1111), [babaus](/Monsters.aspx?ID=598) or other, more powerful demons swept up in the mayhem. This tangled mess of different creatures makes coordinated tactics untenable but, while individual demons in the throng might not be able to fully utilize their abilities, the throng itself makes up for these deficiencies with dangerous options of its own.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Fiend](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 36\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 34\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 31\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/DemonThrong_DemonicRabble.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 13\">[Demonic Rabble](/Monsters.aspx?ID=2525)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 82</row>\n\n**Perception** +23; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Abyssal](/Languages.aspx?ID=12), [Celestial](/Languages.aspx?ID=16), [Draconic](/Languages.aspx?ID=2); [telepathy](/MonsterAbilities.aspx?ID=37) 100 feet\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +25\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +4\r\n\r\n**Con** +5\r\n\r\n**Int** +0\r\n\r\n**Wis** +4\r\n\r\n**Cha** +4\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 33 \r\n\r\n**Fort** +25 \r\n\r\n**Ref** +21 \r\n\r\n**Will** +21 \r\n\r\n+1 status to all saves vs. [magic](/Traits.aspx?ID=103)\r\n</row>\r\n\r\n**HP** 260\r\n(16 squares)\n\n**Weaknesses**\r\narea damage 15, [cold iron](/Equipment.aspx?ID=375) 10, good 10, [splash](/Traits.aspx?ID=150) damage 10\r\n\r\n**[Frightful Presence](/MonsterAbilities.aspx?ID=17)** ([aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 30 feet, DC 30<br />**Serenity Vulnerability** A demonic rabble thrives on mayhem, and when members of the throng find themselves facing moments of calm, however brief or temporary, the throng suffers. Whenever the demonic rabble fails a saving throw against an affect that would normally [fascinate](/Conditions.aspx?ID=14), [fatigue](/Conditions.aspx?ID=15), [paralyze](/Conditions.aspx?ID=28), [restrain](/Conditions.aspx?ID=33), or [slow](/Conditions.aspx?ID=35) at least four creatures, the troop takes 3d6 mental damage.<br />**[Troop Defenses](/MonsterAbilities.aspx?ID=44)** \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\n\n**Claws, Fangs, and Horns** <actions string=\"Single Action to Three Actions\" />  **Frequency** once per round; **Effect** The throng rips and tears at each enemy within its squares and within 5 feet (DC 33 Reflex save). Damage depends on the number of actions.<br /> <actions string=\"Single Action\" /> **Damage** 1d10+12 slashing plus 1d6 evil<br /> <actions string=\"Two Actions\" /> **Damage** 2d10+12 slashing plus 1d6 evil<br /> <actions string=\"Three Actions\" /> **Damage** 3d10+12 slashing plus 1d6 evil\r\n\r\n**Demonic Tide**   A demonic rabble is less organized and more vicious than most troops. They can move into other creatures' spaces, and other creatures can move into their spaces. Their spaces are difficult terrain to non-demon creatures. The first time during a turn that a creature hostile to the throng willingly moves into their space, that creature is subjected to the one-action version of Claws, Fangs, and Horns.\r\n\r\n**[Form Up](/MonsterAbilities.aspx?ID=43)** <actions string=\"Single Action\" />  \r\n\r\n**Hurl Debris** <actions string=\"Single Action to Three Actions\" />  **Frequency** once per round; **Effect** The throng hurls debris, creating a 10-foot burst within 30 feet (DC 25 [basic](/Rules.aspx?ID=329) Reflex save). When the throng is reduced to 8 or fewer squares, this area decreases to a 5-foot burst. Damage depends on the number of actions.<br /> <actions string=\"Single Action\" /> **Damage** 2d10 bludgeoning<br /> <actions string=\"Two Actions\" /> **Damage** 4d10 bludgeoning<br /> <actions string=\"Three Actions\" /> **Damage** 6d10 bludgeoning\r\n\r\n**Troop Movement**   Whenever the rabble Strides, they first [Form Up](/MonsterAbilities.aspx?ID=43) as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to their Speed.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-337\" />",
+ "name": "Demonic Rabble",
+ "npc": false,
+ "perception": 23,
+ "rarity": "rare",
+ "reflex_save": 21,
+ "release_date": "2023-05-24",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Demon\" url=\"/Traits.aspx?ID=42\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n<trait label=\"Troop\" url=\"/Traits.aspx?ID=367\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 82</row>\r\n\r\n**Creature Family** [Demon Throng](/MonsterFamilies.aspx?ID=337)\r\n\r\n<row gap=\"medium\">\r\n**HP** 260 (16 squares)\r\n\r\n**AC** 33\r\n\r\n**Fort** +25\r\n\r\n**Ref** +21\r\n\r\n**Will** +21\r\n\r\n**Perception** +23\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe typical demon throng consists of a chaotic mix of less powerful demons— typically  abrikandilus ,  dretches , and  quasits , with a few  …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Gargantuan"
+ ],
+ "skill": [
+  "Athletics +25",
+  "Intimidation +25"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +25, [Intimidation](/Skills.aspx?ID=7) +25",
+ "source": [
+  "Pathfinder #191: The Destiny War"
+ ],
+ "source_raw": [
+  "Pathfinder #191: The Destiny War pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Stolen Fate",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #191: The Destiny War](/Sources.aspx?ID=199) pg. 82</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "spoilers": "Stolen Fate",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "The typical demon throng consists of a chaotic mix of less powerful demons— typically  abrikandilus ,  dretches , and  quasits , with a few  …",
+ "summary_markdown": "The typical demon throng consists of a chaotic mix of less powerful demons— typically  abrikandilus ,  dretches , and  quasits , with a few  …",
+ "text": " Demonic Rabble The typical demon throng consists of a chaotic mix of less powerful demons— typically abrikandilus, dretches, and quasits, with a few brimoraks, babaus or other, more powerful demons swept up in the mayhem. This tangled mess of different creatures makes coordinated tactics untenable but, while individual demons in the throng might not be able to fully utilize their abilities, the throng itself makes up for these deficiencies with dangerous options of its own. Recall Knowledge - Fiend (Religion): DC 36 Unspecific Lore : DC 34 Specific Lore : DC 31 Demonic Rabble Source Pathfinder #191: The Destiny War pg. 82 Perception +23; darkvision Languages Abyssal, Celestial, Draconic; telepathy 100 feet Skills Athletics +25, Intimidation +25 Str +6 Dex +4 Con +5 Int +0 Wis +4 Cha +4 --- AC 33 Fort +25 Ref +21 Will +21 +1 status to all saves vs. magic HP 260 (16 squares) Weaknesses area damage 15, cold iron 10, good 10, splash damage 10 Frightful Presence (aura, emotion, fear, mental) 30 feet, DC 30 Serenity Vulnerability A demonic rabble thrives on mayhem, and when members of the throng find themselves facing moments of calm, however brief or temporary, the throng suffers. Whenever the demonic rabble fails a saving throw against an affect that would normally fascinate, fatigue, paralyze, restrain, or slow at least four creatures, the troop takes 3d6 mental damage. Troop Defenses --- Speed 25 feet Claws, Fangs, and Horns Single Action to Three Actions Frequency once per round; Effect The throng rips and tears at each enemy within its squares and within 5 feet (DC 33 Reflex save). Damage depends on the number of actions. Single Action Damage 1d10+12 slashing plus 1d6 evil Two Actions Damage 2d10+12 slashing plus 1d6 evil Three Actions Damage 3d10+12 slashing plus 1d6 evil Demonic Tide A demonic rabble is less organized and more vicious than most troops. They can move into other creatures' spaces, and other creatures can move into their spaces. Their spaces are difficult terrain to non-demon creatures. The first time during a turn that a creature hostile to the throng willingly moves into their space, that creature is subjected to the one-action version of Claws, Fangs, and Horns. Form Up Single Action Hurl Debris Single Action to Three Actions Frequency once per round; Effect The throng hurls debris, creating a 10-foot burst within 30 feet (DC 25 basic Reflex save). When the throng is reduced to 8 or fewer squares, this area decreases to a 5-foot burst. Damage depends on the number of actions. Single Action Damage 2d10 bludgeoning Two Actions Damage 4d10 bludgeoning Three Actions Damage 6d10 bludgeoning Troop Movement Whenever the rabble Strides, they first Form Up as a free action to condense into a 20-foot-by-20-foot area (minus any missing squares), then moves up to their Speed. ",
+ "trait": [
+  "Demon",
+  "Fiend",
+  "Rare",
+  "Troop",
+  "CE",
+  "Gargantuan"
+ ],
+ "trait_markdown": "[Demon](/Traits.aspx?ID=42), [Fiend](/Traits.aspx?ID=70), [Rare](/Traits.aspx?ID=137), [Troop](/Traits.aspx?ID=367)",
+ "trait_raw": [
+  "Demon",
+  "Fiend",
+  "Rare",
+  "Troop"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2525",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex",
+  "will"
+ ],
+ "weakness": {
+  "area": 15,
+  "cold_iron": 10,
+  "good": 10
+ },
+ "weakness_markdown": "area damage 15, [cold iron](/Equipment.aspx?ID=375) 10, good 10, [splash](/Traits.aspx?ID=150) damage 10",
+ "weakness_raw": "area damage 15,  cold iron  10, good 10,  splash  damage 10",
+ "will_save": 21,
+ "wisdom": 4
+}

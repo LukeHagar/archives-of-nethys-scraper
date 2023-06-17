@@ -1,0 +1,118 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 3,
+ "constitution": 1,
+ "creature_ability": [
+  "Shadow Shift",
+  "Counterattack",
+  "Slip",
+  "Bide",
+  "Swift Steps",
+  "Tenebral Form"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 5,
+ "exclude_from_search": false,
+ "fortitude_save": 9,
+ "hp": 45,
+ "hp_raw": "45",
+ "id": "creature-1292",
+ "image": [
+  "/Images/Monsters/Shae.png"
+ ],
+ "immunity": [
+  "precision"
+ ],
+ "immunity_markdown": "precision",
+ "intelligence": 3,
+ "language": [
+  "Aklo",
+  "Auran",
+  "Common",
+  "Shae",
+  "Undercommon"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13), [Auran](/Languages.aspx?ID=15), [Common](/Languages.aspx?ID=1), [Shae](/Languages.aspx?ID=71), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Shae](/Monsters.aspx?ID=1292)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nShae are wispy, tenebrous creatures native to the [Plane of Shadow](/Planes.aspx?ID=11). Their amorphous bodies appear in constant states of flux. They cast no shadows of their own, instead gaining and losing umbral energy to nearby shadows that shrink and grow alongside them.\n\n Most shae wear clothing spun from shadows that shift with them, though diplomats sometimes don more conventional garments while entertaining outsiders. Their most distinctive apparel are their white stone masks, which shae don only when they must put on a discernible “face” for interacting with humanoids and similar creatures. They do so begrudgingly, as they consider themselves superior to humanoids, but donning their masks allows them to be more easily understood and thus keeps their interactions with their lessers as brief as possible.\n\n The dynamic between a shae and humanoids shifts when humanoids come to worship a shae, however. A mortal who shows a shae their due deference is worth keeping around, so many shae collect cults of personality or expansive entourages. Even getting a meeting with such a self-important shae can present a challenge that requires one to deal with many layers of hangers-on who insist on vetting the newcomer before wasting the shae's precious time.\n\n According to shae lore, they've transcended the material world and now embody a cosmological equilibrium of reality and illusion. Their claims to metaphysical ascendance and knowledge of the secrets of shadows entice many mortal supplicants to join shae courts and cults. In the shae language, their name means “unbound,” in accordance with their belief that their ephemeral nature makes them free of the moral and social strictures that bind other sentient creatures, and they essentially make a virtue of capriciousness. Shae feel little obligation to follow through with oaths or obey laws, so sealing a compact with a mortal means little to them.\n\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Shae.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Shae](/Monsters.aspx?ID=1292)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 230</row>\n\n**Perception** +10; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13), [Auran](/Languages.aspx?ID=15), [Common](/Languages.aspx?ID=1), [Shae](/Languages.aspx?ID=71), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +13, [Deception](/Skills.aspx?ID=5) +9, [Occultism](/Skills.aspx?ID=11) +11, [Shadow Plane Lore](/Skills.aspx?ID=8) +11, [Stealth](/Skills.aspx?ID=15) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +3\r\n\r\n**Dex** +5\r\n\r\n**Con** +1\r\n\r\n**Int** +3\r\n\r\n**Wis** +2\r\n\r\n**Cha** +3\r\n</row>\r\n\r\n**Shadow Shift** Being made partially of shadow themselves, shae are [concealed](/Conditions.aspx?ID=4) in dim light or darkness even to creatures that can see clearly in those light levels.\r\n\r\n**Items**\r\n[Dagger](/Weapons.aspx?ID=3) (5)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 \r\n\r\n**Fort** +9 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 45\n\n**Immunities**\r\nprecision\r\n\r\n**Resistances**\r\ncold 5, negative 5\n\n**Counterattack** <actions string=\"Reaction\" /> **Trigger** The shae is targeted by an attack from an adjacent creature that misses due to the shae being [concealed](/Conditions.aspx?ID=4); **Requirements** The shae is aware of the attack; **Effect** The shae makes a Strike against the attacker.<br />**Slip**<actions string=\"Reaction\" /> **Trigger** A creature moves adjacent to the shae; **Effect** The shae teleports to a clear space adjacent to another creature they can see within 30 feet.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet, fly 35 feet; swift steps, tenebral form\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndagger +13 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+5 piercing and 1d6 cold\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\ndagger +13 ([Agile](/Traits.aspx?ID=170), [thrown 10 feet](/Traits.aspx?ID=195), [versatile S](/Traits.aspx?ID=200)),\r\n**Damage** 1d4+5 piercing and 1d6 cold\r\n\r\n**Occult Innate Spells** DC 21\r\n- **Cantrips (2nd)**\r\n[Chill Touch](/Spells.aspx?ID=35), [Detect Magic](/Spells.aspx?ID=66)\r\n- **4th**\r\n[Gaseous Form](/Spells.aspx?ID=129) (at will)\r\n- **7th**\r\n[Plane Shift](/Spells.aspx?ID=222) (self only; to [Shadow Plane](/Planes.aspx?ID=11) or [Material Plane](/Planes.aspx?ID=1) only)\r\n\r\n**Bide** <actions string=\"Two Actions\" />  The shae prepares to take action against their foes, watching their opponent and waiting for the right opportunity to respond. The shae gains a second reaction until the start of their next turn, though they still can't use more than one reaction on the same triggering action.\r\n\r\n**Swift Steps**   The shae's movement doesn't trigger reactions.\r\n\r\n**Tenebral Form**   The shae can Fly at full Speed in gaseous form.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_4_RelatedCreatures.png\">Children of Shadows</title>\r\n\r\nThough rare, shae occasionally engage in relationships with mortals, resulting in children born as [fetchlings](/Ancestries.aspx?ID=30). Though shae maintain a cool superiority over their mortal children, fetchlings who join a shae's cult are placed in positions of authority over other mortals and receive blatantly preferential treatment.\r\n</aside>",
+ "name": "Shae",
+ "npc": false,
+ "perception": 10,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2021-04-07",
+ "resistance": {
+  "cold": 5,
+  "negative": 5
+ },
+ "resistance_markdown": "cold 5, negative 5",
+ "resistance_raw": "cold 5, negative 5",
+ "search_markdown": "<traits>\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 230</row>\n\n<row gap=\"medium\">\r\n**HP** 45\r\n\r\n**AC** 21\r\n\r\n**Fort** +9\r\n\r\n**Ref** +11\r\n\r\n**Will** +10\r\n\r\n**Perception** +10\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShae are wispy, tenebrous creatures native to the  Plane of Shadow . Their amorphous bodies appear in constant states of flux. They cast no shadows …\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +13",
+  "Deception +9",
+  "Occultism +11",
+  "Shadow Plane Lore +11",
+  "Stealth +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +13, [Deception](/Skills.aspx?ID=5) +9, [Occultism](/Skills.aspx?ID=11) +11, [Shadow Plane Lore](/Skills.aspx?ID=8) +11, [Stealth](/Skills.aspx?ID=15) +13",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 230"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 230</row>",
+ "speed": {
+  "fly": 35,
+  "land": 25,
+  "max": 35
+ },
+ "speed_markdown": "25 feet, fly 35 feet; swift steps, tenebral form",
+ "speed_raw": "25 feet, fly 35 feet; swift steps, tenebral form",
+ "spell": [
+  "Plane Shift",
+  "Gaseous Form",
+  "Chill Touch",
+  "Detect Magic"
+ ],
+ "spell_markdown": "[Chill Touch](/Spells.aspx?ID=35), [Detect Magic](/Spells.aspx?ID=66), [Gaseous Form](/Spells.aspx?ID=129), [Plane Shift](/Spells.aspx?ID=222)",
+ "stealth": "13",
+ "strength": 3,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "Shae are wispy, tenebrous creatures native to the  Plane of Shadow . Their amorphous bodies appear in constant states of flux. They cast no shadows …",
+ "summary_markdown": "Shae are wispy, tenebrous creatures native to the  Plane of Shadow . Their amorphous bodies appear in constant states of flux. They cast no shadows …",
+ "text": " Shae Shae are wispy, tenebrous creatures native to the Plane of Shadow. Their amorphous bodies appear in constant states of flux. They cast no shadows of their own, instead gaining and losing umbral energy to nearby shadows that shrink and grow alongside them. Most shae wear clothing spun from shadows that shift with them, though diplomats sometimes don more conventional garments while entertaining outsiders. Their most distinctive apparel are their white stone masks, which shae don only when they must put on a discernible “face” for interacting with humanoids and similar creatures. They do so begrudgingly, as they consider themselves superior to humanoids, but donning their masks allows them to be more easily understood and thus keeps their interactions with their lessers as brief as possible. The dynamic between a shae and humanoids shifts when humanoids come to worship a shae, however. A mortal who shows a shae their due deference is worth keeping around, so many shae collect cults of personality or expansive entourages. Even getting a meeting with such a self-important shae can present a challenge that requires one to deal with many layers of hangers-on who insist on vetting the newcomer before wasting the shae's precious time. According to shae lore, they've transcended the material world and now embody a cosmological equilibrium of reality and illusion. Their claims to metaphysical ascendance and knowledge of the secrets of shadows entice many mortal supplicants to join shae courts and cults. In the shae language, their name means “unbound,” in accordance with their belief that their ephemeral nature makes them free of the moral and social strictures that bind other sentient creatures, and they essentially make a virtue of capriciousness. Shae feel little obligation to follow through with oaths or obey laws, so sealing a compact with a mortal means little to them. Shae Source Bestiary 3 pg. 230 Perception +10; darkvision Languages Aklo, Auran, Common, Shae, Undercommon Skills Acrobatics +13, Deception +9, Occultism +11, Shadow Plane Lore +11, Stealth +13 Str +3 Dex +5 Con +1 Int +3 Wis +2 Cha +3 Shadow Shift Being made partially of shadow themselves, shae are concealed in dim light or darkness even to creatures that can see clearly in those light levels. Items Dagger (5) --- AC 21 Fort +9 Ref +11 Will +10 HP 45 Immunities precision Resistances cold 5, negative 5 Counterattack Reaction Trigger The shae is targeted by an attack from an adjacent creature that misses due to the shae being concealed; Requirements The shae is aware of the attack; Effect The shae makes a Strike against the attacker. Slip Reaction Trigger A creature moves adjacent to the shae; Effect The shae teleports to a clear space adjacent to another creature they can see within 30 feet. --- Speed 25 feet, fly 35 feet; swift steps, tenebral form Melee Single Action dagger +13 (Agile, Finesse, versatile S), Damage 1d4+5 piercing and 1d6 cold Ranged Single Action dagger +13 (Agile, thrown 10 feet, versatile S), Damage 1d4+5 piercing and 1d6 cold Occult Innate Spells DC 21 - Cantrips (2nd) Chill Touch, Detect Magic - 4th Gaseous Form (at will) - 7th Plane Shift (self only; to Shadow Plane or Material Plane only) Bide Two Actions The shae prepares to take action against their foes, watching their opponent and waiting for the right opportunity to respond. The shae gains a second reaction until the start of their next turn, though they still can't use more than one reaction on the same triggering action. Swift Steps The shae's movement doesn't trigger reactions. Tenebral Form The shae can Fly at full Speed in gaseous form. Children of Shadows Though rare, shae occasionally engage in relationships with mortals, resulting in children born as fetchlings. Though shae maintain a cool superiority over their mortal children, fetchlings who join a shae's cult are placed in positions of authority over other mortals and receive blatantly preferential treatment. ",
+ "trait": [
+  "Shadow",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Shadow](/Traits.aspx?ID=143)",
+ "trait_raw": [
+  "Shadow"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1292",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 10,
+ "wisdom": 2
+}

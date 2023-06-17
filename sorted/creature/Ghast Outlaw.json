@@ -1,0 +1,109 @@
+{
+ "ac": 28,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 1,
+ "constitution": 3,
+ "creature_ability": [
+  "Stench",
+  "Attack of Opportunity",
+  "Consume Flesh",
+  "Ghast Fever",
+  "Paralysis",
+  "Sneak Attack",
+  "Swift Leap"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 6,
+ "exclude_from_search": false,
+ "fortitude_save": 18,
+ "hp": 155,
+ "hp_raw": "155 ( negative healing )",
+ "id": "creature-2091",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "paralyzed",
+  "poison",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)",
+ "intelligence": 0,
+ "language": [
+  "Common",
+  "Necril"
+ ],
+ "language_markdown": "[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"\">[Ghast Outlaw](/Monsters.aspx?ID=2091)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\n\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Undead](/Rules.aspx?ID=563)**\r\n([Religion](/Skills.aspx?ID=13)): DC 28\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 26\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 23\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Ghast Outlaw](/Monsters.aspx?ID=2091)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 45</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\r\n[Common](/Languages.aspx?ID=1), [Necril](/Languages.aspx?ID=20)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +19, [Deception](/Skills.aspx?ID=5) +16, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +18, [Thievery](/Skills.aspx?ID=17) +19\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +6\r\n\r\n**Con** +3\r\n\r\n**Int** +0\r\n\r\n**Wis** +3\r\n\r\n**Cha** +1\r\n</row>\n\n**Items**\r\nbackpack with components for a [striking snare](/Equipment.aspx?ID=345), [infiltrator thieves' tools](/Equipment.aspx?ID=58)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 28 \r\n\r\n**Fort** +18 \r\n\r\n**Ref** +20 \r\n\r\n**Will** +16 \n\n</row>\r\n\r\n**HP** 155\r\n([negative healing](/MonsterAbilities.aspx?ID=42))\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38)\n\n**Stench** ([aura](/Traits.aspx?ID=206), [olfactory](/Traits.aspx?ID=246)) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 26 Fortitude save or become [sickened 1](/Conditions.aspx?ID=34) (plus slowed 1 as long as it's sickened on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against [disease](/Traits.aspx?ID=46) and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.<br />**[Attack of Opportunity](/MonsterAbilities.aspx?ID=3)** <actions string=\"Reaction\" /> \r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, burrow 5 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +21 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d8+8 piercing plus ghast fever and paralysis\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +21 ([Agile](/Traits.aspx?ID=170), [Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d6+8 slashing plus paralysis\n\n**Consume Flesh** <actions string=\"Single Action\" /> ([Manipulate](/Traits.aspx?ID=104)) **Requirements** The ghast is adjacent to the corpse of a creature that died within the last hour; **Effect** The ghast devours a chunk of the corpse and regains 6d6 Hit Points. It can regain Hit Points from any given corpse only once.\r\n\r\n**Ghast Fever**  ([Disease](/Traits.aspx?ID=46)) **Saving Throw** Fortitude DC 26; **Stage 1** carrier with no ill effect (1 day); **Stage 2** 3d8 negative damage and regains half as many Hit Points from all healing (1 day); **Stage 3** as stage 2 (1 day); **Stage 4** 3d8 negative damage and gains no benefit from healing (1 day); **Stage 5** as stage 4 (1 day); **Stage 6** dead, and rises as a ghast the next midnight.\r\n\r\n**Paralysis**  ([Incapacitation](/Traits.aspx?ID=93), [Occult](/Traits.aspx?ID=120), [Necromancy](/Traits.aspx?ID=117)) Any living creature hit by a ghast's attack must succeed at a DC 26 Fortitude save or become [paralyzed](/Conditions.aspx?ID=28). It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.\r\n\r\n**[Sneak Attack](/MonsterAbilities.aspx?ID=34)**   The ghast's Strikes deal an additional 2d6 precision damage to [flat-footed](/Conditions.aspx?ID=16) creatures.\r\n\r\n**Swift Leap** <actions string=\"Single Action\" /> ([Move](/Traits.aspx?ID=114)) The ghast jumps up to half its Speed. This movement doesn't trigger reactions.\r\n\r\n</column>",
+ "name": "Ghast Outlaw",
+ "npc": false,
+ "perception": 15,
+ "rarity": "uncommon",
+ "reflex_save": 20,
+ "release_date": "2022-09-21",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Ghoul\" url=\"/Traits.aspx?ID=218\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 45</row>\n\n<row gap=\"medium\">\r\n**HP** 155 ( negative healing )\r\n\r\n**AC** 28\r\n\r\n**Fort** +18\r\n\r\n**Ref** +20\r\n\r\n**Will** +16\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +19",
+  "Athletics +19",
+  "Deception +16",
+  "Stealth +21",
+  "Survival +18",
+  "Thievery +19"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +19, [Athletics](/Skills.aspx?ID=3) +19, [Deception](/Skills.aspx?ID=5) +16, [Stealth](/Skills.aspx?ID=15) +21, [Survival](/Skills.aspx?ID=16) +18, [Thievery](/Skills.aspx?ID=17) +19",
+ "source": [
+  "Pathfinder #183: Field of Maidens"
+ ],
+ "source_raw": [
+  "Pathfinder #183: Field of Maidens pg. 45"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Blood Lords",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #183: Field of Maidens](/Sources.aspx?ID=145) pg. 45</row>",
+ "speed": {
+  "burrow": 5,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, burrow 5 feet",
+ "speed_raw": "30 feet, burrow 5 feet",
+ "spell_markdown": "",
+ "spoilers": "Blood Lords",
+ "stealth": "21",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "text": " Ghast Outlaw Recall Knowledge - Undead (Religion): DC 28 Unspecific Lore : DC 26 Specific Lore : DC 23 Ghast Outlaw Source Pathfinder #183: Field of Maidens pg. 45 Perception +15; darkvision Languages Common, Necril Skills Acrobatics +19, Athletics +19, Deception +16, Stealth +21, Survival +18, Thievery +19 Str +4 Dex +6 Con +3 Int +0 Wis +3 Cha +1 Items backpack with components for a striking snare, infiltrator thieves' tools --- AC 28 Fort +18 Ref +20 Will +16 HP 155 (negative healing) Immunities death effects, disease, paralyzed, poison, unconscious Stench (aura, olfactory) 10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 26 Fortitude save or become sickened 1 (plus slowed 1 as long as it's sickened on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against disease and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute. Attack of Opportunity Reaction --- Speed 30 feet, burrow 5 feet Melee Single Action jaws +21 (Finesse), Damage 2d8+8 piercing plus ghast fever and paralysis Melee Single Action claw +21 (Agile, Finesse), Damage 2d6+8 slashing plus paralysis Consume Flesh Single Action (Manipulate) Requirements The ghast is adjacent to the corpse of a creature that died within the last hour; Effect The ghast devours a chunk of the corpse and regains 6d6 Hit Points. It can regain Hit Points from any given corpse only once. Ghast Fever (Disease) Saving Throw Fortitude DC 26; Stage 1 carrier with no ill effect (1 day); Stage 2 3d8 negative damage and regains half as many Hit Points from all healing (1 day); Stage 3 as stage 2 (1 day); Stage 4 3d8 negative damage and gains no benefit from healing (1 day); Stage 5 as stage 4 (1 day); Stage 6 dead, and rises as a ghast the next midnight. Paralysis (Incapacitation, Occult, Necromancy) Any living creature hit by a ghast's attack must succeed at a DC 26 Fortitude save or become paralyzed. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save. Sneak Attack The ghast's Strikes deal an additional 2d6 precision damage to flat-footed creatures. Swift Leap Single Action (Move) The ghast jumps up to half its Speed. This movement doesn't trigger reactions. ",
+ "trait": [
+  "Ghoul",
+  "Uncommon",
+  "Undead",
+  "CE",
+  "Medium"
+ ],
+ "trait_markdown": "[Ghoul](/Traits.aspx?ID=218), [Uncommon](/Traits.aspx?ID=159), [Undead](/Traits.aspx?ID=160)",
+ "trait_raw": [
+  "Ghoul",
+  "Uncommon",
+  "Undead"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=2091",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 16,
+ "wisdom": 3
+}

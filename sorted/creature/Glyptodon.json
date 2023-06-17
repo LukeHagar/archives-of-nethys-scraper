@@ -1,0 +1,85 @@
+{
+ "ac": 23,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -2,
+ "constitution": 4,
+ "creature_ability": [
+  "Carapace Block",
+  "Clobbering Tail"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 2,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 65,
+ "hp_raw": "65",
+ "id": "creature-1755",
+ "image": [
+  "/Images/Monsters/Glyptodon.png"
+ ],
+ "intelligence": -4,
+ "language_markdown": "",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Limited\">[Glyptodon](/Monsters.aspx?ID=1755)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nGlyptodons are enormous, armadillo-like megafauna that roam sandy riverbanks and ancient forests in search of their favorite foods, namely riparian grass and tender saplings. Surly and suspicious, glyptodons avoid predators not out of a defensive instinct—their armored hides protect them from most well-equipped carnivores—but rather because they simply prefer to be left alone to their placid foraging. Despite their great size, glyptodons can survive on surprisingly little food, and they'll eat just about anything. As a result, they're more likely to be encountered roaming across vast tundra or desert regions than other large herbivores, appearing as a single, lumbering hump against an otherwise-flat horizon.\n\n A glyptodon's scutes—the thick, bony plates of its carapace—grow in distinctive patterns and scar readily, making it easy for non-glyptodons to identify individual animals. Glyptodons have notoriously bad eyesight, even for prey animals, and rely on their sense of smell to get around and identify threats and each other. In combat, they primarily rely on their thick carapaces to protect them from attackers.\n\n Although southern merchants have occasionally attempted to create a glyptodon-mounted trading network, riding these giants is an exercise in frustration, as their rounded hides provide little purchase for humanoid riders' feet or saddles. However, some webbed-toed people of the plains, including bands of lizardfolk, have managed to maintain glyptodon mounts thanks to their strong, flexible, clawed feet. Other ancestries primarily view glyptodons as a source of meat and tough hides, the latter of which make for excellent impromptu shelters and river boats.\n\n When cornered, a glyptodon uses its powerful digging claws to scrape or scare away attackers. Glyptodons can use their tails to ward off smaller predators, but generally do so only as a last resort.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Animal](/Rules.aspx?ID=563)**\r\n([Nature](/Skills.aspx?ID=10)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Glyptodon.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Glyptodon](/Monsters.aspx?ID=1755)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 82</row>\n\n**Perception** +9; [scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +14\r\n\r\n<row gap=\"medium\">\r\n**Str** +6\r\n\r\n**Dex** +2\r\n\r\n**Con** +4\r\n\r\n**Int** -4\r\n\r\n**Wis** +2\r\n\r\n**Cha** -2\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23 \r\n\r\n**Fort** +15 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +9 \n\n</row>\r\n\r\n**HP** 65\n\n**Carapace Block** <actions string=\"Reaction\" /> **Trigger** An adjacent creature targets the glyptodon with an attack; **Effect** The glyptodon turns, blocking the attack with its carapace and thrusting its heavy body toward the attacker. It gains a +2 circumstance bonus to its AC against the triggering attack. If the attack critically fails, the glyptodon attempts to [Shove](/Actions.aspx?ID=38) the attacker.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 25 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nclaw +15 ([Agile](/Traits.aspx?ID=170)),\r\n**Damage** 2d6+6 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntail +15 ([reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d10+6 bludgeoning plus clobbering tail\n\n**Clobbering Tail**   A glyptodon's stiff tail is its strongest weapon. When a glyptodon critically hits with its tail Strike, the target is [flat-footed](/Conditions.aspx?ID=16) for 1 round.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Glyptodon Hide</title>\r\n\r\nWhen properly treated, a freshly slain glyptodon's scutes contract into tough disks that repel blows. The carapace can be cut up and fashioned into a heavy but protective suit of hide armor with a distinctive, armadillo-like look. \r\n</aside>",
+ "name": "Glyptodon",
+ "npc": false,
+ "perception": 9,
+ "pfs": "Limited",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2022-01-26",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Animal\" url=\"/Traits.aspx?ID=9\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 82</row>\n\n<row gap=\"medium\">\r\n**HP** 65\r\n\r\n**AC** 23\r\n\r\n**Fort** +15\r\n\r\n**Ref** +11\r\n\r\n**Will** +9\r\n\r\n**Perception** +9\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGlyptodons are enormous, armadillo-like megafauna that roam sandy riverbanks and ancient forests in search of their favorite foods, namely riparian …\r\n</summary>",
+ "sense": " scent  (imprecise) 30 feet",
+ "sense_markdown": "[scent](/MonsterAbilities.aspx?ID=33) (imprecise) 30 feet",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Athletics +14"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +14",
+ "source": [
+  "Pathfinder #175: Broken Tusk Moon"
+ ],
+ "source_raw": [
+  "Pathfinder #175: Broken Tusk Moon pg. 82"
+ ],
+ "source_category": "Adventure Paths",
+ "source_group": "Quest for the Frozen Flame",
+ "source_markdown": "<row gap=\"tiny\">[Pathfinder #175: Broken Tusk Moon](/Sources.aspx?ID=112) pg. 82</row>",
+ "speed": {
+  "land": 25,
+  "max": 25
+ },
+ "speed_markdown": "25 feet",
+ "speed_raw": "25 feet",
+ "spell_markdown": "",
+ "strength": 6,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Glyptodons are enormous, armadillo-like megafauna that roam sandy riverbanks and ancient forests in search of their favorite foods, namely riparian …",
+ "summary_markdown": "Glyptodons are enormous, armadillo-like megafauna that roam sandy riverbanks and ancient forests in search of their favorite foods, namely riparian …",
+ "text": " Glyptodon Glyptodons are enormous, armadillo-like megafauna that roam sandy riverbanks and ancient forests in search of their favorite foods, namely riparian grass and tender saplings. Surly and suspicious, glyptodons avoid predators not out of a defensive instinct—their armored hides protect them from most well-equipped carnivores—but rather because they simply prefer to be left alone to their placid foraging. Despite their great size, glyptodons can survive on surprisingly little food, and they'll eat just about anything. As a result, they're more likely to be encountered roaming across vast tundra or desert regions than other large herbivores, appearing as a single, lumbering hump against an otherwise-flat horizon. A glyptodon's scutes—the thick, bony plates of its carapace—grow in distinctive patterns and scar readily, making it easy for non-glyptodons to identify individual animals. Glyptodons have notoriously bad eyesight, even for prey animals, and rely on their sense of smell to get around and identify threats and each other. In combat, they primarily rely on their thick carapaces to protect them from attackers. Although southern merchants have occasionally attempted to create a glyptodon-mounted trading network, riding these giants is an exercise in frustration, as their rounded hides provide little purchase for humanoid riders' feet or saddles. However, some webbed-toed people of the plains, including bands of lizardfolk, have managed to maintain glyptodon mounts thanks to their strong, flexible, clawed feet. Other ancestries primarily view glyptodons as a source of meat and tough hides, the latter of which make for excellent impromptu shelters and river boats. When cornered, a glyptodon uses its powerful digging claws to scrape or scare away attackers. Glyptodons can use their tails to ward off smaller predators, but generally do so only as a last resort. Recall Knowledge - Animal (Nature): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Glyptodon Source Pathfinder #175: Broken Tusk Moon pg. 82 Perception +9; scent (imprecise) 30 feet Languages Skills Athletics +14 Str +6 Dex +2 Con +4 Int -4 Wis +2 Cha -2 --- AC 23 Fort +15 Ref +11 Will +9 HP 65 Carapace Block Reaction Trigger An adjacent creature targets the glyptodon with an attack; Effect The glyptodon turns, blocking the attack with its carapace and thrusting its heavy body toward the attacker. It gains a +2 circumstance bonus to its AC against the triggering attack. If the attack critically fails, the glyptodon attempts to Shove the attacker. --- Speed 25 feet Melee Single Action claw +15 (Agile), Damage 2d6+6 slashing Melee Single Action tail +15 (reach 10 feet), Damage 2d10+6 bludgeoning plus clobbering tail Clobbering Tail A glyptodon's stiff tail is its strongest weapon. When a glyptodon critically hits with its tail Strike, the target is flat-footed for 1 round. Glyptodon Hide When properly treated, a freshly slain glyptodon's scutes contract into tough disks that repel blows. The carapace can be cut up and fashioned into a heavy but protective suit of hide armor with a distinctive, armadillo-like look. ",
+ "trait": [
+  "Animal",
+  "N",
+  "Large"
+ ],
+ "trait_markdown": "[Animal](/Traits.aspx?ID=9)",
+ "trait_raw": [
+  "Animal"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1755",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {},
+ "will_save": 9,
+ "wisdom": 2
+}

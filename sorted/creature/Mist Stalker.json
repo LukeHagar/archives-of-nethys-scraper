@@ -1,0 +1,104 @@
+{
+ "ac": 20,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 2,
+ "creature_ability": [
+  "Mist Cloud",
+  "Mist Vision",
+  "Constrict",
+  "Solidify Mist"
+ ],
+ "creature_family": "Elemental, Water",
+ "creature_family_markdown": "[Elemental, Water](/MonsterFamilies.aspx?ID=45)",
+ "dexterity": 4,
+ "exclude_from_search": false,
+ "fortitude_save": 10,
+ "hp": 58,
+ "hp_raw": "58",
+ "id": "creature-664",
+ "immunity": [
+  "bleed",
+  "paralyzed",
+  "poison",
+  "sleep"
+ ],
+ "immunity_markdown": "bleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)",
+ "intelligence": 1,
+ "language": [
+  "Aquan"
+ ],
+ "language_markdown": "[Aquan](/Languages.aspx?ID=14)",
+ "level": 4,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Mist Stalker](/Monsters.aspx?ID=664)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe tentacled mist stalker shrouds itself in a cloak of mist through which its single, never-blinking eye can see with clarity, allowing it an advantage when stalking its prey.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Elemental](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10)): DC 19\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 17\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 14\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 4\">[Mist Stalker](/Monsters.aspx?ID=664)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 114 <sup>2.0</sup></row>\n\n**Perception** +13; [darkvision](/MonsterAbilities.aspx?ID=12), mist vision\r\n\r\n**Languages**\r\n[Aquan](/Languages.aspx?ID=14)\r\n\r\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +11, [Stealth](/Skills.aspx?ID=15) +12\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +4\r\n\r\n**Con** +2\r\n\r\n**Int** +1\r\n\r\n**Wis** +5\r\n\r\n**Cha** +0\r\n</row>\r\n\r\n**Mist Cloud** ([aura](/Traits.aspx?ID=206), [conjuration](/Traits.aspx?ID=33), [primal](/Traits.aspx?ID=134), [water](/Traits.aspx?ID=165)) 15 feet. The mist stalker is surrounded by mist. Creatures in the aura are [concealed](/Conditions.aspx?ID=4). If wind disperses the aura, it returns automatically at the start of the mist stalker's turn. This cloud is suppressed in water.<br />**Mist Vision** The mist stalker ignores the [concealed](/Conditions.aspx?ID=4) condition from mist and fog.\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20 \r\n\r\n**Fort** +10 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +11 \n\n</row>\r\n\r\n**HP** 58\n\n**Immunities**\r\nbleed, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145)\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 20 feet, climb 20 feet, swim 30 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ntentacle +14 ([Finesse](/Traits.aspx?ID=179), [Sweep](/Traits.aspx?ID=194), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 2d8+4 bludgeoning plus [Grab](/MonsterAbilities.aspx?ID=18)\n\n**[Constrict](/MonsterAbilities.aspx?ID=10)** <actions string=\"Single Action\" />  1d8+4 bludgeoning, DC 21\r\n\r\n**Solidify Mist** <actions string=\"Single Action\" /> ([Primal](/Traits.aspx?ID=134), [Transmutation](/Traits.aspx?ID=157), [Water](/Traits.aspx?ID=165)) The mist stalker makes its mist cloud congeal, causing the aura to be difficult terrain until the start of the mist stalker's next turn. In addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 20 Reflex save or become [immobilized](/Conditions.aspx?ID=24) until it [Escapes](/Actions.aspx?ID=79) or it is no longer in the mist cloud's emanation.\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-45\" />",
+ "name": "Mist Stalker",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2020-05-27",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Amphibious\" url=\"/Traits.aspx?ID=207\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n<trait label=\"Water\" url=\"/Traits.aspx?ID=165\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 114 <sup>2.0</sup></row>\r\n\r\n**Creature Family** [Elemental, Water](/MonsterFamilies.aspx?ID=45)\r\n\r\n<row gap=\"medium\">\r\n**HP** 58\r\n\r\n**AC** 20\r\n\r\n**Fort** +10\r\n\r\n**Ref** +12\r\n\r\n**Will** +11\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe tentacled mist stalker shrouds itself in a cloak of mist through which its single, never-blinking eye can see with clarity, allowing it an …\r\n</summary>",
+ "sense": " darkvision , mist vision",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12), mist vision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Athletics +11",
+  "Stealth +12"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +11, [Stealth](/Skills.aspx?ID=15) +12",
+ "source": [
+  "Bestiary 2"
+ ],
+ "source_raw": [
+  "Bestiary 2 pg. 114"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 2](/Sources.aspx?ID=32) pg. 114 <sup>2.0</sup></row>",
+ "speed": {
+  "climb": 20,
+  "land": 20,
+  "max": 30,
+  "swim": 30
+ },
+ "speed_markdown": "20 feet, climb 20 feet, swim 30 feet",
+ "speed_raw": "20 feet, climb 20 feet, swim 30 feet",
+ "spell_markdown": "",
+ "stealth": "12",
+ "strength": 4,
+ "strongest_save": [
+  "ref",
+  "reflex"
+ ],
+ "summary": "The tentacled mist stalker shrouds itself in a cloak of mist through which its single, never-blinking eye can see with clarity, allowing it an …",
+ "summary_markdown": "The tentacled mist stalker shrouds itself in a cloak of mist through which its single, never-blinking eye can see with clarity, allowing it an …",
+ "text": " Mist Stalker The tentacled mist stalker shrouds itself in a cloak of mist through which its single, never-blinking eye can see with clarity, allowing it an advantage when stalking its prey. Recall Knowledge - Elemental (Arcana, Nature): DC 19 Unspecific Lore : DC 17 Specific Lore : DC 14 Mist Stalker Source Bestiary 2 pg. 114 2.0 Perception +13; darkvision, mist vision Languages Aquan Skills Athletics +11, Stealth +12 Str +4 Dex +4 Con +2 Int +1 Wis +5 Cha +0 Mist Cloud (aura, conjuration, primal, water) 15 feet. The mist stalker is surrounded by mist. Creatures in the aura are concealed. If wind disperses the aura, it returns automatically at the start of the mist stalker's turn. This cloud is suppressed in water. Mist Vision The mist stalker ignores the concealed condition from mist and fog. --- AC 20 Fort +10 Ref +12 Will +11 HP 58 Immunities bleed, paralyzed, poison, sleep --- Speed 20 feet, climb 20 feet, swim 30 feet Melee Single Action tentacle +14 (Finesse, Sweep, reach 10 feet), Damage 2d8+4 bludgeoning plus Grab Constrict Single Action 1d8+4 bludgeoning, DC 21 Solidify Mist Single Action (Primal, Transmutation, Water) The mist stalker makes its mist cloud congeal, causing the aura to be difficult terrain until the start of the mist stalker's next turn. In addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 20 Reflex save or become immobilized until it Escapes or it is no longer in the mist cloud's emanation. ",
+ "trait": [
+  "Amphibious",
+  "Elemental",
+  "Water",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Amphibious](/Traits.aspx?ID=207), [Elemental](/Traits.aspx?ID=57), [Water](/Traits.aspx?ID=165)",
+ "trait_raw": [
+  "Amphibious",
+  "Elemental",
+  "Water"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=664",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "weakness": {},
+ "will_save": 11,
+ "wisdom": 5
+}

@@ -1,0 +1,121 @@
+{
+ "ac": 24,
+ "alignment": "CE",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 4,
+ "constitution": 3,
+ "creature_ability": [
+  "Drider Venom",
+  "Web Trap"
+ ],
+ "creature_family": "Fleshwarp",
+ "creature_family_markdown": "[Fleshwarp](/MonsterFamilies.aspx?ID=47)",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 13,
+ "hp": 95,
+ "hp_raw": "95",
+ "id": "creature-207",
+ "image": [
+  "/Images/Monsters/Fleshwarp_Drider.png"
+ ],
+ "immunity": [
+  "sleep"
+ ],
+ "immunity_markdown": "sleep",
+ "intelligence": 2,
+ "language": [
+  "Elven",
+  "Undercommon"
+ ],
+ "language_markdown": "[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)",
+ "level": 6,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Drider](/Monsters.aspx?ID=207)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThe first fleshwarping process mastered by the drow remains both their most successful and most infamous: the drider. Fusing the body of a drow with that of a giant spider, driders are a sexually dimorphic fleshwarp—the only fleshwarp known to be able to produce young. While female driders have the upper torsos of elegant drow women with mouths featuring sharp poisoned fangs, male driders have hideous, mutated countenances that further blend the humanoid form with that of a spider; the difference in appearance is perhaps a reflection on the matriarchal nature of drow society. In combat, all driders are equally dangerous.\n\n Although the fleshwarping process was originally intended to be a punishment for drow who fell from grace, the significant powers and strengths gained from the horrifying transformation are attractive to some drow, and an increasing number of lower-ranking citizens in drow cities volunteer themselves for the painful procedure. In return for mandatory time (typically measured in decades) serving as a guardian, soldier, or other public servant, such volunteer driders are later allowed to lead their own lives, typically in caverns located in a city’s periphery. The painful truth is that for most driders, they do not live long enough to see this reward, for the drow have a penchant for working their fleshwarped slaves to death or deploying them in deadly war missions in which survival is a only a remote possibility.\n\n Most driders use arcane magic, but driders who use divine magic are well known, while a rare few use occult or primal magic. A drider’s innate spells remain the same regardless of the magical tradition, but those who use different types of magic as prepared spells may well have entirely different spells prepared than the drider presented below.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 22\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 20\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 17\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/Fleshwarp_Drider.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 6\">[Drider](/Monsters.aspx?ID=207)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 159</row>\n\n**Perception** +13; darkvision\r\n\r\n**Languages**\r\n[Elven](/Languages.aspx?ID=4), [Undercommon](/Languages.aspx?ID=11)\r\n\r\n**Skills**\r\n[Arcana](/Skills.aspx?ID=2) +14, [Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +14, [Religion](/Skills.aspx?ID=13) +13, [Stealth](/Skills.aspx?ID=15) +15\r\n\r\n<row gap=\"medium\">\r\n**Str** +4\r\n\r\n**Dex** +3\r\n\r\n**Con** +3\r\n\r\n**Int** +2\r\n\r\n**Wis** +3\r\n\r\n**Cha** +4\r\n</row>\n\n**Items**\r\n[Glaive](/Weapons.aspx?ID=20), _+1 [composite longbow](/Weapons.aspx?ID=74)_ (20 arrows)\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24 \r\n\r\n**Fort** +13 \r\n\r\n**Ref** +13 \r\n\r\n**Will** +15 \r\n\r\n+1 status to all saves vs. magic\r\n</row>\r\n\r\n**HP** 95\n\n**Immunities**\r\nsleep\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 30 feet, climb 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nglaive +16 ([deadly 1d8](/Traits.aspx?ID=174), [Forceful](/Traits.aspx?ID=180), [reach 10 feet](/Traits.aspx?ID=192)),\r\n**Damage** 1d8+10 slashing\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\nfangs +16,\r\n**Damage** 1d6+10 piercing plus drider venom\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\n_composite longbow_ +16 ([deadly d10](/Traits.aspx?ID=174), [Magical](/Traits.aspx?ID=103), [Propulsive](/Traits.aspx?ID=191), [range increment 100 feet](/Traits.aspx?ID=248), [reload 0](/Traits.aspx?ID=254), [volley 50 feet](/Traits.aspx?ID=201)),\r\n**Damage** 1d8+8 piercing\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nweb +15 ([range increment 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** web trap\r\n\r\n**Arcane Innate Spells** DC 20\r\n- **Cantrips (3rd)**\r\n[Dancing Lights](/Spells.aspx?ID=58), [Detect Magic](/Spells.aspx?ID=66)\r\n- **2nd**\r\n[Darkness](/Spells.aspx?ID=59) (at will), [Faerie Fire](/Spells.aspx?ID=107) (at will)\r\n- **3rd**\r\n[Clairaudience](/Spells.aspx?ID=39), [Dispel Magic](/Spells.aspx?ID=78), [Levitate](/Spells.aspx?ID=170)\r\n- **4th**\r\n[Clairvoyance](/Spells.aspx?ID=40), [Suggestion](/Spells.aspx?ID=315)\r\n\r\n**Arcane Prepared Spells** DC 24, attack +17\r\n- **Cantrips (3rd)**\r\n[Ghost Sound](/Spells.aspx?ID=132), [Mage Hand](/Spells.aspx?ID=177), [Ray of Frost](/Spells.aspx?ID=245)\r\n- **1st**\r\n[Magic Missile](/Spells.aspx?ID=180) (x2), [Ray of Enfeeblement](/Spells.aspx?ID=244)\r\n- **2nd**\r\n[Acid Arrow](/Spells.aspx?ID=2), [Invisibility](/Spells.aspx?ID=164)\r\n- **3rd**\r\n[Fireball](/Spells.aspx?ID=119)\r\n\r\n**Drider Venom**  ([Poison](/Traits.aspx?ID=126)) **Saving Throw** DC 23 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** 1d8 poison damage and [enfeebled 1](/Conditions.aspx?ID=13) (1 round)\r\n\r\n**Web Trap**   A creature hit by a drider’s web attack is [immobilized](/Conditions.aspx?ID=24) and stuck to the nearest surface (Escape DC 21).\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-47\" />",
+ "name": "Drider",
+ "npc": false,
+ "perception": 13,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 13,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 159</row>\r\n\r\n**Creature Family** [Fleshwarp](/MonsterFamilies.aspx?ID=47)\r\n\r\n<row gap=\"medium\">\r\n**HP** 95\r\n\r\n**AC** 24\r\n\r\n**Fort** +13\r\n\r\n**Ref** +13\r\n\r\n**Will** +15\r\n\r\n**Perception** +13\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe first fleshwarping process mastered by the drow remains both their most successful and most infamous: the drider. Fusing the body of a drow with …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Large"
+ ],
+ "skill": [
+  "Arcana +14",
+  "Athletics +12",
+  "Intimidation +14",
+  "Religion +13",
+  "Stealth +15"
+ ],
+ "skill_markdown": "[Arcana](/Skills.aspx?ID=2) +14, [Athletics](/Skills.aspx?ID=3) +12, [Intimidation](/Skills.aspx?ID=7) +14, [Religion](/Skills.aspx?ID=13) +13, [Stealth](/Skills.aspx?ID=15) +15",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 159"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 159</row>",
+ "speed": {
+  "climb": 20,
+  "land": 30,
+  "max": 30
+ },
+ "speed_markdown": "30 feet, climb 20 feet",
+ "speed_raw": "30 feet, climb 20 feet",
+ "spell": [
+  "Clairvoyance",
+  "Suggestion",
+  "Clairaudience",
+  "Dispel Magic",
+  "Levitate",
+  "Darkness",
+  "Faerie Fire",
+  "Dancing Lights",
+  "Detect Magic",
+  "Fireball",
+  "Acid Arrow",
+  "Invisibility",
+  "Magic Missile",
+  "Ray of Enfeeblement",
+  "Ghost Sound",
+  "Mage Hand",
+  "Ray of Frost"
+ ],
+ "spell_markdown": "[Acid Arrow](/Spells.aspx?ID=2), [Clairaudience](/Spells.aspx?ID=39), [Clairvoyance](/Spells.aspx?ID=40), [Dancing Lights](/Spells.aspx?ID=58), [Darkness](/Spells.aspx?ID=59), [Detect Magic](/Spells.aspx?ID=66), [Dispel Magic](/Spells.aspx?ID=78), [Faerie Fire](/Spells.aspx?ID=107), [Fireball](/Spells.aspx?ID=119), [Ghost Sound](/Spells.aspx?ID=132), [Invisibility](/Spells.aspx?ID=164), [Levitate](/Spells.aspx?ID=170), [Mage Hand](/Spells.aspx?ID=177), [Magic Missile](/Spells.aspx?ID=180), [Ray of Enfeeblement](/Spells.aspx?ID=244), [Ray of Frost](/Spells.aspx?ID=245), [Suggestion](/Spells.aspx?ID=315)",
+ "stealth": "15",
+ "strength": 4,
+ "strongest_save": [
+  "will"
+ ],
+ "summary": "The first fleshwarping process mastered by the drow remains both their most successful and most infamous: the drider. Fusing the body of a drow with …",
+ "summary_markdown": "The first fleshwarping process mastered by the drow remains both their most successful and most infamous: the drider. Fusing the body of a drow with …",
+ "text": " Drider The first fleshwarping process mastered by the drow remains both their most successful and most infamous: the drider. Fusing the body of a drow with that of a giant spider, driders are a sexually dimorphic fleshwarp—the only fleshwarp known to be able to produce young. While female driders have the upper torsos of elegant drow women with mouths featuring sharp poisoned fangs, male driders have hideous, mutated countenances that further blend the humanoid form with that of a spider; the difference in appearance is perhaps a reflection on the matriarchal nature of drow society. In combat, all driders are equally dangerous. Although the fleshwarping process was originally intended to be a punishment for drow who fell from grace, the significant powers and strengths gained from the horrifying transformation are attractive to some drow, and an increasing number of lower-ranking citizens in drow cities volunteer themselves for the painful procedure. In return for mandatory time (typically measured in decades) serving as a guardian, soldier, or other public servant, such volunteer driders are later allowed to lead their own lives, typically in caverns located in a city’s periphery. The painful truth is that for most driders, they do not live long enough to see this reward, for the drow have a penchant for working their fleshwarped slaves to death or deploying them in deadly war missions in which survival is a only a remote possibility. Most driders use arcane magic, but driders who use divine magic are well known, while a rare few use occult or primal magic. A drider’s innate spells remain the same regardless of the magical tradition, but those who use different types of magic as prepared spells may well have entirely different spells prepared than the drider presented below. Recall Knowledge - Aberration (Occultism): DC 22 Unspecific Lore : DC 20 Specific Lore : DC 17 Drider Source Bestiary pg. 159 Perception +13; darkvision Languages Elven, Undercommon Skills Arcana +14, Athletics +12, Intimidation +14, Religion +13, Stealth +15 Str +4 Dex +3 Con +3 Int +2 Wis +3 Cha +4 Items Glaive, +1 composite longbow (20 arrows) --- AC 24 Fort +13 Ref +13 Will +15 +1 status to all saves vs. magic HP 95 Immunities sleep --- Speed 30 feet, climb 20 feet Melee Single Action glaive +16 (deadly 1d8, Forceful, reach 10 feet), Damage 1d8+10 slashing Melee Single Action fangs +16, Damage 1d6+10 piercing plus drider venom Ranged Single Action composite longbow +16 (deadly d10, Magical, Propulsive, range increment 100 feet, reload 0, volley 50 feet), Damage 1d8+8 piercing Ranged Single Action web +15 (range increment 30 feet), Damage web trap Arcane Innate Spells DC 20 - Cantrips (3rd) Dancing Lights, Detect Magic - 2nd Darkness (at will), Faerie Fire (at will) - 3rd Clairaudience, Dispel Magic, Levitate - 4th Clairvoyance, Suggestion Arcane Prepared Spells DC 24, attack +17 - Cantrips (3rd) Ghost Sound, Mage Hand, Ray of Frost - 1st Magic Missile (x2), Ray of Enfeeblement - 2nd Acid Arrow, Invisibility - 3rd Fireball Drider Venom (Poison) Saving Throw DC 23 Fortitude; Maximum Duration 6 rounds; Stage 1 1d8 poison damage and enfeebled 1 (1 round) Web Trap A creature hit by a drider’s web attack is immobilized and stuck to the nearest surface (Escape DC 21). ",
+ "trait": [
+  "Aberration",
+  "CE",
+  "Large"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=207",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "fort",
+  "fortitude",
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 15,
+ "wisdom": 3
+}

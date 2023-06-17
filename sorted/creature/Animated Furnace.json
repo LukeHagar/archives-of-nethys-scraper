@@ -1,0 +1,105 @@
+{
+ "ac": 30,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": -5,
+ "constitution": 6,
+ "creature_ability": [
+  "Construct Armor",
+  "Fan the Flames",
+  "Swallow Whole"
+ ],
+ "creature_family": "Animated Object",
+ "creature_family_markdown": "[Animated Object](/MonsterFamilies.aspx?ID=4)",
+ "dexterity": -2,
+ "exclude_from_search": false,
+ "fortitude_save": 21,
+ "hardness": 10,
+ "hardness_raw": "10",
+ "hp": 135,
+ "hp_raw": "135",
+ "id": "creature-1064",
+ "immunity": [
+  "death  effects",
+  "disease",
+  "doomed",
+  "drained",
+  "fatigued",
+  "healing",
+  "mental",
+  "necromancy",
+  "nonlethal  attacks",
+  "paralyzed",
+  "poison",
+  "sickened",
+  "unconscious"
+ ],
+ "immunity_markdown": "[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10),[fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126),[sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\r\n",
+ "intelligence": -5,
+ "language_markdown": "",
+ "level": 9,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Animated Furnace](/Monsters.aspx?ID=1064)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nThis huge forge or oven is animated to protect a workspace or kitchen, travel alongside its owner, or both.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Construct](/Rules.aspx?ID=563)**\r\n([Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4)): DC 26\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 24\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 21\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 9\">[Animated Furnace](/Monsters.aspx?ID=1064)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 18</row>\n\n**Perception** +15; [darkvision](/MonsterAbilities.aspx?ID=12)\r\n\r\n**Languages**\n\n**Skills**\r\n[Athletics](/Skills.aspx?ID=3) +22\r\n\r\n<row gap=\"medium\">\r\n**Str** +7\r\n\r\n**Dex** -2\r\n\r\n**Con** +6\r\n\r\n**Int** -5\r\n\r\n**Wis** +0\r\n\r\n**Cha** -5\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30 (26 when broken); construct armor\r\n\r\n**Fort** +21 \r\n\r\n**Ref** +11 \r\n\r\n**Will** +13 \n\n</row>\r\n\r\n**HP** 135\n\n**Immunities**\r\n[death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [doomed](/Conditions.aspx?ID=9), [drained](/Conditions.aspx?ID=10),[fatigued](/Conditions.aspx?ID=15), [healing](/Traits.aspx?ID=89), [mental](/Traits.aspx?ID=106), [necromancy](/Traits.aspx?ID=117), [nonlethal](/Traits.aspx?ID=188) attacks, [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126),[sickened](/Conditions.aspx?ID=34), [unconscious](/Conditions.aspx?ID=38)\n\n**Construct Armor** Like normal objects, an animated furnace has Hardness. This Hardness reduces any damage the furnace takes by an amount equal to the Hardness. Once an animated furnace is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 26\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 15 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\ndoor +21 ([Magical](/Traits.aspx?ID=103)),\r\n**Damage** 2d12+9 bludgeoning plus 1d8 fire and [Improved Grab](/MonsterAbilities.aspx?ID=27)\n\n**Fan the Flames** <actions string=\"Two Actions\" />  The animated furnace opens its door and fans its flames in a 30-foot cone that deals 5d6 fire damage (DC 28 basic Reflex save).\r\n\r\n**[Swallow Whole](/MonsterAbilities.aspx?ID=35)** <actions string=\"Single Action\" /> ([Attack](/Traits.aspx?ID=15)) Large, 2d8+9 fire, Rupture 15\r\n\r\n</column>\n\n<document level=\"2\" id=\"creature-family-4\" />",
+ "name": "Animated Furnace",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 11,
+ "release_date": "2021-04-07",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n<trait label=\"Mindless\" url=\"/Traits.aspx?ID=108\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 18</row>\r\n\r\n**Creature Family** [Animated Object](/MonsterFamilies.aspx?ID=4)\r\n\r\n<row gap=\"medium\">\r\n**HP** 135\r\n\r\n**AC** 30\r\n\r\n**Fort** +21\r\n\r\n**Ref** +11\r\n\r\n**Will** +13\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis huge forge or oven is animated to protect a workspace or kitchen, travel alongside its owner, or both.\r\n</summary>",
+ "sense": " darkvision ",
+ "sense_markdown": "[darkvision](/MonsterAbilities.aspx?ID=12)",
+ "size": [
+  "Huge"
+ ],
+ "skill": [
+  "Athletics +22"
+ ],
+ "skill_markdown": "[Athletics](/Skills.aspx?ID=3) +22",
+ "source": [
+  "Bestiary 3"
+ ],
+ "source_raw": [
+  "Bestiary 3 pg. 18"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary 3](/Sources.aspx?ID=66) pg. 18</row>",
+ "speed": {
+  "land": 15,
+  "max": 15
+ },
+ "speed_markdown": "15 feet",
+ "speed_raw": "15 feet",
+ "spell_markdown": "",
+ "strength": 7,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "This huge forge or oven is animated to protect a workspace or kitchen, travel alongside its owner, or both.",
+ "summary_markdown": "This huge forge or oven is animated to protect a workspace or kitchen, travel alongside its owner, or both.",
+ "text": " Animated Furnace This huge forge or oven is animated to protect a workspace or kitchen, travel alongside its owner, or both. Recall Knowledge - Construct (Arcana, Crafting): DC 26 Unspecific Lore : DC 24 Specific Lore : DC 21 Animated Furnace Source Bestiary 3 pg. 18 Perception +15; darkvision Languages Skills Athletics +22 Str +7 Dex -2 Con +6 Int -5 Wis +0 Cha -5 --- AC 30 (26 when broken); construct armor Fort +21 Ref +11 Will +13 HP 135 Immunities death effects, disease, doomed, drained,fatigued, healing, mental, necromancy, nonlethal attacks, paralyzed, poison,sickened, unconscious Construct Armor Like normal objects, an animated furnace has Hardness. This Hardness reduces any damage the furnace takes by an amount equal to the Hardness. Once an animated furnace is reduced to fewer than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 26 --- Speed 15 feet Melee Single Action door +21 (Magical), Damage 2d12+9 bludgeoning plus 1d8 fire and Improved Grab Fan the Flames Two Actions The animated furnace opens its door and fans its flames in a 30-foot cone that deals 5d6 fire damage (DC 28 basic Reflex save). Swallow Whole Single Action (Attack) Large, 2d8+9 fire, Rupture 15 ",
+ "trait": [
+  "Construct",
+  "Mindless",
+  "N",
+  "Huge"
+ ],
+ "trait_markdown": "[Construct](/Traits.aspx?ID=35), [Mindless](/Traits.aspx?ID=108)",
+ "trait_raw": [
+  "Construct",
+  "Mindless"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=1064",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "ref",
+  "reflex"
+ ],
+ "weakness": {},
+ "will_save": 13,
+ "wisdom": 0
+}

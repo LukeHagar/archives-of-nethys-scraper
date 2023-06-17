@@ -1,0 +1,98 @@
+{
+ "ac": 21,
+ "alignment": "N",
+ "breadcrumbs_spa": [],
+ "category": "creature",
+ "charisma": 0,
+ "constitution": 4,
+ "creature_ability": [
+  "Gibbering",
+  "All-Around Vision",
+  "Reactive Gnaw",
+  "Burn Eyes",
+  "Engulf",
+  "Ground Manipulation"
+ ],
+ "creature_family_markdown": "",
+ "dexterity": 3,
+ "exclude_from_search": false,
+ "fortitude_save": 15,
+ "hp": 120,
+ "hp_raw": "120",
+ "id": "creature-227",
+ "image": [
+  "/Images/Monsters/GibberingMouther.png"
+ ],
+ "intelligence": -3,
+ "language": [
+  "Aklo"
+ ],
+ "language_markdown": "[Aklo](/Languages.aspx?ID=13)",
+ "level": 5,
+ "markdown": "<title level=\"1\" pfs=\"Standard\">[Gibbering Mouther](/Monsters.aspx?ID=227)</title>\r\n\r\n<row gap=\"medium\">\r\n\r\n<column gap=\"medium\" flex=\"1 1 400px\">\r\n\r\nAmorphous blobs of yammering mouths and oozing, fleshy sludge, gibbering mouthers are among the strangest creatures found either aboveground or below. Perpetually ravenous, these aberrations are always seeking their next meals, ever eating but never sated. With a nominal intelligence, gibbering mouthers can understand and even speak Aklo, but they do so in an intelligible manner only rarely. Instead, their innumerable mouths constantly jabber and babble in a stream of sound that disrupts the thought patterns of other creatures in the area.\n\n Where, how, and why gibbering mouthers originated are questions without answers. They share certain similarities with the much more powerful shoggoths, leading to theories that the two creatures share an origin; less charitable scholars have suggested that the gibbering mouther is instead a mortal’s attempt to create something akin to a shoggoth—though the question of why remains unanswered. Still others believe gibbering mouthers were sent to the world by the gods as a punishment for some forgotten but surely terrible transgression. Gibbering mouthers themselves have little to say on the matter—at least, not in any sort of sense. Scholars have wasted countless hours in attempts to make sense of gibbering mouthers’ noises—studies that put researchers into danger and give results that are contradictory and confusing at best.\n\n Whatever their origin, gibbering mouthers range the entirety of Golarion. Sightings have been recorded in dungeons below ancient cities and ruins as well as many regions of the deeper Darklands layers of Sekamina and Orv. They are somewhat less common in the upper region of Nar-Voth, perhaps due to the prevalence of settlements that don’t tolerate gibbering mouthers’ presence.\r\n\r\n<column gap=\"tiny\">\r\n**[Recall Knowledge - Aberration](/Rules.aspx?ID=563)**\r\n([Occultism](/Skills.aspx?ID=11)): DC 20\r\n\r\n**[Unspecific Lore](/Rules.aspx?ID=563)**: DC 18\r\n\r\n**[Specific Lore](/Rules.aspx?ID=563)**: DC 15\r\n</column>\r\n\r\n</column>\r\n\r\n<column gap=\"medium\">\r\n<image src=\"/images/Monsters/GibberingMouther.png\" />\r\n</column>\r\n\r\n</row>\r\n\r\n<title level=\"2\" right=\"Creature 5\">[Gibbering Mouther](/Monsters.aspx?ID=227)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 176</row>\n\n**Perception** +15; darkvision\r\n\r\n**Languages**\r\n[Aklo](/Languages.aspx?ID=13)\r\n\r\n**Skills**\r\n[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +13\r\n\r\n<row gap=\"medium\">\r\n**Str** +2\r\n\r\n**Dex** +3\r\n\r\n**Con** +4\r\n\r\n**Int** -3\r\n\r\n**Wis** +3\r\n\r\n**Cha** +0\r\n</row>\n\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 21 all-around vision\r\n\r\n**Fort** +15 \r\n\r\n**Ref** +12 \r\n\r\n**Will** +10 \n\n</row>\r\n\r\n**HP** 120\n\n**Weaknesses**\r\nbludgeoning 5\r\n\r\n**Gibbering** ([auditory](/Traits.aspx?ID=16), [aura](/Traits.aspx?ID=206), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [incapacitation](/Traits.aspx?ID=93), [mental](/Traits.aspx?ID=106), [occult](/Traits.aspx?ID=120)) Each creature that begins its turn within 60 feet of a gibbering mouther must attempt a DC 19 Will save. On a failure, they are confused for 1 round. On a success, they are temporarily immune for 1 minute.<br /> **All-Around Vision**<br /> **Reactive Gnaw** <actions string=\"Reaction\" /> **Trigger** An adjacent creature deals the gibbering mouther slashing damage. **Effect** The gibbering mouther’s wound opens into another maw. It makes a jaws Strike against the triggering creature.\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Speed** 10 feet, swim 20 feet\r\n\r\n**Melee**\r\n<actions string=\"Single Action\" />\r\njaws +14 ([Finesse](/Traits.aspx?ID=179)),\r\n**Damage** 2d8+5 piercing plus 1d4 persistent bleed damage and Grab\r\n\r\n**Ranged**\r\n<actions string=\"Single Action\" />\r\nspittle +14 ([range 30 feet](/Traits.aspx?ID=248)),\r\n**Damage** 4d6 acid and burn eyes\n\n**Burn Eyes**   A creature that takes damage from a gibbering mouther’s spittle must succeed at a DC 22 Fortitude save or be [dazzled](/Conditions.aspx?ID=7) for 1 round (or [blinded](/Conditions.aspx?ID=1) for 1 round on a critical failure).\r\n\r\n**[Engulf](/MonsterAbilities.aspx?ID=14)** <actions string=\"Single Action\" />  DC 22, 3d8 piercing, Escape DC 22, Rupture 8\r\n\r\n**Ground Manipulation** <actions string=\"Two Actions\" /> ([Occult](/Traits.aspx?ID=120), [Transmutation](/Traits.aspx?ID=157)) The gibbering mouther causes stone and earth under its body to grow soft and muddy, remaining so for 1 minute after the mouther moves off the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain.\r\n\r\n</column>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_3_Locations.png\">Gibbering Mouther Locations</title>\r\n\r\nGibbering mouthers tend to remain underground, favoring subterranean ruins and the lower layers of the Darklands.\r\n</aside>\r\n\r\n<aside>\r\n<title level=\"2\" noclass=\"true\" icon=\"/images/Icons/Sidebar_5_TreasureAndRewards.png\">Gibbering Mouther Treasure</title>\r\n\r\nWhile gibbering mouthers have little interest in treasure, they are known to consume their prey’s valuables along with the creatures’ flesh. Those treasures which are not themselves digestible remain until the gibbering mouther disgorges them or is destroyed.\r\n</aside>",
+ "name": "Gibbering Mouther",
+ "npc": false,
+ "perception": 15,
+ "pfs": "Standard",
+ "rarity": "common",
+ "reflex_save": 12,
+ "release_date": "2019-08-01",
+ "resistance": {},
+ "search_markdown": "<traits>\r\n<trait label=\"Aberration\" url=\"/Traits.aspx?ID=1\" />\r\n</traits>\r\n\r\n<additional-info>\r\n<row gap=\"tiny\">**Source** [Bestiary](/Sources.aspx?ID=2) pg. 176</row>\n\n<row gap=\"medium\">\r\n**HP** 120\r\n\r\n**AC** 21\r\n\r\n**Fort** +15\r\n\r\n**Ref** +12\r\n\r\n**Will** +10\r\n\r\n**Perception** +15\r\n</row>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAmorphous blobs of yammering mouths and oozing, fleshy sludge, gibbering mouthers are among the strangest creatures found either aboveground or …\r\n</summary>",
+ "sense": "darkvision",
+ "sense_markdown": "darkvision",
+ "size": [
+  "Medium"
+ ],
+ "skill": [
+  "Acrobatics +12",
+  "Athletics +13"
+ ],
+ "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1) +12, [Athletics](/Skills.aspx?ID=3) +13",
+ "source": [
+  "Bestiary"
+ ],
+ "source_raw": [
+  "Bestiary pg. 176"
+ ],
+ "source_category": "Rulebooks",
+ "source_markdown": "<row gap=\"tiny\">[Bestiary](/Sources.aspx?ID=2) pg. 176</row>",
+ "speed": {
+  "land": 10,
+  "max": 20,
+  "swim": 20
+ },
+ "speed_markdown": "10 feet, swim 20 feet",
+ "speed_raw": "10 feet, swim 20 feet",
+ "spell_markdown": "",
+ "strength": 2,
+ "strongest_save": [
+  "fort",
+  "fortitude"
+ ],
+ "summary": "Amorphous blobs of yammering mouths and oozing, fleshy sludge, gibbering mouthers are among the strangest creatures found either aboveground or …",
+ "summary_markdown": "Amorphous blobs of yammering mouths and oozing, fleshy sludge, gibbering mouthers are among the strangest creatures found either aboveground or …",
+ "text": " Gibbering Mouther Amorphous blobs of yammering mouths and oozing, fleshy sludge, gibbering mouthers are among the strangest creatures found either aboveground or below. Perpetually ravenous, these aberrations are always seeking their next meals, ever eating but never sated. With a nominal intelligence, gibbering mouthers can understand and even speak Aklo, but they do so in an intelligible manner only rarely. Instead, their innumerable mouths constantly jabber and babble in a stream of sound that disrupts the thought patterns of other creatures in the area. Where, how, and why gibbering mouthers originated are questions without answers. They share certain similarities with the much more powerful shoggoths, leading to theories that the two creatures share an origin; less charitable scholars have suggested that the gibbering mouther is instead a mortal’s attempt to create something akin to a shoggoth—though the question of why remains unanswered. Still others believe gibbering mouthers were sent to the world by the gods as a punishment for some forgotten but surely terrible transgression. Gibbering mouthers themselves have little to say on the matter—at least, not in any sort of sense. Scholars have wasted countless hours in attempts to make sense of gibbering mouthers’ noises—studies that put researchers into danger and give results that are contradictory and confusing at best. Whatever their origin, gibbering mouthers range the entirety of Golarion. Sightings have been recorded in dungeons below ancient cities and ruins as well as many regions of the deeper Darklands layers of Sekamina and Orv. They are somewhat less common in the upper region of Nar-Voth, perhaps due to the prevalence of settlements that don’t tolerate gibbering mouthers’ presence. Recall Knowledge - Aberration (Occultism): DC 20 Unspecific Lore : DC 18 Specific Lore : DC 15 Gibbering Mouther Source Bestiary pg. 176 Perception +15; darkvision Languages Aklo Skills Acrobatics +12, Athletics +13 Str +2 Dex +3 Con +4 Int -3 Wis +3 Cha +0 --- AC 21 all-around vision Fort +15 Ref +12 Will +10 HP 120 Weaknesses bludgeoning 5 Gibbering (auditory, aura, emotion, enchantment, incapacitation, mental, occult) Each creature that begins its turn within 60 feet of a gibbering mouther must attempt a DC 19 Will save. On a failure, they are confused for 1 round. On a success, they are temporarily immune for 1 minute. All-Around Vision Reactive Gnaw Reaction Trigger An adjacent creature deals the gibbering mouther slashing damage. Effect The gibbering mouther’s wound opens into another maw. It makes a jaws Strike against the triggering creature. --- Speed 10 feet, swim 20 feet Melee Single Action jaws +14 (Finesse), Damage 2d8+5 piercing plus 1d4 persistent bleed damage and Grab Ranged Single Action spittle +14 (range 30 feet), Damage 4d6 acid and burn eyes Burn Eyes A creature that takes damage from a gibbering mouther’s spittle must succeed at a DC 22 Fortitude save or be dazzled for 1 round (or blinded for 1 round on a critical failure). Engulf Single Action DC 22, 3d8 piercing, Escape DC 22, Rupture 8 Ground Manipulation Two Actions (Occult, Transmutation) The gibbering mouther causes stone and earth under its body to grow soft and muddy, remaining so for 1 minute after the mouther moves off the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain. Gibbering Mouther Locations Gibbering mouthers tend to remain underground, favoring subterranean ruins and the lower layers of the Darklands. Gibbering Mouther Treasure While gibbering mouthers have little interest in treasure, they are known to consume their prey’s valuables along with the creatures’ flesh. Those treasures which are not themselves digestible remain until the gibbering mouther disgorges them or is destroyed. ",
+ "trait": [
+  "Aberration",
+  "N",
+  "Medium"
+ ],
+ "trait_markdown": "[Aberration](/Traits.aspx?ID=1)",
+ "trait_raw": [
+  "Aberration"
+ ],
+ "type": "Creature",
+ "url": "/Monsters.aspx?ID=227",
+ "vision": "Darkvision",
+ "weakest_save": [
+  "will"
+ ],
+ "weakness": {
+  "bludgeoning": 5
+ },
+ "weakness_markdown": "bludgeoning 5",
+ "weakness_raw": "bludgeoning 5",
+ "will_save": 10,
+ "wisdom": 3
+}
